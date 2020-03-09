@@ -12,9 +12,9 @@ The present conjugations vary in number and person. For both weak and strong ver
 |:----------|:-------|
 | 1st sing. | -      |
 | 2nd sing. | -s     |
-| 3rd sing. | -t     |
+| 3rd sing. | -þ     |
 | 1st plur. | -m     |
-| 2nd plur. | -      |
+| 2nd plur. | -j     |
 | 3rd plur. | -n     |
 
 The preterite of weak verbs have the following suffixes:
@@ -23,9 +23,9 @@ The preterite of weak verbs have the following suffixes:
 |:----------|:---------|:---------------------------|
 | 1st sing. | -du      | -tu                        |
 | 2nd sing. | -dus     | -tus                       |
-| 3rd sing. | -dut     | -tut                       |
+| 3rd sing. | -duþ     | -tuþ                       |
 | 1st plur. | -dum     | -tum                       |
-| 2nd plur. | -duds    | -tuds                      |
+| 2nd plur. | -duj     | -tuj                       |
 | 3rd plur. | -dun     | -tun                       |
 
 The preterite of strong verbs have the same suffixes are the present.
@@ -60,14 +60,15 @@ https://en.wiktionary.org/wiki/Category:Proto-Germanic_strong_verbs
 
 ### Class `a > i > a`
 
-| Present | Preterite | Participle | Meaning            | Notes                   |
-|:--------|:----------|:-----------|:-------------------|:------------------------|
-| fangan  | fing      | afangn     | to catch           | NL. vangen, HGe. fangen |
-| latan   | lit       | alatn      | to let             | Eng. let, HGe. lassen   |
-| haldan  | hild      | ahaldn     | to hold            |                         |
-| hangan  | hing      | ahangn     | to hang            |                         |
-| þrawan  | þriw      | aþrown     | to throw? to turn? |                         |
-| falan   | fil       | afaln      | to fall            |                         |
+| Present | Preterite | Participle | Meaning  | Notes                   |
+|:--------|:----------|:-----------|:---------|:------------------------|
+| blazan  | blis      | ablazn     | to blow  |                         |
+| falan   | fil       | afaln      | to fall  |                         |
+| fangan  | fing      | afangn     | to catch | NL. vangen, HGe. fangen |
+| haldan  | hild      | ahaldn     | to hold  |                         |
+| hangan  | hing      | ahangn     | to hang  |                         |
+| latan   | lit       | alatn      | to let   | Eng. let, HGe. lassen   |
+| þrawan  | þriw      | aþrown     | to twist |                         |
 
 ### Class `a > u > a`
 
@@ -91,31 +92,40 @@ https://en.wiktionary.org/wiki/Category:Proto-Germanic_strong_verbs
 | bidan   | bat       | abedn      |         | (to request, NL. bidden, HG. bitten) |
 | séhan   | sáh       | aséhn      | to see  |                                      |
 | siten   | sat       | asetn      | to sit  |                                      |
-| etan    | at        | aetn       | to eat  |  |
+| etan    | at        | aetn       | to eat  |                                      |
 
 ### Class `e > a  > o`, `i > a > o`
 
-In Modern English and Modern H. German, these verbs have i > a > u ablaut; in Dutch they have i > a > o ablaut.
+In Modern English and Modern H. German, these verbs have i > a > u ablaut; in Dutch they have i > a > o, or i > o > o ablaut.
 
 https://en.wiktionary.org/wiki/Category:Proto-Germanic_class_3_strong_verbs
 
-| Present  | Preterite  | Participle | Meaning            | Notes                                |
-|:---------|:-----------|:-----------|:-------------------|:-------------------------------------|
-| bindan   | band       | abond      | to bind            |                                      |
-| drinkan  | drank      | adronk     | to drink           |                                      |
-| findan   | fand       | afond      | to find            |                                      |
-| helpan   | halp       | aholp      | to help            |                                      |
-| hringan  | hrang      | ahrong     | to ring            |                                      |
-| niman    | nam        | anom       | to take            |                                      |
-| shitan   | shat       | ashot      | to shit            |                                      |
-| shínan   | shán       | ashón      | to shine, to care? | M. Eng. to shine; M. H. Ger. schönen |
-| singan   | sang       | asong      | to sing            |                                      |
-| spreken  | sprak      | asproken   | to speak           ||
-| springan | sprang     | asprong    | to jump            |                                      |
-| stikan   | stak/staht | astok      | to stick           |                                      |
-| werfan   | warf       | aworf      | to throw           |                                      |
-| werðan   | warþ       | aword      | to become          | NL. worden, H. Ge. werden            |
-| melkan   | malk       | amolk      | to milk (e.g. an animal)          | NL. worden, H. Ge. werden            |
+| Present  | Preterite  | Participle | Meaning                  | Notes                                |
+|:---------|:-----------|:-----------|:-------------------------|:-------------------------------------|
+| bindan   | band       | bond       | to bind                  |                                      |
+| drinkan  | drank      | dronk      | to drink                 |                                      |
+| findan   | fand       | fond       | to find                  |                                      |
+| helpan   | halp       | holp       | to help                  |                                      |
+| hringan  | hrang      | hrong      | to ring                  |                                      |
+| niman    | nam        | nom        | to take                  |                                      |
+| shitan   | shat       | shot       | to shit                  |                                      |
+| shínan   | shán       | shón       | to shine, to care?       | M. Eng. to shine; M. H. Ger. schönen |
+| singan   | sang       | song       | to sing                  |                                      |
+| spreken  | sprak      | sprok      | to speak                 |                                      |
+| stelan   | stal       | stoln      | to steal                 |                                      |
+| springan | sprang     | sprong     | to jump                  |                                      |
+| stikan   | stak/staht | stok       | to stick                 |                                      |
+| hwerfan  | hwarf      | hworf      | to throw                 |                                      |
+| werðan   | warþ       | worþ       | to become                | NL. worden, H. Ge. werden            |
+| melkan   | malk       | molk       | to milk (e.g. an animal) | NL. worden, H. Ge. werden            |
+| sinan    | san        | son        | to ponder                | HG. sinnen                           |
+| griman   | gram       | grom       | to be angry              |                                      |
+| swingan  | swang      | swung      | to swing                 |                                      |
+| stinkan  | stank      | stonk      | to stink                 |                                      |
+| geldan   | gald       | goldn      | to have value            | HG. gelten                           |
+| smeltan  | smalt      | smoltn     | to melt (transitive)     |                                      |
+| meltan   | malt       | moltn      | to melt (intransitive)   |                                      |
+| brekan   | brak       | abrokn     |                          |                                      |
 
 ### Class `i > e > e`
 
@@ -139,6 +149,8 @@ These verbs usually follow a `long i > long o > short i` pattern in English; in 
 
 ### Class `i > o > o`
 
+These stems have an "eu" vowel in the stem in Proto-Germanic.
+
 | Present | Preterite | Participle           | Meaning   | Notes             |
 |:--------|:----------|:---------------------|:----------|:------------------|
 | frízan  | fros/fror | frorn                | to freeze |                   |
@@ -146,28 +158,33 @@ These verbs usually follow a `long i > long o > short i` pattern in English; in 
 | slítn   | slót      | aslotn               | to close  |                   |
 | lízn    | lor       | alorn                | to solve  | ferlízn: to loose |
 | witan   | wost      | awoten **IRREGULAR** |           |                   |
-| shítan  | shot      | shotn                |           |                   |
+| shítan  | shot      | shotn                | to shoot  |                   |
+| kízan   | kos       | akorn                |           |                   |
+| tewhan  | to        | akorn                |           |                   |
 
 ### Class `o > a > o`
 
-- kwoman > kwam > akwomn (to come)
+| kwoman | kwam | akwomn | to come | |
 
 ### Class `o > i > o`
 
-- hlópan > hlíp > ahlópn (to leap, to walk, HG. laufen)
-- stotan > stit > astotn (to push, HG. stützen)
+| Present | Preterite | Participle | Meaning | Notes       |
+|:--------|:----------|:-----------|:--------|:------------|
+| hlópan  | hlíp      | ahlópn     | to run  | HG. laufen  |
+| stotan  | stit      | astotn     | to push | HG. stützen |
 
 ## Rückumlaut verbs
 
 Rückumlaut verbs are weak verbs that exhibit a vowel change in the stem in the preterite form. They derive from Proto-Germanic -ijaną  verbs. Some of them are causative verbs, as in English "fell" i.e. to cause to fall.
 
-| Present  | Past      |Meaning| Notes |
-|:---------|:----------|:-|:- |
-| bringan  | brahtu     |to bring| Germanic Spirant Law |
-| felan    | afaldu     |to fell; to cause to fall| |
-| telan    | taldu      || Germanic Spirant Law |
-| þenkan   | þahtu      |to think| Germanic Spirant Law |
-| fregan   | frahdu    | to ask | HG. fragen |
+| Present | Past   | Meaning                   | Notes                |
+|:--------|:-------|:--------------------------|:---------------------|
+| bringan | bragdu | to bring                  | Germanic Spirant Law |
+| felan   | afaldu | to fell; to cause to fall |                      |
+| telan   | taldu  |                           | Germanic Spirant Law |
+| þenkan  | þahtu  | to think                  | Germanic Spirant Law |
+| fregan  | frahdu | to ask                    | HG. fragen           |
+| segan   | sagdu  |                           |                      |
 
 ## Common verbs
 
@@ -176,17 +193,17 @@ Rückumlaut verbs are weak verbs that exhibit a vowel change in the stem in the 
 English: to be.
 
 | Infinitive | Imperative | Present Participle | Past Participle |
-|:-----------|:-----------|:------------------|:---------------|
-| sín        | wés        | wésing            | wesen          |
+|:-----------|:-----------|:-------------------|:----------------|
+| sín        | wés        | wésing             | wesen           |
 
-| Present  | Past      |
-|:---------|:----------|
-| ek byn   | ek was    |
-| ðu byst  | ðu wast   |
-| he/si is | he/si was |
-| we synd  | we werem  |
-| je syd   | je wert   |
-| ðé ár    | ðé wéren  |
+| Present  | Past       |
+|:---------|:-----------|
+| ek byn   | ek war     |
+| ðu byst  | ðu wars    |
+| he/si is | he/si warþ |
+| we synd  | we warm    |
+| je syd   | je warj    |
+| ðé ár    | ðé warn    |
 
 #### Háfn
 

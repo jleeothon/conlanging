@@ -2,16 +2,16 @@
 
 ## Personal pronouns
 
-| Nominative | Oblique | Genitive  |
-|:-----------|:---------|:----------|
-| ek         | mi       | min      |
-| ðu         | ði       | din      |
-| he         | hem, sih | hes, sin |
-| si         | her, sih | her, sin |
-| ðet        | ðet, sih | her, sin |
-| wi         | ons      | her, sin |
-| je         | ju       | jes      |
-| ðé         | ðem, sih | der, sin |
+| Nominative | Oblique   | Genitive  |
+|:-----------|:----------|:----------|
+| ik         | mih       | min      |
+| þu         | þih       | din      |
+| he         | hem, sih  | hes, sin |
+| se         | hen, sih  | her, sin |
+| þet        | þet, sih  | þes, sin |
+| wi         | ons       | her, sin |
+| je         | juh       | jes      |
+| þé         | þem, sih  | þer, sin |
 
 Indeterminate pronoun (e.g. English "one"): én, sih
 
@@ -23,8 +23,8 @@ hwa, hwad, hwads
 
 ## Relative pronouns
 
-For people, emphatic or formal: hwo, hwom, hwos
+For people, emphatic or formal: hwo, hwom, hwos.
 
-For common nouns: ðe, ðem, ðes
+For common nouns: þe, þem, þes
 
-For neuter nouns: ðet, ðet, ðets
+For neuter nouns: þet, þet, þets
