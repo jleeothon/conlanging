@@ -124,7 +124,6 @@ Proto-Germanic class 3 and class 4 strong verbs. Class 3 verbs have the ablaut v
 | melkan   | malk      | molk       | to milk       | NL. worden, H. Ge. werden |
 | meltan   | malt      | moltn      | to melt       |                           |
 | niman    | nam       | nom        | to take       |                           |
-| shitan   | shat      | shot       | to shit       |                           |
 | sinan    | san       | son        | to ponder     | HG. sinnen                |
 | singan   | sang      | song       | to sing       |                           |
 | smeltan  | smalt     | smoltn     | to melt       |                           |
