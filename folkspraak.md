@@ -1,4 +1,4 @@
-# New Folkspraak
+# New Conlang1
 
 ## Introduction
 
@@ -31,19 +31,6 @@ In comparison with other languages:
 
 ## Vocabulary
 
-### Pronouns
-
-| Personal | Oblique | Genitive |
-|:---------|:--------|:---------|
-| Ik       | Mi      | Min      |
-| Du       | Di      | Din      |
-| He       | hem, si | Hes, Sin |
-| Si       | her, si | Her, Sin |
-| Det      | her, si | Her, Sin |
-| Wi       | Her     | Her, Sin |
-| Je       | Ju      | Jes      |
-| Ðej      | Ðem, Si | Der, Sin |
-
 ### Prepositions
 
 - án
@@ -75,7 +62,7 @@ hwen
 
 ### Common Nouns
 
-| English    | Folkspraak |
+| English    | Conlang1 |
 |:-----------|:-----------|
 | case       | fal        |
 | child      | barn       |
@@ -105,7 +92,7 @@ hwen
 
 #### Time
 
-| English   | Folkspraak  |
+| English   | Conlang1  |
 |:----------|:------------|
 | afternoon | aftermiddag |
 | day       | dag         |
@@ -122,7 +109,7 @@ hwen
 
 #### Jobs
 
-| English  | Folkspraak |
+| English  | Conlang1 |
 |:---------|:-----------|
 | baker    | bákar      |
 | driver   |            |
@@ -133,7 +120,7 @@ hwen
 
 #### Prepositions
 
-| English | Folkspraak |
+| English | Conlang1 |
 |:--------|:-----------|
 | to      | tu         |
 | on      | an         |
