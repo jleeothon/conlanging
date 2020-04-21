@@ -1,0 +1,94 @@
+= Pronouns, articles, and determiners
+
+.Definite articles
+
+|===
+| Nominative | Oblique | Genitive
+
+| ðen        | ðet     | ðes
+|===
+
+.Indefinite articles
+
+|===
+| Nominative | Oblique | Genitive
+
+| én         | énn     | éns
+|===
+
+.First and second person pronouns
+
+|===
+| Person | Nominative | Oblique | Genitive
+
+| 1 sg.  | ik         | mih     | mín
+| 2 sg.  | þu         | þih     | dín
+| 1 pl.  | wi         | ons     | ons
+| 2 pl.  | je         | juh     | jes
+|===
+
+.Third-person personal pronouns
+
+[cols="2,1,1,1,1"]
+|===
+| Person  | Nom. | Obl. | Refl. | Gen.
+
+| Sg. male  | he | hem | sih | hes
+| Sg. female | se | hen | sih | her
+| Pl. | þé | þém | sih | þér
+|===
+
+.Third-person impersonal pronouns
+
+[cols="2,1,1,1,1,1"]
+|===
+| | Nom. | Obl. | Refl. | Gen. | Notes
+
+| Sg. general | et | et | sih | ets |
+| Sg. close | ðit | ðit | sih | ðits | 1
+| Sg. far | ðat | ðat | sih | ðats | 1
+| Pl. close | ðís | ðízn | sih | ðíss | 1
+| Pl. far | ðás | ðázn | sih | ðáss | 1
+| Indefinite | én | énn | sih | éns | 2
+| Dummy pronoun | er | | | | 3
+|===
+
+Notes:
+
+1. Also work as demostrative pronouns.
+2. Meaning "`one`", as in, "`one does not simply talk`".
+3. Used for "`weather`" constructions like _er regnð_ ("`it rains`"), or "`es is`" ("`there is`").
+
+.Interrogative pronouns
+
+|===
+| Nominative | Oblique | Meaning | Notes
+
+| hwe | hwem | who | Also relative pronoun
+| hwa | hwat | what |
+| hwilk | hwilkt | which |
+|===
+
+.Interrogative adverbs and derived pronouns
+
+|===
+| | Meaning
+
+| hwor | where
+| hwan | when
+| hwí | how
+|===
+
+Interrogative adverbs may be combined with prepositions to form interrogative pronouns or relative pronouns (e.g. _until when_, _whereto_).
+As relative pronouns, they have the preposition suffixed e.g. _Hwor hl_.
+
+== Other
+
+|===
+|Positive | Meaning | Negative | Meaning | Notes
+
+| énig | some | nénig | none | Also as pronoun
+| ójts  | sometime | nójts | never |
+| hwergns | somewhere | nwergns | nowhere |
+| ewiht | something | newiht | nothing |
+|===

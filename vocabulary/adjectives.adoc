@@ -1,0 +1,15 @@
+= Adjectives
+
+Adjectives have no agreement with the nouns.
+
+== Comparative and superlative
+
+|===
+| Suffix | Meaning | Example | Meaning
+
+| -hæft  | having | |
+| -ish | like | |
+| -lós | lacking | |
+| -nd | doing (present participle) | |
+| -n | material | holtn | wooden |
+|===

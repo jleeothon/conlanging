@@ -1,0 +1,186 @@
+# Word-building
+
+## Vowels
+
+These rules govern the choice of vowel for a lemma. Any ablaut and i-umlaut forms follow their own rules, explained in the respective sections about e.g. nouns and verbs.
+
+The vowel of a lemma is chosen according to the form of the same lemma in Proto-Germanic.
+
+Summary:
+
+| Vowel    | Example noun    |
+|:---------|:----------------|
+| i → i    | skipą → ship    |
+| u → o    | wulfaz → wolf   |
+| e → e    | hertô → hert    |
+| a → a    | grasą → gras    |
+| ī -> ei  |                 |
+| ū -> ú   |                 |
+| ē -> á   | lētaną → latan  |
+| ō -> ó   | blōþa → blóþ    |
+| ei -> ?  |                 |
+| ai -> ej | stainaz → stein |
+| eu -> eu |                 |
+| au -> au |                 |
+
+With i-umlaut:
+
+| Short | Long   | Glide   |
+|:------|:-------|:--------|
+| i → i | ī -> í | ei -> í |
+| u → o | ū -> ú | ai -> é |
+| e → e | ē -> é | eu -> í |
+| a → a | ō -> ó | au -> ó |
+
+### Short vowels
+
+PGe "i" --> "i":
+
+| PGe       | CL    | DE    | NL    | EN    | OEn    |
+|:----------|:------|:------|:------|:------|:-------|
+| blindaz   | blind | blind | bline | bline | blind  |
+| stillijaz | blind | still | stil  | still | stille |
+
+PGe "u" --> "o":
+
+| PGe    | CL   | DE    | NL   | EN     | OEn   |
+|:-------|:-----|:------|:-----|:-------|:------|
+| hrussą | hros | Ross  | ros  | horse  | hors  |
+| tungǫ  | tong | Zunge | tong | tongue | tunge |
+| wulfaz | wolf | Wolf  | wolf | wolf   | wulf  |
+| kussaz | kos  | Kuss  | kus  | kiss   | coss  |
+
+PGe "u" with i-umlaut --> "y":
+
+| PGe     | CL   | DE     | NL   | EN     | OEn   |
+| hrugjaz | hryg | Rücken | rug  | ridge  | hryċġ |
+
+PGe "e" --> "e":
+
+| PGe    | CL    | DE      | NL     | EN    | OEn    |
+|:-------|:------|:--------|:-------|:------|:-------|
+| erþō   | erþ   | Erde    | aard   | earth | eorþe  |
+| swerdą | zwerd | Schwert | zwaard | sword | sweord |
+| melwą  | mel   | Mehl    | meel   | meal  | melu   |
+
+PGe "a" --> "a" /a/:
+
+| PGe   | CL   | DE   | NL   | EN    | OEn  |
+|:------|:-----|:-----|:-----|:------|:-----|
+| grasą | gras | Gras | gras | grass | græs |
+| dagaz | dag  | Tag  | dag  | day   | dæġ  |
+
+### Long vowels
+
+PGe "ai" --> "é" /eː/:
+
+| PGe     | CL   | DE    | NL    | EN    | OEn  |
+|:--------|:-----|:------|:------|:------|:-----|
+| stainaz | stén | Stein | steen | stone | stān |
+| gaits   | gét  | Geiß  | geet  | goat  | gāt  |
+
+PGe "au" --> "ow" /ou/:
+
+| PGe      | CL      | DE     | NL    | EN   | OEn     |
+|:---------|:--------|:-------|:------|:-----|:--------|
+| hlaupaną | hlowpan | laufen | lopen | leap | hlēapan |
+| flauhaz  | flowh   | Floh   | vlo   | flea | flēah   |
+| fraujǫ   | frow    | Frau   | vrouw |      | frēo    |
+
+PGe "au" with i-umlaut --> "øw" /œy̯/:
+
+| PGe         | CL      | DE     | NL              | EN   | OEn      |
+|:------------|:--------|:-------|:----------------|:-----|:---------|
+| staurijanan | støwran | stören | storen, steuren | stir | styrian? |
+| hauzijaną   | høwzan  | hören  | horen           | hear | hȳran    |
+
+PGe "ē" --> "á":
+
+| PGe    | CL    | DE     | NL    | EN   | OEn   |
+|:-------|:------|:-------|:------|:-----|:------|
+| lētaną | látan | lassen | laten | let  | lǣtan |
+| sēdiz  | sád   | Saat   | zaad  | seed | sǣd   |
+
+PGe "eu" --> "í":
+
+| PGe     | CL     | DE     | NL     | EN     | OEn    |
+|:--------|:-------|:-------|:-------|:-------|:-------|
+| keuseną | kízan  | kiesen | kizen  | choose | ċēosan |
+| beutaną | bítan  | bieten | bieden | bid    | bēodan |
+| leuhtą  | líhtan | Lichrt | licht  | light  | lēoht  |
+
+PGe "ī" --> "í":
+
+| PGe     | CL     | DE       | NL       | EN    | OEn    |
+|:--------|:-------|:---------|:---------|:------|:-------|
+| skīnaną | sheinan | scheinen | schijnen | shine | scīnan |
+| swīnaz  | swein   | Schwein  | zwijn    | swine | swīn   |
+
+PGe "ō" --> "ó":
+
+| PGe    | CL   | DE   | NL    | EN    | OEn  |
+|:-------|:-----|:-----|:------|:------|:-----|
+| blōþą  | blóþ | Blut | bloed | blood | blōd |
+| flōduz | flód | Flut | vloed | flood | flōd |
+| kōlaz  | kól  | kühl | koel  | cool  | cōl  |
+
+PGe "ō" with i-umlaut --> "ǿ":
+
+| PGe      | CL    | DE     | NL     | EN   | OEn   |
+|:---------|:------|:-------|:-------|:-----|:------|
+| fōlijaną | fǿlan | fühlen | voelen | feel | fēlan |
+
+PGe "ū" --> "ú":
+
+| PGe   | CL  | DE   | NL   | EN    | OEn |
+|:------|:----|:-----|:-----|:------|:----|
+| fūlaz | vúl | faul | vuil | foul  | fūl |
+| hūdiz | húd | Haut | huid | hide  | hȳd |
+| hūsą  | hús | Haus | huis | house | hūs |
+| kūz   | kú  | Kuh  | koe  | cow   | cū  |
+
+## Consonants
+
+### Alternations
+
+"ð" and "þ" alternate:
+
+- "ð" in initial position,
+- "ð" in medial position between voiced sounds,
+- "þ" elsewhere.
+
+"v" and "f" alternate:
+
+- "v" between two voiced sounds in medial position,
+- "f" elsewhere.
+
+"z" and "s" and "r" alternate:
+
+- "z" in medial position between vowels,
+- "r" between a vowel and n (in verb paradigms).
+- "s" elsewhere,
+
+Composite words follow spelling rules individual words i.e., voiceless variants are at the end of words even if the next word begins with a voiced sound.
+
+## Verbs
+
+## Inseparable prefixes
+
+**g-.** Usually indicates "together with", or perfective aspect. It is cognate with High German "ge-", and Latin "cum-", and analogous with High German "mit-".
+
+- **
+
+**b-.** Usually indicates . Sometimes prependable to nouns. Verb is usually transitive. Examples:
+
+**fr-.** Usually indicates a notion of "forward" or "until completion". Examples:
+
+- _etan_ --> _fretan_ "to eat" --> "to devour"
+- _geban_ --> _frgeban_ "to give" --> "to forgive"
+
+**to-.** Indicates a
+
+**anþ-, anð-, amf-** Indicates opposition or reversion. Examples:
+
+- _anþĺækan_, from _þak_ "to"
+
+- ontsw
