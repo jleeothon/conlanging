@@ -1,0 +1,29 @@
+= Preterite-present verbs
+
+These include verbs that were preterite-present verbs in PGe plus the descendant of _wiljaną_.
+
+Summary:
+
+[cols="1,1,1,1,2"]
+|===
+| Infinitive | Sg. present stem | Pl. present stem | Past | Meaning
+
+| ǽgn | ǽg- | ǽg- | oht- | to own
+| dygn | dóg- | dyg- | duhd- | to be fit or useful
+| dyrzn | dars- | dyrz- | dursd- | to dare
+| gnygn | gnag- | gnyg- | gnuhd- | to be enough (includes g-)
+| gynn | gan- | gyn- | gund- | to allow (includes g-)
+| kynn | kan- | kyn- | kund- | to be able to
+| møgn | mag- | møg- | mohd- | to be allowed to
+| munn | man- | myn- | mund- | to believe that
+| mytn | mut- | myt- | must- | to have to
+| skyln | skal- | skyl- | skuld- | (Indicates future or conditional)
+| witn | wǽt- | wit- | wust- | to know that
+| wyln | wil- | wyl- | wuld- | to want
+| þyrvn | þarv- | þyrv- | þurfd- | to need
+| ógn | ag- | og- | ohd | to fear
+|===
+
+The present preterite is formed with the infinitive + d.
+
+These verbs can only be followed by verbal phrases, not by noun phrases.

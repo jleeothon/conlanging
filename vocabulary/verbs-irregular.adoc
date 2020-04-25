@@ -89,7 +89,7 @@ Meaning "to go".
 
 .wyln
 
-This verb ressembles a preterite-present verb in that the present pural has a different stem than the present singular.
+This verb ressembles a preterite-present verb in that: the present pural has a different stem than the present singular.
 
 |===
 | Infinitive | Imperative | Active Part. | Passive Part.
