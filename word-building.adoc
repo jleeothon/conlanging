@@ -8,20 +8,39 @@ The vowel of a lemma is chosen according to the form of the same lemma in Proto-
 
 Summary:
 
-| Vowel    | Example noun    |
-|:---------|:----------------|
-| i → i    | skipą → ship    |
-| u → o    | wulfaz → wolf   |
-| e → e    | hertô → hert    |
-| a → a    | grasą → gras    |
-| ī -> ei  |                 |
-| ū -> ú   |                 |
-| ē -> á   | lētaną → latan  |
-| ō -> ó   | blōþa → blóþ    |
-| ei -> ?  |                 |
-| ai -> ej | stainaz → stein |
-| eu -> eu |                 |
-| au -> au |                 |
+|===
+| PGe.| Conlang1 | Ex. noun PGe. | Conlang1 | Notes
+
+5+| Short vowels
+| i | i | skipą  | ship |
+| u | o | wulfaz | wolf |
+| e | e | hertô  | hert |
+| a | a | aplaz  | apl  |
+
+5+| Long vowels
+| ī | ei | lībą  | leif |
+| ū | ú  | hūsą  | hús |
+| ē | á  | sēdiz | sád |
+| ō | ó  | fōts  | fót |
+
+5+| Diphthongs
+| ai | ai | stainaz | stain |
+| eu | eu | leuhtą | leuht | light
+| au | au  | augô | aug |
+
+5+| Short vowels with umlaut
+| u+i  | ø | wulfis | wølfr |
+| a+i  | æ | aplis  | æplr  |
+
+5+| Long vowels with umlaut
+| ū+i  | ý  | hūsis | hýsr |
+| ō+i  | ǿ  | fōtiz | fǿtr | feet (pl.)
+
+5+| Diphthongs with umlaut
+| eu+i | í | |
+| ai+i | ǽ | |
+| au+i |  | braudą |
+|===
 
 With i-umlaut:
 

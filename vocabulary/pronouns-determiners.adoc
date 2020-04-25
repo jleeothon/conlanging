@@ -5,7 +5,7 @@
 |===
 | Nominative | Oblique | Genitive
 
-| ðen        | ðet     | ðes
+| þen        | þet     | þes
 |===
 
 .Indefinite articles
@@ -21,10 +21,10 @@
 |===
 | Person | Nominative | Oblique | Genitive
 
-| 1 sg.  | ik         | mih     | mín
-| 2 sg.  | þu         | þih     | dín
-| 1 pl.  | wi         | ons     | ons
-| 2 pl.  | je         | juh     | jes
+| 1 sg.  | ik         | mik     | mín
+| 2 sg.  | þu         | þik     | þín
+| 1 pl.  | we         | ons     | onṙ
+| 2 pl.  | je         | jok     | jór
 |===
 
 .Third-person personal pronouns
@@ -33,7 +33,7 @@
 |===
 | Person  | Nom. | Obl. | Refl. | Gen.
 
-| Sg. male  | he | hem | sih | hes
+| Sg. male | he | hem | sih | hes
 | Sg. female | se | hen | sih | her
 | Pl. | þé | þém | sih | þér
 |===
@@ -44,13 +44,12 @@
 |===
 | | Nom. | Obl. | Refl. | Gen. | Notes
 
-| Sg. general | et | et | sih | ets |
-| Sg. close | ðit | ðit | sih | ðits | 1
-| Sg. far | ðat | ðat | sih | ðats | 1
-| Pl. close | ðís | ðízn | sih | ðíss | 1
-| Pl. far | ðás | ðázn | sih | ðáss | 1
-| Indefinite | én | énn | sih | éns | 2
-| Dummy pronoun | er | | | | 3
+| Sg. general   | et  | et   | sih | ets  |
+| Sg. close     | þit | þit  | sih | þits | 1
+| Sg. far       | þat | þat  | sih | þats | 1
+| Pl. close     | þís | þízṅ | sih | þísṡ | 1
+| Pl. far       | þás | þázṅ | sih | þásṡ | 1
+| Indefinite    | én  | énṅ  | sih | éns  | 2
 |===
 
 Notes:
@@ -58,6 +57,10 @@ Notes:
 1. Also work as demostrative pronouns.
 2. Meaning "`one`", as in, "`one does not simply talk`".
 3. Used for "`weather`" constructions like _er regnð_ ("`it rains`"), or "`es is`" ("`there is`").
+
+.Dummy pronoun
+
+The dummy pronoun "`er`" is used as dummy subject for constructions like "there is", descriptions about weather, temperature.
 
 .Interrogative pronouns
 

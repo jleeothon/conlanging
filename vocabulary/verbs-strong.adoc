@@ -1,0 +1,244 @@
+= Strong verbs
+
+== Class 1
+
+These verbs have an "ī" stem in PGe, derived from a "ey" stem in PIE.
+
+More info: https://en.wiktionary.org/wiki/Category:Proto-Germanic_class_1_strong_verbs
+
+[cols="1,1,1,1,2"]
+|===
+| Present  | Preterite | Participle | Meaning | Notes
+
+| streikan | straik- | strekn  | to strike |
+| reizan   | raiz-   | rern    | to rise |
+| hreitan  | hrait-  | hretn   | to scratch | En. _write_, HG. _reißen_
+| spleitan | splait- | spletn  | to split   |
+| greipan  | graip-  | grepn   | to grab    |
+| sheinan  | shain-  | shenn   | to shine   |
+| sneiðan  | snaið-  | sneðn   | to cut     |
+| bleivan  | blaiv-  | blevn   | to stay    |
+| sneiwan  | snaiw-  | snewn   | to snow    |
+| streidan | straid- | stredn  | to quarrel |
+| sheitan  | shait-  | shetn   | to shit    |
+| gleidn
+| reidan  | raid-  | ridn   | to ride    |
+|===
+
+== Class 2
+
+These verbs have an "eu" or "ū" stem in Proto-Germanic.
+
+More info: https://en.wiktionary.org/wiki/Category:Proto-Germanic_class_2_strong_verbs
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning   | Notes
+
+| beutn  | baut-  | botn  | to offer  |
+| fleugn | flaug- | flogn | to fly    |
+| freuzn | fraus- | frozn | to freeze |
+| geutn  | gaut-  | gotn  | to pour   |
+| keuzn  | kauz-  | korn  | to choose |
+| leuzn  | lauz-  | lorn  | to lose   |
+| skeutn | skaut- | skotn | to shoot  |
+| sleutn | slaut- | slotn | to close  |
+| teuhn  | tauh-  | tohn  | to pull   | HG. ziehen
+| dreupn | draup  | dropn | to drip   |
+| beugn  | baug | bogn | to bend (intr)
+|===
+
+"ú" stems:
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning | Notes
+
+| dúkan   | daukan    | dokn       | to duck |
+| dúvan   | daufan    | dofn       | to dive |
+| súgan   | saugan    | sogn       | to suck |
+| lúkan   | laukan    | lokn       | to lock | See _sleutan_
+|===
+
+== Class 3-4
+
+Derived from Proto-Germanic class 3 and class 4 strong verbs. Class 3 verbs have the ablaut vowel followed by a consonant cluster. Class 4 verbs have the ablaut vowel followed by a sonorant consonant (m, n, l, r) and no other consonant.
+
+For class 3-4 verbs, "i" precedes "m" or "n", whereas "e" precedes "l" or "r".
+
+Exceptions include: brekan, stekan, sprekan.
+
+More info:name: value
+
+- https://en.wiktionary.org/wiki/Category:Proto-Germanic_class_3_strong_verbs
+- https://en.wiktionary.org/wiki/Category:Proto-Germanic_class_4_strong_verbs
+
+Class 3-4 "i" stems:
+
+[cols="1,1,1,1,2"]
+|===
+| Present  | Preterite | Participle | Meaning         | Notes
+
+| bindan   | bandan    | bundn      | to bind         |
+| brinnan  | brannan   | brunnn     | to burn (intr.) |
+| drinkan  | drankan   | drunkn     | to drink        |
+| findan   | fandan    | fundn      | to find         |
+| grimman  | gramman   | grummn     | to be angry     |
+| hringan  | hrangan   | hrungn     | to ring         |
+| sinnan   | sannan    | sunnn      | to ponder       | HG. sinnen
+| singan   | sangan    | sung       | to sing         |
+| springan | sprangan  | sprungn    | to jump         |
+| stikan   | stakan    | stukn      | to stick        |
+| stinkan  | stankan   | stunk      | to stink        |
+| swingan  | swangan   | swung      | to swing        |
+|===
+
+Class 3-4 "e" stems:
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning     | Notes
+
+| brekan  | brakan    | brokn      | to break    | Note: has no r- or l- cluster.
+| geldan  | galdan    | goldn      | to be worth | HG. gelten
+| helpan  | halpan    | holpn      | to help     |
+| hwerfan | hwarfan   | hworvn     | to throw    |
+| kwemman  | kwamman    | kwommn      | to come     |
+| melkan  | malkan    | molkn      | to milk     | HG. werden
+| meltan  | maltan    | moltn      | to melt     |
+| nemman   | namman     | nommn       | to take     |
+| smeltan | smaltan   | smoltn     | to melt     |
+| spreken | sprakan   | sprokn     | to speak    | Note: has no r- or l- cluster.
+| stelan  | stalan    | stoln      | to steal    |
+| sterban | starb   | storben     | to speak    |
+| swellan  | swallan    | swolln      | to swell    |
+| werðan  | warþan    | worþ       | to become   | HG. werden
+|===
+
+== Class 5
+
+These verbs have a stem followed by a consonant other than m/n/l/r.
+
+More info: https://en.wiktionary.org/wiki/Category:Proto-Germanic_class_5_strong_verbs
+
+Class 5 "e" stems:
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning    | Notes
+
+| etan    | atan      | etn        | to eat     |
+| geban   | gaban     | gebn       | to give    |
+| getan   | gatan     | getn       | to get     |
+| lezan   | lazan     | lezn       | to read    |
+| metan   | matan     | metn       | to measure |
+| plehan  | plahan    | plehn      | to commit  | HG. pflegen, Pflicht
+| sehan   | sahan     | sehn       | to see     |
+| wrekan  | wrakan    | wrekn      | to punish  | En. wreak, HG. rächen
+| knedan  | knadan    | knedn      | to knead   | PGe. irregular 4
+|===
+
+Class 5 "i" stems:
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning | Notes
+
+| bidan   | batan     | bidn       | to beg  | HG. bitten
+| siten   | satan     | sitn       | to sit  |
+| ligan   | lagan     | lign       | to lie  | HG. liegen
+|===
+
+== Class 6
+
+https://en.wiktionary.org/wiki/Category:German_class_6_strong_verbs
+
+Contains verbs with an "`a`" stem, except if followed by a sonorant (j/w/m/n/l/r) plus another consonant, which belonged to class 7.
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning    | Notes
+
+| bakan   | búk       | bakn       | to bake    |
+| dragan  | drúg      | dragn      | to carry   |
+| faran   | fúran     | farn       | to drive   |
+| graban  | grúban    | grabn      | to dig     |
+| hlaðan  | hlúðan    | hlaðn      | to load    |
+| malan   | múlan     | maln       | to grind   |
+| wahsan  | wúhsan    | wahsn      | to grow    |
+| slahan  | slúhan    | slahn      | to hit     | HG. schlagen
+| wakan   | wúkan     | wakn       | to wake up | Intr. See wækan
+| shakan  | shúk      | shakn      | to shake |
+|===
+
+== Class 7
+
+In PGe, these verbs had reduplication in the past tense. We don't do that here.
+
+https://en.wiktionary.org/wiki/Category:Proto-Germanic_class_7_strong_verbs
+
+"ai" stems:
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning     | Notes
+
+| haitan  | hit  | hetn       | to be named |
+| swaipan | sweip | swepn      | to swipe |
+| swaipan | sweip | swepn      | to swipe |
+| skaiðan | skeið | skeðn      | to separate |
+| hétan   | hít   | hétn       | to be named | PGe. haitaną              |
+|===
+
+"au" stems:
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning     | Notes                     |
+
+| haldan  | hild      | haldn | to hold     | PGe. haldaną              |
+| hlópan  | hlíp      | hlópn | to run      | PGe. hlaupaną             |
+| latan   | lit       | latn  | to let      | PGe. lētaną               |
+| slápan  | slíp      | slapn | to sleep    | PGe. slēpaną              |
+| stótan  | stit      | stótn | to push     | HG. stützen               |
+| þrawan  | þriw      | þrawn | to twist    | En. to throw, HGe. drehen |
+|===
+
+a[mnlr]V stems:
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning     | Notes
+
+| bannan | binn | bannn | to ban |
+| spannan | spinn  | spannn | to span |
+| blandan | blind  | blandn | to blend |
+| hangan | hing  | hangn | to hang | PGe. hanhaną
+| fangan | fing | fangn | to catch | PGe. fanhaną |
+
+| fallan | fell  | falln | to fall |
+| haldan | held | haldn | to hang |
+|===
+
+aV stems:
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning     | Notes
+
+| blazan  | blís      | blazn      | to blow     |
+| slapan  | slíp      | slapn      | to sleep     |
+| radan  | rid      | radn      | to advise     |
+| bratan  | brít      | bratn      | to advise     |
+| bratan  | brít      | bratn      | to advise     |
+|===
+
+[cols="1,1,1,1,2"]
+|===
+| Present | Preterite | Participle | Meaning     | Notes
+
+| blowan |  bliw | blown | to flower |
+| hropan | hrip | hropn | to call |
+| hlowan | hliw | hlown | to shout |
+| growan | griw | grown | to grow (intr., for plants) |
+|===

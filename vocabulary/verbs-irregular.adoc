@@ -1,0 +1,110 @@
+= Irregular verbs
+
+There are five irregular verbs: ween, gán, dón, hævn, wyln.
+
+Of _hævn_ and _dón_ can be considered truly irregular, and the other, supletive.
+
+.wín
+
+Meaning to be.
+
+|===
+| Infinitive | Imperative | Present Part. | Past Part
+
+| wín | wés | wesnd | wesn
+|===
+
+|===
+| Person | Present | Past
+
+| 1 sg | im  | was
+| 2 sg | irs | wars
+| 3 sg | is  | was
+| 1 pl | sim | warmd
+| 2 pl | sid | ward
+| 3 pl | sin | warn
+|===
+
+.hævn
+
+Meaning "to have".
+
+|===
+| Infinitive | Imperative | Active Part. | Passive Part.
+
+| hævn | hæf | hævnd | hæfd
+|===
+
+|===
+| Person | Present | Past
+
+| 1 sg | hæfw | had
+| 2 sg | hæfs | hads
+| 3 sg | hæft | had
+| 1 pl | hævm | hadm
+| 2 pl | hæfd | hadd
+| 3 pl | hævn | hadn
+|===
+
+.gán
+
+Meaning "to go".
+
+|===
+| Infinitive | Imperative | Active Part. | Passive Part.
+
+| gán | gá | gánd | gán
+|===
+
+|===
+
+| Person | Present | Past
+
+| 1 sg | gáw | ging
+| 2 sg | gás | gings
+| 3 sg | gát | ging
+| 1 pl | gám | gingm
+| 2 pl | gád | gingd
+| 3 pl | gán | gingn
+|===
+
+.dón
+
+|===
+| Infinitive | Imperative | Active Part. | Passive Part.
+
+| dón | dó | dónd | dán
+|===
+
+|===
+| person | present | past
+
+| 1 sg | dów | dád
+| 2 sg | dós | dáds
+| 3 sg | dót | dád
+| 1 pl | dóm | dádm
+| 2 pl | dód | dádd
+| 3 pl | dón | dádn
+|===
+
+.wyln
+
+This verb ressembles a preterite-present verb in that the present pural has a different stem than the present singular.
+
+|===
+| Infinitive | Imperative | Active Part. | Passive Part.
+
+| dón | dó | dónd | dán
+|===
+
+
+|===
+| person | present | past
+
+| 1 sg | wil  | wuld
+| 2 sg | wils | wulds
+| 3 sg | wil  | wuld
+| 1 pl | wylm | wuldm
+| 2 pl | wyld | wuldd
+| 3 pl | wyln | wuldn
+|===

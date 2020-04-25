@@ -1,0 +1,90 @@
+= Weak verbs
+
+== Class 1a
+
+- No suffix in present; no suffix in past.
+- Only three roots.
+
+|===
+| Form 1 | Form 2 | Form 3 | Meaning | Notes
+
+|bringn | braht | braht | to bring |
+|brukn | bruht | brukt | to use |
+|bún | búdd | búdd | to dwell |
+|===
+
+Class 1b
+
+A small class of verbs had the suffix -j- in the present and no suffix in the past. This class had only five members in Proto-Germanic; but in
+
+    *bugjaną "to buy", past tense *buht-
+    *sōkijaną "to seek", past tense *sōht- (given a regularized subclass (iii) past sōkida in Gothic)
+    *þankijaną "to think", past tense *þanht-
+    *þunkijaną "to seem", past tense *þunht-
+    *wurkijaną "to work", past tense *wurht-
+
+- They have -j- in the present in PGe.; no suffix in the past.
+- They undergo Germanic Spirant Law.
+- They have rückumlaut.
+- Only five in PGe., but expanded in daughter dialects.
+- In OE, werbs with cc or ll joined this class.
+
+|===
+| bøgn | bóht | to buy
+| sǿkn | sóht | to seek
+| þenkn | þáht | to think
+| þynkn | þúht | to seem
+| From other sources | |
+| telln | táld |
+| brennn | brannd | to burn (trans.)
+| wendn | wandd | to turn
+| kwekn | kwakt | to shake |
+| wekkn | waht | waht |
+| stelln | stalld | to place
+| seln | sald | to sell
+| dweln | dwald | to dwell
+|===
+
+
+Class 1c
+
+- These verbs had -j- suffix in the present; -i- in the past.
+- The stem underwent umlaut in both cases.
+
+| hǿrn | hørd | to hear |
+| fyln | fyld | to fill | ful _full_
+| fýln | fýld | to foul | fúl _foul (adj)_
+| arbéd | arbéd | to work |
+| hredn | hredd | to save  |
+| dyngn | dyngd | to fertilise | dong _excrement_
+| shendn | shendd | to shame, to scold | shand _shame_
+| lyftn | lyftt | to ventilate | luft _air_
+| merkn | merkd | to mark | mark _mark_ (subs)
+| bøgn  | bøgd  | to bend (tran)
+
+Class 2 Verbs
+
+Class II verbs were formed with a suffix -ō-. In the northern West Germanic languages, an alternative extended suffix -ōja- sometimes appears in the non-past forms, e.g. the Old English infinitive -ian < *-ōjan.
+
+
+The ō suffix doesn't appear in Conlang1.
+
+| kópn | kópt | to buy
+| hindrn | hindrd | to hinder
+| regnn | regnd | to rain
+
+Class 3a
+
+Stative verbs, with a present -ai- or -ja- suffix; no suffix in the past.
+
+|===
+| sagn | sagd | to say
+| livn | livd | to live
+|===
+
+
+A class of verbs with factitive semantics (i.e. with the meaning "make X" where X is an adjective or noun, e.g. "renew, enslave"), formed with a suffix that was either *-ai- or *-ā-, and a suffix *-a- in the past.
+
+|===
+
+|===
