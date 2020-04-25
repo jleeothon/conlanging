@@ -30,14 +30,14 @@ In a nutshell:
 |===
 | Class | Part 1 | Part 2 | Part 3 | Part 4 | Example | Followed by
 
-| 1  | ī  | ai | i  | i  | rīdaną   |
-| 2a | eu | au | u  | u  | freusaną |
-| 2b | ū  | au | u  | u  | lūkaną   |
-| 3a | i  | a  | u  | u  | bindaną  | m/n + C
-| 3b | e  | a  | u  | u  | werþaną  | l/r + C
-| 4  | e  | a  | e  | u  | beraną   | m/n/l/r + ¬C
-| 5  | e  | a  | e  | e  | etaną    | ¬(m/n/l/r) + C
-| 6  | a  | ō  | ō  | a  | bakaną   | ¬(j/w/m/n/l/r + C)
+| 1  | ī (ei) | ai | i  | i  | rīdaną   |
+| 2a | eu     | au | u  | u  | freusaną |
+| 2b | ū      | au | u  | u  | lūkaną   |
+| 3a | i      | a  | u  | u  | bindaną  | m/n + C
+| 3b | e      | a  | u  | u  | werþaną  | l/r + C
+| 4  | e      | a  | e  | u  | beraną   | m/n/l/r + ¬C
+| 5  | e      | a  | e  | e  | etaną    | ¬(m/n/l/r) + C
+| 6  | a      | ō  | ō  | a  | bakaną   | ¬(j/w/m/n/l/r + C)
 |===
 
 Class 7 verbs are "messy" in PGe, and contain reduplication of the root. They are not interesting for this document. In Proto-Northwest-Germanic, they lost reduplication in favour of ablaut.
@@ -50,7 +50,7 @@ Classes 7a through 7c are analogous to classes 1 through 3, and complement class
 | 7a | ai | ē | ē | ai | haitanaz |
 | 7b | au | eu | eu | au | hlaupanaz |
 | 7c | a | e | e | a | haldanaz | Followed by m/n/l/r
-| 7d | ā | ē | ē | ā | rādaną | ē in PGe. |
+| 7d | ā | ē | ē | ā | rādaną | ē in PGe.
 | 7e | ō | eu/ē | eu/ē | ō | grōanaz | "`eu`" WGe., "`ē`" NGe.
 |===
 
@@ -74,16 +74,21 @@ Class 1ii verbs have a -j- suffix in the present but no suffix in the past. Mode
 * þunkijaną / þunht- "to seem"
 * wurkijaną
 
-Some example causatives from other verbs:
+Some example causatives from strong verbs:
 
 |===
-| Class  | Original | Class | Causative  | Notes
+| Class  | Original | Meaning | Causative | Meaning
 
-|  S 1   | līþaną   |   1   | laidijaną  | EN. lithe/lead
-|  S 2a  | beuganą  |   1   | baugijaną  | HG. biegen/beugen
-|  S 3a  | brinnaną |   1   | brannijaną | Rückuml. in HG.
-| S 5c j | ligjaną  |   1   | lagjaną    | EN. liegen/legen
-|  S 7c  | fallaną  |       | fallijaną  | HG. fallen/fellen
+| 1   | līþaną   | to undergo | laidijaną | to lead
+| 2a  | beuganą  | to bend (intr.) | baugijaną | to bend sth
+| 3   | brinnaną | to burn (intr.) | brannijaną | to burn sth
+| 5c  | ligjaną  | to lie | lagjaną | to lay
+| 5-j | ligjaną  | to lie | lagjaną | to lay
+| 6   | faraną   | to travel | fōrijaną | to carry or lead
+| 7a  | swaipaną | to swoop | swaipijaną | to sweep
+| 7b  | stautaną | to push  | stautjaną |
+| 7c  | fallaną  | to fall | fallijaną | to fell
+| 7d  | grētaną  | to weep | grōtijanaą | to address
 |===
 
 Some example causatives from nominals:
@@ -91,8 +96,8 @@ Some example causatives from nominals:
 |===
 | Original | Class | Causative | Notes
 
-| hailaz   |       | hailijaną | whole/heal
-| blōþą    |      | blōþijaną | blood/blead
+| hailaz | a | hailijaną | whole/heal
+| blōþą | a | blōþijaną | blood/blead
 |===
 
 Five of the class 1 verbs have a

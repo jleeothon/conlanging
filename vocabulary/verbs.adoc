@@ -55,40 +55,6 @@ The preterite of strong verbs have the same suffixes are the present.
 
 More info: https://en.wiktionary.org/wiki/Category:Proto-Germanic_strong_verbs
 
-.Strong verb classes
-
-[cols="1,1,1,1,3,2"]
-|===
-| Class | Pres. | Pas. | P. Part. | Example | Notes
-
-| 1 | ei | é | é | greipn/grép/grépn (greifen), reidn/réd/rédn (reiten), sheitn/shét/shétn (shit) |
-
-| 2 | eu | ó | ó | beudn/bód/bódn (bieten), fleugn/flóg/flógn (fliegen), sheutn/shót/shótn (shoot) |
-
-| 2-u | ú | o | o | súgn/sog/sogn (to suck), dúkn/dok/dokn (to duck / tauchen) | Ugly verbs, not many
-
-| 34-i | i | a | u | drinkn/drank/drunkn, singn/sang/sung   | ↖↓↗ With m/n
-
-| 34-e | e | a | o | helpn/halp/holpn, hwervn/hwarf/hworvn (werfen) | ←↓→ With r/l, fugly exception: brekn, sprekn
-
-| 5-i | i | a | i | bidn/bad/bidn (bitten), lign/lag/lign | Without m/n/r/l
-
-| 5-e | e | a | e | etn/at/etn, gebn/gab/gebn | Without m/n/r/l; should include brekn, sprekn?
-
-| 6 | á | ú | á | fárn/fúr/fárn, bákn/búk/bákn, hláðn/hlúð/hláðn (to load) |
-
-| 7a | ai | í | ai | shaiðn/shíþ/shíðn (scheiden), swaipn/swíp/swépn (schweifen/swoop) |
-
-| 7b | au | é | au | hlaupn/hlép/hlaupn (laufen), þrauwn/þréw/þrauwn (throw, drehen) | To the back
-
-| 7c-i | a | i | a | hangn/hing/hangn, fangn/fing/fangn | ↓↖↓ With m/n
-
-| 7c-e | a | e | a | falln/fell/falln (fallen), haldn/held/haldn (halten) | ↓←↓ With l/r
-
-| 7d | á | í | á | slápn/slíp/slápn, brátn/brít/brátn | Without m/n/r/l
-
-| 7e | ó | é | ó | grówn/gréw/grówn, hrópn/hrép/hrópn | Without m/n/r/l
-|===
 
 === Weak verbs
 

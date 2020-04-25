@@ -1,5 +1,40 @@
 = Strong verbs
 
+Strong verbs undergo ablaut.
+
+[cols="1,1,1,1,2,2"]
+|===
+| Class | Part 1 | Part 2-3 | Part 4 | Example | Followed by
+
+| 1 | ei | é | ei | greipn̊/grép/greip |
+
+| 2 | eu | ó | eu | fleugn̊/flóg/fleugn̊ |
+
+| 2-u | ú | o | ú | dúkn̊/dok/dúkn̊ |
+
+| 34-i | i | a | u | drinkn/drank/drunkn | m/n
+
+| 34-e | e | a | o | helpn/halp/holpn | l/r
+
+| 5-i | i | a | i | bidn/bad/bidn | Not m/n/l/r
+
+| 5-e | e | a | e | gevn/gaf/gevn | Not m/n/l/r
+
+| 6 | á | ú | á | fárn/fúr/fárn | Not m/n/l/r
+
+| 7a | ai | í | ai | skaiðn/skíþ/skaiðn |
+
+| 7b | au | é | au | hlaupn/hlép/hlaupn |
+
+| 7c-i | a | i | a | fangn/fing/fangn |
+
+| 7c-e | a | e | a | falln/fell/fallnd |
+
+| 7d | á | í | á | slápn/slíp/slápn |
+
+| 7e | ó | é | ó | hrópn/hrép/hrópn |
+|===
+
 == Class 1
 
 These verbs have an "ī" stem in PGe, derived from a "ey" stem in PIE.
@@ -10,19 +45,19 @@ More info: https://en.wiktionary.org/wiki/Category:Proto-Germanic_class_1_strong
 |===
 | Present  | Preterite | Participle | Meaning | Notes
 
-| streikan | straik- | strekn  | to strike |
-| reizan   | raiz-   | rern    | to rise |
-| hreitan  | hrait-  | hretn   | to scratch | En. _write_, HG. _reißen_
-| spleitan | splait- | spletn  | to split   |
-| greipan  | graip-  | grepn   | to grab    |
-| sheinan  | shain-  | shenn   | to shine   |
-| sneiðan  | snaið-  | sneðn   | to cut     |
-| bleivan  | blaiv-  | blevn   | to stay    |
-| sneiwan  | snaiw-  | snewn   | to snow    |
-| streidan | straid- | stredn  | to quarrel |
-| sheitan  | shait-  | shetn   | to shit    |
-| gleidn
-| reidan  | raid-  | ridn   | to ride    |
+| streikn | straik- | strekn  | to strike |
+| reizn   | raiz-   | rern    | to rise |
+| hreitn  | hrait-  | hretn   | to scratch | En. _write_, HG. _reißen_
+| spleitn | splait- | spletn  | to split   |
+| greipn  | graip-  | grepn   | to grab    |
+| sheinn  | shain-  | shenn   | to shine   |
+| sneiðn  | snaið-  | sneðn   | to cut     |
+| bleivn  | blaiv-  | blevn   | to stay    |
+| sneiwn  | snaiw-  | snewn   | to snow    |
+| streidn | straid- | stredn  | to quarrel |
+| sheitn  | shait-  | shetn   | to shit    |
+| gleidn  | |||
+| reidn   | raid-  | ridn   | to ride    |
 |===
 
 == Class 2
@@ -144,9 +179,10 @@ Class 5 "i" stems:
 |===
 | Present | Preterite | Participle | Meaning | Notes
 
-| bidan   | batan     | bidn       | to beg  | HG. bitten
-| siten   | satan     | sitn       | to sit  |
-| ligan   | lagan     | lign       | to lie  | HG. liegen
+| bidn   | bat- | bidn | to request | HG. bitten
+| lign   | lag- | lign | to lie     | HG. liegen
+| sitn   | sat- | sitn | to sit     |
+| þign   | þag- | þign | to accept  | PGe. þigjaną
 |===
 
 == Class 6

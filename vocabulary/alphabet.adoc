@@ -1,0 +1,28 @@
+# Alphabet
+
+.Basic letters
+
+- iyueoæa
+- IYUEOÆA
+- bpmvf dtnðþzs gkh lr jw
+- BPMVF DTNÐÞZS GKH LR JW
+
+.With acute
+
+- íýúéóǽá
+- ÍÝÚÉÓǼÁ
+
+.With grave
+
+- b̀p̀m̀v̀f̀ - d̀t̀ǹð̀þ̀z̀s̀ - g̀k̀h̀ - l̀r̀ - j̀ẁ
+- B̀P̀M̀V̀F̀ - D̀T̀ǸÐ̀Þ̀Z̀S̀ - G̀K̀H̀ - L̀R̀ - J̀Ẁ
+
+.With ring
+
+- b̊p̊m̊v̊f̊ - d̊t̊n̊ð̊þ̊z̊s̊ - g̊k̊h̊ - l̊r̊ - j̊ẘ
+- B̊P̊M̊V̊F̊ - D̊T̊N̊Ð̊Þ̊Z̊S̊ - G̊K̊H̊ - L̊R̊ - J̊W̊
+
+.With upper dot
+
+- ḃṗṁv̇ḟ - ḋṫṅð̇þ̇żṡ - ġk̇ḣ - l̇ṙ - j̇ẇ
+- ḂṖṀV̇Ḟ - ḊṪṄÐ̇Þ̇ŻṠ - ĠK̇Ḣ - L̇Ṙ - J̇Ẇ

@@ -86,25 +86,3 @@ Meaning "to go".
 | 2 pl | dód | dádd
 | 3 pl | dón | dádn
 |===
-
-.wyln
-
-This verb ressembles a preterite-present verb in that: the present pural has a different stem than the present singular.
-
-|===
-| Infinitive | Imperative | Active Part. | Passive Part.
-
-| dón | dó | dónd | dán
-|===
-
-
-|===
-| person | present | past
-
-| 1 sg | wil  | wuld
-| 2 sg | wils | wulds
-| 3 sg | wil  | wuld
-| 1 pl | wylm | wuldm
-| 2 pl | wyld | wuldd
-| 3 pl | wyln | wuldn
-|===
