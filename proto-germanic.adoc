@@ -16,6 +16,47 @@ Vowels:
 - Long: ī, ū, ē, ō
 - Glide: ei, ai, eu, au
 
+## Nouns
+
+Root nouns and consonant stems
+
+|===
+|  | Sg. | Pl.
+
+| Nom. | fōts? | fōtiz
+| Acc. | fōtų | fōtunz
+| Gen. | fōtiz | fōtǫ̂
+| Dat. | fōti | fōtumaz
+|===
+
+a-stems
+
+|===
+| 2+| Masc. 2+| Neut.
+
+| | Sg. | Pl. | Sg. | Pl.
+| Nom. | wulfaz | wulfōz/ōs | juką | jukō
+| Acc. | wulfą | wulfanz | juką | jukō
+| Gen. | wulfas/is | wulfǫ | jukas/is | jukǫ̂
+| Dat. | wulfai | wulfamaz | jukai | jukamaz
+|===
+
+ō-stems (feminine stems)
+
+|===
+| | Sg. | Pl
+
+| Nom. | gebō | gebôz
+| Acc. | gebǭ | gebōz
+| Gen. | gebōz | gebǫ̂
+| Dat. | gebōi | gebōmaz
+|===
+
+i-stems
+
+|===
+|===
+
 ## Verbs
 
 ### Strong verbs
@@ -27,6 +68,7 @@ In a nutshell:
 - part 3 is all other conjugated forms incl. past dual/plural;
 - part 4 is the past participle.
 
+[%autowidth.stretch]
 |===
 | Class | Part 1 | Part 2 | Part 3 | Part 4 | Example | Followed by
 
@@ -44,14 +86,15 @@ Class 7 verbs are "messy" in PGe, and contain reduplication of the root. They ar
 
 Classes 7a through 7c are analogous to classes 1 through 3, and complement class 6 i.e. they are followed by a sonorant (j/w/n/m/l/r) and another consonant.
 
+[%autowidth.stretch]
 |===
 | Class | Part 1 | Part 2 | Part 3 | Part 4 | Example | Notes
 
-| 7a | ai | ē | ē | ai | haitanaz |
-| 7b | au | eu | eu | au | hlaupanaz |
-| 7c | a | e | e | a | haldanaz | Followed by m/n/l/r
-| 7d | ā | ē | ē | ā | rādaną | ē in PGe.
-| 7e | ō | eu/ē | eu/ē | ō | grōanaz | "`eu`" WGe., "`ē`" NGe.
+| 7a | ai | ē    | ē    | ai | haitanaz  |
+| 7b | au | eu   | eu   | au | hlaupanaz |
+| 7c | a  | e    | e    | a  | haldanaz  | Followed by m/n/l/r
+| 7d | ā  | ē    | ē    | ā  | rādaną    | ē in PGe.
+| 7e | ō  | eu/ē | eu/ē | ō  | grōanaz   | "`eu`" WGe., "`ē`" NGe.
 |===
 
 ### Weak verbs
@@ -114,23 +157,21 @@ Class 4 has a a -na- suffix. They have an inchoative meaning (e.g. ).
 
 These verbs exhibit vowel alternations in the present, and a dental suffix in the past.
 
+[%autowidth.expand]
 |===
-| Present | Preterite | Meaning
+| Strong class | Infinitive | Pres. sg. | Pres. pl. | Pret. | Past Ptc. | Meaning
 
-| witaną |
-
-- witaną "to know"
-- lizaną "to know", related to HG "lernen / lehren"
-- aiganą "to own"
-- duganą "to be useful"
-- unnaną "to grant"
-- kunnaną "to know" or "can"
-- þurbaną "to need"
-- durzaną "to dare"
-- skulaną "must" or "shall"
-- (ga)munaną "to think"
-- ganuganą "to be enough"
-- maganą "can" or "may"
-- ōganą "to fear"
-- gamōtaną "may" or "must"
+| 1 | witaną | wait- | wit- | wiss- | wissaz | to know
+| 1 | aiganą | āih | āihum | āihta | āihan | to have
+| 2 | duganą | daug- | dug- | duht- | duhtaz | to fit
+| 3 | kunnaną | kann- | kunn- | kunþ- | kunþaz | to know
+| 3 | unnaną | ann- | unn- | unþ- | unþaz | to love
+| 3 | þurbaną | þarf- | þurb- | þurft- | þurftaz | to have need of
+| 3 | durzaną | dars- | durz- | durst- | durstaz | to dare
+| 4 | skulaną | skal- | skul- | skuld- | skuldaz | to have to
+| 4 | munaną | man- | mun- | mund- | mundaz | to believe
+| 5 | ganuganą | ganah- | ganug- | ganuht- | ganuhtaz | to suffice
+| 6 | maganą | mag- | mag- | maht- | mahtaz | to be able
+| 6 | ōganą | ag- | ōg- | aht- | ahtaz | to fear
+| 6 | mōtaną | mōt- | mōt- | mōs- | mōsaz | to find
 |===

@@ -6,11 +6,11 @@
 - Only three roots.
 
 |===
-| Form 1 | Form 2 | Form 3 | Meaning | Notes
+| Pres. | Pret. | Past Part. | Meaning
 
-|bringn | braht | braht | to bring |
-|brukn | bruht | brukt | to use |
-|bún | búdd | búdd | to dwell |
+|bringn̊ | braht- | braht | to bring
+|brukn̊ | bruht- | brukt | to use
+|bún̊ | búd- | búdd | to dwell
 |===
 
 Class 1b
@@ -41,26 +41,33 @@ A small class of verbs had the suffix -j- in the present and no suffix in the pa
 | kwekn | kwakt | to shake |
 | wekkn | waht | waht |
 | stelln | stalld | to place
-| seln | sald | to sell
-| dweln | dwald | to dwell
+| dwæln | dwald | to dwell
+| næmnn | namnd |
 |===
 
+
+- nennen
+- wenden
+- brennen
+- tellen
+-
 
 Class 1c
 
 - These verbs had -j- suffix in the present; -i- in the past.
 - The stem underwent umlaut in both cases.
 
-| hǿrn | hørd | to hear |
-| fyln | fyld | to fill | ful _full_
-| fýln | fýld | to foul | fúl _foul (adj)_
-| arbéd | arbéd | to work |
-| hredn | hredd | to save  |
-| dyngn | dyngd | to fertilise | dong _excrement_
-| shendn | shendd | to shame, to scold | shand _shame_
-| lyftn | lyftt | to ventilate | luft _air_
-| merkn | merkd | to mark | mark _mark_ (subs)
-| bøgn  | bøgd  | to bend (tran)
+| hǿrn | hørd- | to hear |
+| fyln | fyld- | to fill | ful _full_
+| fýln | fýld- | to foul | fúl _foul (adj)_
+| arbéd | arbéd- | to work |
+| hredn | hredd- | to save  |
+| dyngn | dyngd- | to fertilise | dong _excrement_
+| shændn | shændd-| to shame, to scold | shand _shame_
+| lyftn | lyftd- | to ventilate | luft _air_
+| mærkn | mærkd- | to mark | mark _mark_ (subs)
+| bøgn  | bøgd-  | to bend (tran)
+
 
 Class 2 Verbs
 
@@ -69,8 +76,8 @@ Class II verbs were formed with a suffix -ō-. In the northern West Germanic lan
 
 The ō suffix doesn't appear in Conlang1.
 
-| kópn | kópt | to buy
-| hindrn | hindrd | to hinder
+| kópn̨ | kópt | to buy
+| hindrn̨ | hindrd | to hinder
 | regnn | regnd | to rain
 
 Class 3a

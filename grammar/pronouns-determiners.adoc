@@ -23,7 +23,7 @@
 
 | 1 sg.  | ik         | mik     | mín
 | 2 sg.  | þu         | þik     | þín
-| 1 pl.  | we         | ons     | onṙ
+| 1 pl.  | we         | ons     | onṙ
 | 2 pl.  | je         | jok     | jór
 |===
 
@@ -47,9 +47,9 @@
 | Sg. general   | et  | et   | sih | ets  |
 | Sg. close     | þit | þit  | sih | þits | 1
 | Sg. far       | þat | þat  | sih | þats | 1
-| Pl. close     | þís | þízṅ | sih | þísṡ | 1
-| Pl. far       | þás | þázṅ | sih | þásṡ | 1
-| Indefinite    | én  | énṅ  | sih | éns  | 2
+| Pl. close     | þís | þízṅ | sih | þísṡ | 1
+| Pl. far       | þás | þázṅ | sih | þásṡ | 1
+| Indefinite    | én  | énṅ  | sih | éns  | 2
 |===
 
 Notes:

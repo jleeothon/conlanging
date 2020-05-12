@@ -1,0 +1,690 @@
+- theme: [landscape]
+  lemmas:
+    - lemma: erþ
+      class: noun
+      source: {PWG: erþu, PG: erþō}
+      meaning: earth
+
+    - lemma: himil
+      class: noun
+      source: {PG: himilaz}
+      meaning: sky
+
+
+- theme: [colours]
+  lemmas:
+    - lemma: farẘ
+      class: noun
+      source: {PG: farwō}
+      meaning: colour
+      note: Pronounced far̨w
+
+    - lemma: gelẘ
+      class: adj
+      source: {PG: gelwaz}
+      meaning: yellow
+
+    - lemma: bláw
+      class: adj
+      source: {PG: blēwaz}
+      meaning: blue
+
+    - lemma: swart
+      class: adj
+      source: {PG: swartaz}
+      meaning: black
+
+    - lemma: hwít
+      class: adj
+      source: {PG: hwītaz}
+      meaning: white
+
+    - lemma: raud
+      class: adj
+      source: {PG: raudaz}
+      meaning: red
+
+    - lemma: grýn
+      class: adj
+      source: {PWG: grōnī, PG: grōniz}
+      meaning: green
+
+    - lemma: brún
+      class: adj
+      source: {PG: brūnaz}
+      meaning: brown
+
+    - lemma: gráw
+      class: adj
+      source: {PG: grēwaz}
+      meaning: grey
+
+    - lemma: bariskA
+      class: adj
+      source: {PG: wīnabasją (wine berry)}
+      meaning: purple
+
+    - lemma: gelẘraud
+      class: adj
+      meaning: orange
+
+
+- theme: animals
+  lemmas:
+    - lemma: deur
+      infl: {deur}
+      source: {PG: deuzą}
+
+== Animals
+
+deur::
+noun, pl. *deurrn* +
+PWG _*deur_ < PG _*deuzą_ +
+animal
+
+feh::
+noun, pl. *fehrn* +
+PG _*fehu_ +
+livestock
+
+kalf
+noun, pl. *kælvn* +
+PG _*kalbaz_ +
+kalf
+
+=== Wild mammals
+
+hwelp::
+noun, pl. *hwelprn* +
+PG _*hwelpaz_
+whelp, pup, young mammal
+
+elh::
+PG _*elhaz_ +
+elk
+
+herut::
+PG _*herutaz_ +
+deer, stag
+
+raih::
+raihą
+deer
+
+stæg
+_*staggijaz_, _*staggijô_
+male deer, stag
+
+hínd
+_*hindiz_, *_hindō_ +
+female deer, doe
+
+wolf::
+noun, pl. *wølvn* +
+PG _*wulfaz_ +
+wolf
+
+hond::
+noun, pl. *hyndn* +
+PG _*hundaz_
+dog
+
+bík::
+noun +
+bikjǭ +
+bitch, female dog
+
+bér::
+noun, pl. *bérrn* +
+PG _*berô_ +
+bear
+
+fohs::
+noun, pl. *føhsn* +
+PG _*fuhsaz_ +
+fox
+
+kat::
+noun, pl. *kætn* +
+PG _*kattuz_ +
+cat
+
+lohs::
+noun, pl. *løhsn* +
+PG _*luhsaz_ +
+lynx
+
+selh::
+noun, pl. *selhrn* +
+PG _*selhaz_
+seal
+
+// or hárm?
+hárm::
+noun, pl. *hǽrmn* +
+PG _*harmô_
+ermine, weasel
+
+// final spelling could be marþr
+marðr::
+noun, pl. mærðrn +
+PG _*marþraz_ +
+marten
+
+otr::
+noun, pl. *øtr* +
+PG _*utraz_
+otter
+
+// how to justify a long vowel? by elision of -u-?
+wízl::
+noun, pl. *wízlrn* +
+PG _*wisulǭ_ +
+weasel
+
+þahs::
+noun, pl. *þæhsn* +
+PG _*þahsuz_
+badger
+
+igl::
+noun, pl. *iglrn* +
+PWG _*igil_ < PG _*igilaz_ +
+hedgehog
+
+hás::
+noun, pl. *hǽzn*
+PG _*hasô_
+hare
+
+áp::
+noun, pl. *ǽpn* +
+PG _*apô_ +
+ape
+
+aikwern::
+noun, pl. *aikwernrn* +
+PG _*aikwernô_ +
+squirrel
+
+// -uz causes lengthening?
+// plural is ugly
+bebr::
+noun, pl. *bebrren* +
+PG _*bebruz_ +
+beaver
+
+mús::
+noun, pl. *mýzn* +
+PG mūs +
+mouse
+
+=== Domestic mammals
+
+==== Horses
+
+ehw::
+noun, pl. *ehwrn* +
+PWG _*ehw_ < PG _*ehwaz_ +
+ewe, horse
+
+hros::
+noun, pl. *hrøzn* +
+PWG _*hross_ < PG _*hrussą_ +
+horse
+
+stód::
+noun, pl. *stǿdn* +
+PG _*stōdą_ +
+a herd of horses
+
+fól::
+noun, pl. *fǿln* +
+PG _*fulô_ +
+foal
+
+mær::
+noun, pl. *mærrn* +
+PWG _*marhijā_ < PG _*marhijō_ +
+mare, female horse
+
+==== Cows
+
+óhs::
+PWG ohsō < PG uhsô
+ox, castrated bull
+
+kú::
+kūz
+cow
+
+búl::
+bulô
+bull
+
+steur::
+steuraz
+bull
+
+=== Sheep
+
+hafr::
+hafraz
+male goat
+
+æw::
+PG awiz
+female sheep
+
+gait::
+PG gaits
+goat
+
+lamb::
+PG lambaz
+lamb
+
+ramm::
+PG rammaz
+ram, male sheep
+
+skáp::
+PG skēpą +
+sheep
+
+==== Pigs
+
+farh::
+noun, pl. *færhn* +
+PWG _*farh_ < PG _*farhaz_ +
+piglet, young pig
+
+suw::
+noun, pl. *sywn* +
+PWG _*sū_ < PG _*sūz_ +
+sow, female pig
+
+swín::
+noun, pl. swínrn +
+PWG _*swīn_ < PG _*swīną_ +
+swine, pig
+
+=== Chicken
+
+hæn::
+noun, pl *hænrn* +
+PG _*hanjō_ +
+hen, female chicken
+
+hán::
+noun, pl. *hǽn* +
+from PG _*hanô_ +
+rooster, chicken
+
+kok::
+noun, pl. *køkn* +
+PG _*kukkaz_ +
+cock, rooster, chicken
+
+kiukin::
+noun, pl. *kiukinrn* +
+PG _kiukīną_ +
+chicken
+
+=== Birds
+
+fogl::
+noun, pl. føgln +
+PG _*fuglaz_ +
+bird +
+Related to *fleugn* (to fly)
+
+
+PG _*feþrō_ +
+
+dúf::
+noun, pl. *dývn* +
+PG _dūbǭ_ +
+dove
+
+gauk::
+noun, pl. *gæukn* +
+PG _*gaukaz_ +
+cuckoo
+
+krán::
+noun, pl. *krǽnn* +
+PG _*kranô_ +
+crane
+
+páw::
+noun, pl. *pǽwn* +
+PG _*pawô_ < Latin _pāvō_ +
+peafowl
+
+stork::
+noun, pl. *størkn* +
+PG _*sturkaz_ +
+stork
+
+swan::
+noun, pl. *swænn* +
+PWG _*swan_ < PG _*swanaz_ +
+swan
+
+gans::
+noun, pl. *gænzn* +
+PG _*gans_ +
+goose
+
+hraig::
+noun, pl. *hræign* +
+PWG _*hraigrō_ < PG _*hraigrô_ +
+heron
+
+amsl (amzl?)::
+noun, pl. *æmsln* +
+PWG _*amslā_ < PG _*amslǭ_
+blackbird
+
+laiwarik::
+noun, pl. *laiwarikrn* +
+PG _*laiwarikǭ_ +
+lark
+
+swalw (?)::
+noun, pl. *swælwn* +
+PG _*swalwǭ_ +
+swallow
+
+þrast::
+noun, pl. *þræst* +
+PG _*þrastuz_ +
+thrush
+
+???::
+PG _*agatjǭ_, PG _*agalistrijǭ_
+magpie (Elster)
+
+hravn::
+noun, pl. *hrævn* +
+PWG _*hrbn_ < PG _*hrabnaz_ +
+raven
+
+sparw::
+noun, pl. *spærw* +
+PG _*sparwô_ +
+sparrow
+
+fink::
+noun, pl. *finkrn* +
+PG _*finkiz_, PG _*finkô_
+finch
+
+mais::
+noun, pl. *mæis* +
+PG _*maisǭ_ +
+tit
+
+kolmais::
+noun, pl. *kolmais* +
+PG _*kulamaisǭ_ +
+great tit
+
+falk::
+noun, pl. *fælkn* +
+PG _*falkô_ +
+falcon
+
+húw::
+noun, pl. *hýwn* +
+PG _*hūwô_ +
+owl
+
+uwl::
+noun, pl. *uwlrn* +
+PG _*uwwalǭ_ < PG _*uwwô_ +
+barn owl
+
+wíw::
+noun, pl. *wíwrn* +
+PG _*wīwô_ +
+harrier
+
+kýt::
+noun, pl. *kýt* +
+PG _*kūtijô_ +
+kite
+
+// What to do with -bu-?
+
+hafk ???::
+noun, pl. *hæfk* +
+PG _*habukaz_ +
+hawk
+
+// Or ánd?
+and::
+noun, pl. *ændn* +
+from PG _*andaz_ +
+duck
+
+maiw::
+noun, pl. *mæiwn* +
+PG _*maiwaz_ +
+seagull
+
+=== Amphibians and reptiles
+
+frosk::
+noun, pl. *frøskn* +
+PWG _*frosk_ < PG _*fruskaz_ +
+frog
+
+nadr::
+noun, pl. *nædrn* +
+PG _*nadrǭ_ +
+adder
+
+snák::
+noun, pl. *snǽkn* +
+PG _*snakô_ +
+snake
+
+=== Fish
+
+fisk::
+noun, pl. *fiskrn* +
+PG _*fiskaz_ +
+fish
+
+// Allow s-z alternation between any two sonorants?
+bars::
+noun, pl. *bærzn* +
+PG _*barsaz_ +
+perch
+
+ál::
+noun, pl. ǽln +
+PG _*ēlaz_ +
+eel
+
+flonðr::
+noun, pl. *flønðrn*
+PG _*flunþrijǭ_ +
+flounder, flatfish
+
+forhn::
+noun, pl. *førhn*
+PWG _*forhnu_ < PG _*furhnō_ +
+trout
+
+hakt::
+noun, pl. *hækt* +
+PG _*hakudaz_ +
+pike
+
+lahs::k
+noun, pl. *læhsn* +
+PG _*lahsaz_ +
+salmon
+
+smelt::
+noun, pl. *smeltrn* +
+PG _*smeltaz_
+smelt
+
+// u+umlaut = y or ø?
+stør
+noun, pl. *størrn*
+PG _*sturjô_
+sturgeon
+
+þorsk
+noun, pl. *þørskn*
+PG _*þurskaz_
+cod
+
+=== Invertebrates
+
+worm::
+noun, pl. *wørmn* +
+PG _*wurmiz_ +
+worm
+
+egl::
+noun, pl. *eglrn* +
+PWG _*egalu_ < PG _*egalaz_ +
+leech
+
+bij::
+noun, pl. *bijrn* +
+PG _*bijō_ +
+bee
+
+// I'd like to use an agent suffix here
+ámaitr::
+noun, pl. *ámaitrrn* +
+PG _*ēmaitijǭ_ +
+ant
+
+maur::
+noun, pl. *mæurn* +
+PG _*miurijǭ_ +
+ant
+
+flauh::
+noun, pl. *flæuhn* +
+PG _*flauhaz_
+flea
+
+fleug::
+noun, pl. *fleug* +
+PG _*fleugǭ_
+fly
+
+imf::
+PG _*imbijaz_ +
+beeswarm
+
+// kráb maybe due to lengthening by compensation for ô
+// or krább
+// or krabb because the double consonant blocks the compensatory lengthening
+// first loss of ô
+// then bb->b (at the same time b->v)
+kráb::
+noun, pl. *krǽb* +
+PG _*krabbô_ +
+crab
+
+kræft::
+noun, pl. *kræftrn* +
+PG _*krabitaz_ +
+crayfish
+
+skrimpl::
+noun, pl. *skrimplrn* +
+PG _*skrimpaz_ (shrivelled) +
+shrimp
+
+## Plants
+
+baum::
+noun, pl. *bæumn* +
+PG _*baumaz_ +
+tree
+
+blóm::
+noun, pl. *blǿm* +
+PG _*blōmô_
+flower
+
+// maybe buhs by u-umlaut
+bohs::
+noun, pl. *bøhs* +
+PG _*buhsuz_ +
+boxwood
+
+farn::
+noun, pl. *færnn* +
+PG _*farnaz_ +
+fern
+
+hæw::
+noun, pl. *hæwrn* +
+PG _*hawją_ +
+
+hyls::
+noun, pl. *hylzrn*
+PG _*hulisaz_
+holly
+
+hwan
+noun, pl. *hwænn*
+PG _*hwannō_
+angelica
+
+korn
+noun, pl. *kørnn*
+PG _*kurną*
+
+### Fruit
+
+ofæt::
+noun +
+PG _*ubatją_ +
+fruit
+
+bær::
+noun, pl. *bærs* +
+PWG _*bari_, PG _*bazją_ +
+berry
+
+apl::
+noun, pl. *æpln* +
+PG _*aplaz_ +
+apple
+
+plúm::
+noun, pl. plýmn::
+PWG _*plūmā_ +
+plum
+
+bremlbær::
+noun, pl. bremlbærrn+
+PG _*brēm-_ + _*bazją_ +
+raspberry, blackberry, any similar _Rubus_ fruit
+
+blackberry
+
+
+raspberry
+
+kránbær::
+krán (crane) + bær
+cowberry, lingonberry +
+
+erþbær::
+noun
+erþ + bær +
+strawberry

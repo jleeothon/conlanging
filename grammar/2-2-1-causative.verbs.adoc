@@ -1,0 +1,40 @@
+# Causative verbs
+
+Causative verbs are weak verbs derived from other, strong verbs.
+
+[%autowidth.stretch]
+|===
+| Class | Ex. strong | Ex. weak | Ex. weak past | Meanings
+
+| 1    | leidn̊ | lǽdn  | lǽdd-  | to undergo > to lead
+| 2    | beugn̊ | býgn̊  | býgd-  | to bend (intr. > trans.)
+| 34-i | brinn̊ | brann̊ | brand- | to burn (intr. > trans.)
+| 34-e | meltn̊ |       | |
+| 5    |       |       | |
+| 6    | farn̊  | færn̊  | |
+| 7c   | hangn̊ | hængn̊ | hængd- | to hang (intr. > trans.)
+|
+|===
+
+### By class
+
+.Causative verbs from class 1 strong verbs
+[cols="1,1,1,2"]
+|===
+| Present stem | Preterite stem | Origin | Meaning
+
+| raiz-  | raisd-  | reizn̊  | to raise < to rise
+| laiv-  | laifd-  | leivn̊  | to leave < to remain
+| dwain- | dwaind- | dwein̊  | (original) to delete
+| klaib- | klaibd- | kleivn̊ | to stick sth. to sth. (stative klibaanan?)
+|
+|===
+
+.Causative verbs derived from class 2 strong verbs
+[cols="1,1,1,2"]
+|===
+| Present stem | Preterite stem | Origin | Meaning
+
+| býgn̊ | býgd- | beugn̊ | to bend (trans.)
+|
+|===

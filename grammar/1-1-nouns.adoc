@@ -6,10 +6,29 @@ Nouns two numbers, singular and plural; and two cases, the common case and the g
 
 Rules for pluralisation of the common case:
 
-- if the stem vowel is e, i, é, or í, then the pural form ends in _@r@n_, where the apostrophes are the mid central vowel and may be freely ellided;
-- if the stem vowel is a, o, u, á, ó, or ú, then the stem vowel changes to æ, ø, y, ǽ, ǿ, or ý, respectively, and a suffix _@n_ is added;
+- if the stem vowel is e/e/i/í, then the plural form ends in _rn_
+- if the stem vowel is a/á/o/ó/u/ú, then the stem vowel changes to æ/ǽ/ø/ǿ/y/ý, respectively, and a suffix _-n_ is added;
 
-where @ represents the mid central vowel, and may be freely ellided, and does not need to be represented in writing except for clarity, or explanation of derivation rules.
+r-stems:
+
+|===
+| Singular | Plural
+
+| bróþár | brǿþǽr
+| fádár | fǽdǽr
+| dohtár | døhtǽr
+| módár | mǿdǽr
+| swestár | swestǽr |
+|===
+
+.ár stems (profession)
+|===
+| Singular | Plural | Meaning
+
+| bakár | bakǽr | baker
+| fiskár | fiskǽr | angler
+| skipár | skipǽr | sailor
+|===
 
 Back stems:
 

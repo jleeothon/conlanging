@@ -4,14 +4,14 @@ There are five irregular verbs: ween, gán, dón, hævn, wyln.
 
 Of _hævn_ and _dón_ can be considered truly irregular, and the other, supletive.
 
-.wín
+.wi'n
 
 Meaning to be.
 
 |===
 | Infinitive | Imperative | Present Part. | Past Part
 
-| wín | wés | wesnd | wesn
+| wín | we's | wesnd | wesn
 |===
 
 |===

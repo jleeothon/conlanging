@@ -4,24 +4,39 @@ These include verbs that were preterite-present verbs in PGe plus the descendant
 
 Summary:
 
-[cols="1,1,1,1,2"]
+[%autowidth.stretch]
 |===
-| Infinitive | Sg. present stem | Pl. present stem | Past | Meaning
+| Strong cl. | Infinitive | Sg. pres. stem | Pl. pres. stem | Pret. stem | Meaning
 
-| ǽgn | ǽg- | ǽg- | oht- | to own
-| dygn | dóg- | dyg- | duhd- | to be fit or useful
-| dyrzn | dars- | dyrz- | dursd- | to dare
-| gnygn | gnag- | gnyg- | gnuhd- | to be enough (includes g-)
-| gynn | gan- | gyn- | gund- | to allow (includes g-)
-| kynn | kan- | kyn- | kund- | to be able to
-| møgn | mag- | møg- | mohd- | to be allowed to
-| munn | man- | myn- | mund- | to believe that
-| mytn | mut- | myt- | must- | to have to
-| skyln | skal- | skyl- | skuld- | (Indicates future or conditional)
-| witn | wǽt- | wit- | wust- | to know that
-| wyln | wil- | wyl- | wuld- | to want
-| þyrvn | þarv- | þyrv- | þurfd- | to need
-| ógn | ag- | og- | ohd | to fear
+| 1 | weitn  | wit- | weit-  | wost-  | to know that
+| 1 | eign  | ig-  | eig-  | ohd-   | to own
+| 2 | dygn  | deug- | dyg-  | duhd-  | to be fit or useful
+| 3 | kynn  | kan-  | kyn-  | kund-  | to be able to
+| 3 | g̨ynn  | g̨an-  | g̨yn-  | gund-  | to allow
+| 3 | þørvn | þarv- | þørv- | þorfd- | to need
+| 3 | dørzn | darz- | dørz- | dorsd- | to dare
+| 4 | skyln | skal- | skyl- | skuld-
+| (Used in periphrastic constructions)footnote:[Present stem marks future tense; past stem marks conditional mood]
+| 4 | munn  | man-  | myn-  | mund-  | to believe that
+| 5 | g̨nygn | g̨nag- | g̨nyg- | g̨nuhd- | to be enough
+| 6 | møgn  | mag-  | møg-  | mohd-  | to be allowed to
+| 6 | mytn  | mut-  | myt-  | must-  | to have to
+| 6 | ógn   | ag-   | og-   | ohd    | to fear
+| - | wøln  | wil-  | wøl-  | wold-  | to want
+|===
+
+Present-tense conjugation follows this paradigm:
+
+.
+|===
+| Person | Present suffix | Past suffix
+
+| 1 sg. | ∅ footnote:frDev[Fricatives alternate f/v, þ/ð, s/z] | -◌̨d
+| 2 sg. | -◌̨s | -d̨s
+| 3 sg. | ∅ footnote:frDev[] | -◌̨d
+| 1 pl. | -◌̨m | -d̨m
+| 2 pl. | -◌̨d | -d̨d
+| 3 pl. | -◌̨n | -d̨n
 |===
 
 The present preterite is formed with the infinitive + d.
