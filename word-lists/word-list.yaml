@@ -13,13 +13,13 @@
 
 - theme: [colours]
   lemmas:
-    - lemma: farẘ
+    - lemma: farw
       class: noun
       source: {PG: farwō}
       meaning: colour
       note: Pronounced far̨w
 
-    - lemma: gelẘ
+    - lemma: gelw
       class: adj
       source: {PG: gelwaz}
       meaning: yellow

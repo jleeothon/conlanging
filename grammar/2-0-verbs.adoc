@@ -13,7 +13,7 @@ Verbs can be conjugated for 3 persons, 2 numbers, and present and preterite tens
 
 There are two main types of verbs: strong verbs and weak verbs. They differ in the preterite construction. Strong verbs have vowel alternations. Weak verbs have a dental suffix.
 
-There are some irregular verbs.
+There are some irregular verbs. ąå
 
 The present conjugations vary in number and person. For both weak and strong verbs, the present tense endings are:
 
