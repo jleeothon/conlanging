@@ -1,97 +1,132 @@
 = Pronouns, articles, and determiners
 
-.Definite articles
+Pronouns, articles, and determiners are tightly intertwined.
+
+In Þiudisk-H, all nouns are accompanied by a determiner.
+A consequence of this is that the grammatical case for any noun (or pronoun)
+is almost always known.
+
+The determiner can be default the (unmarked) definite and indefinite articles,
+or be:
+
+- a demostrative,
+- a possessive pronoun,
+- quantifiers e.g. all / none / numbers.
+
+== First-person and second-person pronouns
 
 |===
-| Nominative | Oblique | Genitive
+| | Nominative | Oblique | Genitive
 
-| þen        | þet     | þes
+s| 1 sg.  | ek | mih | mín
+s| 2 sg.  | þu | þih | þín
+s| 1 pl.  | we | ons | onzr
+s| 2 pl.  | je | joh | jór
 |===
 
-.Indefinite articles
+== Articles and demostratives
+
+The definite articles are:
 
 |===
-| Nominative | Oblique | Genitive
+| | Nominative | Oblique | Genitive
 
-| én         | énn     | éns
+h| Sg. | þe  | þen | þes
+h| Pl. | þej | þem | þer
 |===
 
-.First and second person pronouns
+The indefinite articles are:
 
 |===
-| Person | Nominative | Oblique | Genitive
+| | Nominative | Oblique | Genitive
 
-| 1 sg.  | ik         | mik     | mín
-| 2 sg.  | þu         | þik     | þín
-| 1 pl.  | we         | ons     | onṙ
-| 2 pl.  | je         | jok     | jór
+h| Sg. | en  | enĕn | enĕs
+h| Pl. | enĕ | enĕm | enĕr
 |===
 
-.Third-person personal pronouns
+The demostratives are:
 
-[cols="2,1,1,1,1"]
 |===
-| Person  | Nom. | Obl. | Refl. | Gen.
+| | Nominative | Oblique | Genitive
 
-| Sg. male | he | hem | sih | hes
-| Sg. female | se | hen | sih | her
-| Pl. | þé | þém | sih | þér
-|===
+h| Sg. prox.   | þi | þit | þits
+h| Sg. medial  | þa | þat | þats
+h| Sg. distal  | jé | jén | jéns
 
-.Third-person impersonal pronouns
-
-[cols="2,1,1,1,1,1"]
-|===
-| | Nom. | Obl. | Refl. | Gen. | Notes
-
-| Sg. general   | et  | et   | sih | ets  |
-| Sg. close     | þit | þit  | sih | þits | 1
-| Sg. far       | þat | þat  | sih | þats | 1
-| Pl. close     | þís | þízṅ | sih | þísṡ | 1
-| Pl. far       | þás | þázṅ | sih | þásṡ | 1
-| Indefinite    | én  | énṅ  | sih | éns  | 2
+h| Pl. close   | þízĕ | þízĕn | þízĕs
+h| Pl. medial  | þázĕ | þázĕn | þázĕs
+h| Pl. distal  | jénĕ | jénĕn | jénĕs
 |===
 
-Notes:
+All articles and demostratives can be used as pronouns.
 
-1. Also work as demostrative pronouns.
-2. Meaning "`one`", as in, "`one does not simply talk`".
-3. Used for "`weather`" constructions like _er regnð_ ("`it rains`"), or "`es is`" ("`there is`").
+The third person _personal_ pronouns are used when a subject is human, or is
+personified.
 
-.Dummy pronoun
+|===
+| | Nom. | Obl. | Gen.
+
+h| Sg. m. | he  | hem | hes
+h| Sg. f. | se  | sem | ses
+h| Pl.    | þej | þem | þer
+|===
+
+All third person pronouns, including demostrative pronouns, have special
+"`reflexive`" oblique and genitive forms:
+
+Reflexive oblique:: sih
+Genitive oblique:: sín
+
+== Dummy pronoun
 
 The dummy pronoun "`er`" is used as dummy subject for constructions like "there is", descriptions about weather, temperature.
 
-.Interrogative pronouns
+== Interrogative and relative pronouns
 
+Interrogative pronouns function as relative pronouns too.
+
+[cols="1,1,1,e"]
 |===
-| Nominative | Oblique | Meaning | Notes
+| Nom. | Obl. | Gen. | Meaning
 
-| hwe | hwem | who | Also relative pronoun
-| hwa | hwat | what |
-| hwilk | hwilkt | which |
+| hwe | hwem | hwes | who
+| hwa | hwat | hwas | what
+| hwelk | hwelkt | hwelks | which
 |===
 
-.Interrogative adverbs and derived pronouns
+Examples:
 
+- "`Hwe is þe küning?`" (_Who is the king?_)
+- "`Hwem sehs þu?`" (_Whom do you see?_)
+- "`Þe knav hwe lefd.`" (_The boy who lived._)
+- "`Þe magþ hwem þej sah.`" (_The girl whom they saw._)
+- "`Af þen hwilkt flód drank þe wolf.`" (_From which river did the wolf drink?_)
+- "`Þen hwilks sung hördĕd je?`" (_Of which one, do y'all hear the song?_)
+
+== Pro-adverbs
+
+[cols="1,e"]
 |===
-| | Meaning
+| Adverb | Meaning
 
 | hwor | where
 | hwan | when
-| hwí | how
+| hwis | how
 |===
 
-Interrogative adverbs may be combined with prepositions to form interrogative pronouns or relative pronouns (e.g. _until when_, _whereto_).
-As relative pronouns, they have the preposition suffixed e.g. _Hwor hl_.
+Pro-adverbs may be combined with prepositions (like in English: _whence_, _whereto_),
+and this preposition is separable.
 
-== Other
+Prepositional relative pronouns with _hwan_:
 
-|===
-|Positive | Meaning | Negative | Meaning | Notes
+- hwantil (_until when_)
+- hwanaf (_since when_)
 
-| énig | some | nénig | none | Also as pronoun
-| ójts  | sometime | nójts | never |
-| hwergns | somewhere | nwergns | nowhere |
-| ewiht | something | newiht | nothing |
-|===
+Examples:
+
+- Hwan is þín borsdag? (_When is your birthday?_)
+- Hwan kokm we af? (_When do we start cooking?_)
+- Hwan hweint þet til? (_Until when does it cry?_)
+- Þe dag hwan we ranm. (_The day when we ran._)
+- Þe dag hwanaf þe kind hleip (_The day whence the child walked._)
+- Þe dag hwantil þej skaln stop mid flæsk etan (_The day until which they will stop eating meat._)

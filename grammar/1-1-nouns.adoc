@@ -7,45 +7,45 @@ Nouns two numbers, singular and plural; and two cases, the common case and the g
 Rules for pluralisation of the common case:
 
 - if the stem vowel is e/e/i/í, then the plural form ends in _rn_
-- if the stem vowel is a/á/o/ó/u/ú, then the stem vowel changes to æ/ǽ/ø/ǿ/y/ý, respectively, and a suffix _-n_ is added;
+- if the stem vowel is a/á/o/ó/u/ú, then the stem vowel changes to æ/a̋/ö/ő/y/ű, respectively, and a suffix _-n_ is added;
 
 r-stems:
 
 |===
 | Singular | Plural
 
-| bróþár | brǿþǽr
-| fádár | fǽdǽr
-| dohtár | døhtǽr
-| módár | mǿdǽr
-| swestár | swestǽr |
+| bróþĕr | brőþa̋r
+| fádár | fa̋da̋r
+| dohtár | döhta̋r
+| módár | mőda̋r
+| swestár | swesta̋r |
 |===
 
 .ár stems (profession)
 |===
 | Singular | Plural | Meaning
 
-| bakár | bakǽr | baker
-| fiskár | fiskǽr | angler
-| skipár | skipǽr | sailor
+| bakár | baka̋r | baker
+| fiskár | fiska̋r | angler
+| skipár | skipa̋r | sailor
 |===
 
 Back stems:
 
 | Singular | Plural | Definition |
 |:---------|:-------|:-----------|
-| broþr    | brøþrn | brother    |
-| bók      | bǿkn   | book       |
-| dór      | dǿrn   | door       |
-| frow     | frøwn  | woman      |
+| broþr    | bröþrn | brother    |
+| bók      | bőkn   | book       |
+| dór      | dőrn   | door       |
+| frow     | fröwn  | woman      |
 | glas     | glæzn  | glass      |
 | hwal     | hwæln  | whale      |
-| hús      | hýzn   | house      |
+| hús      | hűzn   | house      |
 | man      | mænn   | man        |
-| mús      | mýzn   | mouse      |
+| mús      | műzn   | mouse      |
 | stad     | stædn  | city       |
 | wal      | wæln   | wall       |
-| zon      | zønn   | sun        |
+| zon      | zönn   | sun        |
 
 Examples of pluralisation:
 

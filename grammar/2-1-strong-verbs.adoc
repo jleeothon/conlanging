@@ -1,5 +1,7 @@
 = Strong verbs
 
+Verbs are verbs which undergo ablaut to mark preterite or past participle.
+
 == Summary
 
 Strong verbs conjugate with ablaut. They have 3 possible stems:
@@ -7,6 +9,22 @@ Strong verbs conjugate with ablaut. They have 3 possible stems:
 - part 1: for the infinitive, present participle, all present forms,
 - part 2-3: for the preterite,
 - part 4: for the past participle.
+
+|===
+| Class | Pres. | Past | P. Pret
+
+| 1   | ei | ai | i
+| 2   | eu | au | u
+| 34i | i  | a  | u
+| 34e | e  | a  | o
+| 5   | e  | a  | e
+| 6   | a  | ó  | a
+| 7a  | ai | ei | ai
+| 7b  | au | ei | au
+| 7c  | a  | e  | a
+| 7d  | á  | í  | á
+| 7e  | ó  | í  | ó
+|===
 
 .Final consonant alternations for strong verb stems
 [options="footer"]
@@ -16,255 +34,13 @@ Strong verbs conjugate with ablaut. They have 3 possible stems:
 | v | f | b
 | ð | þ | d
 | z | s | r
-| *Conditions*
+s| Conditions
 | For 1st sg. and 3rd sg. persons
 | When followed by a resonant e.g. "`n`"
 |===
 
-## Strong verb stems
+For example:
 
-.Strong verb conjugation paradigm
-[cols="1,1,1,1,2"]
-|===
-| Class | Part 1 | Part 2-3 | Part 4 | Example
-
-| 1 | ei | í | i | greipn/grép/gripn
-
-| 2 | eu | ó | o | fleugn/flóg/flogn
-
-| 2u | ú | o | ú | dúkn/dok/dúkn
-
-| 34i | i | a | u | drinkn/drank/drunkn
-
-| 34e | e | a | o | helpn/halp/holpn
-
-| 5i | i | a | i | bidn/bad/bidn
-
-| 5e | e | a | e | gevn/gaf/gebn
-
-| 6 | á | ú | á | fárn/fúr/fárn
-
-| 71 | ai | í | ai | skaiðn/skíþ/skaiðn
-
-| 72 | au | é | au | hlaupn/hlép/hlaupn
-
-| 734i | a | i | a | fangn/fing/fangn
-
-| 734e | a | e | a | falln/fell/fallnd
-
-| 75 | á | í | á | slápn/slíp/slápn
-
-| 7o | ó | é | ó | hrópn/hrép/hrópn
-|===
-
-.Class 1 strong verb stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1  | Part 2-3 | Part 4 | Meaning | Notes
-
-| dreiv-  | drív-  | driv-  | to drive  |
-| dwein-  | dwín-  | dwin-  | to disappear |
-| gleid-  | glíd-  | glid-  | to glide |
-| greip-  | gríp-  | grip-  | to grab |
-| hreit-  | hrít-  | hrit-  | to scratch | En. _write_, HG. _reißen_
-| hwein-  | hwín-  | hwin-  | to whine |
-| kleiv-  | knív-  | kliv-  | to stick to |
-| kneip-  | kníp-  | knip-  | to pinch |
-| leiv-   | lív-   | liv-   | to remain |
-| reid-   | ríd-   | rid-   | to ride |
-| reiz-   | ríz-   | rir-   | to rise |
-| skein-  | skín-  | skin-  | to shine |
-| skeit-  | skít-  | skit-  | to shit |
-| sneið-  | sníð-  | snid-  | to cut |
-| sneiw-  | sníw-  | sniw-  | to snow |
-| spleit- | splít- | split- | to split |
-| streid- | stríd- | strid- | to quarrel |
-| streik- | strík- | strik- | to strike |
-|===
-
-.Class 2 strong verb stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning   | Notes
-
-| beug-  | bóg-  | boh-  | to bend (intr) |
-| beut-  | bót-  | boh-  | to offer  |
-| dreup- | dróp- | droh- | to drip   |
-| fleug- | flóg- | floh- | to fly    |
-| freuz- | fróz- | froh- | to freeze |
-| geut-  | gót-  | goh-  | to pour   |
-| keuz-  | kóz-  | koh-  | to choose |
-| leuz-  | lóz-  | loh-  | to lose   |
-| skeut- | skót- | skoh- | to shoot  |
-| sleut- | slót- | sloh- | to close  |
-| teuh-  | tóh-  | toh-  | to pull   | HG. ziehen
-|===
-
-.Class 2-u strong verb stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning | Notes
-
-| dúk- | dók- | dúk- | to duck |
-| dúv- | dóv- | dúv- | to dive |
-| súg- | sóg- | súg- | to suck |
-| lúk- | lók- | lúk- | to lock | See _sleutan_
-|===
-
-.Class 34-i strong verb stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning | Notes
-
-| bind-   | band-   | bund-   | to bind         |
-| brinn-  | brann-  | brunn-  | to burn (intr.) |
-| drink-  | drank-  | drunk-  | to drink        |
-| find-   | fand-   | fund-   | to find         |
-| grimm-  | gramm-  | grumm-  | to be angry     |
-| hring-  | hrang-  | hrung-  | to ring         |
-| sinn-   | sann-   | sunn-   | to ponder       | HG. sinnen
-| sing-   | sang-   | sun-    | to sing         |
-| spring- | sprang- | sprung- | to jump         |
-| stink-  | stank-  | stun-   | to stink        |
-| swing-  | swang-  | swun-   | to swing        |
-|===
-
-.Class 34-e strong verb stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning | Notes
-
-| stel-  | stal-  | stol-   | to steal    |
-| geld-  | gald-  | gold-   | to be worth | HG. gelten
-| help-  | halp-  | holp-   | to help     |
-| hwerv- | hwarv- | hworv-  | to throw    |
-| kwemm- | kwamm- | kwomm-  | to come     |
-| melk-  | malk-  | molk-   | to milk     | HG. werden
-| melt-  | malt-  | molt-   | to melt     |
-| nem-   | nam-   | nom-    | to take     |
-| smelt- | smalt- | smolt-  | to melt     |
-| sterb- | sta-   | storbe- | to speak    |
-| swell- | swall- | swoll-  | to swell    |
-| werð-  | warð-  | worð    | to become   | HG. werden
-|===
-
-There are some class 34 verbs that break the pattern i.e. the ablaut vowel is not followed by m/n/l/r.
-
-.Class 34 strong verb exceptional stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning | Notes
-
-| brek-  | brak-  | brok-  | to break |
-| sprek- | sprak- | sprok- | to speak |
-| stik-  | stak-  | stuk-  | to stick |
-|===
-
-.Class 5-i strong verb stems
-
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning | Notes
-
-| bid- | bat- | bid- | to request       | HG. bitten
-| lig- | lag- | lig- | to lie (to rest) | HG. liegen
-| sit- | sat- | sit- | to sit           |
-| þig- | þag- | þig- | to accept        | PGe. þigjaną
-|===
-
-.Class 5-e strong verb stems
-
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning | Notes
-
-| et-   | at-   | et-   | to eat     |
-| gev-  | gav-  | geb-  | to give    |
-| get-  | gat-  | get-  | to get     |
-| lez-  | laz-  | lez-  | to read    |
-| met-  | mat-  | met-  | to measure |
-| pleh- | plah- | pleh- | to commit  | HG. pflegen, Pflicht
-| seh-  | sah-  | seh-  | to see     |
-| wrek- | wrak- | wrek- | to punish  | En. wreak, HG. rächen
-| kned- | knad- | kned- | to knead   | PGe. irregular 4
-|===
-
-.Class 6 strong verb stems
-
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning    | Notes
-
-| bák-   | búk-   | bák-  | to bake    |
-| drág-  | drúg-  | drág- | to carry   |
-| fár-   | fúr-   | fár-  | to drive   |
-| gráb-  | grúb-  | gráb- | to dig     |
-| hláð-  | hlúð-  | hláð- | to load    |
-| mál-   | múl-   | mál-  | to grind   |
-| waás-  | wúhs-  | waás- | to grow    |
-| sláh-  | slúh-  | sláh- | to hit     | HG. schlagen
-| wák-   | wúks-  | wák-  | to wake up | Intr. See wækan
-| shák-  | shúk-  | shák- | to shake   |
-| hr-  | shúk-  | shák- | to shake   |
-|===
-
-.Class 71 strong verb stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning | Notes
-
-| hait-  | heit-  | hait- | to be named |
-| swaip- | sweip- | swep- | to swipe    |
-| skaið- | skeið- | skeð- | to separate |
-|===
-
-.Class 72 strong verb stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning     | Notes                     |
-
-| haldan  | hild      | haldn | to hold     | PGe. haldaną              |
-| hlópan  | hlíp      | hlópn | to run      | PGe. hlaupaną             |
-| latan   | lit       | latn  | to let      | PGe. lētaną               |
-| slápan  | slíp      | slapn | to sleep    | PGe. slēpaną              |
-| stótan  | stit      | stótn | to push     | HG. stützen               |
-| þrawan  | þriw      | þrawn | to twist    | En. to throw, HGe. drehen |
-|===
-
-
-.Class 734 strong verb stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning     | Notes
-
-| bannan | binn | bannn | to ban |
-| spannan | spinn  | spannn | to span |
-| blandan | blind  | blandn | to blend |
-| hangan | hing  | hangn | to hang | PGe. hanhaną
-| fangan | fing | fangn | to catch | PGe. fanhaną |
-| fallan | fell  | falln | to fall |
-| haldan | held | haldn | to hang |
-|===
-
-.Class 76 strong verb stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning     | Notes
-
-| blazan  | blís      | blazn      | to blow     |
-| slapan  | slíp      | slapn      | to sleep     |
-| radan   | rid       | radn      | to advise     |
-| bratan  | brít      | bratn      | to advise     |
-| bratan  | brít      | bratn      | to advise     |
-|===
-
-.Class 7o strong verb stems
-[cols="1,1,1,1,2"]
-|===
-| Part 1 | Part 2-3 | Part 4 | Meaning     | Notes
-
-| blowan |  bliw | blown | to flower |
-| hropan | hrip | hropn | to call |
-| hlowan | hliw | hlown | to shout |
-| growan | griw | grown | to grow (intr., for plants) |
-|===
+- "`He hwerft þen kat.`" (_He throws the cat_)
+- "`We hwervm þem katr.`" (_we drive_)
+- "`Þen kat is hwerbn`"

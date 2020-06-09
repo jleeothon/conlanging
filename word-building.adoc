@@ -1,48 +1,68 @@
 = Word-building
 
-== Vowels
-
-These rules govern the choice of vowel for a lemma. Any ablaut and i-umlaut forms follow their own rules, explained in the respective sections about e.g. nouns and verbs.
-
 The vowel of a lemma is chosen according to the form of the same lemma in Proto-Germanic.
+
+The rules for choosing a vowel in Þiudisk-H from PG lemmas are:
+
+The first step is the simplification of endings.
+
+* _*-ingaz_ *umlauts* the prevous vowel and becomes _-ing_.
+** E.g. _*kuningaz_ (king) becomes intermediate _küning_.
+* _*-ô_ lengthens the previous vowel without changing its articulation.
+** E.g. _*apô_ (ape) becomes intermediate _áp_.
+* _*-az_ disappears.
+* _*-iz_ *umlauts* the previous vowel, if applicable, and disappears.
+** E.g. _*hulliz_ (hill) becomes intermediate _hüll_.
+** E.g. _*hrōmiz_ (fame) becomes intermediate _hrőm_.
+** E.g. _*hildiz_ (battle) becomes intermediate _hild_.
+
+The second step is the change of consonants.
+
+* A non-geminate _*b_ becomes intermediate _v_ (may turn into _f_ according to
+phonological and spelling rules).
+* Geminate _*bb_ becomes _b_.
+** E.g. _*krabbô_ > _krább_ > _krab_.
+* The cluster _*sk_ becomes _sċ_ /sx/ ~ /ʃ/.
+** E.g. _sċeutan_ < _*skeutaną_, _rasċ_ < _*raskaz_, _þiudisċ_ < _þiudiskaz_.
 
 Summary:
 
 |===
-| PGe.| Conlang1 | Ex. noun PGe. | Conlang1
+| PGe.| Þiudisk-H | Example
 
-5+| Short vowels
-| i | i | skipą  | ship
-| u | o | wulfaz | wolf
-| e | e | hertô  | hert
-| a | a | aplaz  | apl
+3+h| Short vowels
+| i | i | skipą  > ship
+| u | o | wulfaz > wolf
+| e | e | hertô  > hert
+| a | a | aplaz  > apl
 
-5+| Long vowels
-| ī | ei | lībą  | leif | life
-| ū | ú  | hūsą  | hús | house
-| ē | á  | sēdiz | sád | seed
-| ō | ó  | fōts  | fót | foot
+3+h| Long vowels
+| ū  | ú  | hūsą  > hús
+| ē  | á  | sēdiz > sád
+| ō  | ó  | fōt   > fót
 
-5+| Diphthongs
-| ai | ai | stainaz | stain | stone
-| eu | eu | leuhtą | leuht | light
-| au | au  | augô | aug | eye
+3+h| Diphthongs
+| ei | ei | lībą > leif
+| eu | eu | leuhtą > leuht
+| ai | ai | stainaz > stain
+| au | au | augô > aug
+| iu | iu | þiudiskaz > þiudisk
 
-5+| Diphthongs with umlaut
+4+| Diphthongs with umlaut
 | eu+i | í | |
-| ai+i | ǽ | |
+| ai+i | a̋ | |
 | au+i |  | braudą |
 |===
 
 With i-umlaut:
 
 |===
-| Short | Long   | Glide   |
+| Short | Long   | Glide 
 
-| i → i | ī -> í | ei -> í |
-| u → o | ū -> ú | ai -> é |
-| e → e | ē -> é | eu -> í |
-| a → a | ō -> ó | au -> ó |
+| i > i | ī > í | ei > í 
+| u > o | ū > ú | ai > é 
+| e > e | ē > é | eu > í 
+| a > a | ō > ó | au > ó 
 |===
 
 === Short vowels
@@ -67,12 +87,12 @@ PGe "u" --> "o":
 | kussaz | kos  | Kuss  | kus  | kiss   | coss  |
 |===
 
-PGe "u" with i-umlaut --> "y":
+PGe "u" with i-umlaut --> "ü":
 
 |===
 | PGe     | CL   | DE     | NL   | EN     | OEn   |
 
-| hrugjaz | hryg | Rücken | rug  | ridge  | hryċġ |
+| hrugjaz | hrüg | Rücken | rug  | ridge  | hryċġ |
 |===
 
 PGe "e" --> "e":
@@ -115,13 +135,13 @@ PGe "au" --> "ow" /ou/:
 | fraujǫ   | frow    | Frau   | vrouw |      | frēo    |
 |===
 
-PGe "au" with i-umlaut --> "øw" /œy̯/:
+PGe "au" with i-umlaut --> "öw" /œy̯/:
 
 |===
 | PGe         | CL      | DE     | NL              | EN   | OEn      |
 
-| staurijanan | støwran | stören | storen, steuren | stir | styrian? |
-| hauzijaną   | høwzan  | hören  | horen           | hear | hȳran    |
+| staurijanan | stöwran | stören | storen, steuren | stir | styrian? |
+| hauzijaną   | höwzan  | hören  | horen           | hear | hȳran    |
 |===
 
 PGe "ē" --> "á":
@@ -162,12 +182,12 @@ PGe "ō" --> "ó":
 | kōlaz  | kól  | kühl | koel  | cool  | cōl  |
 |===
 
-PGe "ō" with i-umlaut --> "ǿ":
+PGe "ō" with i-umlaut --> "ő":
 
 |===
 | PGe      | CL    | DE     | NL     | EN   | OEn   |
 
-| fōlijaną | fǿlan | fühlen | voelen | feel | fēlan |
+| fōlijaną | főlan | fühlen | voelen | feel | fēlan |
 |===
 
 PGe "ū" --> "ú":

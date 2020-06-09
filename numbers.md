@@ -1,42 +1,41 @@
 # Numbers
 
 - én
-- twé
-- ðrí
-- fǿr
-- fynf
+- twei
+- þrí
+- feur
+- fimf
 - sehs
-- sǿf
+- seun
 - aht
-- newn
+- neun
 - tín
-- énlif
-- twélif
-- ðrítín
-- fǿrtín
-- fynftín
+- élf
+- twélf
+- þrítín
+- főrtín
+- fünftín
 - sehstín
-- sǿftín
-- newntín
+- sőftín
+- neuntín
 
 Tens:
 
-- twédig
+- tweidig
 - ðrídig
-- fǿrdig
-- fynfdig
+- főrdig
+- fimfdig
 - sehsdig
 - ahtdig
-- newndig
-
+- neundig
 
 Bigger numbers:
 
-- hondrd
-- dúsnd
+- hondrĕd
+- þúzĕnd
 
 Tens with units:
 
-- twédigén
-- twédigtwé
+- én-ond-twédig
+- twé-ond-twédig
 - etc.

@@ -1,0 +1,46 @@
+= Numbers
+
+|===
+| Number | Cardinal | Ordinal | Multiple | Fraction
+
+| 1 | én   | érst  |          |
+| 2 | twé  | twéd  | twéfald  | half*
+| 3 | þrí  | þríd  | þrífald  | þrídĕl
+| 4 | fjer | fjerd | fjerfald | fjerdĕl
+| 5 | fimf | fimfd | fimffald | fimfdĕl
+| 6 | sehs | sehsd | sehsfald | sehsdĕl
+| 7 | sevn | sevnd | sevnfald | sevndĕl
+| 8 | aht  | ahtd  | ahtfald  | ahtdĕl
+| 9 | negn | negnd | negnfald | negndĕl
+
+| 10 | ten   | tend   | tenfald   | tendĕl
+| 11 | elf   | elfd   | elffald   | elfdĕl
+| 12 | twalf | twalfd | twalffald | twalfdĕl
+
+| 13 | þriten* | þritend* | þritenfald* | þritendĕl*
+| 14 | fjerten | fjertend | fjertenfald | fjertendĕl
+| 15 | fimften | fimftend | fimftenfald | fimftendĕl
+| 16 | sehsten | sehstend | sehstenfald | sehstendĕl
+| 17 | sevnten | sevntend | sevntenfald | seventendĕl
+| 18 | ahten   | ahttend  | ahttenfald  | ahttendĕl
+| 19 | negnten | negntend | negntenfald | negntendĕl
+
+| 20 | twéntig          | twéntigd       | twéntigfald          | twéntigdĕl
+| 21 | twéntig-ond-én   | twéntig-érst   | twéntig-ond-énfald   | twéntig-ond-éndĕl
+| 22 | twéntig-ond-twé  | twéntig-twéd   | twéntig-ond-twéfald  | twéntig-ond-twédĕl
+| 23 | twéntig-ond-þrí  | twéntig-þríd   | twéntig-ond-þrífald  | twéntig-ond-þrídĕl
+| 24 | twéntig-ond-fjer | twéntig-fjerd  | twéntig-ond-fjerfald | twéntig-ond-fjerdĕl
+
+|===
+
+Bigger numbers:
+
+_ 30: þrítig
+_ 40: fjertig
+_ 50: fimftig
+_ 60: sehstig
+_ 70: sevntig
+_ 80: ahttig
+_ 90: negntig
+- 100: honderd
+

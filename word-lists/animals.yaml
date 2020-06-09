@@ -1,0 +1,16 @@
+---
+topic: [animals]
+lemmas:
+
+- lemma: deur
+  source: {PWG: deur, PG: deuzą}
+  meaning: animal
+
+---
+topic: [animals, mammals]
+lemmas:
+
+- lemma: mús
+  class: noun
+  source: {PG: mūs}
+  meaning: mouse

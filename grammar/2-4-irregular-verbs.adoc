@@ -19,7 +19,7 @@ Meaning to be.
 
 | 1 sg | im  | was
 | 2 sg | irs | wars
-| 3 sg | is  | was
+| 3 sg | ir  | was
 | 1 pl | sim | warmd
 | 2 pl | sid | ward
 | 3 pl | sin | warn
@@ -86,3 +86,13 @@ Meaning "to go".
 | 2 pl | dód | dádd
 | 3 pl | dón | dádn
 |===
+
+---
+
+strong 5          - lesaną - to read
+preterite-present - lisaną - to know
+weak 1 causative - laizijaną - to teach
+weak 4 fientive - liznaną - to learn
+
+lizan - to read
+ek l

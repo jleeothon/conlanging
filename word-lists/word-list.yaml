@@ -1,75 +1,5 @@
-- theme: [landscape]
-  lemmas:
-    - lemma: erþ
-      class: noun
-      source: {PWG: erþu, PG: erþō}
-      meaning: earth
 
-    - lemma: himil
-      class: noun
-      source: {PG: himilaz}
-      meaning: sky
-
-
-- theme: [colours]
-  lemmas:
-    - lemma: farw
-      class: noun
-      source: {PG: farwō}
-      meaning: colour
-      note: Pronounced far̨w
-
-    - lemma: gelw
-      class: adj
-      source: {PG: gelwaz}
-      meaning: yellow
-
-    - lemma: bláw
-      class: adj
-      source: {PG: blēwaz}
-      meaning: blue
-
-    - lemma: swart
-      class: adj
-      source: {PG: swartaz}
-      meaning: black
-
-    - lemma: hwít
-      class: adj
-      source: {PG: hwītaz}
-      meaning: white
-
-    - lemma: raud
-      class: adj
-      source: {PG: raudaz}
-      meaning: red
-
-    - lemma: grýn
-      class: adj
-      source: {PWG: grōnī, PG: grōniz}
-      meaning: green
-
-    - lemma: brún
-      class: adj
-      source: {PG: brūnaz}
-      meaning: brown
-
-    - lemma: gráw
-      class: adj
-      source: {PG: grēwaz}
-      meaning: grey
-
-    - lemma: bariskA
-      class: adj
-      source: {PG: wīnabasją (wine berry)}
-      meaning: purple
-
-    - lemma: gelẘraud
-      class: adj
-      meaning: orange
-
-
-- theme: animals
+- topic: animals
   lemmas:
     - lemma: deur
       infl: {deur}
@@ -77,10 +7,6 @@
 
 == Animals
 
-deur::
-noun, pl. *deurrn* +
-PWG _*deur_ < PG _*deuzą_ +
-animal
 
 feh::
 noun, pl. *fehrn* +
@@ -103,7 +29,7 @@ elh::
 PG _*elhaz_ +
 elk
 
-herut::
+herot::
 PG _*herutaz_ +
 deer, stag
 
@@ -120,12 +46,12 @@ _*hindiz_, *_hindō_ +
 female deer, doe
 
 wolf::
-noun, pl. *wølvn* +
+noun, pl. *wölvn* +
 PG _*wulfaz_ +
 wolf
 
 hond::
-noun, pl. *hyndn* +
+noun, pl. *höndn* +
 PG _*hundaz_
 dog
 
@@ -140,7 +66,7 @@ PG _*berô_ +
 bear
 
 fohs::
-noun, pl. *føhsn* +
+noun, pl. *föhsn* +
 PG _*fuhsaz_ +
 fox
 
@@ -150,7 +76,7 @@ PG _*kattuz_ +
 cat
 
 lohs::
-noun, pl. *løhsn* +
+noun, pl. *löhsn* +
 PG _*luhsaz_ +
 lynx
 
@@ -161,7 +87,7 @@ seal
 
 // or hárm?
 hárm::
-noun, pl. *hǽrmn* +
+noun, pl. *ha̋rmn* +
 PG _*harmô_
 ermine, weasel
 
@@ -172,7 +98,7 @@ PG _*marþraz_ +
 marten
 
 otr::
-noun, pl. *øtr* +
+noun, pl. *ötr* +
 PG _*utraz_
 otter
 
@@ -193,12 +119,12 @@ PWG _*igil_ < PG _*igilaz_ +
 hedgehog
 
 hás::
-noun, pl. *hǽzn*
+noun, pl. *ha̋zn*
 PG _*hasô_
 hare
 
 áp::
-noun, pl. *ǽpn* +
+noun, pl. *a̋pn* +
 PG _*apô_ +
 ape
 
@@ -215,7 +141,7 @@ PG _*bebruz_ +
 beaver
 
 mús::
-noun, pl. *mýzn* +
+noun, pl. *műzn* +
 PG mūs +
 mouse
 
@@ -229,17 +155,17 @@ PWG _*ehw_ < PG _*ehwaz_ +
 ewe, horse
 
 hros::
-noun, pl. *hrøzn* +
+noun, pl. *hrözn* +
 PWG _*hross_ < PG _*hrussą_ +
 horse
 
 stód::
-noun, pl. *stǿdn* +
+noun, pl. *stődn* +
 PG _*stōdą_ +
 a herd of horses
 
 fól::
-noun, pl. *fǿln* +
+noun, pl. *főln* +
 PG _*fulô_ +
 foal
 
@@ -250,7 +176,7 @@ mare, female horse
 
 ==== Cows
 
-óhs::
+úhs::
 PWG ohsō < PG uhsô
 ox, castrated bull
 
@@ -317,12 +243,12 @@ PG _*hanjō_ +
 hen, female chicken
 
 hán::
-noun, pl. *hǽn* +
+noun, pl. *ha̋n* +
 from PG _*hanô_ +
 rooster, chicken
 
 kok::
-noun, pl. *køkn* +
+noun, pl. *kökn* +
 PG _*kukkaz_ +
 cock, rooster, chicken
 
@@ -334,7 +260,7 @@ chicken
 === Birds
 
 fogl::
-noun, pl. føgln +
+noun, pl. fögln +
 PG _*fuglaz_ +
 bird +
 Related to *fleugn* (to fly)
@@ -343,7 +269,7 @@ Related to *fleugn* (to fly)
 PG _*feþrō_ +
 
 dúf::
-noun, pl. *dývn* +
+noun, pl. *dűvn* +
 PG _dūbǭ_ +
 dove
 
@@ -353,17 +279,17 @@ PG _*gaukaz_ +
 cuckoo
 
 krán::
-noun, pl. *krǽnn* +
+noun, pl. *kra̋nn* +
 PG _*kranô_ +
 crane
 
 páw::
-noun, pl. *pǽwn* +
+noun, pl. *pa̋wn* +
 PG _*pawô_ < Latin _pāvō_ +
 peafowl
 
 stork::
-noun, pl. *størkn* +
+noun, pl. *störkn* +
 PG _*sturkaz_ +
 stork
 
@@ -437,7 +363,7 @@ PG _*falkô_ +
 falcon
 
 húw::
-noun, pl. *hýwn* +
+noun, pl. *hűwn* +
 PG _*hūwô_ +
 owl
 
@@ -451,8 +377,8 @@ noun, pl. *wíwrn* +
 PG _*wīwô_ +
 harrier
 
-kýt::
-noun, pl. *kýt* +
+kűt::
+noun, pl. *kűt* +
 PG _*kūtijô_ +
 kite
 
@@ -477,7 +403,7 @@ seagull
 === Amphibians and reptiles
 
 frosk::
-noun, pl. *frøskn* +
+noun, pl. *fröskn* +
 PWG _*frosk_ < PG _*fruskaz_ +
 frog
 
@@ -487,7 +413,7 @@ PG _*nadrǭ_ +
 adder
 
 snák::
-noun, pl. *snǽkn* +
+noun, pl. *sna̋kn* +
 PG _*snakô_ +
 snake
 
@@ -505,17 +431,17 @@ PG _*barsaz_ +
 perch
 
 ál::
-noun, pl. ǽln +
+noun, pl. a̋ln +
 PG _*ēlaz_ +
 eel
 
 flonðr::
-noun, pl. *flønðrn*
+noun, pl. *flönðrn*
 PG _*flunþrijǭ_ +
 flounder, flatfish
 
 forhn::
-noun, pl. *førhn*
+noun, pl. *förhn*
 PWG _*forhnu_ < PG _*furhnō_ +
 trout
 
@@ -534,21 +460,21 @@ noun, pl. *smeltrn* +
 PG _*smeltaz_
 smelt
 
-// u+umlaut = y or ø?
-stør
-noun, pl. *størrn*
+// u+umlaut = y or ö?
+stör
+noun, pl. *störrn*
 PG _*sturjô_
 sturgeon
 
 þorsk
-noun, pl. *þørskn*
+noun, pl. *þörskn*
 PG _*þurskaz_
 cod
 
 === Invertebrates
 
 worm::
-noun, pl. *wørmn* +
+noun, pl. *wörmn* +
 PG _*wurmiz_ +
 worm
 
@@ -593,7 +519,7 @@ beeswarm
 // first loss of ô
 // then bb->b (at the same time b->v)
 kráb::
-noun, pl. *krǽb* +
+noun, pl. *kra̋b* +
 PG _*krabbô_ +
 crab
 
@@ -615,13 +541,13 @@ PG _*baumaz_ +
 tree
 
 blóm::
-noun, pl. *blǿm* +
+noun, pl. *blőm* +
 PG _*blōmô_
 flower
 
 // maybe buhs by u-umlaut
 bohs::
-noun, pl. *bøhs* +
+noun, pl. *böhs* +
 PG _*buhsuz_ +
 boxwood
 
@@ -645,7 +571,7 @@ PG _*hwannō_
 angelica
 
 korn
-noun, pl. *kørnn*
+noun, pl. *körnn*
 PG _*kurną*
 
 ### Fruit
@@ -666,7 +592,7 @@ PG _*aplaz_ +
 apple
 
 plúm::
-noun, pl. plýmn::
+noun, pl. plűmn::
 PWG _*plūmā_ +
 plum
 

@@ -1,44 +1,60 @@
 = Preterite-present verbs
 
-These include verbs that were preterite-present verbs in PGe plus the descendant of _wiljaną_.
+[.normal]
+These include verbs that were preterite-present verbs in PGe, plus the reflex of _wiljaną_.
 
-Summary:
+== List of verbs
+
+This is the list of Þiudisk-H preterite-present verbs according to the strong class of their root.
 
 [%autowidth.stretch]
 |===
-| Strong cl. | Infinitive | Sg. pres. stem | Pl. pres. stem | Pret. stem | Meaning
+|   | Infinitive | Sg. pres. | Pl. pres. | Pret. | P. Part. | Meaning
 
-| 1 | weitn  | wit- | weit-  | wost-  | to know that
-| 1 | eign  | ig-  | eig-  | ohd-   | to own
-| 2 | dygn  | deug- | dyg-  | duhd-  | to be fit or useful
-| 3 | kynn  | kan-  | kyn-  | kund-  | to be able to
-| 3 | g̨ynn  | g̨an-  | g̨yn-  | gund-  | to allow
-| 3 | þørvn | þarv- | þørv- | þorfd- | to need
-| 3 | dørzn | darz- | dørz- | dorsd- | to dare
-| 4 | skyln | skal- | skyl- | skuld-
-| (Used in periphrastic constructions)footnote:[Present stem marks future tense; past stem marks conditional mood]
-| 4 | munn  | man-  | myn-  | mund-  | to believe that
-| 5 | g̨nygn | g̨nag- | g̨nyg- | g̨nuhd- | to be enough
-| 6 | møgn  | mag-  | møg-  | mohd-  | to be allowed to
-| 6 | mytn  | mut-  | myt-  | must-  | to have to
-| 6 | ógn   | ag-   | og-   | ohd    | to fear
-| - | wøln  | wil-  | wøl-  | wold-  | to want
+| 1 | witan   | weit-  | wit-   | wost-   | wostd | to know that
+| 1 | igan    | eig-   | ig-    | ohd-    | ohdd  | to own
+
+| 2 | dügan   | deug-  | düg-   | duhd-   | - | to be fit or useful for
+
+| 3 | künan   | kan-   | kün-   | kund-   |  | to be able to
+| 3 | gĕünan  | gĕan-  | gĕün-  | gĕund-  | | to allow
+| 3 | þörvan  | þarv-  | þörv-  | þorfd-  | þorfĕd | to need
+| 3 | dörzan  | darz-  | dörz-  | dorsd-  | | to dare
+
+| 4 | skölan  | skal-  | sköl-  | skold-  | - | footnote:skal[Present conjugation marks the future tense; preterite conjugation marks the conditional mood ]
+| 4 | munnan  | man-   | mün-   | mund-   | mundĕd | to believe that
+
+| 5 | gĕnügan | gĕnag- | gĕnüg- | gĕnuhd- | - | to be enough
+
+| 6 | mögan   | mag-   | mög-   | mohd-   | mohdĕd | to be allowed to
+| 6 | mütan   | mut-   | müt-   | must-   | mustĕd | to have to
+| 6 | ógan    | ag-    | og-    | ohd-    | ohdd  | to be scared to
+
+| - | wölan   | wil-   | wöl-   | wold-   | woldĕd | to want
+
 |===
 
-Present-tense conjugation follows this paradigm:
+== Conjugation
 
-.
 |===
 | Person | Present suffix | Past suffix
 
-| 1 sg. | ∅ footnote:frDev[Fricatives alternate f/v, þ/ð, s/z] | -◌̨d
-| 2 sg. | -◌̨s | -d̨s
-| 3 sg. | ∅ footnote:frDev[] | -◌̨d
-| 1 pl. | -◌̨m | -d̨m
-| 2 pl. | -◌̨d | -d̨d
-| 3 pl. | -◌̨n | -d̨n
+| 1 sg. | - footnote:frDev[Fricatives alternate f/v, þ/ð, s/z] | -ĕd
+| 2 sg. | -ĕs | -ĕds
+| 3 sg. | - footnote:frDev[] | -ĕd
+| 1 pl. | -ĕm | -dĕm
+| 2 pl. | -ĕd | -dĕd
+| 3 pl. | -ĕn | -dĕn
 |===
 
-The present preterite is formed with the infinitive + d.
+== Definitions
 
-These verbs can only be followed by verbal phrases, not by noun phrases.
+=== witan
+
+Means: to know (a fact). Followed by an object noun, or a relative phrase
+introduced by _þat_.
+
+Examples:
+
+- Ik wit þet. (_I know it_)
+- We weitĕm þat þe kat þen mús at. (_We know that the cat ate the mouse_).

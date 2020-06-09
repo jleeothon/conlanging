@@ -1,6 +1,31 @@
 = Adjectives
 
-Adjectives have no agreement with the nouns.
+== Inflection
+
+Adjectives inflect according to their grammatical function, number, and case.
+
+In the *predicative** form, the adjective does not inflect.
+
+In the *attributive* form, a series of suffixes are attached to the adjective
+according to case and number. An attributive adjective usually _precedes_ the
+noun it modifies. When the adjective _follows_ its noun, it is prefixed with
+"`gĕ`".
+
+|===
+| h| Singular   h| Plural
+
+h| Nominative | -   | -ĕ
+h| Accusative | -ĕn | -ĕm
+h| Genitive   | -ĕs | -ĕr
+|===
+
+Examples:
+
+- Þe hond is hongrig.
+- Þe hongrig hond.
+- Þe hond gĕhongrig etĕt.
+- Ek
+- Þej hongrigĕr hondĕn
 
 == Comparative and superlative
 

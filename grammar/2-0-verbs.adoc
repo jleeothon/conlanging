@@ -2,52 +2,54 @@
 
 == Introduction
 
-Verbs in conlang1 conjugate with person and number. Conlang1 is a pro-drop language.
+Verbs in Þiudisk-H conjugate with person and number. Þiudisk-H is a mild pro-drop language.
 
 Verbs can be conjugated for 3 persons, 2 numbers, and present and preterite tenses. The non-conjugated forms include:
 
-- the infinitive--usually with the same stem as the present conjugations,
+- the present infinitive--usually with the same stem as the present conjugations,
 - the past infinitive--always with the same stem as the past conjugations and meaning "`to have done`",
 - the active participle,
 - the passive participle.
 
-There are two main types of verbs: strong verbs and weak verbs. They differ in the preterite construction. Strong verbs have vowel alternations. Weak verbs have a dental suffix.
+There are two main types of verbs: *strong verbs* and *weak verbs*. They differ in the preterite construction. Strong verbs have vowel alternations. Weak verbs have a dental suffix.
 
-There are some irregular verbs. ąå
+There are some *irregular verbs* and *preterite-present* verbs.
 
 The present conjugations vary in number and person. For both weak and strong verbs, the present tense endings are:
 
 .Present tense suffixes
 
+[cols="s,1,s,1"]
 |===
-| Person, Sg. | Suffix | Person, Pl. | Suffix
+| Singular | Suffix | Plural | Suffix
 
-| 1st. | -ẘ | 1st. | -m̊
-| 2nd. | -s̊ | 2nd. | -d̥
-| 3rd. | -t̊ | 3rd. | -n̊
+| 1st. | -ĕw | 1st. | -ĕm
+| 2nd. | -ĕs | 2nd. | -ĕj
+| 3rd. | -ĕt | 3rd. | -ĕn
 |===
 
 The preterites of weak verbs have the following suffixes:
 
 .Past tense weak-verb suffixes
 
+[cols="s,1,s,1"]
 |===
-| Person, Sg. | Suffix | Person, Pl. | Suffix
+| Singular | Suffix | Plural | Suffix
 
-| 1st. | -d̥ | 1st. | -dm̊
-| 2nd. | -ds̊ | 2nd. | -dd̥
-| 3rd. | -d̥ | 3rd. | -dn̊
+| 1st. | -ĕd  | 1st. | -dĕm
+| 2nd. | -dĕs | 2nd. | -dĕj
+| 3rd. | -ĕd  | 3rd. | -dĕn
 |===
+
+The preterites of strong verbs have the following suffixes:
 
 .Past tense strong-verb suffixes
 
-The preterites of strong verbs have the following suffixes:
+[cols="s,1,s,1"]
 |===
-| Person, Sg. | Suffix | Person, Pl. | Suffix
+| Singular | Suffix | Plural | Suffix
 
-| 1st. | - | 1st. | -m̊
-| 2nd. | -s̊ | 2nd. | -d̥
-| 3rd. | - | 3rd. | -n̊
+| 1st. | -   | 1st. | -ĕm
+| 2nd. | -ĕs | 2nd. | -ĕj
+| 3rd. | -   | 3rd. | -ĕn
 |===
-
-The preterite of strong verbs have the same suffixes are the present.

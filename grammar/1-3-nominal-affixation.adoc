@@ -1,0 +1,8 @@
+= Nominal affixation
+
+|===
+| Affix | Meaning | Affixed to | Example
+
+| -ar | as agent suffix | verb | bakár (_baker_)
+| -de | ordinal number | number | twod
+|===

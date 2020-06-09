@@ -1,0 +1,65 @@
+topic: [adpositions]
+words:
+
+- static: för
+  direction: förto
+  predicative: bĕförn
+  attributive: förĕ
+  basic meaning: in front of (space), before (time)
+  root: {pg: furi, furai}
+
+- static: hindr
+  direction: hindrto
+  predicative: bĕhindrn
+  attributive: hindrĕ
+  basic meaning: behind
+  root: {pg: hinder}
+
+- static: aftr
+  direction: null
+  predicative: aftern
+  attributive: afterĕ
+  basic meaning: after
+  root: {pg: after}
+
+- static: in
+  direction: into
+  predicative: binĕn
+  attributive: binrĕ
+  basic meaning: in
+  root: {pg: in}
+
+- static: ut
+  direction: utto
+  predicative: butĕn
+  attributive: butrĕ
+  basic meaning: out
+  root: {pg: ūt}
+
+- static: niðr
+  direction: niðrto
+  predicative: niðĕn
+  attributive: niðrĕ
+  basic meaning: below
+  root: {pg: niþer}
+
+- static: ovr
+  direction: ovrto
+  predicative: bovĕn
+  attributive: bovrĕ
+  basic meaning: over, above
+  root: {pg: uber}
+
+- static: op
+  direction: opto
+  predicative: opĕn
+  attributive: oprĕ
+  basic meaning: up, on
+  root: {pg: upp}
+
+- static: ondr
+  direction: ondrto
+  predicative: ondĕn
+  attributive: ondrĕ
+  basic meaning: under
+  root: {pg: under}

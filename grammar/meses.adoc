@@ -1,0 +1,25 @@
+Meses:
+
+Otoño
+
+- Vendimiario
+- Brumario
+- Frimario
+
+Invierno
+
+- Nevoso
+- Lluvioso
+- Ventoso
+
+Primavera
+
+- Germinal
+- Floral
+- Praderal
+
+Verano
+
+- Meisdor
+- Calendor
+- Frutidor
