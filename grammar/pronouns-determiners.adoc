@@ -41,7 +41,7 @@ The indefinite articles are:
 | | Nominative | Oblique | Genitive
 
 h| Sg. | en  | enĕn | enĕs
-h| Pl. | enĕ | enĕm | enĕr
+h| Pl. | enĕj | enĕm | enĕr
 |===
 
 The demostratives are:
@@ -49,13 +49,13 @@ The demostratives are:
 |===
 | | Nominative | Oblique | Genitive
 
-h| Sg. prox.   | þi | þit | þits
-h| Sg. medial  | þa | þat | þats
-h| Sg. distal  | jé | jén | jéns
+h| Sg. prox.   | þit | þizĕn | þizĕs
+h| Sg. medial  | þat | þazĕn | þazĕs
+h| Sg. distal  | jet | jenĕn | jenĕs
 
-h| Pl. close   | þízĕ | þízĕn | þízĕs
-h| Pl. medial  | þázĕ | þázĕn | þázĕs
-h| Pl. distal  | jénĕ | jénĕn | jénĕs
+h| Pl. close   | þizĕj | þizĕm | þizĕr
+h| Pl. medial  | þazĕj | þazĕm | þazĕr
+h| Pl. distal  | jenĕj | jenĕm | jenĕr
 |===
 
 All articles and demostratives can be used as pronouns.

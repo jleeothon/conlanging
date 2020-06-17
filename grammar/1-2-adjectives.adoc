@@ -14,7 +14,7 @@ noun it modifies. When the adjective _follows_ its noun, it is prefixed with
 |===
 | h| Singular   h| Plural
 
-h| Nominative | -   | -ĕ
+h| Nominative | -ĕ  | -ĕj
 h| Accusative | -ĕn | -ĕm
 h| Genitive   | -ĕs | -ĕr
 |===

@@ -20,9 +20,9 @@ Meaning to be.
 | 1 sg | im  | was
 | 2 sg | irs | wars
 | 3 sg | ir  | was
-| 1 pl | sim | warmd
-| 2 pl | sid | ward
-| 3 pl | sin | warn
+| 1 pl | sim | warĕm
+| 2 pl | sid | warĕd
+| 3 pl | sin | warĕn
 |===
 
 .hævn

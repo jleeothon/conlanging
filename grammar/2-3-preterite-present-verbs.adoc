@@ -11,10 +11,10 @@ This is the list of Þiudisk-H preterite-present verbs according to the strong c
 |===
 |   | Infinitive | Sg. pres. | Pl. pres. | Pret. | P. Part. | Meaning
 
-| 1 | witan   | weit-  | wit-   | wost-   | wostd | to know that
-| 1 | igan    | eig-   | ig-    | ohd-    | ohdd  | to own
+| 1 | witan   | wait-  | wit-   | wost-   | wostd | to know that
+| 1 | igan    | aig-   | ig-    | ohd-    | ohdd  | to own
 
-| 2 | dügan   | deug-  | düg-   | duhd-   | - | to be fit or useful for
+| 2 | dügan   | daug-  | düg-   | duhd-   | - | to be fit or useful for
 
 | 3 | künan   | kan-   | kün-   | kund-   |  | to be able to
 | 3 | gĕünan  | gĕan-  | gĕün-  | gĕund-  | | to allow
