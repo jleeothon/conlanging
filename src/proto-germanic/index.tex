@@ -1,0 +1,364 @@
+\documentclass{article}
+
+\usepackage{fontspec}
+\usepackage{multirow}
+
+\setmainfont{Charis SIL}
+
+\title{Reduced Grammar of Proto-Germanic}
+\author{Johnny E. Lee Othon }
+\date{July 2019}
+
+% Trimoraic nasal o
+\newcommand\oon{ǫ̂}
+
+% asterisk
+\newcommand\st{\symbol{"002A}}
+
+% Reconstruction
+\newcommand\rec[1]{#1}
+\newcommand\recem[1]{\emph#1}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+This document contains a summarised grammar of Proto-Germanic, leaving out as many ``details'' as possible, so that it remains useful to the creation of Þeudisk-H.
+
+Caveats to keep in mind when reading this document:
+
+\begin{itemize}
+\item subjunctive mood is ignored;
+\item dual number is ignored;
+\item reconstructions are not marked with an asterisk;
+\item consonant stems do not show all possible reconstructed inflections;
+\item class 7 strong verbs are analysed as in Proto-West-Germanic and without reduplication;
+\item ⟨ei⟩ usually appears as ⟨ī⟩ in other literature.
+\end{itemize}
+
+\section{Phonology}
+
+Consonants:
+
+\begin{itemize}
+\item {Stops p, b, t, d, k, g}
+\item {Fricatives: f, þ, s/z, x/h}
+\item {Sonorant: m, n, w, r, l, j}
+\end{itemize}
+
+Vowels:
+
+\begin{itemize}
+\item{Short: i, u, e, a}
+\item{Long: ū, ē, ō}
+\item{Glide: ei, eu ai, au, iu}
+\end{itemize}
+
+\section{Nouns}
+
+The biggest groups of nouns are a-stems (mostly masculine and neuter), ō stems (mostly feminine), and roots and consonant stems (mostly masculine).
+
+Consonant stems (mostly masculine and neuter):
+
+\begin{center}
+\begin{tabular}{ | l | l l | }
+\hline
+& Singular & Plural \\
+\hline
+Nominative & \rec{fōt} & \rec{fōtiz} \\
+Accusative & \rec{fōtų}  & \rec{fōtunz} \\
+Genitive   & \rec{fōtiz} & \rec{fōt\oon} \\
+Dative     & \rec{fōti}  & \rec{fōtumaz} \\
+\hline
+\end{tabular}
+\end{center}
+
+a-stems (mostly masculine and neuter):
+
+\begin{center}
+\begin{tabular}{ | l | l l l l | }
+\hline
+& \multicolumn{2}{|c}{Masculine} & \multicolumn{2}{c|}{Neuter} \\
+& Singular & Plural & Singular & Plural \\
+\hline
+Nominative & \rec{wulfaz} & \rec{wulfōs}   & \rec{juka}  & \rec{jukō}    \\
+Accusative & \rec{wulfą}  & \rec{wulfanz}  & \rec{juką}  & \rec{jukō}    \\
+Genitive   & \rec{wulfas} & \rec{wulfǫ}    & \rec{jukas} & \rec{juk\oon} \\
+Dative     & \rec{wulfai} & \rec{wulfamaz} & \rec{jukai} & \rec{jukamaz} \\
+\hline
+\end{tabular}
+\end{center}
+
+ō-stems (mostly feminine):
+
+\begin{center}
+\begin{tabular}{ | l | l l | }
+\hline
+& Singular & Plural \\
+\hline
+Nominative & \rec{gebō}  & \rec{gebôz} \\
+Accusative & \rec{gebǭ}  & \rec{gebōz} \\
+Genitive   & \rec{gebōz} & \rec{geb\oon} \\
+Dative     & \rec{gebōi} & \rec{gebōmaz} \\
+\hline
+\end{tabular}
+\end{center}
+
+\section{Adjectives}
+
+Most adjectives declined similar to a-stem and ō-stem nouns.
+
+
+\begin{center}
+\begin{tabular}{ | l | l l l l l l | }
+\hline
+& \multicolumn{3}{|c}{Singular}
+& \multicolumn{3}{c|}{Plural} \\
+& Masculine & Neuter & Feminine
+& Masculine & Neuter & Feminine \\
+\hline
+Nom. & blidaz & blinda & blindō & blindai & blindō & blindôz \\
+Acc. & blindanǫ & blinda & blindǭ & blindanz & blindō & blindôz \\
+Gen. & \multicolumn{2}{|c}{blindaz} & blindaizōz & \multicolumn{3}{c|}{blindaiz\oon} \\
+Dat. & \multicolumn{2}{|c}{blindammai} & blindaizōi & \multicolumn{3}{c|}{blindaimaz} \\
+Instr. & \multicolumn{2}{|c}{blindana} & blindaizō & \multicolumn{3}{c|}{blindaimiz} \\
+\hline
+\end{tabular}
+\end{center}
+
+\section{Verbs}
+
+\subsection{Strong verbs}
+
+The parts of the strong verb paradigm are:
+
+\begin{itemize}
+\item{part 1 is the infinitive, present participle, all present forms;}
+\item{part 2 is the singular past of the indicative;}
+\item{part 3 is all other conjugated forms incl. past dual/plural;}
+\item{part 4 is the past participle.}
+\end{itemize}
+
+\begin{center}
+\begin{tabular}{ | c | c c c c l l |}
+\hline
+Class & Part 1 & Part 2 & Part 3 & Part 4 & Example & Followed by \\
+\hline
+1  & ei & ai & i  & i & \rec{reidaną}  & \\
+2  & eu & au & u  & u & \rec{freusaną} & \\
+3a & i  & a  & u  & u & \rec{bindaną}  & [mn] + C \\
+3b & e  & a  & u  & u & \rec{werþaną}  & [lr] + C \\
+4  & e  & a  & e  & u & \rec{beraną}   & [mnlr] + ¬C \\
+5  & e  & a  & e  & e & \rec{etaną}    & ¬[mnlr] + C \\
+6  & a  & ō  & ō  & a & \rec{bakaną}   & ¬([mnlr] + C) \\
+\hline
+7a & ai & ē    & ē    & ai & haitaną  & \\
+7b & au & eu   & eu   & au & hlaupaną & \\
+7c & a  & e    & e    & a  & haldaną  & [mnlr] \\
+7d & ā  & ē    & ē    & ā  & rādaną   & \\
+7e & ō  & eu   & eu   & ō  & hrōpaną  & \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection{Weak verbs}
+
+\subsubsection{Class 1 weak verbs}
+
+Class 1 weak verbs can be distinguished by their suffixes, and the categories of their meanings.
+
+Three class 1 verbs (``suffixless'') have no suffix in the present or past. It has only three members:
+
+\begin{center}
+\begin{tabular}{ | l l l | }
+\hline
+Infinitive & Preterite stem &  Meaning \\
+\hline
+bringaną & branht- & to bring \\
+brūkaną & brūht- & to use \\
+būaną & būd- & to dwell \\
+\hline
+\end{tabular}
+\end{center}
+
+Five class 1 verbs (``j-present'') have a -j- suffix in the present but no suffix in the preterite. Modern reflexes have umlaut in the present but not in the preterite (``rückumlaut''). It has five members:
+
+\begin{center}
+\begin{tabular}{ | l l l |}
+\hline
+Infinitive & Preterite stem &  Meaning \\
+\hline
+bugjaną   & buht-  & to buy \\
+sōkijaną  & sōht-  & to seek \\
+þankijaną & þanht- & to think \\
+þunkijaną & þunht- & to seem \\
+wurkijaną & wurht- & to work \\
+\hline
+\end{tabular}
+\end{center}
+
+The rest of class 1 weak verbs have a -j- suffix both in the present in the past. They can often be causative verbs (e.g. ``to fall'' -> ``to fell''). Some are based on verbal roots, some are based on nominals e.g. ``hailaz'' -> ``hailijaną'' ("to heal").
+
+Some example causatives from strong verbs:
+
+\begin{center}
+\begin{tabular}{| c l l l l |}
+\hline
+Class & Original & Meaning & Causative & Meaning \\
+\hline
+
+1   & līþaną   & to undergo     & laidijaną  & to lead \\
+2a  & beuganą  & to bend        & baugijaną  & to bend sth. \\
+3a  & brinnaną & to be on fire  & brannijaną & to burn sth. \\
+3b  & ?        & ?              & ?          & ? \\
+4   & ?        & ?              & ?          & ? \\
+5c  & ligjaną  & to lie         & lagjaną    & to lay \\
+5-j & ligjaną  & to lie         & lagjaną    & to lay \\
+6   & faraną   & to travel      & fōrijaną   & to carry or lead \\
+7a  & swaipaną & to swoop       & swaipijaną & to sweep \\
+7b  & stautaną & to push        & stautjaną  & to push / to support(?) \\
+7c  & fallaną  & to fall        & fallijaną  & to fell \\
+7d  & grētaną  & to weep        & grōtijanaą & to address \\
+\hline
+\end{tabular}
+\end{center}
+
+When the causative verbs from strong verbs also show these alternations:
+
+\begin{center}
+\begin{tabular}{|cc|}
+\hline
+Alternation & Example \\
+\hline
+s > z & reisaną > raizijaną \\
+þ > d & leiþaną > laidijaną \\
+h > g & teuhaną > taugijaną \\
+\hline
+\end{tabular}
+\end{center}
+
+Some example causatives from nominals:
+
+\begin{center}
+\begin{tabular}{| l l l l l |}
+\hline
+Nominal & Meaning & Infinitive & Past Stem & Meaning \\
+\hline
+hailaz & whole & hailijaną & hailid- & heal \\
+blōþą  & blood & blōþijaną & blōþid- & bleed \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsubsection{Class 2 weak verbs}
+
+Class 2 has a -o- suffix. Many of these verbs derive from nouns (denominative). E.g. \textit{ salbōną} (``to anoint'') from \textit{salbō} (``salve'').
+
+They were originally class 1 weak verbs that formed out of nouns ending in -ō, but -j- was contracted between vowels; this resulted in a new class. Other nouns, not ending in -ō started joining this class.
+
+\begin{center}
+\begin{tabular}{| l l l l l |}
+\hline
+Noun & Meaning & Infinitive & Past stem & Meaning \\
+\hline
+salbō  & salve & salbōną & salbōd- & to heal \\
+\hline
+fiskaz & fish  & fiskōną & fiskōd- & to fish \\
+bōks   & book  & bōkōną  & bōkōd-  & to book \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsubsection{Class 3 weak verbs}
+
+Class 3 has an -ā- suffix, and can be subdivided as:
+
+\begin{itemize}
+\item Stative verbs (denoting state):
+    \begin{itemize}
+    \item present suffix -ai- or -ja-,
+    \item no past suffix.
+    \end{itemize}
+\item Factitive verbs (make sth. x):
+    \begin{itemize}
+    \item present suffix -ai- or -ā-,
+    \item past suffix -a-.
+    \end{itemize}
+\end{itemize}
+
+In northern West Germanic languages, only the first four stative weak verbs are found:
+
+\begin{center}
+\begin{tabular}{| l l l |}
+\hline
+Infinitive & Past stem & Meaning \\
+\hline
+sagjaną & sagd- & to say \\
+libjaną & libd- & to live \\
+habjaną & habd- & to have \\
+hugjaną & hugd- & to think \\
+\hline
+\end{tabular}
+\end{center}
+
+Examples of the other class 3 weak verbs are:
+
+\begin{center}
+\begin{tabular}{| l l l |}
+\hline
+Infinitive & preterite stem & Meaning \\
+\hline
+fūlāną  & fūlad-  & to rot (foul) \\
+wakāną  & wakad-  & to awaken \\
+þurzāną & þurzad- & to become dry \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsubsection{Class 4 weak verbs}
+
+Class 4 has a a -na- suffix. They have an inchoative meaning i.e. indicate a change of state e.g. \emph{kwiknaną} (to come to live).
+
+\begin{center}
+\begin{tabular}{| l l l |}
+\hline
+Infinitive & preterite stem & Meaning \\
+\hline
+kwiknaną & kwiknōd- & to become alive \\
+wakāną  & wakad-  &  \\
+þurzāną & þurzad- & to become dry \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection{Preterite-present verbs}
+
+These verbs exhibit vowel alternations in the present, and a dental suffix in the past.
+
+They originate from preterites of strong verbs that started being used as present tenses; and they acquired a new past tense with a dental suffix, like a weak verb.
+
+\begin{center}
+\begin{tabular}{|l l l l l l l|}
+\hline
+Class & Infinitive & Pres. sg. & Pres. pl. & Pret. & Past Ptc. & Meaning \\
+\hline
+1 & witaną & wait- & wit- & wiss- & wissaz & to know \\
+1 & aiganą & āih & āihum & āihta & āihan & to have \\
+2 & duganą & daug- & dug- & duht- & duhtaz & to fit \\
+3 & kunnaną & kann- & kunn- & kunþ- & kunþaz & to know \\
+3 & unnaną & ann- & unn- & unþ- & unþaz & to love \\
+3 & þurbaną & þarf- & þurb- & þurft- & þurftaz & to have need of \\
+3 & durzaną & dars- & durz- & durst- & durstaz & to dare \\
+4 & skulaną & skal- & skul- & skuld- & skuldaz & to have to \\
+4 & munaną & man- & mun- & mund- & mundaz & to believe \\
+5 & ganuganą & ganah- & ganug- & ganuht- & ganuhtaz & to suffice \\
+6 & maganą & mag- & mag- & maht- & mahtaz & to be able \\
+6 & ōganą & ag- & ōg- & aht- & ahtaz & to fear \\
+6 & mōtaną & mōt- & mōt- & mōs- & mōsaz & to find \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
