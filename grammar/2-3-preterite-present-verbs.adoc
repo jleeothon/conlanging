@@ -5,7 +5,7 @@ These include verbs that were preterite-present verbs in PGe, plus the reflex of
 
 == List of verbs
 
-This is the list of Þiudisk-H preterite-present verbs according to the strong class of their root.
+This is the list of Þeudisk-H preterite-present verbs according to the strong class of their root.
 
 [%autowidth.stretch]
 |===

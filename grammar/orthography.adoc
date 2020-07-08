@@ -1,7 +1,7 @@
 = Orthography
 
 [.normal]
-The Þiudisk-H alphabet is based on the Latin alphabet.
+The Þeudisk-H alphabet is based on the Latin alphabet.
 
 == Vowels
 
@@ -62,14 +62,14 @@ Examples:
 
 === Sonorants
 
-Four "`sonorant`" consonants are important to correct Þiudisk-H orthography.
+Four "`sonorant`" consonants are important to correct Þeudisk-H orthography.
 These are: *j*, *w*, *m*, *n*, *l*, and *r*.
 
 The sonorants affect the spelling of the fricatives.
 
 === Fricatives
 
-There are three voiced-unvoiced pairs of fricatives in Þiudisk-H:
+There are three voiced-unvoiced pairs of fricatives in Þeudisk-H:
 
 - *v* and *f*,
 - *z* and *z*,

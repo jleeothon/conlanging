@@ -2,7 +2,7 @@
 
 == Introduction
 
-Verbs in Þiudisk-H conjugate with person and number. Þiudisk-H is a mild pro-drop language.
+Verbs in Þeudisk-H conjugate with person and number. Þeudisk-H is a mild pro-drop language.
 
 Verbs can be conjugated for 3 persons, 2 numbers, and present and preterite tenses. The non-conjugated forms include:
 

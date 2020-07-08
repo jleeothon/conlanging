@@ -2,7 +2,7 @@
 
 Pronouns, articles, and determiners are tightly intertwined.
 
-In Þiudisk-H, all nouns are accompanied by a determiner.
+In Þeudisk-H, all nouns are accompanied by a determiner.
 A consequence of this is that the grammatical case for any noun (or pronoun)
 is almost always known.
 
