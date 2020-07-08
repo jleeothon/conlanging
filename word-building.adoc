@@ -2,7 +2,7 @@
 
 The vowel of a lemma is chosen according to the form of the same lemma in Proto-Germanic.
 
-The rules for choosing a vowel in Þiudisk-H from PG lemmas are:
+The rules for choosing a vowel in Þeudisk-H from PG lemmas are:
 
 The first step is the simplification of endings.
 
@@ -23,12 +23,12 @@ phonological and spelling rules).
 * Geminate _*bb_ becomes _b_.
 ** E.g. _*krabbô_ > _krább_ > _krab_.
 * The cluster _*sk_ becomes _sċ_ /sx/ ~ /ʃ/.
-** E.g. _sċeutan_ < _*skeutaną_, _rasċ_ < _*raskaz_, _þiudisċ_ < _þiudiskaz_.
+** E.g. _sċeutan_ < _*skeutaną_, _rasċ_ < _*raskaz_, _þiudisċ_ < _þeudiskaz_.
 
 Summary:
 
 |===
-| PGe.| Þiudisk-H | Example
+| PGe.| Þeudisk-H | Example
 
 3+h| Short vowels
 | i | i | skipą  > ship
@@ -46,7 +46,7 @@ Summary:
 | eu | eu | leuhtą > leuht
 | ai | ai | stainaz > stain
 | au | au | augô > aug
-| iu | iu | þiudiskaz > þiudisk
+| iu | iu | þeudiskaz > þeudisk
 
 4+| Diphthongs with umlaut
 | eu+i | í | |
