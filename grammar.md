@@ -2,49 +2,53 @@
 
 ## Phonology and orthography
 
-| Uppercase | Lowercase | IPA  |
-| --------- | --------- | ---- |
-| I         | i         | /i/  |
-| U         | u         | /u/  |
-| E         | e         | /e/  |
-| O         | o         | /o/  |
-| A         | a         | /a/  |
-| Ú         | ú         | /uː/ |
-| Ó         | ó         | /oː/ |
-| É         | é         | /eː/ |
-| Á         | á         | /aː/ |
-| EI        | ei        | /iː/ |
-| EU        | eu        | /øː/ |
-| AI        | ai        | /ɛː/ |
-| AU        | au        | /ɔː/ |
-| Ü         | ü         | /ʏ/  |
-| Ö         | ö         | /œ/  |
-| Ä         | ä         | /ɛ/  |
-| ÄI        | äi        | /ɛi̯/ |
-| ÄU        | äu        | /ɛu̯/ |
-| B         | b         |      |
-| P         | p         |      |
-| D         | d         |      |
-| T         | t         |      |
-| G         | g         |      |
-| K         | k         |      |
-| F         | f         |      |
-| V?        | v?        |      |
-| S         | s         |      |
-| Þ         | þ         |      |
-| H         | h         |      |
-| L         | l         |      |
-| R         | r         |      |
-| M         | m         |      |
-| N         | n         |      |
-| NG        | ng        |      |
-| J         | j         |      |
-| W         | w         |      |
-| SJ        | sj        | /ɕ/  |
-| SC        | sc        | /ʃ/  |
+| Uppercase | Lowercase | IPA          |
+| --------- | --------- | ------------ |
+| I         | i         | /i/          |
+| U         | u         | /u/          |
+| E         | e         | /e/          |
+| O         | o         | /o/          |
+| A         | a         | /a/          |
+| Ü         | ü         | /ʏ/          |
+| Ö         | ö         | /œ/          |
+| Ä         | ä         | /ɛ/          |
+| Ú         | ú         | /uː/         |
+| Ó         | ó         | /oː/         |
+| É         | é         | /eː/         |
+| Á         | á         | /aː/         |
+| EI        | ei        | /iː/         |
+| EU        | eu        | /øː/         |
+| AI        | ai        | /ɛː/         |
+| AU        | au        | /ɔː/         |
+| ÄI        | äi        | /ɛi̯/         |
+| ÄU        | äu        | /ɛu̯/         |
+| B         | b         |              |
+| P         | p         |              |
+| D         | d         |              |
+| T         | t         |              |
+| G         | g         |              |
+| K         | k         |              |
+| F         | f         |              |
+| V?        | v?        |              |
+| S         | s         |              |
+| Þ         | þ         |              |
+| H         | h         |              |
+| L         | l         |              |
+| R         | r         |              |
+| M         | m         |              |
+| N         | n         |              |
+| NG        | ng        |              |
+| J         | j         |              |
+| W         | w         |              |
+| HJ        | hj        | /hʲ/         |
+| SJ        | sj        | /ɕ/          |
+| SK        | sk        | /sk/ or /sx/ |
 
 Self-note: "sc" would be a mutation of "sk" in all positions. Not sure if I want
 this.
+
+Self-note: could try to turn more long vowels into glides so it's easier to
+distinguish them.
 
 Ideas:
 
@@ -52,32 +56,28 @@ Ideas:
 
 ## General grammar
 
-Nouns, prnouns, adjectives, and determiners declinate for number and case. There
+Nouns, pronouns, adjectives, and determiners decline for number and case. There
 are two numbers: singular and plural. There are three cases: nominative,
 accusative, genitive.
 
 Nouns, and adjectives have strong and weak paradigms. The weak paradigm is
-almost always used, and a deteminer is obligatory.
+almost always used, and a determiner is obligatory.
 
 The strong paradigm is used when a determiner is left out, but should be used
-only for literary purposes, or optionally proper names.
+only for literary purposes.
 
-Adjectives do not declinate in the predicative form.
+Adjectives do not decline in the predicative form.
 
-Verbs conjugate for person, number, tense. The non-finite forms include: present
-and past infinitives, and present and past participles. The past infinitive has
-a meaning of "to have done".
+## Nominal paradigms
 
-## Noun and adjective paradigms
-
-Nouns declinate for number and case. There is weak and strong paradigms.
+Nouns decline for number and case. There are weak and strong paradigms.
 
 The weak noun paradigm:
 
 |          | Nominative-Accusative | Genitive |
 | -------- | --------------------- | -------- |
 | Singular | -                     | -as      |
-| Plural   | -e                    | -ar      |
+| Plural   | -i                    | -ar      |
 
 The weak adjective paradigm:
 
@@ -86,21 +86,19 @@ The weak adjective paradigm:
 | Singular | -a        |
 | Plural   | -an       |
 
-The strong noun paradigm:
+The strong noun paradigm (literary):
 
 |          | Nominative | Accusative | Genitive |
 | -------- | ---------- | ---------- | -------- |
 | Singular | -          | -am        | -as      |
-| Plural   | -e         | -an        | -ar      |
+| Plural   | -i         | -an        | -ar      |
 
-The strong adjective paradigm:
+The strong adjective paradigm (literary):
 
 |          | Nominative | Accusative | Genitive |
 | -------- | ---------- | ---------- | -------- |
 | Singular | -a         | -am        | -as      |
-| Plural   | -e         | -an        | -ar      |
-
-## Pronouns
+| Plural   | -i         | -an        | -ar      |
 
 Personal pronouns:
 
@@ -158,21 +156,42 @@ Thing (what, something, nothing, etc):
 
 Other constructions are productive by _hwat + PREP_.
 
-Pro-adverbs
+Pro-adverbs:
 
-|               | Question | Proximal | Medial | Distal | Existential | Neg. Existential | Universal |
-| ------------- | -------- | -------- | ------ | ------ | ----------- | ---------------- | --------- |
-| Time          | hwan     | hjan     | þan    | sjan   | erg hwan    | nerg hwan        | ew hwan   |
-| Start (Time)  | hwens    | hjens    | þens   | sjens  | erg hwens   | nerg hwens       | ew hwens  |
-| End (Time)    | hwinl    | hjinl    | þinl   | sjinl  | erg hwinl   | nerg hwinl       | ew hwinl  |
-| Place         | hwar     | hjar     | þar    | sjar   | erg hwar    | nerg hwar        | ew hwar   |
-| Start (Place) | hwers    | hjers    | þers   | sjers  | erg hwers   | nerg hwers       | ew hwers  |
-| End (Place)   | hwiþr    | hjiþr    | þiþr   | sjiþr  | erg hwiþr   | nerg hwiþr       | ew hwiþr  |
-| Manner        | hwus     | hjus     | þus    | sjus   | erg hwus    | nerg hwus        | ew hwus   |
+|               | Question | Proximal | Medial | Comparative | Existential | Neg. Existential | Universal |
+| ------------- | -------- | -------- | ------ | ----------- | ----------- | ---------------- | --------- |
+| Time          | hwan     | hjan     | þan    | sjan        | erg hwan    | nerg hwan        | ew hwan   |
+| Start (Time)  | hwens    | hjens    | þens   | sjens       | erg hwens   | nerg hwens       | ew hwens  |
+| End (Time)    | hwinl    | hjinl    | þinl   | sjinl       | erg hwinl   | nerg hwinl       | ew hwinl  |
+| Place         | hwar     | hjar     | þar    | sjar        | erg hwar    | nerg hwar        | ew hwar   |
+| Start (Place) | hwers    | hjers    | þers   | sjers       | erg hwers   | nerg hwers       | ew hwers  |
+| End (Place)   | hwiþr    | hjiþr    | þiþr   | sjiþr       | erg hwiþr   | nerg hwiþr       | ew hwiþr  |
+| Manner        | hwus     | hjus     | þus    | sjus        | erg hwus    | nerg hwus        | ew hwus   |
 
-## Determiners
+The time adverbs' meanings are: when, now, then, such moment, sometime, never,
+always.
 
-The ditto marks indicate that the determiner has a "regular ending".
+The start-of-time adverbs' meanings are: whence, since now, thence, since such
+moment, since sometime, since never, always (emphasis on a fact that has always
+been true).
+
+The end-of-time adverbs' meanings are: until when, until now, until then, until
+such moment, until sometime; _nerg hwinl_ and _ew hwinl_ may not have a
+practical definition but could be used by analogy.
+
+The place adverbs' meanings are: where, here, there, such place, somewhere,
+nowhere, everywhere.
+
+The start (place) adverbs' meanings are: wherefrom, herefrom, therefrom, from
+such place, from somewhere, from nowhere, from everywhere.
+
+The end (place) adverbs' meanings are: whereto, thereto, thereto, to such place,
+to somewhere, to nowhere, to everywhere.
+
+The adverbs of manner's meanings are: how, in this way, in that way, in such
+way, somehow, in no way, in every way.
+
+Determiners:
 
 |                              | Nominative | Accusative | Genitive |
 | ---------------------------- | ---------- | ---------- | -------- |
@@ -213,162 +232,115 @@ instead of _min hund_.
 
 ## Verbs
 
-### Preterite-present
+Verbs conjugate for person, number, and tense. The non-finite forms include:
+present and past infinitives, and present and past participles. The past
+infinitive has a meaning of "to have done".
 
-__witan__ (to know):
+There are four types of verb according to conjugation paradigm: strong, regular
+weak, rückumlaut, and preterite-present. In addition, there are irregular verbs.
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | witan   | wistan    |
-| Participle | witend  | wistud?   |
-| Imperative | wait    |           |
-| ik         | wait    | wistu     |
-| þu         | waits   | wistes    |
-| þe         | wait    | wiste     |
-| wi         | witem   | wistem    |
-| ji         | witej   | wistei    |
-| þej        | witen   | wisten    |
+Strong verbs three stems: the general one, one for most preterite forms, one for
+the past participle.
 
-__dugan__ (to fit, to work out):
+Weak verbs have two stems: the present and preterite ones.
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | dugan   | duhtan    |
-| Participle | dugend  | duhtud    |
-| Imperative |         |           |
-| ik         | daug    | duhtu     |
-| þu         | daugs   | duhtes    |
-| þe         | daug    | duhte     |
-| wi         | dugem   | duhtem    |
-| ji         | dugei   | duhtei    |
-| þej        | dugen   | duhten    |
+Preterite-present verbs have three stems: one for the present singular
+conjugations, one for all other present forms (incl. infinitive and participle),
+one for the preterite forms.
 
-__konnan__ (to know):
+### Strong verbs
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | konnan  | kondan    |
-| Participle | konnend | kondud    |
-| Imperative | kann    |           |
-| ik         | kann    | kondu     |
-| þu         | kanns   | kondes    |
-| þe         | kann    | konde     |
-| wi         | konnem  | kondem    |
-| ji         | konnei  | kondei    |
-| þej        | konnen  | konden    |
+Strong verbs follow an ablaut pattern. There are several ablaut patterns:
 
-__onnan__ (to like):
+| Present infinitive | Past infinitive | Past participle |
+| ------------------ | --------------- | --------------- |
+| ei                 | ai              | i               |
+| eu                 | au              | u               |
+| e                  | a               | o               |
+| i                  | a               | u               |
+| e                  | a               | e               |
+| i                  | a               | i               |
+| a                  | u               | a               |
+| ai                 | ei              | ai              |
+| au                 | eu              | au              |
+| a                  | e               | a               |
+| a                  | i               | a               |
+| á                  | é               | á               |
+| ó                  | é               | ó               |
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | onnan   | ondan     |
-| Participle | unnend  | ondud?    |
-| Imperative | ann     |           |
-| ik         | anns    | ondu      |
-| þu         | ann     | ondes     |
-| þe         | ann     | onde      |
-| wi         | onnem   | ondem     |
-| ji         | onnei   | ondei     |
-| þej        | onnen   | onden     |
+Here are some examples; each verb is provided in present and past infinitive,
+and past participle:
 
-__dorran__ (to dare):
+- _streikan-straikan-strikun_ (to strike),
+- _fleugan-flaugan-flugun_ (to fly),
+- _helpan-halpan-holpun_ (to help),
+- _bindan-bandan-bundun_ (to bind).
+- _geban-gaban-gebun_ (to give),
+- _sitan-satan-situn_ (to sit),
+- _faran-furan-farun_ (to travel),
+- _haitan-heitan-haitun_ (to be named),
+- _hlaupan-hleupan-hlaupun_ (to walk),
+- _fallan-fellan-fallun_ (to fall),
+- _fangan-fingan-fagun_ (to grasp),
+- _látan-létan-látun_ (to let),
+- _hrópan-hrépan-hrópun_ (to call).
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | dorran  | dordan    |
-| Participle |         |           |
-| Imperative | darr    |           |
-| ik         | darr    | dordu     |
-| þu         | darrs   | dordes    |
-| þe         | darr    | dorde     |
-| wi         | dorrem  | dordem    |
-| ji         | dorrei  | dordei    |
-| þej        | dorren  | dorden    |
+### Weak verbs
 
-__þorvan__ (to need):
+### Rückumlaut verbs
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | þorvan  | þorvdan   |
-| Participle | þorvend | þorvud    |
-| Imperative |         |           |
-| ik         | þarv    | þorvdu    |
-| þu         | þarvs   | þorvdes   |
-| þe         | þarv    | þorvde    |
-| wi         | þorvem  | þorvdem   |
-| ji         | þorvei  | þorvdei   |
-| þej        | þorven  | þorvden   |
+They are a category of weak verbs whose present stems differ from preterite
+stems by a vowel alternation, and sometimes exhibit a consonant alternation due
+to the Germanic Spirant Law.
 
-__skulan__ (for verbal periphrases; in the present conjugation, indicates future
-tense; in the preterite conjugation, indicates conditional or subjunctive mood):
+For an exhaustive list, see [verbs-preterite-present.md](./verbs-rückumlaut.md).
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | skolan  | skuldan   |
-| Participle |         |           |
-| Imperative |         |           |
-| ik         | skal    | skoldu    |
-| þu         | skals   | skoldes   |
-| þe         | skal    | skolde    |
-| wi         | skolem  | skoldem   |
-| ji         | skolej  | skoldej   |
-| þej        | skolen  | skolden   |
+### Preterite-present verbs
 
-__mótan__ (to have to, must):
+In the present, preterite-present verbs have different stems for singular and
+plural conjugations. The present infinitive has the same stem as the plural
+conjugations.
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | mótan   | mostan    |
-| Participle | mótend  | most      |
-| Imperative |         |           |
-| ik         | mót     | mostu     |
-| þu         | móts    | mostes    |
-| þe         | mót     | moste     |
-| wi         | motem   | mostem    |
-| ji         | motej   | mostej    |
-| þej        | moten   | mosten    |
+The preterite stem is the same for all preterite finite and non-finite forms.
 
-__mógan__ (may, to be permitted to):
+For an exhaustive list, see
+[verbs-preterite-present.md](./preterite-present.md).
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | mógan   | mohtan    |
-| Participle | mógand  | mohtud    |
-| Imperative | mag     |           |
-| ik         | mag     | mohtu     |
-| þu         | mags    | mohtes    |
-| þe         | mag     | mohte     |
-| wi         | mógem   | mohtem    |
-| ji         | mógej   | mohtei    |
-| þej        | mógen   | mohten    |
+### Irregular verbs
 
-__ógan__ (to fear):
+For an exhaustive list, see [verbs-irregular.md](./verbs-irregular.md).
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | ógan    | ohtan     |
-| Participle |         |           |
-| Imperative | ag      |           |
-| ik         | ag      | ohtu      |
-| þu         | ags     | ohtes     |
-| þe         | ag      | ohte      |
-| wi         | ógem    | ohtem     |
-| ji         | ógei    | ohtei     |
-| þej        | ógen    | ohten     |
+## Derivation
 
-__wollan__ (to want):
+A weak verb can be derived by changing the ablaut vowel, and in some cases,
+Verner alternation. The meaning of the derived verb is usually causative, or
+intransitive from a transitive verb.
 
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | wollan  | woldan    |
-| Participle | wollend | woldud    |
-| Imperative | will    |           |
-| ik         | will    | woldu     |
-| þu         | wills   | woldes    |
-| þe         | will    | wolde     |
-| wi         | wollem  | woldem    |
-| ji         | wollei  | woldei    |
-| þej        | wollen  | wolden    |
+| Strong ablaut | Weak causative   |
+| ------------- | ---------------- |
+| ei-ai-i       | äi               |
+| eu-au-u       | äu               |
+| i-a-u         | ä                |
+| e-a-o         | ä                |
+| e-a-e         | ä                |
+| i-a-i         | ä                |
+| a-ó-a         | ó? ő? eu?        |
+| ai-ei-ai      | (not productive) |
+| au-eu-au      | äu?              |
+| a-i-a         |                  |
+| á-é-á         | (Not productive) |
+| ó-é-ó         | (Not productive) |
 
-_wollan_ does not descend from a Proto-Germanic preterite-present verb, but does
-otherwise inflect like one.
+The consonant alternations are:
+
+- þ > d
+- s > r
+- h > g
+
+Examples include:
+
+- _leiþan_ (to undergo) > _lädian_ (to lead)
+- _beugan_ (to bend, intr.) > _bäugian_ (to bend sth.)
+- _drinkan_ (to drink) > _dränkian_ (to make drink)
+- _smertan_ (to hurt, intr.) > _smärtian_ (to cause pain)
+- _hladan_ (to accumulate) > _hleudian_ (to load sth. into sth.)
