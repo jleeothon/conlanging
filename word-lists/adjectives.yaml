@@ -1,0 +1,65 @@
+---
+
+lemmas:
+
+- lemma: gód
+  comparative: bätir
+  superlative: bätist
+  irregular: yes
+
+- lemma: üvl
+  comparative: wirsir
+  superlative: wirist
+  irregular: yes
+
+- lemma: mind
+  comparative: mindir
+  superlative: mindist
+  meaning: few, little
+
+- lemma: faw
+  comparative: fawir
+  superlative: fawist
+  meaning: few, little
+
+- lemma: fęl
+  comparative: flir
+  superlative: flist
+  meaning: much
+  irregular: yes
+
+- lemma: mikil
+  comparative: mair
+  superlative: maist
+  meaning: much
+  irregular: yes
+
+- lemma: lútįl
+  comparative: lűtlir
+  superlative: lűtlist
+  meaning: small
+
+- lemma: klain
+  comparative: kläinir
+  superlative: kläinist
+  meaning: small
+
+- lemma: graut
+  comparative: gräutir
+  superlative: gräutist
+  meaning: big
+
+- lemma: stór
+  comparative: stőrir
+  superlative: stőrist
+  meaning: big
+
+- lemma: ald
+  comparative: äldir
+  superlative: äldist
+  meaning: old
+
+- lemma: jung
+  comparative: jüngir
+  superlative: jüngist
+  meaning: young

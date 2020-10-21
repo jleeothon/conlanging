@@ -3,20 +3,21 @@ class: "1"
 verbs:
 
 - p1: dreiv-
-  p23: drív-
+  p2: draiv-
   p4: driv-
   meaning: to drive
   related:
   - {lemma: bedreivan, meaning: to manage}
 
 - p1: dwein-
-  pret: dwín-
+  p2: dwain-
   p4: dwin-
   meaning: to disappear
   related:
   - {lemma: dweinlan, meaning: to dwindle, to disappear slowly (frequentative)}
 
 - p1: gleid-
+  p2: glaid-
   meaning: to glide
 
 - p1: greip-
@@ -43,7 +44,9 @@ verbs:
 - p1: reid-
   meaning: to ride
 
-- p1: reiz-
+- p1: reis-
+  p2: rais-
+  p4: ris-
   meaning: to rise
 
 - p1: skein-
@@ -70,7 +73,10 @@ class: "2"
 verbs:
 
 - p1: beug-
+  p2: baug-
   meaning: to bend (intransitive)
+  related:
+  - {lemma: baïg-}
 
 - p1: beut-
   meaning: to offer

@@ -1,4 +1,0 @@
----
-extends: default
-rules:
-  indentation: {spaces: 2, indent-sequences: false}

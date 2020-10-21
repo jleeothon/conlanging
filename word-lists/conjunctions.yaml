@@ -1,0 +1,16 @@
+---
+
+- lemma: and
+  meaning: and
+
+- lemma: of
+  meaning: or
+
+- lemma: hvis
+  meaning: if
+
+- lemma: hwildat
+  meaning: while
+
+- lemma: ümdat
+  meaning: because
