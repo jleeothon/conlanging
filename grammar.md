@@ -2,47 +2,47 @@
 
 ## Phonology and orthography
 
-| Uppercase | Lowercase | IPA          |
-| --------- | --------- | ------------ |
-| I         | i         | /i/          |
-| U         | u         | /u/          |
-| E         | e         | /e/          |
-| O         | o         | /o/          |
-| A         | a         | /a/          |
-| Ü         | ü         | /ʏ/          |
-| Ö         | ö         | /œ/          |
-| Ä         | ä         | /ɛ/          |
-| Ú         | ú         | /uː/         |
-| Ó         | ó         | /oː/         |
-| É         | é         | /eː/         |
-| Á         | á         | /aː/         |
-| EI        | ei        | /iː/         |
-| EU        | eu        | /øː/         |
-| AI        | ai        | /ɛː/         |
-| AU        | au        | /ɔː/         |
-| ÄI        | äi        | /ɛi̯/         |
-| ÄU        | äu        | /ɛu̯/         |
-| B         | b         |              |
-| P         | p         |              |
-| D         | d         |              |
-| T         | t         |              |
-| G         | g         |              |
-| K         | k         |              |
-| F         | f         |              |
-| V?        | v?        |              |
-| S         | s         |              |
-| Þ         | þ         |              |
-| H         | h         |              |
-| L         | l         |              |
-| R         | r         |              |
-| M         | m         |              |
-| N         | n         |              |
-| NG        | ng        |              |
-| J         | j         |              |
-| W         | w         |              |
-| HJ        | hj        | /hʲ/         |
-| SJ        | sj        | /ɕ/          |
-| SK        | sk        | /sk/ or /sx/ |
+| Uppercase | Lowercase | IPA                                |
+| --------- | --------- | ---------------------------------- |
+| I         | i         | /i/                                |
+| U         | u         | /u/                                |
+| E         | e         | /e/                                |
+| O         | o         | /o/                                |
+| A         | a         | /a/                                |
+| Ü         | ü         | /ʏ/                                |
+| Ö         | ö         | /œ/                                |
+| Ä         | ä         | /ɛ/                                |
+| Ú         | ú         | /uː/                               |
+| Ó         | ó         | /oː/                               |
+| É         | é         | /eː/                               |
+| Á         | á         | /aː/                               |
+| Ő         | ő         | /øː/                               |
+| EI        | ei        | /iː/                               |
+| EU        | eu        | /øː/                               |
+| AI        | ai        | /ɛː/                               |
+| AU        | au        | /ɔː/                               |
+| ÄI        | äi        | /ɛi̯/                               |
+| ÄU        | äu        | /ɛu̯/                               |
+| B         | b         | /b/ initial, /v/ medial, /f/ final |
+| P         | p         | /p/                                |
+| D         | d         | /d/                                |
+| T         | t         | /t/                                |
+| G         | g         | /k/ ~ /x/?                         |
+| K         | k         | /k/                                |
+| F         | f         | /f/                                |
+| S         | s         | /s/                                |
+| Þ         | þ         | /θ/                                |
+| H         | h         | /h/ ~ /x/                          |
+| L         | l         | /l/                                |
+| R         | r         | /r/                                |
+| M         | m         | /m/                                |
+| N         | n         | /n/                                |
+| NG        | ng        | /ŋ/                                |
+| J         | j         | /j/                                |
+| W         | w         | /w/                                |
+| HJ        | hj        | /hʲ/                               |
+| SJ        | sj        | /ɕ/                                |
+| SK        | sk        | /sk/ or /sx/                       |
 
 Self-note: "sc" would be a mutation of "sk" in all positions. Not sure if I want
 this.
