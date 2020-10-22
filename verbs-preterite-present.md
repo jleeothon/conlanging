@@ -89,7 +89,7 @@ tense; in the preterite conjugation, indicates conditional or subjunctive mood):
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | skolan  | skuldan   |
+| Infinitive | skolan  | skoldan   |
 | Participle |         |           |
 | Imperative |         |           |
 | 1st. sg.   | skal    | skoldu    |

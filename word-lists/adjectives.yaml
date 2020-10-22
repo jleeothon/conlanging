@@ -22,21 +22,14 @@ lemmas:
   superlative: fawist
   meaning: few, little
 
-- lemma: fęl
-  comparative: flir
-  superlative: flist
+- lemma: fil
+  comparative: filir
+  superlative: filist
   meaning: much
-  irregular: yes
 
-- lemma: mikil
-  comparative: mair
-  superlative: maist
-  meaning: much
-  irregular: yes
-
-- lemma: lútįl
-  comparative: lűtlir
-  superlative: lűtlist
+- lemma: lütt
+  comparative: lüttir
+  superlative: lüttist
   meaning: small
 
 - lemma: klain

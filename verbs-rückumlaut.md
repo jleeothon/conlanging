@@ -1,11 +1,13 @@
 # List of rückumlaut verbs
 
+Self-note: consider replacing _bügan_ and _sälan_ with _kaupan_ and _fürkaupan_.
+
 **bügan** (to buy):
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
 | Infinitive | bügan   | buhtan    |
-| Participle | bügend  | boht      |
+| Participle | bügend  | bohtad    |
 | Imperative | büg     |           |
 | 1st. sg.   | bügu    | bohtu     |
 | 2nd. sg.   | bügs    | bohtes    |
@@ -19,12 +21,12 @@
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | hügan   |           |
-| Participle | hügend  | hugd      |
+| Infinitive | hügan   | hügdan    |
+| Participle | hügend  | hugdad    |
 | Imperative | hüg     |           |
-| 1st. sg.   | hügu    | hugd      |
+| 1st. sg.   | hügu    | hugdu     |
 | 2nd. sg.   | hügs    | hugdes    |
-| 3rd. sg.   | hügt    | hugd      |
+| 3rd. sg.   | hügt    | hugde     |
 | 1st. pl.   | hügem   | hugdem    |
 | 2nd. pl.   | hügej   | hugdej    |
 | 3rd. pl.   | hügen   | hugden    |
@@ -35,11 +37,11 @@
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
 | Infinitive | sägan   |           |
-| Participle | sägend  |           |
+| Participle | sägend  | sagdad    |
 | Imperative | säg     |           |
-| 1st. sg.   | sägu    | sagd      |
+| 1st. sg.   | sägu    | sagdu     |
 | 2nd. sg.   | sägs    | sagdes    |
-| 3rd. sg.   | sägt    | sagd      |
+| 3rd. sg.   | sägt    | sagde     |
 | 1st. pl.   | sägem   | sagdem    |
 | 2nd. pl.   | sägei   | sagdej    |
 | 3rd. pl.   | sägen   | sagden    |
@@ -49,7 +51,7 @@
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
 | Infinitive | sälan   | saldan    |
-| Participle | sälend  | sald      |
+| Participle | sälend  | saldad    |
 | Imperative | säl     |           |
 | 1st. sg.   | sälu    | saldu     |
 | 2nd. sg.   | säls    | saldes    |
@@ -63,7 +65,7 @@
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
 | Infinitive | sökan   | sohtan    |
-| Participle | sökiend | soht      |
+| Participle | sökiend | sohtad    |
 | Imperative | sök     |           |
 | 1st. sg.   | söku    | sohtu     |
 | 2nd. sg.   | söks    | sohtes    |
@@ -78,7 +80,7 @@
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
 | Infinitive | tälan   | taldan    |
-| Participle | tälend  | tald      |
+| Participle | tälend  | taldad    |
 | Imperative | täl     |           |
 | 1st. sg.   | tälu    | taldu     |
 | 2nd. sg.   | täls    | taldes    |
@@ -86,6 +88,20 @@
 | 1st. pl.   | tälem   | taldem    |
 | 2nd. pl.   | tälej   | taldej    |
 | 3rd. pl.   | tälen   | talden    |
+
+**wirkan** (to happen, to effect):
+
+|            | Present | Preterite |
+| ---------- | ------- | --------- |
+| Infinitive | wirkan  | worhtan   |
+| Participle | wirkend | worht     |
+| Imperative | wirk    |           |
+| 1st. sg.   | wirku   | worhtu    |
+| 2nd. sg.   | wirks   | worhtes   |
+| 3rd. sg.   | wirkt   | worhte    |
+| 1st. pl.   | wirkem  | worhtem   |
+| 2nd. pl.   | wirkej  | worhtej   |
+| 3rd. pl.   | wirken  | worhten   |
 
 **þänkan** (to think):
 
@@ -107,7 +123,7 @@
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
 | Infinitive | þünkan  | þuhtan    |
-| Participle | þünkend | þuhtud?   |
+| Participle | þünkend | þuhtad    |
 | Imperative | þünk    |           |
 | 1st. sg.   | þünku   | þuhtu     |
 | 2nd. sg.   | þünks   | þuhtes    |

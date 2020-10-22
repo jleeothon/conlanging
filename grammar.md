@@ -63,10 +63,17 @@ accusative, genitive.
 Nouns, and adjectives have strong and weak paradigms. The weak paradigm is
 almost always used, and a determiner is obligatory.
 
-The strong paradigm is used when a determiner is left out, but should be used
-only for literary purposes.
+The strong noun paradigm is used when a determiner is left out, but should be
+used only for literary purposes.
+
+The strong adjective paradigm is used when a noun is implicit (e.g. "the strong
+(one)").
 
 Adjectives do not decline in the predicative form.
+
+Word order is relatively free, but V2 order is preferred as in Norwegian. Verb
+compounding is preferred to be head-final, but head-initial is allowed for
+literary or emphatic purposes.
 
 ## Nominal paradigms
 
@@ -207,7 +214,7 @@ Determiners:
 |                              | þasa       | þasan      | þasar    |
 | Distal demonstrative         | jen        | jet        | jes      |
 |                              | jena       | jenan      | jenar    |
-| Universal quantifier         | all        | alt        | allas    |
+| Universal quantifier         | all        | allt       | allas    |
 |                              | alla       | allan      | allar    |
 | Negative quantifier          | nen        | net        | nes      |
 |                              | nena       | nenan      | nenar    |
@@ -285,7 +292,54 @@ and past participle:
 - _látan-létan-látun_ (to let),
 - _hrópan-hrépan-hrópun_ (to call).
 
+Strong verbs conjugate with these endings:
+
+|            | Present | Preterite |
+| ---------- | ------- | --------- |
+| Infinitive | -an     | -an       |
+| Participle | -end    | -un       |
+| Imperative | -       |           |
+| 1st. sg.   | -       | -         |
+| 2nd. sg.   | -es     | -es       |
+| 3rd. sg.   | -       | -         |
+| 1st. pl.   | -em     | -em       |
+| 2nd. pl.   | -ej     | -ej       |
+| 3rd. pl.   | -en     | -en       |
+
+Self-note: in PGe and daughter languages, the 1st and 3rd person sg. are not
+distinguished in preterite. Should this be carried forward or endings innovated?
+Also, how would this affect preterite-present verbs (whose present resembles a
+strong preterite)?
+
 ### Weak verbs
+
+Class 1 weak verbs conjugate with these endings:
+
+|            | Present | Preterite |
+| ---------- | ------- | --------- |
+| Infinitive | -ian    | -idan     |
+| Participle | -iend   | -id       |
+| Imperative | -i      |           |
+| 1st. sg.   | -iu     | -iud      |
+| 2nd. sg.   | -ies    | -ides     |
+| 3rd. sg.   | -iet    | -ied      |
+| 1st. pl.   | -iem    | -idem     |
+| 2nd. pl.   | -iej    | -idej     |
+| 3rd. pl.   | -ien    | -iden     |
+
+Class 2 weak verbs conjugate with these endings:
+
+|            | Present  | Preterite |
+| ---------- | -------- | --------- |
+| Infinitive | -an      | -dan      |
+| Participle | -end     | -ad       |
+| Imperative | -        |           |
+| 1st. sg.   | -u       | -ud       |
+| 2nd. sg.   | -s / -es | -des      |
+| 3rd. sg.   | -t / -et | -ed       |
+| 1st. pl.   | -em      | -dem      |
+| 2nd. pl.   | -ej      | -dej      |
+| 3rd. pl.   | -en      | -den      |
 
 ### Rückumlaut verbs
 
@@ -295,6 +349,20 @@ to the Germanic Spirant Law.
 
 For an exhaustive list, see [verbs-preterite-present.md](./verbs-rückumlaut.md).
 
+Rückumlaut verbs conjugate with these endings (dental suffix may be _d_ or _t_):
+
+|            | Present | Preterite |
+| ---------- | ------- | --------- |
+| Infinitive | -an     | -dan      |
+| Participle | -end    | -ad       |
+| Imperative | -∅      |           |
+| 1st. sg.   | -g      | -du       |
+| 2nd. sg.   | -gs     | -des      |
+| 3rd. sg.   | -g      | -de       |
+| 1st. pl.   | -em     | -dem      |
+| 2nd. pl.   | -ej     | -dej      |
+| 3rd. pl.   | -en     | -den      |
+
 ### Preterite-present verbs
 
 In the present, preterite-present verbs have different stems for singular and
@@ -302,6 +370,21 @@ plural conjugations. The present infinitive has the same stem as the plural
 conjugations.
 
 The preterite stem is the same for all preterite finite and non-finite forms.
+
+Preterite-present verbs conjugate with these endings (dental suffix may be _d_
+or _t_):
+
+|            | Present | Preterite |
+| ---------- | ------- | --------- |
+| Infinitive | -an     | -dan      |
+| Participle | -end    | -d        |
+| Imperative | -∅      |           |
+| 1st. sg.   | -g      | -d        |
+| 2nd. sg.   | -gs     | -des      |
+| 3rd. sg.   | -g      | -d        |
+| 1st. pl.   | -em     | -dem      |
+| 2nd. pl.   | -ej     | -dej      |
+| 3rd. pl.   | -en     | -den      |
 
 For an exhaustive list, see
 [verbs-preterite-present.md](./preterite-present.md).
@@ -344,3 +427,7 @@ Examples include:
 - _drinkan_ (to drink) > _dränkian_ (to make drink)
 - _smertan_ (to hurt, intr.) > _smärtian_ (to cause pain)
 - _hladan_ (to accumulate) > _hleudian_ (to load sth. into sth.)
+
+## Adverbs
+
+Adverbs can be derived from adjectives with a -s suffix.
