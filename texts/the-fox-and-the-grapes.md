@@ -2,8 +2,8 @@
 
 En dag, sah en hungriga fuhs et weinwört and ena þrúbi þej hingen ab þet.
 
-Þej þrúbi weren graut und plump und deups raud, and þe munþ þes fuhsas draup
-hwils hje kaik þejem. Nerg hwinl sah þe fuhs ena hjus grautan und plumpan und
+Þej þrúbi weren graut and plump and deups raud, and þe munþ þes fuhsas draup
+hwils hje kaik þejem. Nerg hwinl sah þe fuhs ena hjus grautan and plumpan and
 deups raudan þrúbi.
 
 þe þrúbi hingen ab et hauha tweig. Þe fuhs sprang för fangan þejem, aber ne
