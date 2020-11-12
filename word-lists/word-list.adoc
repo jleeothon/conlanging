@@ -157,8 +157,8 @@ PG _*harmô_
 ermine, weasel
 
 // final spelling could be marþr
-marðr::
-noun, pl. mærðrn +
+marþr::
+noun, pl. mærþrn +
 PG _*marþraz_ +
 marten
 
@@ -500,8 +500,8 @@ noun, pl. a̋ln +
 PG _*ēlaz_ +
 eel
 
-flonðr::
-noun, pl. *flönðrn*
+flonþr::
+noun, pl. *flönþrn*
 PG _*flunþrijǭ_ +
 flounder, flatfish
 

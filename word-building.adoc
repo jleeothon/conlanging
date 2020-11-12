@@ -203,25 +203,6 @@ PGe "ū" --> "ú":
 
 ## Consonants
 
-### Alternations
-
-"ð" and "þ" alternate:
-
-- "ð" in initial position,
-- "ð" in medial position between voiced sounds,
-- "þ" elsewhere.
-
-"v" and "f" alternate:
-
-- "v" between two voiced sounds in medial position,
-- "f" elsewhere.
-
-"z" and "s" and "r" alternate:
-
-- "z" in medial position between vowels,
-- "r" between a vowel and n (in verb paradigms).
-- "s" elsewhere,
-
 Composite words follow spelling rules individual words i.e., voiceless variants are at the end of words even if the next word begins with a voiced sound.
 
 ## Verbs
@@ -237,12 +218,7 @@ Composite words follow spelling rules individual words i.e., voiceless variants 
 **fr-.** Usually indicates a notion of "forward" or "until completion". Examples:
 
 - _etan_ --> _fretan_ "to eat" --> "to devour"
-- _geban_ --> _frgeban_ "to give" --> "to forgive"
+- _geban_ --> _fargeban_ "to give" --> "to forgive"
 
 **to-.** Indicates a
 
-**anþ-, anð-, amf-** Indicates opposition or reversion. Examples:
-
-- _anþĺækan_, from _þak_ "to"
-
-- ontsw

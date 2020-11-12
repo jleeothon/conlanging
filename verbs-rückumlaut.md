@@ -1,64 +1,62 @@
 # List of rückumlaut verbs
 
-Self-note: consider replacing _bügan_ and _sälan_ with _kaupan_ and _fürkaupan_.
+Self-note: consider replacing _bügan_ and _selan_ with _kaupan_ and _fürkaupan_.
 
 **bügan** (to buy):
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | bügan   | buhtan    |
-| Participle | bügend  | bohtad    |
-| Imperative | büg     |           |
-| 1st. sg.   | bügu    | bohtu     |
-| 2nd. sg.   | bügs    | bohtes    |
-| 3rd. sg.   | bügt    | bohte     |
-| 1st. pl.   | bügem   | bohtem    |
-| 2nd. pl.   | bügei   | bohtej    |
-| 3rd. pl.   | bügen   | bohten    |
-|            |         |           |
+| Infinitive | bügian  | buhtan    |
+| Participle | bügiend | bohtad    |
+| Imperative | bügi    |           |
+| 1st. sg.   | bügiu   | bohtu     |
+| 2nd. sg.   | bügis   | bohtes    |
+| 3rd. sg.   | bügit   | bohte     |
+| 1st. pl.   | bügiem  | bohtem    |
+| 2nd. pl.   | bügiei  | bohtets   |
+| 3rd. pl.   | bügien  | bohten    |
 
 **hügan** (to remember):
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | hügan   | hügdan    |
-| Participle | hügend  | hugdad    |
-| Imperative | hüg     |           |
-| 1st. sg.   | hügu    | hugdu     |
-| 2nd. sg.   | hügs    | hugdes    |
-| 3rd. sg.   | hügt    | hugde     |
-| 1st. pl.   | hügem   | hugdem    |
-| 2nd. pl.   | hügej   | hugdej    |
-| 3rd. pl.   | hügen   | hugden    |
-|            |         |           |
+| Infinitive | hügian  | hügidan   |
+| Participle | hügiend | hugidad   |
+| Imperative | hügi    |           |
+| 1st. sg.   | hügiu   | hugidu    |
+| 2nd. sg.   | hügis   | hugides   |
+| 3rd. sg.   | hügit   | hugide    |
+| 1st. pl.   | hügiem  | hugidem   |
+| 2nd. pl.   | hügiets | hugidets  |
+| 3rd. pl.   | hügien  | hugiden   |
 
-**sägan** (to to say):
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | sägan   |           |
-| Participle | sägend  | sagdad    |
-| Imperative | säg     |           |
-| 1st. sg.   | sägu    | sagdu     |
-| 2nd. sg.   | sägs    | sagdes    |
-| 3rd. sg.   | sägt    | sagde     |
-| 1st. pl.   | sägem   | sagdem    |
-| 2nd. pl.   | sägei   | sagdej    |
-| 3rd. pl.   | sägen   | sagden    |
-
-**sälan** (to sell):
+**segan** (to to say):
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | sälan   | saldan    |
-| Participle | sälend  | saldad    |
-| Imperative | säl     |           |
-| 1st. sg.   | sälu    | saldu     |
-| 2nd. sg.   | säls    | saldes    |
-| 3rd. sg.   | sält    | salde     |
-| 1st. pl.   | sälem   | saldem    |
-| 2nd. pl.   | sälej   | saldej    |
-| 3rd. pl.   | sälen   | salden    |
+| Infinitive | segan   |           |
+| Participle | segend  | sagdad    |
+| Imperative | seg     |           |
+| 1st. sg.   | segu    | sagdu     |
+| 2nd. sg.   | segs    | sagdes    |
+| 3rd. sg.   | segt    | sagde     |
+| 1st. pl.   | segem   | sagdem    |
+| 2nd. pl.   | segei   | sagdets   |
+| 3rd. pl.   | segen   | sagden    |
+
+**selan** (to sell):
+
+|            | Present | Preterite |
+| ---------- | ------- | --------- |
+| Infinitive | selan   | saldan    |
+| Participle | selend  | saldad    |
+| Imperative | sel     |           |
+| 1st. sg.   | selu    | saldu     |
+| 2nd. sg.   | sels    | saldes    |
+| 3rd. sg.   | selt    | salde     |
+| 1st. pl.   | selem   | saldem    |
+| 2nd. pl.   | selets  | saldets   |
+| 3rd. pl.   | selen   | salden    |
 
 **sökan** (to seek, to search for):
 
@@ -71,23 +69,23 @@ Self-note: consider replacing _bügan_ and _sälan_ with _kaupan_ and _fürkaupa
 | 2nd. sg.   | söks    | sohtes    |
 | 3rd. sg.   | sökt    | sohte     |
 | 1st. pl.   | sökem   | sohtem    |
-| 2nd. pl.   | sökej   | sohtej    |
+| 2nd. pl.   | sökets  | sohtets   |
 | 3rd. pl.   | söken   | sohten    |
 |            |         |           |
 
-**tälan** (to tell):
+**telan** (to tell):
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | tälan   | taldan    |
-| Participle | tälend  | taldad    |
-| Imperative | täl     |           |
-| 1st. sg.   | tälu    | taldu     |
-| 2nd. sg.   | täls    | taldes    |
-| 3rd. sg.   | tält    | talde     |
-| 1st. pl.   | tälem   | taldem    |
-| 2nd. pl.   | tälej   | taldej    |
-| 3rd. pl.   | tälen   | talden    |
+| Infinitive | telan   | taldan    |
+| Participle | telend  | taldad    |
+| Imperative | tel     |           |
+| 1st. sg.   | telu    | taldu     |
+| 2nd. sg.   | tels    | taldes    |
+| 3rd. sg.   | telt    | talde     |
+| 1st. pl.   | telem   | taldem    |
+| 2nd. pl.   | telets  | taldets   |
+| 3rd. pl.   | telen   | talden    |
 
 **wirkan** (to happen, to effect):
 
@@ -100,22 +98,22 @@ Self-note: consider replacing _bügan_ and _sälan_ with _kaupan_ and _fürkaupa
 | 2nd. sg.   | wirks   | worhtes   |
 | 3rd. sg.   | wirkt   | worhte    |
 | 1st. pl.   | wirkem  | worhtem   |
-| 2nd. pl.   | wirkej  | worhtej   |
+| 2nd. pl.   | wirkets | worhtets  |
 | 3rd. pl.   | wirken  | worhten   |
 
-**þänkan** (to think):
+**þenkan** (to think):
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | þänkan  | þahtan    |
-| Participle | þänkend | þahtud?   |
-| Imperative | þänk    |           |
-| 1st. sg.   | þänku   | þahtu     |
-| 2nd. sg.   | þänkes  | þahtes    |
-| 3rd. sg.   | þänket  | þahte     |
-| 1st. pl.   | þänkem  | þahtem    |
-| 2nd. pl.   | þänkej  | þahtej    |
-| 3rd. pl.   | þänken  | þahten    |
+| Infinitive | þenkan  | þahtan    |
+| Participle | þenkend | þahtud?   |
+| Imperative | þenk    |           |
+| 1st. sg.   | þenku   | þahtu     |
+| 2nd. sg.   | þenkes  | þahtes    |
+| 3rd. sg.   | þenket  | þahte     |
+| 1st. pl.   | þenkem  | þahtem    |
+| 2nd. pl.   | þenkets | þahtets   |
+| 3rd. pl.   | þenken  | þahten    |
 |            |         |           |
 
 **þünkan** (to seem):
@@ -129,6 +127,5 @@ Self-note: consider replacing _bügan_ and _sälan_ with _kaupan_ and _fürkaupa
 | 2nd. sg.   | þünks   | þuhtes    |
 | 3rd. sg.   | þünkt   | þuhte     |
 | 1st. pl.   | þünkem  | þuhtem    |
-| 2nd. pl.   | þünkej  | þuhtej    |
+| 2nd. pl.   | þünkets | þuhtets   |
 | 3rd. pl.   | þünken  | þuhten    |
-|            |         |           |

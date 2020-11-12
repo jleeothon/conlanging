@@ -1,25 +1,26 @@
-# Þe Norþrwind and þe Sonn
+# Þe Norþerwind und þe Sonn
 
-Þe Norþrwind and þe Sonn straiten sih över hwe ab þejem was þe starkira.
+Þe Norþerwind und þe Sonn straiten sih över hwe ab þejem was þe starkira.
 
-Hwils þej spraken, en wandror hleupe langs þen weg, miþ et káp.
+Te hwil hwat þej spraken, en wandror hleup langs þen weg, miþ ait káp.
 
-Þe Sonn sagde: «Lát uns ainignan þat þe hwe is starkir skal konnan nemman þet
+Þe Sonn sagde: «Lát uns ainiginan þat þe hwe is starkir skal konnan nemman þet
 káp þes wandrors snellir ab.»
 
-«Hjus skal wi dón», andworded þe Norþrwind.
+«Hjus skal wi dón», andworded þe Norþerwind.
 
-Þe Norþrwind blése and blése miþ þet alla starkiþ sien. Aber if filir blése if
-filir þe wandror held þet káp sien an sih. And þes upwand was för niht.
+Þe Norþerwind blése und blése miþ þet alla starkiþ sien. Aber if filir blése if
+filir þe wandror held þet káp sien an sih. Und þes upwand was för niht.
 
-Þan biganne þe Sonn te skeinan. Warþ warm and þe wandror fralaused þen káp sien.
-And þe Sonn skain starkir and warþ warmir. And þe wandror namm þet káp sien ab.
+Þan biganne þe Sonn te skeinene. Warþ warm und þe wandror fralaused þet káp
+sien. und þe Sonn skain starkir und warþ warmir. und þe wandror namm þet káp
+sien ab.
 
-Sjus muste þe Norþrwind togeban þat þe Sonn þe starkist ab þen baiþan is.
+Sjus muste þe Norþerwind togeban þat þe Sonn þe starkist ab þen baiþan is.
 
 ---
 
-The North Wind and the Sun had an argument about who of both was the stronger.
+The North Wind und the Sun had an argument about who of both was the stronger.
 
 While they spoke, a wanderer walked along the way, with a cape.
 
@@ -28,11 +29,11 @@ the wanderer's cape faster».
 
 «In this way we shall do», answered the North Wind.
 
-The North Wind blew and blew with all its strength. But the more it blew, the
-more the wanderer held his cape to himself. And its effort was for naught.
+The North Wind blew und blew with all its strength. But the more it blew, the
+more the wanderer held his cape to himself. und its effort was for naught.
 
-Then the Sun began to shine. It turned warm and the wanderer loosened his cape.
-And the Sun shone stronger and it grew warmer. And the wanderer took off his
+Then the Sun began to shine. It turned warm und the wanderer loosened his cape.
+und the Sun shone stronger und it grew warmer. und the wanderer took off his
 cape.
 
 So the North Wind had to admit that the Sun was the strongest of them both.

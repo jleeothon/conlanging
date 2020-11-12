@@ -11,7 +11,7 @@
 | 2nd. sg.   | irs     | wars      |
 | 3rd. sg.   | is      | was       |
 | 1st. pl.   | sum     | werem     |
-| 2nd. pl.   | suj     | werej     |
+| 2nd. pl.   | suj     | werei     |
 | 3rd. pl.   | sun     | weren     |
 
 **häban** (to have):
@@ -25,7 +25,7 @@
 | 2nd. sg.   | häbes   | hads      |
 | 3rd. sg.   | häbet   | had       |
 | 1st. pl.   | häbem   | hadem     |
-| 2nd. pl.   | häbej   | hadej     |
+| 2nd. pl.   | häbei   | hadei     |
 | 3rd. pl.   | häben   | haden     |
 
 **stán** (to stand):
@@ -39,7 +39,7 @@
 | 2nd. sg.   | stas    | studs     |
 | 3rd. sg.   | stat    | stud      |
 | 1st. pl.   | stam    | studem    |
-| 2nd. pl.   | staj    | studej    |
+| 2nd. pl.   | staj    | studei    |
 | 3rd. pl.   | stan    | studen    |
 
 **dón** (to do):
@@ -53,7 +53,7 @@
 | 2nd. sg.   | dos     | dáds      |
 | 3rd. sg.   | dot     | dád       |
 | 1st. pl.   | dom     | dádem     |
-| 2nd. pl.   | doj     | dádej     |
+| 2nd. pl.   | doj     | dádei     |
 | 3rd. pl.   | don     | dáden     |
 
 **gán** (to go):
@@ -67,5 +67,5 @@
 | 2nd. sg.   | gas     | ginges    |
 | 3rd. sg.   | gat     | ging      |
 | 1st. pl.   | gan     | gingem    |
-| 2nd. pl.   | gaj     | gingej    |
+| 2nd. pl.   | gaj     | gingei    |
 | 3rd. pl.   | gan     | gingen    |
