@@ -37,7 +37,7 @@ The animacy distinction is the same as with nouns.
 ### General notes
 
 Distal pronouns are also used for referent, as in, "such person", "such thing",
-"such kind", etc.
+"such kind", etc. 🤷‍♂️ Maybe this is a bad idea.
 
 In the following tables, any **base form** and **irregular forms** are marked
 with **bold**. Regular forms take endings from the strong noun paradigm (with
@@ -100,8 +100,7 @@ like an unstressed form: _en, et, enas, enai, einan, enar_.
 
 ### Quantifiers
 
-The negative quantifier, both article and pronoun, works like High German
-"kein":
+The negative quantifier, both article and pronoun, works like Low Saxon "keen":
 
 |      | Singular | Plural |
 | ---- | -------- | ------ |
@@ -151,21 +150,26 @@ They are inflected similarly, as strong nouns:
 
 The pro-person complement personal pronouns; they are _hwe_ "who", _hje_ "this
 person(s)", _þje_ "that person(s)", _sje_ "such person(s)". They do not inflect
-in number.
+in number. The existential pro-person means "someone", and the negative
+pro-person means "no one".
 
 The pro-thing pronoun is similar to pro-persons. It only exists in a _hw-_ form.
 
-|      | Question | Proximal |
-| ---- | -------- | -------- |
-| Nom. | hwe      | hwa      |
-| Acc. | hwem     | hwat     |
-| Gen. | hwes     | hwas     |
+Pro-person:
 
-|      | Pro-person | Pro-thing |
-| ---- | ---------- | --------- |
-| Nom. | hwe        | hwa       |
-| Acc. | hwem       | hwat      |
-| Gen. | hwes       | hwas      |
+|      | Question | Exist. sg. | 〃 pl.  | Negative |
+| ---- | -------- | ---------- | ------- | -------- |
+| Nom. | hwe      | man?       | main?   | njem     |
+| Acc. | hwem     | manam?     | mainan? | njemam   |
+| Gen. | hwes     | manas?     | mainar? | njemas   |
+
+Pro-thing:
+
+|      | Question | Exist. sg. | 〃 pl. | Negative |
+| ---- | -------- | ---------- | ------ | -------- |
+| Nom. | hwa      | ihs        | ihsai  | nihs     |
+| Acc. | hwat     | iht        | ihsan  | niht     |
+| Gen. | hwas     | ihsas      | ihsar  | nihtas   |
 
 Thing (what, something, nothing, etc):
 
@@ -178,19 +182,17 @@ Thing (what, something, nothing, etc):
 | Negative (nothing)     | nihs       | niht       | nihsas |
 | Universal (everything) | alls       | allt       | allas  |
 
-Other constructions are productive by _hwat + PREP_.
-
 Pro-adverbs:
 
-|               | Question | Proximal | Medial | Comparative | Existential | Neg. Existential | Universal |
-| ------------- | -------- | -------- | ------ | ----------- | ----------- | ---------------- | --------- |
-| Time          | hwan     | hjan     | þan    | sjan        | erg hwan    | nerg hwan        | ew hwan   |
-| Start (Time)  | hwens    | hjens    | þens   | sjens       | erg hwens   | nerg hwens       | ew hwens  |
-| End (Time)    | hwinl    | hjinl    | þinl   | sjinl       | erg hwinl   | nerg hwinl       | ew hwinl  |
-| Place         | hwar     | hjar     | þar    | sjar        | erg hwar    | nerg hwar        | ew hwar   |
-| Start (Place) | hwers    | hjers    | þers   | sjers       | erg hwers   | nerg hwers       | ew hwers  |
-| End (Place)   | hwiþr    | hjiþr    | þiþr   | sjiþr       | erg hwiþr   | nerg hwiþr       | ew hwiþr  |
-| Manner        | hwus     | hjus     | þus    | sjus        | erg hwus    | nerg hwus        | ew hwus   |
+|                     | Question | Proximal | Medial | Comparative | Existential | Neg. Existential | Universal |
+| ------------------- | -------- | -------- | ------ | ----------- | ----------- | ---------------- | --------- |
+| Time                | hwan     | hjan     | þan    | sjan        | erg hwan    | nerg hwan        | ew hwan   |
+| Start (Time)        | hwens    | hjens    | þens   | sjens       | erg hwens   | nerg hwens       | ew hwens  |
+| End (Time)          | hwiner   | hjiner   | þiner  | sjiner      | erg hwiner  | nerg hwiner      | ew hwiner |
+| Place               | hwar     | hjar     | þar    | sjar        | erg hwar    | nerg hwar        | ew hwar   |
+| Origin (Place)      | hwers    | hjers    | þers   | sjers       | erg hwers   | nerg hwers       | ew hwers  |
+| Destination (Place) | hwiþer   | hjiþer   | þiþer  | sjiþer      | erg hwiþer  | nerg hwiþer      | ew hwiþer |
+| Manner              | hwus     | hjus     | þus    | sjus        | erg hwus    | nerg hwus        | ew hwus   |
 
 The time adverbs' meanings are: when, now, then, such moment, sometime, never,
 always.
@@ -220,7 +222,3 @@ way, somehow, in no way, in every way.
 
 Note that many determiners are similar to related pronouns, but differ in the
 vowel.
-
-Self-note: maybe possesives should not be determiners. They would follow the
-noun modified, and are accompanied by the definite article e.g. _þen hund mien_
-instead of _min hund_.
