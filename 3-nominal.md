@@ -1,18 +1,18 @@
 ## Nominal paradigms
 
-Nouns decline for number and case. There are weak and strong paradigms.
+**Nouns** decline for number and case. There are weak and strong paradigms.
 
-The weak noun paradigm requires a determiner; it is:
+The **weak noun paradigm** requires a determiner; it is:
 
 |           | Singular | Plural |
 | --------- | -------- | ------ |
 | Nom.-Acc. | -        | -an    |
 | Gen.      | -as      | -ar    |
 
-The weak adjective ending for all cases and numbers is: "-a".
+The **weak adjective** ending for all cases and numbers is: _-a_.
 
-The strong noun paradigm is used in literary contexts and when a determiner is
-dropped; it is:
+The **strong noun paradigm** is used in literary contexts and when a determiner
+is dropped; it is:
 
 |      | Singular  | Plural |
 | ---- | --------- | ------ |
@@ -20,11 +20,11 @@ dropped; it is:
 | Acc. | -am / -at | -an    |
 | Gen. | -an       | -ar    |
 
-There is an optional animacy distinction in the accusative singular: ⟨-am⟩ for
-animate and ⟨-at⟩ for inanimate.
+There is an animacy distinction in the accusative singular: _-am_ for animate
+and _-at_ for inanimate.
 
-The strong adjective paradigm is used in literary contexts and when the noun is
-omitted:
+The **strong adjective paradigm** is used in literary contexts and when the noun
+is omitted:
 
 |      | Singular  | Plural |
 | ---- | --------- | ------ |
@@ -34,17 +34,95 @@ omitted:
 
 The animacy distinction is the same as with nouns.
 
-Personal pronouns:
+### General notes
 
-|      | 1st sg. | 2nd sg. | 3rd sg. masc./comm./fem. | 1st pl. | 2nd pl. | 3rd pl. | 3rd refl. |
-| ---- | ------- | ------- | ------------------------ | ------- | ------- | ------- | --------- |
-| Nom. | ik      | þu      | he/þe/se                 | we      | je      | þej     |           |
-| Acc. | mih     | þih     | hem/þem/sem              | uns     | jew     | þejem   | sih       |
-| Gen. | mein    | þein    | hes/þes/ses              | unser   | jewer   | þejer   | sein      |
+Distal pronouns are also used for referent, as in, "such person", "such thing",
+"such kind", etc.
 
 In the following tables, any **base form** and **irregular forms** are marked
 with **bold**. Regular forms take endings from the strong noun paradigm (with
 the inanimate ending).
+
+Some determiners and pronouns have a animacy distinction in the singular
+accusative, _-am_ or _-ar_. This distinction can be between personhood and
+nonpersonhood, or animate and inanimate, according to context and preference.
+
+### Personal pronouns
+
+|      | 1st sg. | 2nd sg. | 3rd sg. masc. | 3rd sg epi. | 3rd fem. | 1st pl. | 2nd pl. | 3rd pl. | 3rd refl. |
+| ---- | ------- | ------- | ------------- | ----------- | -------- | ------- | ------- | ------- | --------- |
+| Nom. | ik      | þu      | he            | þe          | se       | we      | je      | þej     |           |
+| Acc. | mih     | þih     | hem           | þem/þet     | sem      | uns     | jew     | þejem   | sih       |
+| Gen. | mein    | þein    | hes           | þes         | ses      | unser   | jewer   | þejer   | sein      |
+
+There is an optional animacy distinction in the 3rd person epicine singular
+pronoun.
+
+As with nouns, genitive/possesive pronouns follow the noun they modify. They do
+not inflect. For example: _þe kat mien_ "my cat".
+
+### Determiners
+
+Determiners fully denote case and number; therefore they accompany
+weakly-inflected nouns.
+
+They are any of:
+
+- definite and indefinite articles,
+- demonstratives,
+- quantifiers
+
+### Definite and indefinite articles and pronouns
+
+The definite articles and definite pronoun are the same:
+
+|      | Singular  | Plural |
+| ---- | --------- | ------ |
+| Nom. | þe        | þei    |
+| Acc. | þem / þet | þen    |
+| Gen. | þes       | þer    |
+
+Note that the singular forms are the same as the 3rd person epicine pronouns.
+There is only a subtle distinction betwen the definite pronouns and the 3rd
+person pronouns. The definite pronouns tend to mean "the aforementioned". This
+distinction is not important.
+
+The indefinite article and indefinite pronouns:
+
+|      | Singular | Plural |
+| ---- | -------- | ------ |
+| Nom. | **ain**  | ainai  |
+| Acc. | **ait**  | ainan  |
+| Gen. | ainas    | ainar  |
+
+Should I distinguish the definite article and pronoun❓ The article could look
+like an unstressed form: _en, et, enas, enai, einan, enar_.
+
+### Quantifiers
+
+The negative quantifier, both article and pronoun, works like High German
+"kein":
+
+|      | Singular | Plural |
+| ---- | -------- | ------ |
+| Nom. | **nain** | nainai |
+| Acc. | **nait** | nainan |
+| Gen. | nainas   | nainar |
+
+The universal quantifier, both article and pronoun:
+
+|      | Singular | Plural |
+| ---- | -------- | ------ |
+| Nom. | **all**  | allai  |
+| Acc. | **alt**  | allan  |
+| Gen. | allas    | allar  |
+
+🤷‍♂️ _alt_ doesn't look convincing.
+
+Other adjectives may act as quantifiers if they are strongly inflected e.g.
+_sum_ "some", without a formal or literary register.
+
+### Demonstratives
 
 The demonstrative pronouns are identical to demonstrative articles
 
@@ -56,11 +134,38 @@ The demonstrative pronouns are identical to demonstrative articles
 
 Demonstratives are used for both people and things.
 
-Person (who, someone, no one, etc):
+### Option or category
 
+The words _hwelk_ "which, what kind", _hjelk_ "this one", _þelk_ "that one",
+_sjelk_ "such one" are both determiners and pronouns.
 
+They are inflected similarly, as strong nouns:
 
-Other constructions are productive by _hwem + PREP_.
+|      | Question sg.  | 〃 pl.  | Proximal sg.  | 〃 pl.  | Medial sg.   | 〃 pl. | Distal sg.    | 〃 pl.  |
+| ---- | ------------- | ------- | ------------- | ------- | ------------ | ------ | ------------- | ------- |
+| Nom. | **hwelk**     | hwelkai | **hjelk**     | hjelkai | **þelk**     | þelkai | **sjelk**     | sjelkai |
+| Acc. | hwelkam / -at | hwelkan | hjelkam / -at | hjelkan | þelkam / -at | þelkan | sjelkam / -at | sjelkan |
+| Gen. | hwelkan       | hwelkar | hjelkan       | hjelkar | þelkan       | þelkar | sjelkan       | sjelkar |
+
+### Pro-person and Pro-thing
+
+The pro-person complement personal pronouns; they are _hwe_ "who", _hje_ "this
+person(s)", _þje_ "that person(s)", _sje_ "such person(s)". They do not inflect
+in number.
+
+The pro-thing pronoun is similar to pro-persons. It only exists in a _hw-_ form.
+
+|      | Question | Proximal |
+| ---- | -------- | -------- |
+| Nom. | hwe      | hwa      |
+| Acc. | hwem     | hwat     |
+| Gen. | hwes     | hwas     |
+
+|      | Pro-person | Pro-thing |
+| ---- | ---------- | --------- |
+| Nom. | hwe        | hwa       |
+| Acc. | hwem       | hwat      |
+| Gen. | hwes       | hwas      |
 
 Thing (what, something, nothing, etc):
 
@@ -112,38 +217,6 @@ to somewhere, to nowhere, to everywhere.
 
 The adverbs of manner's meanings are: how, in this way, in that way, in such
 way, somehow, in no way, in every way.
-
-Determiners:
-
-|                              | Nominative | Accusative | Genitive |
-| ---------------------------- | ---------- | ---------- | -------- |
-| Regular endings              | -          | -at        | -as      |
-|                              | -ai        | -an        | -ar      |
-| Indefinite article           | en         | et         | es       |
-|                              | ena        | enan       | enar     |
-| Definite article             | þe         | þet        | þes      |
-|                              | þej        | þejan      | þejar    |
-| Proximal demonstrative       | þis        | þit        | þisar    |
-|                              | þisai      | þisan      | þisar    |
-| Medial demonstrative         | þas        | þat        | þasas    |
-|                              | þasai      | þasan      | þasar    |
-| Distal demonstrative         | jen        | jet        | jes      |
-|                              | jenai      | jenan      | jenar    |
-| Universal quantifier         | all        | allt       | allas    |
-|                              | allai      | allan      | allar    |
-| Negative quantifier          | nen        | net        | nes      |
-|                              | nenai      | nenan      | nenar    |
-| Option                       | hwelk      | 〃         | 〃       |
-| Kind                         | hwolk      | 〃         | 〃       |
-| 1st. person sg. poss.        | min        | 〃         | 〃       |
-| 2nd. person sg. poss.        | þin        | 〃         | 〃       |
-| 3rd. person masc. sg. poss.  | hjes       | 〃         | 〃       |
-| 3rd. person common sg. poss. | þes        | 〃         | 〃       |
-| 3rd. person fem. sg. poss.   | sjes       | 〃         | 〃       |
-| 1st. person pl. poss.        | unser      | 〃         | 〃       |
-| 2nd person pl. poss.         | jur        | 〃         | 〃       |
-| 3rd person pl. poss.         | þejer      | 〃         | 〃       |
-| 3rd person reflex. poss      | sein       | 〃         | 〃       |
 
 Note that many determiners are similar to related pronouns, but differ in the
 vowel.

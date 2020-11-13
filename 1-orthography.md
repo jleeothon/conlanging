@@ -1,7 +1,5 @@
 ## Orthography and phonology
 
-## Phonology and orthography
-
 | Uppercase | Lowercase | IPA                                |
 | --------- | --------- | ---------------------------------- |
 | I         | i         | /i/                                |
@@ -27,7 +25,7 @@
 | P         | p         | /p/                                |
 | D         | d         | /d/                                |
 | T         | t         | /t/                                |
-| G         | g         | /g/, /x/ final                     |
+| G         | g         | /g/, optionally /x/ final          |
 | K         | k         | /k/                                |
 | F         | f         | /f/                                |
 | S         | s         | /s/                                |
@@ -52,3 +50,6 @@ word-middle and word-end, it may be ⟨v⟩, thus the pronunciation better
 distinguished.
 
 I'm tempted to turn ⟨sk⟩ into ⟨sc⟩.
+
+Geminated consonants may exist. I'm not sure what to do with them, especially
+when they occur at the word-end; they may be trigger tone change.
