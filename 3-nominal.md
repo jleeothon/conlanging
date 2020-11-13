@@ -171,18 +171,7 @@ Pro-thing:
 | Acc. | hwat     | iht        | ihsan  | niht     |
 | Gen. | hwas     | ihsas      | ihsar  | nihtas   |
 
-Thing (what, something, nothing, etc):
-
-|                        | Nominative | Accusative | Plural |
-| ---------------------- | ---------- | ---------- | ------ |
-| Question               | hwa        | hwat       | hwas   |
-| Existential sg.        | ihs        | iht        | ihsas  |
-| Existential pl.        | ihse       | ihsan      | ihsar  |
-| Elective (anything)    | erg ihs    | …          | …      |
-| Negative (nothing)     | nihs       | niht       | nihsas |
-| Universal (everything) | alls       | allt       | allas  |
-
-Pro-adverbs:
+### Pro-adverbs
 
 |                     | Question | Proximal | Medial | Comparative | Existential | Neg. Existential | Universal |
 | ------------------- | -------- | -------- | ------ | ----------- | ----------- | ---------------- | --------- |
