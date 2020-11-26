@@ -1,16 +1,17 @@
-# Þe fuhs und þej þrúbi
+# Þe fuhs und þei þrúvan
 
-Ain dag, sah ain hungriga fuhs ait weinwört und ainan þrúbi hwa hingen ab þet.
+Ain dagis, sah ain hungriga fuhs ait weinwört und ainan þrúvan hwa hingen av
+þet.
 
-Þei þrúbi weren graut und plump und deupis raud, und þe munþ þes fuhsas draup te
+Þei þrúvan weren graut und plump und deup raud, und þe munþ þes fuhsas draup te
 hwiel hwat hje kaik þen. Nerg hwaner sah þe fuhs ainan hjus grauta und plumpa
-und deupis rauda þrúban.
+und deup rauda þrúvan.
 
-þe þrúban hingen ab ait hauha tweig. Þe fuhs sprang för fangan þejem, aber ne
-konde reikiene þejem. Þan hleup te bak und rann und sprang til þen þrúban, und
-strakied þet nek sien, aber auk ne konnde reikian þejem.
+Þe þrúvan hingen av ait hauha tweig. Þe fuhs sprang för fangén þejem, aver ne
+konde reikiene þejem. Þan hleup te bak und rann und sprang til þen þrúvan, und
+strakid þet nek sien, aver auk ne konnde reikién þejem.
 
-Sair sag þe fuhs: «Hwolk im en dumba. Dou mih móþ för ainan súra þrúbi. Þej ne
+Sair sag þe fuhs: «Hwolk im en dumba. Dou mih móþ för ainan súra þrúvan. Þej ne
 sunt worþig.»
 
 Und hleup weg.

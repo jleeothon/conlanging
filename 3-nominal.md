@@ -37,7 +37,7 @@ The animacy distinction is the same as with nouns.
 ### General notes
 
 Distal pronouns are also used for referent, as in, "such person", "such thing",
-"such kind", etc. 🤷‍♂️ Maybe this is a bad idea.
+"such kind", etc.
 
 In the following tables, any **base form** and **irregular forms** are marked
 with **bold**. Regular forms take endings from the strong noun paradigm (with
@@ -146,7 +146,7 @@ They are inflected similarly, as strong nouns:
 | Acc. | hwelkam / -at | hwelkan | hjelkam / -at | hjelkan | þelkam / -at | þelkan | sjelkam / -at | sjelkan |
 | Gen. | hwelkan       | hwelkar | hjelkan       | hjelkar | þelkan       | þelkar | sjelkan       | sjelkar |
 
-### Pro-person and Pro-thing
+### Pro-person and pro-thing
 
 The pro-person complement personal pronouns; they are _hwe_ "who", _hje_ "this
 person(s)", _þje_ "that person(s)", _sje_ "such person(s)". They do not inflect
@@ -157,19 +157,19 @@ The pro-thing pronoun is similar to pro-persons. It only exists in a _hw-_ form.
 
 Pro-person:
 
-|      | Question | Exist. sg. | 〃 pl.  | Negative |
-| ---- | -------- | ---------- | ------- | -------- |
-| Nom. | hwe      | man?       | main?   | njem     |
-| Acc. | hwem     | manam?     | mainan? | njemam   |
-| Gen. | hwes     | manas?     | mainar? | njemas   |
+|      | Question | Exist. sg. | 〃 pl. | Negative  |
+| ---- | -------- | ---------- | ------ | --------- |
+| Nom. | **hwe**  | **jüms**   | jümai  | **nüms**  |
+| Acc. | **hwem** | **jüm**    | jüman  | **nüm**   |
+| Gen. | **hwes** | jümas      | jümar  | **nümas** |
 
 Pro-thing:
 
 |      | Question | Exist. sg. | 〃 pl. | Negative |
 | ---- | -------- | ---------- | ------ | -------- |
-| Nom. | hwa      | ihs        | ihsai  | nihs     |
-| Acc. | hwat     | iht        | ihsan  | niht     |
-| Gen. | hwas     | ihsas      | ihsar  | nihtas   |
+| Nom. | **hwa**  | **ihs**    | ihsai  | nihs     |
+| Acc. | **hwat** | **iht**    | ihsan  | niht     |
+| Gen. | **hwas** | ihsas      | ihsar  | nihsas   |
 
 ### Pro-adverbs
 
@@ -191,11 +191,8 @@ moment, since sometime, since never, always (emphasis on a fact that has always
 been true).
 
 The end-of-time adverbs' meanings are: until when, until now, until then, until
-such moment, until sometime; _nerg hwinl_ and _ew hwinl_ may not have a
+such moment, until sometime; _nerg hwiner_ and _ew hwiner_ may not have a
 practical definition but could be used by analogy.
-
-Self-note: _hwinl_ doesn't sound too convincing. It originates from "hwan +
-til".
 
 The place adverbs' meanings are: where, here, there, such place, somewhere,
 nowhere, everywhere.
@@ -211,3 +208,13 @@ way, somehow, in no way, in every way.
 
 Note that many determiners are similar to related pronouns, but differ in the
 vowel.
+
+⚠️ Should make a family of pro-adverbs for "why" and "what for".
+
+### Other
+
+Other pro-forms can be built combining pro-persons, pro-things, and pro-adverbs
+with prepositions. Pro-persons and pro-things inflect according to the case
+governed by the preposition.
+
+⚠️ Example needed.
