@@ -19,6 +19,7 @@ data.entries.forEach(entry => {
 			key = 'see';
 			entry.see.sort((a, b) => naturalCompare(a, b, alphabet));
 		}
+
 		if (entry.synonyms) {
 			key = 'synonyms';
 			entry.synonyms.sort((a, b) => naturalCompare(a, b, alphabet));
