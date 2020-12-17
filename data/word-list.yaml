@@ -420,6 +420,7 @@ entries:
     categories:
       - Descriptions
   - word: midirdag
+    part: noun
     meaning: midday
     categories:
       - Time
@@ -429,6 +430,7 @@ entries:
     categories:
       - Time
   - word: midirnaht
+    part: noun
     meaning: midnight
     categories:
       - Time
