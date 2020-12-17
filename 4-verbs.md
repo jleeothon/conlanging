@@ -134,7 +134,8 @@ They are a category of weak verbs whose present stems differ from preterite
 stems by a vowel alternation, and sometimes exhibit a consonant alternation due
 to the Germanic Spirant Law.
 
-For an exhaustive list, see [verbs-preterite-present.md](./4-3-verbs-rückumlaut.md).
+For an exhaustive list, see
+[verbs-preterite-present.md](./4-3-verbs-rückumlaut.md).
 
 ### Preterite-present verbs
 

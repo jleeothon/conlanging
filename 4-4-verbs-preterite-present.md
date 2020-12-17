@@ -10,8 +10,8 @@ To know:
 | 2nd. sg.   | waites  | wistes    |
 | 3rd. sg.   | wait    | wiste     |
 | 1st. pl.   | witem   | wistem    |
-| 2nd. pl.   | witert  | wistert   |
-| 3rd. pl.   | witent  | wistent   |
+| 2nd. pl.   | witej   | wistej    |
+| 3rd. pl.   | witun   | wistun    |
 
 To be fit:
 
@@ -23,8 +23,8 @@ To be fit:
 | 2nd. sg.   | daugs   | duhtes    |
 | 3rd. sg.   | daug    | duhte     |
 | 1st. pl.   | dugem   | duhtem    |
-| 2nd. pl.   | dugert  | duhtert   |
-| 3rd. pl.   | dugent  | duhtent   |
+| 2nd. pl.   | dugej   | duhtej    |
+| 3rd. pl.   | dugun   | duhtun    |
 
 To be able to:
 
@@ -36,8 +36,8 @@ To be able to:
 | 2nd. sg.   | kanns   | kondes    |
 | 3rd. sg.   | kann    | konde     |
 | 1st. pl.   | konnem  | kondem    |
-| 2nd. pl.   | konnert | kondert   |
-| 3rd. pl.   | konnent | kondent   |
+| 2nd. pl.   | konnej  | kondej    |
+| 3rd. pl.   | konnun  | kondun    |
 
 To like:
 
@@ -49,8 +49,8 @@ To like:
 | 2nd. sg.   | anns    | ondes     |
 | 3rd. sg.   | ann     | onde      |
 | 1st. pl.   | onnem   | ondem     |
-| 2nd. pl.   | onnert  | ondert    |
-| 3rd. pl.   | onnent  | ondent    |
+| 2nd. pl.   | onnej   | ondej     |
+| 3rd. pl.   | onnun   | ondun     |
 
 To dare:
 
@@ -62,8 +62,8 @@ To dare:
 | 2nd. sg.   | darrs   | dordes    |
 | 3rd. sg.   | darr    | dorde     |
 | 1st. pl.   | dorrem  | dordem    |
-| 2nd. pl.   | dorrert | dordert   |
-| 3rd. pl.   | dorrent | dordent   |
+| 2nd. pl.   | dorrej  | dordej    |
+| 3rd. pl.   | dorrun  | dordun    |
 
 To need:
 
@@ -75,8 +75,8 @@ To need:
 | 2nd. sg.   | þarbs   | þorvdes   |
 | 3rd. sg.   | þarb    | þorvde    |
 | 1st. pl.   | þorbem  | þorvdem   |
-| 2nd. pl.   | þorbert | þorvdert  |
-| 3rd. pl.   | þorbent | þorvdent  |
+| 2nd. pl.   | þorbej  | þorvdej   |
+| 3rd. pl.   | þorbun  | þorvdun   |
 
 (Preset) future marker, (preterite) future-in-past, or subjunctive marker:
 
@@ -88,21 +88,21 @@ To need:
 | 2nd. sg.   | skals    | skoldes   |
 | 3rd. sg.   | skal     | skolde    |
 | 1st. pl.   | skolem   | skoldem   |
-| 2nd. pl.   | skolert  | skoldert  |
-| 3rd. pl.   | skolent  | skoldent  |
+| 2nd. pl.   | skolej   | skoldej   |
+| 3rd. pl.   | skolun   | skoldun   |
 
 To have to:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | moten   | mosten    |
+| Infinitive | móten   | mosten    |
 | Participle | mótend  | most      |
 | 1st. sg.   | mót     | moste     |
 | 2nd. sg.   | móts    | mostes    |
 | 3rd. sg.   | mót     | moste     |
-| 1st. pl.   | motem   | mostem    |
-| 2nd. pl.   | motert  | mostert   |
-| 3rd. pl.   | motent  | mostent   |
+| 1st. pl.   | mótem   | mostem    |
+| 2nd. pl.   | mótej   | mostej    |
+| 3rd. pl.   | mótun   | mostun    |
 
 To be permitted to:
 
@@ -114,8 +114,8 @@ To be permitted to:
 | 2nd. sg.   | mags    | mohtes    |
 | 3rd. sg.   | mag     | mohte     |
 | 1st. pl.   | mógem   | mohtem    |
-| 2nd. pl.   | mógert  | mohtert   |
-| 3rd. pl.   | mógent  | mohtent   |
+| 2nd. pl.   | mógej   | mohtej    |
+| 3rd. pl.   | mógun   | mohtun    |
 
 To fear:
 
@@ -127,8 +127,8 @@ To fear:
 | 2nd. sg.   | ags     | ohtes     |
 | 3rd. sg.   | ag      | ohte      |
 | 1st. pl.   | ógem    | ohtem     |
-| 2nd. pl.   | ógert   | ohtert    |
-| 3rd. pl.   | ógent   | ohtent    |
+| 2nd. pl.   | ógej    | ohtej     |
+| 3rd. pl.   | ógun    | ohtun     |
 
 To want:
 
@@ -140,5 +140,5 @@ To want:
 | 2nd. sg.   | wills   | woldes    |
 | 3rd. sg.   | will    | wolde     |
 | 1st. pl.   | wollem  | woldem    |
-| 2nd. pl.   | wollert | woldert   |
-| 3rd. pl.   | wollent | woldent   |
+| 2nd. pl.   | wollej  | woldej    |
+| 3rd. pl.   | wollun  | woldun    |

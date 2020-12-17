@@ -5,7 +5,7 @@ They all inflect regularly with case and number.
 | Root | Comparative | Superlative | Meaning         |
 | ---- | ----------- | ----------- | --------------- |
 | gód  | bätir       | bäst        | "good"          |
-| übil | wirsir      | wirist     | "bad"           |
+| übil | wirsir      | wirist      | "bad"           |
 | -    | mindir      | mindist     | "less", "least" |
 | -    | mair        | maist       | "many", "most"  |
 
