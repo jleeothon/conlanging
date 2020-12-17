@@ -1,3 +1,6 @@
 #!/usr/bin/env fish
 
-bin/sort-word-list.fish < data/word-list.yaml
+set inputFile data/word-list.yaml
+set t (mktemp)
+bin/sort.js < $inputFile > $t
+mv $t $inputFile

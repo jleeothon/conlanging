@@ -1,14 +1,12 @@
 #!/usr/bin/env node
 
 const {readFileSync, writeFileSync} = require('fs');
-const {join} = require('path');
+const path = require('path');
 
 const handlebars = require('handlebars');
 const yaml = require('js-yaml');
 
-const templateSource = `# Theudisk
-
-## {{title}}
+const templateSource = `## {{title}}
 
 {{#each entries}}
 ### {{word}}
@@ -28,29 +26,29 @@ const template = handlebars.compile(templateSource);
 
 const outDir = './out';
 
-async function writeFile(fileName, title, data) {
+function writeFile(fileName, title, data) {
 	const dataWithTitle = {title, ...data};
-	writeFileSync(join(outDir, fileName), template(dataWithTitle));
+	writeFileSync(path.join(outDir, fileName), template(dataWithTitle));
 }
 
-async function run() {
+function run() {
 	const data = yaml.safeLoad(readFileSync(0, 'utf-8'));
 
-	await writeFile('word-list.md', 'Word list', data);
+	writeFile('word-list.md', 'Word list', data);
 
 	const categoriesSet = new Set();
 	data.entries.forEach(({categories}) => categories && categories.forEach(c => categoriesSet.add(c)));
 
 	categoriesSet.forEach(category => {
-		const entries = data.entries.filter(({categories}) => categories && categories.indexOf(category) >= 0);
-		const newData = {entries: entries};
+		const entries = data.entries.filter(({categories}) => categories && categories.includes(category));
+		const newData = {entries};
 		writeFile(category + '.md', category, newData);
 	});
 
 	const parts = ['noun', 'adjective', 'conjunction', 'preposition', 'adverb'];
 	parts.forEach(part => {
 		const entries = data.entries.filter(({part: p}) => p && p === part);
-		const newData = {entries: entries};
+		const newData = {entries};
 		writeFile(part + '.md', part, newData);
 	});
 }
