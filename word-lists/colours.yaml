@@ -2,57 +2,47 @@
 topic: [colours]
 lemmas:
 
-- lemma: farw
-  class: noun
-  source: {PG: farwō}
+- word: faruw
+  part: noun
   meaning: colour
   note: Pronounced far̨w
 
-- lemma: gelw
-  class: adj
-  source: {PG: gelwaz}
+- word: geluw
+  part: adj
   meaning: yellow
 
-- lemma: bláw
-  class: adj
-  source: {PG: blēwaz}
+- word: bláw
+  part: adj
   meaning: blue
 
-- lemma: swart
-  class: adj
-  source: {PG: swartaz}
+- word: swart
+  part: adj
   meaning: black
 
-- lemma: hwít
-  class: adj
-  source: {PG: hwītaz}
+- word: hweit
+  part: adj
   meaning: white
 
-- lemma: raud
-  class: adj
-  source: {PG: raudaz}
+- word: raud
+  part: adj
   meaning: red
 
-- lemma: grűn
-  class: adj
-  source: {PWG: grōnī, PG: grōniz}
+- word: grűn
+  part: adj
   meaning: green
 
-- lemma: brún
-  class: adj
-  source: {PG: brūnaz}
+- word: brún
+  part: adj
   meaning: brown
 
-- lemma: gráw
-  class: adj
-  source: {PG: grēwaz}
+- word: gráw
+  part: adj
   meaning: grey
 
-- lemma: bariskA
-  class: adj
-  source: {PG: wīnabasją (wine berry)}
+- word: barisc
+  part: adj
   meaning: purple
 
-- lemma: gelẘraud
-  class: adj
+- word: geluwraud
+  part: adj
   meaning: orange

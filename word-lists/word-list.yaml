@@ -1,616 +1,502 @@
+words:
+
+- word: gód
+  part: adjective
+  meaning: good
+  inflections: {comparative: bätir, superlative: bäst}
+  irregular: yes
+
+- word: bätir
+  see: [gód]
+
+- word: bäst
+  see: [gód]
+
+- word: üvil
+  part: adjective
+  inflection: {comparative: wirsir, superlative: wirist}
+  meaning: bad
+  irregular: yes
+
+- word: wirsir
+  part: adjective
+  meaning: worse
+  irregular: yes
+  see: [üvil]
+
+- word: wirst
+  part: adjective
+  meaning: worst
+  irregular: yes
+  see: [üvil]
+
+- word: mindir
+  part: adjective
+  meaning: less
+  irregular: yes
+  see: [mindist]
+
+- word: mindist
+  part: adjective
+  meaning: least
+  irregular: yes
+  see: [mindir]
+
+- word: mair
+  part: adjective
+  meaning: more
+  irregular: yes
+  see: [maist]
+
+- word: maist
+  part: adjective
+  meaning: most
+  irregular: yes
+  see: [mair]
+
+- word: mikil
+  part: adjective
+  meaning: much, many, big
+
+- word: faw
+  part: adjective
+  meaning: few, little
+
+- word: fil
+  part: adjective
+  meaning: much
+
+- word: lütt
+  part: adjective
+  meaning: small
+
+- word: klain
+  part: adjective
+  meaning: small
+
+- word: graut
+  part: adjective
+  meaning: big
+
+- word: stór
+  part: adjective
+  meaning: big
 
-- topic: animals
-  lemmas:
-    - lemma: deur
-      infl: {deur}
-      source: {PG: deuzą}
-
-== Animals
-
-
-feh::
-noun, pl. *fehrn* +
-PG _*fehu_ +
-livestock
-
-kalf
-noun, pl. *kælvn* +
-PG _*kalbaz_ +
-kalf
-
-=== Wild mammals
-
-hwelp::
-noun, pl. *hwelprn* +
-PG _*hwelpaz_
-whelp, pup, young mammal
-
-elh::
-PG _*elhaz_ +
-elk
-
-herot::
-PG _*herutaz_ +
-deer, stag
-
-raih::
-raihą
-deer
-
-stæg
-_*staggijaz_, _*staggijô_
-male deer, stag
-
-hínd
-_*hindiz_, *_hindō_ +
-female deer, doe
-
-wolf::
-noun, pl. *wölvn* +
-PG _*wulfaz_ +
-wolf
-
-hond::
-noun, pl. *höndn* +
-PG _*hundaz_
-dog
-
-bík::
-noun +
-bikjǭ +
-bitch, female dog
-
-bér::
-noun, pl. *bérrn* +
-PG _*berô_ +
-bear
-
-fohs::
-noun, pl. *föhsn* +
-PG _*fuhsaz_ +
-fox
-
-kat::
-noun, pl. *kætn* +
-PG _*kattuz_ +
-cat
-
-lohs::
-noun, pl. *löhsn* +
-PG _*luhsaz_ +
-lynx
-
-selh::
-noun, pl. *selhrn* +
-PG _*selhaz_
-seal
-
-// or hárm?
-hárm::
-noun, pl. *ha̋rmn* +
-PG _*harmô_
-ermine, weasel
-
-// final spelling could be marþr
-marþr::
-noun, pl. mærþrn +
-PG _*marþraz_ +
-marten
-
-otr::
-noun, pl. *ötr* +
-PG _*utraz_
-otter
-
-// how to justify a long vowel? by elision of -u-?
-wízl::
-noun, pl. *wízlrn* +
-PG _*wisulǭ_ +
-weasel
-
-þahs::
-noun, pl. *þæhsn* +
-PG _*þahsuz_
-badger
-
-igl::
-noun, pl. *iglrn* +
-PWG _*igil_ < PG _*igilaz_ +
-hedgehog
-
-hás::
-noun, pl. *ha̋zn*
-PG _*hasô_
-hare
-
-áp::
-noun, pl. *a̋pn* +
-PG _*apô_ +
-ape
-
-aikwern::
-noun, pl. *aikwernrn* +
-PG _*aikwernô_ +
-squirrel
-
-// -uz causes lengthening?
-// plural is ugly
-bebr::
-noun, pl. *bebrren* +
-PG _*bebruz_ +
-beaver
-
-mús::
-noun, pl. *műzn* +
-PG mūs +
-mouse
-
-=== Domestic mammals
-
-==== Horses
-
-ehw::
-noun, pl. *ehwrn* +
-PWG _*ehw_ < PG _*ehwaz_ +
-ewe, horse
-
-hros::
-noun, pl. *hrözn* +
-PWG _*hross_ < PG _*hrussą_ +
-horse
-
-stód::
-noun, pl. *stődn* +
-PG _*stōdą_ +
-a herd of horses
-
-fól::
-noun, pl. *főln* +
-PG _*fulô_ +
-foal
-
-mær::
-noun, pl. *mærrn* +
-PWG _*marhijā_ < PG _*marhijō_ +
-mare, female horse
-
-==== Cows
-
-úhs::
-PWG ohsō < PG uhsô
-ox, castrated bull
-
-kú::
-kūz
-cow
-
-búl::
-bulô
-bull
-
-steur::
-steuraz
-bull
-
-=== Sheep
-
-hafr::
-hafraz
-male goat
-
-æw::
-PG awiz
-female sheep
-
-gait::
-PG gaits
-goat
-
-lamb::
-PG lambaz
-lamb
-
-ramm::
-PG rammaz
-ram, male sheep
-
-skáp::
-PG skēpą +
-sheep
-
-==== Pigs
-
-farh::
-noun, pl. *færhn* +
-PWG _*farh_ < PG _*farhaz_ +
-piglet, young pig
-
-suw::
-noun, pl. *sywn* +
-PWG _*sū_ < PG _*sūz_ +
-sow, female pig
-
-swín::
-noun, pl. swínrn +
-PWG _*swīn_ < PG _*swīną_ +
-swine, pig
-
-=== Chicken
-
-hæn::
-noun, pl *hænrn* +
-PG _*hanjō_ +
-hen, female chicken
-
-hán::
-noun, pl. *ha̋n* +
-from PG _*hanô_ +
-rooster, chicken
-
-kok::
-noun, pl. *kökn* +
-PG _*kukkaz_ +
-cock, rooster, chicken
-
-kiukin::
-noun, pl. *kiukinrn* +
-PG _kiukīną_ +
-chicken
-
-=== Birds
-
-fogl::
-noun, pl. fögln +
-PG _*fuglaz_ +
-bird +
-Related to *fleugn* (to fly)
-
-
-PG _*feþrō_ +
-
-dúf::
-noun, pl. *dűvn* +
-PG _dūbǭ_ +
-dove
-
-gauk::
-noun, pl. *gæukn* +
-PG _*gaukaz_ +
-cuckoo
-
-krán::
-noun, pl. *kra̋nn* +
-PG _*kranô_ +
-crane
-
-páw::
-noun, pl. *pa̋wn* +
-PG _*pawô_ < Latin _pāvō_ +
-peafowl
-
-stork::
-noun, pl. *störkn* +
-PG _*sturkaz_ +
-stork
-
-swan::
-noun, pl. *swænn* +
-PWG _*swan_ < PG _*swanaz_ +
-swan
-
-gans::
-noun, pl. *gænzn* +
-PG _*gans_ +
-goose
-
-hraig::
-noun, pl. *hræign* +
-PWG _*hraigrō_ < PG _*hraigrô_ +
-heron
-
-amsl (amzl?)::
-noun, pl. *æmsln* +
-PWG _*amslā_ < PG _*amslǭ_
-blackbird
-
-laiwarik::
-noun, pl. *laiwarikrn* +
-PG _*laiwarikǭ_ +
-lark
-
-swalw (?)::
-noun, pl. *swælwn* +
-PG _*swalwǭ_ +
-swallow
-
-þrast::
-noun, pl. *þræst* +
-PG _*þrastuz_ +
-thrush
-
-???::
-PG _*agatjǭ_, PG _*agalistrijǭ_
-magpie (Elster)
-
-hravn::
-noun, pl. *hrævn* +
-PWG _*hrbn_ < PG _*hrabnaz_ +
-raven
-
-sparw::
-noun, pl. *spærw* +
-PG _*sparwô_ +
-sparrow
-
-fink::
-noun, pl. *finkrn* +
-PG _*finkiz_, PG _*finkô_
-finch
-
-mais::
-noun, pl. *mæis* +
-PG _*maisǭ_ +
-tit
-
-kolmais::
-noun, pl. *kolmais* +
-PG _*kulamaisǭ_ +
-great tit
-
-falk::
-noun, pl. *fælkn* +
-PG _*falkô_ +
-falcon
-
-húw::
-noun, pl. *hűwn* +
-PG _*hūwô_ +
-owl
-
-uwl::
-noun, pl. *uwlrn* +
-PG _*uwwalǭ_ < PG _*uwwô_ +
-barn owl
-
-wíw::
-noun, pl. *wíwrn* +
-PG _*wīwô_ +
-harrier
-
-kűt::
-noun, pl. *kűt* +
-PG _*kūtijô_ +
-kite
-
-// What to do with -bu-?
-
-hafk ???::
-noun, pl. *hæfk* +
-PG _*habukaz_ +
-hawk
-
-// Or ánd?
-and::
-noun, pl. *ændn* +
-from PG _*andaz_ +
-duck
-
-maiw::
-noun, pl. *mæiwn* +
-PG _*maiwaz_ +
-seagull
-
-=== Amphibians and reptiles
-
-frosk::
-noun, pl. *fröskn* +
-PWG _*frosk_ < PG _*fruskaz_ +
-frog
-
-nadr::
-noun, pl. *nædrn* +
-PG _*nadrǭ_ +
-adder
-
-snák::
-noun, pl. *sna̋kn* +
-PG _*snakô_ +
-snake
-
-=== Fish
-
-fisk::
-noun, pl. *fiskrn* +
-PG _*fiskaz_ +
-fish
-
-// Allow s-z alternation between any two sonorants?
-bars::
-noun, pl. *bærzn* +
-PG _*barsaz_ +
-perch
-
-ál::
-noun, pl. a̋ln +
-PG _*ēlaz_ +
-eel
-
-flonþr::
-noun, pl. *flönþrn*
-PG _*flunþrijǭ_ +
-flounder, flatfish
-
-forhn::
-noun, pl. *förhn*
-PWG _*forhnu_ < PG _*furhnō_ +
-trout
-
-hakt::
-noun, pl. *hækt* +
-PG _*hakudaz_ +
-pike
-
-lahs::k
-noun, pl. *læhsn* +
-PG _*lahsaz_ +
-salmon
-
-smelt::
-noun, pl. *smeltrn* +
-PG _*smeltaz_
-smelt
-
-// u+umlaut = y or ö?
-stör
-noun, pl. *störrn*
-PG _*sturjô_
-sturgeon
-
-þorsk
-noun, pl. *þörskn*
-PG _*þurskaz_
-cod
-
-=== Invertebrates
-
-worm::
-noun, pl. *wörmn* +
-PG _*wurmiz_ +
-worm
-
-egl::
-noun, pl. *eglrn* +
-PWG _*egalu_ < PG _*egalaz_ +
-leech
-
-bij::
-noun, pl. *bijrn* +
-PG _*bijō_ +
-bee
-
-// I'd like to use an agent suffix here
-ámaitr::
-noun, pl. *ámaitrrn* +
-PG _*ēmaitijǭ_ +
-ant
-
-maur::
-noun, pl. *mæurn* +
-PG _*miurijǭ_ +
-ant
-
-flauh::
-noun, pl. *flæuhn* +
-PG _*flauhaz_
-flea
-
-fleug::
-noun, pl. *fleug* +
-PG _*fleugǭ_
-fly
-
-imf::
-PG _*imbijaz_ +
-beeswarm
-
-// kráb maybe due to lengthening by compensation for ô
-// or krább
-// or krabb because the double consonant blocks the compensatory lengthening
-// first loss of ô
-// then bb->b (at the same time b->v)
-kráb::
-noun, pl. *kra̋b* +
-PG _*krabbô_ +
-crab
-
-kræft::
-noun, pl. *kræftrn* +
-PG _*krabitaz_ +
-crayfish
-
-skrimpl::
-noun, pl. *skrimplrn* +
-PG _*skrimpaz_ (shrivelled) +
-shrimp
-
-## Plants
-
-baum::
-noun, pl. *bæumn* +
-PG _*baumaz_ +
-tree
-
-blóm::
-noun, pl. *blőm* +
-PG _*blōmô_
-flower
-
-// maybe buhs by u-umlaut
-bohs::
-noun, pl. *böhs* +
-PG _*buhsuz_ +
-boxwood
-
-farn::
-noun, pl. *færnn* +
-PG _*farnaz_ +
-fern
-
-hæw::
-noun, pl. *hæwrn* +
-PG _*hawją_ +
-
-hyls::
-noun, pl. *hylzrn*
-PG _*hulisaz_
-holly
-
-hwan
-noun, pl. *hwænn*
-PG _*hwannō_
-angelica
-
-korn
-noun, pl. *körnn*
-PG _*kurną*
-
-### Fruit
-
-ofæt::
-noun +
-PG _*ubatją_ +
-fruit
-
-bær::
-noun, pl. *bærs* +
-PWG _*bari_, PG _*bazją_ +
-berry
-
-apl::
-noun, pl. *æpln* +
-PG _*aplaz_ +
-apple
-
-plúm::
-noun, pl. plűmn::
-PWG _*plūmā_ +
-plum
-
-bremlbær::
-noun, pl. bremlbærrn+
-PG _*brēm-_ + _*bazją_ +
-raspberry, blackberry, any similar _Rubus_ fruit
-
-blackberry
-
-
-raspberry
-
-kránbær::
-krán (crane) + bær
-cowberry, lingonberry +
-
-erþbær::
-noun
-erþ + bær +
-strawberry
+- word: ald
+  part: adjective
+  meaning: old
+
+- word: jung
+  part: adjective
+  meaning: young
+
+- word: farw
+  part: noun
+  meaning: colour
+
+- word: gelw
+  part: adjective
+  meaning: yellow
+
+- word: bláw
+  part: adjective
+  meaning: blue
+
+- word: swart
+  part: adjective
+  meaning: black
+
+- word: hweit
+  part: adjective
+  meaning: white
+
+- word: raud
+  part: adjective
+  meaning: red
+
+- word: grűn
+  part: adjective
+  meaning: green
+
+- word: brún
+  part: adjective
+  meaning: brown
+
+- word: gráw
+  part: adjective
+  meaning: grey
+
+- word: barisk
+  part: adjective
+  meaning: purple
+
+- word: gelwraud
+  part: adjective
+  meaning: orange
+
+- word: midj
+  part: noun
+  meaning: middle, center
+
+- word: midil
+  part: noun
+  meaning: middle
+
+# Nature
+
+- word: erþ
+  part: noun
+  meaning: earth
+
+- word: himil
+  part: noun
+  meaning: sky
+
+- word: wald
+  meaning: forest
+
+- word: aik
+  meaning: oak
+
+- word: feuhtj
+  meaning: spruce
+
+- word: bók (2)
+  meaning: beech
+
+- word: bronn
+  meaning: fountain, well, wellspring
+
+- word: flód
+  meanign: flood, river (poetic), high tide
+
+- word: flaum
+  meaning: flood
+
+- word: äb
+  meaning: low tide
+
+- word: holt
+  meaning: wood, forest (poetic)
+
+# Time
+
+- word: dag
+  part: noun
+  meaning: day
+
+- word: dagis
+  part: adverb
+  meaning: during the day
+  see: dag
+
+- word: morgun
+  part: noun
+  meaning: morning
+
+- word: morgunis
+  part: noun
+  meaning: in the mornings
+
+- word: midirdag
+  meaning: midday
+
+- word: midirdagis
+  part: adverb
+  meaning: at noon
+
+- word: kwild
+  meaning: evening
+  synonyms: [kwild]
+
+- word: avund
+  meaning: evening
+  synonyms: [kwild]
+
+- word: naht
+  meaning: night
+  see: [nahtis]
+
+- word: midirnaht
+  meaning: midnight
+
+- word: fanmorgun
+  part: noun
+  meaning: tomorrow, in the morning
+
+- word: todag
+  meaning: today
+  see: [dag]
+
+- word: tokwild
+  meaning: this evening
+  see: [kwild]
+
+- word: tonaht
+  meaning: this night
+  see: [naht]
+
+- word: gistirdag
+  meaning: yesterday
+
+- word: gistirkwild
+  meaning: last evening
+
+- word: gistirnaht
+  meaning: last night
+
+# Bodies
+
+- word: bain
+  part: noun
+  meaning: leg
+
+- word: knuk
+  part: noun
+  meaning: bone
+
+- word: hauvd
+  part: noun
+  meaning: head
+
+- word: arm (1)
+  part: noun
+  meaning: arm
+
+- word: leik
+  part: noun
+  meaning: body
+
+- word: aug
+  part: noun
+  meaning: eye
+
+# Animals
+
+- word: deur
+  meaning: animal
+
+- word: fugul
+  meaning: bird
+
+- word: fisk
+  meaning: 
+
+- word: mús
+  part: noun
+  meaning: mouse
+
+- word: hund
+  meaning: dog
+
+- word: feh
+  meaning: cattle
+
+- word: kalv
+  meaning: calf
+
+- word: hwelp
+  meaning: welp, young mammal
+
+- word: elh
+  meaning: elk
+
+- word: hert
+  meaning: deer, stag
+
+- word: raih
+  meanign: deer
+
+- word: stägj
+  meaning: male deer
+
+- word: hind
+  meaning: female deer
+
+- word: wolf
+  meaning: wolf
+
+- word: hund
+  meaning: dog
+
+- word: bikj
+  meaning: female dog
+
+- word: bár (or bér?)
+  meaning: bear
+
+- word: fuhs
+  meaning: fox
+
+- word: kat
+  meaning: cat
+
+- word: lohs
+  meaning: lynx
+
+- word: selh
+  meaning: seal
+
+- word: hárm
+  meaning: weasel, ermine
+
+- word: marþur
+  meaning: marten
+
+- word: otur
+  meaning: otter
+
+- word: wisul
+  meaning: weasel
+
+- word: þahs
+  meaning: badger
+
+- word: igil
+  meaning: hedgehog
+
+- word: hás
+  meaning: hare
+
+- word: áp
+  meaning: ape
+
+- word: aikwerun
+  meaning: squirrel
+
+- word: bevur
+  meaning: beaver
+
+- word: mús
+  meaning: mouse
+
+- word: ehw
+  meaning: horse
+
+- word: marhj
+  meaning: female horse
+
+- word: hros
+  meaning: horse
+
+- word: stód
+  meaning: herd of horses
+
+- word: fól
+  meaning: foal, young horse
+
+- word: óhs
+  meaning: ox, castrated bull
+
+- word: kuw
+  meaning: cow
+
+- word: búl
+  meaning: bull
+
+- word: steur
+  meaning: bull
+
+- word: hafur
+  meaning: male goat
+
+- word: gait
+  meaning: goat
+
+- word: bukk
+  meaning: buck, male of a mammal
+
+- word: lamb
+  meaning: lamb
+
+- word: ramm
+  meaning: ram, male sheep
+
+- word: skáp
+  meaning: sheep
+
+- word: farh
+  meaning: piglet, young pig
+
+- word: suw
+  meaning: sow, female pig
+
+- word: swein
+  meaning: swine, pig
+
+- word: hän
+  meanign: female chicken
+
+- word: han
+  meaning: hen, rooster, guineafowl
+
+- word: kokk
+  meaning: chicken
+
+- word: keukin
+  meaning: chicken
+
+- word: feþur
+  meaning: feather
+
+- word: dúv
+  meaning: dove
+
+- word: gauk
+  meaning: cuckoo
+
+- word: krán
+  meaning: crane
+
+- word: páw
+  meaning: peafowl
+
+- word: stork
+  meaning: stork
+
+- word: swan
+  meaning: swan
+
+- word: gans
+  meaning: goose
+
+- word: hraig
+  meaning: heron
+
+- word: amsul
+  meaning: blackbird
+
+- word: laiwarik
+  meaning: lark
+
+- word: swalw
+  meaning: swallow
+
+- word: þrast
+  meaning: thrush (bird)
+
+# Conjunctions, prepositions
+
+- word: and
+  part: conjunction
+  meaning: and
+
+- word: of
+  part: conjunction
+  meaning: or
+
+- word: hvis
+  part: conjunction
+  meaning: if
+
+- word: hweil at
+  part: conjunction
+  meaning: while
+  see: [hweil]
+
+- word: üm at
+  part: conjunction
+  meaning: because
+  see: [üm]
+
+
