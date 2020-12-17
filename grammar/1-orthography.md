@@ -20,7 +20,7 @@ Vowels
 | EI        | ei        | /iː/ |
 | EU        | eu        | /yː/ |
 | AI        | ai        | /ɛː/ |
-| AU        | au        | /ɔɑ/ |
+| AU        | au        | /oː/ |
 | ÄI        | äi        | /ai/ |
 | ÄU        | äu        | /au/ |
 
@@ -61,7 +61,7 @@ Notes:
 - /v/ medially between sonorants,
 - /f/ medially otherwise and finally;
 
-E.g. ⟨bair⟩ /bɛːr/ "bear", ⟨halb⟩ /half/ "half".
+E.g. ⟨bér⟩ /bɛːr/ "bear", ⟨halb⟩ /half/ "half".
 
 ⟨g⟩ can be realised as /g/ everywhere, but is recommended as:
 

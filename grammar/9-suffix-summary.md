@@ -1,9 +1,6 @@
-This list is a summary of affixes, such that often the grammatical function of a
-word is always known given its shape, with few but well-known exceptions.
-Unsuffixed words are usually nouns and adjectives in the nominative singular, or
-certain forms of verbs.
+The grammatical class of words with bound suffixes can usually be guessed by the vowel in (bound) suffix:
 
-- **a, ai, at, am, an, as, ar:** nouns and adjectives
-- **(i)én, (i)u, (i/e)s, (i/e)t, (i)em, (i)ej, (i)en**: verbs
-- **ir, ist**: comparatives and superlatives
-- **s**: adverbs from nouns
+- **a** is the usual vowel for adjectives (agreement), nouns, determiners,
+- **e** is the usual vowel for verbs,
+- **i** is the usual vowel for adjectives and adverbs (comparative and superlative degrees, and adverbialisation),
+- **o** and **u** may appear within roots of nouns and adjectives due to euphony or fusion of very old PGe affixes.
