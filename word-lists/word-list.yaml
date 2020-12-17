@@ -1,4 +1,4 @@
-words:
+entries:
 
 - word: gód
   part: adjective
@@ -114,7 +114,7 @@ words:
   part: adjective
   meaning: red
 
-- word: grűn
+- word: grőn
   part: adjective
   meaning: green
 
@@ -188,7 +188,7 @@ words:
 - word: dagis
   part: adverb
   meaning: during the day
-  see: dag
+  see: [dag]
 
 - word: morgun
   part: noun
