@@ -1,625 +1,639 @@
 entries:
-
+  - word: aik
+    meaning: oak
+    categories:
+      - Nature
+  - word: aikwerun
+    meaning: squirrel
+    categories:
+      - Animals
   - word: ald
     part: adjective
     meaning: old
-    categories: [Descriptions]
-
-  - word: gód
-    part: adjective
-    meaning: good
-    inflections: { comparative: bätir, superlative: bäst }
-    irregular: yes
-    categories: [Descriptions]
-
-  - word: bätir
-    see: [gód]
-    categories: [Descriptions]
-
-  - word: bäst
-    see: [gód]
-    categories: [Descriptions]
-
-  - word: faw
-    part: adjective
-    meaning: few, little
-    categories: [Descriptions]
-
-  - word: fil
-    part: adjective
-    meaning: much
-    categories: [Descriptions]
-
-  - word: graut
-    part: adjective
-    meaning: big
-    categories: [Descriptions]
-
-  - word: klain
-    part: adjective
-    meaning: small
-    categories: [Descriptions]
-
-  - word: lütt
-    part: adjective
-    meaning: small
-    categories: [Descriptions]
-
-  - word: mair
-    part: adjective
-    meaning: more
-    irregular: yes
-    see: [maist]
-    categories: [Descriptions]
-
-  - word: maist
-    part: adjective
-    meaning: most
-    irregular: yes
-    see: [mair]
-    categories: [Descriptions]
-
-  - word: mikil
-    part: adjective
-    meaning: much, many, big
-    categories: [Descriptions]
-
-  - word: mindir
-    part: adjective
-    meaning: less
-    irregular: yes
-    see: [mindist]
-    categories: [Descriptions]
-
-  - word: mindist
-    part: adjective
-    meaning: least
-    irregular: yes
-    see: [mindir]
-    categories: [Descriptions]
-
-  - word: stór
-    part: adjective
-    meaning: big
-    categories: [Descriptions]
-
-  - word: üvil
-    part: adjective
-    inflection: { comparative: wirsir, superlative: wirist }
-    meaning: bad
-    irregular: yes
-    categories: [Descriptions]
-
-  - word: wirsir
-    part: adjective
-    meaning: worse
-    irregular: yes
-    see: [üvil]
-    categories: [Descriptions]
-
-  - word: wirst
-    part: adjective
-    meaning: worst
-    irregular: yes
-    see: [üvil]
-    categories: [Descriptions]
-
-  - word: jung
-    part: adjective
-    meaning: young
-    categories: [Descriptions]
-
-  - word: farw
-    part: noun
-    meaning: colour
-    categories: [Descriptions]
-
-  - word: gelw
-    part: adjective
-    meaning: yellow
-    categories: [Descriptions]
-
-  - word: bláw
-    part: adjective
-    meaning: blue
-    categories: [Descriptions]
-
-  - word: swart
-    part: adjective
-    meaning: black
-    categories: [Descriptions]
-
-  - word: hweit
-    part: adjective
-    meaning: white
-    categories: [Descriptions]
-
-  - word: raud
-    part: adjective
-    meaning: red
-    categories: [Descriptions]
-
-  - word: grőn
-    part: adjective
-    meaning: green
-    categories: [Descriptions]
-
-  - word: brún
-    part: adjective
-    meaning: brown
-    categories: [Descriptions]
-
-  - word: gráw
-    part: adjective
-    meaning: grey
-    categories: [Descriptions]
-
-  - word: barisk
-    part: adjective
-    meaning: purple
-    categories: [Descriptions]
-
-  - word: gelwraud
-    part: adjective
-    meaning: orange
-    categories: [Descriptions]
-
-  - word: midj
-    part: noun
-    meaning: middle, center
-    categories: [Descriptions]
-
-  - word: midil
-    part: noun
-    meaning: middle
-    categories: [Descriptions]
-
-  - word: erþ
-    part: noun
-    meaning: earth
-    categories: [Nature]
-
-  - word: himil
-    part: noun
-    meaning: sky
-    categories: [Nature]
-
-  - word: wald
-    meaning: forest
-    categories: [Nature]
-
-  - word: aik
-    meaning: oak
-    categories: [Nature]
-
-  - word: feuhtj
-    meaning: spruce
-    categories: [Nature]
-
-  - word: bók (2)
-    meaning: beech
-    categories: [Nature]
-
-  - word: bronn
-    meaning: fountain, well, wellspring
-    categories: [Nature]
-
-  - word: flód
-    meanign: flood, river (poetic), high tide
-    categories: [Nature]
-
-  - word: flaum
-    meaning: flood
-    categories: [Nature]
-
-  - word: äb
-    meaning: low tide
-    categories: [Nature]
-
-  - word: holt
-    meaning: wood, forest (poetic)
-    categories: [Nature]
-
-  # Time
-
-  - word: dag
-    part: noun
-    meaning: day
-    categories: [Time]
-
-  - word: dagis
-    part: adverb
-    meaning: during the day
-    see: [dag]
-    categories: [Time]
-
-  - word: morgun
-    part: noun
-    meaning: morning
-    categories: [Time]
-
-  - word: morgunis
-    part: noun
-    meaning: in the mornings
-    categories: [Time]
-
-  - word: midirdag
-    meaning: midday
-    categories: [Time]
-
-  - word: midirdagis
-    part: adverb
-    meaning: at noon
-    categories: [Time]
-
-  - word: kwild
-    meaning: evening
-    synonyms: [kwild]
-    categories: [Time]
-
-  - word: avund
-    meaning: evening
-    synonyms: [kwild]
-    categories: [Time]
-
-  - word: naht
-    meaning: night
-    see: [nahtis]
-    categories: [Time]
-
-  - word: midirnaht
-    meaning: midnight
-    categories: [Time]
-
-  - word: fanmorgun
-    part: noun
-    meaning: tomorrow, in the morning
-    categories: [Time]
-
-  - word: todag
-    meaning: today
-    see: [dag]
-    categories: [Time]
-
-  - word: tokwild
-    meaning: this evening
-    see: [kwild]
-    categories: [Time]
-
-  - word: tonaht
-    meaning: this night
-    see: [naht]
-    categories: [Time]
-
-  - word: gistirdag
-    meaning: yesterday
-    categories: [Time]
-
-  - word: gistirkwild
-    meaning: last evening
-    categories: [Time]
-
-  - word: gistirnaht
-    meaning: last night
-    categories: [Time]
-
-  - word: bain
-    part: noun
-    meaning: leg
-    categories: [Body]
-
-  - word: knuk
-    part: noun
-    meaning: bone
-    categories: [Time]
-
-  - word: hauvd
-    part: noun
-    meaning: head
-    categories: [Time]
-
-  - word: arm (1)
-    part: noun
-    meaning: arm
-    categories: [Time]
-
-  - word: leik
-    part: noun
-    meaning: body
-    categories: [Time]
-
-  - word: aug
-    part: noun
-    meaning: eye
-    categories: [Time]
-
-  - word: deur
-    meaning: animal
-    categories: [Animals]
-
-  - word: fugul
-    meaning: bird
-    categories: [Animals]
-
-  - word: fisk
-    meaning: fish
-    categories: [Animals]
-
-  - word: mús
-    part: noun
-    meaning: mouse
-    categories: [Animals]
-
-  - word: hund
-    meaning: dog
-    categories: [Animals]
-
-  - word: feh
-    meaning: cattle
-    categories: [Animals]
-
-  - word: kalv
-    meaning: calf
-    categories: [Animals]
-
-  - word: hwelp
-    meaning: welp, young mammal
-    categories: [Animals]
-
-  - word: elh
-    meaning: elk
-    categories: [Animals]
-
-  - word: hert
-    meaning: deer, stag
-    categories: [Animals]
-
-  - word: raih
-    meanign: deer
-    categories: [Animals]
-
-  - word: stägj
-    meaning: male deer
-    categories: [Animals]
-
-  - word: hind
-    meaning: female deer
-    categories: [Animals]
-
-  - word: wolf
-    meaning: wolf
-    categories: [Animals]
-
-  - word: hund
-    meaning: dog
-    categories: [Animals]
-
-  - word: bikj
-    meaning: female dog
-    categories: [Animals]
-
-  - word: bár (or bér?)
-    meaning: bear
-    categories: [Animals]
-
-  - word: fuhs
-    meaning: fox
-    categories: [Animals]
-
-  - word: kat
-    meaning: cat
-    categories: [Animals]
-
-  - word: lohs
-    meaning: lynx
-    categories: [Animals]
-
-  - word: selh
-    meaning: seal
-    categories: [Animals]
-
-  - word: hárm
-    meaning: weasel, ermine
-    categories: [Animals]
-
-  - word: marþur
-    meaning: marten
-    categories: [Animals]
-
-  - word: otur
-    meaning: otter
-    categories: [Animals]
-
-  - word: wisul
-    meaning: weasel
-    categories: [Animals]
-
-  - word: þahs
-    meaning: badger
-    categories: [Animals]
-
-  - word: igil
-    meaning: hedgehog
-    categories: [Animals]
-
-  - word: hás
-    meaning: hare
-    categories: [Animals]
-
-  - word: áp
-    meaning: ape
-    categories: [Animals]
-
-  - word: aikwerun
-    meaning: squirrel
-    categories: [Animals]
-
-  - word: bevur
-    meaning: beaver
-    categories: [Animals]
-
-  - word: mús
-    meaning: mouse
-    categories: [Animals]
-
-  - word: ehw
-    meaning: horse
-    categories: [Animals]
-
-  - word: marhj
-    meaning: female horse
-    categories: [Animals]
-
-  - word: hros
-    meaning: horse
-    categories: [Animals]
-
-  - word: stód
-    meaning: herd of horses
-    categories: [Animals]
-
-  - word: fól
-    meaning: foal, young horse
-    categories: [Animals]
-
-  - word: óhs
-    meaning: ox, castrated bull
-    categories: [Animals]
-
-  - word: kuw
-    meaning: cow
-    categories: [Animals]
-
-  - word: búl
-    meaning: bull
-    categories: [Animals]
-
-  - word: steur
-    meaning: bull
-    categories: [Animals]
-
-  - word: hafur
-    meaning: male goat
-    categories: [Animals]
-
-  - word: gait
-    meaning: goat
-    categories: [Animals]
-
-  - word: bukk
-    meaning: buck, male of a mammal
-    categories: [Animals]
-
-  - word: lamb
-    meaning: lamb
-    categories: [Animals]
-
-  - word: ramm
-    meaning: ram, male sheep
-    categories: [Animals]
-
-  - word: skáp
-    meaning: sheep
-    categories: [Animals]
-
-  - word: farh
-    meaning: piglet, young pig
-    categories: [Animals]
-
-  - word: suw
-    meaning: sow, female pig
-    categories: [Animals]
-
-  - word: swein
-    meaning: swine, pig
-    categories: [Animals]
-
-  - word: hän
-    meanign: female chicken
-    categories: [Animals]
-
-  - word: han
-    meaning: hen, rooster, guineafowl
-    categories: [Animals]
-
-  - word: kokk
-    meaning: chicken
-    categories: [Animals]
-
-  - word: keukin
-    meaning: chicken
-    categories: [Animals]
-
-  - word: feþur
-    meaning: feather
-    categories: [Animals]
-
-  - word: dúv
-    meaning: dove
-    categories: [Animals]
-
-  - word: gauk
-    meaning: cuckoo
-    categories: [Animals]
-
-  - word: krán
-    meaning: crane
-    categories: [Animals]
-
-  - word: páw
-    meaning: peafowl
-    categories: [Animals]
-
-  - word: stork
-    meaning: stork
-    categories: [Animals]
-
-  - word: swan
-    meaning: swan
-    categories: [Animals]
-
-  - word: gans
-    meaning: goose
-    categories: [Animals]
-
-  - word: hraig
-    meaning: heron
-    categories: [Animals]
-
+    categories:
+      - Descriptions
   - word: amsul
     meaning: blackbird
-    categories: [Animals]
-
-  - word: laiwarik
-    meaning: lark
-    categories: [Animals]
-
-  - word: swalw
-    meaning: swallow
-    categories: [Animals]
-
-  - word: þrast
-    meaning: thrush (bird)
-    categories: [Animals]
-
+    categories:
+      - Animals
   - word: and
     part: conjunction
     meaning: and
-
-  - word: of
-    part: conjunction
-    meaning: or
-
+  - word: arm (1)
+    part: noun
+    meaning: arm
+    categories:
+      - Time
+  - word: aug
+    part: noun
+    meaning: eye
+    categories:
+      - Time
+  - word: avund
+    meaning: evening
+    synonyms:
+      - kwild
+    categories:
+      - Time
+  - word: bain
+    part: noun
+    meaning: leg
+    categories:
+      - Body
+  - word: barisk
+    part: adjective
+    meaning: purple
+    categories:
+      - Descriptions
+  - word: bevur
+    meaning: beaver
+    categories:
+      - Animals
+  - word: bikj
+    meaning: female dog
+    categories:
+      - Animals
+  - word: bláw
+    part: adjective
+    meaning: blue
+    categories:
+      - Descriptions
+  - word: bronn
+    meaning: "fountain, well, wellspring"
+    categories:
+      - Nature
+  - word: brún
+    part: adjective
+    meaning: brown
+    categories:
+      - Descriptions
+  - word: bukk
+    meaning: "buck, male of a mammal"
+    categories:
+      - Animals
+  - word: bár (or bér?)
+    meaning: bear
+    categories:
+      - Animals
+  - word: bäst
+    see:
+      - gód
+    categories:
+      - Descriptions
+  - word: bätir
+    see:
+      - gód
+    categories:
+      - Descriptions
+  - word: bók (2)
+    meaning: beech
+    categories:
+      - Nature
+  - word: búl
+    meaning: bull
+    categories:
+      - Animals
+  - word: dag
+    part: noun
+    meaning: day
+    categories:
+      - Time
+  - word: dagis
+    part: adverb
+    meaning: during the day
+    see:
+      - dag
+    categories:
+      - Time
+  - word: deur
+    meaning: animal
+    categories:
+      - Animals
+  - word: dúv
+    meaning: dove
+    categories:
+      - Animals
+  - word: ehw
+    meaning: horse
+    categories:
+      - Animals
+  - word: elh
+    meaning: elk
+    categories:
+      - Animals
+  - word: erþ
+    part: noun
+    meaning: earth
+    categories:
+      - Nature
+  - word: fanmorgun
+    part: noun
+    meaning: "tomorrow, in the morning"
+    categories:
+      - Time
+  - word: farh
+    meaning: "piglet, young pig"
+    categories:
+      - Animals
+  - word: farw
+    part: noun
+    meaning: colour
+    categories:
+      - Descriptions
+  - word: faw
+    part: adjective
+    meaning: "few, little"
+    categories:
+      - Descriptions
+  - word: feh
+    meaning: cattle
+    categories:
+      - Animals
+  - word: feuhtj
+    meaning: spruce
+    categories:
+      - Nature
+  - word: feþur
+    meaning: feather
+    categories:
+      - Animals
+  - word: fil
+    part: adjective
+    meaning: much
+    categories:
+      - Descriptions
+  - word: fisk
+    meaning: fish
+    categories:
+      - Animals
+  - word: flaum
+    meaning: flood
+    categories:
+      - Nature
+  - word: flód
+    meanign: "flood, river (poetic), high tide"
+    categories:
+      - Nature
+  - word: fugul
+    meaning: bird
+    categories:
+      - Animals
+  - word: fuhs
+    meaning: fox
+    categories:
+      - Animals
+  - word: fól
+    meaning: "foal, young horse"
+    categories:
+      - Animals
+  - word: gait
+    meaning: goat
+    categories:
+      - Animals
+  - word: gans
+    meaning: goose
+    categories:
+      - Animals
+  - word: gauk
+    meaning: cuckoo
+    categories:
+      - Animals
+  - word: gelw
+    part: adjective
+    meaning: yellow
+    categories:
+      - Descriptions
+  - word: gelwraud
+    part: adjective
+    meaning: orange
+    categories:
+      - Descriptions
+  - word: gistirdag
+    meaning: yesterday
+    categories:
+      - Time
+  - word: gistirkwild
+    meaning: last evening
+    categories:
+      - Time
+  - word: gistirnaht
+    meaning: last night
+    categories:
+      - Time
+  - word: graut
+    part: adjective
+    meaning: big
+    categories:
+      - Descriptions
+  - word: gráw
+    part: adjective
+    meaning: grey
+    categories:
+      - Descriptions
+  - word: grőn
+    part: adjective
+    meaning: green
+    categories:
+      - Descriptions
+  - word: gód
+    part: adjective
+    meaning: good
+    inflections:
+      comparative: bätir
+      superlative: bäst
+    irregular: "yes"
+    categories:
+      - Descriptions
+  - word: hafur
+    meaning: male goat
+    categories:
+      - Animals
+  - word: han
+    meaning: "hen, rooster, guineafowl"
+    categories:
+      - Animals
+  - word: hauvd
+    part: noun
+    meaning: head
+    categories:
+      - Time
+  - word: hert
+    meaning: "deer, stag"
+    categories:
+      - Animals
+  - word: himil
+    part: noun
+    meaning: sky
+    categories:
+      - Nature
+  - word: hind
+    meaning: female deer
+    categories:
+      - Animals
+  - word: holt
+    meaning: "wood, forest (poetic)"
+    categories:
+      - Nature
+  - word: hraig
+    meaning: heron
+    categories:
+      - Animals
+  - word: hros
+    meaning: horse
+    categories:
+      - Animals
+  - word: hund
+    meaning: dog
+    categories:
+      - Animals
+  - word: hund
+    meaning: dog
+    categories:
+      - Animals
   - word: hvis
     part: conjunction
     meaning: if
-
   - word: hweil at
     part: conjunction
     meaning: while
-    see: [hweil]
-
+    see:
+      - hweil
+  - word: hweit
+    part: adjective
+    meaning: white
+    categories:
+      - Descriptions
+  - word: hwelp
+    meaning: "welp, young mammal"
+    categories:
+      - Animals
+  - word: hárm
+    meaning: "weasel, ermine"
+    categories:
+      - Animals
+  - word: hás
+    meaning: hare
+    categories:
+      - Animals
+  - word: hän
+    meanign: female chicken
+    categories:
+      - Animals
+  - word: igil
+    meaning: hedgehog
+    categories:
+      - Animals
+  - word: jung
+    part: adjective
+    meaning: young
+    categories:
+      - Descriptions
+  - word: kalv
+    meaning: calf
+    categories:
+      - Animals
+  - word: kat
+    meaning: cat
+    categories:
+      - Animals
+  - word: keukin
+    meaning: chicken
+    categories:
+      - Animals
+  - word: klain
+    part: adjective
+    meaning: small
+    categories:
+      - Descriptions
+  - word: knuk
+    part: noun
+    meaning: bone
+    categories:
+      - Time
+  - word: kokk
+    meaning: chicken
+    categories:
+      - Animals
+  - word: krán
+    meaning: crane
+    categories:
+      - Animals
+  - word: kuw
+    meaning: cow
+    categories:
+      - Animals
+  - word: kwild
+    meaning: evening
+    synonyms:
+      - kwild
+    categories:
+      - Time
+  - word: laiwarik
+    meaning: lark
+    categories:
+      - Animals
+  - word: lamb
+    meaning: lamb
+    categories:
+      - Animals
+  - word: leik
+    part: noun
+    meaning: body
+    categories:
+      - Time
+  - word: lohs
+    meaning: lynx
+    categories:
+      - Animals
+  - word: lütt
+    part: adjective
+    meaning: small
+    categories:
+      - Descriptions
+  - word: mair
+    part: adjective
+    meaning: more
+    irregular: "yes"
+    see:
+      - maist
+    categories:
+      - Descriptions
+  - word: maist
+    part: adjective
+    meaning: most
+    irregular: "yes"
+    see:
+      - mair
+    categories:
+      - Descriptions
+  - word: marhj
+    meaning: female horse
+    categories:
+      - Animals
+  - word: marþur
+    meaning: marten
+    categories:
+      - Animals
+  - word: midil
+    part: noun
+    meaning: middle
+    categories:
+      - Descriptions
+  - word: midirdag
+    meaning: midday
+    categories:
+      - Time
+  - word: midirdagis
+    part: adverb
+    meaning: at noon
+    categories:
+      - Time
+  - word: midirnaht
+    meaning: midnight
+    categories:
+      - Time
+  - word: midj
+    part: noun
+    meaning: "middle, center"
+    categories:
+      - Descriptions
+  - word: mikil
+    part: adjective
+    meaning: "much, many, big"
+    categories:
+      - Descriptions
+  - word: mindir
+    part: adjective
+    meaning: less
+    irregular: "yes"
+    see:
+      - mindist
+    categories:
+      - Descriptions
+  - word: mindist
+    part: adjective
+    meaning: least
+    irregular: "yes"
+    see:
+      - mindir
+    categories:
+      - Descriptions
+  - word: morgun
+    part: noun
+    meaning: morning
+    categories:
+      - Time
+  - word: morgunis
+    part: noun
+    meaning: in the mornings
+    categories:
+      - Time
+  - word: mús
+    part: noun
+    meaning: mouse
+    categories:
+      - Animals
+  - word: mús
+    meaning: mouse
+    categories:
+      - Animals
+  - word: naht
+    meaning: night
+    see:
+      - nahtis
+    categories:
+      - Time
+  - word: of
+    part: conjunction
+    meaning: or
+  - word: otur
+    meaning: otter
+    categories:
+      - Animals
+  - word: páw
+    meaning: peafowl
+    categories:
+      - Animals
+  - word: raih
+    meanign: deer
+    categories:
+      - Animals
+  - word: ramm
+    meaning: "ram, male sheep"
+    categories:
+      - Animals
+  - word: raud
+    part: adjective
+    meaning: red
+    categories:
+      - Descriptions
+  - word: selh
+    meaning: seal
+    categories:
+      - Animals
+  - word: skáp
+    meaning: sheep
+    categories:
+      - Animals
+  - word: steur
+    meaning: bull
+    categories:
+      - Animals
+  - word: stork
+    meaning: stork
+    categories:
+      - Animals
+  - word: stägj
+    meaning: male deer
+    categories:
+      - Animals
+  - word: stód
+    meaning: herd of horses
+    categories:
+      - Animals
+  - word: stór
+    part: adjective
+    meaning: big
+    categories:
+      - Descriptions
+  - word: suw
+    meaning: "sow, female pig"
+    categories:
+      - Animals
+  - word: swalw
+    meaning: swallow
+    categories:
+      - Animals
+  - word: swan
+    meaning: swan
+    categories:
+      - Animals
+  - word: swart
+    part: adjective
+    meaning: black
+    categories:
+      - Descriptions
+  - word: swein
+    meaning: "swine, pig"
+    categories:
+      - Animals
+  - word: todag
+    meaning: today
+    see:
+      - dag
+    categories:
+      - Time
+  - word: tokwild
+    meaning: this evening
+    see:
+      - kwild
+    categories:
+      - Time
+  - word: tonaht
+    meaning: this night
+    see:
+      - naht
+    categories:
+      - Time
+  - word: wald
+    meaning: forest
+    categories:
+      - Nature
+  - word: wirsir
+    part: adjective
+    meaning: worse
+    irregular: "yes"
+    see:
+      - üvil
+    categories:
+      - Descriptions
+  - word: wirst
+    part: adjective
+    meaning: worst
+    irregular: "yes"
+    see:
+      - üvil
+    categories:
+      - Descriptions
+  - word: wisul
+    meaning: weasel
+    categories:
+      - Animals
+  - word: wolf
+    meaning: wolf
+    categories:
+      - Animals
+  - word: áp
+    meaning: ape
+    categories:
+      - Animals
+  - word: äb
+    meaning: low tide
+    categories:
+      - Nature
+  - word: óhs
+    meaning: "ox, castrated bull"
+    categories:
+      - Animals
   - word: üm at
     part: conjunction
     meaning: because
-    see: [üm]
+    see:
+      - üm
+  - word: üvil
+    part: adjective
+    inflection:
+      comparative: wirsir
+      superlative: wirist
+    meaning: bad
+    irregular: "yes"
+    categories:
+      - Descriptions
+  - word: þahs
+    meaning: badger
+    categories:
+      - Animals
+  - word: þrast
+    meaning: thrush (bird)
+    categories:
+      - Animals
