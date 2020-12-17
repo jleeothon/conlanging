@@ -9,10 +9,10 @@
   "scripts": {
     "lint-js": "xo --fix",
     "lint-md": "bin/lint-md.fish",
-    "lint-yaml": "bin/lint-yaml",
-    "sort-word-list": "bin/sort-word-list.fish < word-lists/word-list.yaml",
+    "lint-yaml": "bin/lint-yaml.fish",
+    "sort-word-list": "bin/sort-word-list.fish < data/word-list.yaml",
     "lint": "npm run lint-js && npm run lint-md && npm run lint-yaml && npm run sort-word-list",
-    "render": "bin/render.js < word-lists/word-list.yaml"
+    "render": "bin/render.js < data/word-list.yaml"
   },
   "repository": {
     "type": "git",
