@@ -26,7 +26,7 @@ const templateSource = `# Theudisk
 See:
 
 {{#each see}}
-- {{this}}
+- [{{this}}](#{{this}})
 {{/each}}
 {{/if}}
 
