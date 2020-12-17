@@ -1,0 +1,499 @@
+entries:
+  - word: gód
+    part: adjective
+    meaning: good
+    inflections: { comparative: bätir, superlative: bäst }
+    irregular: yes
+
+  - word: bätir
+    see: [gód]
+
+  - word: bäst
+    see: [gód]
+
+  - word: üvil
+    part: adjective
+    inflection: { comparative: wirsir, superlative: wirist }
+    meaning: bad
+    irregular: yes
+
+  - word: wirsir
+    part: adjective
+    meaning: worse
+    irregular: yes
+    see: [üvil]
+
+  - word: wirst
+    part: adjective
+    meaning: worst
+    irregular: yes
+    see: [üvil]
+
+  - word: mindir
+    part: adjective
+    meaning: less
+    irregular: yes
+    see: [mindist]
+
+  - word: mindist
+    part: adjective
+    meaning: least
+    irregular: yes
+    see: [mindir]
+
+  - word: mair
+    part: adjective
+    meaning: more
+    irregular: yes
+    see: [maist]
+
+  - word: maist
+    part: adjective
+    meaning: most
+    irregular: yes
+    see: [mair]
+
+  - word: mikil
+    part: adjective
+    meaning: much, many, big
+
+  - word: faw
+    part: adjective
+    meaning: few, little
+
+  - word: fil
+    part: adjective
+    meaning: much
+
+  - word: lütt
+    part: adjective
+    meaning: small
+
+  - word: klain
+    part: adjective
+    meaning: small
+
+  - word: graut
+    part: adjective
+    meaning: big
+
+  - word: stór
+    part: adjective
+    meaning: big
+
+  - word: ald
+    part: adjective
+    meaning: old
+
+  - word: jung
+    part: adjective
+    meaning: young
+
+  - word: farw
+    part: noun
+    meaning: colour
+
+  - word: gelw
+    part: adjective
+    meaning: yellow
+
+  - word: bláw
+    part: adjective
+    meaning: blue
+
+  - word: swart
+    part: adjective
+    meaning: black
+
+  - word: hweit
+    part: adjective
+    meaning: white
+
+  - word: raud
+    part: adjective
+    meaning: red
+
+  - word: grőn
+    part: adjective
+    meaning: green
+
+  - word: brún
+    part: adjective
+    meaning: brown
+
+  - word: gráw
+    part: adjective
+    meaning: grey
+
+  - word: barisk
+    part: adjective
+    meaning: purple
+
+  - word: gelwraud
+    part: adjective
+    meaning: orange
+
+  - word: midj
+    part: noun
+    meaning: middle, center
+
+  - word: midil
+    part: noun
+    meaning: middle
+
+  # Nature
+
+  - word: erþ
+    part: noun
+    meaning: earth
+
+  - word: himil
+    part: noun
+    meaning: sky
+
+  - word: wald
+    meaning: forest
+
+  - word: aik
+    meaning: oak
+
+  - word: feuhtj
+    meaning: spruce
+
+  - word: bók (2)
+    meaning: beech
+
+  - word: bronn
+    meaning: fountain, well, wellspring
+
+  - word: flód
+    meanign: flood, river (poetic), high tide
+
+  - word: flaum
+    meaning: flood
+
+  - word: äb
+    meaning: low tide
+
+  - word: holt
+    meaning: wood, forest (poetic)
+
+  # Time
+
+  - word: dag
+    part: noun
+    meaning: day
+
+  - word: dagis
+    part: adverb
+    meaning: during the day
+    see: [dag]
+
+  - word: morgun
+    part: noun
+    meaning: morning
+
+  - word: morgunis
+    part: noun
+    meaning: in the mornings
+
+  - word: midirdag
+    meaning: midday
+
+  - word: midirdagis
+    part: adverb
+    meaning: at noon
+
+  - word: kwild
+    meaning: evening
+    synonyms: [kwild]
+
+  - word: avund
+    meaning: evening
+    synonyms: [kwild]
+
+  - word: naht
+    meaning: night
+    see: [nahtis]
+
+  - word: midirnaht
+    meaning: midnight
+
+  - word: fanmorgun
+    part: noun
+    meaning: tomorrow, in the morning
+
+  - word: todag
+    meaning: today
+    see: [dag]
+
+  - word: tokwild
+    meaning: this evening
+    see: [kwild]
+
+  - word: tonaht
+    meaning: this night
+    see: [naht]
+
+  - word: gistirdag
+    meaning: yesterday
+
+  - word: gistirkwild
+    meaning: last evening
+
+  - word: gistirnaht
+    meaning: last night
+
+  # Bodies
+
+  - word: bain
+    part: noun
+    meaning: leg
+
+  - word: knuk
+    part: noun
+    meaning: bone
+
+  - word: hauvd
+    part: noun
+    meaning: head
+
+  - word: arm (1)
+    part: noun
+    meaning: arm
+
+  - word: leik
+    part: noun
+    meaning: body
+
+  - word: aug
+    part: noun
+    meaning: eye
+
+  # Animals
+
+  - word: deur
+    meaning: animal
+
+  - word: fugul
+    meaning: bird
+
+  - word: fisk
+    meaning:
+
+  - word: mús
+    part: noun
+    meaning: mouse
+
+  - word: hund
+    meaning: dog
+
+  - word: feh
+    meaning: cattle
+
+  - word: kalv
+    meaning: calf
+
+  - word: hwelp
+    meaning: welp, young mammal
+
+  - word: elh
+    meaning: elk
+
+  - word: hert
+    meaning: deer, stag
+
+  - word: raih
+    meanign: deer
+
+  - word: stägj
+    meaning: male deer
+
+  - word: hind
+    meaning: female deer
+
+  - word: wolf
+    meaning: wolf
+
+  - word: hund
+    meaning: dog
+
+  - word: bikj
+    meaning: female dog
+
+  - word: bár (or bér?)
+    meaning: bear
+
+  - word: fuhs
+    meaning: fox
+
+  - word: kat
+    meaning: cat
+
+  - word: lohs
+    meaning: lynx
+
+  - word: selh
+    meaning: seal
+
+  - word: hárm
+    meaning: weasel, ermine
+
+  - word: marþur
+    meaning: marten
+
+  - word: otur
+    meaning: otter
+
+  - word: wisul
+    meaning: weasel
+
+  - word: þahs
+    meaning: badger
+
+  - word: igil
+    meaning: hedgehog
+
+  - word: hás
+    meaning: hare
+
+  - word: áp
+    meaning: ape
+
+  - word: aikwerun
+    meaning: squirrel
+
+  - word: bevur
+    meaning: beaver
+
+  - word: mús
+    meaning: mouse
+
+  - word: ehw
+    meaning: horse
+
+  - word: marhj
+    meaning: female horse
+
+  - word: hros
+    meaning: horse
+
+  - word: stód
+    meaning: herd of horses
+
+  - word: fól
+    meaning: foal, young horse
+
+  - word: óhs
+    meaning: ox, castrated bull
+
+  - word: kuw
+    meaning: cow
+
+  - word: búl
+    meaning: bull
+
+  - word: steur
+    meaning: bull
+
+  - word: hafur
+    meaning: male goat
+
+  - word: gait
+    meaning: goat
+
+  - word: bukk
+    meaning: buck, male of a mammal
+
+  - word: lamb
+    meaning: lamb
+
+  - word: ramm
+    meaning: ram, male sheep
+
+  - word: skáp
+    meaning: sheep
+
+  - word: farh
+    meaning: piglet, young pig
+
+  - word: suw
+    meaning: sow, female pig
+
+  - word: swein
+    meaning: swine, pig
+
+  - word: hän
+    meanign: female chicken
+
+  - word: han
+    meaning: hen, rooster, guineafowl
+
+  - word: kokk
+    meaning: chicken
+
+  - word: keukin
+    meaning: chicken
+
+  - word: feþur
+    meaning: feather
+
+  - word: dúv
+    meaning: dove
+
+  - word: gauk
+    meaning: cuckoo
+
+  - word: krán
+    meaning: crane
+
+  - word: páw
+    meaning: peafowl
+
+  - word: stork
+    meaning: stork
+
+  - word: swan
+    meaning: swan
+
+  - word: gans
+    meaning: goose
+
+  - word: hraig
+    meaning: heron
+
+  - word: amsul
+    meaning: blackbird
+
+  - word: laiwarik
+    meaning: lark
+
+  - word: swalw
+    meaning: swallow
+
+  - word: þrast
+    meaning: thrush (bird)
+
+  # Conjunctions, prepositions
+
+  - word: and
+    part: conjunction
+    meaning: and
+
+  - word: of
+    part: conjunction
+    meaning: or
+
+  - word: hvis
+    part: conjunction
+    meaning: if
+
+  - word: hweil at
+    part: conjunction
+    meaning: while
+    see: [hweil]
+
+  - word: üm at
+    part: conjunction
+    meaning: because
+    see: [üm]
