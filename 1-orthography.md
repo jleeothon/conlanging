@@ -1,5 +1,7 @@
 ## Orthography and phonology
 
+Vowels
+
 | Uppercase | Lowercase | IPA                               |
 | --------- | --------- | --------------------------------- |
 | I         | i         | /i/                               |
@@ -18,9 +20,14 @@
 | EI        | ei        | /iː/                              |
 | EU        | eu        | /yː/                              |
 | AI        | ai        | /ɛː/                              |
-| AU        | au        | /ɔː/                              |
-| ÄI        | äi        | /ɛi̯/                              |
-| ÄU        | äu        | /ɛu̯/                              |
+| AU        | au        | /ɔɑ/                              |
+| ÄI        | äi        | /ai/                              |
+| ÄU        | äu        | /œy/                              |
+
+Consonants
+
+| Uppercase | Lowercase | IPA                               |
+| --------- | --------- | --------------------------------- |
 | B         | b         | /b/, see notes                    |
 | P         | p         | /p/                               |
 | D         | d         | /d/                               |
@@ -36,8 +43,8 @@
 | M         | m         | /m/                               |
 | N         | n         | /n/                               |
 | NG        | ng        | /ŋ/                               |
-| J         | j         | /j/                               |
-| W         | w         | /w/                               |
+| J         | j         | /j/, /d, t/ at word end, after consonants                               |
+| W         | w         | /w/, /b, p/ at word end, after consonants                               |
 | HJ        | hj        | /hʲ/                              |
 | SJ        | sj        | /ɕ/                               |
 | SK        | sk        | /sk/ ~ /sx/ ~ /ʃ/                 |
@@ -77,3 +84,10 @@ pronounced as /i/ and /u/.
 
 The combination ⟨ij⟩ may be found in verb paradigms, for consistency, and is
 pronounced the same as ⟨ei⟩, thus /iː/.
+
+/j/ and /w/ are realised respectively as /d/ or /b/ at the word end after a consonant and may be assimilated to /t/ and /p/ after a voiceless consonant. Thus: 
+
+- ⟨farw⟩ "colour" is realised /farb/, but
+- ⟨farwan⟩ "colours" is realised /farwan/;
+- ⟨stagj⟩ "stag" is realised /stagd/, but
+- ⟨satgjan⟩ "stags" is realised /stagjan/.
