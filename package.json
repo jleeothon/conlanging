@@ -1,0 +1,34 @@
+{
+  "name": "theudisk",
+  "version": "0.1.0",
+  "description": "Yet another West Germanic conlang",
+  "main": "index.js",
+  "bin": {
+    "theudisk": "render.js"
+  },
+  "scripts": {
+    "lint-js": "xo --fix",
+    "lint-md": "bin/lint-md.fish",
+    "lint-yaml": "bin/lint-yaml",
+    "sort-word-list": "bin/sort-word-list.fish < word-lists/word-list.yaml",
+    "lint": "npm run lint-js && npm run lint-md && npm run lint-yaml && npm run sort-word-list",
+    "render": "bin/render.js < word-lists/word-list.yaml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleeothon/conlang1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleeothon/conlang1/issues"
+  },
+  "homepage": "https://github.com/jleeothon/conlang1#readme",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "js-yaml": "^3.14.1",
+    "string-natural-compare": "^3.0.1",
+    "xo": "^0.36.1"
+  },
+  "devDependencies": {}
+}
