@@ -1,1 +1,0 @@
-sort-word-list.fish
