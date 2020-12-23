@@ -1,5 +1,11 @@
 # Irregular verbs
 
+To add:
+
+- buwun / buwdun (to live)
+- brukun / bruhtun (to use)
+- bringun / brahtun (to bring)
+
 To be:
 
 |            | Present | Preterite |
@@ -30,14 +36,14 @@ To stand:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Indicative | stán    | studen    |
-| Participle | stanend | studad    |
-| 1st. sg.   | stáu    | stud      |
-| 2nd. sg.   | stás    | studs     |
-| 3rd. sg.   | stát    | stud      |
-| 1st. pl.   | stám    | studem    |
-| 2nd. pl.   | stárt   | studert   |
-| 3rd. pl.   | stán    | studen    |
+| Indicative | stán    | stóden    |
+| Participle | stanend | stódad    |
+| 1st. sg.   | stáu    | stód      |
+| 2nd. sg.   | stás    | stóds     |
+| 3rd. sg.   | stát    | stód      |
+| 1st. pl.   | stám    | stódem    |
+| 2nd. pl.   | stárt   | stódert   |
+| 3rd. pl.   | stán    | stóden    |
 
 To do:
 
