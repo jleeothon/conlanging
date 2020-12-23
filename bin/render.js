@@ -54,7 +54,7 @@ function run() {
 	const categorySet = new Set();
 	allEntries.forEach(({categories}) => categories && categories.forEach(c => categorySet.add(c)));
 	const categories = [...categorySet].map(c => {
-		return {name: c, fileName: `${c}.md`, link: `/word-list/${c}`};
+		return {name: c, fileName: `${c}.md`, link: `${c}.md`};
 	});
 
 	categories.forEach(({name, fileName}) => {
@@ -67,7 +67,7 @@ function run() {
 	// Parts
 	const partNames = ['noun', 'adjective', 'conjunction', 'preposition', 'adverb'];
 	const parts = partNames.map(p => {
-		return {name: p, fileName: `${p}.md`, link: `/word-list/${p}`, part: p};
+		return {name: p, fileName: `${p}.md`, link: `${p}.md`, part: p};
 	});
 	parts.forEach(({name, fileName, part}) => {
 		const entries = allEntries.filter(({part: p}) => p === part);

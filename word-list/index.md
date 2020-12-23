@@ -4,17 +4,17 @@
 
 By part of speech:
 
-- [noun](/word-list/noun)
-- [adjective](/word-list/adjective)
-- [conjunction](/word-list/conjunction)
-- [preposition](/word-list/preposition)
-- [adverb](/word-list/adverb)
+- [noun](noun.md)
+- [adjective](adjective.md)
+- [conjunction](conjunction.md)
+- [preposition](preposition.md)
+- [adverb](adverb.md)
 
 By category:
 
-- [Nature](/word-list/Nature)
-- [Animals](/word-list/Animals)
-- [Descriptions](/word-list/Descriptions)
-- [Time](/word-list/Time)
-- [Body](/word-list/Body)
-- [Language](/word-list/Language)
+- [Nature](Nature.md)
+- [Animals](Animals.md)
+- [Descriptions](Descriptions.md)
+- [Time](Time.md)
+- [Body](Body.md)
+- [Language](Language.md)
