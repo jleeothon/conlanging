@@ -24,7 +24,7 @@ See: {{#each see}}{{#unless @first}}, {{/unless}}[{{this}}](#{{this}}){{/each}}
 
 const readmeTemplate = `## Conlang1
 
-[All entries](/word-list)
+[All entries](all.md)
 
 By part of speech:
 

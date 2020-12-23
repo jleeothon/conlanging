@@ -1,6 +1,6 @@
 ## Conlang1
 
-[All entries](/word-list)
+[All entries](all.md)
 
 By part of speech:
 
