@@ -2,26 +2,19 @@
 
 [All entries](/word-list)
 
-By part of speech
+By part of speech:
 
-- [noun](/noun)
+- [noun](/word-list/noun)
+- [adjective](/word-list/adjective)
+- [conjunction](/word-list/conjunction)
+- [preposition](/word-list/preposition)
+- [adverb](/word-list/adverb)
 
-- [adjective](/adjective)
+By category:
 
-- [conjunction](/conjunction)
-
-- [preposition](/preposition)
-
-- [adverb](/adverb)
-
-- [Nature](/Nature)
-
-- [Animals](/Animals)
-
-- [Descriptions](/Descriptions)
-
-- [Time](/Time)
-
-- [Body](/Body)
-
-- [Language](/Language)
+- [Nature](/word-list/Nature)
+- [Animals](/word-list/Animals)
+- [Descriptions](/word-list/Descriptions)
+- [Time](/word-list/Time)
+- [Body](/word-list/Body)
+- [Language](/word-list/Language)
