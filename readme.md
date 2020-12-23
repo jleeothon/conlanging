@@ -14,3 +14,5 @@ Design guidelines:
 - no Nasal-Spirant Law and no Second Consonant Shift,
 - North Germanic loans integrated when they help find symmetry,
 - pro-drop althought 1:1 perfect correspondences of ending and person-number.
+
+(Word lists)[/word-lists/index.md]
