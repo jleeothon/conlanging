@@ -89,21 +89,21 @@ Preterite-present (may have -t- affix instead of -d-):
 Strong verbs follow an ablaut pattern. There are several ablaut patterns:
 
 | Class | Present infinitive | Past infinitive | Past participle |
-|-| ------------------ | --------------- | --------------- |
-|1| ei                 | ai              | i               |
-|2| eu                 | au              | u               |
-|34e| e                  | a               | o               |
-|34i| i                  | a               | u               |
-|5e| e                  | a               | e               |
-|5i| i                  | a               | i               |
-|6e| a                  | u               | a               |
-|6a| e                  | u               | a               |
-|7a| ai                 | ei              | ai              |
-|7b| au                 | eu              | au              |
-|7c| a                  | e               | a               |
-|7d| a                  | i               | a               |
-|7e| á                  | é               | á               |
-|7f| ó                  | é               | ó               |
+| ----- | ------------------ | --------------- | --------------- |
+| 1     | ei                 | ai              | i               |
+| 2     | eu                 | au              | u               |
+| 34e   | e                  | a               | o               |
+| 34i   | i                  | a               | u               |
+| 5e    | e                  | a               | e               |
+| 5i    | i                  | a               | i               |
+| 6e    | a                  | u               | a               |
+| 6a    | e                  | u               | a               |
+| 7a    | ai                 | ei              | ai              |
+| 7b    | au                 | eu              | au              |
+| 7c    | a                  | e               | a               |
+| 7d    | a                  | i               | a               |
+| 7e    | á                  | é               | á               |
+| 7f    | ó                  | é               | ó               |
 
 Here are some examples; each verb is provided in present and past infinitive,
 and past participle:
@@ -115,7 +115,7 @@ and past participle:
 - _geban-gaban-gebun_ (to give),
 - _sitan-satan-situn_ (to sit),
 - _faran-furan-farun_ (to travel),
-- _swaran-swuran-swaran (to swear),
+- \_swaran-swuran-swaran (to swear),
 - _haitan-heitan-haitun_ (to be named),
 - _hlaupan-hleupan-hlaupun_ (to walk),
 - _fallan-fellan-fallun_ (to fall),
