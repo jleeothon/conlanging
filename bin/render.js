@@ -24,7 +24,7 @@ See: {{#each see}}{{#unless @first}}, {{/unless}}[{{this}}](#{{this}}){{/each}}
 
 const readmeTemplate = `## Conlang1
 
-- All entries
+- [All entries](/word-list)
 {{#each categories}}
 - [{{this.name}}]({{this.link}})
 {{/each}}
@@ -33,7 +33,7 @@ const readmeTemplate = `## Conlang1
 const renderWordList = handlebars.compile(wordListTemplate);
 const renderReadme = handlebars.compile(readmeTemplate);
 
-const outDir = './pages';
+const outDir = './docs';
 
 function writeFile(fileName, content) {
 	writeFileSync(path.join(outDir, fileName), content);
