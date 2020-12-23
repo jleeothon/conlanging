@@ -2,186 +2,218 @@
 
 ### apul
 
-(noun)
+(noun) 
 
 apple
 
+
 ### arhw
 
-(noun)
+(noun) 
 
 arrow
 
+
 ### arm (1)
 
-(noun)
+(noun) 
 
 arm
 
+
 ### aug
 
-(noun)
+(noun) 
 
 eye
 
+
 ### bain
 
-(noun)
+(noun) 
 
 leg
 
+
 ### bij
 
-(noun)
+(noun) 
 
 bee
 
+
 ### blóm
 
-(noun)
+(noun) 
 
 flower
 
+
 ### breust
 
-(noun)
+(noun) 
 
 breast, chest
 
+
 ### bär
 
-(noun)
+(noun) 
 
 berry
 
+
 ### dag
 
-(noun)
+(noun) 
 
 day
 
+
 ### damp
 
-(noun)
+(noun) 
 
 vapour
 
+
 ### dauþ
 
-(noun)
+(noun) 
 
 death
 
+
 ### erþ
 
-(noun)
+(noun) 
 
 earth
 
+
 ### fanmorgun
 
-(noun)
+(noun) 
 
 tomorrow, in the morning
 
+
 ### farw
 
-(noun)
+(noun) 
 
 colour
 
+
 ### hand
 
-(noun)
+(noun) 
 
 hand
 
+
 ### hauvd
 
-(noun)
+(noun) 
 
 head
 
+
 ### himil
 
-(noun)
+(noun) 
 
 sky
 
+
 ### huning
 
-(noun)
+(noun) 
 
 honey
 
+
 ### knuk
 
-(noun)
+(noun) 
 
 bone
 
+
 ### leik
 
-(noun)
+(noun) 
 
 body
 
+
 ### mapul
 
-(noun)
+(noun) 
 
 maple
 
+
 ### midil
 
-(noun)
+(noun) 
 
 middle
 
+
 ### midirdag
 
-(noun)
+(noun) 
 
 midday
 
+
 ### midirnaht
 
-(noun)
+(noun) 
 
 midnight
 
+
 ### midj
 
-(noun)
+(noun) 
 
 middle, center
 
+
 ### morgun
 
-(noun)
+(noun) 
 
 morning
 
+
 ### morgunis
 
-(noun)
+(noun) 
 
 in the mornings
 
+
 ### mús
 
-(noun)
+(noun) 
 
 mouse
 
+
 ### spit
 
-(noun)
+(noun) 
 
 tip (e.g of an arrow)
 
+
 ### wahs
 
-(noun)
+(noun) 
 
 wax
+
+

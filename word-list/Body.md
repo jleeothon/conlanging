@@ -2,18 +2,22 @@
 
 ### bain
 
-(noun)
+(noun) 
 
 leg
 
+
 ### breust
 
-(noun)
+(noun) 
 
 breast, chest
 
+
 ### hand
 
-(noun)
+(noun) 
 
 hand
+
+

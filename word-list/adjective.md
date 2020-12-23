@@ -1,118 +1,141 @@
-## Descriptions
+## adjective
 
 ### ald
 
-(adjective)
+(adjective) 
 
 old
 
+
+### allain (2)
+
+(adjective) 
+
+alone
+
+
 ### barisk
 
-(adjective)
+(adjective) 
 
 purple
 
+
 ### bláw
 
-(adjective)
+(adjective) 
 
 blue
 
+
 ### brún
 
-(adjective)
+(adjective) 
 
 brown
 
-### bäst
 
-See: [gód](#gód)
+### draug
 
-### bätir
+(adjective) 
 
-See: [gód](#gód)
+dry
 
-### farw
 
-(noun)
+### dwás
 
-colour
+(adjective) 
+
+stupid, foolish
+
 
 ### faw
 
-(adjective)
+(adjective) 
 
 few, little
 
+
 ### fil
 
-(adjective)
+(adjective) 
 
 much
 
+
 ### gelw
 
-(adjective)
+(adjective) 
 
 yellow
 
+
 ### gelwraud
 
-(adjective)
+(adjective) 
 
 orange
 
+
 ### graut
 
-(adjective)
+(adjective) 
 
 big
 
+
 ### gráw
 
-(adjective)
+(adjective) 
 
 grey
 
+
 ### grőn
 
-(adjective)
+(adjective) 
 
 green
 
+
 ### gód
 
-(adjective) _comparative:_ **bätir**, _superlative:_ **bäst**
+(adjective)  _comparative:_ **bätir**,  _superlative:_ **bäst**
 
 good
 
+
 ### hweit
 
-(adjective)
+(adjective) 
 
 white
 
+
 ### jung
 
-(adjective)
+(adjective) 
 
 young
 
+
 ### klain
 
-(adjective)
+(adjective) 
 
 small
+
 
 ### lütt
 
-(adjective)
+(adjective) 
 
 small
 
+
 ### mair
 
-(adjective)
+(adjective) 
 
 more
 
@@ -120,33 +143,22 @@ See: [maist](#maist)
 
 ### maist
 
-(adjective)
+(adjective) 
 
 most
 
 See: [mair](#mair)
 
-### midil
-
-(noun)
-
-middle
-
-### midj
-
-(noun)
-
-middle, center
-
 ### mikil
 
-(adjective)
+(adjective) 
 
 much, many, big
 
+
 ### mindir
 
-(adjective)
+(adjective) 
 
 less
 
@@ -154,33 +166,43 @@ See: [mindist](#mindist)
 
 ### mindist
 
-(adjective)
+(adjective) 
 
 least
 
 See: [mindir](#mindir)
 
+### nat
+
+(adjective) 
+
+wet, moist
+
+
 ### raud
 
-(adjective)
+(adjective) 
 
 red
 
+
 ### stór
 
-(adjective)
+(adjective) 
 
 big
 
+
 ### swart
 
-(adjective)
+(adjective) 
 
 black
 
+
 ### wirsir
 
-(adjective)
+(adjective) 
 
 worse
 
@@ -188,7 +210,7 @@ See: [üvil](#üvil)
 
 ### wirst
 
-(adjective)
+(adjective) 
 
 worst
 
@@ -196,6 +218,8 @@ See: [üvil](#üvil)
 
 ### üvil
 
-(adjective)
+(adjective) 
 
 bad
+
+

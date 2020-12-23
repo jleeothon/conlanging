@@ -2,64 +2,99 @@
 
 ### aik
 
+ 
+
 oak
+
 
 ### apul
 
-(noun)
+(noun) 
 
 apple
 
+
 ### bronn
+
+ 
 
 fountain, well, wellspring
 
+
 ### bär
 
-(noun)
+(noun) 
 
 berry
 
+
 ### bók (2)
+
+ 
 
 beech
 
+
 ### erþ
 
-(noun)
+(noun) 
 
 earth
 
+
 ### feuhtj
+
+ 
 
 spruce
 
+
 ### flaum
+
+ 
 
 flood
 
+
 ### flód
+
+ 
+
+
+
 
 ### himil
 
-(noun)
+(noun) 
 
 sky
 
+
 ### holt
+
+ 
 
 wood, forest (poetic)
 
+
 ### mapul
 
-(noun)
+(noun) 
 
 maple
 
+
 ### wald
+
+ 
 
 forest
 
+
 ### äb
 
+ 
+
 low tide
+
+
