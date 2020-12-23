@@ -1,3 +1,3 @@
 #!/usr/bin/env fish
 
-git ls-files '*.md' | xargs -n 300 npx prettier --write --parser markdown --prose-wrap always
+ls *.md texts/*.md grammar/*.md word-list/*.md | xargs -n 300 npx prettier --write --parser markdown --prose-wrap always
