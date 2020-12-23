@@ -2,8 +2,6 @@
 
 ### üm
 
-(preposition) 
+(preposition)
 
 around
-
-

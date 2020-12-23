@@ -2,21 +2,19 @@
 
 ### and
 
-(conjunction) 
+(conjunction)
 
 and
 
-
 ### hvis
 
-(conjunction) 
+(conjunction)
 
 if
 
-
 ### hweil at
 
-(conjunction) 
+(conjunction)
 
 while
 
@@ -24,16 +22,14 @@ See: [hweil](#hweil)
 
 ### of
 
-(conjunction) 
+(conjunction)
 
 or
 
-
 ### üm at
 
-(conjunction) 
+(conjunction)
 
 because
 
 See: [üm](#üm)
-
