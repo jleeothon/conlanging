@@ -6,7 +6,7 @@ const path = require('path');
 const handlebars = require('handlebars');
 const yaml = require('js-yaml');
 
-const wordListTemplateSource = `## {{title}}
+const wordListTemplate = `## {{title}}
 
 {{#each entries}}
 ### {{word}}
@@ -22,59 +22,61 @@ See: {{#each see}}{{#unless @first}}, {{/unless}}[{{this}}](#{{this}}){{/each}}
 {{/each}}
 `;
 
-const readmeTemplateSource = `## Conlang1
+const readmeTemplate = `## Conlang1
 
 - All entries
 {{#each categories}}
 - [{{this.name}}]({{this.link}})
 {{/each}}
-`
+`;
 
-const wordListTemplate = handlebars.compile(wordListTemplateSource);
-const readmeTemplate = handlebars.compile(readmeTemplateSource);
+const renderWordList = handlebars.compile(wordListTemplate);
+const renderReadme = handlebars.compile(readmeTemplate);
 
 const outDir = './pages';
 
-function writeFile(fileName, title, data) {
-	const dataWithTitle = {title, ...data};
-	writeFileSync(path.join(outDir, fileName), wordListTemplate(dataWithTitle));
+function writeFile(fileName, content) {
+	writeFileSync(path.join(outDir, fileName), content);
 }
 
 function run() {
-	const data = yaml.safeLoad(readFileSync(0, 'utf-8'));
+	const allEntries = yaml.safeLoad(readFileSync(0, 'utf-8'));
 
-	writeFile('word-list.md', 'Word list', data);
+	const wordListContent = renderWordList({entries: allEntries, title: 'Word list'});
+	writeFile('word-list.md', wordListContent);
 
 	// Categories
 	const categorySet = new Set();
-	data.entries.forEach(({categories}) => categories && categories.forEach(c => categorySet.add(c)));
+	allEntries.forEach(({categories}) => categories && categories.forEach(c => categorySet.add(c)));
 	const categories = [...categorySet].map(c => {
-		const fileName = c + '.md';
-		const link = '/' + c;
-		return {name: c, fileName, link};
+		return {name: c, fileName: `${c}.md`, link: `/${c}`};
 	});
-	categories.forEach(({name: category, fileName}) => {
-		const entries = data.entries.filter(({categories}) => categories && categories.includes(category));
-		const newData = {entries};
-		writeFile(fileName, category, newData);
+
+	categories.forEach(({name, fileName}) => {
+		const entries = allEntries.filter(({categories}) => categories && categories.includes(name));
+		const newData = {entries, title: name};
+		const content = renderWordList(newData);
+		writeFile(fileName, content);
 	});
 
 	// Parts
 	const partNames = ['noun', 'adjective', 'conjunction', 'preposition', 'adverb'];
 	const parts = partNames.map(p => {
-		const fileName = p + '.md';
-		const link = '/' + c;
-		return {name: p, fileName, link};
+		return {name: p, fileName: `${p}.md`, link: `/${p}`, part: p};
 	});
-	parts.forEach(part => {
-		const entries = data.entries.filter(({part: p}) => p === part);
-		const newData = {entries};
-		writeFile(part + '.md', part, newData);
+	parts.forEach(({name, fileName, part}) => {
+		const entries = allEntries.filter(({part: p}) => p === part);
+		const newData = {entries, title: name};
+		const content = renderWordList(newData);
+		writeFile(fileName, content);
 	});
 
 	// Index categories
-	const indexCategories = parts + categories;
-	writeFileSync(path.join(outDir, 'index.md'), readmeTemplate({categories: indexCategories}));
+	const indexCategories = parts.concat(categories);
+	// Console.log(indexCategories);
+	// process.exit(1);
+	const indexContent = renderReadme({categories: indexCategories});
+	writeFile('index.md', indexContent);
 }
 
 run();

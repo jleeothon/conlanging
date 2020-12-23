@@ -8,9 +8,9 @@ const {compare} = require('./alphabet');
 const data = yaml.safeLoad(readFileSync(0, 'utf-8'));
 
 // Sort entries themselves
-data.entries.sort((a, b) => compare(a.word, b.word));
+data.sort((a, b) => compare(a.word, b.word));
 
-data.entries.forEach(entry => {
+data.forEach(entry => {
 	let key = 'other';
 	try {
 		if (entry.see) {
