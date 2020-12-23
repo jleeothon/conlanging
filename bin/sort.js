@@ -3,26 +3,24 @@
 const {readFileSync} = require('fs');
 const yaml = require('js-yaml');
 
+const {compare} = require('./alphabet');
+
 const data = yaml.safeLoad(readFileSync(0, 'utf-8'));
 
-const naturalCompare = require('string-natural-compare');
-
-const alphabet = 'AaÄäBbCcDdEeËëFfGgHhIiÏïJjKkLlMmNnOoÖöPpQqRrSsTtÞþUuÜüVvWwXxYyZz';
-
 // Sort entries themselves
-data.entries.sort((a, b) => naturalCompare(a.word, b.word, alphabet));
+data.entries.sort((a, b) => compare(a.word, b.word));
 
 data.entries.forEach(entry => {
 	let key = 'other';
 	try {
 		if (entry.see) {
 			key = 'see';
-			entry.see.sort((a, b) => naturalCompare(a, b, alphabet));
+			entry.see.sort((a, b) => compare(a, b));
 		}
 
 		if (entry.synonyms) {
 			key = 'synonyms';
-			entry.synonyms.sort((a, b) => naturalCompare(a, b, alphabet));
+			entry.synonyms.sort((a, b) => compare(a, b));
 		}
 	} catch (error) {
 		console.error(`Error processing: ${entry.word} (${key})`);
