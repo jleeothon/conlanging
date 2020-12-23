@@ -15,4 +15,4 @@ Design guidelines:
 - North Germanic loans integrated when they help find symmetry,
 - pro-drop althought 1:1 perfect correspondences of ending and person-number.
 
-(Word lists)[/word-lists/index.md]
+[Word lists](/word-list/index.md)
