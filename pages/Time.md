@@ -2,35 +2,29 @@
 
 ### arm (1)
 
-(noun) 
+(noun)
 
 arm
 
-
 ### aug
 
-(noun) 
+(noun)
 
 eye
 
-
 ### avund
-
- 
 
 evening
 
-
 ### dag
 
-(noun) 
+(noun)
 
 day
 
-
 ### dagis
 
-(adverb) 
+(adverb)
 
 during the day
 
@@ -38,98 +32,75 @@ See: [dag](#dag)
 
 ### fanmorgun
 
-(noun) 
+(noun)
 
 tomorrow, in the morning
 
-
 ### gistirdag
-
- 
 
 yesterday
 
-
 ### gistirkwild
-
- 
 
 last evening
 
-
 ### gistirnaht
-
- 
 
 last night
 
-
 ### hauvd
 
-(noun) 
+(noun)
 
 head
 
-
 ### knuk
 
-(noun) 
+(noun)
 
 bone
 
-
 ### kwild
-
- 
 
 evening
 
-
 ### leik
 
-(noun) 
+(noun)
 
 body
 
-
 ### midirdag
 
-(noun) 
+(noun)
 
 midday
 
-
 ### midirdagis
 
-(adverb) 
+(adverb)
 
 at noon
 
-
 ### midirnaht
 
-(noun) 
+(noun)
 
 midnight
 
-
 ### morgun
 
-(noun) 
+(noun)
 
 morning
 
-
 ### morgunis
 
-(noun) 
+(noun)
 
 in the mornings
 
-
 ### naht
-
- 
 
 night
 
@@ -137,15 +108,11 @@ See: [nahtis](#nahtis)
 
 ### todag
 
- 
-
 today
 
 See: [dag](#dag)
 
 ### tokwild
-
- 
 
 this evening
 
@@ -153,9 +120,6 @@ See: [kwild](#kwild)
 
 ### tonaht
 
- 
-
 this night
 
 See: [naht](#naht)
-

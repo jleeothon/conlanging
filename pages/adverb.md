@@ -2,14 +2,13 @@
 
 ### allain (1)
 
-(adverb) 
+(adverb)
 
 only
 
-
 ### dagis
 
-(adverb) 
+(adverb)
 
 during the day
 
@@ -17,22 +16,18 @@ See: [dag](#dag)
 
 ### midirdagis
 
-(adverb) 
+(adverb)
 
 at noon
 
-
 ### seldun
 
-(adverb) 
+(adverb)
 
 seldom
 
-
 ### uft
 
-(adverb) 
+(adverb)
 
 often
-
-
