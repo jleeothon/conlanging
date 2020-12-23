@@ -4,7 +4,6 @@
 
 By part of speech
 
-
 - [noun](/noun)
 
 - [adjective](/adjective)
