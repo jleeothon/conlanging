@@ -19,6 +19,11 @@ entries:
   - word: and
     part: conjunction
     meaning: and
+  - word: apul
+    part: noun
+    meaning: apple
+    categories:
+      - Nature
   - word: arm (1)
     part: noun
     meaning: arm
@@ -49,6 +54,11 @@ entries:
     meaning: beaver
     categories:
       - Animals
+  - word: bij
+    part: noun
+    meaning: bee
+    categories:
+      - Animals
   - word: bikj
     meaning: female dog
     categories:
@@ -58,6 +68,14 @@ entries:
     meaning: blue
     categories:
       - Descriptions
+  - word: blóm
+    part: noun
+    meaning: flower
+  - word: breust
+    part: noun
+    meaning: "breast, chest"
+    categories:
+      - Body
   - word: bronn
     meaning: "fountain, well, wellspring"
     categories:
@@ -75,6 +93,11 @@ entries:
     meaning: bear
     categories:
       - Animals
+  - word: bär
+    part: noun
+    meaning: berry
+    categories:
+      - Nature
   - word: bäst
     see:
       - gód
@@ -241,7 +264,7 @@ entries:
     inflections:
       comparative: bätir
       superlative: bäst
-    irregular: "yes"
+    irregular: true
     categories:
       - Descriptions
   - word: hafur
@@ -252,6 +275,11 @@ entries:
     meaning: "hen, rooster, guineafowl"
     categories:
       - Animals
+  - word: hand
+    part: noun
+    meaning: hand
+    categories:
+      - Body
   - word: hauvd
     part: noun
     meaning: head
@@ -270,6 +298,9 @@ entries:
     meaning: female deer
     categories:
       - Animals
+  - word: hlahun
+    part: verb
+    meaning: to laugh
   - word: holt
     meaning: "wood, forest (poetic)"
     categories:
@@ -288,6 +319,11 @@ entries:
       - Animals
   - word: hund
     meaning: dog
+    categories:
+      - Animals
+  - word: huning
+    part: noun
+    meaning: honey
     categories:
       - Animals
   - word: hvis
@@ -393,7 +429,7 @@ entries:
   - word: mair
     part: adjective
     meaning: more
-    irregular: "yes"
+    irregular: true
     see:
       - maist
     categories:
@@ -401,11 +437,16 @@ entries:
   - word: maist
     part: adjective
     meaning: most
-    irregular: "yes"
+    irregular: true
     see:
       - mair
     categories:
       - Descriptions
+  - word: mapul
+    part: noun
+    meaning: maple
+    categories:
+      - Nature
   - word: marhj
     meaning: female horse
     categories:
@@ -447,7 +488,7 @@ entries:
   - word: mindir
     part: adjective
     meaning: less
-    irregular: "yes"
+    irregular: true
     see:
       - mindist
     categories:
@@ -455,7 +496,7 @@ entries:
   - word: mindist
     part: adjective
     meaning: least
-    irregular: "yes"
+    irregular: true
     see:
       - mindir
     categories:
@@ -577,6 +618,9 @@ entries:
       - naht
     categories:
       - Time
+  - word: wahs
+    meaning: wax
+    part: noun
   - word: wald
     meaning: forest
     categories:
@@ -584,7 +628,7 @@ entries:
   - word: wirsir
     part: adjective
     meaning: worse
-    irregular: "yes"
+    irregular: true
     see:
       - üvil
     categories:
@@ -592,7 +636,7 @@ entries:
   - word: wirst
     part: adjective
     meaning: worst
-    irregular: "yes"
+    irregular: true
     see:
       - üvil
     categories:
@@ -617,6 +661,9 @@ entries:
     meaning: "ox, castrated bull"
     categories:
       - Animals
+  - word: üm
+    part: preposition
+    meaning: around
   - word: üm at
     part: conjunction
     meaning: because
@@ -628,7 +675,7 @@ entries:
       comparative: wirsir
       superlative: wirist
     meaning: bad
-    irregular: "yes"
+    irregular: true
     categories:
       - Descriptions
   - word: þahs
@@ -639,3 +686,68 @@ entries:
     meaning: thrush (bird)
     categories:
       - Animals
+  - word: swarun
+    part: verb
+    meaning: to swear
+    template: strong-6
+    categories:
+      - Language
+    notes: class 6 j-present strong verb
+  - word: uft
+    part: adverb
+    meaning: often
+    antonyms: suldun
+  - word: seldun
+    part: adverb
+    meaning: seldom
+    antonyms: [uft]
+  - word: arhw
+    part: noun
+    meaning: arrow
+  - word: spit
+    part: noun
+    meaning: tip (e.g of an arrow)
+  - word: dauþ
+    part: noun
+    meaning: death
+  - word: dwás
+    part: adjective
+    part: stupid, foolish
+  - word: daudiun
+    part: verb
+    meaning: to kill
+  - word: dewun
+    part: verb
+    template: strong-5
+    meaning: to die
+  - word: damp
+    part: noun
+    meaning: vapour
+  - word: nat
+    part: adjective
+    meaning: wet, moist
+  - word: draug
+    part: adjective
+    meaning: dry
+  - word: draugiun
+    part: verb
+    meaning: to dry
+    notes: what to do with i-umlaut?
+  - word: natiun
+    part: verb
+    meaning: to dampen, to moisten, to wetten
+    notes: what to do with i-umlaut?
+  - word: weipun
+    part: verb
+    template: strong-1
+    notes: to wipe
+  - word: sehun in
+    part: verb
+    notes: to comprehend, to realise
+  - word: allain (1)
+    part: adverb
+    meaning: only
+  - word: allain (2)
+    part: adjective
+    meaning: alone
+  
