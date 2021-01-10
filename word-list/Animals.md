@@ -8,6 +8,12 @@ squirrel
 
 blackbird
 
+### bars
+
+(noun)
+
+perch
+
 ### bevur
 
 beaver
@@ -66,6 +72,18 @@ feather
 
 fish
 
+### fluþur
+
+(noun)
+
+flounder, flatfish
+
+### forhun
+
+(noun)
+
+trout
+
 ### fugul
 
 bird
@@ -90,13 +108,19 @@ goose
 
 cuckoo
 
-### hafur
+### hakud
 
-male goat
+(noun)
+
+pike
 
 ### han
 
 hen, rooster, guineafowl
+
+### havur
+
+male goat
 
 ### hert
 
@@ -110,13 +134,9 @@ female deer
 
 heron
 
-### hros
+### hrus
 
 horse
-
-### hund
-
-dog
 
 ### hund
 
@@ -170,6 +190,12 @@ crane
 
 cow
 
+### lahs
+
+(noun)
+
+salmon
+
 ### laiwarik
 
 lark
@@ -178,17 +204,17 @@ lark
 
 lamb
 
-### lohs
+### luhs
 
 lynx
-
-### marhj
-
-female horse
 
 ### marþur
 
 marten
+
+### märhj
+
+female horse
 
 ### mús
 
@@ -221,6 +247,12 @@ seal
 ### skáp
 
 sheep
+
+### smelt
+
+(noun)
+
+smelt
 
 ### steur
 
@@ -262,6 +294,12 @@ weasel
 
 wolf
 
+### ál
+
+(noun)
+
+eel
+
 ### áp
 
 ape
@@ -277,3 +315,39 @@ badger
 ### þrast
 
 thrush (bird)
+
+### worm
+
+(noun)
+
+worm
+
+### bij
+
+(noun)
+
+bee
+
+### meurj
+
+(noun)
+
+ant
+
+### flauh
+
+(noun)
+
+flea
+
+### fleug
+
+(noun)
+
+fly
+
+### imbij
+
+(noun)
+
+beeswarm

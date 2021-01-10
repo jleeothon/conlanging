@@ -30,6 +30,12 @@ eye
 
 leg
 
+### bars
+
+(noun)
+
+perch
+
 ### bij
 
 (noun)
@@ -54,6 +60,12 @@ breast, chest
 
 berry
 
+### bót
+
+(noun)
+
+boat
+
 ### dag
 
 (noun)
@@ -72,6 +84,18 @@ vapour
 
 death
 
+### drivian
+
+(noun)
+
+to drift
+
+### dór
+
+(noun)
+
+door
+
 ### erþ
 
 (noun)
@@ -89,6 +113,24 @@ tomorrow, in the morning
 (noun)
 
 colour
+
+### fluþur
+
+(noun)
+
+flounder, flatfish
+
+### forhun
+
+(noun)
+
+trout
+
+### hakud
+
+(noun)
+
+pike
 
 ### hand
 
@@ -114,17 +156,35 @@ sky
 
 honey
 
+### hért
+
+(noun)
+
+heart
+
 ### knuk
 
 (noun)
 
 bone
 
+### lahs
+
+(noun)
+
+salmon
+
 ### leik
 
 (noun)
 
 body
+
+### lúv
+
+(noun)
+
+love
 
 ### mapul
 
@@ -174,14 +234,182 @@ in the mornings
 
 mouse
 
+### skor
+
+(noun)
+
+shore
+
+### smelt
+
+(noun)
+
+smelt
+
 ### spit
 
 (noun)
 
 tip (e.g of an arrow)
 
+### störj
+
+(noun)
+
+sturgeon
+
 ### wahs
 
 (noun)
 
 wax
+
+### wind
+
+(noun)
+
+wind
+
+### ál
+
+(noun)
+
+eel
+
+### þorsk
+
+(noun)
+
+cod
+
+### worm
+
+(noun)
+
+worm
+
+### bij
+
+(noun)
+
+bee
+
+### meurj
+
+(noun)
+
+ant
+
+### flauh
+
+(noun)
+
+flea
+
+### fleug
+
+(noun)
+
+fly
+
+### imbij
+
+(noun)
+
+beeswarm
+
+### krab
+
+(noun)
+
+crab
+
+### skrimpul
+
+(noun)
+
+shrimp
+
+### baum
+
+(noun)
+
+tree
+
+### blóm
+
+(noun)
+
+flower
+
+### bohs
+
+(noun)
+
+boxwood
+
+### farn
+
+(noun)
+
+fern
+
+### häwj
+
+(noun)
+
+hay
+
+### hülis
+
+(noun)
+
+holly
+
+### korn
+
+(noun)
+
+seed, stone (of fruit)
+
+### óvut
+
+(noun)
+
+fruit
+
+### apul
+
+(noun)
+
+apple
+
+### bärj
+
+(noun)
+
+berry
+
+### bärj
+
+(noun)
+
+berry
+
+### plúm
+
+(noun)
+
+plum
+
+### brámulbärj
+
+(noun)
+
+blackberry, raspberry
+
+### erþbärj
+
+(noun)
+
+strawberry

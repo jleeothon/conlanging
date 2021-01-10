@@ -76,6 +76,12 @@ leg
 
 purple
 
+### bars
+
+(noun)
+
+perch
+
 ### bevur
 
 beaver
@@ -118,6 +124,10 @@ fountain, well, wellspring
 
 brown
 
+### brüg (or brügj)
+
+bridge
+
 ### bukk
 
 buck, male of a mammal
@@ -143,6 +153,12 @@ See: [gód](#gód)
 ### bók (2)
 
 beech
+
+### bót
+
+(noun)
+
+boat
 
 ### búl
 
@@ -202,11 +218,23 @@ dry
 
 to dry
 
+### drivian
+
+(noun)
+
+to drift
+
 ### dwás
 
 (adjective)
 
 stupid, foolish
+
+### dór
+
+(noun)
+
+door
 
 ### dúv
 
@@ -274,7 +302,19 @@ fish
 
 flood
 
+### fluþur
+
+(noun)
+
+flounder, flatfish
+
 ### flód
+
+### forhun
+
+(noun)
+
+trout
 
 ### fugul
 
@@ -348,9 +388,11 @@ green
 
 good
 
-### hafur
+### hakud
 
-male goat
+(noun)
+
+pike
 
 ### han
 
@@ -367,6 +409,10 @@ hand
 (noun)
 
 head
+
+### havur
+
+male goat
 
 ### hert
 
@@ -396,13 +442,9 @@ wood, forest (poetic)
 
 heron
 
-### hros
+### hrus
 
 horse
-
-### hund
-
-dog
 
 ### hund
 
@@ -447,6 +489,12 @@ weasel, ermine
 hare
 
 ### hän
+
+### hért
+
+(noun)
+
+heart
 
 ### igil
 
@@ -498,6 +546,12 @@ cow
 
 evening
 
+### lahs
+
+(noun)
+
+salmon
+
 ### laiwarik
 
 lark
@@ -512,15 +566,27 @@ lamb
 
 body
 
-### lohs
+### luhs
 
 lynx
+
+### lúv
+
+(noun)
+
+love
 
 ### lütt
 
 (adjective)
 
 small
+
+### lűvian
+
+(verb)
+
+to love
 
 ### mair
 
@@ -543,10 +609,6 @@ See: [mair](#mair)
 (noun)
 
 maple
-
-### marhj
-
-female horse
 
 ### marþur
 
@@ -616,6 +678,10 @@ morning
 
 in the mornings
 
+### märhj
+
+female horse
+
 ### mús
 
 (noun)
@@ -643,6 +709,18 @@ wet, moist
 (verb)
 
 to dampen, to moisten, to wetten
+
+### nu
+
+(adverb)
+
+now
+
+### nuh
+
+(adverb)
+
+yet
 
 ### of
 
@@ -684,9 +762,27 @@ seldom
 
 seal
 
+### skor
+
+(noun)
+
+shore
+
 ### skáp
 
 sheep
+
+### smal
+
+(adjective)
+
+small
+
+### smelt
+
+(noun)
+
+smelt
 
 ### spit
 
@@ -716,6 +812,12 @@ herd of horses
 
 big
 
+### störj
+
+(noun)
+
+sturgeon
+
 ### suw
 
 sow, female pig
@@ -739,6 +841,12 @@ black
 (verb)
 
 to swear
+
+### swaïgian
+
+(verb)
+
+to sway, to rock
 
 ### swein
 
@@ -778,9 +886,21 @@ wax
 
 forest
 
+### wardun
+
+(verb)
+
+to wait, to guard, to keep watch
+
 ### weipun
 
 (verb)
+
+### wind
+
+(noun)
+
+wind
 
 ### wirsir
 
@@ -805,6 +925,12 @@ weasel
 ### wolf
 
 wolf
+
+### ál
+
+(noun)
+
+eel
 
 ### áp
 
@@ -842,6 +968,144 @@ bad
 
 badger
 
+### þorsk
+
+(noun)
+
+cod
+
 ### þrast
 
 thrush (bird)
+
+### worm
+
+(noun)
+
+worm
+
+### bij
+
+(noun)
+
+bee
+
+### meurj
+
+(noun)
+
+ant
+
+### flauh
+
+(noun)
+
+flea
+
+### fleug
+
+(noun)
+
+fly
+
+### imbij
+
+(noun)
+
+beeswarm
+
+### krab
+
+(noun)
+
+crab
+
+### skrimpul
+
+(noun)
+
+shrimp
+
+### baum
+
+(noun)
+
+tree
+
+### blóm
+
+(noun)
+
+flower
+
+### bohs
+
+(noun)
+
+boxwood
+
+### farn
+
+(noun)
+
+fern
+
+### häwj
+
+(noun)
+
+hay
+
+### hülis
+
+(noun)
+
+holly
+
+### korn
+
+(noun)
+
+seed, stone (of fruit)
+
+### óvut
+
+(noun)
+
+fruit
+
+### apul
+
+(noun)
+
+apple
+
+### bärj
+
+(noun)
+
+berry
+
+### bärj
+
+(noun)
+
+berry
+
+### plúm
+
+(noun)
+
+plum
+
+### brámulbärj
+
+(noun)
+
+blackberry, raspberry
+
+### erþbärj
+
+(noun)
+
+strawberry

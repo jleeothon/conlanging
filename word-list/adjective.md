@@ -164,6 +164,12 @@ wet, moist
 
 red
 
+### smal
+
+(adjective)
+
+small
+
 ### stór
 
 (adjective)

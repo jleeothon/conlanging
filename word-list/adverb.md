@@ -20,6 +20,18 @@ See: [dag](#dag)
 
 at noon
 
+### nu
+
+(adverb)
+
+now
+
+### nuh
+
+(adverb)
+
+yet
+
 ### seldun
 
 (adverb)
