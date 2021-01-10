@@ -29,6 +29,9 @@
   meaning: apple
   categories:
     - Nature
+- word: apul
+  part: noun
+  meaning: apple
 - word: arhw
   part: noun
   meaning: arrow
@@ -58,8 +61,23 @@
   meaning: purple
   categories:
     - Descriptions
+- word: bars
+  part: noun
+  meaning: perch
+  categories:
+    - Animals
+- word: baum
+  part: noun
+  meaning: tree
+  categories:
+    - Plants
 - word: bevur
   meaning: beaver
+  categories:
+    - Animals
+- word: bij
+  part: noun
+  meaning: bee
   categories:
     - Animals
 - word: bij
@@ -79,6 +97,16 @@
 - word: blóm
   part: noun
   meaning: flower
+- word: blóm
+  part: noun
+  meaning: flower
+  categories:
+    - Plants
+- word: bohs
+  part: noun
+  meaning: boxwood
+  categories:
+    - Plants
 - word: breust
   part: noun
   meaning: "breast, chest"
@@ -88,11 +116,19 @@
   meaning: "fountain, well, wellspring"
   categories:
     - Nature
+- word: brámulbärj
+  part: noun
+  notSure: true
+  meaning: "blackberry, raspberry"
 - word: brún
   part: adjective
   meaning: brown
   categories:
     - Descriptions
+- word: brüg (or brügj)
+  meaning: bridge
+  categories:
+    - Civilisation
 - word: bukk
   meaning: "buck, male of a mammal"
   categories:
@@ -106,6 +142,16 @@
   meaning: berry
   categories:
     - Nature
+- word: bärj
+  part: noun
+  from: PWG bari < PGe bazja
+  notSure: true
+  meaning: berry
+- word: bärj
+  part: noun
+  from: PWG bari < PGe bazja
+  notSure: true
+  meaning: berry
 - word: bäst
   see:
     - gód
@@ -120,6 +166,10 @@
   meaning: beech
   categories:
     - Nature
+- word: bót
+  part: noun
+  meaning: boat
+  notes: Taken from Middle English instead of PGe.
 - word: búl
   meaning: bull
   categories:
@@ -160,9 +210,18 @@
   part: verb
   meaning: to dry
   notes: what to do with i-umlaut?
+- word: drivian
+  part: noun
+  meaning: to drift
+  categories:
+    - Movement
 - word: dwás
   part: adjective
   meaning: "stupid, foolish"
+- word: dór
+  part: noun
+  meaning: door
+  notes: the lengthened vowel does not appear in PG or PWG.
 - word: dúv
   meaning: dove
   categories:
@@ -180,6 +239,10 @@
   meaning: earth
   categories:
     - Nature
+- word: erþbärj
+  part: noun
+  notSure: true
+  meaning: strawberry
 - word: fanmorgun
   part: noun
   meaning: "tomorrow, in the morning"
@@ -189,6 +252,11 @@
   meaning: "piglet, young pig"
   categories:
     - Animals
+- word: farn
+  part: noun
+  meaning: fern
+  categories:
+    - Plants
 - word: farw
   part: noun
   meaning: colour
@@ -220,14 +288,34 @@
   meaning: fish
   categories:
     - Animals
+- word: flauh
+  part: noun
+  meaning: flea
+  categories:
+    - Animals
 - word: flaum
   meaning: flood
   categories:
     - Nature
+- word: fleug
+  part: noun
+  meaning: fly
+  categories:
+    - Animals
+- word: fluþur
+  part: noun
+  meaning: "flounder, flatfish"
+  categories:
+    - Animals
 - word: flód
   meanign: "flood, river (poetic), high tide"
   categories:
     - Nature
+- word: forhun
+  part: noun
+  meaning: trout
+  categories:
+    - Animals
 - word: fugul
   meaning: bird
   categories:
@@ -298,8 +386,9 @@
   irregular: true
   categories:
     - Descriptions
-- word: hafur
-  meaning: male goat
+- word: hakud
+  part: noun
+  meaning: pike
   categories:
     - Animals
 - word: han
@@ -316,6 +405,10 @@
   meaning: head
   categories:
     - Time
+- word: havur
+  meaning: male goat
+  categories:
+    - Animals
 - word: hert
   meaning: "deer, stag"
   categories:
@@ -340,12 +433,8 @@
   meaning: heron
   categories:
     - Animals
-- word: hros
+- word: hrus
   meaning: horse
-  categories:
-    - Animals
-- word: hund
-  meaning: dog
   categories:
     - Animals
 - word: hund
@@ -357,6 +446,7 @@
   meaning: honey
   categories:
     - Animals
+    - Food
 - word: hvis
   part: conjunction
   meaning: if
@@ -386,8 +476,27 @@
   meanign: female chicken
   categories:
     - Animals
+- word: häwj
+  part: noun
+  meaning: hay
+  notSure: true
+  categories:
+    - Plants
+- word: hért
+  part: noun
+  meaning: heart
+- word: hülis
+  part: noun
+  meaning: holly
+  categories:
+    - Plants
 - word: igil
   meaning: hedgehog
+  categories:
+    - Animals
+- word: imbij
+  part: noun
+  meaning: beeswarm
   categories:
     - Animals
 - word: jung
@@ -421,6 +530,14 @@
   meaning: chicken
   categories:
     - Animals
+- word: korn
+  part: noun
+  meaning: "seed, stone (of fruit)"
+  categories:
+    - Plants
+- word: krab
+  part: noun
+  meaning: crab
 - word: krán
   meaning: crane
   categories:
@@ -435,6 +552,11 @@
     - kwild
   categories:
     - Time
+- word: lahs
+  part: noun
+  meaning: salmon
+  categories:
+    - Animals
 - word: laiwarik
   meaning: lark
   categories:
@@ -448,15 +570,23 @@
   meaning: body
   categories:
     - Time
-- word: lohs
+- word: luhs
   meaning: lynx
   categories:
     - Animals
+- word: lúv
+  part: noun
+  meaning: love
+  categories:
+    - Feelings
 - word: lütt
   part: adjective
   meaning: small
   categories:
     - Descriptions
+- word: lűvian
+  part: verb
+  meaning: to love
 - word: mair
   part: adjective
   meaning: more
@@ -478,12 +608,14 @@
   meaning: maple
   categories:
     - Nature
-- word: marhj
-  meaning: female horse
-  categories:
-    - Animals
 - word: marþur
   meaning: marten
+  categories:
+    - Animals
+- word: meurj
+  part: noun
+  from: PG *miurijǭ
+  meaning: ant
   categories:
     - Animals
 - word: midil
@@ -542,6 +674,10 @@
   meaning: in the mornings
   categories:
     - Time
+- word: märhj
+  meaning: female horse
+  categories:
+    - Animals
 - word: mús
   part: noun
   meaning: mouse
@@ -564,6 +700,12 @@
   part: verb
   meaning: "to dampen, to moisten, to wetten"
   notes: what to do with i-umlaut?
+- word: nu
+  part: adverb
+  meaning: now
+- word: nuh
+  part: adverb
+  meaning: yet
 - word: of
   part: conjunction
   meaning: or
@@ -571,6 +713,11 @@
   meaning: otter
   categories:
     - Animals
+- word: plúm
+  part: noun
+  from: PGe plūmā
+  notSure: true
+  meaning: plum
 - word: páw
   meaning: peafowl
   categories:
@@ -600,8 +747,22 @@
   meaning: seal
   categories:
     - Animals
+- word: skor
+  part: noun
+  meaning: shore
+- word: skrimpul
+  part: noun
+  meaning: shrimp
 - word: skáp
   meaning: sheep
+  categories:
+    - Animals
+- word: smal
+  part: adjective
+  meaning: small
+- word: smelt
+  part: noun
+  meaning: smelt
   categories:
     - Animals
 - word: spit
@@ -628,6 +789,9 @@
   meaning: big
   categories:
     - Descriptions
+- word: störj
+  part: noun
+  meaning: sturgeon
 - word: suw
   meaning: "sow, female pig"
   categories:
@@ -652,6 +816,9 @@
   categories:
     - Language
   notes: class 6 j-present strong verb
+- word: swaïgian
+  part: verb
+  meaning: "to sway, to rock"
 - word: swein
   meaning: "swine, pig"
   categories:
@@ -685,10 +852,16 @@
   meaning: forest
   categories:
     - Nature
+- word: wardun
+  part: verb
+  meaning: "to wait, to guard, to keep watch"
 - word: weipun
   part: verb
   template: strong-1
   notes: to wipe
+- word: wind
+  part: noun
+  meaning: wind
 - word: wirsir
   part: adjective
   meaning: worse
@@ -713,6 +886,16 @@
   meaning: wolf
   categories:
     - Animals
+- word: worm
+  part: noun
+  meaning: worm
+  categories:
+    - Animals
+- word: ál
+  part: noun
+  meaning: eel
+  categories:
+    - Animals
 - word: áp
   meaning: ape
   categories:
@@ -725,6 +908,14 @@
   meaning: "ox, castrated bull"
   categories:
     - Animals
+- word: óvut
+  part: noun
+  meaning: fruit
+  notes: "Strange derivation, like DE Obst, NL ooft"
+  notSure: true
+  categories:
+    - Plants
+    - Food
 - word: üm
   part: preposition
   meaning: around
@@ -746,6 +937,9 @@
   meaning: badger
   categories:
     - Animals
+- word: þorsk
+  part: noun
+  meaning: cod
 - word: þrast
   meaning: thrush (bird)
   categories:
