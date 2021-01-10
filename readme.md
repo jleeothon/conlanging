@@ -16,4 +16,18 @@ Design guidelines:
 - pro-drop although without 1:1 perfect correspondences of ending and
   person-number.
 
+<table>
+	<thead>
+		<tr>
+			<th>a</th>
+			<th>b</th>			
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th colspan="2">c</th>
+		</tr>
+	</tbody>
+</table>
+
 [Word lists](/word-list/index.md)
