@@ -7,15 +7,15 @@
   categories:
     - Animals
 - word: ald
-  part: adjective
+  part: Adjective
   meaning: old
   categories:
     - Descriptions
 - word: allain (1)
-  part: adverb
+  part: Adverb
   meaning: only
 - word: allain (2)
-  part: adjective
+  part: Adjective
   meaning: alone
 - word: amsul
   meaning: blackbird
@@ -24,24 +24,22 @@
 - word: and
   part: conjunction
   meaning: and
-- word: apul
-  part: noun
+- word: apŏl
+  part: Noun
   meaning: apple
   categories:
     - Nature
-- word: apul
-  part: noun
-  meaning: apple
+    - Food
 - word: arhw
-  part: noun
+  part: Noun
   meaning: arrow
 - word: arm (1)
-  part: noun
+  part: Noun
   meaning: arm
   categories:
     - Time
 - word: aug
-  part: noun
+  part: Noun
   meaning: eye
   categories:
     - Time
@@ -52,22 +50,22 @@
   categories:
     - Time
 - word: bain
-  part: noun
+  part: Noun
   meaning: leg
   categories:
     - Body
 - word: barisk
-  part: adjective
+  part: Adjective
   meaning: purple
   categories:
     - Descriptions
 - word: bars
-  part: noun
+  part: Noun
   meaning: perch
   categories:
     - Animals
 - word: baum
-  part: noun
+  part: Noun
   meaning: tree
   categories:
     - Plants
@@ -76,12 +74,12 @@
   categories:
     - Animals
 - word: bij
-  part: noun
+  part: Noun
   meaning: bee
   categories:
     - Animals
 - word: bij
-  part: noun
+  part: Noun
   meaning: bee
   categories:
     - Animals
@@ -90,25 +88,25 @@
   categories:
     - Animals
 - word: bláw
-  part: adjective
+  part: Adjective
   meaning: blue
   categories:
     - Descriptions
 - word: blóm
-  part: noun
+  part: Noun
   meaning: flower
 - word: blóm
-  part: noun
+  part: Noun
   meaning: flower
   categories:
     - Plants
 - word: bohs
-  part: noun
+  part: Noun
   meaning: boxwood
   categories:
     - Plants
 - word: breust
-  part: noun
+  part: Noun
   meaning: "breast, chest"
   categories:
     - Body
@@ -117,15 +115,15 @@
   categories:
     - Nature
 - word: brámulbärj
-  part: noun
+  part: Noun
   notSure: true
   meaning: "blackberry, raspberry"
 - word: brún
-  part: adjective
+  part: Adjective
   meaning: brown
   categories:
     - Descriptions
-- word: brüg (or brügj)
+- word: brügj (or brügj)
   meaning: bridge
   categories:
     - Civilisation
@@ -138,17 +136,17 @@
   categories:
     - Animals
 - word: bär
-  part: noun
+  part: Noun
   meaning: berry
   categories:
     - Nature
 - word: bärj
-  part: noun
+  part: Noun
   from: PWG bari < PGe bazja
   notSure: true
   meaning: berry
 - word: bärj
-  part: noun
+  part: Noun
   from: PWG bari < PGe bazja
   notSure: true
   meaning: berry
@@ -167,7 +165,7 @@
   categories:
     - Nature
 - word: bót
-  part: noun
+  part: Noun
   meaning: boat
   notes: Taken from Middle English instead of PGe.
 - word: búl
@@ -175,51 +173,51 @@
   categories:
     - Animals
 - word: dag
-  part: noun
+  part: Noun
   meaning: day
   categories:
     - Time
 - word: dagis
-  part: adverb
+  part: Adverb
   meaning: during the day
   see:
     - dag
   categories:
     - Time
 - word: damp
-  part: noun
+  part: Noun
   meaning: vapour
-- word: daudiun
-  part: verb
+- word: daudjun
+  part: Verb
   meaning: to kill
 - word: dauþ
-  part: noun
+  part: Noun
   meaning: death
 - word: deur
   meaning: animal
   categories:
     - Animals
 - word: dewun
-  part: verb
-  template: strong-5
+  part: Verb
+  class: strong-5
   meaning: to die
 - word: draug
-  part: adjective
+  part: Adjective
   meaning: dry
 - word: draugiun
-  part: verb
+  part: Verb
   meaning: to dry
   notes: what to do with i-umlaut?
 - word: drivian
-  part: noun
+  part: Noun
   meaning: to drift
   categories:
     - Movement
 - word: dwás
-  part: adjective
+  part: Adjective
   meaning: "stupid, foolish"
 - word: dór
-  part: noun
+  part: Noun
   meaning: door
   notes: the lengthened vowel does not appear in PG or PWG.
 - word: dúv
@@ -235,16 +233,16 @@
   categories:
     - Animals
 - word: erþ
-  part: noun
+  part: Noun
   meaning: earth
   categories:
     - Nature
 - word: erþbärj
-  part: noun
+  part: Noun
   notSure: true
   meaning: strawberry
 - word: fanmorgun
-  part: noun
+  part: Noun
   meaning: "tomorrow, in the morning"
   categories:
     - Time
@@ -253,17 +251,17 @@
   categories:
     - Animals
 - word: farn
-  part: noun
+  part: Noun
   meaning: fern
   categories:
     - Plants
 - word: farw
-  part: noun
+  part: Noun
   meaning: colour
   categories:
     - Descriptions
 - word: faw
-  part: adjective
+  part: Adjective
   meaning: "few, little"
   categories:
     - Descriptions
@@ -280,7 +278,7 @@
   categories:
     - Animals
 - word: fil
-  part: adjective
+  part: Adjective
   meaning: much
   categories:
     - Descriptions
@@ -289,7 +287,7 @@
   categories:
     - Animals
 - word: flauh
-  part: noun
+  part: Noun
   meaning: flea
   categories:
     - Animals
@@ -298,12 +296,12 @@
   categories:
     - Nature
 - word: fleug
-  part: noun
+  part: Noun
   meaning: fly
   categories:
     - Animals
 - word: fluþur
-  part: noun
+  part: Noun
   meaning: "flounder, flatfish"
   categories:
     - Animals
@@ -312,7 +310,7 @@
   categories:
     - Nature
 - word: forhun
-  part: noun
+  part: Noun
   meaning: trout
   categories:
     - Animals
@@ -341,12 +339,12 @@
   categories:
     - Animals
 - word: gelw
-  part: adjective
+  part: Adjective
   meaning: yellow
   categories:
     - Descriptions
 - word: gelwraud
-  part: adjective
+  part: Adjective
   meaning: orange
   categories:
     - Descriptions
@@ -363,22 +361,22 @@
   categories:
     - Time
 - word: graut
-  part: adjective
+  part: Adjective
   meaning: big
   categories:
     - Descriptions
 - word: gráw
-  part: adjective
+  part: Adjective
   meaning: grey
   categories:
     - Descriptions
 - word: grőn
-  part: adjective
+  part: Adjective
   meaning: green
   categories:
     - Descriptions
 - word: gód
-  part: adjective
+  part: Adjective
   meaning: good
   inflections:
     comparative: bätir
@@ -387,7 +385,7 @@
   categories:
     - Descriptions
 - word: hakud
-  part: noun
+  part: Noun
   meaning: pike
   categories:
     - Animals
@@ -396,12 +394,12 @@
   categories:
     - Animals
 - word: hand
-  part: noun
+  part: Noun
   meaning: hand
   categories:
     - Body
 - word: hauvd
-  part: noun
+  part: Noun
   meaning: head
   categories:
     - Time
@@ -414,7 +412,7 @@
   categories:
     - Animals
 - word: himil
-  part: noun
+  part: Noun
   meaning: sky
   categories:
     - Nature
@@ -423,7 +421,7 @@
   categories:
     - Animals
 - word: hlahun
-  part: verb
+  part: Verb
   meaning: to laugh
 - word: holt
   meaning: "wood, forest (poetic)"
@@ -442,7 +440,7 @@
   categories:
     - Animals
 - word: huning
-  part: noun
+  part: Noun
   meaning: honey
   categories:
     - Animals
@@ -456,7 +454,7 @@
   see:
     - hweil
 - word: hweit
-  part: adjective
+  part: Adjective
   meaning: white
   categories:
     - Descriptions
@@ -477,16 +475,16 @@
   categories:
     - Animals
 - word: häwj
-  part: noun
+  part: Noun
   meaning: hay
   notSure: true
   categories:
     - Plants
 - word: hért
-  part: noun
+  part: Noun
   meaning: heart
 - word: hülis
-  part: noun
+  part: Noun
   meaning: holly
   categories:
     - Plants
@@ -495,12 +493,12 @@
   categories:
     - Animals
 - word: imbij
-  part: noun
+  part: Noun
   meaning: beeswarm
   categories:
     - Animals
 - word: jung
-  part: adjective
+  part: Adjective
   meaning: young
   categories:
     - Descriptions
@@ -517,12 +515,12 @@
   categories:
     - Animals
 - word: klain
-  part: adjective
+  part: Adjective
   meaning: small
   categories:
     - Descriptions
 - word: knuk
-  part: noun
+  part: Noun
   meaning: bone
   categories:
     - Time
@@ -531,12 +529,12 @@
   categories:
     - Animals
 - word: korn
-  part: noun
+  part: Noun
   meaning: "seed, stone (of fruit)"
   categories:
     - Plants
 - word: krab
-  part: noun
+  part: Noun
   meaning: crab
 - word: krán
   meaning: crane
@@ -553,7 +551,7 @@
   categories:
     - Time
 - word: lahs
-  part: noun
+  part: Noun
   meaning: salmon
   categories:
     - Animals
@@ -566,7 +564,7 @@
   categories:
     - Animals
 - word: leik
-  part: noun
+  part: Noun
   meaning: body
   categories:
     - Time
@@ -575,20 +573,20 @@
   categories:
     - Animals
 - word: lúv
-  part: noun
+  part: Noun
   meaning: love
   categories:
     - Feelings
 - word: lütt
-  part: adjective
+  part: Adjective
   meaning: small
   categories:
     - Descriptions
-- word: lűvian
-  part: verb
+- word: lűvjan
+  part: Verb
   meaning: to love
 - word: mair
-  part: adjective
+  part: Adjective
   meaning: more
   irregular: true
   see:
@@ -596,7 +594,7 @@
   categories:
     - Descriptions
 - word: maist
-  part: adjective
+  part: Adjective
   meaning: most
   irregular: true
   see:
@@ -604,7 +602,7 @@
   categories:
     - Descriptions
 - word: mapul
-  part: noun
+  part: Noun
   meaning: maple
   categories:
     - Nature
@@ -613,43 +611,43 @@
   categories:
     - Animals
 - word: meurj
-  part: noun
+  part: Noun
   from: PG *miurijǭ
   meaning: ant
   categories:
     - Animals
 - word: midil
-  part: noun
+  part: Noun
   meaning: middle
   categories:
     - Descriptions
 - word: midirdag
-  part: noun
+  part: Noun
   meaning: midday
   categories:
     - Time
 - word: midirdagis
-  part: adverb
+  part: Adverb
   meaning: at noon
   categories:
     - Time
 - word: midirnaht
-  part: noun
+  part: Noun
   meaning: midnight
   categories:
     - Time
 - word: midj
-  part: noun
+  part: Noun
   meaning: "middle, center"
   categories:
     - Descriptions
 - word: mikil
-  part: adjective
+  part: Adjective
   meaning: "much, many, big"
   categories:
     - Descriptions
 - word: mindir
-  part: adjective
+  part: Adjective
   meaning: less
   irregular: true
   see:
@@ -657,7 +655,7 @@
   categories:
     - Descriptions
 - word: mindist
-  part: adjective
+  part: Adjective
   meaning: least
   irregular: true
   see:
@@ -665,12 +663,12 @@
   categories:
     - Descriptions
 - word: morgun
-  part: noun
+  part: Noun
   meaning: morning
   categories:
     - Time
 - word: morgunis
-  part: noun
+  part: Noun
   meaning: in the mornings
   categories:
     - Time
@@ -679,7 +677,7 @@
   categories:
     - Animals
 - word: mús
-  part: noun
+  part: Noun
   meaning: mouse
   categories:
     - Animals
@@ -694,17 +692,17 @@
   categories:
     - Time
 - word: nat
-  part: adjective
+  part: Adjective
   meaning: "wet, moist"
-- word: natiun
-  part: verb
+- word: natjun
+  part: Verb
   meaning: "to dampen, to moisten, to wetten"
   notes: what to do with i-umlaut?
 - word: nu
-  part: adverb
+  part: Adverb
   meaning: now
 - word: nuh
-  part: adverb
+  part: Adverb
   meaning: yet
 - word: of
   part: conjunction
@@ -714,7 +712,7 @@
   categories:
     - Animals
 - word: plúm
-  part: noun
+  part: Noun
   from: PGe plūmā
   notSure: true
   meaning: plum
@@ -731,15 +729,15 @@
   categories:
     - Animals
 - word: raud
-  part: adjective
+  part: Adjective
   meaning: red
   categories:
     - Descriptions
 - word: sehun in
-  part: verb
+  part: Verb
   notes: "to comprehend, to realise"
 - word: seldun
-  part: adverb
+  part: Adverb
   meaning: seldom
   antonyms:
     - uft
@@ -748,25 +746,25 @@
   categories:
     - Animals
 - word: skor
-  part: noun
+  part: Noun
   meaning: shore
 - word: skrimpul
-  part: noun
+  part: Noun
   meaning: shrimp
 - word: skáp
   meaning: sheep
   categories:
     - Animals
 - word: smal
-  part: adjective
+  part: Adjective
   meaning: small
 - word: smelt
-  part: noun
+  part: Noun
   meaning: smelt
   categories:
     - Animals
 - word: spit
-  part: noun
+  part: Noun
   meaning: tip (e.g of an arrow)
 - word: steur
   meaning: bull
@@ -785,12 +783,12 @@
   categories:
     - Animals
 - word: stór
-  part: adjective
+  part: Adjective
   meaning: big
   categories:
     - Descriptions
 - word: störj
-  part: noun
+  part: Noun
   meaning: sturgeon
 - word: suw
   meaning: "sow, female pig"
@@ -805,19 +803,19 @@
   categories:
     - Animals
 - word: swart
-  part: adjective
+  part: Adjective
   meaning: black
   categories:
     - Descriptions
 - word: swarun
-  part: verb
+  part: Verb
   meaning: to swear
-  template: strong-6
+  class: strong-6
   categories:
     - Language
   notes: class 6 j-present strong verb
 - word: swaïgian
-  part: verb
+  part: Verb
   meaning: "to sway, to rock"
 - word: swein
   meaning: "swine, pig"
@@ -841,29 +839,28 @@
     - naht
   categories:
     - Time
-- word: uft
-  part: adverb
+- word: oft
+  part: Adverb
   meaning: often
-  antonyms: suldun
 - word: wahs
   meaning: wax
-  part: noun
+  part: Noun
 - word: wald
   meaning: forest
   categories:
     - Nature
 - word: wardun
-  part: verb
+  part: Verb
   meaning: "to wait, to guard, to keep watch"
 - word: weipun
-  part: verb
-  template: strong-1
+  part: Verb
+  class: strong-1
   notes: to wipe
 - word: wind
-  part: noun
+  part: Noun
   meaning: wind
 - word: wirsir
-  part: adjective
+  part: Adjective
   meaning: worse
   irregular: true
   see:
@@ -871,7 +868,7 @@
   categories:
     - Descriptions
 - word: wirst
-  part: adjective
+  part: Adjective
   meaning: worst
   irregular: true
   see:
@@ -887,12 +884,12 @@
   categories:
     - Animals
 - word: worm
-  part: noun
+  part: Noun
   meaning: worm
   categories:
     - Animals
 - word: ál
-  part: noun
+  part: Noun
   meaning: eel
   categories:
     - Animals
@@ -909,7 +906,7 @@
   categories:
     - Animals
 - word: óvut
-  part: noun
+  part: Noun
   meaning: fruit
   notes: "Strange derivation, like DE Obst, NL ooft"
   notSure: true
@@ -925,7 +922,7 @@
   see:
     - üm
 - word: üvil
-  part: adjective
+  part: Adjective
   inflection:
     comparative: wirsir
     superlative: wirist
@@ -938,9 +935,108 @@
   categories:
     - Animals
 - word: þorsk
-  part: noun
+  part: Noun
   meaning: cod
 - word: þrast
   meaning: thrush (bird)
   categories:
     - Animals
+- word: streidun
+  meaning: to quarrel
+  part: Verb
+  class: strong-1
+- word: frek
+  meaning: greedy; nasty
+  part: Adjective
+- word: hrügj
+  meaning: back (anatomy), spine (anatomy)
+  party: noun
+
+- word: kuss
+  meaning: kiss
+  part: Noun
+  see: [küssjun]
+- word: küssjun
+  meaning: to kiss
+  part: Verb
+  see: [kuss]
+- word: draum
+  meaning: dream
+  part: Verb
+- word: fagŏr
+  meaning: pretty, beautiful
+  part: Adjective
+- word: dusk
+  meaning: dark
+  part: Adjective
+- word: dunkŏl
+  meaning: dark
+  part: Adjective
+- word: dunkŏr
+  meaning: dark
+  part: Adjective
+- word: bikwém
+  meaning: comfortable
+  part: Adjective
+- word: gail
+  meaning: abundant; lustful
+  part: Adjective
+- word: waikw
+  meaning: weak, soft
+  part: Adjective
+- word: hláw
+  meaning: lukewarm
+  part: Adjective
+- word: þrinhwun
+  meaning: to press; to be urgent
+  part: Verb
+- word: þrangŏw
+  meaning: to pressing
+  see: [þrinhwun]
+- word: þrinhwend
+  meaning: urgent
+  part: Adjective
+  see: [þrinhwun]
+- word: warm
+  meaning: warm
+  part: Adjective
+- word: þik
+  meaning: thick
+  part: Adjective
+- word: þünn
+  meaning: thin
+  part: Adjective
+- word: skrakŏw
+  part: Noun
+  meaning: exaggeration, lie
+- word: air
+  part: Noun
+  meaning: reverence, honour
+- word: hwass
+  meaning: sharp
+  part: Adjective
+- word: hwassiþ
+  meaning: sharpness
+  part: Noun
+- word: blad
+  meaning: blade
+  part: Noun
+- word: flaisk
+  meaning: meat
+  part: Noun
+- word: kwik
+  meaning: lively
+  part: Adjective
+- word: malm
+  meaning: ore
+  part: Noun
+- word: taihŏw
+  meaning: toe
+  part: Noun
+- word: þorp
+  meaning: village
+  part: Noun
+  categories: [Civilisation]
+- word: seldun
+  meaning: rare, seldom
+  part: Adjective
