@@ -208,7 +208,7 @@ intransitive from a transitive verb.
 | á-é-á         | (Not productive) |
 | ó-é-ó         | (Not productive) |
 
-> ⚠️ Self-note: the sequence a-u-a should, by PGe>Theudisk sound changes, be
+> ⚠️ Self-note: the sequence a-u-a should, by PGmc>Theudisk sound changes, be
 > a-ó-a. But I'm considering a-ó-a, a-ú-a, a-u-a.
 >
 > The problem with a-u-a is that it may create derivative words that class. The

@@ -6,4 +6,4 @@ vowel in (bound) suffix:
 - **i** is the usual vowel for adjectives and adverbs (comparative and
   superlative degrees, and adverbialisation),
 - **o** and **u** may appear within roots of nouns and adjectives due to euphony
-  or fusion of very old PGe affixes.
+  or fusion of very old PGmc affixes.

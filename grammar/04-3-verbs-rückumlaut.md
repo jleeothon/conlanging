@@ -56,14 +56,14 @@ To seek:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | sökien  | sohten    |
-| Participle | sökind  | soht      |
-| 1st. sg.   | sökiu   | sohte     |
-| 2nd. sg.   | sökis   | sohtes    |
-| 3rd. sg.   | sökit   | sohte     |
-| 1st. pl.   | sökim   | sohtem    |
-| 2nd. pl.   | sökij   | sohtej    |
-| 3rd. pl.   | sökun   | sohtun    |
+| Infinitive | sőkien  | sohten    |
+| Participle | sőkind  | soht      |
+| 1st. sg.   | sőkiu   | sohte     |
+| 2nd. sg.   | sőkis   | sohtes    |
+| 3rd. sg.   | sőkit   | sohte     |
+| 1st. pl.   | sőkim   | sohtem    |
+| 2nd. pl.   | sőkij   | sohtej    |
+| 3rd. pl.   | sőkun   | sohtun    |
 |            |         |           |
 
 To have an effect:
