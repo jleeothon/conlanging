@@ -1,13 +1,23 @@
 ## Food
 
+### apŏl
+
+(Noun) 
+
+apple
+
+
 ### huning
 
-(noun)
+(Noun) 
 
 honey
 
+
 ### óvut
 
-(noun)
+(Noun) 
 
 fruit
+
+

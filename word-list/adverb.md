@@ -1,14 +1,15 @@
-## adverb
+## Adverb
 
 ### allain (1)
 
-(adverb)
+(Adverb) 
 
 only
 
+
 ### dagis
 
-(adverb)
+(Adverb) 
 
 during the day
 
@@ -16,30 +17,36 @@ See: [dag](#dag)
 
 ### midirdagis
 
-(adverb)
+(Adverb) 
 
 at noon
 
+
 ### nu
 
-(adverb)
+(Adverb) 
 
 now
 
+
 ### nuh
 
-(adverb)
+(Adverb) 
 
 yet
 
+
+### oft
+
+(Adverb) 
+
+often
+
+
 ### seldun
 
-(adverb)
+(Adverb) 
 
 seldom
 
-### uft
 
-(adverb)
-
-often

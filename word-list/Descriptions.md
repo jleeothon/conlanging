@@ -2,117 +2,142 @@
 
 ### ald
 
-(adjective)
+(Adjective) 
 
 old
 
+
 ### barisk
 
-(adjective)
+(Adjective) 
 
 purple
 
+
 ### bláw
 
-(adjective)
+(Adjective) 
 
 blue
 
+
 ### brún
 
-(adjective)
+(Adjective) 
 
 brown
 
+
 ### bäst
+
+(Adjective) 
+
+best
 
 See: [gód](#gód)
 
 ### bätir
 
+(Adjective) 
+
+better
+
 See: [gód](#gód)
 
 ### farw
 
-(noun)
+(Noun) 
 
 colour
 
+
 ### faw
 
-(adjective)
+(Adjective) 
 
 few, little
 
+
 ### fil
 
-(adjective)
+(Adjective) 
 
 much
 
+
 ### gelw
 
-(adjective)
+(Adjective) 
 
 yellow
 
+
 ### gelwraud
 
-(adjective)
+(Adjective) 
 
 orange
 
+
 ### graut
 
-(adjective)
+(Adjective) 
 
 big
 
+
 ### gráw
 
-(adjective)
+(Adjective) 
 
 grey
 
+
 ### grőn
 
-(adjective)
+(Adjective) 
 
 green
 
+
 ### gód
 
-(adjective) _comparative:_ **bätir**, _superlative:_ **bäst**
+(Adjective)  _comparative:_ **bätir**,  _superlative:_ **bäst**
 
 good
 
+
 ### hweit
 
-(adjective)
+(Adjective) 
 
 white
 
+
 ### jung
 
-(adjective)
+(Adjective) 
 
 young
 
+
 ### klain
 
-(adjective)
+(Adjective) 
 
 small
+
 
 ### lütt
 
-(adjective)
+(Adjective) 
 
 small
 
+
 ### mair
 
-(adjective)
+(Adjective) 
 
 more
 
@@ -120,7 +145,7 @@ See: [maist](#maist)
 
 ### maist
 
-(adjective)
+(Adjective) 
 
 most
 
@@ -128,25 +153,28 @@ See: [mair](#mair)
 
 ### midil
 
-(noun)
+(Noun) 
 
 middle
 
+
 ### midj
 
-(noun)
+(Noun) 
 
 middle, center
 
+
 ### mikil
 
-(adjective)
+(Adjective) 
 
 much, many, big
 
+
 ### mindir
 
-(adjective)
+(Adjective) 
 
 less
 
@@ -154,7 +182,7 @@ See: [mindist](#mindist)
 
 ### mindist
 
-(adjective)
+(Adjective) 
 
 least
 
@@ -162,25 +190,28 @@ See: [mindir](#mindir)
 
 ### raud
 
-(adjective)
+(Adjective) 
 
 red
 
+
 ### stór
 
-(adjective)
+(Adjective) 
 
 big
 
+
 ### swart
 
-(adjective)
+(Adjective) 
 
 black
 
+
 ### wirsir
 
-(adjective)
+(Adjective) 
 
 worse
 
@@ -188,7 +219,7 @@ See: [üvil](#üvil)
 
 ### wirst
 
-(adjective)
+(Adjective) 
 
 worst
 
@@ -196,6 +227,8 @@ See: [üvil](#üvil)
 
 ### üvil
 
-(adjective)
+(Adjective) 
 
 bad
+
+

@@ -4,22 +4,22 @@
 
 By part of speech:
 
-- [noun](noun.md)
-- [adjective](adjective.md)
-- [conjunction](conjunction.md)
-- [preposition](preposition.md)
-- [adverb](adverb.md)
+- [Noun](Noun.md)
+- [Adjective](Adjective.md)
+- [Conjunction](Conjunction.md)
+- [Preposition](Preposition.md)
+- [Adverb](Adverb.md)
 
 By category:
 
 - [Nature](Nature.md)
 - [Animals](Animals.md)
 - [Descriptions](Descriptions.md)
+- [Food](Food.md)
 - [Time](Time.md)
 - [Body](Body.md)
+- [Plants](Plants.md)
 - [Civilisation](Civilisation.md)
 - [Movement](Movement.md)
-- [Food](Food.md)
 - [Feelings](Feelings.md)
 - [Language](Language.md)
-- [Plants](Plants.md)

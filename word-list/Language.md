@@ -2,6 +2,8 @@
 
 ### swarun
 
-(verb)
+(Verb) 
 
 to swear
+
+

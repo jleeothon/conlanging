@@ -1,5 +1,16 @@
 ## Civilisation
 
-### brüg (or brügj)
+### brügj
+
+(Noun) 
 
 bridge
+
+
+### þorp
+
+(Noun) 
+
+village
+
+

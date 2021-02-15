@@ -1,122 +1,227 @@
-## adjective
+## Adjective
 
 ### ald
 
-(adjective)
+(Adjective) 
 
 old
 
+
 ### allain (2)
 
-(adjective)
+(Adjective) 
 
 alone
 
+
 ### barisk
 
-(adjective)
+(Adjective) 
 
 purple
 
+
+### bikwém
+
+(Adjective) 
+
+comfortable
+
+
 ### bláw
 
-(adjective)
+(Adjective) 
 
 blue
 
+
 ### brún
 
-(adjective)
+(Adjective) 
 
 brown
 
+
+### bäst
+
+(Adjective) 
+
+best
+
+See: [gód](#gód)
+
+### bätir
+
+(Adjective) 
+
+better
+
+See: [gód](#gód)
+
 ### draug
 
-(adjective)
+(Adjective) 
 
 dry
 
+
+### dunkŏl
+
+(Adjective) 
+
+dark
+
+
+### dunkŏr
+
+(Adjective) 
+
+dark
+
+
+### dusk
+
+(Adjective) 
+
+dark
+
+
 ### dwás
 
-(adjective)
+(Adjective) 
 
 stupid, foolish
 
+
+### fagŏr
+
+(Adjective) 
+
+pretty, beautiful
+
+
 ### faw
 
-(adjective)
+(Adjective) 
 
 few, little
 
+
 ### fil
 
-(adjective)
+(Adjective) 
 
 much
 
+
+### frek
+
+(Adjective) 
+
+greedy; nasty
+
+
+### gail
+
+(Adjective) 
+
+abundant; lustful
+
+
 ### gelw
 
-(adjective)
+(Adjective) 
 
 yellow
 
+
 ### gelwraud
 
-(adjective)
+(Adjective) 
 
 orange
 
+
 ### graut
 
-(adjective)
+(Adjective) 
 
 big
 
+
 ### gráw
 
-(adjective)
+(Adjective) 
 
 grey
 
+
 ### grőn
 
-(adjective)
+(Adjective) 
 
 green
 
+
 ### gód
 
-(adjective) _comparative:_ **bätir**, _superlative:_ **bäst**
+(Adjective)  _comparative:_ **bätir**,  _superlative:_ **bäst**
 
 good
 
+
+### hláw
+
+(Adjective) 
+
+lukewarm
+
+
+### hwass
+
+(Adjective) 
+
+sharp
+
+
 ### hweit
 
-(adjective)
+(Adjective) 
 
 white
 
+
 ### jung
 
-(adjective)
+(Adjective) 
 
 young
 
+
 ### klain
 
-(adjective)
+(Adjective) 
 
 small
+
+
+### kwik
+
+(Adjective) 
+
+lively
+
 
 ### lütt
 
-(adjective)
+(Adjective) 
 
 small
 
+
 ### mair
 
-(adjective)
+(Adjective) 
 
 more
 
@@ -124,7 +229,7 @@ See: [maist](#maist)
 
 ### maist
 
-(adjective)
+(Adjective) 
 
 most
 
@@ -132,13 +237,14 @@ See: [mair](#mair)
 
 ### mikil
 
-(adjective)
+(Adjective) 
 
 much, many, big
 
+
 ### mindir
 
-(adjective)
+(Adjective) 
 
 less
 
@@ -146,7 +252,7 @@ See: [mindist](#mindist)
 
 ### mindist
 
-(adjective)
+(Adjective) 
 
 least
 
@@ -154,37 +260,63 @@ See: [mindir](#mindir)
 
 ### nat
 
-(adjective)
+(Adjective) 
 
 wet, moist
 
+
 ### raud
 
-(adjective)
+(Adjective) 
 
 red
 
+
+### seldun
+
+(Adjective) 
+
+rare, seldom
+
+
 ### smal
 
-(adjective)
+(Adjective) 
 
 small
 
+
 ### stór
 
-(adjective)
+(Adjective) 
 
 big
 
+
 ### swart
 
-(adjective)
+(Adjective) 
 
 black
 
+
+### waikw
+
+(Adjective) 
+
+weak, soft
+
+
+### warm
+
+(Adjective) 
+
+warm
+
+
 ### wirsir
 
-(adjective)
+(Adjective) 
 
 worse
 
@@ -192,7 +324,7 @@ See: [üvil](#üvil)
 
 ### wirst
 
-(adjective)
+(Adjective) 
 
 worst
 
@@ -200,6 +332,37 @@ See: [üvil](#üvil)
 
 ### üvil
 
-(adjective)
+(Adjective) 
 
 bad
+
+
+### þik
+
+(Adjective) 
+
+thick
+
+
+### þrinhwend
+
+(Adjective) 
+
+urgent
+
+See: [þrinhwun](#þrinhwun)
+
+### þünn
+
+(Adjective) 
+
+thin
+
+
+### swár
+
+(Adjective) 
+
+heavy
+
+

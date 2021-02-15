@@ -2,177 +2,317 @@
 
 ### aik
 
+(Noun) 
+
 oak
+
 
 ### aikwerun
 
+(Noun) 
+
 squirrel
+
+
+### air
+
+(Noun) 
+
+reverence, honour
+
 
 ### ald
 
-(adjective)
+(Adjective) 
 
 old
 
+
 ### allain (1)
 
-(adverb)
+(Adverb) 
 
 only
 
+
 ### allain (2)
 
-(adjective)
+(Adjective) 
 
 alone
 
+
 ### amsul
+
+(Noun) 
 
 blackbird
 
+
 ### and
 
-(conjunction)
+(Conjunction) 
 
 and
 
-### apul
 
-(noun)
+### apŏl
+
+(Noun) 
 
 apple
 
+
 ### arhw
 
-(noun)
+(Noun) 
 
 arrow
 
+
 ### arm (1)
 
-(noun)
+(Noun) 
 
 arm
 
+
 ### aug
 
-(noun)
+(Noun) 
 
 eye
 
+
 ### avund
+
+(Noun) 
 
 evening
 
+
 ### bain
 
-(noun)
+(Noun) 
 
 leg
 
+
 ### barisk
 
-(adjective)
+(Adjective) 
 
 purple
 
+
 ### bars
 
-(noun)
+(Noun) 
 
 perch
 
+
+### baum
+
+(Noun) 
+
+tree
+
+
 ### bevur
+
+(Noun) 
 
 beaver
 
+
 ### bij
 
-(noun)
+(Noun) 
 
 bee
 
+
+### bij
+
+(Noun) 
+
+bee
+
+
 ### bikj
+
+(Noun) 
 
 female dog
 
+
+### bikwém
+
+(Adjective) 
+
+comfortable
+
+
+### blad
+
+(Noun) 
+
+blade
+
+
 ### bláw
 
-(adjective)
+(Adjective) 
 
 blue
 
+
 ### blóm
 
-(noun)
+(Noun) 
 
 flower
 
+
+### blóm
+
+(Noun) 
+
+flower
+
+
+### bohs
+
+(Noun) 
+
+boxwood
+
+
 ### breust
 
-(noun)
+(Noun) 
 
 breast, chest
 
+
 ### bronn
+
+(Noun) 
 
 fountain, well, wellspring
 
+
+### brámulbärj
+
+(Noun) 
+
+blackberry, raspberry
+
+
 ### brún
 
-(adjective)
+(Adjective) 
 
 brown
 
-### brüg (or brügj)
+
+### brügj
+
+(Noun) 
 
 bridge
 
+
 ### bukk
+
+(Noun) 
 
 buck, male of a mammal
 
-### bár (or bér?)
+
+### bér
+
+(Noun) 
 
 bear
 
+
 ### bär
 
-(noun)
+(Noun) 
 
 berry
 
+
+### bärj
+
+(Noun) 
+
+berry
+
+
+### bärj
+
+(Noun) 
+
+berry
+
+
 ### bäst
+
+(Adjective) 
+
+best
 
 See: [gód](#gód)
 
 ### bätir
 
+(Adjective) 
+
+better
+
 See: [gód](#gód)
+
+### bók (1)
+
+(Noun) 
+
+book
+
 
 ### bók (2)
 
+(Noun) 
+
 beech
+
 
 ### bót
 
-(noun)
+(Noun) 
 
 boat
 
-### búl
+
+### bul
+
+(Noun) 
 
 bull
 
+
 ### dag
 
-(noun)
+(Noun) 
 
 day
 
+
 ### dagis
 
-(adverb)
+(Adverb) 
 
 during the day
 
@@ -180,291 +320,525 @@ See: [dag](#dag)
 
 ### damp
 
-(noun)
+(Noun) 
 
 vapour
 
-### daudiun
 
-(verb)
+### daudjun
+
+(Verb) 
 
 to kill
 
+
 ### dauþ
 
-(noun)
+(Noun) 
 
 death
 
+
 ### deur
+
+(Noun) 
 
 animal
 
+
 ### dewun
 
-(verb)
+(Verb) 
 
 to die
 
+
 ### draug
 
-(adjective)
+(Adjective) 
 
 dry
 
+
 ### draugiun
 
-(verb)
+(Verb) 
 
 to dry
 
+
+### draum
+
+(Verb) 
+
+dream
+
+
 ### drivian
 
-(noun)
+(Noun) 
 
 to drift
 
+
+### dunkŏl
+
+(Adjective) 
+
+dark
+
+
+### dunkŏr
+
+(Adjective) 
+
+dark
+
+
+### dusk
+
+(Adjective) 
+
+dark
+
+
 ### dwás
 
-(adjective)
+(Adjective) 
 
 stupid, foolish
 
+
 ### dór
 
-(noun)
+(Noun) 
 
 door
 
+
 ### dúv
+
+(Noun) 
 
 dove
 
+
+### äw
+
+(Noun) 
+
+ewe, female sheep
+
+
 ### ehw
 
+(Noun) 
+
 horse
+
 
 ### elh
 
+(Noun) 
+
 elk
+
 
 ### erþ
 
-(noun)
+(Noun) 
 
 earth
 
+
+### erþbärj
+
+(Noun) 
+
+strawberry
+
+
+### fagŏr
+
+(Adjective) 
+
+pretty, beautiful
+
+
 ### fanmorgun
 
-(noun)
+(Noun) 
 
 tomorrow, in the morning
 
+
 ### farh
+
+(Noun) 
 
 piglet, young pig
 
+
+### farn
+
+(Noun) 
+
+fern
+
+
 ### farw
 
-(noun)
+(Noun) 
 
 colour
 
+
 ### faw
 
-(adjective)
+(Adjective) 
 
 few, little
 
+
 ### feh
+
+(Noun) 
 
 cattle
 
+
 ### feuhtj
+
+(Noun) 
 
 spruce
 
+
 ### feþur
+
+(Noun) 
 
 feather
 
+
 ### fil
 
-(adjective)
+(Adjective) 
 
 much
 
+
 ### fisk
+
+(Noun) 
 
 fish
 
+
+### flaisk
+
+(Noun) 
+
+meat
+
+
+### flauh
+
+(Noun) 
+
+flea
+
+
 ### flaum
+
+(Noun) 
 
 flood
 
+
+### fleug
+
+(Noun) 
+
+fly
+
+
 ### fluþur
 
-(noun)
+(Noun) 
 
 flounder, flatfish
 
+
 ### flód
+
+(Noun) 
+
+flood, river (poetic), high tide
+
 
 ### forhun
 
-(noun)
+(Noun) 
 
 trout
 
-### fugul
+
+### frek
+
+(Adjective) 
+
+greedy; nasty
+
+
+### fugŏl
+
+(Noun) 
 
 bird
 
+
 ### fuhs
+
+(Noun) 
 
 fox
 
+
 ### fól
+
+(Noun) 
 
 foal, young horse
 
+
+### gail
+
+(Adjective) 
+
+abundant; lustful
+
+
 ### gait
+
+(Noun) 
 
 goat
 
+
 ### gans
+
+(Noun) 
 
 goose
 
+
 ### gauk
+
+(Noun) 
 
 cuckoo
 
+
 ### gelw
 
-(adjective)
+(Adjective) 
 
 yellow
 
+
 ### gelwraud
 
-(adjective)
+(Adjective) 
 
 orange
 
+
 ### gistirdag
+
+(Noun) 
 
 yesterday
 
+
 ### gistirkwild
+
+(Noun) 
 
 last evening
 
+
 ### gistirnaht
+
+(Noun) 
 
 last night
 
+
 ### graut
 
-(adjective)
+(Adjective) 
 
 big
 
+
 ### gráw
 
-(adjective)
+(Adjective) 
 
 grey
 
+
 ### grőn
 
-(adjective)
+(Adjective) 
 
 green
 
+
 ### gód
 
-(adjective) _comparative:_ **bätir**, _superlative:_ **bäst**
+(Adjective)  _comparative:_ **bätir**,  _superlative:_ **bäst**
 
 good
 
+
 ### hakud
 
-(noun)
+(Noun) 
 
 pike
 
+
 ### han
+
+(Noun) 
 
 hen, rooster, guineafowl
 
+
 ### hand
 
-(noun)
+(Noun) 
 
 hand
 
+
 ### hauvd
 
-(noun)
+(Noun) 
 
 head
 
+
 ### havur
+
+(Noun) 
 
 male goat
 
+
 ### hert
+
+(Noun) 
 
 deer, stag
 
+
 ### himil
 
-(noun)
+(Noun) 
 
 sky
 
+
 ### hind
+
+(Noun) 
 
 female deer
 
+
 ### hlahun
 
-(verb)
+(Verb) 
 
 to laugh
 
+
+### hláw
+
+(Adjective) 
+
+lukewarm
+
+
 ### holt
+
+(Noun) 
 
 wood, forest (poetic)
 
+
 ### hraig
+
+(Noun) 
 
 heron
 
+
 ### hrus
+
+(Noun) 
 
 horse
 
+
+### hrügj
+
+(Noun) 
+
+back (anatomy), spine (anatomy)
+
+
 ### hund
+
+(Noun) 
 
 dog
 
+
 ### huning
 
-(noun)
+(Noun) 
 
 honey
 
+
 ### hvis
 
-(conjunction)
+(Conjunction) 
 
 if
 
+
+### hwass
+
+(Adjective) 
+
+sharp
+
+
+### hwassiþ
+
+(Noun) 
+
+sharpness
+
+
 ### hweil at
 
-(conjunction)
+(Conjunction) 
 
 while
 
@@ -472,125 +846,240 @@ See: [hweil](#hweil)
 
 ### hweit
 
-(adjective)
+(Adjective) 
 
 white
 
+
 ### hwelp
+
+(Noun) 
 
 welp, young mammal
 
+
 ### hárm
+
+(Noun) 
 
 weasel, ermine
 
+
 ### hás
+
+(Noun) 
 
 hare
 
+
 ### hän
+
+(Noun) 
+
+female chicken
+
+
+### häwj
+
+(Noun) 
+
+hay
+
 
 ### hért
 
-(noun)
+(Noun) 
 
 heart
 
+
+### hülis
+
+(Noun) 
+
+holly
+
+
 ### igil
+
+(Noun) 
 
 hedgehog
 
+
+### imbij
+
+(Noun) 
+
+beeswarm
+
+
 ### jung
 
-(adjective)
+(Adjective) 
 
 young
 
+
 ### kalv
+
+(Noun) 
 
 calf
 
+
 ### kat
+
+(Noun) 
 
 cat
 
+
 ### keukin
 
+(Noun) 
+
 chicken
+
 
 ### klain
 
-(adjective)
+(Adjective) 
 
 small
+
 
 ### knuk
 
-(noun)
+(Noun) 
 
 bone
 
-### kokk
+
+### 
+
+(Noun) 
 
 chicken
 
+
+### korn
+
+(Noun) 
+
+seed, stone (of fruit)
+
+
+### krab
+
+(Noun) 
+
+crab
+
+
 ### krán
+
+(Noun) 
 
 crane
 
+
+### kuss
+
+(Noun) 
+
+kiss
+
+See: [küssjun](#küssjun)
+
 ### kuw
+
+(Noun) 
 
 cow
 
+
+### kwik
+
+(Adjective) 
+
+lively
+
+
 ### kwild
+
+(Noun) 
 
 evening
 
+
+### küssjun
+
+(Verb) 
+
+to kiss
+
+See: [kuss](#kuss)
+
 ### lahs
 
-(noun)
+(Noun) 
 
 salmon
 
+
 ### laiwarik
+
+(Noun) 
 
 lark
 
+
 ### lamb
+
+(Noun) 
 
 lamb
 
+
 ### leik
 
-(noun)
+(Noun) 
 
 body
 
+
 ### luhs
+
+(Noun) 
 
 lynx
 
+
 ### lúv
 
-(noun)
+(Noun) 
 
 love
 
+
 ### lütt
 
-(adjective)
+(Adjective) 
 
 small
 
-### lűvian
 
-(verb)
+### lűvjan
+
+(Verb) 
 
 to love
 
+
 ### mair
 
-(adjective)
+(Adjective) 
 
 more
 
@@ -598,61 +1087,85 @@ See: [maist](#maist)
 
 ### maist
 
-(adjective)
+(Adjective) 
 
 most
 
 See: [mair](#mair)
 
+### malm
+
+(Noun) 
+
+ore
+
+
 ### mapul
 
-(noun)
+(Noun) 
 
 maple
 
+
 ### marþur
+
+(Noun) 
 
 marten
 
+
+### meurj
+
+(Noun) 
+
+ant
+
+
 ### midil
 
-(noun)
+(Noun) 
 
 middle
 
+
 ### midirdag
 
-(noun)
+(Noun) 
 
 midday
 
+
 ### midirdagis
 
-(adverb)
+(Adverb) 
 
 at noon
 
+
 ### midirnaht
 
-(noun)
+(Noun) 
 
 midnight
 
+
 ### midj
 
-(noun)
+(Noun) 
 
 middle, center
 
+
 ### mikil
 
-(adjective)
+(Adjective) 
 
 much, many, big
 
+
 ### mindir
 
-(adjective)
+(Adjective) 
 
 less
 
@@ -660,7 +1173,7 @@ See: [mindist](#mindist)
 
 ### mindist
 
-(adjective)
+(Adjective) 
 
 least
 
@@ -668,31 +1181,35 @@ See: [mindir](#mindir)
 
 ### morgun
 
-(noun)
+(Noun) 
 
 morning
 
+
 ### morgunis
 
-(noun)
+(Noun) 
 
 in the mornings
 
+
 ### märhj
+
+(Noun) 
 
 female horse
 
-### mús
-
-(noun)
-
-mouse
 
 ### mús
 
+(Noun) 
+
 mouse
+
 
 ### naht
+
+(Noun) 
 
 night
 
@@ -700,211 +1217,346 @@ See: [nahtis](#nahtis)
 
 ### nat
 
-(adjective)
+(Adjective) 
 
 wet, moist
 
-### natiun
 
-(verb)
+### natjun
+
+(Verb) 
 
 to dampen, to moisten, to wetten
 
+
 ### nu
 
-(adverb)
+(Adverb) 
 
 now
 
+
 ### nuh
 
-(adverb)
+(Adverb) 
 
 yet
 
+
 ### of
 
-(conjunction)
+(Conjunction) 
 
 or
 
+
+### oft
+
+(Adverb) 
+
+often
+
+
 ### otur
+
+(Noun) 
 
 otter
 
+
+### plúm
+
+(Noun) 
+
+plum
+
+
 ### páw
+
+(Noun) 
 
 peafowl
 
+
 ### raih
+
+(Noun) 
+
+deer
+
 
 ### ramm
 
+(Noun) 
+
 ram, male sheep
+
 
 ### raud
 
-(adjective)
+(Adjective) 
 
 red
 
+
 ### sehun in
 
-(verb)
+(Verb) 
+
+to comprehend, to realise
+
 
 ### seldun
 
-(adverb)
+(Adverb) 
 
 seldom
 
+
+### seldun
+
+(Adjective) 
+
+rare, seldom
+
+
 ### selh
+
+(Noun) 
 
 seal
 
+
 ### skor
 
-(noun)
+(Noun) 
 
 shore
 
+
+### skrakŏw
+
+(Noun) 
+
+exaggeration, lie
+
+
+### skrimpul
+
+(Noun) 
+
+shrimp
+
+
 ### skáp
+
+(Noun) 
 
 sheep
 
+
 ### smal
 
-(adjective)
+(Adjective) 
 
 small
 
+
 ### smelt
 
-(noun)
+(Noun) 
 
 smelt
 
+
 ### spit
 
-(noun)
+(Noun) 
 
 tip (e.g of an arrow)
 
+
 ### steur
+
+(Noun) 
 
 bull
 
+
 ### stork
+
+(Noun) 
 
 stork
 
-### stägj
+
+### streidun
+
+(Verb) 
+
+to quarrel
+
+
+### stäggj
+
+(Noun) 
 
 male deer
 
+
 ### stód
+
+(Noun) 
 
 herd of horses
 
+
 ### stór
 
-(adjective)
+(Adjective) 
 
 big
 
+
 ### störj
 
-(noun)
+(Noun) 
 
 sturgeon
 
+
 ### suw
+
+(Noun) 
 
 sow, female pig
 
+
 ### swalw
+
+(Noun) 
 
 swallow
 
+
 ### swan
+
+(Noun) 
 
 swan
 
+
 ### swart
 
-(adjective)
+(Adjective) 
 
 black
 
+
 ### swarun
 
-(verb)
+(Verb) 
 
 to swear
 
+
 ### swaïgian
 
-(verb)
+(Verb) 
 
 to sway, to rock
 
+
 ### swein
+
+(Noun) 
 
 swine, pig
 
-### todag
+
+### taihŏw
+
+(Noun) 
+
+toe
+
+
+### fandag
+
+(Noun) 
 
 today
 
 See: [dag](#dag)
 
-### tokwild
+### fankwild
+
+(Noun) 
 
 this evening
 
 See: [kwild](#kwild)
 
-### tonaht
+### fannaht
+
+(Noun) 
 
 this night
 
 See: [naht](#naht)
 
-### uft
-
-(adverb)
-
-often
-
 ### wahs
 
-(noun)
+(Noun) 
 
 wax
 
+
+### waikw
+
+(Adjective) 
+
+weak, soft
+
+
 ### wald
+
+(Noun) 
 
 forest
 
+
 ### wardun
 
-(verb)
+(Verb) 
 
 to wait, to guard, to keep watch
 
+
+### warm
+
+(Adjective) 
+
+warm
+
+
 ### weipun
 
-(verb)
+(Verb) 
+
+to wipe
+
 
 ### wind
 
-(noun)
+(Noun) 
 
 wind
 
+
 ### wirsir
 
-(adjective)
+(Adjective) 
 
 worse
 
@@ -912,7 +1564,7 @@ See: [üvil](#üvil)
 
 ### wirst
 
-(adjective)
+(Adjective) 
 
 worst
 
@@ -920,39 +1572,70 @@ See: [üvil](#üvil)
 
 ### wisul
 
+(Noun) 
+
 weasel
+
 
 ### wolf
 
+(Noun) 
+
 wolf
+
+
+### worm
+
+(Noun) 
+
+worm
+
 
 ### ál
 
-(noun)
+(Noun) 
 
 eel
 
+
 ### áp
+
+(Noun) 
 
 ape
 
-### äb
 
-low tide
+### äbj
 
-### óhs
+(Noun) 
+
+low tide, ebb
+
+
+### ohs
+
+(Noun) 
 
 ox, castrated bull
 
+
+### óvut
+
+(Noun) 
+
+fruit
+
+
 ### üm
 
-(preposition)
+(preposition) 
 
 around
 
+
 ### üm at
 
-(conjunction)
+(Conjunction) 
 
 because
 
@@ -960,152 +1643,80 @@ See: [üm](#üm)
 
 ### üvil
 
-(adjective)
+(Adjective) 
 
 bad
 
+
 ### þahs
+
+(Noun) 
 
 badger
 
+
+### þik
+
+(Adjective) 
+
+thick
+
+
+### þorp
+
+(Noun) 
+
+village
+
+
 ### þorsk
 
-(noun)
+(Noun) 
 
 cod
 
+
+### þrangw
+
+(Noun) 
+
+to press
+
+See: [þrinhwun](#þrinhwun)
+
 ### þrast
+
+(Noun) 
 
 thrush (bird)
 
-### worm
 
-(noun)
+### þrinhwend
 
-worm
+(Adjective) 
 
-### bij
+urgent
 
-(noun)
+See: [þrinhwun](#þrinhwun)
 
-bee
+### þrinhwun
 
-### meurj
+(Verb) 
 
-(noun)
+to press; to be urgent
 
-ant
 
-### flauh
+### þünn
 
-(noun)
+(Adjective) 
 
-flea
+thin
 
-### fleug
 
-(noun)
+### swár
 
-fly
+(Adjective) 
 
-### imbij
+heavy
 
-(noun)
 
-beeswarm
-
-### krab
-
-(noun)
-
-crab
-
-### skrimpul
-
-(noun)
-
-shrimp
-
-### baum
-
-(noun)
-
-tree
-
-### blóm
-
-(noun)
-
-flower
-
-### bohs
-
-(noun)
-
-boxwood
-
-### farn
-
-(noun)
-
-fern
-
-### häwj
-
-(noun)
-
-hay
-
-### hülis
-
-(noun)
-
-holly
-
-### korn
-
-(noun)
-
-seed, stone (of fruit)
-
-### óvut
-
-(noun)
-
-fruit
-
-### apul
-
-(noun)
-
-apple
-
-### bärj
-
-(noun)
-
-berry
-
-### bärj
-
-(noun)
-
-berry
-
-### plúm
-
-(noun)
-
-plum
-
-### brámulbärj
-
-(noun)
-
-blackberry, raspberry
-
-### erþbärj
-
-(noun)
-
-strawberry

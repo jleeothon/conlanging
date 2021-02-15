@@ -2,48 +2,57 @@
 
 ### baum
 
-(noun)
+(Noun) 
 
 tree
 
+
 ### blóm
 
-(noun)
+(Noun) 
 
 flower
 
+
 ### bohs
 
-(noun)
+(Noun) 
 
 boxwood
 
+
 ### farn
 
-(noun)
+(Noun) 
 
 fern
 
+
 ### häwj
 
-(noun)
+(Noun) 
 
 hay
 
+
 ### hülis
 
-(noun)
+(Noun) 
 
 holly
 
+
 ### korn
 
-(noun)
+(Noun) 
 
 seed, stone (of fruit)
 
+
 ### óvut
 
-(noun)
+(Noun) 
 
 fruit
+
+

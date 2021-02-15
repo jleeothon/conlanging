@@ -2,6 +2,8 @@
 
 ### lúv
 
-(noun)
+(Noun) 
 
 love
+
+
