@@ -101,11 +101,27 @@
 - word: berun
   part: Verb
   meaning: to bear
+  template: strong-34-e
+- word: beugun
+  part: Verb
+  meaning: to bend (intransitive)
+  template: strong-2
+  see:
+    - bäugiun
+- word: beutun
+  part: Verb
+  meaning: to offer
+  template: strong-2
 - word: bevur
   part: Noun
   meaning: beaver
   tags:
     - Animals
+- word: bihlastian
+  part: Verb
+  meaning: "to annoy, to harass"
+  see:
+    - hlast
 - word: bij
   part: Noun
   meaning: bee
@@ -124,6 +140,10 @@
 - word: bikwém
   part: Adjective
   meaning: comfortable
+- word: bindun
+  part: Verb
+  meaning: to bind
+  template: strong-3-i
 - word: binins
   part: Preposition
   meaning: including
@@ -214,6 +234,11 @@
     - Descriptions
   see:
     - gód
+- word: bäugiun
+  part: Verb
+  meaning: to bend (transitive)
+  see:
+    - beugun
 - word: bér
   part: Noun
   meaning: bear
@@ -283,6 +308,14 @@
 - word: drepun
   part: Verb
   meaning: to meet
+- word: dreupun
+  part: Verb
+  meaning: to drip
+  template: strong-2
+- word: drinkun
+  part: Verb
+  meaning: to drink
+  template: strong-3-i
 - word: drivian
   part: Noun
   meaning: to drift
@@ -404,6 +437,10 @@
   meaning: much
   tags:
     - Descriptions
+- word: findun
+  part: Verb
+  meaning: to find
+  template: strong-3-i
 - word: firkwistjun
   part: Verb
   meaning: to waste
@@ -438,6 +475,7 @@
 - word: fleugun
   part: Verb
   meaning: to fly
+  template: strong-2
 - word: fluþur
   part: Noun
   meaning: "flounder, flatfish"
@@ -456,6 +494,12 @@
 - word: frek
   part: Adjective
   meaning: greedy; nasty
+- word: freusun
+  part: Verb
+  meaning: to freeze (intransitive)
+  template: strong-2
+  see:
+    - fräuriun
 - word: frijand
   part: Noun
   meaning: friend
@@ -468,6 +512,11 @@
   meaning: frost
   tags:
     - Nature
+- word: fräuriun
+  part: Verb
+  meaning: to freeze (transitive)
+  see:
+    - freusun
 - word: frów
   part: Adjective
   meaning: early
@@ -534,6 +583,10 @@
   meaning: orange
   tags:
     - Descriptions
+- word: geutun
+  part: Verb
+  meaning: to pour
+  template: strong-2
 - word: gistirdag
   part: Noun
   meaning: yesterday
@@ -563,6 +616,10 @@
 - word: greipun
   part: Verb
   meaning: to grab
+- word: grimmun
+  part: Verb
+  meaning: to be angry
+  template: strong-3-i
 - word: gráw
   part: Adjective
   meaning: grey
@@ -629,12 +686,38 @@
   meaning: female deer
   tags:
     - Animals
+- word: hladun
+  part: Verb
+  meaning: "to accumulate, to increase in something"
 - word: hlahun
   part: Verb
   meaning: to laugh
+- word: hlast
+  part: Noun
+  meaning: burden
+  see:
+    - bihlastian
+    - hlastian
+    - hlastig
+- word: hlastian
+  part: Verb
+  meaning: to burden
+  see:
+    - hlast
+- word: hlastig
+  part: Verb
+  meaning: annoying
+  see:
+    - hlast
 - word: hláw
   part: Adjective
   meaning: lukewarm
+- word: hlőd
+  part: Noun
+  meaning: load
+- word: hlődian
+  part: Verb
+  meaning: to load (transitive)
 - word: holt
   part: Noun
   meaning: "wood, forest (poetic)"
@@ -648,6 +731,10 @@
 - word: hreitun
   part: Verb
   meaning: to scratch
+- word: hringun
+  part: Verb
+  meaning: to ring
+  template: strong-3-i
 - word: hrus
   part: Noun
   meaning: horse
@@ -767,6 +854,10 @@
   meaning: chicken
   tags:
     - Animals
+- word: keusun
+  part: Verb
+  meaning: to choose
+  template: strong-2
 - word: klain
   part: Adjective
   meaning: small
@@ -817,6 +908,9 @@
 - word: kwemun
   part: Verb
   meaning: to come
+- word: kwemun an
+  part: Verb
+  meaning: arrive
 - word: kwik
   part: Adjective
   meaning: lively
@@ -885,6 +979,10 @@
 - word: leivun
   part: Verb
   meaning: to remain
+- word: leusun
+  part: Verb
+  meaning: to lose
+  template: strong-2
 - word: luhs
   part: Noun
   meaning: lynx
@@ -1095,6 +1193,10 @@
 - word: reisun
   part: Verb
   meaning: "to travel, to increase (intransitive)"
+- word: rinnun
+  part: Verb
+  meaning: to run
+  template: strong-3-i
 - word: sam
   part: Verb
   meaning: same
@@ -1118,6 +1220,20 @@
 - word: selv
   part: Noun
   meaning: self
+- word: singun
+  part: Verb
+  meaning: to sing
+  template: strong-3-i
+- word: skeinun
+  part: Verb
+  meaning: to shine
+- word: skeitun
+  part: Verb
+  meaning: "to shite, to defecate"
+- word: skeutun
+  part: Verb
+  meaning: to shoot
+  template: strong-2
 - word: skor
   part: Noun
   meaning: shore
@@ -1132,6 +1248,10 @@
   meaning: sheep
   tags:
     - Animals
+- word: sleutun
+  part: Verb
+  meaning: to close
+  template: strong-2
 - word: smal
   part: Adjective
   meaning: small
@@ -1140,6 +1260,9 @@
   meaning: smelt
   tags:
     - Animals
+- word: sneidun
+  part: Verb
+  meaning: to snow
 - word: snell
   part:
     - Adjective
@@ -1148,11 +1271,22 @@
 - word: spit
   part: Noun
   meaning: tip (e.g of an arrow)
+- word: spleitun
+  part: Verb
+  meaning: "to split, to divide"
+- word: springun
+  part: Verb
+  meaning: to spring
+  template: strong-3-i
 - word: steur
   part: Noun
   meaning: bull
   tags:
     - Animals
+- word: stinkun
+  part: Verb
+  meaning: to stink
+  template: strong-3-i
 - word: stork
   part: Noun
   meaning: stork
@@ -1161,6 +1295,12 @@
 - word: streidun
   part: Verb
   meaning: to quarrel
+- word: streidun
+  part: Verb
+  meaning: to quarrel
+- word: streikun
+  part: Verb
+  meaning: "to strike, to hit"
 - word: städ
   part: Noun
   meaning: place
@@ -1226,18 +1366,30 @@
 - word: swindun
   part: Verb
   meaning: to dwindle
+  template: strong-3-i
+- word: swingun
+  part: Verb
+  meaning: to swing (intransitive)
+  template: strong-3-i
 - word: swár
   part: Adjective
   meaning: heavy
 - word: taihŏw
   part: Noun
   meaning: toe
+- word: teuhun
+  part: Verb
+  meaning: to pull
+  template: strong-2
 - word: titirjun
   part: Verb
   meaning: "shiver, shake, vibrate"
 - word: twiskir
   part: Preposition
   meaning: "between, among"
+- word: wagun
+  part: Noun
+  meaning: "wagon, cart"
 - word: wahs
   part: Noun
   meaning: wax
@@ -1370,6 +1522,10 @@
   meaning: thrush (bird)
   tags:
     - Animals
+- word: þringun
+  part: Verb
+  meaning: to press
+  template: strong-3-i
 - word: þrinhwend
   part: Adjective
   meaning: urgent
@@ -1384,37 +1540,3 @@
 - word: þünn
   part: Adjective
   meaning: thin
-- word: kwemun an
-  part: Verb
-  template: strong-34-e
-  meaning: arrive
-- word: wagun
-  part: Noun
-  meaning: wagon, cart
-- word: hlőd
-  part: Noun
-  meaning: load
-- word: hladun
-  part: Verb
-  template: strong-6
-  meaning: to accumulate, to increase in something
-- word: hlődian
-  part: Verb
-  template: weak-jun
-  meaning: to load (transitive)
-- word: hlast
-  part: Noun
-  meaning: burden
-  see: [bihlastian, hlastian, hlastig]
-- word: bihlastian
-  part: Verb
-  meaning: to annoy, to harass
-  see: [hlast]
-- word: hlastian
-  part: Verb
-  meaning: to burden
-  see: [hlast]
-- word: hlastig
-  part: Verb
-  meaning: annoying
-  see: [hlast]
