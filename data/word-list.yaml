@@ -80,6 +80,14 @@
   meaning: leg
   tags:
     - Body
+- word: bakun
+  part: Verb
+  meaning: to bake (transitive and intransitive)
+  template: strong-6
+- word: bannun
+  part: Verb
+  meaning: to ban
+  template: strong-7c-i
 - word: barisk
   part: Adjective
   meaning: purple
@@ -95,6 +103,10 @@
   meaning: tree
   tags:
     - Plants
+- word: bautun
+  part: Verb
+  meaning: to beat
+  template: strong-7b
 - word: bedwun
   part: Verb
   meaning: to pray
@@ -150,11 +162,23 @@
 - word: blad
   part: Noun
   meaning: blade
+- word: blandun
+  part: Verb
+  meaning: to blend
+  template: strong-7c-i
 - word: blaut
   part:
     - Adjective
     - Adverb
   meaning: "bare, only, simply"
+- word: blowan
+  part: Verb
+  meaning: to flower
+  template: strong-7e
+- word: blásun
+  part: Verb
+  meaning: to blow
+  template: strong-7d
 - word: bláw
   part: Adjective
   meaning: blue
@@ -188,6 +212,10 @@
   meaning: "fountain, well, wellspring"
   tags:
     - Nature
+- word: brádun
+  part: Verb
+  meaning: to cook in a pan
+  template: strong-7d
 - word: brámulbärj
   part: Noun
   meaning: "blackberry, raspberry"
@@ -299,6 +327,10 @@
   part: Verb
   meaning: to die
   template: strong-34-e
+- word: dragun
+  part: Verb
+  meaning: to carry
+  template: strong-6
 - word: draug
   part: Adjective
   meaning: dry
@@ -373,9 +405,17 @@
 - word: erþbärj
   part: Noun
   meaning: strawberry
+- word: etun
+  part: Verb
+  meaning: to eat
+  template: strong-5
 - word: fagŏr
   part: Adjective
   meaning: "pretty, beautiful"
+- word: fallun
+  part: Verb
+  meaning: to fall
+  template: strong-7c-e
 - word: fandag
   part: Noun
   meaning: today
@@ -383,6 +423,10 @@
     - Time
   see:
     - dag
+- word: fangun
+  part: Verb
+  meaning: "to capture, to catch"
+  template: strong-7c-i
 - word: fankwild
   part: Noun
   meaning: this evening
@@ -412,6 +456,10 @@
   meaning: fern
   tags:
     - Plants
+- word: farun
+  part: Verb
+  meaning: to drive
+  template: strong-6
 - word: farw
   part: Noun
   meaning: colour
@@ -592,10 +640,18 @@
   meaning: orange
   tags:
     - Descriptions
+- word: getun
+  part: Verb
+  meaning: "to get, to receive"
+  template: strong-5
 - word: geutun
   part: Verb
   meaning: to pour
   template: strong-2
+- word: gevun
+  part: Verb
+  meaning: to give
+  template: strong-5
 - word: gistirdag
   part: Noun
   meaning: yesterday
@@ -623,6 +679,10 @@
   meaning: big
   tags:
     - Descriptions
+- word: gravun
+  part: Verb
+  meaning: to dig
+  template: strong-6
 - word: greipun
   part: Verb
   meaning: to grab
@@ -631,6 +691,10 @@
   part: Verb
   meaning: to be angry
   template: strong-3-i
+- word: growan
+  part: Verb
+  meaning: "to grow (intransitive, for plants)"
+  template: strong-7e
 - word: gráw
   part: Adjective
   meaning: grey
@@ -646,11 +710,19 @@
   meaning: good
   tags:
     - Descriptions
+- word: haitun
+  part: Verb
+  meaning: to be named
+  template: strong-7a
 - word: hakud
   part: Noun
   meaning: pike
   tags:
     - Animals
+- word: haldun
+  part: Verb
+  meaning: to hold
+  template: strong-7c-e
 - word: han
   part: Noun
   meaning: "hen, rooster, guineafowl"
@@ -667,6 +739,10 @@
 - word: handlár
   part: Noun
   meaning: merchant
+- word: hangun
+  part: Verb
+  meaning: to hang
+  template: strong-7c-i
 - word: harvist
   part: Noun
   meaning: "fall, autumn, harvest"
@@ -677,6 +753,10 @@
   meaning: head
   tags:
     - Time
+- word: hauwun
+  part: Verb
+  meaning: "to hew, to chop"
+  template: strong-7b
 - word: havur
   part: Noun
   meaning: male goat
@@ -704,6 +784,7 @@
 - word: hladun
   part: Verb
   meaning: "to accumulate, to increase in something"
+  template: strong-6
 - word: hlahun
   part: Verb
   meaning: to laugh
@@ -724,6 +805,14 @@
   meaning: annoying
   see:
     - hlast
+- word: hlaupun
+  part: Verb
+  meaning: to walk
+  template: strong-7b
+- word: hlowan
+  part: Verb
+  meaning: to shout
+  template: strong-7e
 - word: hláw
   part: Adjective
   meaning: lukewarm
@@ -751,6 +840,10 @@
   part: Verb
   meaning: to ring
   template: strong-3-i
+- word: hropan
+  part: Verb
+  meaning: to call
+  template: strong-7e
 - word: hrus
   part: Noun
   meaning: horse
@@ -1019,6 +1112,10 @@
   meaning: lynx
   tags:
     - Animals
+- word: látun
+  part: Verb
+  meaning: to let
+  template: strong-7d
 - word: lúv
   part: Noun
   meaning: love
@@ -1049,6 +1146,10 @@
 - word: malm
   part: Noun
   meaning: ore
+- word: malun
+  part: Verb
+  meaning: to grind
+  template: strong-6
 - word: mapul
   part: Noun
   meaning: maple
@@ -1067,6 +1168,10 @@
   part: Verb
   meaning: to melt (intransitive)
   template: strong-34-e
+- word: metun
+  part: Verb
+  meaning: to measure
+  template: strong-5
 - word: meurj
   part: Noun
   meaning: ant
@@ -1161,6 +1266,10 @@
   meaning: nest
   tags:
     - Animals
+- word: nesun
+  part: Verb
+  meaning: to heal (intransitive)
+  template: strong-5
 - word: niw
   part: Adjective
   meaning: new
@@ -1170,6 +1279,10 @@
 - word: nuh
   part: Adverb
   meaning: yet
+- word: näriun
+  part: Verb
+  meaning: "to heal (transitive), to take care of"
+  template: weak-jun
 - word: of
   part: Conjunction
   meaning: or
@@ -1189,6 +1302,10 @@
 - word: penning (pänning)
   part: Noun
   meaning: coin
+- word: plehun
+  part: Verb
+  meaning: to commit
+  template: strong-5
 - word: plutsleik
   part:
     - Adjective
@@ -1242,12 +1359,20 @@
   part: Verb
   meaning: to run
   template: strong-3-i
+- word: rádun
+  part: Verb
+  meaning: to advise
+  template: strong-7d
 - word: sam
   part: Verb
   meaning: same
 - word: samilun
   part: Verb
   meaning: to gather
+- word: sehun
+  part: Verb
+  meaning: to see
+  template: strong-5
 - word: sehun in
   part: Verb
   meaning: "to comprehend, to realise"
@@ -1270,6 +1395,14 @@
   part: Verb
   meaning: to sing
   template: strong-3-i
+- word: skaiþun
+  part: Verb
+  meaning: to separate
+  template: strong-7a
+- word: skakun
+  part: Verb
+  meaning: to shake
+  template: strong-6
 - word: skeinun
   part: Verb
   meaning: to shine
@@ -1288,6 +1421,10 @@
 - word: skrakŏw
   part: Noun
   meaning: "exaggeration, lie"
+- word: skraudun
+  part: Verb
+  meaning: "to cut up, to shred"
+  template: strong-7b
 - word: skrimpul
   part: Noun
   meaning: shrimp
@@ -1296,10 +1433,18 @@
   meaning: sheep
   tags:
     - Animals
+- word: slahun
+  part: Verb
+  meaning: "to strike, to hit"
+  template: strong-6
 - word: sleutun
   part: Verb
   meaning: to close
   template: strong-2
+- word: slápun
+  part: Verb
+  meaning: to sleep
+  template: strong-7d
 - word: smal
   part: Adjective
   meaning: small
@@ -1317,6 +1462,10 @@
     - Adjective
     - Adverb
   meaning: fast
+- word: spanun
+  part: Verb
+  meaning: "to stretch, to span"
+  template: strong-7c-i
 - word: spit
   part: Noun
   meaning: tip (e.g of an arrow)
@@ -1333,6 +1482,10 @@
   part: Verb
   meaning: to spring
   template: strong-3-i
+- word: stautun
+  part: Verb
+  meaning: "to push, to support"
+  template: strong-7b
 - word: stekun
   part: Verb
   meaning: to stab
@@ -1403,6 +1556,10 @@
   meaning: "sow, female pig"
   tags:
     - Animals
+- word: swaipun
+  part: Verb
+  meaning: to sweep
+  template: strong-7a
 - word: swalw
   part: Noun
   meaning: swallow
@@ -1468,9 +1625,19 @@
 - word: wahs
   part: Noun
   meaning: wax
+- word: wahsun
+  part: Verb
+  meaning: to grow
+  template: strong-6
 - word: waikw
   part: Adjective
   meaning: "weak, soft"
+- word: wakun
+  part: Verb
+  meaning: to awaken (intransitive)
+  template: strong-6
+  see:
+    - wäkiun
 - word: wald
   part: Noun
   meaning: forest
@@ -1537,6 +1704,14 @@
   meaning: worm
   tags:
     - Animals
+- word: wrekun
+  part: Verb
+  meaning: to punish
+  template: strong-5
+- word: wäkiun
+  part: Verb
+  meaning: to wake up (transitive)
+  template: weak-jun
 - word: ál
   part: Noun
   meaning: eel
@@ -1614,6 +1789,10 @@
 - word: þrinhwun
   part: Verb
   meaning: to press; to be urgent
+- word: þráwun
+  part: Verb
+  meaning: "to turn, to twist"
+  template: strong-7d
 - word: þäkjun
   part: Verb
   meaning: cover
