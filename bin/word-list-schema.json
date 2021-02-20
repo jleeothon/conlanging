@@ -17,19 +17,19 @@
 				]
 			},
 			"meaning": {
-        "type": "string"
-      },
+				"type": "string"
+			},
 			"tags": {
-        "type": "array",
-        "items": {"$ref": "#/definitions/tag"}
-      },
+				"type": "array",
+				"items": {"$ref": "#/definitions/tag"}
+			},
 			"template": {
-        "$ref": "#/definitions/template"
-      },
-      "see": {
-        "type": "array",
-        "items": {"type": "string"}
-      }
+				"$ref": "#/definitions/template"
+			},
+			"see": {
+				"type": "array",
+				"items": {"type": "string"}
+			}
 		},
 		"required": ["word", "part", "meaning"]
 	},
@@ -38,7 +38,9 @@
 			"type": "string",
 			"enum": [
 				"strong-1", "strong-2", "strong-3-i", "strong-34-e", "strong-5",
-				"strong-5-j", "strong-6", "weak-jun", "weak-wun", "weak-lun", "weak-nun"
+				"strong-5-j", "strong-6",
+				"strong-7a", "strong-7b", "strong-7c-i", "strong-7c-e", "strong-7d", "strong-7e",
+				"weak-jun", "weak-wun", "weak-lun", "weak-nun"
 			]
 		},
 		"part": {
@@ -57,17 +59,17 @@
 			"type": "string",
 			"enum": [
 				"Animals",
-        "Body",
-        "Civilisation",
-        "Descriptions",
-        "Feelings",
-        "Food",
+				"Body",
+				"Civilisation",
+				"Descriptions",
+				"Feelings",
+				"Food",
 				"Language",
-        "Movement",
-        "Nature",
-        "Numbers",
-        "Plants",
-        "Time"
+				"Movement",
+				"Nature",
+				"Numbers",
+				"Plants",
+				"Time"
 			]
 		}
 	}
