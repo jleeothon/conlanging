@@ -100,10 +100,10 @@ Strong verbs follow an ablaut pattern. There are several ablaut patterns:
 | 6a    | e                  | u               | a               |
 | 7a    | ai                 | ei              | ai              |
 | 7b    | au                 | eu              | au              |
-| 7c    | a                  | e               | a               |
-| 7d    | a                  | i               | a               |
-| 7e    | á                  | é               | á               |
-| 7f    | ó                  | é               | ó               |
+| 7c-e  | a                  | e               | a               |
+| 7c-i  | a                  | i               | a               |
+| 7d    | á                  | é               | á               |
+| 7e    | ó                  | é               | ó               |
 
 Here are some examples; each verb is provided in present and past infinitive,
 and past participle:
