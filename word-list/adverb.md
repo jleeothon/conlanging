@@ -1,52 +1,110 @@
 ## Adverb
 
+### aindagis
+
+(Adverb)
+
+one day, some day
+
 ### allain (1)
 
-(Adverb) 
+(Adverb)
 
 only
 
+### auk
+
+(Adverb)
+
+also, too (including)
+
+### blaut
+
+(Adjective,Adverb)
+
+bare, only, simply
 
 ### dagis
 
-(Adverb) 
+(Adverb)
 
 during the day
 
 See: [dag](#dag)
 
+### kwik
+
+(Adjective,Adverb)
+
+quick, lively, of short duration
+
+### lat
+
+(Adjective,Adverb)
+
+late
+
+### latir
+
+(Adjective,Adverb)
+
+later
+
+See: [lat](#lat)
+
+### latist
+
+(Adjective,Adverb)
+
+latest, last
+
+See: [lat](#lat)
+
 ### midirdagis
 
-(Adverb) 
+(Adverb)
 
 at noon
 
-
 ### nu
 
-(Adverb) 
+(Adverb)
 
 now
 
-
 ### nuh
 
-(Adverb) 
+(Adverb)
 
 yet
 
-
 ### oft
 
-(Adverb) 
+(Adverb)
 
 often
 
+### plutsleik
+
+(Adjective,Adverb)
+
+sudden, unexpected
 
 ### seldun
 
-(Adverb) 
+(Adverb)
 
 seldom
 
+### snell
 
+(Adjective,Adverb)
+
+fast
+
+### wiþir
+
+(Adverb)
+
+further, indicates continuation of action e.g. &quot;gán wiþir&quot; (to
+continue to go, to go further)

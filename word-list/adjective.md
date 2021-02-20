@@ -1,50 +1,62 @@
 ## Adjective
 
+### ainkil
+
+(Adjective)
+
+single, only one
+
+### airig (1)
+
+(Adjective)
+
+early
+
 ### ald
 
-(Adjective) 
+(Adjective)
 
 old
 
-
 ### allain (2)
 
-(Adjective) 
+(Adjective)
 
 alone
 
-
 ### barisk
 
-(Adjective) 
+(Adjective)
 
 purple
 
-
 ### bikwém
 
-(Adjective) 
+(Adjective)
 
 comfortable
 
+### blaut
+
+(Adjective,Adverb)
+
+bare, only, simply
 
 ### bláw
 
-(Adjective) 
+(Adjective)
 
 blue
 
-
 ### brún
 
-(Adjective) 
+(Adjective)
 
 brown
 
-
 ### bäst
 
-(Adjective) 
+(Adjective)
 
 best
 
@@ -52,7 +64,7 @@ See: [gód](#gód)
 
 ### bätir
 
-(Adjective) 
+(Adjective)
 
 better
 
@@ -60,168 +72,191 @@ See: [gód](#gód)
 
 ### draug
 
-(Adjective) 
+(Adjective)
 
 dry
 
+### dumb
+
+(Adjective)
+
+stupid, dumb
 
 ### dunkŏl
 
-(Adjective) 
+(Adjective)
 
 dark
-
 
 ### dunkŏr
 
-(Adjective) 
+(Adjective)
 
 dark
-
 
 ### dusk
 
-(Adjective) 
+(Adjective)
 
 dark
 
-
 ### dwás
 
-(Adjective) 
+(Adjective)
 
 stupid, foolish
 
-
 ### fagŏr
 
-(Adjective) 
+(Adjective)
 
 pretty, beautiful
 
-
 ### faw
 
-(Adjective) 
+(Adjective)
 
 few, little
 
-
 ### fil
 
-(Adjective) 
+(Adjective)
 
 much
 
-
 ### frek
 
-(Adjective) 
+(Adjective)
 
 greedy; nasty
 
+### frów
+
+(Adjective)
+
+early
 
 ### gail
 
-(Adjective) 
+(Adjective)
 
 abundant; lustful
 
-
 ### gelw
 
-(Adjective) 
+(Adjective)
 
 yellow
 
-
 ### gelwraud
 
-(Adjective) 
+(Adjective)
 
 orange
 
-
 ### graut
 
-(Adjective) 
+(Adjective)
 
 big
 
-
 ### gráw
 
-(Adjective) 
+(Adjective)
 
 grey
 
-
 ### grőn
 
-(Adjective) 
+(Adjective)
 
 green
 
-
 ### gód
 
-(Adjective)  _comparative:_ **bätir**,  _superlative:_ **bäst**
+(Adjective)
 
 good
 
-
 ### hláw
 
-(Adjective) 
+(Adjective)
 
 lukewarm
 
+### hrómig
+
+(Adjective)
+
+famous
 
 ### hwass
 
-(Adjective) 
+(Adjective)
 
 sharp
 
-
 ### hweit
 
-(Adjective) 
+(Adjective)
 
 white
 
-
 ### jung
 
-(Adjective) 
+(Adjective)
 
 young
 
-
 ### klain
 
-(Adjective) 
+(Adjective)
 
 small
-
 
 ### kwik
 
-(Adjective) 
+(Adjective)
 
 lively
 
+### kwik
+
+(Adjective,Adverb)
+
+quick, lively, of short duration
+
+### lat
+
+(Adjective,Adverb)
+
+late
+
+### latir
+
+(Adjective,Adverb)
+
+later
+
+See: [lat](#lat)
+
+### latist
+
+(Adjective,Adverb)
+
+latest, last
+
+See: [lat](#lat)
 
 ### lütt
 
-(Adjective) 
+(Adjective)
 
 small
 
-
 ### mair
 
-(Adjective) 
+(Adjective)
 
 more
 
@@ -229,7 +264,7 @@ See: [maist](#maist)
 
 ### maist
 
-(Adjective) 
+(Adjective)
 
 most
 
@@ -237,14 +272,13 @@ See: [mair](#mair)
 
 ### mikil
 
-(Adjective) 
+(Adjective)
 
 much, many, big
 
-
 ### mindir
 
-(Adjective) 
+(Adjective)
 
 less
 
@@ -252,7 +286,7 @@ See: [mindist](#mindist)
 
 ### mindist
 
-(Adjective) 
+(Adjective)
 
 least
 
@@ -260,63 +294,87 @@ See: [mindir](#mindir)
 
 ### nat
 
-(Adjective) 
+(Adjective)
 
 wet, moist
 
+### niw
+
+(Adjective)
+
+new
+
+### plutsleik
+
+(Adjective,Adverb)
+
+sudden, unexpected
 
 ### raud
 
-(Adjective) 
+(Adjective)
 
 red
 
+### reikj (2)
+
+(Adjective)
+
+rich
+
+See: [reikj (1)](#reikj "1")
 
 ### seldun
 
-(Adjective) 
+(Adjective)
 
 rare, seldom
 
-
 ### smal
 
-(Adjective) 
+(Adjective)
 
 small
 
+### snell
+
+(Adjective,Adverb)
+
+fast
 
 ### stór
 
-(Adjective) 
+(Adjective)
 
 big
 
-
 ### swart
 
-(Adjective) 
+(Adjective)
 
 black
 
+### swár
+
+(Adjective)
+
+heavy
 
 ### waikw
 
-(Adjective) 
+(Adjective)
 
 weak, soft
 
-
 ### warm
 
-(Adjective) 
+(Adjective)
 
 warm
 
-
 ### wirsir
 
-(Adjective) 
+(Adjective)
 
 worse
 
@@ -324,7 +382,7 @@ See: [üvil](#üvil)
 
 ### wirst
 
-(Adjective) 
+(Adjective)
 
 worst
 
@@ -332,21 +390,19 @@ See: [üvil](#üvil)
 
 ### üvil
 
-(Adjective) 
+(Adjective)
 
 bad
 
-
 ### þik
 
-(Adjective) 
+(Adjective)
 
 thick
 
-
 ### þrinhwend
 
-(Adjective) 
+(Adjective)
 
 urgent
 
@@ -354,15 +410,6 @@ See: [þrinhwun](#þrinhwun)
 
 ### þünn
 
-(Adjective) 
+(Adjective)
 
 thin
-
-
-### swár
-
-(Adjective) 
-
-heavy
-
-

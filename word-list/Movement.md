@@ -2,8 +2,6 @@
 
 ### drivian
 
-(Noun) 
+(Noun)
 
 to drift
-
-

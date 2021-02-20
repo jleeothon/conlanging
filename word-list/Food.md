@@ -2,22 +2,18 @@
 
 ### apŏl
 
-(Noun) 
+(Noun)
 
 apple
 
-
 ### huning
 
-(Noun) 
+(Noun)
 
 honey
 
-
 ### óvut
 
-(Noun) 
+(Noun)
 
 fruit
-
-

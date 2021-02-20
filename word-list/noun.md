@@ -2,1024 +2,283 @@
 
 ### aik
 
-(Noun) 
+(Noun)
 
 oak
 
-
 ### aikwerun
 
-(Noun) 
+(Noun)
 
 squirrel
 
+### air (2)
 
-### air
-
-(Noun) 
+(Noun)
 
 reverence, honour
 
-
 ### amsul
 
-(Noun) 
+(Noun)
 
 blackbird
 
-
 ### apŏl
 
-(Noun) 
+(Noun)
 
 apple
 
-
 ### arhw
 
-(Noun) 
+(Noun)
 
 arrow
 
-
 ### arm (1)
 
-(Noun) 
+(Noun)
 
 arm
 
-
 ### aug
 
-(Noun) 
+(Noun)
 
 eye
 
-
 ### avund
 
-(Noun) 
+(Noun)
 
 evening
-
 
 ### bain
 
-(Noun) 
+(Noun)
 
 leg
 
-
 ### bars
 
-(Noun) 
+(Noun)
 
 perch
 
-
 ### baum
 
-(Noun) 
+(Noun)
 
 tree
 
-
 ### bevur
 
-(Noun) 
+(Noun)
 
 beaver
 
-
 ### bij
 
-(Noun) 
+(Noun)
 
 bee
 
-
 ### bij
 
-(Noun) 
+(Noun)
 
 bee
-
 
 ### bikj
 
-(Noun) 
+(Noun)
 
 female dog
 
-
 ### blad
 
-(Noun) 
+(Noun)
 
 blade
 
-
 ### blóm
 
-(Noun) 
+(Noun)
 
 flower
 
-
 ### blóm
 
-(Noun) 
+(Noun)
 
 flower
-
 
 ### bohs
 
-(Noun) 
+(Noun)
 
 boxwood
 
-
 ### breust
 
-(Noun) 
+(Noun)
 
 breast, chest
 
-
 ### bronn
 
-(Noun) 
+(Noun)
 
 fountain, well, wellspring
 
-
 ### brámulbärj
 
-(Noun) 
+(Noun)
 
 blackberry, raspberry
 
-
 ### brügj
 
-(Noun) 
+(Noun)
 
 bridge
 
-
 ### bukk
 
-(Noun) 
+(Noun)
 
 buck, male of a mammal
 
+### bul
 
-### bér
+(Noun)
 
-(Noun) 
-
-bear
-
+bull
 
 ### bär
 
-(Noun) 
+(Noun)
 
 berry
-
 
 ### bärj
 
-(Noun) 
+(Noun)
 
 berry
-
 
 ### bärj
 
-(Noun) 
+(Noun)
 
 berry
 
+### bér
+
+(Noun)
+
+bear
 
 ### bók (1)
 
-(Noun) 
+(Noun)
 
 book
 
-
 ### bók (2)
 
-(Noun) 
+(Noun)
 
 beech
 
-
 ### bót
 
-(Noun) 
+(Noun)
 
 boat
 
-
-### bul
-
-(Noun) 
-
-bull
-
-
 ### dag
 
-(Noun) 
+(Noun)
 
 day
 
+### dail
+
+(Noun)
+
+part, portion, fraction
 
 ### damp
 
-(Noun) 
+(Noun)
 
 vapour
 
+### daud
+
+(Noun)
+
+dead
 
 ### dauþ
 
-(Noun) 
+(Noun)
 
 death
 
-
 ### deur
 
-(Noun) 
+(Noun)
 
 animal
 
-
 ### drivian
 
-(Noun) 
+(Noun)
 
 to drift
 
-
 ### dór
 
-(Noun) 
+(Noun)
 
 door
 
-
 ### dúv
 
-(Noun) 
+(Noun)
 
 dove
 
-
-### äw
-
-(Noun) 
-
-ewe, female sheep
-
-
 ### ehw
 
-(Noun) 
+(Noun)
 
 horse
-
 
 ### elh
 
-(Noun) 
+(Noun)
 
 elk
 
-
 ### erþ
 
-(Noun) 
+(Noun)
 
 earth
 
-
 ### erþbärj
 
-(Noun) 
+(Noun)
 
 strawberry
 
-
-### fanmorgun
-
-(Noun) 
-
-tomorrow, in the morning
-
-
-### farh
-
-(Noun) 
-
-piglet, young pig
-
-
-### farn
-
-(Noun) 
-
-fern
-
-
-### farw
-
-(Noun) 
-
-colour
-
-
-### feh
-
-(Noun) 
-
-cattle
-
-
-### feuhtj
-
-(Noun) 
-
-spruce
-
-
-### feþur
-
-(Noun) 
-
-feather
-
-
-### fisk
-
-(Noun) 
-
-fish
-
-
-### flaisk
-
-(Noun) 
-
-meat
-
-
-### flauh
-
-(Noun) 
-
-flea
-
-
-### flaum
-
-(Noun) 
-
-flood
-
-
-### fleug
-
-(Noun) 
-
-fly
-
-
-### fluþur
-
-(Noun) 
-
-flounder, flatfish
-
-
-### flód
-
-(Noun) 
-
-flood, river (poetic), high tide
-
-
-### forhun
-
-(Noun) 
-
-trout
-
-
-### fugŏl
-
-(Noun) 
-
-bird
-
-
-### fuhs
-
-(Noun) 
-
-fox
-
-
-### fól
-
-(Noun) 
-
-foal, young horse
-
-
-### gait
-
-(Noun) 
-
-goat
-
-
-### gans
-
-(Noun) 
-
-goose
-
-
-### gauk
-
-(Noun) 
-
-cuckoo
-
-
-### gistirdag
-
-(Noun) 
-
-yesterday
-
-
-### gistirkwild
-
-(Noun) 
-
-last evening
-
-
-### gistirnaht
-
-(Noun) 
-
-last night
-
-
-### hakud
-
-(Noun) 
-
-pike
-
-
-### han
-
-(Noun) 
-
-hen, rooster, guineafowl
-
-
-### hand
-
-(Noun) 
-
-hand
-
-
-### hauvd
-
-(Noun) 
-
-head
-
-
-### havur
-
-(Noun) 
-
-male goat
-
-
-### hert
-
-(Noun) 
-
-deer, stag
-
-
-### himil
-
-(Noun) 
-
-sky
-
-
-### hind
-
-(Noun) 
-
-female deer
-
-
-### holt
-
-(Noun) 
-
-wood, forest (poetic)
-
-
-### hraig
-
-(Noun) 
-
-heron
-
-
-### hrus
-
-(Noun) 
-
-horse
-
-
-### hrügj
-
-(Noun) 
-
-back (anatomy), spine (anatomy)
-
-
-### hund
-
-(Noun) 
-
-dog
-
-
-### huning
-
-(Noun) 
-
-honey
-
-
-### hwassiþ
-
-(Noun) 
-
-sharpness
-
-
-### hwelp
-
-(Noun) 
-
-welp, young mammal
-
-
-### hárm
-
-(Noun) 
-
-weasel, ermine
-
-
-### hás
-
-(Noun) 
-
-hare
-
-
-### hän
-
-(Noun) 
-
-female chicken
-
-
-### häwj
-
-(Noun) 
-
-hay
-
-
-### hért
-
-(Noun) 
-
-heart
-
-
-### hülis
-
-(Noun) 
-
-holly
-
-
-### igil
-
-(Noun) 
-
-hedgehog
-
-
-### imbij
-
-(Noun) 
-
-beeswarm
-
-
-### kalv
-
-(Noun) 
-
-calf
-
-
-### kat
-
-(Noun) 
-
-cat
-
-
-### keukin
-
-(Noun) 
-
-chicken
-
-
-### knuk
-
-(Noun) 
-
-bone
-
-
-### 
-
-(Noun) 
-
-chicken
-
-
-### korn
-
-(Noun) 
-
-seed, stone (of fruit)
-
-
-### krab
-
-(Noun) 
-
-crab
-
-
-### krán
-
-(Noun) 
-
-crane
-
-
-### kuss
-
-(Noun) 
-
-kiss
-
-See: [küssjun](#küssjun)
-
-### kuw
-
-(Noun) 
-
-cow
-
-
-### kwild
-
-(Noun) 
-
-evening
-
-
-### lahs
-
-(Noun) 
-
-salmon
-
-
-### laiwarik
-
-(Noun) 
-
-lark
-
-
-### lamb
-
-(Noun) 
-
-lamb
-
-
-### leik
-
-(Noun) 
-
-body
-
-
-### luhs
-
-(Noun) 
-
-lynx
-
-
-### lúv
-
-(Noun) 
-
-love
-
-
-### malm
-
-(Noun) 
-
-ore
-
-
-### mapul
-
-(Noun) 
-
-maple
-
-
-### marþur
-
-(Noun) 
-
-marten
-
-
-### meurj
-
-(Noun) 
-
-ant
-
-
-### midil
-
-(Noun) 
-
-middle
-
-
-### midirdag
-
-(Noun) 
-
-midday
-
-
-### midirnaht
-
-(Noun) 
-
-midnight
-
-
-### midj
-
-(Noun) 
-
-middle, center
-
-
-### morgun
-
-(Noun) 
-
-morning
-
-
-### morgunis
-
-(Noun) 
-
-in the mornings
-
-
-### märhj
-
-(Noun) 
-
-female horse
-
-
-### mús
-
-(Noun) 
-
-mouse
-
-
-### naht
-
-(Noun) 
-
-night
-
-See: [nahtis](#nahtis)
-
-### otur
-
-(Noun) 
-
-otter
-
-
-### plúm
-
-(Noun) 
-
-plum
-
-
-### páw
-
-(Noun) 
-
-peafowl
-
-
-### raih
-
-(Noun) 
-
-deer
-
-
-### ramm
-
-(Noun) 
-
-ram, male sheep
-
-
-### selh
-
-(Noun) 
-
-seal
-
-
-### skor
-
-(Noun) 
-
-shore
-
-
-### skrakŏw
-
-(Noun) 
-
-exaggeration, lie
-
-
-### skrimpul
-
-(Noun) 
-
-shrimp
-
-
-### skáp
-
-(Noun) 
-
-sheep
-
-
-### smelt
-
-(Noun) 
-
-smelt
-
-
-### spit
-
-(Noun) 
-
-tip (e.g of an arrow)
-
-
-### steur
-
-(Noun) 
-
-bull
-
-
-### stork
-
-(Noun) 
-
-stork
-
-
-### stäggj
-
-(Noun) 
-
-male deer
-
-
-### stód
-
-(Noun) 
-
-herd of horses
-
-
-### störj
-
-(Noun) 
-
-sturgeon
-
-
-### suw
-
-(Noun) 
-
-sow, female pig
-
-
-### swalw
-
-(Noun) 
-
-swallow
-
-
-### swan
-
-(Noun) 
-
-swan
-
-
-### swein
-
-(Noun) 
-
-swine, pig
-
-
-### taihŏw
-
-(Noun) 
-
-toe
-
-
 ### fandag
 
-(Noun) 
+(Noun)
 
 today
 
@@ -1027,121 +286,867 @@ See: [dag](#dag)
 
 ### fankwild
 
-(Noun) 
+(Noun)
 
 this evening
 
 See: [kwild](#kwild)
 
+### fanmorgun
+
+(Noun)
+
+tomorrow, in the morning
+
 ### fannaht
 
-(Noun) 
+(Noun)
 
 this night
 
 See: [naht](#naht)
 
-### wahs
+### farh
 
-(Noun) 
+(Noun)
 
-wax
+piglet, young pig
 
+### farn
 
-### wald
+(Noun)
 
-(Noun) 
+fern
 
-forest
+### farw
 
+(Noun)
 
-### wind
+colour
 
-(Noun) 
+### feh
 
-wind
+(Noun)
 
+cattle
 
-### wisul
+### feuhtj
 
-(Noun) 
+(Noun)
 
-weasel
+spruce
 
+### feþur
 
-### wolf
+(Noun)
 
-(Noun) 
+feather
 
-wolf
+### fijand
 
+(Noun)
 
-### worm
+enemy, foe
 
-(Noun) 
+### fisk
 
-worm
+(Noun)
 
+fish
 
-### ál
+### flaisk
 
-(Noun) 
+(Noun)
 
-eel
+meat
 
+### flauh
 
-### áp
+(Noun)
 
-(Noun) 
+flea
 
-ape
+### flaum
 
+(Noun)
 
-### äbj
+flood
 
-(Noun) 
+### fleug
 
-low tide, ebb
+(Noun)
 
+fly
+
+### fluþur
+
+(Noun)
+
+flounder, flatfish
+
+### flód
+
+(Noun)
+
+flood, river (poetic), high tide
+
+### forhun
+
+(Noun)
+
+trout
+
+### frijand
+
+(Noun)
+
+friend
+
+### frusk
+
+(Noun)
+
+frog
+
+### frust
+
+(Noun)
+
+frost
+
+### fugŏl
+
+(Noun)
+
+bird
+
+### fuhs
+
+(Noun)
+
+fox
+
+### fól
+
+(Noun)
+
+foal, young horse
+
+### gait
+
+(Noun)
+
+goat
+
+### gans
+
+(Noun)
+
+goose
+
+### gauk
+
+(Noun)
+
+cuckoo
+
+### geld
+
+(Noun)
+
+money
+
+See: [geldun](#geldun)
+
+### gistirdag
+
+(Noun)
+
+yesterday
+
+### gistirkwild
+
+(Noun)
+
+last evening
+
+### gistirnaht
+
+(Noun)
+
+last night
+
+### gold
+
+(Noun)
+
+gold
+
+### hakud
+
+(Noun)
+
+pike
+
+### han
+
+(Noun)
+
+hen, rooster, guineafowl
+
+### hand
+
+(Noun)
+
+hand
+
+### handlár
+
+(Noun)
+
+merchant
+
+### harvist
+
+(Noun)
+
+fall, autumn, harvest
+
+### hauvd
+
+(Noun)
+
+head
+
+### havur
+
+(Noun)
+
+male goat
+
+### hert
+
+(Noun)
+
+deer, stag
+
+### himil
+
+(Noun)
+
+sky
+
+### hind
+
+(Noun)
+
+female deer
+
+### hlast
+
+(Noun)
+
+burden
+
+See: [bihlastian](#bihlastian), [hlastian](#hlastian), [hlastig](#hlastig)
+
+### hlőd
+
+(Noun)
+
+load
+
+### holt
+
+(Noun)
+
+wood, forest (poetic)
+
+### hraig
+
+(Noun)
+
+heron
+
+### hrus
+
+(Noun)
+
+horse
+
+### hróm
+
+(Noun)
+
+fame
+
+### hrügj
+
+(Noun)
+
+back (anatomy), spine (anatomy)
+
+### hund
+
+(Noun)
+
+dog
+
+### hungŏr
+
+(Noun)
+
+hunger
+
+### huning
+
+(Noun)
+
+honey
+
+### hwassiþ
+
+(Noun)
+
+sharpness
+
+### hwelp
+
+(Noun)
+
+welp, young mammal
+
+### hárm
+
+(Noun)
+
+weasel, ermine
+
+### hás
+
+(Noun)
+
+hare
+
+### hän
+
+(Noun)
+
+female chicken
+
+### häwj
+
+(Noun)
+
+hay
+
+### hért
+
+(Noun)
+
+heart
+
+### hülis
+
+(Noun)
+
+holly
+
+### igil
+
+(Noun)
+
+hedgehog
+
+### imbij
+
+(Noun)
+
+beeswarm
+
+### kalv
+
+(Noun)
+
+calf
+
+### kat
+
+(Noun)
+
+cat
+
+### keukin
+
+(Noun)
+
+chicken
+
+### klaiþ
+
+(Noun)
+
+cloth, clothing, clothes
+
+### knew
+
+(Noun)
+
+knee
+
+### knuk
+
+(Noun)
+
+bone
+
+### korn
+
+(Noun)
+
+seed, stone (of fruit)
+
+### krab
+
+(Noun)
+
+crab
+
+### krán
+
+(Noun)
+
+crane
+
+### kuss
+
+(Noun)
+
+kiss
+
+See: [küssjun](#küssjun)
+
+### kuw
+
+(Noun)
+
+cow
+
+### kwild
+
+(Noun)
+
+evening
+
+### lahs
+
+(Noun)
+
+salmon
+
+### laiwarik
+
+(Noun)
+
+lark
+
+### lamb
+
+(Noun)
+
+lamb
+
+### leik
+
+(Noun)
+
+body
+
+### luhs
+
+(Noun)
+
+lynx
+
+### lúv
+
+(Noun)
+
+love
+
+### malm
+
+(Noun)
+
+ore
+
+### mapul
+
+(Noun)
+
+maple
+
+### marþur
+
+(Noun)
+
+marten
+
+### meurj
+
+(Noun)
+
+ant
+
+### midil
+
+(Noun)
+
+middle
+
+### midirdag
+
+(Noun)
+
+midday
+
+### midirnaht
+
+(Noun)
+
+midnight
+
+### midj
+
+(Noun)
+
+middle, center
+
+### morgun
+
+(Noun)
+
+morning
+
+### morgunis
+
+(Noun)
+
+in the mornings
+
+### märhj
+
+(Noun)
+
+female horse
+
+### mús
+
+(Noun)
+
+mouse
+
+### naht
+
+(Noun)
+
+night
+
+See: [nahtis](#nahtis)
+
+### naud
+
+(Noun)
+
+need, emergency
+
+### nest
+
+(Noun)
+
+nest
 
 ### ohs
 
-(Noun) 
+(Noun)
 
 ox, castrated bull
 
+### otur
+
+(Noun)
+
+otter
+
+### penning (pänning)
+
+(Noun)
+
+coin
+
+### plúm
+
+(Noun)
+
+plum
+
+### páw
+
+(Noun)
+
+peafowl
+
+### raih
+
+(Noun)
+
+deer
+
+### ramm
+
+(Noun)
+
+ram, male sheep
+
+### reikj (1)
+
+(Noun)
+
+kingdom, government, realm, authority
+
+See: [reikj (2)](#reikj "2")
+
+### selh
+
+(Noun)
+
+seal
+
+### selv
+
+(Noun)
+
+self
+
+### skor
+
+(Noun)
+
+shore
+
+### skrakŏw
+
+(Noun)
+
+exaggeration, lie
+
+### skrimpul
+
+(Noun)
+
+shrimp
+
+### skáp
+
+(Noun)
+
+sheep
+
+### smelt
+
+(Noun)
+
+smelt
+
+### spit
+
+(Noun)
+
+tip (e.g of an arrow)
+
+### steur
+
+(Noun)
+
+bull
+
+### stork
+
+(Noun)
+
+stork
+
+### städ
+
+(Noun)
+
+place
+
+### stäggj
+
+(Noun)
+
+male deer
+
+### stód
+
+(Noun)
+
+herd of horses
+
+### störj
+
+(Noun)
+
+sturgeon
+
+### sumŭr
+
+(Noun)
+
+summer
+
+### suw
+
+(Noun)
+
+sow, female pig
+
+### swalw
+
+(Noun)
+
+swallow
+
+### swalw
+
+(Noun)
+
+swallow (bird)
+
+### swan
+
+(Noun)
+
+swan
+
+### swein
+
+(Noun)
+
+swine, pig
+
+### taihŏw
+
+(Noun)
+
+toe
+
+### wagun
+
+(Noun)
+
+wagon, cart
+
+### wahs
+
+(Noun)
+
+wax
+
+### wald
+
+(Noun)
+
+forest
+
+### warr
+
+(Noun)
+
+spring
+
+### wind
+
+(Noun)
+
+wind
+
+### wintŭr
+
+(Noun)
+
+winter
+
+### wisul
+
+(Noun)
+
+weasel
+
+### wolf
+
+(Noun)
+
+wolf
+
+### worm
+
+(Noun)
+
+worm
+
+### ál
+
+(Noun)
+
+eel
+
+### áp
+
+(Noun)
+
+ape
+
+### äbj
+
+(Noun)
+
+low tide, ebb
+
+### äw
+
+(Noun)
+
+ewe, female sheep
 
 ### óvut
 
-(Noun) 
+(Noun)
 
 fruit
 
-
 ### þahs
 
-(Noun) 
+(Noun)
 
 badger
 
-
 ### þorp
 
-(Noun) 
+(Noun)
 
 village
 
-
 ### þorsk
 
-(Noun) 
+(Noun)
 
 cod
 
-
 ### þrangw
 
-(Noun) 
+(Noun)
 
 to press
 
@@ -1149,8 +1154,6 @@ See: [þrinhwun](#þrinhwun)
 
 ### þrast
 
-(Noun) 
+(Noun)
 
 thrush (bird)
-
-

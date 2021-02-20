@@ -2,35 +2,31 @@
 
 ### ald
 
-(Adjective) 
+(Adjective)
 
 old
 
-
 ### barisk
 
-(Adjective) 
+(Adjective)
 
 purple
 
-
 ### bláw
 
-(Adjective) 
+(Adjective)
 
 blue
 
-
 ### brún
 
-(Adjective) 
+(Adjective)
 
 brown
 
-
 ### bäst
 
-(Adjective) 
+(Adjective)
 
 best
 
@@ -38,7 +34,7 @@ See: [gód](#gód)
 
 ### bätir
 
-(Adjective) 
+(Adjective)
 
 better
 
@@ -46,98 +42,85 @@ See: [gód](#gód)
 
 ### farw
 
-(Noun) 
+(Noun)
 
 colour
 
-
 ### faw
 
-(Adjective) 
+(Adjective)
 
 few, little
 
-
 ### fil
 
-(Adjective) 
+(Adjective)
 
 much
 
-
 ### gelw
 
-(Adjective) 
+(Adjective)
 
 yellow
 
-
 ### gelwraud
 
-(Adjective) 
+(Adjective)
 
 orange
 
-
 ### graut
 
-(Adjective) 
+(Adjective)
 
 big
 
-
 ### gráw
 
-(Adjective) 
+(Adjective)
 
 grey
 
-
 ### grőn
 
-(Adjective) 
+(Adjective)
 
 green
 
-
 ### gód
 
-(Adjective)  _comparative:_ **bätir**,  _superlative:_ **bäst**
+(Adjective)
 
 good
 
-
 ### hweit
 
-(Adjective) 
+(Adjective)
 
 white
 
-
 ### jung
 
-(Adjective) 
+(Adjective)
 
 young
 
-
 ### klain
 
-(Adjective) 
+(Adjective)
 
 small
-
 
 ### lütt
 
-(Adjective) 
+(Adjective)
 
 small
 
-
 ### mair
 
-(Adjective) 
+(Adjective)
 
 more
 
@@ -145,7 +128,7 @@ See: [maist](#maist)
 
 ### maist
 
-(Adjective) 
+(Adjective)
 
 most
 
@@ -153,28 +136,25 @@ See: [mair](#mair)
 
 ### midil
 
-(Noun) 
+(Noun)
 
 middle
 
-
 ### midj
 
-(Noun) 
+(Noun)
 
 middle, center
 
-
 ### mikil
 
-(Adjective) 
+(Adjective)
 
 much, many, big
 
-
 ### mindir
 
-(Adjective) 
+(Adjective)
 
 less
 
@@ -182,7 +162,7 @@ See: [mindist](#mindist)
 
 ### mindist
 
-(Adjective) 
+(Adjective)
 
 least
 
@@ -190,28 +170,25 @@ See: [mindir](#mindir)
 
 ### raud
 
-(Adjective) 
+(Adjective)
 
 red
 
-
 ### stór
 
-(Adjective) 
+(Adjective)
 
 big
 
-
 ### swart
 
-(Adjective) 
+(Adjective)
 
 black
 
-
 ### wirsir
 
-(Adjective) 
+(Adjective)
 
 worse
 
@@ -219,7 +196,7 @@ See: [üvil](#üvil)
 
 ### wirst
 
-(Adjective) 
+(Adjective)
 
 worst
 
@@ -227,8 +204,6 @@ See: [üvil](#üvil)
 
 ### üvil
 
-(Adjective) 
+(Adjective)
 
 bad
-
-

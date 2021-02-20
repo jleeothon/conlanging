@@ -2,15 +2,12 @@
 
 ### brügj
 
-(Noun) 
+(Noun)
 
 bridge
 
-
 ### þorp
 
-(Noun) 
+(Noun)
 
 village
-
-

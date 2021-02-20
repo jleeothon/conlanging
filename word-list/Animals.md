@@ -2,568 +2,486 @@
 
 ### aikwerun
 
-(Noun) 
+(Noun)
 
 squirrel
 
-
 ### amsul
 
-(Noun) 
+(Noun)
 
 blackbird
 
-
 ### bars
 
-(Noun) 
+(Noun)
 
 perch
 
-
 ### bevur
 
-(Noun) 
+(Noun)
 
 beaver
 
-
 ### bij
 
-(Noun) 
+(Noun)
 
 bee
 
-
 ### bij
 
-(Noun) 
+(Noun)
 
 bee
-
 
 ### bikj
 
-(Noun) 
+(Noun)
 
 female dog
 
-
 ### bukk
 
-(Noun) 
+(Noun)
 
 buck, male of a mammal
 
+### bul
+
+(Noun)
+
+bull
 
 ### bér
 
-(Noun) 
+(Noun)
 
 bear
 
-
-### bul
-
-(Noun) 
-
-bull
-
-
 ### deur
 
-(Noun) 
+(Noun)
 
 animal
 
-
 ### dúv
 
-(Noun) 
+(Noun)
 
 dove
 
-
-### äw
-
-(Noun) 
-
-ewe, female sheep
-
-
 ### ehw
 
-(Noun) 
+(Noun)
 
 horse
-
 
 ### elh
 
-(Noun) 
+(Noun)
 
 elk
 
-
 ### farh
 
-(Noun) 
+(Noun)
 
 piglet, young pig
 
-
 ### feh
 
-(Noun) 
+(Noun)
 
 cattle
 
-
 ### feþur
 
-(Noun) 
+(Noun)
 
 feather
 
-
 ### fisk
 
-(Noun) 
+(Noun)
 
 fish
 
-
 ### flauh
 
-(Noun) 
+(Noun)
 
 flea
 
-
 ### fleug
 
-(Noun) 
+(Noun)
 
 fly
 
-
 ### fluþur
 
-(Noun) 
+(Noun)
 
 flounder, flatfish
 
-
 ### forhun
 
-(Noun) 
+(Noun)
 
 trout
 
-
 ### fugŏl
 
-(Noun) 
+(Noun)
 
 bird
 
-
 ### fuhs
 
-(Noun) 
+(Noun)
 
 fox
 
-
 ### fól
 
-(Noun) 
+(Noun)
 
 foal, young horse
 
-
 ### gait
 
-(Noun) 
+(Noun)
 
 goat
 
-
 ### gans
 
-(Noun) 
+(Noun)
 
 goose
 
-
 ### gauk
 
-(Noun) 
+(Noun)
 
 cuckoo
 
-
 ### hakud
 
-(Noun) 
+(Noun)
 
 pike
 
-
 ### han
 
-(Noun) 
+(Noun)
 
 hen, rooster, guineafowl
 
-
 ### havur
 
-(Noun) 
+(Noun)
 
 male goat
 
-
 ### hert
 
-(Noun) 
+(Noun)
 
 deer, stag
 
-
 ### hind
 
-(Noun) 
+(Noun)
 
 female deer
 
-
 ### hraig
 
-(Noun) 
+(Noun)
 
 heron
 
-
 ### hrus
 
-(Noun) 
+(Noun)
 
 horse
 
-
 ### hund
 
-(Noun) 
+(Noun)
 
 dog
 
-
 ### huning
 
-(Noun) 
+(Noun)
 
 honey
 
-
 ### hwelp
 
-(Noun) 
+(Noun)
 
 welp, young mammal
 
-
 ### hárm
 
-(Noun) 
+(Noun)
 
 weasel, ermine
 
-
 ### hás
 
-(Noun) 
+(Noun)
 
 hare
 
-
 ### hän
 
-(Noun) 
+(Noun)
 
 female chicken
 
-
 ### igil
 
-(Noun) 
+(Noun)
 
 hedgehog
 
-
 ### imbij
 
-(Noun) 
+(Noun)
 
 beeswarm
 
-
 ### kalv
 
-(Noun) 
+(Noun)
 
 calf
 
-
 ### kat
 
-(Noun) 
+(Noun)
 
 cat
 
-
 ### keukin
 
-(Noun) 
+(Noun)
 
 chicken
-
-
-### 
-
-(Noun) 
-
-chicken
-
 
 ### krán
 
-(Noun) 
+(Noun)
 
 crane
 
-
 ### kuw
 
-(Noun) 
+(Noun)
 
 cow
 
-
 ### lahs
 
-(Noun) 
+(Noun)
 
 salmon
 
-
 ### laiwarik
 
-(Noun) 
+(Noun)
 
 lark
 
-
 ### lamb
 
-(Noun) 
+(Noun)
 
 lamb
 
-
 ### luhs
 
-(Noun) 
+(Noun)
 
 lynx
 
-
 ### marþur
 
-(Noun) 
+(Noun)
 
 marten
 
-
 ### meurj
 
-(Noun) 
+(Noun)
 
 ant
 
-
 ### märhj
 
-(Noun) 
+(Noun)
 
 female horse
 
-
 ### mús
 
-(Noun) 
+(Noun)
 
 mouse
 
+### nest
 
-### otur
+(Noun)
 
-(Noun) 
-
-otter
-
-
-### páw
-
-(Noun) 
-
-peafowl
-
-
-### raih
-
-(Noun) 
-
-deer
-
-
-### ramm
-
-(Noun) 
-
-ram, male sheep
-
-
-### selh
-
-(Noun) 
-
-seal
-
-
-### skáp
-
-(Noun) 
-
-sheep
-
-
-### smelt
-
-(Noun) 
-
-smelt
-
-
-### steur
-
-(Noun) 
-
-bull
-
-
-### stork
-
-(Noun) 
-
-stork
-
-
-### stäggj
-
-(Noun) 
-
-male deer
-
-
-### stód
-
-(Noun) 
-
-herd of horses
-
-
-### suw
-
-(Noun) 
-
-sow, female pig
-
-
-### swalw
-
-(Noun) 
-
-swallow
-
-
-### swan
-
-(Noun) 
-
-swan
-
-
-### swein
-
-(Noun) 
-
-swine, pig
-
-
-### wisul
-
-(Noun) 
-
-weasel
-
-
-### wolf
-
-(Noun) 
-
-wolf
-
-
-### worm
-
-(Noun) 
-
-worm
-
-
-### ál
-
-(Noun) 
-
-eel
-
-
-### áp
-
-(Noun) 
-
-ape
-
+nest
 
 ### ohs
 
-(Noun) 
+(Noun)
 
 ox, castrated bull
 
+### otur
+
+(Noun)
+
+otter
+
+### páw
+
+(Noun)
+
+peafowl
+
+### raih
+
+(Noun)
+
+deer
+
+### ramm
+
+(Noun)
+
+ram, male sheep
+
+### selh
+
+(Noun)
+
+seal
+
+### skáp
+
+(Noun)
+
+sheep
+
+### smelt
+
+(Noun)
+
+smelt
+
+### steur
+
+(Noun)
+
+bull
+
+### stork
+
+(Noun)
+
+stork
+
+### stäggj
+
+(Noun)
+
+male deer
+
+### stód
+
+(Noun)
+
+herd of horses
+
+### suw
+
+(Noun)
+
+sow, female pig
+
+### swalw
+
+(Noun)
+
+swallow
+
+### swan
+
+(Noun)
+
+swan
+
+### swein
+
+(Noun)
+
+swine, pig
+
+### wisul
+
+(Noun)
+
+weasel
+
+### wolf
+
+(Noun)
+
+wolf
+
+### worm
+
+(Noun)
+
+worm
+
+### ál
+
+(Noun)
+
+eel
+
+### áp
+
+(Noun)
+
+ape
+
+### äw
+
+(Noun)
+
+ewe, female sheep
 
 ### þahs
 
-(Noun) 
+(Noun)
 
 badger
 
-
 ### þrast
 
-(Noun) 
+(Noun)
 
 thrush (bird)
-
-

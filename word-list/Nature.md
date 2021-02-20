@@ -2,99 +2,90 @@
 
 ### aik
 
-(Noun) 
+(Noun)
 
 oak
 
-
 ### apŏl
 
-(Noun) 
+(Noun)
 
 apple
 
-
 ### bronn
 
-(Noun) 
+(Noun)
 
 fountain, well, wellspring
 
-
 ### bär
 
-(Noun) 
+(Noun)
 
 berry
 
-
 ### bók (2)
 
-(Noun) 
+(Noun)
 
 beech
 
-
 ### erþ
 
-(Noun) 
+(Noun)
 
 earth
 
-
 ### feuhtj
 
-(Noun) 
+(Noun)
 
 spruce
 
-
 ### flaum
 
-(Noun) 
+(Noun)
 
 flood
 
-
 ### flód
 
-(Noun) 
+(Noun)
 
 flood, river (poetic), high tide
 
+### frust
+
+(Noun)
+
+frost
 
 ### himil
 
-(Noun) 
+(Noun)
 
 sky
 
-
 ### holt
 
-(Noun) 
+(Noun)
 
 wood, forest (poetic)
 
-
 ### mapul
 
-(Noun) 
+(Noun)
 
 maple
 
-
 ### wald
 
-(Noun) 
+(Noun)
 
 forest
 
-
 ### äbj
 
-(Noun) 
+(Noun)
 
 low tide, ebb
-
-
