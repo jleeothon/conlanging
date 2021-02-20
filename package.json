@@ -7,8 +7,8 @@
     "theudisk": "render.js"
   },
   "scripts": {
-    "prettier-js": "npx prettier --write --parser markdown --prose-wrap always",
-    "lint-yaml": "ls data/word-list.yaml | xargs -n 300 npx prettier --write --parser yaml --prose-wrap always",
+    "prettier-js": "prettier --write --parser markdown --prose-wrap always",
+    "lint-yaml": "ls data/word-list.yaml | xargs -n 300 prettier --write --parser yaml --prose-wrap always",
     "lint-js": "xo --fix",
     "lint-md-input": "ls *.md texts/*.md grammar/*.md | xargs -n 300 npm run prettier-js",
     "lint-md-output": "ls word-list/*.md | xargs -n 300 npm run prettier-js",
@@ -35,6 +35,7 @@
     "filter-obj": "^2.0.1",
     "handlebars": "^4.7.6",
     "js-yaml": "^3.14.1",
+    "prettier": "^2.2.1",
     "string-natural-compare": "^3.0.1",
     "xo": "^0.36.1"
   },
