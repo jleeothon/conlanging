@@ -26,7 +26,7 @@ letters that only appear in unsuffixed lexemes.
 | _pl, tl, kl, fl, hl, sl, bl, gl, wl_                          | _pŏl, tŏl, kŏl, fŏl, hŏl, sŏl, bŏl, gŏl, wŏl_                 |
 | _pr, tr, kr, fr, þr, hr, br, gr, wr_                          | _pŏr, kŏr, fŏr, þŏl, hŏr, sŏr, bŏr, gŏr, wŏr_                 |
 | _lw, rw_                                                      | _lw_ (/lg/), _rw_ (/rg/)                                      |
-| _lj, rj_                                                      | _lj_ (/lʲ/), _rj_ (/rʲ ~ rʃ/)                                 |
+| _lj, rj_                                                      | _lj_ (/lʲ/), _rj_ (/rʲ ~ rʒ/)                                 |
 | _tw, dw, kw, gw, þw, hw, sw_                                  | _tŏw, dŏw, kŏw, gŏw, þŏw, hŏw, sŏw_                           |
 | _pj, tj, kj, fj, þj , hj, zj, bj, dj, gj, mj, nj, lj, rj, wj_ | _pj, tj, kj, fj, þj , hj, rj, bj, dj, gj, mj, nj, lj, rj, wj_ |
 | _zd_                                                          | _rd_                                                          |

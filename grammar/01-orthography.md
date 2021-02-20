@@ -7,7 +7,7 @@
 | i          | /i/           |
 | u (ŭ)      | /u/           |
 | e          | /e/           |
-| o (ŏ)      | /o/           |
+| o          | /o/           |
 | a          | /a/           |
 | ü          | /ʏ/           |
 | ö          | /œ/           |
@@ -24,9 +24,8 @@
 | äi         | /ai/          |
 | äu         | /au/          |
 
-The vowels ⟨ŭ⟩ and ⟨ŏ⟩ are used in dictionaries and grammars to represent full
-vowels in vowel-zero alternations. They can be spelled without a diacritic
-otherwise.
+The vowel ⟨ŭ⟩ is used in dictionaries and grammars to represent full vowels in
+vowel-zero alternations.
 
 ### Consonants
 
@@ -52,7 +51,7 @@ In the following table:
 | þ     | /θ/                    | þw        | /θw/, /θ/ (F)  | þj        | /θj/, /θ/ (F)      |
 | s     | /s/                    | sw        | /sw/           | sj        | /ɕ/                |
 | h     | /h/, /x~ç/             | hw        | /hw/, /g/ (F)  | hj        | /ç/                |
-| l     | /l/                    | lw        | /lw/, /lg/ (F) | lj        | /ʎ/               |
+| l     | /l/                    | lw        | /lw/, /lg/ (F) | lj        | /ʎ/                |
 | r     | /r/                    | rw        | /rw/, /rg/ (F) | rj        | /ʑ/                |
 | m     | /m/                    |           |                |           |                    |
 | n     | /n/, /ŋ/ before velars |           |                |           |                    |
@@ -92,7 +91,8 @@ when they occur at the word-end; they may be trigger tone change.
 
 #### Consonant alternations
 
-W- and j-variants' realisations alternate when they appear at the end of a stem and a word is suffixed or unsuffixed.
+W- and j-variants' realisations alternate when they appear at the end of a stem
+and a word is suffixed or unsuffixed.
 
 For example:
 

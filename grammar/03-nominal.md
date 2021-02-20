@@ -6,7 +6,7 @@ The **weak noun paradigm** requires a determiner; it is:
 
 |           | Singular | Plural |
 | --------- | -------- | ------ |
-| Nom.-Acc. | -        | -an    |
+| Nom.-Acc. | - / -a   | -an    |
 | Gen.      | -as      | -ar    |
 
 The **weak adjective** ending for all cases and numbers is: _-a_.
@@ -16,12 +16,15 @@ is dropped; it is:
 
 |      | Singular  | Plural |
 | ---- | --------- | ------ |
-| Nom. | -         | -ai    |
+| Nom. | - / -a    | -ai    |
 | Acc. | -am / -at | -an    |
 | Gen. | -an       | -ar    |
 
-There is an animacy distinction in the accusative singular: _-am_ for animate
-and _-at_ for inanimate.
+Regular nouns take no ending in the nominative singular; nouns from adjectives
+(with an implicit noun e.g. the red one, the tall one) have the _-a_ ending.
+
+There is an animacy distinction in the strong accusative singular: _-am_ for
+animate and _-at_ for inanimate.
 
 The **strong adjective paradigm** is used in literary contexts and when the noun
 is omitted:
@@ -51,15 +54,14 @@ nonpersonhood, or animate and inanimate, according to context and preference.
 
 |      | 1st sg. | 2nd sg. | 3rd sg. masc. | 3rd sg epi. | 3rd fem. | 1st pl. | 2nd pl. | 3rd pl. | 3rd refl. |
 | ---- | ------- | ------- | ------------- | ----------- | -------- | ------- | ------- | ------- | --------- |
-| Nom. | ik      | þu      | he            | þe          | se       | we      | je      | þej     |           |
-| Acc. | mih     | þih     | hem           | þem/þet     | sem      | uns     | jew     | þejem   | sih       |
-| Gen. | mein    | þein    | hes           | þes         | ses      | unser   | jewer   | þejer   | sein      |
+| Nom. | ik      | þu      | he            | þe          | se       | we      | je      | þai     |           |
+| Acc. | mih     | þih     | hem           | þem/þet     | sem      | uns     | jew     | þain    | sih       |
+| Gen. | mein    | þein    | hes           | þes         | ses      | unser   | jewer   | þair    | sein      |
 
-There is an optional animacy distinction in the 3rd person epicine singular
-pronoun.
+There is an animacy distinction in the 3rd person epicine singular pronoun.
 
-As with nouns, genitive/possesive pronouns follow the noun they modify. They do
-not inflect. For example: _þe kat mien_ "my cat".
+As with nouns, genitive pronouns / possessives follow the noun they modify. They
+do not inflect. For example: _þe kat mien_ "my cat".
 
 ### Determiners
 
@@ -89,18 +91,19 @@ distinction is not important.
 
 The indefinite article and indefinite pronouns:
 
-|      | Singular | Plural |
-| ---- | -------- | ------ |
-| Nom. | **ain**  | ainai  |
-| Acc. | **ait**  | ainan  |
-| Gen. | ainas    | ainar  |
+|      | Singular      | Plural |
+| ---- | ------------- | ------ |
+| Nom. | **ain**       | ainai  |
+| Acc. | **aim / ait** | ainan  |
+| Gen. | ainas         | ainar  |
 
 Should I distinguish the definite article and pronoun❓ The article could look
 like an unstressed form: _en, et, enas, enai, einan, enar_.
 
 ### Quantifiers
 
-The negative quantifier, both article and pronoun, works like Low Saxon "keen":
+The negative quantifier, both article and pronoun, works like HG "kein" or
+NL/NDS "keen":
 
 |      | Singular | Plural |
 | ---- | -------- | ------ |
@@ -116,10 +119,8 @@ The universal quantifier, both article and pronoun:
 | Acc. | **alt**  | allan  |
 | Gen. | allas    | allar  |
 
-🤷‍♂️ _alt_ doesn't look convincing.
-
 Other adjectives may act as quantifiers if they are strongly inflected e.g.
-_sum_ "some", without a formal or literary register.
+_sum_ "some", without a literary register.
 
 ### Demonstratives
 
@@ -159,16 +160,16 @@ Pro-person:
 
 |      | Question | Exist. sg. | 〃 pl. | Negative  |
 | ---- | -------- | ---------- | ------ | --------- |
-| Nom. | **hwe**  | **jüms**   | jümai  | **nüms**  |
-| Acc. | **hwem** | **jüm**    | jüman  | **nüm**   |
-| Gen. | **hwes** | jümas      | jümar  | **nümas** |
+| Nom. | **hwe**  | **hains**  | hainai | **naims** |
+| Acc. | **hwem** | **hain**   | hainan | **naim**  |
+| Gen. | **hwes** | hainas     | hainar | naimas    |
 
 Pro-thing:
 
 |      | Question | Exist. sg. | 〃 pl. | Negative |
 | ---- | -------- | ---------- | ------ | -------- |
-| Nom. | **hwa**  | **ihs**    | ihsai  | nihs     |
-| Acc. | **hwat** | **iht**    | ihsan  | niht     |
+| Nom. | **hwa**  | **ihs**    | ihsai  | **nihs** |
+| Acc. | **hwat** | **iht**    | ihsan  | **niht** |
 | Gen. | **hwas** | ihsas      | ihsar  | nihsas   |
 
 ### Pro-adverbs

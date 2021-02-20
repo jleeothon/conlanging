@@ -115,7 +115,7 @@ and past participle:
 - _geban-gaban-gebun_ (to give),
 - _sitan-satan-situn_ (to sit),
 - _faran-furan-farun_ (to travel),
-- \_swaran-swuran-swaran (to swear),
+- _swaran-swuran-swaran_ (to swear),
 - _haitan-heitan-haitun_ (to be named),
 - _hlaupan-hleupan-hlaupun_ (to walk),
 - _fallan-fellan-fallun_ (to fall),
@@ -128,7 +128,12 @@ persons. Without context, the first person is assumed.
 
 ### Weak verbs
 
-These verbs are usually derived from adjectives and nouns.
+Regular weak verbs can be distinguished according to their endings:
+
+- weak verbs ending in _-jun_,
+- weak verbs ending in _-wun_,
+- weak verbs ending in _-ilun_,
+- weak verbs ending in _-nun_.
 
 ### Rückumlaut verbs
 
@@ -162,28 +167,28 @@ For an exhaustive list, see [verbs-irregular.md](./4-5-verbs-irregular.md).
 Verb periphrasis can be done by putting two verbs together, head-last. Some
 important constructions:
 
-_a-skolan_ + infinitive: marks the future tense. E.g. _skal a-milki þen kuw_ "I
+_skolun_ + infinitive: marks the future tense. E.g. _skal milkun þen kuw_ "I
 shall milk the cow".
 
-_a-skolde_ + infinitive: marks the irrealis mood, or used as an infinitive for
+_skoldun_ + infinitive: marks the irrealis mood, or used as an infinitive for
 future-in-past. E.g. _skolde a-wesen reik, als skolke a-häben ait reika fadar_
 "I would be rich if I had a rich father".
 
-_a-gá_ + infinitive: marks future tense, informal; also just marks that the
-subject physically goes to do something. E.g. _gás a-ete butans_ "you're going
-to eat ourside".
+_gán_ + infinitive: marks future tense, informal; also just marks that the
+subject physically goes to do something. E.g. _gás etun butans_ "you're going to
+eat ourside".
 
-_a-wese_ + past participle: marks a passive voice. E.g. _irs ew hwan hrópen te
+_wesun_ + past participle: marks a passive voice. E.g. _irs ew hwan hrópen te
 hwiel þes málteidas!_ "you're always called during meals".
 
-_a-werþe_ + past participle: marks passive voice, and marks a change in state.
-Can be analysed as _a-werþe_ + adjective.
+_werþun_ + past participle: marks passive voice, and marks a change in state.
+Can be analysed as _werþun_ + adjective.
 
-_a-bleibe_ + past participle: marks passive voice, and marks a continuation of
-state. Can be analysed as _a-werþe_ + adjective.
+_bleibun_ + past participle: marks passive voice, and marks a continuation of
+state. Can be analysed as _bleibun_ + adjective.
 
 More constructions are of course possible, and their meanings may sometimes be
-obvious e.g. _a-wolle_ + infinitive.
+obvious e.g. _wollun_ + infinitive.
 
 ⚠️ Not sure if to make things head first or head last.
 
