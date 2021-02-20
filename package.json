@@ -7,13 +7,18 @@
     "theudisk": "render.js"
   },
   "scripts": {
+    "prettier-js": "npx prettier --write --parser markdown --prose-wrap always",
+    "lint-yaml": "ls data/word-list.yaml | xargs -n 300 npx prettier --write --parser yaml --prose-wrap always",
     "lint-js": "xo --fix",
-    "lint-md": "bin/lint-md.fish",
-    "lint-yaml": "bin/lint-yaml.fish",
+    "lint-md-input": "ls *.md texts/*.md grammar/*.md | xargs -n 300 npm run prettier-js",
+    "lint-md-output": "ls word-list/*.md | xargs -n 300 npm run prettier-js",
+    "verify-word-list": "bin/verify-word-list.js < data/word-list.yaml",
     "sort-word-list": "bin/sort-word-list.fish",
-    "lint": "npm run lint-js && npm run lint-md && npm run lint-yaml",
-    "render": "bin/render.js < data/word-list.yaml",
-     "test": "npm run render && npm run sort-word-list && npm run lint"
+    "pre-lint": "npm run lint-yaml && npm run lint-md-input && npm run lint-js",
+    "post-lint": "npm run lint-yaml && npm run lint-md-output",
+    "lint": "npm run pre-lint && npm run post-lint",
+    "render": "rm word-list/*; bin/render.js < data/word-list.yaml",
+    "test": "npm run pre-lint && npm run verify-word-list && npm run sort-word-list && npm run render && npm run post-lint"
   },
   "repository": {
     "type": "git",
@@ -26,6 +31,8 @@
   },
   "homepage": "https://github.com/jleeothon/conlang1#readme",
   "dependencies": {
+    "ajv": "^7.0.3",
+    "filter-obj": "^2.0.1",
     "handlebars": "^4.7.6",
     "js-yaml": "^3.14.1",
     "string-natural-compare": "^3.0.1",

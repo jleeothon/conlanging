@@ -1,0 +1,53 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "/conlang1/word-list",
+	"title": "Word list schema for Conlang1",
+	"type": "array",
+	"items": {
+		"type": "object",
+		"properties": {
+			"word": {"type": "string"},
+			"part": {
+				"anyOf": [
+					{"$ref": "#/definitions/part"},
+					{
+						"type": "array",
+						"items": {"$ref": "#/definitions/part"}
+					}
+				]
+			},
+			"meaning": {"type": "string"},
+			"tags": {"type": "array", "items": {"$ref": "#/definitions/tag"}},
+			"template": {"$ref": "#/definitions/template"}
+		},
+		"required": ["word", "part", "meaning"]
+	},
+	"definitions": {
+		"template": {
+			"type": "string",
+			"enum": [
+				"strong-1", "strong-2", "strong-3-i", "strong-34-e", "strong-5",
+				"strong-5-j", "strong-6", "weak-jun", "weak-wun", "weak-lun", "weak-nun"
+			]
+		},
+		"part": {
+			"type": "string",
+			"enum": [
+				"Adjective",
+				"Adverb",
+				"Conjunction",
+				"Determiner",
+				"Noun",
+				"Preposition",
+				"Verb"
+			]
+		},
+		"tag": {
+			"type": "string",
+			"enum": [
+				"Animals", "Body", "Civilisation", "Descriptions", "Feelings", "Food",
+				"Language", "Nature", "Numbers", "Plants", "Time", "Movement"
+			]
+		}
+	}
+}

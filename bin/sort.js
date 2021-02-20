@@ -1,14 +1,32 @@
 #!/usr/bin/env node
 
+'use strict';
+
 const {readFileSync} = require('fs');
+
 const yaml = require('js-yaml');
+const filterObject = require('filter-obj');
 
 const {compare} = require('./alphabet');
 
-const data = yaml.safeLoad(readFileSync(0, 'utf-8'));
+const rawData = yaml.safeLoad(readFileSync(0, 'utf-8'));
+
+// Recreates an entry so that fields are in the correct order
+function recreateEntry({word, part, meaning, synonyms, tags, see}) {
+	return filterObject({word, part, meaning, synonyms, tags, see}, (k, v) => v);
+}
+
+const data = rawData.map(entry => recreateEntry(entry));
 
 // Sort entries themselves
-data.sort((a, b) => compare(a.word, b.word));
+data.sort((a, b) => {
+	try {
+		return compare(a.word, b.word);
+	} catch (error) {
+		console.error('Could not compare', a, b);
+		throw error;
+	}
+});
 
 data.forEach(entry => {
 	let key = 'other';
