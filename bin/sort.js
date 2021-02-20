@@ -12,8 +12,8 @@ const {compare} = require('./alphabet');
 const rawData = yaml.safeLoad(readFileSync(0, 'utf-8'));
 
 // Recreates an entry so that fields are in the correct order
-function recreateEntry({word, part, meaning, synonyms, tags, see}) {
-	return filterObject({word, part, meaning, synonyms, tags, see}, (k, v) => v);
+function recreateEntry({word, part, meaning, synonyms, tags, template, see, ...rest}) {
+	return filterObject({word, part, meaning, synonyms, tags, template, see, ...rest}, (k, v) => v);
 }
 
 const data = rawData.map(entry => recreateEntry(entry));
