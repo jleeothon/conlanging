@@ -16,9 +16,20 @@
 					}
 				]
 			},
-			"meaning": {"type": "string"},
-			"tags": {"type": "array", "items": {"$ref": "#/definitions/tag"}},
-			"template": {"$ref": "#/definitions/template"}
+			"meaning": {
+        "type": "string"
+      },
+			"tags": {
+        "type": "array",
+        "items": {"$ref": "#/definitions/tag"}
+      },
+			"template": {
+        "$ref": "#/definitions/template"
+      },
+      "see": {
+        "type": "array",
+        "items": {"type": "string"}
+      }
 		},
 		"required": ["word", "part", "meaning"]
 	},
@@ -45,8 +56,18 @@
 		"tag": {
 			"type": "string",
 			"enum": [
-				"Animals", "Body", "Civilisation", "Descriptions", "Feelings", "Food",
-				"Language", "Nature", "Numbers", "Plants", "Time", "Movement"
+				"Animals",
+        "Body",
+        "Civilisation",
+        "Descriptions",
+        "Feelings",
+        "Food",
+				"Language",
+        "Movement",
+        "Nature",
+        "Numbers",
+        "Plants",
+        "Time"
 			]
 		}
 	}

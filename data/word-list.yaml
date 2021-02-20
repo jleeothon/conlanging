@@ -1,15 +1,33 @@
 - word: aik
+  part: Noun
   meaning: oak
-  categories:
+  tags:
     - Nature
 - word: aikwerun
+  part: Noun
   meaning: squirrel
-  categories:
+  tags:
     - Animals
+- word: aindagis
+  part: Adverb
+  meaning: "one day, some day"
+- word: ainkil
+  part: Adjective
+  meaning: "single, only one"
+  tags:
+    - Numbers
+- word: air (2)
+  part: Noun
+  meaning: "reverence, honour"
+- word: airig (1)
+  part: Adjective
+  meaning: early
+  tags:
+    - Time
 - word: ald
   part: Adjective
   meaning: old
-  categories:
+  tags:
     - Descriptions
 - word: allain (1)
   part: Adverb
@@ -18,16 +36,17 @@
   part: Adjective
   meaning: alone
 - word: amsul
+  part: Noun
   meaning: blackbird
-  categories:
+  tags:
     - Animals
 - word: and
-  part: conjunction
+  part: Conjunction
   meaning: and
 - word: apŏl
   part: Noun
   meaning: apple
-  categories:
+  tags:
     - Nature
     - Food
 - word: arhw
@@ -36,61 +55,90 @@
 - word: arm (1)
   part: Noun
   meaning: arm
-  categories:
+  tags:
     - Time
 - word: aug
   part: Noun
   meaning: eye
-  categories:
+  tags:
     - Time
+- word: auk
+  part: Adverb
+  meaning: "also, too (including)"
+- word: avir
+  part: Conjunction
+  meaning: "but, however"
 - word: avund
+  part: Noun
   meaning: evening
   synonyms:
     - kwild
-  categories:
+  tags:
     - Time
 - word: bain
   part: Noun
   meaning: leg
-  categories:
+  tags:
     - Body
 - word: barisk
   part: Adjective
   meaning: purple
-  categories:
+  tags:
     - Descriptions
 - word: bars
   part: Noun
   meaning: perch
-  categories:
+  tags:
     - Animals
 - word: baum
   part: Noun
   meaning: tree
-  categories:
+  tags:
     - Plants
+- word: bedwun
+  part: Verb
+  meaning: to pray
+- word: berun
+  part: Verb
+  meaning: to bear
 - word: bevur
+  part: Noun
   meaning: beaver
-  categories:
+  tags:
     - Animals
 - word: bij
   part: Noun
   meaning: bee
-  categories:
+  tags:
     - Animals
 - word: bij
   part: Noun
   meaning: bee
-  categories:
+  tags:
     - Animals
 - word: bikj
+  part: Noun
   meaning: female dog
-  categories:
+  tags:
     - Animals
+- word: bikwém
+  part: Adjective
+  meaning: comfortable
+- word: binins
+  part: Preposition
+  meaning: including
+- word: blad
+  part: Noun
+  meaning: blade
+- word: blaut
+  part:
+    - Adjective
+    - Adverb
+  meaning: "bare, only, simply"
 - word: bláw
   part: Adjective
   meaning: blue
-  categories:
+  tags:
     - Descriptions
 - word: blóm
   part: Noun
@@ -98,95 +146,114 @@
 - word: blóm
   part: Noun
   meaning: flower
-  categories:
+  tags:
     - Plants
 - word: bohs
   part: Noun
   meaning: boxwood
-  categories:
+  tags:
     - Plants
 - word: breust
   part: Noun
   meaning: "breast, chest"
-  categories:
+  tags:
     - Body
 - word: bronn
+  part: Noun
   meaning: "fountain, well, wellspring"
-  categories:
+  tags:
     - Nature
 - word: brámulbärj
   part: Noun
-  notSure: true
   meaning: "blackberry, raspberry"
 - word: brún
   part: Adjective
   meaning: brown
-  categories:
+  tags:
     - Descriptions
-- word: brügj (or brügj)
+- word: brügj
+  part: Noun
   meaning: bridge
-  categories:
+  tags:
     - Civilisation
 - word: bukk
+  part: Noun
   meaning: "buck, male of a mammal"
-  categories:
+  tags:
     - Animals
-- word: bár (or bér?)
-  meaning: bear
-  categories:
+- word: bul
+  part: Noun
+  meaning: bull
+  tags:
     - Animals
+- word: butins
+  part: Preposition
+  meaning: except
 - word: bär
   part: Noun
   meaning: berry
-  categories:
+  tags:
     - Nature
 - word: bärj
   part: Noun
-  from: PWG bari < PGe bazja
-  notSure: true
   meaning: berry
 - word: bärj
   part: Noun
-  from: PWG bari < PGe bazja
-  notSure: true
   meaning: berry
 - word: bäst
+  part: Adjective
+  meaning: best
+  tags:
+    - Descriptions
   see:
     - gód
-  categories:
-    - Descriptions
 - word: bätir
+  part: Adjective
+  meaning: better
+  tags:
+    - Descriptions
   see:
     - gód
-  categories:
-    - Descriptions
+- word: bér
+  part: Noun
+  meaning: bear
+  tags:
+    - Animals
+- word: bók (1)
+  part: Noun
+  meaning: book
 - word: bók (2)
+  part: Noun
   meaning: beech
-  categories:
+  tags:
     - Nature
 - word: bót
   part: Noun
   meaning: boat
-  notes: Taken from Middle English instead of PGe.
-- word: búl
-  meaning: bull
-  categories:
-    - Animals
 - word: dag
   part: Noun
   meaning: day
-  categories:
+  tags:
     - Time
 - word: dagis
   part: Adverb
   meaning: during the day
+  tags:
+    - Time
   see:
     - dag
-  categories:
-    - Time
+- word: dail
+  part: Noun
+  meaning: "part, portion, fraction"
+- word: dailjun
+  part: Verb
+  meaning: to divide
 - word: damp
   part: Noun
   meaning: vapour
+- word: daud
+  part: Noun
+  meaning: dead
 - word: daudjun
   part: Verb
   meaning: to kill
@@ -194,12 +261,12 @@
   part: Noun
   meaning: death
 - word: deur
+  part: Noun
   meaning: animal
-  categories:
+  tags:
     - Animals
 - word: dewun
   part: Verb
-  class: strong-5
   meaning: to die
 - word: draug
   part: Adjective
@@ -207,278 +274,457 @@
 - word: draugiun
   part: Verb
   meaning: to dry
-  notes: what to do with i-umlaut?
+- word: draum
+  part: Verb
+  meaning: dream
+- word: dreivan
+  part: Verb
+  meaning: to drive
+- word: drepun
+  part: Verb
+  meaning: to meet
 - word: drivian
   part: Noun
   meaning: to drift
-  categories:
+  tags:
     - Movement
+- word: dumb
+  part: Adjective
+  meaning: "stupid, dumb"
+- word: dunkŏl
+  part: Adjective
+  meaning: dark
+- word: dunkŏr
+  part: Adjective
+  meaning: dark
+- word: dusk
+  part: Adjective
+  meaning: dark
+- word: dweinun
+  part: Verb
+  meaning: to disappear
 - word: dwás
   part: Adjective
   meaning: "stupid, foolish"
 - word: dór
   part: Noun
   meaning: door
-  notes: the lengthened vowel does not appear in PG or PWG.
 - word: dúv
+  part: Noun
   meaning: dove
-  categories:
+  tags:
     - Animals
 - word: ehw
+  part: Noun
   meaning: horse
-  categories:
+  tags:
     - Animals
 - word: elh
+  part: Noun
   meaning: elk
-  categories:
+  tags:
     - Animals
 - word: erþ
   part: Noun
   meaning: earth
-  categories:
+  tags:
     - Nature
 - word: erþbärj
   part: Noun
-  notSure: true
   meaning: strawberry
+- word: fagŏr
+  part: Adjective
+  meaning: "pretty, beautiful"
+- word: fandag
+  part: Noun
+  meaning: today
+  tags:
+    - Time
+  see:
+    - dag
+- word: fankwild
+  part: Noun
+  meaning: this evening
+  tags:
+    - Time
+  see:
+    - kwild
 - word: fanmorgun
   part: Noun
   meaning: "tomorrow, in the morning"
-  categories:
+  tags:
     - Time
+- word: fannaht
+  part: Noun
+  meaning: this night
+  tags:
+    - Time
+  see:
+    - naht
 - word: farh
+  part: Noun
   meaning: "piglet, young pig"
-  categories:
+  tags:
     - Animals
 - word: farn
   part: Noun
   meaning: fern
-  categories:
+  tags:
     - Plants
 - word: farw
   part: Noun
   meaning: colour
-  categories:
+  tags:
     - Descriptions
 - word: faw
   part: Adjective
   meaning: "few, little"
-  categories:
+  tags:
     - Descriptions
 - word: feh
+  part: Noun
   meaning: cattle
-  categories:
+  tags:
     - Animals
 - word: feuhtj
+  part: Noun
   meaning: spruce
-  categories:
+  tags:
     - Nature
 - word: feþur
+  part: Noun
   meaning: feather
-  categories:
+  tags:
     - Animals
+- word: fijand
+  part: Noun
+  meaning: "enemy, foe"
 - word: fil
   part: Adjective
   meaning: much
-  categories:
+  tags:
     - Descriptions
+- word: firkwistjun
+  part: Verb
+  meaning: to waste
+- word: firswändjun
+  part: Verb
+  meaning: to make disappear
+  see:
+    - förswindun
 - word: fisk
+  part: Noun
   meaning: fish
-  categories:
+  tags:
     - Animals
+- word: flaisk
+  part: Noun
+  meaning: meat
 - word: flauh
   part: Noun
   meaning: flea
-  categories:
+  tags:
     - Animals
 - word: flaum
+  part: Noun
   meaning: flood
-  categories:
+  tags:
     - Nature
 - word: fleug
   part: Noun
   meaning: fly
-  categories:
+  tags:
     - Animals
+- word: fleugun
+  part: Verb
+  meaning: to fly
 - word: fluþur
   part: Noun
   meaning: "flounder, flatfish"
-  categories:
+  tags:
     - Animals
 - word: flód
-  meanign: "flood, river (poetic), high tide"
-  categories:
+  part: Noun
+  meaning: "flood, river (poetic), high tide"
+  tags:
     - Nature
 - word: forhun
   part: Noun
   meaning: trout
-  categories:
+  tags:
     - Animals
-- word: fugul
+- word: frek
+  part: Adjective
+  meaning: greedy; nasty
+- word: frijand
+  part: Noun
+  meaning: friend
+- word: frusk
+  part: Noun
+  meaning: frog
+- word: frust
+  part:
+    - Noun
+  meaning: frost
+  tags:
+    - Nature
+- word: frów
+  part: Adjective
+  meaning: early
+  tags:
+    - Time
+- word: fugŏl
+  part: Noun
   meaning: bird
-  categories:
+  tags:
     - Animals
 - word: fuhs
+  part: Noun
   meaning: fox
-  categories:
+  tags:
     - Animals
 - word: fól
+  part: Noun
   meaning: "foal, young horse"
-  categories:
+  tags:
     - Animals
+- word: fördailiun
+  part: Verb
+  meaning: to distribute
+- word: förswindun
+  part: Verb
+  meaning: to disappear
+  see:
+    - swindun
+- word: gail
+  part: Adjective
+  meaning: abundant; lustful
 - word: gait
+  part: Noun
   meaning: goat
-  categories:
+  tags:
     - Animals
 - word: gans
+  part: Noun
   meaning: goose
-  categories:
+  tags:
     - Animals
 - word: gauk
+  part: Noun
   meaning: cuckoo
-  categories:
+  tags:
     - Animals
+- word: geld
+  part: Noun
+  meaning: money
+  see:
+    - geldun
+- word: geldun
+  part: Verb
+  meaning: to be valid
+  see:
+    - geld
 - word: gelw
   part: Adjective
   meaning: yellow
-  categories:
+  tags:
     - Descriptions
 - word: gelwraud
   part: Adjective
   meaning: orange
-  categories:
+  tags:
     - Descriptions
 - word: gistirdag
+  part: Noun
   meaning: yesterday
-  categories:
+  tags:
     - Time
 - word: gistirkwild
+  part: Noun
   meaning: last evening
-  categories:
+  tags:
     - Time
 - word: gistirnaht
+  part: Noun
   meaning: last night
-  categories:
+  tags:
     - Time
+- word: gleidun
+  part: Verb
+  meaning: to glide
+- word: gold
+  part: Noun
+  meaning: gold
 - word: graut
   part: Adjective
   meaning: big
-  categories:
+  tags:
     - Descriptions
+- word: greipun
+  part: Verb
+  meaning: to grab
 - word: gráw
   part: Adjective
   meaning: grey
-  categories:
+  tags:
     - Descriptions
 - word: grőn
   part: Adjective
   meaning: green
-  categories:
+  tags:
     - Descriptions
 - word: gód
   part: Adjective
   meaning: good
-  inflections:
-    comparative: bätir
-    superlative: bäst
-  irregular: true
-  categories:
+  tags:
     - Descriptions
 - word: hakud
   part: Noun
   meaning: pike
-  categories:
+  tags:
     - Animals
 - word: han
+  part: Noun
   meaning: "hen, rooster, guineafowl"
-  categories:
+  tags:
     - Animals
 - word: hand
   part: Noun
   meaning: hand
-  categories:
+  tags:
     - Body
+- word: handlun
+  part: Verb
+  meaning: "to handle, to negotiate, to do business with sth."
+- word: handlár
+  part: Noun
+  meaning: merchant
+- word: harvist
+  part: Noun
+  meaning: "fall, autumn, harvest"
+  tags:
+    - Time
 - word: hauvd
   part: Noun
   meaning: head
-  categories:
+  tags:
     - Time
 - word: havur
+  part: Noun
   meaning: male goat
-  categories:
+  tags:
     - Animals
 - word: hert
+  part: Noun
   meaning: "deer, stag"
-  categories:
+  tags:
     - Animals
 - word: himil
   part: Noun
   meaning: sky
-  categories:
+  tags:
     - Nature
 - word: hind
+  part: Noun
   meaning: female deer
-  categories:
+  tags:
     - Animals
 - word: hlahun
   part: Verb
   meaning: to laugh
+- word: hláw
+  part: Adjective
+  meaning: lukewarm
 - word: holt
+  part: Noun
   meaning: "wood, forest (poetic)"
-  categories:
+  tags:
     - Nature
 - word: hraig
+  part: Noun
   meaning: heron
-  categories:
+  tags:
     - Animals
+- word: hreitun
+  part: Verb
+  meaning: to scratch
 - word: hrus
+  part: Noun
   meaning: horse
-  categories:
+  tags:
     - Animals
+- word: hróm
+  part: Noun
+  meaning: fame
+- word: hrómig
+  part: Adjective
+  meaning: famous
+- word: hrügj
+  part: Noun
+  meaning: "back (anatomy), spine (anatomy)"
 - word: hund
+  part: Noun
   meaning: dog
-  categories:
+  tags:
     - Animals
+- word: hungrwun
+  part: Verb
+  meaning: to hunger
+- word: hungŏr
+  part: Noun
+  meaning: hunger
 - word: huning
   part: Noun
   meaning: honey
-  categories:
+  tags:
     - Animals
     - Food
 - word: hvis
-  part: conjunction
+  part: Conjunction
   meaning: if
+- word: hwass
+  part: Adjective
+  meaning: sharp
+- word: hwassiþ
+  part: Noun
+  meaning: sharpness
 - word: hweil at
-  part: conjunction
+  part: Conjunction
   meaning: while
   see:
     - hweil
+- word: hweinun
+  part: Verb
+  meaning: to cry
 - word: hweit
   part: Adjective
   meaning: white
-  categories:
+  tags:
     - Descriptions
 - word: hwelp
+  part: Noun
   meaning: "welp, young mammal"
-  categories:
+  tags:
     - Animals
 - word: hárm
+  part: Noun
   meaning: "weasel, ermine"
-  categories:
+  tags:
     - Animals
 - word: hás
+  part: Noun
   meaning: hare
-  categories:
+  tags:
     - Animals
 - word: hän
-  meanign: female chicken
-  categories:
+  part: Noun
+  meaning: female chicken
+  tags:
     - Animals
 - word: häwj
   part: Noun
   meaning: hay
-  notSure: true
-  categories:
+  tags:
     - Plants
 - word: hért
   part: Noun
@@ -486,101 +732,173 @@
 - word: hülis
   part: Noun
   meaning: holly
-  categories:
+  tags:
     - Plants
 - word: igil
+  part: Noun
   meaning: hedgehog
-  categories:
+  tags:
     - Animals
 - word: imbij
   part: Noun
   meaning: beeswarm
-  categories:
+  tags:
     - Animals
 - word: jung
   part: Adjective
   meaning: young
-  categories:
+  tags:
     - Descriptions
 - word: kalv
+  part: Noun
   meaning: calf
-  categories:
+  tags:
     - Animals
 - word: kat
+  part: Noun
   meaning: cat
-  categories:
+  tags:
     - Animals
+- word: kaupjun
+  part: Verb
+  meaning: to buy
 - word: keukin
+  part: Noun
   meaning: chicken
-  categories:
+  tags:
     - Animals
 - word: klain
   part: Adjective
   meaning: small
-  categories:
+  tags:
     - Descriptions
+- word: klaiþ
+  part: Noun
+  meaning: "cloth, clothing, clothes"
+- word: kleivun
+  part: Verb
+  meaning: to stick to
+- word: kneipun
+  part: Verb
+  meaning: to pinch
+- word: knew
+  part: Noun
+  meaning: knee
+  tags:
+    - Body
 - word: knuk
   part: Noun
   meaning: bone
-  categories:
+  tags:
     - Time
-- word: kokk
-  meaning: chicken
-  categories:
-    - Animals
 - word: korn
   part: Noun
   meaning: "seed, stone (of fruit)"
-  categories:
+  tags:
     - Plants
 - word: krab
   part: Noun
   meaning: crab
 - word: krán
+  part: Noun
   meaning: crane
-  categories:
+  tags:
     - Animals
+- word: kuss
+  part: Noun
+  meaning: kiss
+  see:
+    - küssjun
 - word: kuw
+  part: Noun
   meaning: cow
-  categories:
+  tags:
     - Animals
+- word: kwemun
+  part: Verb
+  meaning: to come
+- word: kwik
+  part: Adjective
+  meaning: lively
+- word: kwik
+  part:
+    - Adjective
+    - Adverb
+  meaning: "quick, lively, of short duration"
 - word: kwild
+  part: Noun
   meaning: evening
   synonyms:
     - kwild
-  categories:
+  tags:
     - Time
+- word: küssjun
+  part: Verb
+  meaning: to kiss
+  see:
+    - kuss
 - word: lahs
   part: Noun
   meaning: salmon
-  categories:
+  tags:
     - Animals
 - word: laiwarik
+  part: Noun
   meaning: lark
-  categories:
+  tags:
     - Animals
 - word: lamb
+  part: Noun
   meaning: lamb
-  categories:
+  tags:
     - Animals
+- word: lat
+  part:
+    - Adjective
+    - Adverb
+  meaning: late
+  tags:
+    - Time
+- word: latir
+  part:
+    - Adjective
+    - Adverb
+  meaning: later
+  tags:
+    - Time
+  see:
+    - lat
+- word: latist
+  part:
+    - Adjective
+    - Adverb
+  meaning: "latest, last"
+  tags:
+    - Time
+  see:
+    - lat
 - word: leik
   part: Noun
   meaning: body
-  categories:
+  tags:
     - Time
+- word: leivun
+  part: Verb
+  meaning: to remain
 - word: luhs
+  part: Noun
   meaning: lynx
-  categories:
+  tags:
     - Animals
 - word: lúv
   part: Noun
   meaning: love
-  categories:
+  tags:
     - Feelings
 - word: lütt
   part: Adjective
   meaning: small
-  categories:
+  tags:
     - Descriptions
 - word: lűvjan
   part: Verb
@@ -588,116 +906,123 @@
 - word: mair
   part: Adjective
   meaning: more
-  irregular: true
+  tags:
+    - Descriptions
   see:
     - maist
-  categories:
-    - Descriptions
 - word: maist
   part: Adjective
   meaning: most
-  irregular: true
+  tags:
+    - Descriptions
   see:
     - mair
-  categories:
-    - Descriptions
+- word: malm
+  part: Noun
+  meaning: ore
 - word: mapul
   part: Noun
   meaning: maple
-  categories:
+  tags:
     - Nature
 - word: marþur
+  part: Noun
   meaning: marten
-  categories:
+  tags:
     - Animals
 - word: meurj
   part: Noun
-  from: PG *miurijǭ
   meaning: ant
-  categories:
+  tags:
     - Animals
 - word: midil
   part: Noun
   meaning: middle
-  categories:
+  tags:
     - Descriptions
 - word: midirdag
   part: Noun
   meaning: midday
-  categories:
+  tags:
     - Time
 - word: midirdagis
   part: Adverb
   meaning: at noon
-  categories:
+  tags:
     - Time
 - word: midirnaht
   part: Noun
   meaning: midnight
-  categories:
+  tags:
     - Time
 - word: midj
   part: Noun
   meaning: "middle, center"
-  categories:
+  tags:
     - Descriptions
 - word: mikil
   part: Adjective
   meaning: "much, many, big"
-  categories:
+  tags:
     - Descriptions
 - word: mindir
   part: Adjective
   meaning: less
-  irregular: true
+  tags:
+    - Descriptions
   see:
     - mindist
-  categories:
-    - Descriptions
 - word: mindist
   part: Adjective
   meaning: least
-  irregular: true
+  tags:
+    - Descriptions
   see:
     - mindir
-  categories:
-    - Descriptions
 - word: morgun
   part: Noun
   meaning: morning
-  categories:
+  tags:
     - Time
 - word: morgunis
   part: Noun
   meaning: in the mornings
-  categories:
+  tags:
     - Time
 - word: märhj
+  part: Noun
   meaning: female horse
-  categories:
+  tags:
     - Animals
 - word: mús
   part: Noun
   meaning: mouse
-  categories:
-    - Animals
-- word: mús
-  meaning: mouse
-  categories:
+  tags:
     - Animals
 - word: naht
+  part: Noun
   meaning: night
+  tags:
+    - Time
   see:
     - nahtis
-  categories:
-    - Time
 - word: nat
   part: Adjective
   meaning: "wet, moist"
 - word: natjun
   part: Verb
   meaning: "to dampen, to moisten, to wetten"
-  notes: what to do with i-umlaut?
+- word: naud
+  part: Noun
+  meaning: "need, emergency"
+- word: nest
+  part: Noun
+  meaning: nest
+  tags:
+    - Animals
+- word: niw
+  part: Adjective
+  meaning: new
 - word: nu
   part: Adverb
   meaning: now
@@ -705,55 +1030,107 @@
   part: Adverb
   meaning: yet
 - word: of
-  part: conjunction
+  part: Conjunction
   meaning: or
-- word: otur
-  meaning: otter
-  categories:
+- word: oft
+  part: Adverb
+  meaning: often
+- word: ohs
+  part: Noun
+  meaning: "ox, castrated bull"
+  tags:
     - Animals
+- word: otur
+  part: Noun
+  meaning: otter
+  tags:
+    - Animals
+- word: penning (pänning)
+  part: Noun
+  meaning: coin
+- word: plutsleik
+  part:
+    - Adjective
+    - Adverb
+  meaning: "sudden, unexpected"
 - word: plúm
   part: Noun
-  from: PGe plūmā
-  notSure: true
   meaning: plum
+- word: pratuun
+  part: Verb
+  meaning: to chat
 - word: páw
+  part: Noun
   meaning: peafowl
-  categories:
+  tags:
     - Animals
 - word: raih
-  meanign: deer
-  categories:
+  part: Noun
+  meaning: deer
+  tags:
     - Animals
 - word: ramm
+  part: Noun
   meaning: "ram, male sheep"
-  categories:
+  tags:
     - Animals
 - word: raud
   part: Adjective
   meaning: red
-  categories:
+  tags:
     - Descriptions
+- word: reidun
+  part: Verb
+  meaning: to ride
+- word: reikj (1)
+  part: Noun
+  meaning: "kingdom, government, realm, authority"
+  see:
+    - reikj (2)
+- word: reikj (2)
+  part: Adjective
+  meaning: rich
+  see:
+    - reikj (1)
+- word: reisun
+  part: Verb
+  meaning: "to travel, to increase (intransitive)"
+- word: sam
+  part: Verb
+  meaning: same
+- word: samilun
+  part: Verb
+  meaning: to gather
 - word: sehun in
   part: Verb
-  notes: "to comprehend, to realise"
+  meaning: "to comprehend, to realise"
 - word: seldun
   part: Adverb
   meaning: seldom
-  antonyms:
-    - uft
+- word: seldun
+  part: Adjective
+  meaning: "rare, seldom"
 - word: selh
+  part: Noun
   meaning: seal
-  categories:
+  tags:
     - Animals
+- word: selv
+  part: Noun
+  meaning: self
 - word: skor
   part: Noun
   meaning: shore
+- word: skrakŏw
+  part: Noun
+  meaning: "exaggeration, lie"
 - word: skrimpul
   part: Noun
   meaning: shrimp
 - word: skáp
+  part: Noun
   meaning: sheep
-  categories:
+  tags:
     - Animals
 - word: smal
   part: Adjective
@@ -761,282 +1138,283 @@
 - word: smelt
   part: Noun
   meaning: smelt
-  categories:
+  tags:
     - Animals
+- word: snell
+  part:
+    - Adjective
+    - Adverb
+  meaning: fast
 - word: spit
   part: Noun
   meaning: tip (e.g of an arrow)
 - word: steur
+  part: Noun
   meaning: bull
-  categories:
+  tags:
     - Animals
 - word: stork
+  part: Noun
   meaning: stork
-  categories:
+  tags:
     - Animals
-- word: stägj
+- word: streidun
+  part: Verb
+  meaning: to quarrel
+- word: städ
+  part: Noun
+  meaning: place
+- word: stäggj
+  part: Noun
   meaning: male deer
-  categories:
+  tags:
     - Animals
 - word: stód
+  part: Noun
   meaning: herd of horses
-  categories:
+  tags:
     - Animals
 - word: stór
   part: Adjective
   meaning: big
-  categories:
+  tags:
     - Descriptions
 - word: störj
   part: Noun
   meaning: sturgeon
+- word: sumŭr
+  part: Noun
+  meaning: summer
+  tags:
+    - Time
 - word: suw
+  part: Noun
   meaning: "sow, female pig"
-  categories:
+  tags:
     - Animals
 - word: swalw
+  part: Noun
   meaning: swallow
-  categories:
+  tags:
     - Animals
+- word: swalw
+  part: Noun
+  meaning: swallow (bird)
 - word: swan
+  part: Noun
   meaning: swan
-  categories:
+  tags:
     - Animals
 - word: swart
   part: Adjective
   meaning: black
-  categories:
+  tags:
     - Descriptions
 - word: swarun
   part: Verb
   meaning: to swear
-  class: strong-6
-  categories:
+  tags:
     - Language
-  notes: class 6 j-present strong verb
 - word: swaïgian
   part: Verb
   meaning: "to sway, to rock"
 - word: swein
-  meaning: "swine, pig"
-  categories:
-    - Animals
-- word: todag
-  meaning: today
-  see:
-    - dag
-  categories:
-    - Time
-- word: tokwild
-  meaning: this evening
-  see:
-    - kwild
-  categories:
-    - Time
-- word: tonaht
-  meaning: this night
-  see:
-    - naht
-  categories:
-    - Time
-- word: oft
-  part: Adverb
-  meaning: often
-- word: wahs
-  meaning: wax
   part: Noun
+  meaning: "swine, pig"
+  tags:
+    - Animals
+- word: swindun
+  part: Verb
+  meaning: to dwindle
+- word: swár
+  part: Adjective
+  meaning: heavy
+- word: taihŏw
+  part: Noun
+  meaning: toe
+- word: titirjun
+  part: Verb
+  meaning: "shiver, shake, vibrate"
+- word: twiskir
+  part: Preposition
+  meaning: "between, among"
+- word: wahs
+  part: Noun
+  meaning: wax
+- word: waikw
+  part: Adjective
+  meaning: "weak, soft"
 - word: wald
+  part: Noun
   meaning: forest
-  categories:
+  tags:
     - Nature
 - word: wardun
   part: Verb
   meaning: "to wait, to guard, to keep watch"
+- word: warm
+  part: Adjective
+  meaning: warm
+- word: warr
+  part: Noun
+  meaning: spring
+  tags:
+    - Time
 - word: weipun
   part: Verb
-  class: strong-1
-  notes: to wipe
+  meaning: to wipe
 - word: wind
   part: Noun
   meaning: wind
+- word: wintŭr
+  part: Noun
+  meaning: winter
+  tags:
+    - Time
 - word: wirsir
   part: Adjective
   meaning: worse
-  irregular: true
+  tags:
+    - Descriptions
   see:
     - üvil
-  categories:
-    - Descriptions
 - word: wirst
   part: Adjective
   meaning: worst
-  irregular: true
+  tags:
+    - Descriptions
   see:
     - üvil
-  categories:
-    - Descriptions
 - word: wisul
+  part: Noun
   meaning: weasel
-  categories:
+  tags:
     - Animals
+- word: wiþir
+  part: Adverb
+  meaning: >-
+    further, indicates continuation of action e.g. "gán wiþir" (to continue to
+    go, to go further)
 - word: wolf
+  part: Noun
   meaning: wolf
-  categories:
+  tags:
     - Animals
 - word: worm
   part: Noun
   meaning: worm
-  categories:
+  tags:
     - Animals
 - word: ál
   part: Noun
   meaning: eel
-  categories:
+  tags:
     - Animals
 - word: áp
+  part: Noun
   meaning: ape
-  categories:
+  tags:
     - Animals
-- word: äb
-  meaning: low tide
-  categories:
+- word: äbj
+  part: Noun
+  meaning: "low tide, ebb"
+  tags:
     - Nature
-- word: óhs
-  meaning: "ox, castrated bull"
-  categories:
+- word: äw
+  part: Noun
+  meaning: "ewe, female sheep"
+  tags:
     - Animals
 - word: óvut
   part: Noun
   meaning: fruit
-  notes: "Strange derivation, like DE Obst, NL ooft"
-  notSure: true
-  categories:
+  tags:
     - Plants
     - Food
 - word: üm
-  part: preposition
+  part: Preposition
   meaning: around
 - word: üm at
-  part: conjunction
+  part: Conjunction
   meaning: because
   see:
     - üm
 - word: üvil
   part: Adjective
-  inflection:
-    comparative: wirsir
-    superlative: wirist
   meaning: bad
-  irregular: true
-  categories:
+  tags:
     - Descriptions
 - word: þahs
+  part: Noun
   meaning: badger
-  categories:
+  tags:
     - Animals
+- word: þik
+  part: Adjective
+  meaning: thick
+- word: þorp
+  part: Noun
+  meaning: village
+  tags:
+    - Civilisation
 - word: þorsk
   part: Noun
   meaning: cod
+- word: þrangw
+  part: Noun
+  meaning: to press
+  see:
+    - þrinhwun
 - word: þrast
+  part: Noun
   meaning: thrush (bird)
-  categories:
+  tags:
     - Animals
-- word: streidun
-  meaning: to quarrel
-  part: Verb
-  class: strong-1
-- word: frek
-  meaning: greedy; nasty
-  part: Adjective
-- word: hrügj
-  meaning: back (anatomy), spine (anatomy)
-  party: noun
-
-- word: kuss
-  meaning: kiss
-  part: Noun
-  see: [küssjun]
-- word: küssjun
-  meaning: to kiss
-  part: Verb
-  see: [kuss]
-- word: draum
-  meaning: dream
-  part: Verb
-- word: fagŏr
-  meaning: pretty, beautiful
-  part: Adjective
-- word: dusk
-  meaning: dark
-  part: Adjective
-- word: dunkŏl
-  meaning: dark
-  part: Adjective
-- word: dunkŏr
-  meaning: dark
-  part: Adjective
-- word: bikwém
-  meaning: comfortable
-  part: Adjective
-- word: gail
-  meaning: abundant; lustful
-  part: Adjective
-- word: waikw
-  meaning: weak, soft
-  part: Adjective
-- word: hláw
-  meaning: lukewarm
-  part: Adjective
-- word: þrinhwun
-  meaning: to press; to be urgent
-  part: Verb
-- word: þrangŏw
-  meaning: to pressing
-  see: [þrinhwun]
 - word: þrinhwend
+  part: Adjective
   meaning: urgent
-  part: Adjective
-  see: [þrinhwun]
-- word: warm
-  meaning: warm
-  part: Adjective
-- word: þik
-  meaning: thick
-  part: Adjective
+  see:
+    - þrinhwun
+- word: þrinhwun
+  part: Verb
+  meaning: to press; to be urgent
+- word: þäkjun
+  part: Verb
+  meaning: cover
 - word: þünn
+  part: Adjective
   meaning: thin
-  part: Adjective
-- word: skrakŏw
+- word: kwemun an
+  part: Verb
+  template: strong-34-e
+  meaning: arrive
+- word: wagun
   part: Noun
-  meaning: exaggeration, lie
-- word: air
+  meaning: wagon, cart
+- word: hlőd
   part: Noun
-  meaning: reverence, honour
-- word: hwass
-  meaning: sharp
-  part: Adjective
-- word: hwassiþ
-  meaning: sharpness
+  meaning: load
+- word: hladun
+  part: Verb
+  template: strong-6
+  meaning: to accumulate, to increase in something
+- word: hlődian
+  part: Verb
+  template: weak-jun
+  meaning: to load (transitive)
+- word: hlast
   part: Noun
-- word: blad
-  meaning: blade
-  part: Noun
-- word: flaisk
-  meaning: meat
-  part: Noun
-- word: kwik
-  meaning: lively
-  part: Adjective
-- word: malm
-  meaning: ore
-  part: Noun
-- word: taihŏw
-  meaning: toe
-  part: Noun
-- word: þorp
-  meaning: village
-  part: Noun
-  categories: [Civilisation]
-- word: seldun
-  meaning: rare, seldom
-  part: Adjective
+  meaning: burden
+  see: [bihlastian, hlastian, hlastig]
+- word: bihlastian
+  part: Verb
+  meaning: to annoy, to harass
+  see: [hlast]
+- word: hlastian
+  part: Verb
+  meaning: to burden
+  see: [hlast]
+- word: hlastig
+  part: Verb
+  meaning: annoying
+  see: [hlast]

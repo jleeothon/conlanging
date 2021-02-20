@@ -39,6 +39,12 @@ By tags:
 {{#each tags}}
 - [{{this.name}}]({{this.link}})
 {{/each}}
+
+By template:
+
+{{#each templates}}
+- [{{this.name}}]({{this.link}})
+{{/each}}
 `;
 
 const renderWordList = handlebars.compile(wordListTemplate);
@@ -49,17 +55,41 @@ const wordListDir = fileName => path.join('word-list', fileName);
 function run() {
 	const allEntries = yaml.safeLoad(readFileSync(0, 'utf-8'));
 
+	// All
 	const wordListContent = renderWordList({entries: allEntries, title: 'Word list'});
 	writeFileSync(wordListDir('All.md'), wordListContent);
 
-	const tags = schema.definitions.tag.enum;
-	// Const templates = schema.definitions.template.enum;
 	const parts = schema.definitions.part.enum;
+	const templates = schema.definitions.template.enum;
+	const tags = schema.definitions.tag.enum;
 
+	// Parts
+	const partMapping = parts.map(p => {
+		return {name: p, fileName: `${p}.md`, link: `${p}.md`};
+	});
+	const isPartOrIncludes = (sought, current) => current === sought || current.includes(sought);
+	partMapping.forEach(({name, fileName}) => {
+		const entries = allEntries.filter(({part}) => isPartOrIncludes(name, part));
+		const newData = {entries, title: name};
+		const content = renderWordList(newData);
+		writeFileSync(wordListDir(fileName), content);
+	});
+
+	// Templates
+	const templateMapping = templates.map(t => {
+		return {name: t, fileName: `${t}.md`, link: `${t}.md`};
+	});
+	templateMapping.forEach(({name, fileName}) => {
+		const entries = allEntries.filter(({template}) => template === name);
+		const newData = {entries, title: name};
+		const content = renderWordList(newData);
+		writeFileSync(wordListDir(fileName), content);
+	});
+
+	// Tags
 	const tagMapping = tags.map(c => {
 		return {name: c, fileName: `${c}.md`, link: `${c}.md`};
 	});
-
 	tagMapping.forEach(({name, fileName}) => {
 		const entries = allEntries
 			.filter(({tags}) => tags && tags.includes(name));
@@ -68,22 +98,10 @@ function run() {
 		writeFileSync(wordListDir(fileName), content);
 	});
 
-	// Parts
-	const partMapping = parts.map(p => {
-		return {name: p, fileName: `${p}.md`, link: `${p}.md`};
-	});
-	partMapping.forEach(({name: filePart, fileName}) => {
-		// Maps in order to recreate the order of fields
-		const entries = allEntries
-			.filter(({part: entryPart}) => entryPart === filePart || entryPart.includes(filePart));
-		const newData = {entries, title: filePart};
-		const content = renderWordList(newData);
-		writeFileSync(wordListDir(fileName), content);
-	});
-
 	// Index
 	const indexContent = renderReadme({
 		parts: partMapping,
+		templates: templateMapping,
 		tags: tagMapping
 	});
 	writeFileSync(wordListDir('index.md'), indexContent);
