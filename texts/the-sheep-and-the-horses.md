@@ -1,6 +1,6 @@
 # þe skáp und þe hrossi
 
-Ain skáp, hwe had nait woll, sah ainan hrossi: ait, hwe tauh et swára wagen;
+Ain skáp, hwe had nait woll, sah ainan hrossi: ait, hwe tauh ait swára wagun;
 ait, hwe drug ait grauta hlőd; und ait, hwem en mann raid.
 
 þe skáp sagde an þen hrossi: «þe hert mien is sair hwan ik sehu hwus þe mann

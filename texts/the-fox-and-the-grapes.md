@@ -1,7 +1,6 @@
 # Þe fuhs und þei þrúvan
 
-Ain dagis, sah ain hungriga fuhs ait weinwört und ainan þrúvan hwa hingen av
-þet.
+Ain dagis, sah ain hungriga fuhs ait weinwörtj und ain þrúvan hwa hingen av þet.
 
 Þei þrúvan weren graut und plump und deup raud, und þe munþ þes fuhsas draup te
 hwiel hwat hje kaik þen. Nerg hwaner sah þe fuhs ainan hjus grauta und plumpa
