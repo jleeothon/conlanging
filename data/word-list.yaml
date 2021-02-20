@@ -173,6 +173,11 @@
   meaning: boxwood
   tags:
     - Plants
+- word: brekun
+  part: Verb
+  meaning: to break
+  template: strong-34-e
+  note: Irregular strong-34-e
 - word: breust
   part: Noun
   meaning: "breast, chest"
@@ -293,6 +298,7 @@
 - word: dewun
   part: Verb
   meaning: to die
+  template: strong-34-e
 - word: draug
   part: Adjective
   meaning: dry
@@ -308,6 +314,7 @@
 - word: drepun
   part: Verb
   meaning: to meet
+  template: strong-34-e
 - word: dreupun
   part: Verb
   meaning: to drip
@@ -336,6 +343,7 @@
 - word: dweinun
   part: Verb
   meaning: to disappear
+  template: strong-1
 - word: dwás
   part: Adjective
   meaning: "stupid, foolish"
@@ -571,6 +579,7 @@
 - word: geldun
   part: Verb
   meaning: to be valid
+  template: strong-34-e
   see:
     - geld
 - word: gelw
@@ -605,6 +614,7 @@
 - word: gleidun
   part: Verb
   meaning: to glide
+  template: strong-1
 - word: gold
   part: Noun
   meaning: gold
@@ -616,6 +626,7 @@
 - word: greipun
   part: Verb
   meaning: to grab
+  template: strong-1
 - word: grimmun
   part: Verb
   meaning: to be angry
@@ -671,6 +682,10 @@
   meaning: male goat
   tags:
     - Animals
+- word: helpun
+  part: Verb
+  meaning: to help
+  template: strong-34-e
 - word: hert
   part: Noun
   meaning: "deer, stag"
@@ -731,6 +746,7 @@
 - word: hreitun
   part: Verb
   meaning: to scratch
+  template: strong-1
 - word: hringun
   part: Verb
   meaning: to ring
@@ -783,6 +799,7 @@
 - word: hweinun
   part: Verb
   meaning: to cry
+  template: strong-1
 - word: hweit
   part: Adjective
   meaning: white
@@ -793,6 +810,10 @@
   meaning: "welp, young mammal"
   tags:
     - Animals
+- word: hwervun
+  part: Verb
+  meaning: to throw
+  template: strong-34-e
 - word: hárm
   part: Noun
   meaning: "weasel, ermine"
@@ -869,9 +890,16 @@
 - word: kleivun
   part: Verb
   meaning: to stick to
+  template: strong-1
+- word: knedun
+  part: Verb
+  meaning: to knead
+  template: strong-34-e
+  note: Irregular strong-34-e
 - word: kneipun
   part: Verb
   meaning: to pinch
+  template: strong-1
 - word: knew
   part: Noun
   meaning: knee
@@ -908,9 +936,11 @@
 - word: kwemun
   part: Verb
   meaning: to come
+  template: strong-34-e
 - word: kwemun an
   part: Verb
   meaning: arrive
+  template: strong-34-e
 - word: kwik
   part: Adjective
   meaning: lively
@@ -979,6 +1009,7 @@
 - word: leivun
   part: Verb
   meaning: to remain
+  template: strong-1
 - word: leusun
   part: Verb
   meaning: to lose
@@ -1028,6 +1059,14 @@
   meaning: marten
   tags:
     - Animals
+- word: melkun
+  part: Verb
+  meaning: to milk
+  template: strong-34-e
+- word: meltun
+  part: Verb
+  meaning: to melt (intransitive)
+  template: strong-34-e
 - word: meurj
   part: Noun
   meaning: ant
@@ -1113,6 +1152,10 @@
 - word: naud
   part: Noun
   meaning: "need, emergency"
+- word: nemun
+  part: Verb
+  meaning: to take
+  template: strong-34-e
 - word: nest
   part: Noun
   meaning: nest
@@ -1180,6 +1223,7 @@
 - word: reidun
   part: Verb
   meaning: to ride
+  template: strong-1
 - word: reikj (1)
   part: Noun
   meaning: "kingdom, government, realm, authority"
@@ -1193,6 +1237,7 @@
 - word: reisun
   part: Verb
   meaning: "to travel, to increase (intransitive)"
+  template: strong-1
 - word: rinnun
   part: Verb
   meaning: to run
@@ -1206,6 +1251,7 @@
 - word: sehun in
   part: Verb
   meaning: "to comprehend, to realise"
+  template: strong-34-e
 - word: seldun
   part: Adverb
   meaning: seldom
@@ -1227,9 +1273,11 @@
 - word: skeinun
   part: Verb
   meaning: to shine
+  template: strong-1
 - word: skeitun
   part: Verb
   meaning: "to shite, to defecate"
+  template: strong-1
 - word: skeutun
   part: Verb
   meaning: to shoot
@@ -1263,6 +1311,7 @@
 - word: sneidun
   part: Verb
   meaning: to snow
+  template: strong-1
 - word: snell
   part:
     - Adjective
@@ -1274,10 +1323,29 @@
 - word: spleitun
   part: Verb
   meaning: "to split, to divide"
+  template: strong-1
+- word: sprekun
+  part: Verb
+  meaning: to speak
+  template: strong-34-e
+  note: Irregular strong-34-e
 - word: springun
   part: Verb
   meaning: to spring
   template: strong-3-i
+- word: stekun
+  part: Verb
+  meaning: to stab
+  template: strong-34-e
+  note: Irregular strong-34-e
+- word: stelun
+  part: Verb
+  meaning: to steal
+  template: strong-34-e
+- word: stervun
+  part: Verb
+  meaning: to die
+  template: strong-34-e
 - word: steur
   part: Noun
   meaning: bull
@@ -1295,12 +1363,15 @@
 - word: streidun
   part: Verb
   meaning: to quarrel
+  template: strong-1
 - word: streidun
   part: Verb
   meaning: to quarrel
+  template: strong-1
 - word: streikun
   part: Verb
   meaning: "to strike, to hit"
+  template: strong-1
 - word: städ
   part: Noun
   meaning: place
@@ -1363,6 +1434,10 @@
   meaning: "swine, pig"
   tags:
     - Animals
+- word: swellun
+  part: Verb
+  meaning: to swell
+  template: strong-34-e
 - word: swindun
   part: Verb
   meaning: to dwindle
@@ -1415,6 +1490,11 @@
 - word: weipun
   part: Verb
   meaning: to wipe
+  template: strong-1
+- word: werþun
+  part: Verb
+  meaning: to become
+  template: strong-34-e
 - word: wind
   part: Noun
   meaning: wind
