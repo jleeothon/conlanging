@@ -65,6 +65,11 @@
 - word: auk
   part: Adverb
   meaning: "also, too (including)"
+- word: aust
+  part: Noun
+  meaning: east
+  tags:
+    - Geography
 - word: avir
   part: Conjunction
   meaning: "but, however"
@@ -159,6 +164,9 @@
 - word: binins
   part: Preposition
   meaning: including
+- word: bisundŭr
+  part: Adjective
+  meaning: "special, unusual"
 - word: blad
   part: Noun
   meaning: blade
@@ -212,6 +220,11 @@
   meaning: "fountain, well, wellspring"
   tags:
     - Nature
+- word: broþŭr
+  part: Noun
+  meaning: brother
+  tags:
+    - Family
 - word: brádun
   part: Verb
   meaning: to cook in a pan
@@ -331,6 +344,10 @@
   part: Verb
   meaning: to carry
   template: strong-6
+- word: dragun
+  part: Verb
+  meaning: to wear
+  template: strong-6
 - word: draug
   part: Adjective
   meaning: dry
@@ -409,6 +426,11 @@
   part: Verb
   meaning: to eat
   template: strong-5
+- word: fadŭr
+  part: Noun
+  meaning: father
+  tags:
+    - Family
 - word: fagŏr
   part: Adjective
   meaning: "pretty, beautiful"
@@ -710,6 +732,9 @@
   meaning: good
   tags:
     - Descriptions
+- word: hail
+  part: Adjective
+  meaning: "whole, intact, unhurt"
 - word: haitun
   part: Verb
   meaning: to be named
@@ -930,6 +955,9 @@
 - word: hért
   part: Noun
   meaning: heart
+- word: hód
+  part: Noun
+  meaning: "hood, head covering"
 - word: hülis
   part: Noun
   meaning: holly
@@ -950,6 +978,11 @@
   meaning: young
   tags:
     - Descriptions
+- word: kak
+  part: Noun
+  meaning: cake
+  tags:
+    - Food
 - word: kalv
   part: Noun
   meaning: calf
@@ -1011,6 +1044,9 @@
 - word: krab
   part: Noun
   meaning: crab
+- word: krank
+  part: Adjective
+  meaning: "sick, ill"
 - word: krán
   part: Noun
   meaning: crane
@@ -1049,6 +1085,9 @@
     - kwild
   tags:
     - Time
+- word: káp
+  part: Noun
+  meaning: cape
 - word: küssjun
   part: Verb
   meaning: to kiss
@@ -1221,6 +1260,11 @@
     - Descriptions
   see:
     - mindir
+- word: modŭr
+  part: Noun
+  meaning: mother
+  tags:
+    - Family
 - word: morgun
   part: Noun
   meaning: morning
@@ -1273,6 +1317,11 @@
 - word: niw
   part: Adjective
   meaning: new
+- word: norþ
+  part: Noun
+  meaning: north
+  tags:
+    - Geography
 - word: nu
   part: Adverb
   meaning: now
@@ -1283,6 +1332,12 @@
   part: Verb
   meaning: "to heal (transitive), to take care of"
   template: weak-jun
+- word: obŭtj
+  part: Noun
+  meaning: fruit
+  tags:
+    - Plants
+    - Food
 - word: of
   part: Conjunction
   meaning: or
@@ -1391,6 +1446,9 @@
 - word: selv
   part: Noun
   meaning: self
+- word: seuk
+  part: Adjective
+  meaning: "sick, ill"
 - word: singun
   part: Verb
   meaning: to sing
@@ -1551,6 +1609,14 @@
   meaning: summer
   tags:
     - Time
+- word: sundŭr
+  part: Adjective
+  meaning: "alone, separate"
+- word: sunþ
+  part: Noun
+  meaning: south
+  tags:
+    - Geography
 - word: suw
   part: Noun
   meaning: "sow, female pig"
@@ -1595,6 +1661,11 @@
   part: Verb
   meaning: to swell
   template: strong-34-e
+- word: swestŭr
+  part: Noun
+  meaning: brother
+  tags:
+    - Family
 - word: swindun
   part: Verb
   meaning: to dwindle
@@ -1662,6 +1733,11 @@
   part: Verb
   meaning: to become
   template: strong-34-e
+- word: west
+  part: Noun
+  meaning: west
+  tags:
+    - Geography
 - word: wind
   part: Noun
   meaning: wind
@@ -1732,12 +1808,6 @@
   meaning: "ewe, female sheep"
   tags:
     - Animals
-- word: óvut
-  part: Noun
-  meaning: fruit
-  tags:
-    - Plants
-    - Food
 - word: üm
   part: Preposition
   meaning: around
@@ -1756,6 +1826,9 @@
   meaning: badger
   tags:
     - Animals
+- word: þauh
+  part: Adverb
+  meaning: "though, however, nonetheless"
 - word: þik
   part: Adjective
   meaning: thick
