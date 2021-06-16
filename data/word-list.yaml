@@ -1,13 +1,32 @@
+- word: "-bár"
+  part: Affix
+  meaning: "adjective suffix, akin to -able."
+- word: abgrund
+  part: Noun
+  meaning: precipice
+- word: abhangighaid
+  part: Noun
+  meaning: "dependence, attachment"
+- word: ahsihtj
+  part: Noun
+  meaning: aspect
+- word: aht
+  part: Noun
+  meaning: attention
+- word: aigonskap
+  part: Noun
+  meaning: "characteristic, property"
 - word: aik
   part: Noun
   meaning: oak
   tags:
     - Nature
-- word: aikwerun
+- word: aikwerŏn
   part: Noun
   meaning: squirrel
   tags:
     - Animals
+  istem: akwern-
 - word: aindagis
   part: Adverb
   meaning: "one day, some day"
@@ -24,11 +43,17 @@
   meaning: early
   tags:
     - Time
+- word: akor
+  part: Noun
+  meaning: field
 - word: ald
   part: Adjective
   meaning: old
   tags:
     - Descriptions
+- word: aldŏr
+  part: Noun
+  meaning: age
 - word: allain (1)
   part: Adverb
   meaning: only
@@ -43,12 +68,21 @@
 - word: and
   part: Conjunction
   meaning: and
+- word: andhüllion
+  part: Verb
+  meaning: to revelate
+- word: anþor
+  part: Noun
+  meaning: other
 - word: apŏl
   part: Noun
   meaning: apple
   tags:
     - Nature
     - Food
+- word: ard
+  part: Noun
+  meaning: "type, kind"
 - word: arhw
   part: Noun
   meaning: arrow
@@ -61,7 +95,7 @@
   part: Noun
   meaning: eye
   tags:
-    - Time
+    - Body
 - word: auk
   part: Adverb
   meaning: "also, too (including)"
@@ -80,19 +114,28 @@
     - kwild
   tags:
     - Time
+- word: aþol
+  part: Adjective
+  meaning: noble
 - word: bain
   part: Noun
   meaning: leg
   tags:
     - Body
-- word: bakun
+- word: bakŏn
   part: Verb
   meaning: to bake (transitive and intransitive)
   template: strong-6
-- word: bannun
+- word: bannŏn
   part: Verb
   meaning: to ban
   template: strong-7c-i
+- word: bar
+  part: Adjective
+  meaning: "only, mere, bare"
+- word: bard
+  part: Noun
+  meaning: beard
 - word: barisk
   part: Adjective
   meaning: purple
@@ -103,29 +146,34 @@
   meaning: perch
   tags:
     - Animals
+- word: baugjŏn
+  part: Verb
+  meaning: to bend (transitive)
+  see:
+    - beugun
 - word: baum
   part: Noun
   meaning: tree
   tags:
     - Plants
-- word: bautun
+- word: bautŏn
   part: Verb
   meaning: to beat
   template: strong-7b
-- word: bedwun
+- word: bedwŏn
   part: Verb
   meaning: to pray
-- word: berun
+- word: berŏn
   part: Verb
   meaning: to bear
   template: strong-34-e
-- word: beugun
+- word: beugŏn
   part: Verb
   meaning: to bend (intransitive)
   template: strong-2
   see:
-    - bäugiun
-- word: beutun
+    - baugjun
+- word: beutŏn
   part: Verb
   meaning: to offer
   template: strong-2
@@ -134,16 +182,11 @@
   meaning: beaver
   tags:
     - Animals
-- word: bihlastian
+- word: bihlastwŏn
   part: Verb
   meaning: "to annoy, to harass"
   see:
     - hlast
-- word: bij
-  part: Noun
-  meaning: bee
-  tags:
-    - Animals
 - word: bij
   part: Noun
   meaning: bee
@@ -157,20 +200,34 @@
 - word: bikwém
   part: Adjective
   meaning: comfortable
-- word: bindun
+- word: bilaunwŏn
+  part: Verb
+  meaning: "to wage, to reward, to pay"
+- word: bindŏn
   part: Verb
   meaning: to bind
   template: strong-3-i
 - word: binins
   part: Preposition
   meaning: including
-- word: bisundŭr
+- word: biskreibon
+  part: Verb
+  meaning: describe
+  template: strong-1
+- word: bisundris
+  part: Adverb
+  meaning: "especially, particularly"
+- word: bisundŏr
   part: Adjective
   meaning: "special, unusual"
+- word: bisweron
+  part: Verb
+  meaning: to complain
+  template: strong-6-j
 - word: blad
   part: Noun
   meaning: blade
-- word: blandun
+- word: blandŏn
   part: Verb
   meaning: to blend
   template: strong-7c-i
@@ -183,7 +240,7 @@
   part: Verb
   meaning: to flower
   template: strong-7e
-- word: blásun
+- word: blásŏn
   part: Verb
   meaning: to blow
   template: strong-7d
@@ -205,7 +262,11 @@
   meaning: boxwood
   tags:
     - Plants
-- word: brekun
+- word: bradŏn
+  part: Verb
+  meaning: to cook in a pan
+  template: strong-7d
+- word: brekŏn
   part: Verb
   meaning: to break
   template: strong-34-e
@@ -220,15 +281,11 @@
   meaning: "fountain, well, wellspring"
   tags:
     - Nature
-- word: broþŭr
+- word: broþŏr
   part: Noun
   meaning: brother
   tags:
     - Family
-- word: brádun
-  part: Verb
-  meaning: to cook in a pan
-  template: strong-7d
 - word: brámulbärj
   part: Noun
   meaning: "blackberry, raspberry"
@@ -255,17 +312,13 @@
 - word: butins
   part: Preposition
   meaning: except
-- word: bär
+- word: bärj
   part: Noun
   meaning: berry
   tags:
     - Nature
-- word: bärj
-  part: Noun
-  meaning: berry
-- word: bärj
-  part: Noun
-  meaning: berry
+    - Food
+    - Plants
 - word: bäst
   part: Adjective
   meaning: best
@@ -280,11 +333,6 @@
     - Descriptions
   see:
     - gód
-- word: bäugiun
-  part: Verb
-  meaning: to bend (transitive)
-  see:
-    - beugun
 - word: bér
   part: Noun
   meaning: bear
@@ -316,18 +364,20 @@
 - word: dail
   part: Noun
   meaning: "part, portion, fraction"
-- word: dailjun
+- word: dailjŏn
   part: Verb
   meaning: to divide
+  template: weak-jun
 - word: damp
   part: Noun
   meaning: vapour
 - word: daud
   part: Noun
   meaning: dead
-- word: daudjun
+- word: daudjŏn
   part: Verb
   meaning: to kill
+  template: weak-jun
 - word: dauþ
   part: Noun
   meaning: death
@@ -336,22 +386,22 @@
   meaning: animal
   tags:
     - Animals
-- word: dewun
+- word: dewŏn
   part: Verb
   meaning: to die
   template: strong-34-e
-- word: dragun
+- word: dragŏn
   part: Verb
   meaning: to carry
   template: strong-6
-- word: dragun
+- word: dragŏn
   part: Verb
   meaning: to wear
   template: strong-6
 - word: draug
   part: Adjective
   meaning: dry
-- word: draugiun
+- word: draugiŏn
   part: Verb
   meaning: to dry
 - word: draum
@@ -360,15 +410,15 @@
 - word: dreivan
   part: Verb
   meaning: to drive
-- word: drepun
+- word: drepŏn
   part: Verb
   meaning: to meet
   template: strong-34-e
-- word: dreupun
+- word: dreupŏn
   part: Verb
   meaning: to drip
   template: strong-2
-- word: drinkun
+- word: drinkŏn
   part: Verb
   meaning: to drink
   template: strong-3-i
@@ -377,6 +427,9 @@
   meaning: to drift
   tags:
     - Movement
+- word: duhtŏr
+  part: Noun
+  meaning: daughter
 - word: dumb
   part: Adjective
   meaning: "stupid, dumb"
@@ -389,7 +442,7 @@
 - word: dusk
   part: Adjective
   meaning: dark
-- word: dweinun
+- word: dweinŏn
   part: Verb
   meaning: to disappear
   template: strong-1
@@ -404,6 +457,11 @@
   meaning: dove
   tags:
     - Animals
+- word: ebb
+  part: Noun
+  meaning: "low tide, ebb"
+  tags:
+    - Nature
 - word: ehw
   part: Noun
   meaning: horse
@@ -414,6 +472,10 @@
   meaning: elk
   tags:
     - Animals
+- word: emmur
+  part: Noun
+  meaning: bucket
+  notes: Not sure about this one
 - word: erþ
   part: Noun
   meaning: earth
@@ -422,11 +484,19 @@
 - word: erþbärj
   part: Noun
   meaning: strawberry
-- word: etun
+  see:
+    - bärj
+    - erþ
+- word: etŏn
   part: Verb
   meaning: to eat
   template: strong-5
-- word: fadŭr
+- word: ew
+  part: Noun
+  meaning: "ewe, female sheep"
+  tags:
+    - Animals
+- word: fadŏr
   part: Noun
   meaning: father
   tags:
@@ -434,7 +504,7 @@
 - word: fagŏr
   part: Adjective
   meaning: "pretty, beautiful"
-- word: fallun
+- word: fallŏn
   part: Verb
   meaning: to fall
   template: strong-7c-e
@@ -445,7 +515,7 @@
     - Time
   see:
     - dag
-- word: fangun
+- word: fangŏn
   part: Verb
   meaning: "to capture, to catch"
   template: strong-7c-i
@@ -456,7 +526,7 @@
     - Time
   see:
     - kwild
-- word: fanmorgun
+- word: fanmorgŏn
   part: Noun
   meaning: "tomorrow, in the morning"
   tags:
@@ -478,15 +548,18 @@
   meaning: fern
   tags:
     - Plants
-- word: farun
-  part: Verb
-  meaning: to drive
-  template: strong-6
 - word: farw
   part: Noun
   meaning: colour
   tags:
     - Descriptions
+- word: farŏn
+  part: Verb
+  meaning: to drive
+  template: strong-6
+- word: fatwŏn
+  part: Verb
+  meaning: "to fetch, to catch, to grasp"
 - word: faw
   part: Adjective
   meaning: "few, little"
@@ -507,7 +580,7 @@
   meaning: feather
   tags:
     - Animals
-- word: fijand
+- word: fijend
   part: Noun
   meaning: "enemy, foe"
 - word: fil
@@ -515,16 +588,18 @@
   meaning: much
   tags:
     - Descriptions
-- word: findun
+- word: findŏn
   part: Verb
   meaning: to find
   template: strong-3-i
-- word: firkwistjun
+- word: firkwistjŏn
   part: Verb
   meaning: to waste
-- word: firswändjun
+  template: weak-jun
+- word: firswändjŏn
   part: Verb
   meaning: to make disappear
+  template: weak-jun
   see:
     - förswindun
 - word: fisk
@@ -550,7 +625,7 @@
   meaning: fly
   tags:
     - Animals
-- word: fleugun
+- word: fleugŏn
   part: Verb
   meaning: to fly
   template: strong-2
@@ -564,23 +639,42 @@
   meaning: "flood, river (poetic), high tide"
   tags:
     - Nature
-- word: forhun
+- word: foll
+  part: Adjective
+  meaning: full
+- word: forhŏn
   part: Noun
   meaning: trout
   tags:
     - Animals
+- word: fraurjŏn
+  part: Verb
+  meaning: to freeze (transitive)
+  template: weak-jun
+  see:
+    - freusun
+- word: fraw
+  part: Noun
+  meaning: woman
 - word: frek
   part: Adjective
   meaning: greedy; nasty
-- word: freusun
+- word: freusŏn
   part: Verb
   meaning: to freeze (intransitive)
   template: strong-2
   see:
-    - fräuriun
-- word: frijand
+    - fraurjun
+- word: frij
+  part: Adjective
+  meaning: free
+- word: frijend
   part: Noun
   meaning: friend
+- word: frijon?
+  part: Verb
+  meaning: to free
+  template: weak-jun
 - word: frusk
   part: Noun
   meaning: frog
@@ -590,11 +684,6 @@
   meaning: frost
   tags:
     - Nature
-- word: fräuriun
-  part: Verb
-  meaning: to freeze (transitive)
-  see:
-    - freusun
 - word: frów
   part: Adjective
   meaning: early
@@ -610,15 +699,30 @@
   meaning: fox
   tags:
     - Animals
+- word: fulgwŏn
+  part: Verb
+  meaning: to follow
 - word: fól
   part: Noun
   meaning: "foal, young horse"
   tags:
     - Animals
-- word: fördailiun
+- word: fórraidjŏn
+  part: Verb
+  meaning: to prepare
+  see:
+    - raidjun
+- word: fördailiŏn
   part: Verb
   meaning: to distribute
-- word: förswindun
+- word: försenkion
+  part: Verb
+  meaning: "to focus, to concentrate"
+  template: weak-jun
+- word: försprekŏn
+  part: Verb
+  meaning: to promise
+- word: förswindŏn
   part: Verb
   meaning: to disappear
   see:
@@ -646,7 +750,7 @@
   meaning: money
   see:
     - geldun
-- word: geldun
+- word: geldŏn
   part: Verb
   meaning: to be valid
   template: strong-34-e
@@ -662,18 +766,21 @@
   meaning: orange
   tags:
     - Descriptions
-- word: getun
+- word: getŏn
   part: Verb
   meaning: "to get, to receive"
   template: strong-5
-- word: geutun
+- word: geutŏn
   part: Verb
   meaning: to pour
   template: strong-2
-- word: gevun
+- word: gevŏn
   part: Verb
   meaning: to give
   template: strong-5
+- word: gisihtj
+  part: Noun
+  meaning: face
 - word: gistirdag
   part: Noun
   meaning: yesterday
@@ -689,7 +796,10 @@
   meaning: last night
   tags:
     - Time
-- word: gleidun
+- word: giwar
+  part: Adjective
+  meaning: aware
+- word: gleidŏn
   part: Verb
   meaning: to glide
   template: strong-1
@@ -701,15 +811,15 @@
   meaning: big
   tags:
     - Descriptions
-- word: gravun
+- word: gravŏn
   part: Verb
   meaning: to dig
   template: strong-6
-- word: greipun
+- word: greipŏn
   part: Verb
   meaning: to grab
   template: strong-1
-- word: grimmun
+- word: grimmŏn
   part: Verb
   meaning: to be angry
   template: strong-3-i
@@ -727,6 +837,11 @@
   meaning: green
   tags:
     - Descriptions
+- word: gäldjŏn
+  part: Verb
+  meaning: to be valid
+  see:
+    - geldun
 - word: gód
   part: Adjective
   meaning: good
@@ -735,7 +850,7 @@
 - word: hail
   part: Adjective
   meaning: "whole, intact, unhurt"
-- word: haitun
+- word: haitŏn
   part: Verb
   meaning: to be named
   template: strong-7a
@@ -744,10 +859,16 @@
   meaning: pike
   tags:
     - Animals
-- word: haldun
+- word: hald
+  part: Noun
+  meaning: "hold, grasp"
+- word: haldŏn
   part: Verb
   meaning: to hold
   template: strong-7c-e
+- word: hals
+  part: Noun
+  meaning: "neck, throat"
 - word: han
   part: Noun
   meaning: "hen, rooster, guineafowl"
@@ -758,13 +879,13 @@
   meaning: hand
   tags:
     - Body
-- word: handlun
-  part: Verb
-  meaning: "to handle, to negotiate, to do business with sth."
 - word: handlár
   part: Noun
   meaning: merchant
-- word: hangun
+- word: handlŏn
+  part: Verb
+  meaning: "to handle, to negotiate, to do business with sth."
+- word: hangŏn
   part: Verb
   meaning: to hang
   template: strong-7c-i
@@ -773,12 +894,7 @@
   meaning: "fall, autumn, harvest"
   tags:
     - Time
-- word: hauvd
-  part: Noun
-  meaning: head
-  tags:
-    - Time
-- word: hauwun
+- word: hauwŏn
   part: Verb
   meaning: "to hew, to chop"
   template: strong-7b
@@ -787,7 +903,11 @@
   meaning: male goat
   tags:
     - Animals
-- word: helpun
+- word: hebbion
+  part: Verb
+  meaning: to lift
+  template: strong-6-j
+- word: helpŏn
   part: Verb
   meaning: to help
   template: strong-34-e
@@ -796,6 +916,9 @@
   meaning: "deer, stag"
   tags:
     - Animals
+- word: hert
+  part: Noun
+  meaning: heart
 - word: himil
   part: Noun
   meaning: sky
@@ -806,18 +929,18 @@
   meaning: female deer
   tags:
     - Animals
-- word: hladun
+- word: hladŏn
   part: Verb
   meaning: "to accumulate, to increase in something"
   template: strong-6
-- word: hlahun
+- word: hlahŏn
   part: Verb
   meaning: to laugh
 - word: hlast
   part: Noun
   meaning: burden
   see:
-    - bihlastian
+    - bihlastwun
     - hlastian
     - hlastig
 - word: hlastian
@@ -830,7 +953,7 @@
   meaning: annoying
   see:
     - hlast
-- word: hlaupun
+- word: hlaupŏn
   part: Verb
   meaning: to walk
   template: strong-7b
@@ -838,6 +961,13 @@
   part: Verb
   meaning: to shout
   template: strong-7e
+- word: hlusnoling? hlusnling
+  part: Noun
+  meaning: listener
+- word: hlusnon
+  part: Verb
+  meaning: to listen
+  template: weak-nun
 - word: hláw
   part: Adjective
   meaning: lukewarm
@@ -847,21 +977,34 @@
 - word: hlődian
   part: Verb
   meaning: to load (transitive)
+- word: hnauw
+  part: Adjective
+  meaning: exact
 - word: holt
   part: Noun
   meaning: "wood, forest (poetic)"
   tags:
     - Nature
+- word: hragŏn
+  part: Verb
+  meaning: "to jut out, to protude, to stand out"
+  template: strong-34-e
 - word: hraig
   part: Noun
   meaning: heron
   tags:
     - Animals
-- word: hreitun
+- word: hreggiŏn
+  part: Verb
+  meaning: "to incite, to excite, to"
+  template: weak-jun
+  see:
+    - hragŏn
+- word: hreitŏn
   part: Verb
   meaning: to scratch
   template: strong-1
-- word: hringun
+- word: hringŏn
   part: Verb
   meaning: to ring
   template: strong-3-i
@@ -888,7 +1031,7 @@
   meaning: dog
   tags:
     - Animals
-- word: hungrwun
+- word: hungrwŏn
   part: Verb
   meaning: to hunger
 - word: hungŏr
@@ -914,7 +1057,7 @@
   meaning: while
   see:
     - hweil
-- word: hweinun
+- word: hweinŏn
   part: Verb
   meaning: to cry
   template: strong-1
@@ -928,7 +1071,7 @@
   meaning: "welp, young mammal"
   tags:
     - Animals
-- word: hwervun
+- word: hwervŏn
   part: Verb
   meaning: to throw
   template: strong-34-e
@@ -952,9 +1095,6 @@
   meaning: hay
   tags:
     - Plants
-- word: hért
-  part: Noun
-  meaning: heart
 - word: hód
   part: Noun
   meaning: "hood, head covering"
@@ -963,6 +1103,9 @@
   meaning: holly
   tags:
     - Plants
+- word: hűrwŏn
+  part: Verb
+  meaning: to hire
 - word: igil
   part: Noun
   meaning: hedgehog
@@ -973,6 +1116,9 @@
   meaning: beeswarm
   tags:
     - Animals
+- word: inboron
+  part: Adjective
+  meaning: innate
 - word: jung
   part: Adjective
   meaning: young
@@ -993,15 +1139,19 @@
   meaning: cat
   tags:
     - Animals
-- word: kaupjun
+- word: kaupjŏn
   part: Verb
   meaning: to buy
+  template: weak-jun
+- word: kerk
+  part: Noun
+  meaning: church
 - word: keukin
   part: Noun
   meaning: chicken
   tags:
     - Animals
-- word: keusun
+- word: keusŏn
   part: Verb
   meaning: to choose
   template: strong-2
@@ -1013,16 +1163,16 @@
 - word: klaiþ
   part: Noun
   meaning: "cloth, clothing, clothes"
-- word: kleivun
+- word: kleivŏn
   part: Verb
   meaning: to stick to
   template: strong-1
-- word: knedun
+- word: knedŏn
   part: Verb
   meaning: to knead
   template: strong-34-e
   note: Irregular strong-34-e
-- word: kneipun
+- word: kneipŏn
   part: Verb
   meaning: to pinch
   template: strong-1
@@ -1036,6 +1186,9 @@
   meaning: bone
   tags:
     - Time
+- word: kopp
+  part: Noun
+  meaning: head
 - word: korn
   part: Noun
   meaning: "seed, stone (of fruit)"
@@ -1062,13 +1215,13 @@
   meaning: cow
   tags:
     - Animals
-- word: kwemun
-  part: Verb
-  meaning: to come
-  template: strong-34-e
 - word: kwemun an
   part: Verb
   meaning: arrive
+  template: strong-34-e
+- word: kwemŏn
+  part: Verb
+  meaning: to come
   template: strong-34-e
 - word: kwik
   part: Adjective
@@ -1088,7 +1241,7 @@
 - word: káp
   part: Noun
   meaning: cape
-- word: küssjun
+- word: küssjŏn
   part: Verb
   meaning: to kiss
   see:
@@ -1098,6 +1251,10 @@
   meaning: salmon
   tags:
     - Animals
+- word: lairion
+  part: Verb
+  meaning: to teach
+  template: weak-jun
 - word: laiwarik
   part: Noun
   meaning: lark
@@ -1133,25 +1290,54 @@
     - Time
   see:
     - lat
+- word: laŏn
+  part: Noun
+  meaning: "wage, reward, pay"
+- word: lebruon
+  part: Noun
+  meaning: deliver
+- word: leib
+  part: Noun
+  meaning: life
 - word: leik
   part: Noun
   meaning: body
   tags:
     - Time
-- word: leivun
+- word: leivŏn
   part: Verb
   meaning: to remain
   template: strong-1
-- word: leusun
+- word: leiþon
+  part: Verb
+  meaning: to suffer
+  template: strong-1
+- word: lernon
+  part: Verb
+  meaning: to learn
+  template: weak-nun
+- word: leson
+  part: Verb
+  meaning: to read
+- word: leusŏn
   part: Verb
   meaning: to lose
   template: strong-2
+- word: lim
+  part: Noun
+  meaning: "limb, branch"
 - word: luhs
   part: Noun
   meaning: lynx
   tags:
     - Animals
-- word: látun
+- word: lust
+  part: Noun
+  meaning: desire
+- word: lár / lér
+  part: Adjective
+  meaning: empty
+- word: látŏn
   part: Verb
   meaning: to let
   template: strong-7d
@@ -1185,7 +1371,7 @@
 - word: malm
   part: Noun
   meaning: ore
-- word: malun
+- word: malŏn
   part: Verb
   meaning: to grind
   template: strong-6
@@ -1199,15 +1385,15 @@
   meaning: marten
   tags:
     - Animals
-- word: melkun
+- word: melkŏn
   part: Verb
   meaning: to milk
   template: strong-34-e
-- word: meltun
+- word: meltŏn
   part: Verb
   meaning: to melt (intransitive)
   template: strong-34-e
-- word: metun
+- word: metŏn
   part: Verb
   meaning: to measure
   template: strong-5
@@ -1260,19 +1446,22 @@
     - Descriptions
   see:
     - mindir
-- word: modŭr
+- word: mislukuon
+  part: Verb
+  meaning: to fail
+- word: modŏr
   part: Noun
   meaning: mother
   tags:
     - Family
-- word: morgun
-  part: Noun
-  meaning: morning
-  tags:
-    - Time
 - word: morgunis
   part: Noun
   meaning: in the mornings
+  tags:
+    - Time
+- word: morgŏn
+  part: Noun
+  meaning: morning
   tags:
     - Time
 - word: märhj
@@ -1280,6 +1469,9 @@
   meaning: female horse
   tags:
     - Animals
+- word: múl
+  part: Noun
+  meaning: jaws
 - word: mús
   part: Noun
   meaning: mouse
@@ -1295,13 +1487,13 @@
 - word: nat
   part: Adjective
   meaning: "wet, moist"
-- word: natjun
+- word: natjŏn
   part: Verb
   meaning: "to dampen, to moisten, to wetten"
 - word: naud
   part: Noun
   meaning: "need, emergency"
-- word: nemun
+- word: nemŏn
   part: Verb
   meaning: to take
   template: strong-34-e
@@ -1310,7 +1502,7 @@
   meaning: nest
   tags:
     - Animals
-- word: nesun
+- word: nesŏn
   part: Verb
   meaning: to heal (intransitive)
   template: strong-5
@@ -1328,11 +1520,11 @@
 - word: nuh
   part: Adverb
   meaning: yet
-- word: näriun
+- word: näriŏn
   part: Verb
   meaning: "to heal (transitive), to take care of"
   template: weak-jun
-- word: obŭtj
+- word: obŏtj
   part: Noun
   meaning: fruit
   tags:
@@ -1357,7 +1549,7 @@
 - word: penning (pänning)
   part: Noun
   meaning: coin
-- word: plehun
+- word: plehŏn
   part: Verb
   meaning: to commit
   template: strong-5
@@ -1369,7 +1561,13 @@
 - word: plúm
   part: Noun
   meaning: plum
-- word: pratuun
+- word: pogg
+  part: Noun
+  meaning: "toad, frog"
+- word: poggstól
+  part: Noun
+  meaning: mushroom (especially edible ones)
+- word: pratuŏn
   part: Verb
   meaning: to chat
 - word: páw
@@ -1377,6 +1575,17 @@
   meaning: peafowl
   tags:
     - Animals
+- word: raid
+  part: Adjective
+  meaning: ready
+- word: raidjun (1)
+  part: Verb
+  meaning: to arrange
+- word: raidjun (2)
+  part: Verb
+  meaning: to put into a means of transport
+  see:
+    - reidun
 - word: raih
   part: Noun
   meaning: deer
@@ -1392,7 +1601,7 @@
   meaning: red
   tags:
     - Descriptions
-- word: reidun
+- word: reidŏn
   part: Verb
   meaning: to ride
   template: strong-1
@@ -1406,36 +1615,46 @@
   meaning: rich
   see:
     - reikj (1)
-- word: reisun
+- word: reisŏn
   part: Verb
   meaning: "to travel, to increase (intransitive)"
   template: strong-1
-- word: rinnun
+- word: reþ
+  part: Noun
+  meaning: "speech, thing said"
+  notes: i-umlaut?
+- word: rinnŏn
   part: Verb
   meaning: to run
   template: strong-3-i
-- word: rádun
+- word: rád
+  part: Noun
+  meaning: "advise, speech"
+- word: rádŏn
   part: Verb
   meaning: to advise
   template: strong-7d
 - word: sam
   part: Verb
   meaning: same
-- word: samilun
+- word: samilŏn
   part: Verb
   meaning: to gather
-- word: sehun
+- word: samŏn
   part: Verb
-  meaning: to see
-  template: strong-5
+  meaning: together
 - word: sehun in
   part: Verb
   meaning: "to comprehend, to realise"
   template: strong-34-e
-- word: seldun
+- word: sehŏn
+  part: Verb
+  meaning: to see
+  template: strong-5
+- word: seldŏn
   part: Adverb
   meaning: seldom
-- word: seldun
+- word: seldŏn
   part: Adjective
   meaning: "rare, seldom"
 - word: selh
@@ -1446,40 +1665,71 @@
 - word: selv
   part: Noun
   meaning: self
+- word: senkion
+  part: Verb
+  meaning: to sink (transitive)
+  template: weak-jun
 - word: seuk
   part: Adjective
   meaning: "sick, ill"
-- word: singun
+- word: siht
+  part: Noun
+  meaning: sight
+- word: sikŏr
+  part: Adjective
+  meaning: safe
+- word: singŏn
   part: Verb
   meaning: to sing
   template: strong-3-i
-- word: skaiþun
+- word: sinkon
+  part: Verb
+  meaning: to sink (intransitive)
+  template: strong-3-i
+- word: skaiþŏn
   part: Verb
   meaning: to separate
   template: strong-7a
-- word: skakun
+- word: skakon
   part: Verb
   meaning: to shake
   template: strong-6
-- word: skeinun
+- word: skakŏn
+  part: Verb
+  meaning: to shake
+  template: strong-6
+- word: skap
+  part: Noun
+  meaning: "shape, condition, nature"
+- word: skehon
+  part: Verb
+  meaning: "to move or to jump, to happen"
+  template: strong-5
+- word: skeinŏn
   part: Verb
   meaning: to shine
   template: strong-1
-- word: skeitun
+- word: skeitŏn
   part: Verb
   meaning: "to shite, to defecate"
   template: strong-1
-- word: skeutun
+- word: skeutŏn
   part: Verb
   meaning: to shoot
   template: strong-2
+- word: skokk
+  part: Noun
+  meaning: shock
+- word: skokkuon
+  part: Verb
+  meaning: to shock
 - word: skor
   part: Noun
   meaning: shore
 - word: skrakŏw
   part: Noun
   meaning: "exaggeration, lie"
-- word: skraudun
+- word: skraudŏn
   part: Verb
   meaning: "to cut up, to shred"
   template: strong-7b
@@ -1491,27 +1741,41 @@
   meaning: sheep
   tags:
     - Animals
-- word: slahun
+- word: skóh
+  part: Noun
+  meaning: shoe
+  tags:
+    - Clothing
+- word: slahŏn
   part: Verb
   meaning: "to strike, to hit"
   template: strong-6
-- word: sleutun
+- word: sleutŏn
   part: Verb
   meaning: to close
   template: strong-2
-- word: slápun
+- word: slápŏn
   part: Verb
   meaning: to sleep
   template: strong-7d
 - word: smal
   part: Adjective
   meaning: small
+- word: smeil
+  part: Noun
+  meaning: smile
+- word: smeiluon
+  part: Verb
+  meaning: to smile
 - word: smelt
   part: Noun
   meaning: smelt
   tags:
     - Animals
-- word: sneidun
+- word: snakuon
+  part: Verb
+  meaning: to chat
+- word: sneidŏn
   part: Verb
   meaning: to snow
   template: strong-1
@@ -1520,40 +1784,58 @@
     - Adjective
     - Adverb
   meaning: fast
-- word: spanun
+- word: sokk
+  part: Noun
+  meaning: sock
+  tags:
+    - Clothing
+- word: spanŏn
   part: Verb
   meaning: "to stretch, to span"
   template: strong-7c-i
+- word: spilwŏn
+  part: Verb
+  meaning: to play
 - word: spit
   part: Noun
   meaning: tip (e.g of an arrow)
-- word: spleitun
+- word: spleitŏn
   part: Verb
   meaning: "to split, to divide"
   template: strong-1
-- word: sprekun
+- word: sprekŏn
   part: Verb
   meaning: to speak
   template: strong-34-e
   note: Irregular strong-34-e
-- word: springun
+- word: springŏn
   part: Verb
   meaning: to spring
   template: strong-3-i
-- word: stautun
+- word: stad
+  part: Noun
+  meaning: place
+- word: stadir
+  part: Preposition
+  meaning: instead of
+- word: stautŏn
   part: Verb
   meaning: "to push, to support"
   template: strong-7b
-- word: stekun
+- word: steikŏn
+  part: Verb
+  meaning: "to stick, to be stuck"
+  template: strong-1
+- word: stekŏn
   part: Verb
   meaning: to stab
   template: strong-34-e
   note: Irregular strong-34-e
-- word: stelun
+- word: stelŏn
   part: Verb
   meaning: to steal
   template: strong-34-e
-- word: stervun
+- word: stervŏn
   part: Verb
   meaning: to die
   template: strong-34-e
@@ -1562,7 +1844,7 @@
   meaning: bull
   tags:
     - Animals
-- word: stinkun
+- word: stinkŏn
   part: Verb
   meaning: to stink
   template: strong-3-i
@@ -1571,15 +1853,15 @@
   meaning: stork
   tags:
     - Animals
-- word: streidun
+- word: streidŏn
   part: Verb
   meaning: to quarrel
   template: strong-1
-- word: streidun
+- word: streidŏn
   part: Verb
   meaning: to quarrel
   template: strong-1
-- word: streikun
+- word: streikŏn
   part: Verb
   meaning: "to strike, to hit"
   template: strong-1
@@ -1591,6 +1873,9 @@
   meaning: male deer
   tags:
     - Animals
+- word: ställjŏn
+  part: Verb
+  meaning: "to put, to place"
 - word: stód
   part: Noun
   meaning: herd of horses
@@ -1604,12 +1889,15 @@
 - word: störj
   part: Noun
   meaning: sturgeon
-- word: sumŭr
+- word: sumŏr
   part: Noun
   meaning: summer
   tags:
     - Time
-- word: sundŭr
+- word: sundir
+  part: Preposition
+  meaning: without
+- word: sundŏr
   part: Adjective
   meaning: "alone, separate"
 - word: sunþ
@@ -1622,7 +1910,7 @@
   meaning: "sow, female pig"
   tags:
     - Animals
-- word: swaipun
+- word: swaipŏn
   part: Verb
   meaning: to sweep
   template: strong-7a
@@ -1634,6 +1922,9 @@
 - word: swalw
   part: Noun
   meaning: swallow (bird)
+- word: swamm
+  part: Noun
+  meaning: "fungus, mushroom"
 - word: swan
   part: Noun
   meaning: swan
@@ -1644,11 +1935,12 @@
   meaning: black
   tags:
     - Descriptions
-- word: swarun
+- word: swarŏn
   part: Verb
-  meaning: to swear
+  meaning: to swear (to make a solemn promise)
   tags:
     - Language
+  template: strong-6
 - word: swaïgian
   part: Verb
   meaning: "to sway, to rock"
@@ -1657,20 +1949,24 @@
   meaning: "swine, pig"
   tags:
     - Animals
-- word: swellun
+- word: swellŏn
   part: Verb
   meaning: to swell
   template: strong-34-e
-- word: swestŭr
+- word: sweron
+  part: Verb
+  meaning: "to swear, to make an oath"
+  template: strong-6-j
+- word: swestŏr
   part: Noun
   meaning: brother
   tags:
     - Family
-- word: swindun
+- word: swindŏn
   part: Verb
   meaning: to dwindle
   template: strong-3-i
-- word: swingun
+- word: swingŏn
   part: Verb
   meaning: to swing (intransitive)
   template: strong-3-i
@@ -1680,30 +1976,64 @@
 - word: taihŏw
   part: Noun
   meaning: toe
-- word: teuhun
+- word: tanþ
+  part: Noun
+  meaning: tooth
+- word: taubŏr
+  part: Noun
+  meaning: magic
+- word: teuhŏn
   part: Verb
   meaning: to pull
   template: strong-2
-- word: titirjun
+- word: titirjŏn
   part: Verb
   meaning: "shiver, shake, vibrate"
+- word: tweig
+  part: Noun
+  meaning: twig
 - word: twiskir
   part: Preposition
   meaning: "between, among"
-- word: wagun
+- word: und-
+  part:
+    - Affix
+  meaning:
+    'prefix for verbs or nouns meaning "against", or indicating "removal"'
+- word: undgäldj
+  part: Noun
+  meaning: "compensation, recompense"
+  see:
+    - und-
+- word: undgäldjŏn
+  part: Verb
+  meaning: "to recompense, to compensate"
+  see:
+    - gäldjun
+    - und-
+- word: undkwemmŏn
+  part: Verb
+  meaning: "to leave, to flee"
+  see:
+    - kwemmun
+    - und-
+- word: ursak
+  part: Noun
+  meaning: cause
+- word: wagŏn
   part: Noun
   meaning: "wagon, cart"
 - word: wahs
   part: Noun
   meaning: wax
-- word: wahsun
+- word: wahsŏn
   part: Verb
   meaning: to grow
   template: strong-6
 - word: waikw
   part: Adjective
   meaning: "weak, soft"
-- word: wakun
+- word: wakŏn
   part: Verb
   meaning: to awaken (intransitive)
   template: strong-6
@@ -1714,7 +2044,7 @@
   meaning: forest
   tags:
     - Nature
-- word: wardun
+- word: wardŏn
   part: Verb
   meaning: "to wait, to guard, to keep watch"
 - word: warm
@@ -1725,14 +2055,24 @@
   meaning: spring
   tags:
     - Time
-- word: weipun
+- word: weipŏn
   part: Verb
   meaning: to wipe
   template: strong-1
-- word: werþun
+- word: wel
+  part: Adverb
+  meaning: very
+- word: wendion
+  part: Verb
+  meaning: to turn; to put to use
+  template: weak-jun
+- word: werþŏn
   part: Verb
   meaning: to become
   template: strong-34-e
+- word: wesonhaid
+  part: Noun
+  meaning: essence
 - word: west
   part: Noun
   meaning: west
@@ -1741,7 +2081,7 @@
 - word: wind
   part: Noun
   meaning: wind
-- word: wintŭr
+- word: wintŏr
   part: Noun
   meaning: winter
   tags:
@@ -1752,14 +2092,14 @@
   tags:
     - Descriptions
   see:
-    - üvil
+    - übil
 - word: wirst
   part: Adjective
   meaning: worst
   tags:
     - Descriptions
   see:
-    - üvil
+    - übil
 - word: wisul
   part: Noun
   meaning: weasel
@@ -1780,11 +2120,17 @@
   meaning: worm
   tags:
     - Animals
-- word: wrekun
+- word: wort
+  part: Noun
+  meaning: plant
+- word: wrekŏn
   part: Verb
   meaning: to punish
   template: strong-5
-- word: wäkiun
+- word: wár
+  part: Adjective
+  meaning: truth
+- word: wäkiŏn
   part: Verb
   meaning: to wake up (transitive)
   template: weak-jun
@@ -1798,16 +2144,11 @@
   meaning: ape
   tags:
     - Animals
-- word: äbj
-  part: Noun
-  meaning: "low tide, ebb"
+- word: übil
+  part: Adjective
+  meaning: bad
   tags:
-    - Nature
-- word: äw
-  part: Noun
-  meaning: "ewe, female sheep"
-  tags:
-    - Animals
+    - Descriptions
 - word: üm
   part: Preposition
   meaning: around
@@ -1816,11 +2157,6 @@
   meaning: because
   see:
     - üm
-- word: üvil
-  part: Adjective
-  meaning: bad
-  tags:
-    - Descriptions
 - word: þahs
   part: Noun
   meaning: badger
@@ -1832,6 +2168,9 @@
 - word: þik
   part: Adjective
   meaning: thick
+- word: þorh
+  part: Preposition
+  meaning: through
 - word: þorp
   part: Noun
   meaning: village
@@ -1850,7 +2189,7 @@
   meaning: thrush (bird)
   tags:
     - Animals
-- word: þringun
+- word: þringŏn
   part: Verb
   meaning: to press
   template: strong-3-i
@@ -1859,14 +2198,14 @@
   meaning: urgent
   see:
     - þrinhwun
-- word: þrinhwun
+- word: þrinhwŏn
   part: Verb
   meaning: to press; to be urgent
-- word: þráwun
+- word: þráwŏn
   part: Verb
   meaning: "to turn, to twist"
   template: strong-7d
-- word: þäkjun
+- word: þäkjŏn
   part: Verb
   meaning: cover
 - word: þünn
