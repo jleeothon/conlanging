@@ -1,7 +1,0 @@
-## Feelings
-
-### lúv
-
-(Noun)
-
-love
