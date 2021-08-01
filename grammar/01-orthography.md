@@ -4,10 +4,10 @@
 
 | Ortography | Pronunciation |
 | ---------- | ------------- |
-| i          | /i/           |
-| u (ŭ)      | /u/           |
-| e          | /e/           |
-| o          | /o/           |
+| i          | /ɪ/           |
+| u (ŭ)      | /ʊ/           |
+| e          | /ɛ/           |
+| o          | /ɔ/           |
 | a          | /a/           |
 | ü          | /ʏ/           |
 | ö          | /œ/           |
@@ -20,9 +20,7 @@
 | ei         | /iː/          |
 | eu         | /yː/          |
 | ai         | /ɛː/          |
-| au         | /oː/          |
-| äi         | /ai/          |
-| äu         | /au/          |
+| au         | /ɔː/          |
 
 The vowel ⟨ŭ⟩ is used in dictionaries and grammars to represent full vowels in
 vowel-zero alternations.

@@ -16,12 +16,12 @@ To be:
 | ----------- | ------- | --------- |
 | Inifinitive | wesun   | werun     |
 | Participle  | wesend  | wesun     |
-| 1st. sg.    | im      | was       |
+| 1st. sg.    | bim     | was       |
 | 2nd. sg.    | ires    | wars      |
 | 3rd. sg.    | is      | was       |
-| 1st. pl.    | sum     | werem     |
-| 2nd. pl.    | sur     | werer     |
-| 3rd. pl.    | sund    | weren     |
+| 1st. pl.    | sum     | warem     |
+| 2nd. pl.    | sur     | warer     |
+| 3rd. pl.    | sund    | waren     |
 
 To stand:
 
@@ -66,13 +66,26 @@ To go:
 
 To have:
 
+|             | Present  | Preterite |
+| ----------- | -------- | --------- |
+| Inifinitive | hebbion  | hadun     |
+| Participle  | hebbiond | had       |
+| 1st. sg.    | hebb     | hade      |
+| 2nd. sg.    | hebbies  | hades     |
+| 3rd. sg.    | hebbiet  | hade      |
+| 1st. pl.    | hebbiem  | hadem     |
+| 2nd. pl.    | hebbier  | hader     |
+| 3rd. pl.    | hebbien  | haden     |
+
+---
+
 |             | Present | Preterite |
 | ----------- | ------- | --------- |
-| Inifinitive | hävun   | hadun     |
-| Participle  | hävend  | had       |
-| 1st. sg.    | häf     | hade      |
-| 2nd. sg.    | häs     | hades     |
-| 3rd. sg.    | hät     | hade      |
-| 1st. pl.    | hävem   | hadem     |
-| 2nd. pl.    | häver   | hader     |
-| 3rd. pl.    | häven   | haden     |
+| Inifinitive | aigon   | aihton    |
+| Participle  | aigond  | aihton    |
+| 1st. sg.    | aigu    | aihte     |
+| 2nd. sg.    | aiges   | aihtes    |
+| 3rd. sg.    | aiget   | aihte     |
+| 1st. pl.    | aigem   | aihtem    |
+| 2nd. pl.    | aiger   | aihter    |
+| 3rd. pl.    | aigen   | aihten    |

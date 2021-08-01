@@ -36,27 +36,27 @@ Strong:
 
 |            | Present | Past |
 | ---------- | ------- | ---- |
-| Infinitive | -en     | -en  |
-| Participle | -end    | -en  |
+| Infinitive | -on     | -on  |
+| Participle | -ond    | -on  |
 | 1st sg.    | -u      | -    |
 | 2nd sg.    | -es     | -es  |
 | 3rd sg.    | -et     | -    |
 | 1st pl.    | -em     | -em  |
 | 2nd pl.    | -ej     | -ej  |
-| 3rd pl.    | -un     | -un  |
+| 3rd pl.    | -en     | -en  |
 
 Regular weak:
 
-|            | Present | Past  |
-| ---------- | ------- | ----- |
-| Infinitive | -ien    | -iden |
-| Participle | -ind    | -id   |
-| 1st sg.    | -iu     | -ide  |
-| 2nd sg.    | -is     | -ides |
-| 3rd sg.    | -it     | -ide  |
-| 1st pl.    | -im     | -idem |
-| 2nd pl.    | -ij     | -idej |
-| 3rd pl.    | -iun    | -idun |
+|            | Present | Past  | Present | Past  | Preset | Past |
+| ---------- | ------- | ----- | ------- | ----- | ------ | ---- |
+| Infinitive | -ion    | -idon | -uon    | -udon |        |      |
+| Participle | -iond   | -iod  | -uond   | -uod  |        |      |
+| 1st sg.    | -eu     | -ide  | -eu     | -ude  |        |      |
+| 2nd sg.    | -es     | -ides | -es     | -udes |        |      |
+| 3rd sg.    | -et     | -ide  | -et     | -ude  |        |      |
+| 1st pl.    | -em     | -idem | -em     | -udem |        |      |
+| 2nd pl.    | -er     | -ider | -er     | -uder |        |      |
+| 3rd pl.    | -en     | -iden | -en     | -uden |        |      |
 
 Rückumlaut weak (may have -t- affix instead of -d-):
 
@@ -69,7 +69,7 @@ Rückumlaut weak (may have -t- affix instead of -d-):
 | 3rd sg.    | -it     | -de  |
 | 1st pl.    | -im     | -dem |
 | 2nd pl.    | -ij     | -dej |
-| 3rd pl.    | -iun    | -dun |
+| 3rd pl.    | -iun    | -den |
 
 Preterite-present (may have -t- affix instead of -d-):
 
@@ -130,10 +130,10 @@ persons. Without context, the first person is assumed.
 
 Regular weak verbs can be distinguished according to their endings:
 
-- weak verbs ending in _-jun_,
-- weak verbs ending in _-wun_,
-- weak verbs ending in _-ilun_,
-- weak verbs ending in _-nun_.
+- weak verbs ending in _-ion_ (causative),
+- weak verbs ending in _-ilon_ (frequentative),
+- weak verbs ending in _-non_ (inchoative),
+- weak verbs ending in _-uon_ (other).
 
 ### Rückumlaut verbs
 
@@ -202,8 +202,8 @@ intransitive from a transitive verb.
 
 | Strong ablaut | Weak causative   |
 | ------------- | ---------------- |
-| ei-ai-i       | äi               |
-| eu-au-u       | äu               |
+| ei-ai-i       | ai               |
+| eu-au-u       | au               |
 | i-a-u         | ä                |
 | e-a-o         | ä                |
 | e-a-e         | ä                |
@@ -213,7 +213,7 @@ intransitive from a transitive verb.
 | á-é-á         | (Not productive) |
 | ó-é-ó         | (Not productive) |
 
-> ⚠️ Self-note: the sequence a-u-a should, by PGmc>Theudisk sound changes, be
+> ⚠️ Self-note: the sequence a-u-a should, by PGmc>Slumpisk sound changes, be
 > a-ó-a. But I'm considering a-ó-a, a-ú-a, a-u-a.
 >
 > The problem with a-u-a is that it may create derivative words that class. The

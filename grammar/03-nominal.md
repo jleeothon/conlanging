@@ -1,22 +1,32 @@
 ## Nominal paradigms
 
+All noun phrases must be "complete". A noun phrase is complete when:
+
+- (a) it has a determiner,
+- (b) or has no determiner but an strongly declined noun,
+- (c) or has no determiner but a strongly declined adjective without a noun
+  (e.g. _þe rauda_ "the red one"),
+- (d) or is a pronoun.
+
+In most cases, the number and case of a complete noun phrase is always noun.
+
+In case (a), a noun is strongly
+
 **Nouns** decline for number and case. There are weak and strong paradigms.
 
-The **weak noun paradigm** requires a determiner; it is:
+The **weak noun paradigm**:
 
 |           | Singular | Plural |
 | --------- | -------- | ------ |
-| Nom.-Acc. | - / -a   | -an    |
+| Nom.-Acc. | -        | -an    |
 | Gen.      | -as      | -ar    |
-
-The **weak adjective** ending for all cases and numbers is: _-a_.
 
 The **strong noun paradigm** is used in literary contexts and when a determiner
 is dropped; it is:
 
 |      | Singular  | Plural |
 | ---- | --------- | ------ |
-| Nom. | - / -a    | -ai    |
+| Nom. | -         | -ai    |
 | Acc. | -am / -at | -an    |
 | Gen. | -an       | -ar    |
 
@@ -26,8 +36,13 @@ Regular nouns take no ending in the nominative singular; nouns from adjectives
 There is an animacy distinction in the strong accusative singular: _-am_ for
 animate and _-at_ for inanimate.
 
-The **strong adjective paradigm** is used in literary contexts and when the noun
-is omitted:
+The **weak adjective paradigm** is used when a noun is preceded by a determiner:
+
+|           | All numbers |
+| --------- | ----------- |
+| All cases | -a          |
+
+The **strong adjective paradigm** is used when the noun is omitted:
 
 |      | Singular  | Plural |
 | ---- | --------- | ------ |
@@ -54,14 +69,16 @@ nonpersonhood, or animate and inanimate, according to context and preference.
 
 |      | 1st sg. | 2nd sg. | 3rd sg. masc. | 3rd sg epi. | 3rd fem. | 1st pl. | 2nd pl. | 3rd pl. | 3rd refl. |
 | ---- | ------- | ------- | ------------- | ----------- | -------- | ------- | ------- | ------- | --------- |
-| Nom. | ik      | þu      | he            | þe          | se       | we      | je      | þai     |           |
-| Acc. | mih     | þih     | hem           | þem/þet     | sem      | uns     | jew     | þain    | sih       |
-| Gen. | mein    | þein    | hes           | þes         | ses      | unser   | jewer   | þair    | sein      |
+| Nom. | ik      | þu      | he            | þé          | se       | we      | je      | þái     |           |
+| Acc. | mih     | þih     | hem           | þém/þét     | sem      | uns     | juh     | þén     | sih       |
+| Gen. | mein    | þein    | hes           | þés         | ses      | unsar   | jewar   | þér     | sein      |
 
-There is an animacy distinction in the 3rd person epicine singular pronoun.
+There is an animacy distinction in the 3rd person epicine singular pronoun. The
+diacritic on the 3rd persons is only an ortographic convention to distinguish it
+from the definite article.
 
-As with nouns, genitive pronouns / possessives follow the noun they modify. They
-do not inflect. For example: _þe kat mien_ "my cat".
+As with the genitive of nouns, genitive pronouns ("possessives") follow the noun
+they modify. They do not inflect. For example: _þe kat mien_ "my cat".
 
 ### Determiners
 
@@ -72,7 +89,8 @@ They are any of:
 
 - definite and indefinite articles,
 - demonstratives,
-- quantifiers
+- quantifiers,
+- numerals.
 
 ### Definite and indefinite articles and pronouns
 
@@ -80,9 +98,9 @@ The definite articles and definite pronoun are the same:
 
 |      | Singular  | Plural |
 | ---- | --------- | ------ |
-| Nom. | þe        | þei    |
-| Acc. | þem / þet | þen    |
-| Gen. | þes       | þer    |
+| Nom. | þe        | þai    |
+| Acc. | þem / þet | þan    |
+| Gen. | þes       | þar    |
 
 Note that the singular forms are the same as the 3rd person epicine pronouns.
 There is only a subtle distinction betwen the definite pronouns and the 3rd
@@ -91,11 +109,11 @@ distinction is not important.
 
 The indefinite article and indefinite pronouns:
 
-|      | Singular      | Plural |
-| ---- | ------------- | ------ |
-| Nom. | **ain**       | ainai  |
-| Acc. | **aim / ait** | ainan  |
-| Gen. | ainas         | ainar  |
+|      | Singular    | Plural |
+| ---- | ----------- | ------ |
+| Nom. | **en**      | ena    |
+| Acc. | **em / et** | enan   |
+| Gen. | **es**      | enar   |
 
 Should I distinguish the definite article and pronoun❓ The article could look
 like an unstressed form: _en, et, enas, enai, einan, enar_.
@@ -103,24 +121,24 @@ like an unstressed form: _en, et, enas, enai, einan, enar_.
 ### Quantifiers
 
 The negative quantifier, both article and pronoun, works like HG "kein" or
-NL/NDS "keen":
+NL/NDS "keen", and follows the declension paradigm of _en_:
 
-|      | Singular | Plural |
-| ---- | -------- | ------ |
-| Nom. | **nain** | nainai |
-| Acc. | **nait** | nainan |
-| Gen. | nainas   | nainar |
+|      | Singular      | Plural |
+| ---- | ------------- | ------ |
+| Nom. | **nen**       | nena   |
+| Acc. | **nem / net** | nenan  |
+| Gen. | **nes**       | nenar  |
 
-The universal quantifier, both article and pronoun:
+Most other quantifiers have this declension paradigm:
 
-|      | Singular | Plural |
-| ---- | -------- | ------ |
-| Nom. | **all**  | allai  |
-| Acc. | **alt**  | allan  |
-| Gen. | allas    | allar  |
+|      | Singular  | Plural |
+| ---- | --------- | ------ |
+| Nom. | -a        | -a     |
+| Acc. | -am / -at | -an    |
+| Gen. | -as       | -ar    |
 
-Other adjectives may act as quantifiers if they are strongly inflected e.g.
-_sum_ "some", without a literary register.
+Some examples of quantifiers that follow that paradigm are: _alla_ "all",
+_manga_ "many", _suma_ "some", _fawa_ "few".
 
 ### Demonstratives
 

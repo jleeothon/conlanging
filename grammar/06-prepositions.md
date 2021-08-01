@@ -11,8 +11,8 @@ have a complement.
 - With an argument indicates location. _Þe kat hlaupet in þet hús._
 - Without an argument indicates direction. _Þe kat hlaupet in._
 - Combined with _to_ indicates direction. _Þe kat hlaupet in to þet hús._
-- Adverb of location: _binans_.
-- Adverb of direction: _inwards_.
+- Adverb of location: _binins_.
+- Adverb of direction: _inwarþis_.
 - Adjective of location: _inig_.
 
 **ut**
