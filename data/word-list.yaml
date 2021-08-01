@@ -1,1279 +1,1308 @@
-- word: "-bár"
-  part: Affix
-  meaning: "adjective suffix, akin to -able."
-- word: abgrund
-  part: Noun
+- entry: "-bár"
+  pos: Affix
+  meaning: adjective suffix, akin to -able.
+- entry: abgrund
+  pos: Noun
   meaning: precipice
-- word: abhangighaid
-  part: Noun
-  meaning: "dependence, attachment"
-- word: ahsihtj
-  part: Noun
+- entry: abhangighaid
+  pos: Noun
+  meaning: dependence, attachment
+- entry: ahsihtj
+  pos: Noun
   meaning: aspect
-- word: aht
-  part: Noun
+- entry: aht
+  pos: Noun
   meaning: attention
-- word: aigonskap
-  part: Noun
-  meaning: "characteristic, property"
-- word: aik
-  part: Noun
+- entry: aigonskap
+  pos: Noun
+  meaning: characteristic, property
+- entry: aik
+  pos: Noun
   meaning: oak
   tags:
     - Nature
-- word: aikwerŏn
-  part: Noun
+- entry: aikwerŏn
+  pos: Noun
   meaning: squirrel
   tags:
     - Animals
   istem: akwern-
-- word: aindagis
-  part: Adverb
-  meaning: "one day, some day"
-- word: ainkil
-  part: Adjective
-  meaning: "single, only one"
+- entry: aindagis
+  pos: Adverb
+  meaning: one day, some day
+- entry: ainist
+  pos: Adverb
+  meaning: once
+- entry: ainkil
+  pos: Adjective
+  meaning: single, only one
   tags:
     - Numbers
-- word: air (2)
-  part: Noun
-  meaning: "reverence, honour"
-- word: airig (1)
-  part: Adjective
+- entry: air (2)
+  pos: Noun
+  meaning: reverence, honour
+- entry: airig (1)
+  pos: Adjective
   meaning: early
   tags:
     - Time
-- word: akor
-  part: Noun
+- entry: akor
+  pos: Noun
   meaning: field
-- word: ald
-  part: Adjective
+- entry: ald
+  pos: Adjective
   meaning: old
   tags:
     - Descriptions
-- word: aldŏr
-  part: Noun
+- entry: aldŏr
+  pos: Noun
   meaning: age
-- word: allain (1)
-  part: Adverb
+- entry: allain (1)
+  pos: Adverb
   meaning: only
-- word: allain (2)
-  part: Adjective
+- entry: allain (2)
+  pos: Adjective
   meaning: alone
-- word: amsul
-  part: Noun
+- entry: amsul
+  pos: Noun
   meaning: blackbird
   tags:
     - Animals
-- word: and
-  part: Conjunction
+- entry: and
+  pos: Conjunction
   meaning: and
-- word: andhüllion
-  part: Verb
+- entry: andhüllion
+  pos: Verb
   meaning: to revelate
-- word: anþor
-  part: Noun
+- entry: antworduon
+  pos: Verb
+  meaning: to answer
+- entry: anþor
+  pos: Noun
   meaning: other
-- word: apŏl
-  part: Noun
+- entry: apŏl
+  pos: Noun
   meaning: apple
   tags:
     - Nature
     - Food
-- word: ard
-  part: Noun
-  meaning: "type, kind"
-- word: arhw
-  part: Noun
+- entry: ard
+  pos: Noun
+  meaning: type, kind
+- entry: arhw
+  pos: Noun
   meaning: arrow
-- word: arm (1)
-  part: Noun
+- entry: arm (1)
+  pos: Noun
   meaning: arm
   tags:
     - Time
-- word: aug
-  part: Noun
+- entry: aug
+  pos: Noun
   meaning: eye
   tags:
     - Body
-- word: auk
-  part: Adverb
-  meaning: "also, too (including)"
-- word: aust
-  part: Noun
+- entry: auk
+  pos: Adverb
+  meaning: also, too (including)
+- entry: aust
+  pos: Noun
   meaning: east
   tags:
     - Geography
-- word: avir
-  part: Conjunction
-  meaning: "but, however"
-- word: avund
-  part: Noun
+- entry: avir
+  pos: Conjunction
+  meaning: but, however
+- entry: avund
+  pos: Noun
   meaning: evening
   synonyms:
     - kwild
   tags:
     - Time
-- word: aþol
-  part: Adjective
+- entry: aþol
+  pos: Adjective
   meaning: noble
-- word: bain
-  part: Noun
+- entry: bain
+  pos: Noun
   meaning: leg
   tags:
     - Body
-- word: bakŏn
-  part: Verb
+- entry: bakŏn
+  pos: Verb
   meaning: to bake (transitive and intransitive)
   template: strong-6
-- word: bannŏn
-  part: Verb
+- entry: bannŏn
+  pos: Verb
   meaning: to ban
   template: strong-7c-i
-- word: bar
-  part: Adjective
-  meaning: "only, mere, bare"
-- word: bard
-  part: Noun
+- entry: bar
+  pos: Adjective
+  meaning: only, mere, bare
+- entry: bard
+  pos: Noun
   meaning: beard
-- word: barisk
-  part: Adjective
+- entry: barisk
+  pos: Adjective
   meaning: purple
   tags:
     - Descriptions
-- word: bars
-  part: Noun
+- entry: bars
+  pos: Noun
   meaning: perch
   tags:
     - Animals
-- word: baugjŏn
-  part: Verb
+- entry: baugjŏn
+  pos: Verb
   meaning: to bend (transitive)
   see:
     - beugun
-- word: baum
-  part: Noun
+- entry: baum
+  pos: Noun
   meaning: tree
   tags:
     - Plants
-- word: bautŏn
-  part: Verb
+- entry: bautŏn
+  pos: Verb
   meaning: to beat
   template: strong-7b
-- word: bedwŏn
-  part: Verb
+- entry: bedwŏn
+  pos: Verb
   meaning: to pray
-- word: berŏn
-  part: Verb
+- entry: berŏn
+  pos: Verb
   meaning: to bear
   template: strong-34-e
-- word: beugŏn
-  part: Verb
+- entry: beugŏn
+  pos: Verb
   meaning: to bend (intransitive)
   template: strong-2
   see:
     - baugjun
-- word: beutŏn
-  part: Verb
+- entry: beutŏn
+  pos: Verb
   meaning: to offer
   template: strong-2
-- word: bevur
-  part: Noun
+- entry: bevur
+  pos: Noun
   meaning: beaver
   tags:
     - Animals
-- word: bihlastwŏn
-  part: Verb
-  meaning: "to annoy, to harass"
+- entry: bihlastwŏn
+  pos: Verb
+  meaning: to annoy, to harass
   see:
     - hlast
-- word: bij
-  part: Noun
+- entry: bij
+  pos: Noun
   meaning: bee
   tags:
     - Animals
-- word: bikj
-  part: Noun
+- entry: bikj
+  pos: Noun
   meaning: female dog
   tags:
     - Animals
-- word: bikwém
-  part: Adjective
+- entry: bikwém
+  pos: Adjective
   meaning: comfortable
-- word: bilaunwŏn
-  part: Verb
-  meaning: "to wage, to reward, to pay"
-- word: bindŏn
-  part: Verb
+- entry: bilaunwŏn
+  pos: Verb
+  meaning: to wage, to reward, to pay
+- entry: bindŏn
+  pos: Verb
   meaning: to bind
   template: strong-3-i
-- word: binins
-  part: Preposition
+- entry: binins
+  pos: Preposition
   meaning: including
-- word: biskreibon
-  part: Verb
+- entry: biskreibon
+  pos: Verb
   meaning: describe
   template: strong-1
-- word: bisundris
-  part: Adverb
-  meaning: "especially, particularly"
-- word: bisundŏr
-  part: Adjective
-  meaning: "special, unusual"
-- word: bisweron
-  part: Verb
+- entry: bisundris
+  pos: Adverb
+  meaning: especially, particularly
+- entry: bisundŏr
+  pos: Adjective
+  meaning: special, unusual
+- entry: bisweron
+  pos: Verb
   meaning: to complain
   template: strong-6-j
-- word: blad
-  part: Noun
+- entry: blad
+  pos: Noun
   meaning: blade
-- word: blandŏn
-  part: Verb
+- entry: blandŏn
+  pos: Verb
   meaning: to blend
   template: strong-7c-i
-- word: blaut
-  part:
+- entry: blaut
+  pos:
     - Adjective
     - Adverb
-  meaning: "bare, only, simply"
-- word: blowan
-  part: Verb
+  meaning: bare, only, simply
+- entry: blowan
+  pos: Verb
   meaning: to flower
   template: strong-7e
-- word: blásŏn
-  part: Verb
+- entry: blásŏn
+  pos: Verb
   meaning: to blow
   template: strong-7d
-- word: bláw
-  part: Adjective
+- entry: bláw
+  pos: Adjective
   meaning: blue
   tags:
     - Descriptions
-- word: blóm
-  part: Noun
+- entry: blóm
+  pos: Noun
   meaning: flower
-- word: blóm
-  part: Noun
+- entry: blóm
+  pos: Noun
   meaning: flower
   tags:
     - Plants
-- word: bohs
-  part: Noun
+- entry: bohs
+  pos: Noun
   meaning: boxwood
   tags:
     - Plants
-- word: bradŏn
-  part: Verb
+- entry: bradŏn
+  pos: Verb
   meaning: to cook in a pan
   template: strong-7d
-- word: brekŏn
-  part: Verb
+- entry: brekŏn
+  pos: Verb
   meaning: to break
   template: strong-34-e
   note: Irregular strong-34-e
-- word: breust
-  part: Noun
-  meaning: "breast, chest"
+- entry: breust
+  pos: Noun
+  meaning: breast, chest
   tags:
     - Body
-- word: bronn
-  part: Noun
-  meaning: "fountain, well, wellspring"
+- entry: bronn
+  pos: Noun
+  meaning: fountain, well, wellspring
   tags:
     - Nature
-- word: broþŏr
-  part: Noun
+- entry: broþŏr
+  pos: Noun
   meaning: brother
   tags:
     - Family
-- word: brámulbärj
-  part: Noun
-  meaning: "blackberry, raspberry"
-- word: brún
-  part: Adjective
+- entry: brámulbärj
+  pos: Noun
+  meaning: blackberry, raspberry
+- entry: brún
+  pos: Adjective
   meaning: brown
   tags:
     - Descriptions
-- word: brügj
-  part: Noun
+- entry: brügj
+  pos: Noun
   meaning: bridge
   tags:
     - Civilisation
-- word: bukk
-  part: Noun
-  meaning: "buck, male of a mammal"
+- entry: bukk
+  pos: Noun
+  meaning: buck, male of a mammal
   tags:
     - Animals
-- word: bul
-  part: Noun
+- entry: bul
+  pos: Noun
   meaning: bull
   tags:
     - Animals
-- word: butins
-  part: Preposition
+- entry: butins
+  pos: Preposition
   meaning: except
-- word: bärj
-  part: Noun
+- entry: bärj
+  pos: Noun
   meaning: berry
   tags:
     - Nature
     - Food
     - Plants
-- word: bäst
-  part: Adjective
+- entry: bäst
+  pos: Adjective
   meaning: best
   tags:
     - Descriptions
   see:
     - gód
-- word: bätir
-  part: Adjective
+- entry: bätir
+  pos: Adjective
   meaning: better
   tags:
     - Descriptions
   see:
     - gód
-- word: bér
-  part: Noun
+- entry: bér
+  pos: Noun
   meaning: bear
   tags:
     - Animals
-- word: bók (1)
-  part: Noun
+- entry: bók (1)
+  pos: Noun
   meaning: book
-- word: bók (2)
-  part: Noun
+- entry: bók (2)
+  pos: Noun
   meaning: beech
   tags:
     - Nature
-- word: bót
-  part: Noun
+- entry: bót
+  pos: Noun
   meaning: boat
-- word: dag
-  part: Noun
+- entry: dag
+  pos: Noun
   meaning: day
   tags:
     - Time
-- word: dagis
-  part: Adverb
+- entry: dagis
+  pos: Adverb
   meaning: during the day
   tags:
     - Time
   see:
     - dag
-- word: dail
-  part: Noun
-  meaning: "part, portion, fraction"
-- word: dailjŏn
-  part: Verb
+- entry: dail
+  pos: Noun
+  meaning: part, portion, fraction
+- entry: dailjŏn
+  pos: Verb
   meaning: to divide
   template: weak-jun
-- word: damp
-  part: Noun
+- entry: damp
+  pos: Noun
   meaning: vapour
-- word: daud
-  part: Noun
+- entry: daud
+  pos: Noun
   meaning: dead
-- word: daudjŏn
-  part: Verb
+- entry: daudjŏn
+  pos: Verb
   meaning: to kill
   template: weak-jun
-- word: dauþ
-  part: Noun
+- entry: dauþ
+  pos: Noun
   meaning: death
-- word: deur
-  part: Noun
+- entry: deur
+  pos: Noun
   meaning: animal
   tags:
     - Animals
-- word: dewŏn
-  part: Verb
+- entry: dewŏn
+  pos: Verb
   meaning: to die
   template: strong-34-e
-- word: dragŏn
-  part: Verb
+- entry: dragŏn
+  pos: Verb
   meaning: to carry
   template: strong-6
-- word: dragŏn
-  part: Verb
+- entry: dragŏn
+  pos: Verb
   meaning: to wear
   template: strong-6
-- word: draug
-  part: Adjective
+- entry: draug
+  pos: Adjective
   meaning: dry
-- word: draugiŏn
-  part: Verb
+- entry: draugiŏn
+  pos: Verb
   meaning: to dry
-- word: draum
-  part: Verb
+- entry: draum
+  pos: Verb
   meaning: dream
-- word: dreivan
-  part: Verb
+- entry: dreivan
+  pos: Verb
   meaning: to drive
-- word: drepŏn
-  part: Verb
+- entry: drepŏn
+  pos: Verb
   meaning: to meet
   template: strong-34-e
-- word: dreupŏn
-  part: Verb
+- entry: dreupŏn
+  pos: Verb
   meaning: to drip
   template: strong-2
-- word: drinkŏn
-  part: Verb
+- entry: drinkŏn
+  pos: Verb
   meaning: to drink
   template: strong-3-i
-- word: drivian
-  part: Noun
+- entry: drivian
+  pos: Noun
   meaning: to drift
   tags:
     - Movement
-- word: duhtŏr
-  part: Noun
+- entry: duhtŏr
+  pos: Noun
   meaning: daughter
-- word: dumb
-  part: Adjective
-  meaning: "stupid, dumb"
-- word: dunkŏl
-  part: Adjective
+- entry: dumb
+  pos: Adjective
+  meaning: stupid, dumb
+- entry: dunkŏl
+  pos: Adjective
   meaning: dark
-- word: dunkŏr
-  part: Adjective
+- entry: dunkŏr
+  pos: Adjective
   meaning: dark
-- word: dusk
-  part: Adjective
+- entry: dusk
+  pos: Adjective
   meaning: dark
-- word: dweinŏn
-  part: Verb
+- entry: dweinŏn
+  pos: Verb
   meaning: to disappear
   template: strong-1
-- word: dwás
-  part: Adjective
-  meaning: "stupid, foolish"
-- word: dór
-  part: Noun
+- entry: dwás
+  pos: Adjective
+  meaning: stupid, foolish
+- entry: dör
+  pos: Noun
   meaning: door
-- word: dúv
-  part: Noun
+- entry: dor
+  pos: Noun
+  meaning: gate, door
+- entry: dúv
+  pos: Noun
   meaning: dove
   tags:
     - Animals
-- word: ebb
-  part: Noun
-  meaning: "low tide, ebb"
+- entry: ebb
+  pos: Noun
+  meaning: low tide, ebb
   tags:
     - Nature
-- word: ehw
-  part: Noun
+- entry: ehw
+  pos: Noun
   meaning: horse
   tags:
     - Animals
-- word: elh
-  part: Noun
+- entry: elh
+  pos: Noun
   meaning: elk
   tags:
     - Animals
-- word: emmur
-  part: Noun
+- entry: emmur
+  pos: Noun
   meaning: bucket
-  notes: Not sure about this one
-- word: erþ
-  part: Noun
+  note: Not sure about this one
+- entry: erþ
+  pos: Noun
   meaning: earth
   tags:
     - Nature
-- word: erþbärj
-  part: Noun
+- entry: erþbärj
+  pos: Noun
   meaning: strawberry
   see:
     - bärj
     - erþ
-- word: etŏn
-  part: Verb
+- entry: etŏn
+  pos: Verb
   meaning: to eat
   template: strong-5
-- word: ew
-  part: Noun
-  meaning: "ewe, female sheep"
+- entry: ew
+  pos: Noun
+  meaning: ewe, female sheep
   tags:
     - Animals
-- word: fadŏr
-  part: Noun
+- entry: fadŏr
+  pos: Noun
   meaning: father
   tags:
     - Family
-- word: fagŏr
-  part: Adjective
-  meaning: "pretty, beautiful"
-- word: fallŏn
-  part: Verb
+- entry: fagŏr
+  pos: Adjective
+  meaning: pretty, beautiful
+- entry: fallŏn
+  pos: Verb
   meaning: to fall
   template: strong-7c-e
-- word: fandag
-  part: Noun
+- entry: fandag
+  pos: Noun
   meaning: today
   tags:
     - Time
   see:
     - dag
-- word: fangŏn
-  part: Verb
-  meaning: "to capture, to catch"
+- entry: fangŏn
+  pos: Verb
+  meaning: to capture, to catch
   template: strong-7c-i
-- word: fankwild
-  part: Noun
+- entry: fankwild
+  pos: Noun
   meaning: this evening
   tags:
     - Time
   see:
     - kwild
-- word: fanmorgŏn
-  part: Noun
-  meaning: "tomorrow, in the morning"
+- entry: fanmorgŏn
+  pos: Noun
+  meaning: tomorrow, in the morning
   tags:
     - Time
-- word: fannaht
-  part: Noun
+- entry: fannaht
+  pos: Noun
   meaning: this night
   tags:
     - Time
   see:
     - naht
-- word: farh
-  part: Noun
-  meaning: "piglet, young pig"
+- entry: farh
+  pos: Noun
+  meaning: piglet, young pig
   tags:
     - Animals
-- word: farn
-  part: Noun
+- entry: farn
+  pos: Noun
   meaning: fern
   tags:
     - Plants
-- word: farw
-  part: Noun
+- entry: farw
+  pos: Noun
   meaning: colour
   tags:
     - Descriptions
-- word: farŏn
-  part: Verb
+- entry: farŏn
+  pos: Verb
   meaning: to drive
   template: strong-6
-- word: fatwŏn
-  part: Verb
-  meaning: "to fetch, to catch, to grasp"
-- word: faw
-  part: Adjective
-  meaning: "few, little"
+- entry: fatwŏn
+  pos: Verb
+  meaning: to fetch, to catch, to grasp
+- entry: faw
+  pos: Adjective
+  meaning: few, little
   tags:
     - Descriptions
-- word: feh
-  part: Noun
+- entry: feh
+  pos: Noun
   meaning: cattle
   tags:
     - Animals
-- word: feuhtj
-  part: Noun
+- entry: feuhtj
+  pos: Noun
   meaning: spruce
   tags:
     - Nature
-- word: feþur
-  part: Noun
+- entry: feþur
+  pos: Noun
   meaning: feather
   tags:
     - Animals
-- word: fijend
-  part: Noun
-  meaning: "enemy, foe"
-- word: fil
-  part: Adjective
+- entry: fijend
+  pos: Noun
+  meaning: enemy, foe
+- entry: fil
+  pos: Adjective
   meaning: much
   tags:
     - Descriptions
-- word: findŏn
-  part: Verb
+- entry: findŏn
+  pos: Verb
   meaning: to find
   template: strong-3-i
-- word: firkwistjŏn
-  part: Verb
+- entry: firkwistjŏn
+  pos: Verb
   meaning: to waste
   template: weak-jun
-- word: firswändjŏn
-  part: Verb
+- entry: firswändjŏn
+  pos: Verb
   meaning: to make disappear
   template: weak-jun
   see:
     - förswindun
-- word: fisk
-  part: Noun
+- entry: fisk
+  pos: Noun
   meaning: fish
   tags:
     - Animals
-- word: flaisk
-  part: Noun
+- entry: flaisk
+  pos: Noun
   meaning: meat
-- word: flauh
-  part: Noun
+- entry: flauh
+  pos: Noun
   meaning: flea
   tags:
     - Animals
-- word: flaum
-  part: Noun
+- entry: flaum
+  pos: Noun
   meaning: flood
   tags:
     - Nature
-- word: fleug
-  part: Noun
+- entry: fleug
+  pos: Noun
   meaning: fly
   tags:
     - Animals
-- word: fleugŏn
-  part: Verb
+- entry: fleugŏn
+  pos: Verb
   meaning: to fly
   template: strong-2
-- word: fluþur
-  part: Noun
-  meaning: "flounder, flatfish"
+- entry: fleutŏn
+  pos: Verb
+  meaning: to float
+  template: strong-2
+- entry: fluþur
+  pos: Noun
+  meaning: flounder, flatfish
   tags:
     - Animals
-- word: flód
-  part: Noun
-  meaning: "flood, river (poetic), high tide"
+- entry: flód
+  pos: Noun
+  meaning: flood, river (poetic), high tide
   tags:
     - Nature
-- word: foll
-  part: Adjective
+- entry: flówŏn
+  pos: Verb
+  meaning: to flow
+  template: strong-7e
+- entry: foll
+  pos: Adjective
   meaning: full
-- word: forhŏn
-  part: Noun
+- entry: forhŏn
+  pos: Noun
   meaning: trout
   tags:
     - Animals
-- word: fraurjŏn
-  part: Verb
+- entry: forþ
+  pos: Adverb
+  meaning: forward, forth
+- entry: fraurjŏn
+  pos: Verb
   meaning: to freeze (transitive)
   template: weak-jun
   see:
     - freusun
-- word: fraw
-  part: Noun
+- entry: fraw
+  pos: Noun
   meaning: woman
-- word: frek
-  part: Adjective
+- entry: frek
+  pos: Adjective
   meaning: greedy; nasty
-- word: freusŏn
-  part: Verb
+- entry: freusŏn
+  pos: Verb
   meaning: to freeze (intransitive)
   template: strong-2
   see:
     - fraurjun
-- word: frij
-  part: Adjective
+- entry: frij
+  pos: Adjective
   meaning: free
-- word: frijend
-  part: Noun
+- entry: frijend
+  pos: Noun
   meaning: friend
-- word: frijon?
-  part: Verb
+- entry: frijon?
+  pos: Verb
   meaning: to free
   template: weak-jun
-- word: frusk
-  part: Noun
+- entry: frusk
+  pos: Noun
   meaning: frog
-- word: frust
-  part:
+- entry: frust
+  pos:
     - Noun
   meaning: frost
   tags:
     - Nature
-- word: frów
-  part: Adjective
+- entry: frów
+  pos: Adjective
   meaning: early
   tags:
     - Time
-- word: fugŏl
-  part: Noun
+- entry: fugŏl
+  pos: Noun
   meaning: bird
   tags:
     - Animals
-- word: fuhs
-  part: Noun
+- entry: fuhs
+  pos: Noun
   meaning: fox
   tags:
     - Animals
-- word: fulgwŏn
-  part: Verb
+- entry: fulgwŏn
+  pos: Verb
   meaning: to follow
-- word: fól
-  part: Noun
-  meaning: "foal, young horse"
+- entry: fól
+  pos: Noun
+  meaning: foal, young horse
   tags:
     - Animals
-- word: fórraidjŏn
-  part: Verb
+- entry: fórraidjŏn
+  pos: Verb
   meaning: to prepare
   see:
     - raidjun
-- word: fördailiŏn
-  part: Verb
+- entry: fördailiŏn
+  pos: Verb
   meaning: to distribute
-- word: försenkion
-  part: Verb
-  meaning: "to focus, to concentrate"
+- entry: fördiŏn
+  pos: Verb
+  meaning: to further, to foster, to support
+- entry: fördiŏn ut
+  pos: Verb
+  meaning: to challenge
+- entry: försenkion
+  pos: Verb
+  meaning: to focus, to concentrate
   template: weak-jun
-- word: försprekŏn
-  part: Verb
+- entry: försprekŏn
+  pos: Verb
   meaning: to promise
-- word: förswindŏn
-  part: Verb
+- entry: förswindŏn
+  pos: Verb
   meaning: to disappear
   see:
     - swindun
-- word: gail
-  part: Adjective
+- entry: gail
+  pos: Adjective
   meaning: abundant; lustful
-- word: gait
-  part: Noun
+- entry: gait
+  pos: Noun
   meaning: goat
   tags:
     - Animals
-- word: gans
-  part: Noun
+- entry: gans
+  pos: Noun
   meaning: goose
   tags:
     - Animals
-- word: gauk
-  part: Noun
+- entry: gauk
+  pos: Noun
   meaning: cuckoo
   tags:
     - Animals
-- word: geld
-  part: Noun
+- entry: geld
+  pos: Noun
   meaning: money
   see:
     - geldun
-- word: geldŏn
-  part: Verb
+- entry: geldŏn
+  pos: Verb
   meaning: to be valid
   template: strong-34-e
   see:
     - geld
-- word: gelw
-  part: Adjective
+- entry: gelw
+  pos: Adjective
   meaning: yellow
   tags:
     - Descriptions
-- word: gelwraud
-  part: Adjective
+- entry: gelwraud
+  pos: Adjective
   meaning: orange
   tags:
     - Descriptions
-- word: getŏn
-  part: Verb
-  meaning: "to get, to receive"
+- entry: getŏn
+  pos: Verb
+  meaning: to get, to receive
   template: strong-5
-- word: geutŏn
-  part: Verb
+- entry: geutŏn
+  pos: Verb
   meaning: to pour
   template: strong-2
-- word: gevŏn
-  part: Verb
+- entry: gevŏn
+  pos: Verb
   meaning: to give
   template: strong-5
-- word: gisihtj
-  part: Noun
+- entry: gisihtj
+  pos: Noun
   meaning: face
-- word: gistirdag
-  part: Noun
+- entry: gistirdag
+  pos: Noun
   meaning: yesterday
   tags:
     - Time
-- word: gistirkwild
-  part: Noun
+- entry: gistirkwild
+  pos: Noun
   meaning: last evening
   tags:
     - Time
-- word: gistirnaht
-  part: Noun
+- entry: gistirnaht
+  pos: Noun
   meaning: last night
   tags:
     - Time
-- word: giwar
-  part: Adjective
+- entry: giwar
+  pos: Adjective
   meaning: aware
-- word: gleidŏn
-  part: Verb
+- entry: gleidŏn
+  pos: Verb
   meaning: to glide
   template: strong-1
-- word: gold
-  part: Noun
+- entry: gold
+  pos: Noun
   meaning: gold
-- word: graut
-  part: Adjective
+- entry: grap
+  pos: Noun
+  meaning: joke
+- entry: graut
+  pos: Adjective
   meaning: big
   tags:
     - Descriptions
-- word: gravŏn
-  part: Verb
+- entry: gravŏn
+  pos: Verb
   meaning: to dig
   template: strong-6
-- word: greipŏn
-  part: Verb
+- entry: greipŏn
+  pos: Verb
   meaning: to grab
   template: strong-1
-- word: grimmŏn
-  part: Verb
+- entry: grimmŏn
+  pos: Verb
   meaning: to be angry
   template: strong-3-i
-- word: growan
-  part: Verb
-  meaning: "to grow (intransitive, for plants)"
+- entry: growan
+  pos: Verb
+  meaning: to grow (intransitive, for plants)
   template: strong-7e
-- word: gráw
-  part: Adjective
+- entry: gráw
+  pos: Adjective
   meaning: grey
   tags:
     - Descriptions
-- word: grőn
-  part: Adjective
+- entry: grőn
+  pos: Adjective
   meaning: green
   tags:
     - Descriptions
-- word: gäldjŏn
-  part: Verb
+- entry: gäldjŏn
+  pos: Verb
   meaning: to be valid
   see:
     - geldun
-- word: gód
-  part: Adjective
+- entry: gód
+  pos: Adjective
   meaning: good
   tags:
     - Descriptions
-- word: hail
-  part: Adjective
-  meaning: "whole, intact, unhurt"
-- word: haitŏn
-  part: Verb
+- entry: hail
+  pos: Adjective
+  meaning: whole, intact, unhurt
+- entry: haitŏn
+  pos: Verb
   meaning: to be named
   template: strong-7a
-- word: hakud
-  part: Noun
+- entry: hakud
+  pos: Noun
   meaning: pike
   tags:
     - Animals
-- word: hald
-  part: Noun
-  meaning: "hold, grasp"
-- word: haldŏn
-  part: Verb
+- entry: hald
+  pos: Noun
+  meaning: hold, grasp
+- entry: haldŏn
+  pos: Verb
   meaning: to hold
   template: strong-7c-e
-- word: hals
-  part: Noun
-  meaning: "neck, throat"
-- word: han
-  part: Noun
-  meaning: "hen, rooster, guineafowl"
+- entry: hals
+  pos: Noun
+  meaning: neck, throat
+- entry: han
+  pos: Noun
+  meaning: hen, rooster, guineafowl
   tags:
     - Animals
-- word: hand
-  part: Noun
+- entry: hand
+  pos: Noun
   meaning: hand
   tags:
     - Body
-- word: handlár
-  part: Noun
+- entry: handlár
+  pos: Noun
   meaning: merchant
-- word: handlŏn
-  part: Verb
-  meaning: "to handle, to negotiate, to do business with sth."
-- word: hangŏn
-  part: Verb
+- entry: handlŏn
+  pos: Verb
+  meaning: to handle, to negotiate, to do business with sth.
+- entry: hangŏn
+  pos: Verb
   meaning: to hang
   template: strong-7c-i
-- word: harvist
-  part: Noun
-  meaning: "fall, autumn, harvest"
+- entry: harvist
+  pos: Noun
+  meaning: fall, autumn, harvest
   tags:
     - Time
-- word: hauwŏn
-  part: Verb
-  meaning: "to hew, to chop"
+- entry: hauwŏn
+  pos: Verb
+  meaning: to hew, to chop
   template: strong-7b
-- word: havur
-  part: Noun
+- entry: havur
+  pos: Noun
   meaning: male goat
   tags:
     - Animals
-- word: hebbion
-  part: Verb
+- entry: hebbion
+  pos: Verb
   meaning: to lift
   template: strong-6-j
-- word: helpŏn
-  part: Verb
+- entry: helpŏn
+  pos: Verb
   meaning: to help
   template: strong-34-e
-- word: hert
-  part: Noun
-  meaning: "deer, stag"
+- entry: hert
+  pos: Noun
+  meaning: deer, stag
   tags:
     - Animals
-- word: hert
-  part: Noun
+- entry: hert
+  pos: Noun
   meaning: heart
-- word: himil
-  part: Noun
+- entry: himil
+  pos: Noun
   meaning: sky
   tags:
     - Nature
-- word: hind
-  part: Noun
+- entry: hind
+  pos: Noun
   meaning: female deer
   tags:
     - Animals
-- word: hladŏn
-  part: Verb
-  meaning: "to accumulate, to increase in something"
+- entry: hladŏn
+  pos: Verb
+  meaning: to accumulate, to increase in something
   template: strong-6
-- word: hlahŏn
-  part: Verb
+- entry: hlahŏn
+  pos: Verb
   meaning: to laugh
-- word: hlast
-  part: Noun
+- entry: hlast
+  pos: Noun
   meaning: burden
   see:
     - bihlastwun
     - hlastian
     - hlastig
-- word: hlastian
-  part: Verb
+- entry: hlastian
+  pos: Verb
   meaning: to burden
   see:
     - hlast
-- word: hlastig
-  part: Verb
+- entry: hlastig
+  pos: Verb
   meaning: annoying
   see:
     - hlast
-- word: hlaupŏn
-  part: Verb
+- entry: hlaupŏn
+  pos: Verb
   meaning: to walk
   template: strong-7b
-- word: hlowan
-  part: Verb
+- entry: hlowan
+  pos: Verb
   meaning: to shout
   template: strong-7e
-- word: hlusnoling? hlusnling
-  part: Noun
+- entry: hlusnoling? hlusnling
+  pos: Noun
   meaning: listener
-- word: hlusnon
-  part: Verb
+- entry: hlusnon
+  pos: Verb
   meaning: to listen
   template: weak-nun
-- word: hláw
-  part: Adjective
+- entry: hláw
+  pos: Adjective
   meaning: lukewarm
-- word: hlőd
-  part: Noun
+- entry: hlőd
+  pos: Noun
   meaning: load
-- word: hlődian
-  part: Verb
+- entry: hlődian
+  pos: Verb
   meaning: to load (transitive)
-- word: hnauw
-  part: Adjective
+- entry: hnauw
+  pos: Adjective
   meaning: exact
-- word: holt
-  part: Noun
-  meaning: "wood, forest (poetic)"
+- entry: holt
+  pos: Noun
+  meaning: wood, forest (poetic)
   tags:
     - Nature
-- word: hragŏn
-  part: Verb
-  meaning: "to jut out, to protude, to stand out"
+- entry: hragŏn
+  pos: Verb
+  meaning: to jut out, to protude, to stand out
   template: strong-34-e
-- word: hraig
-  part: Noun
+- entry: hraig
+  pos: Noun
   meaning: heron
   tags:
     - Animals
-- word: hreggiŏn
-  part: Verb
-  meaning: "to incite, to excite, to"
+- entry: hreggiŏn
+  pos: Verb
+  meaning: to incite, to excite, to
   template: weak-jun
   see:
     - hragŏn
-- word: hreitŏn
-  part: Verb
+- entry: hreitŏn
+  pos: Verb
   meaning: to scratch
   template: strong-1
-- word: hringŏn
-  part: Verb
+- entry: hringŏn
+  pos: Verb
   meaning: to ring
   template: strong-3-i
-- word: hropan
-  part: Verb
+- entry: hropan
+  pos: Verb
   meaning: to call
   template: strong-7e
-- word: hrus
-  part: Noun
+- entry: hrus
+  pos: Noun
   meaning: horse
   tags:
     - Animals
-- word: hróm
-  part: Noun
+- entry: hróm
+  pos: Noun
   meaning: fame
-- word: hrómig
-  part: Adjective
+- entry: hrómig
+  pos: Adjective
   meaning: famous
-- word: hrügj
-  part: Noun
-  meaning: "back (anatomy), spine (anatomy)"
-- word: hund
-  part: Noun
+- entry: hrügj
+  pos: Noun
+  meaning: back (anatomy), spine (anatomy)
+- entry: hund
+  pos: Noun
   meaning: dog
   tags:
     - Animals
-- word: hungrwŏn
-  part: Verb
+- entry: hungrwŏn
+  pos: Verb
   meaning: to hunger
-- word: hungŏr
-  part: Noun
+- entry: hungŏr
+  pos: Noun
   meaning: hunger
-- word: huning
-  part: Noun
+- entry: huning
+  pos: Noun
   meaning: honey
   tags:
     - Animals
     - Food
-- word: hvis
-  part: Conjunction
+- entry: hvis
+  pos: Conjunction
   meaning: if
-- word: hwass
-  part: Adjective
+- entry: hwass
+  pos: Adjective
   meaning: sharp
-- word: hwassiþ
-  part: Noun
+- entry: hwassiþ
+  pos: Noun
   meaning: sharpness
-- word: hweil at
-  part: Conjunction
+- entry: hweil at
+  pos: Conjunction
   meaning: while
   see:
     - hweil
-- word: hweinŏn
-  part: Verb
+- entry: hweinŏn
+  pos: Verb
   meaning: to cry
   template: strong-1
-- word: hweit
-  part: Adjective
+- entry: hweit
+  pos: Adjective
   meaning: white
   tags:
     - Descriptions
-- word: hwelp
-  part: Noun
-  meaning: "welp, young mammal"
+- entry: hwelp
+  pos: Noun
+  meaning: welp, young mammal
   tags:
     - Animals
-- word: hwervŏn
-  part: Verb
+- entry: hwervŏn
+  pos: Verb
   meaning: to throw
   template: strong-34-e
-- word: hárm
-  part: Noun
-  meaning: "weasel, ermine"
+- entry: hárm
+  pos: Noun
+  meaning: weasel, ermine
   tags:
     - Animals
-- word: hás
-  part: Noun
+- entry: hás
+  pos: Noun
   meaning: hare
   tags:
     - Animals
-- word: hän
-  part: Noun
+- entry: hän
+  pos: Noun
   meaning: female chicken
   tags:
     - Animals
-- word: häwj
-  part: Noun
+- entry: häwj
+  pos: Noun
   meaning: hay
   tags:
     - Plants
-- word: hód
-  part: Noun
-  meaning: "hood, head covering"
-- word: hülis
-  part: Noun
+- entry: hód
+  pos: Noun
+  meaning: hood, head covering
+- entry: hülis
+  pos: Noun
   meaning: holly
   tags:
     - Plants
-- word: hűrwŏn
-  part: Verb
+- entry: hűrwŏn
+  pos: Verb
   meaning: to hire
-- word: igil
-  part: Noun
+- entry: igil
+  pos: Noun
   meaning: hedgehog
   tags:
     - Animals
-- word: imbij
-  part: Noun
+- entry: imbij
+  pos: Noun
   meaning: beeswarm
   tags:
     - Animals
-- word: inboron
-  part: Adjective
+- entry: inboron
+  pos: Adjective
   meaning: innate
-- word: jung
-  part: Adjective
+- entry: jung
+  pos: Adjective
   meaning: young
   tags:
     - Descriptions
-- word: kak
-  part: Noun
+- entry: kak
+  pos: Noun
   meaning: cake
   tags:
     - Food
-- word: kalv
-  part: Noun
+- entry: kalv
+  pos: Noun
   meaning: calf
   tags:
     - Animals
-- word: kat
-  part: Noun
+- entry: kat
+  pos: Noun
   meaning: cat
   tags:
     - Animals
-- word: kaupjŏn
-  part: Verb
+- entry: kaupjŏn
+  pos: Verb
   meaning: to buy
   template: weak-jun
-- word: kerk
-  part: Noun
+- entry: kerk
+  pos: Noun
   meaning: church
-- word: keukin
-  part: Noun
+- entry: keukin
+  pos: Noun
   meaning: chicken
   tags:
     - Animals
-- word: keusŏn
-  part: Verb
+- entry: keusŏn
+  pos: Verb
   meaning: to choose
   template: strong-2
-- word: klain
-  part: Adjective
+- entry: klain
+  pos: Adjective
   meaning: small
   tags:
     - Descriptions
-- word: klaiþ
-  part: Noun
-  meaning: "cloth, clothing, clothes"
-- word: kleivŏn
-  part: Verb
+- entry: klaiþ
+  pos: Noun
+  meaning: cloth, clothing, clothes
+- entry: kleivŏn
+  pos: Verb
   meaning: to stick to
   template: strong-1
-- word: knedŏn
-  part: Verb
+- entry: knedŏn
+  pos: Verb
   meaning: to knead
   template: strong-34-e
   note: Irregular strong-34-e
-- word: kneipŏn
-  part: Verb
+- entry: kneipŏn
+  pos: Verb
   meaning: to pinch
   template: strong-1
-- word: knew
-  part: Noun
+- entry: knew
+  pos: Noun
   meaning: knee
   tags:
     - Body
-- word: knuk
-  part: Noun
+- entry: knuk
+  pos: Noun
   meaning: bone
   tags:
     - Time
-- word: kopp
-  part: Noun
+- entry: kopp
+  pos: Noun
   meaning: head
-- word: korn
-  part: Noun
-  meaning: "seed, stone (of fruit)"
+- entry: korn
+  pos: Noun
+  meaning: seed, stone (of fruit)
   tags:
     - Plants
-- word: krab
-  part: Noun
+- entry: krab
+  pos: Noun
   meaning: crab
-- word: krank
-  part: Adjective
-  meaning: "sick, ill"
-- word: krán
-  part: Noun
+- entry: krank
+  pos: Adjective
+  meaning: sick, ill
+- entry: krán
+  pos: Noun
   meaning: crane
   tags:
     - Animals
-- word: kuss
-  part: Noun
+- entry: kuss
+  pos: Noun
   meaning: kiss
   see:
     - küssjun
-- word: kuw
-  part: Noun
+- entry: kuw
+  pos: Noun
   meaning: cow
   tags:
     - Animals
-- word: kwemun an
-  part: Verb
+- entry: kwemun an
+  pos: Verb
   meaning: arrive
   template: strong-34-e
-- word: kwemŏn
-  part: Verb
+- entry: kwemŏn
+  pos: Verb
   meaning: to come
   template: strong-34-e
-- word: kwik
-  part: Adjective
+- entry: kwik
+  pos: Adjective
   meaning: lively
-- word: kwik
-  part:
+- entry: kwik
+  pos:
     - Adjective
     - Adverb
-  meaning: "quick, lively, of short duration"
-- word: kwild
-  part: Noun
+  meaning: quick, lively, of short duration
+- entry: kwild
+  pos: Noun
   meaning: evening
   synonyms:
     - kwild
   tags:
     - Time
-- word: káp
-  part: Noun
+- entry: káp
+  pos: Noun
   meaning: cape
-- word: küssjŏn
-  part: Verb
+- entry: küssjŏn
+  pos: Verb
   meaning: to kiss
   see:
     - kuss
-- word: lahs
-  part: Noun
+- entry: lahs
+  pos: Noun
   meaning: salmon
   tags:
     - Animals
-- word: lairion
-  part: Verb
+- entry: lairion
+  pos: Verb
   meaning: to teach
   template: weak-jun
-- word: laiwarik
-  part: Noun
+- entry: laiwarik
+  pos: Noun
   meaning: lark
   tags:
     - Animals
-- word: lamb
-  part: Noun
+- entry: lamb
+  pos: Noun
   meaning: lamb
   tags:
     - Animals
-- word: lat
-  part:
+- entry: lat
+  pos:
     - Adjective
     - Adverb
   meaning: late
   tags:
     - Time
-- word: latir
-  part:
+- entry: latir
+  pos:
     - Adjective
     - Adverb
   meaning: later
@@ -1281,933 +1310,987 @@
     - Time
   see:
     - lat
-- word: latist
-  part:
+- entry: latist
+  pos:
     - Adjective
     - Adverb
-  meaning: "latest, last"
+  meaning: latest, last
   tags:
     - Time
   see:
     - lat
-- word: laŏn
-  part: Noun
-  meaning: "wage, reward, pay"
-- word: lebruon
-  part: Noun
+- entry: laŏn
+  pos: Noun
+  meaning: wage, reward, pay
+- entry: lebruon
+  pos: Noun
   meaning: deliver
-- word: leib
-  part: Noun
+- entry: leib
+  pos: Noun
   meaning: life
-- word: leik
-  part: Noun
+- entry: leik
+  pos: Noun
   meaning: body
   tags:
     - Time
-- word: leivŏn
-  part: Verb
+- entry: leivŏn
+  pos: Verb
   meaning: to remain
   template: strong-1
-- word: leiþon
-  part: Verb
+- entry: leiþon
+  pos: Verb
   meaning: to suffer
   template: strong-1
-- word: lernon
-  part: Verb
+- entry: lernon
+  pos: Verb
   meaning: to learn
   template: weak-nun
-- word: leson
-  part: Verb
+- entry: leson
+  pos: Verb
   meaning: to read
-- word: leusŏn
-  part: Verb
+- entry: leusŏn
+  pos: Verb
   meaning: to lose
   template: strong-2
-- word: lim
-  part: Noun
-  meaning: "limb, branch"
-- word: luhs
-  part: Noun
+- entry: lim
+  pos: Noun
+  meaning: limb, branch
+- entry: luhs
+  pos: Noun
   meaning: lynx
   tags:
     - Animals
-- word: lust
-  part: Noun
+- entry: lust
+  pos: Noun
   meaning: desire
-- word: lár / lér
-  part: Adjective
+- entry: lár / lér
+  pos: Adjective
   meaning: empty
-- word: látŏn
-  part: Verb
+- entry: látŏn
+  pos: Verb
   meaning: to let
   template: strong-7d
-- word: lúv
-  part: Noun
+- entry: lúv
+  pos: Noun
   meaning: love
   tags:
     - Feelings
-- word: lütt
-  part: Adjective
+- entry: lütt
+  pos: Adjective
   meaning: small
   tags:
     - Descriptions
-- word: lűvjan
-  part: Verb
+- entry: lűvjan
+  pos: Verb
   meaning: to love
-- word: mair
-  part: Adjective
+- entry: mair
+  pos: Adjective
   meaning: more
   tags:
     - Descriptions
   see:
     - maist
-- word: maist
-  part: Adjective
+- entry: maist
+  pos: Adjective
   meaning: most
   tags:
     - Descriptions
   see:
     - mair
-- word: malm
-  part: Noun
+- entry: malm
+  pos: Noun
   meaning: ore
-- word: malŏn
-  part: Verb
+- entry: malŏn
+  pos: Verb
   meaning: to grind
   template: strong-6
-- word: mapul
-  part: Noun
+- entry: mapul
+  pos: Noun
   meaning: maple
   tags:
     - Nature
-- word: marþur
-  part: Noun
+- entry: marþur
+  pos: Noun
   meaning: marten
   tags:
     - Animals
-- word: melkŏn
-  part: Verb
+- entry: melkŏn
+  pos: Verb
   meaning: to milk
   template: strong-34-e
-- word: meltŏn
-  part: Verb
+- entry: meltŏn
+  pos: Verb
   meaning: to melt (intransitive)
   template: strong-34-e
-- word: metŏn
-  part: Verb
+- entry: metŏn
+  pos: Verb
   meaning: to measure
   template: strong-5
-- word: meurj
-  part: Noun
+- entry: meurj
+  pos: Noun
   meaning: ant
   tags:
     - Animals
-- word: midil
-  part: Noun
+- entry: midil
+  pos: Noun
   meaning: middle
   tags:
     - Descriptions
-- word: midirdag
-  part: Noun
+- entry: midirdag
+  pos: Noun
   meaning: midday
   tags:
     - Time
-- word: midirdagis
-  part: Adverb
+- entry: midirdagis
+  pos: Adverb
   meaning: at noon
   tags:
     - Time
-- word: midirnaht
-  part: Noun
+- entry: midirnaht
+  pos: Noun
   meaning: midnight
   tags:
     - Time
-- word: midj
-  part: Noun
-  meaning: "middle, center"
+- entry: midj
+  pos: Noun
+  meaning: middle, center
   tags:
     - Descriptions
-- word: mikil
-  part: Adjective
-  meaning: "much, many, big"
+- entry: mikil
+  pos: Adjective
+  meaning: much, many, big
   tags:
     - Descriptions
-- word: mindir
-  part: Adjective
+- entry: mindir
+  pos: Adjective
   meaning: less
   tags:
     - Descriptions
   see:
     - mindist
-- word: mindist
-  part: Adjective
+- entry: mindist
+  pos: Adjective
   meaning: least
   tags:
     - Descriptions
   see:
     - mindir
-- word: mislukuon
-  part: Verb
+- entry: mislukuon
+  pos: Verb
   meaning: to fail
-- word: modŏr
-  part: Noun
+- entry: modŏr
+  pos: Noun
   meaning: mother
   tags:
     - Family
-- word: morgunis
-  part: Noun
+- entry: morgunis
+  pos: Noun
   meaning: in the mornings
   tags:
     - Time
-- word: morgŏn
-  part: Noun
+- entry: morgŏn
+  pos: Noun
   meaning: morning
   tags:
     - Time
-- word: märhj
-  part: Noun
+- entry: märhj
+  pos: Noun
   meaning: female horse
   tags:
     - Animals
-- word: múl
-  part: Noun
+- entry: múl
+  pos: Noun
   meaning: jaws
-- word: mús
-  part: Noun
+- entry: mús
+  pos: Noun
   meaning: mouse
   tags:
     - Animals
-- word: naht
-  part: Noun
+- entry: naht
+  pos: Noun
   meaning: night
   tags:
     - Time
   see:
     - nahtis
-- word: nat
-  part: Adjective
-  meaning: "wet, moist"
-- word: natjŏn
-  part: Verb
-  meaning: "to dampen, to moisten, to wetten"
-- word: naud
-  part: Noun
-  meaning: "need, emergency"
-- word: nemŏn
-  part: Verb
+- entry: nat
+  pos: Adjective
+  meaning: wet, moist
+- entry: natjŏn
+  pos: Verb
+  meaning: to dampen, to moisten, to wetten
+- entry: naud
+  pos: Noun
+  meaning: need, emergency
+- entry: nemon an
+  pos: Verb
+  meaning: to accept
+- entry: nemŏn
+  pos: Verb
   meaning: to take
   template: strong-34-e
-- word: nest
-  part: Noun
+- entry: nest
+  pos: Noun
   meaning: nest
   tags:
     - Animals
-- word: nesŏn
-  part: Verb
+- entry: nesŏn
+  pos: Verb
   meaning: to heal (intransitive)
   template: strong-5
-- word: niw
-  part: Adjective
+- entry: niw
+  pos: Adjective
   meaning: new
-- word: norþ
-  part: Noun
+- entry: norþ
+  pos: Noun
   meaning: north
   tags:
     - Geography
-- word: nu
-  part: Adverb
+- entry: nu
+  pos: Adverb
   meaning: now
-- word: nuh
-  part: Adverb
+- entry: nuh
+  pos: Adverb
   meaning: yet
-- word: näriŏn
-  part: Verb
-  meaning: "to heal (transitive), to take care of"
+- entry: näriŏn
+  pos: Verb
+  meaning: to heal (transitive), to take care of
   template: weak-jun
-- word: obŏtj
-  part: Noun
+- entry: obŏtj
+  pos: Noun
   meaning: fruit
   tags:
     - Plants
     - Food
-- word: of
-  part: Conjunction
+- entry: of
+  pos: Conjunction
   meaning: or
-- word: oft
-  part: Adverb
+- entry: oft
+  pos: Adverb
   meaning: often
-- word: ohs
-  part: Noun
-  meaning: "ox, castrated bull"
+- entry: ohs
+  pos: Noun
+  meaning: ox, castrated bull
   tags:
     - Animals
-- word: otur
-  part: Noun
+- entry: otur
+  pos: Noun
   meaning: otter
   tags:
     - Animals
-- word: penning (pänning)
-  part: Noun
+- entry: penning (pänning)
+  pos: Noun
   meaning: coin
-- word: plehŏn
-  part: Verb
+- entry: plehŏn
+  pos: Verb
   meaning: to commit
   template: strong-5
-- word: plutsleik
-  part:
+- entry: plutsleik
+  pos:
     - Adjective
     - Adverb
-  meaning: "sudden, unexpected"
-- word: plúm
-  part: Noun
+  meaning: sudden, unexpected
+- entry: plúm
+  pos: Noun
   meaning: plum
-- word: pogg
-  part: Noun
-  meaning: "toad, frog"
-- word: poggstól
-  part: Noun
+- entry: pogg
+  pos: Noun
+  meaning: toad, frog
+- entry: poggstól
+  pos: Noun
   meaning: mushroom (especially edible ones)
-- word: pratuŏn
-  part: Verb
+- entry: pratuŏn
+  pos: Verb
   meaning: to chat
-- word: páw
-  part: Noun
+- entry: páw
+  pos: Noun
   meaning: peafowl
   tags:
     - Animals
-- word: raid
-  part: Adjective
+- entry: raid
+  pos: Adjective
   meaning: ready
-- word: raidjun (1)
-  part: Verb
+- entry: raidjun (1)
+  pos: Verb
   meaning: to arrange
-- word: raidjun (2)
-  part: Verb
+- entry: raidjun (2)
+  pos: Verb
   meaning: to put into a means of transport
   see:
     - reidun
-- word: raih
-  part: Noun
+- entry: raih
+  pos: Noun
   meaning: deer
   tags:
     - Animals
-- word: ramm
-  part: Noun
-  meaning: "ram, male sheep"
+- entry: ramm
+  pos: Noun
+  meaning: ram, male sheep
   tags:
     - Animals
-- word: raud
-  part: Adjective
+- entry: raud
+  pos: Adjective
   meaning: red
   tags:
     - Descriptions
-- word: reidŏn
-  part: Verb
+- entry: reidŏn
+  pos: Verb
   meaning: to ride
   template: strong-1
-- word: reikj (1)
-  part: Noun
-  meaning: "kingdom, government, realm, authority"
+- entry: reikj (1)
+  pos: Noun
+  meaning: kingdom, government, realm, authority
   see:
     - reikj (2)
-- word: reikj (2)
-  part: Adjective
+- entry: reikj (2)
+  pos: Adjective
   meaning: rich
   see:
     - reikj (1)
-- word: reisŏn
-  part: Verb
-  meaning: "to travel, to increase (intransitive)"
+- entry: reisŏn
+  pos: Verb
+  meaning: to travel, to increase (intransitive)
   template: strong-1
-- word: reþ
-  part: Noun
-  meaning: "speech, thing said"
-  notes: i-umlaut?
-- word: rinnŏn
-  part: Verb
+- entry: reþ
+  pos: Noun
+  meaning: speech, thing said
+  note: i-umlaut?
+- entry: rinnŏn
+  pos: Verb
   meaning: to run
   template: strong-3-i
-- word: rád
-  part: Noun
-  meaning: "advise, speech"
-- word: rádŏn
-  part: Verb
+- entry: rád
+  pos: Noun
+  meaning: advise, speech
+- entry: rádŏn
+  pos: Verb
   meaning: to advise
   template: strong-7d
-- word: sam
-  part: Verb
+- entry: rádsol
+  meaning: riddle, puzzle
+  pos: Noun
+  note: From PWG \*rādlisī. ra̋disol? ra̋dsol?
+- entry: sam
+  pos: Verb
   meaning: same
-- word: samilŏn
-  part: Verb
+- entry: samilŏn
+  pos: Verb
   meaning: to gather
-- word: samŏn
-  part: Verb
+- entry: samŏn
+  pos: Verb
   meaning: together
-- word: sehun in
-  part: Verb
-  meaning: "to comprehend, to realise"
+- entry: sehun in
+  pos: Verb
+  meaning: to comprehend, to realise
   template: strong-34-e
-- word: sehŏn
-  part: Verb
+- entry: sehŏn
+  pos: Verb
   meaning: to see
   template: strong-5
-- word: seldŏn
-  part: Adverb
+- entry: seldŏn
+  pos: Adverb
   meaning: seldom
-- word: seldŏn
-  part: Adjective
-  meaning: "rare, seldom"
-- word: selh
-  part: Noun
+- entry: seldŏn
+  pos: Adjective
+  meaning: rare, seldom
+- entry: selh
+  pos: Noun
   meaning: seal
   tags:
     - Animals
-- word: selv
-  part: Noun
+- entry: selv
+  pos: Noun
   meaning: self
-- word: senkion
-  part: Verb
+- entry: senkion
+  pos: Verb
   meaning: to sink (transitive)
   template: weak-jun
-- word: seuk
-  part: Adjective
-  meaning: "sick, ill"
-- word: siht
-  part: Noun
+- entry: seuk
+  pos: Adjective
+  meaning: sick, ill
+- entry: siht
+  pos: Noun
   meaning: sight
-- word: sikŏr
-  part: Adjective
+- entry: sikŏr
+  pos: Adjective
   meaning: safe
-- word: singŏn
-  part: Verb
+- entry: singŏn
+  pos: Verb
   meaning: to sing
   template: strong-3-i
-- word: sinkon
-  part: Verb
+- entry: sinkon
+  pos: Verb
   meaning: to sink (intransitive)
   template: strong-3-i
-- word: skaiþŏn
-  part: Verb
-  meaning: to separate
+- entry: skaiþŏn
+  pos: Verb
+  meaning: to separate, to distinguish
   template: strong-7a
-- word: skakon
-  part: Verb
+- entry: skakon
+  pos: Verb
   meaning: to shake
   template: strong-6
-- word: skakŏn
-  part: Verb
+- entry: skakŏn
+  pos: Verb
   meaning: to shake
   template: strong-6
-- word: skap
-  part: Noun
-  meaning: "shape, condition, nature"
-- word: skehon
-  part: Verb
-  meaning: "to move or to jump, to happen"
+- entry: skap
+  pos: Noun
+  meaning: shape, condition, nature
+- entry: skehon
+  pos: Verb
+  meaning: to move or to jump, to happen
   template: strong-5
-- word: skeinŏn
-  part: Verb
+- entry: skeinŏn
+  pos: Verb
   meaning: to shine
   template: strong-1
-- word: skeitŏn
-  part: Verb
-  meaning: "to shite, to defecate"
+- entry: skeitŏn
+  pos: Verb
+  meaning: to shite, to defecate
   template: strong-1
-- word: skeutŏn
-  part: Verb
+- entry: skeld
+  pos: Noun
+  meaning: shield
+- entry: skeutŏn
+  pos: Verb
   meaning: to shoot
   template: strong-2
-- word: skokk
-  part: Noun
+- entry: skokk
+  pos: Noun
   meaning: shock
-- word: skokkuon
-  part: Verb
+- entry: skokkuon
+  pos: Verb
   meaning: to shock
-- word: skor
-  part: Noun
+- entry: skor
+  pos: Noun
   meaning: shore
-- word: skrakŏw
-  part: Noun
-  meaning: "exaggeration, lie"
-- word: skraudŏn
-  part: Verb
-  meaning: "to cut up, to shred"
+- entry: skrakŏw
+  pos: Noun
+  meaning: exaggeration, lie
+- entry: skraudŏn
+  pos: Verb
+  meaning: to cut up, to shred
   template: strong-7b
-- word: skrimpul
-  part: Noun
+- entry: skrimpul
+  pos: Noun
   meaning: shrimp
-- word: skáp
-  part: Noun
+- entry: skáp
+  pos: Noun
   meaning: sheep
   tags:
     - Animals
-- word: skóh
-  part: Noun
+- entry: skóh
+  pos: Noun
   meaning: shoe
   tags:
     - Clothing
-- word: slahŏn
-  part: Verb
-  meaning: "to strike, to hit"
+- entry: slahan för
+  pos: Verb
+  meaning: to suggest
+- entry: slahŏn
+  pos: Verb
+  meaning: to strike, to hit
   template: strong-6
-- word: sleutŏn
-  part: Verb
+- entry: sleutŏn
+  pos: Verb
   meaning: to close
   template: strong-2
-- word: slápŏn
-  part: Verb
+- entry: slápŏn
+  pos: Verb
   meaning: to sleep
   template: strong-7d
-- word: smal
-  part: Adjective
+- entry: smal
+  pos: Adjective
   meaning: small
-- word: smeil
-  part: Noun
+- entry: smeil
+  pos: Noun
   meaning: smile
-- word: smeiluon
-  part: Verb
+- entry: smeiluon
+  pos: Verb
   meaning: to smile
-- word: smelt
-  part: Noun
+- entry: smelt
+  pos: Noun
   meaning: smelt
   tags:
     - Animals
-- word: snakuon
-  part: Verb
+- entry: snakuon
+  pos: Verb
   meaning: to chat
-- word: sneidŏn
-  part: Verb
+- entry: sneidŏn
+  pos: Verb
   meaning: to snow
   template: strong-1
-- word: snell
-  part:
+- entry: snell
+  pos:
     - Adjective
     - Adverb
   meaning: fast
-- word: sokk
-  part: Noun
+- entry: sokk
+  pos: Noun
   meaning: sock
   tags:
     - Clothing
-- word: spanŏn
-  part: Verb
-  meaning: "to stretch, to span"
+- entry: spanŏn
+  pos: Verb
+  meaning: to stretch, to span
   template: strong-7c-i
-- word: spilwŏn
-  part: Verb
+- entry: spilwŏn
+  pos: Verb
   meaning: to play
-- word: spit
-  part: Noun
+- entry: spit
+  pos: Noun
   meaning: tip (e.g of an arrow)
-- word: spleitŏn
-  part: Verb
-  meaning: "to split, to divide"
+- entry: spleitŏn
+  pos: Verb
+  meaning: to split, to divide
   template: strong-1
-- word: sprekŏn
-  part: Verb
+- entry: sprekŏn
+  pos: Verb
   meaning: to speak
   template: strong-34-e
   note: Irregular strong-34-e
-- word: springŏn
-  part: Verb
+- entry: springŏn
+  pos: Verb
   meaning: to spring
   template: strong-3-i
-- word: stad
-  part: Noun
+- entry: stad
+  pos: Noun
   meaning: place
-- word: stadir
-  part: Preposition
+- entry: stadir
+  pos: Preposition
   meaning: instead of
-- word: stautŏn
-  part: Verb
-  meaning: "to push, to support"
+- entry: stautŏn
+  pos: Verb
+  meaning: to push, to support
   template: strong-7b
-- word: steikŏn
-  part: Verb
-  meaning: "to stick, to be stuck"
+- entry: steikŏn
+  pos: Verb
+  meaning: to stick, to be stuck
   template: strong-1
-- word: stekŏn
-  part: Verb
+- entry: stekŏn
+  pos: Verb
   meaning: to stab
   template: strong-34-e
   note: Irregular strong-34-e
-- word: stelŏn
-  part: Verb
+- entry: stelŏn
+  pos: Verb
   meaning: to steal
   template: strong-34-e
-- word: stervŏn
-  part: Verb
+- entry: stervŏn
+  pos: Verb
   meaning: to die
   template: strong-34-e
-- word: steur
-  part: Noun
+- entry: steur
+  pos: Noun
   meaning: bull
   tags:
     - Animals
-- word: stinkŏn
-  part: Verb
+- entry: stinkŏn
+  pos: Verb
   meaning: to stink
   template: strong-3-i
-- word: stork
-  part: Noun
+- entry: stork
+  pos: Noun
   meaning: stork
   tags:
     - Animals
-- word: streidŏn
-  part: Verb
+- entry: streidŏn
+  pos: Verb
   meaning: to quarrel
   template: strong-1
-- word: streidŏn
-  part: Verb
+- entry: streidŏn
+  pos: Verb
   meaning: to quarrel
   template: strong-1
-- word: streikŏn
-  part: Verb
-  meaning: "to strike, to hit"
+- entry: streikŏn
+  pos: Verb
+  meaning: to strike, to hit
   template: strong-1
-- word: städ
-  part: Noun
+- entry: städ
+  pos: Noun
   meaning: place
-- word: stäggj
-  part: Noun
+- entry: stäggj
+  pos: Noun
   meaning: male deer
   tags:
     - Animals
-- word: ställjŏn
-  part: Verb
-  meaning: "to put, to place"
-- word: stód
-  part: Noun
+- entry: ställjŏn
+  pos: Verb
+  meaning: to put, to place
+- entry: stód
+  pos: Noun
   meaning: herd of horses
   tags:
     - Animals
-- word: stór
-  part: Adjective
+- entry: stór
+  pos: Adjective
   meaning: big
   tags:
     - Descriptions
-- word: störj
-  part: Noun
+- entry: störj
+  pos: Noun
   meaning: sturgeon
-- word: sumŏr
-  part: Noun
+- entry: sumŏr
+  pos: Noun
   meaning: summer
   tags:
     - Time
-- word: sundir
-  part: Preposition
+- entry: sundir
+  pos: Preposition
   meaning: without
-- word: sundŏr
-  part: Adjective
-  meaning: "alone, separate"
-- word: sunþ
-  part: Noun
+- entry: sundŏr
+  pos: Adjective
+  meaning: alone, separate
+- entry: sunþ
+  pos: Noun
   meaning: south
   tags:
     - Geography
-- word: suw
-  part: Noun
-  meaning: "sow, female pig"
+- entry: suw
+  pos: Noun
+  meaning: sow, female pig
   tags:
     - Animals
-- word: swaipŏn
-  part: Verb
+- entry: swaipŏn
+  pos: Verb
   meaning: to sweep
   template: strong-7a
-- word: swalw
-  part: Noun
+- entry: swalw
+  pos: Noun
   meaning: swallow
   tags:
     - Animals
-- word: swalw
-  part: Noun
+- entry: swalw
+  pos: Noun
   meaning: swallow (bird)
-- word: swamm
-  part: Noun
-  meaning: "fungus, mushroom"
-- word: swan
-  part: Noun
+- entry: swamm
+  pos: Noun
+  meaning: fungus, mushroom
+- entry: swan
+  pos: Noun
   meaning: swan
   tags:
     - Animals
-- word: swart
-  part: Adjective
+- entry: swart
+  pos: Adjective
   meaning: black
   tags:
     - Descriptions
-- word: swarŏn
-  part: Verb
+- entry: swarŏn
+  pos: Verb
   meaning: to swear (to make a solemn promise)
   tags:
     - Language
   template: strong-6
-- word: swaïgian
-  part: Verb
-  meaning: "to sway, to rock"
-- word: swein
-  part: Noun
-  meaning: "swine, pig"
+- entry: swaïgian
+  pos: Verb
+  meaning: to sway, to rock
+- entry: swein
+  pos: Noun
+  meaning: swine, pig
   tags:
     - Animals
-- word: swellŏn
-  part: Verb
+- entry: swellŏn
+  pos: Verb
   meaning: to swell
   template: strong-34-e
-- word: sweron
-  part: Verb
-  meaning: "to swear, to make an oath"
+- entry: sweron
+  pos: Verb
+  meaning: to swear, to make an oath
   template: strong-6-j
-- word: swestŏr
-  part: Noun
+- entry: swestŏr
+  pos: Noun
   meaning: brother
   tags:
     - Family
-- word: swindŏn
-  part: Verb
+- entry: swindŏn
+  pos: Verb
   meaning: to dwindle
   template: strong-3-i
-- word: swingŏn
-  part: Verb
+- entry: swingŏn
+  pos: Verb
   meaning: to swing (intransitive)
   template: strong-3-i
-- word: swár
-  part: Adjective
+- entry: swár
+  pos: Adjective
   meaning: heavy
-- word: taihŏw
-  part: Noun
+- entry: taihŏw
+  pos: Noun
   meaning: toe
-- word: tanþ
-  part: Noun
+- entry: tanþ
+  pos: Noun
   meaning: tooth
-- word: taubŏr
-  part: Noun
+- entry: taubŏr
+  pos: Noun
   meaning: magic
-- word: teuhŏn
-  part: Verb
+- entry: teuhŏn
+  pos: Verb
   meaning: to pull
   template: strong-2
-- word: titirjŏn
-  part: Verb
-  meaning: "shiver, shake, vibrate"
-- word: tweig
-  part: Noun
+- entry: titirjŏn
+  pos: Verb
+  meaning: shiver, shake, vibrate
+- entry: tweig
+  pos: Noun
   meaning: twig
-- word: twiskir
-  part: Preposition
-  meaning: "between, among"
-- word: und-
-  part:
+- entry: twiskir
+  pos: Preposition
+  meaning: between, among
+- entry: und-
+  pos:
     - Affix
-  meaning:
-    'prefix for verbs or nouns meaning "against", or indicating "removal"'
-- word: undgäldj
-  part: Noun
-  meaning: "compensation, recompense"
+  meaning: prefix for verbs or nouns meaning "against", or indicating "removal"
+- entry: undgäldj
+  pos: Noun
+  meaning: compensation, recompense
   see:
     - und-
-- word: undgäldjŏn
-  part: Verb
-  meaning: "to recompense, to compensate"
+- entry: undgäldjŏn
+  pos: Verb
+  meaning: to recompense, to compensate
   see:
     - gäldjun
     - und-
-- word: undkwemmŏn
-  part: Verb
-  meaning: "to leave, to flee"
+- entry: undkwemmŏn
+  pos: Verb
+  meaning: to leave, to flee
   see:
     - kwemmun
     - und-
-- word: ursak
-  part: Noun
+- entry: ursak
+  pos: Noun
   meaning: cause
-- word: wagŏn
-  part: Noun
-  meaning: "wagon, cart"
-- word: wahs
-  part: Noun
+- entry: utfördiŏn
+  pos: Noun
+  meaning: challenge
+- entry: wagŏn
+  pos: Noun
+  meaning: wagon, cart
+- entry: wahs
+  pos: Noun
   meaning: wax
-- word: wahsŏn
-  part: Verb
+- entry: wahsŏn
+  pos: Verb
   meaning: to grow
   template: strong-6
-- word: waikw
-  part: Adjective
-  meaning: "weak, soft"
-- word: wakŏn
-  part: Verb
+- entry: waikw
+  pos: Adjective
+  meaning: weak, soft
+- entry: wakŏn
+  pos: Verb
   meaning: to awaken (intransitive)
   template: strong-6
   see:
     - wäkiun
-- word: wald
-  part: Noun
+- entry: wald
+  pos: Noun
   meaning: forest
   tags:
     - Nature
-- word: wardŏn
-  part: Verb
-  meaning: "to wait, to guard, to keep watch"
-- word: warm
-  part: Adjective
+- entry: wardŏn
+  pos: Verb
+  meaning: to wait, to guard, to keep watch
+- entry: warm
+  pos: Adjective
   meaning: warm
-- word: warr
-  part: Noun
+- entry: warr
+  pos: Noun
   meaning: spring
   tags:
     - Time
-- word: weipŏn
-  part: Verb
+- entry: weipŏn
+  pos: Verb
   meaning: to wipe
   template: strong-1
-- word: wel
-  part: Adverb
+- entry: wel
+  pos: Adverb
   meaning: very
-- word: wendion
-  part: Verb
+- entry: wendion
+  pos: Verb
   meaning: to turn; to put to use
   template: weak-jun
-- word: werþŏn
-  part: Verb
+- entry: werþŏn
+  pos: Verb
   meaning: to become
   template: strong-34-e
-- word: wesonhaid
-  part: Noun
+- entry: wesonhaid
+  pos: Noun
   meaning: essence
-- word: west
-  part: Noun
+- entry: west
+  pos: Noun
   meaning: west
   tags:
     - Geography
-- word: wind
-  part: Noun
+- entry: wind
+  pos: Noun
   meaning: wind
-- word: wintŏr
-  part: Noun
+- entry: wintŏr
+  pos: Noun
   meaning: winter
   tags:
     - Time
-- word: wirsir
-  part: Adjective
+- entry: wirsir
+  pos: Adjective
   meaning: worse
   tags:
     - Descriptions
   see:
     - übil
-- word: wirst
-  part: Adjective
+- entry: wirst
+  pos: Adjective
   meaning: worst
   tags:
     - Descriptions
   see:
     - übil
-- word: wisul
-  part: Noun
+- entry: wisul
+  pos: Noun
   meaning: weasel
   tags:
     - Animals
-- word: wiþir
-  part: Adverb
+- entry: wiþir
+  pos: Adverb
   meaning: >-
     further, indicates continuation of action e.g. "gán wiþir" (to continue to
     go, to go further)
-- word: wolf
-  part: Noun
+- entry: wolf
+  pos: Noun
   meaning: wolf
   tags:
     - Animals
-- word: worm
-  part: Noun
+- entry: worm
+  pos: Noun
   meaning: worm
   tags:
     - Animals
-- word: wort
-  part: Noun
+- entry: wort
+  pos: Noun
   meaning: plant
-- word: wrekŏn
-  part: Verb
+- entry: wrekŏn
+  pos: Verb
   meaning: to punish
   template: strong-5
-- word: wár
-  part: Adjective
+- entry: wár
+  pos: Adjective
   meaning: truth
-- word: wäkiŏn
-  part: Verb
+- entry: wäddjŏn
+  pos: Verb
+  meaning: bet
+- entry: wäkiŏn
+  pos: Verb
   meaning: to wake up (transitive)
   template: weak-jun
-- word: ál
-  part: Noun
+- entry: ál
+  pos: Noun
   meaning: eel
   tags:
     - Animals
-- word: áp
-  part: Noun
+- entry: áp
+  pos: Noun
   meaning: ape
   tags:
     - Animals
-- word: übil
-  part: Adjective
+- entry: übil
+  pos: Adjective
   meaning: bad
   tags:
     - Descriptions
-- word: üm
-  part: Preposition
+- entry: üm
+  pos: Preposition
   meaning: around
-- word: üm at
-  part: Conjunction
+- entry: üm at
+  pos: Conjunction
   meaning: because
   see:
     - üm
-- word: þahs
-  part: Noun
+- entry: þahs
+  pos: Noun
   meaning: badger
   tags:
     - Animals
-- word: þauh
-  part: Adverb
-  meaning: "though, however, nonetheless"
-- word: þik
-  part: Adjective
+- entry: þauh
+  pos: Adverb
+  meaning: though, however, nonetheless
+- entry: þik
+  pos: Adjective
   meaning: thick
-- word: þorh
-  part: Preposition
+- entry: þorh
+  pos: Preposition
   meaning: through
-- word: þorp
-  part: Noun
+- entry: þorp
+  pos: Noun
   meaning: village
   tags:
     - Civilisation
-- word: þorsk
-  part: Noun
+- entry: þorsk
+  pos: Noun
   meaning: cod
-- word: þrangw
-  part: Noun
+- entry: þrangw
+  pos: Noun
   meaning: to press
   see:
     - þrinhwun
-- word: þrast
-  part: Noun
+- entry: þrast
+  pos: Noun
   meaning: thrush (bird)
   tags:
     - Animals
-- word: þringŏn
-  part: Verb
+- entry: þringŏn
+  pos: Verb
   meaning: to press
   template: strong-3-i
-- word: þrinhwend
-  part: Adjective
+- entry: þrinhwend
+  pos: Adjective
   meaning: urgent
   see:
     - þrinhwun
-- word: þrinhwŏn
-  part: Verb
+- entry: þrinhwŏn
+  pos: Verb
   meaning: to press; to be urgent
-- word: þráwŏn
-  part: Verb
-  meaning: "to turn, to twist"
+- entry: þráwŏn
+  pos: Verb
+  meaning: to turn, to twist
   template: strong-7d
-- word: þäkjŏn
-  part: Verb
+- entry: þäkjŏn
+  pos: Verb
   meaning: cover
-- word: þünn
-  part: Adjective
+- entry: þünn
+  pos: Adjective
   meaning: thin
+- entry: hág
+  pos: Noun
+  meaning: yard, pasture, small forest
+  see: [hägg]
+- entry: hägg
+  meaning: garden, enclosure
+  see: hág
+  pos: Noun
+- entry: trinnon
+  meaning: to separate oneself
+  pos: Verb
+  template: strong-3-i
+- entry: trännion
+  meaning: to cause separate, to divide
+  pos: Verb
+  template: weak-jun
+- entry: beur
+  meaning: beer
+  pos: Noun
+- entry: aigon (1)
+  meaning: to own
+  pos: Verb
+  note: irregular
+- entry: aigon (2)
+  pos: Adjective
+  meaning: own
+- entry: aigonleik
+  pos: [Adjective, Adverb]
+  meaning: actually, in reality
+- entry: samlon
+  pos: Verb
+  template: weak-lun
+  meaning: to gather, to collect
+- entry: saiwol
+  pos: Noun
+  meaning: soul
