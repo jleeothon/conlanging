@@ -1,0 +1,14 @@
+## {{title}}
+
+{{#each entries}}
+### {{entry}}
+
+{{#if part}}({{part}}){{/if}} {{#each inflections}}{{#unless @first}}, {{/unless}} _{{@key}}:_ **{{this}}**{{/each}}
+
+{{meaning}}
+
+{{#if see}}
+See: {{#each see}}{{#unless @first}}, {{/unless}}[{{this}}](#{{this}}){{/each}}
+{{/if}}
+
+{{/each}}
