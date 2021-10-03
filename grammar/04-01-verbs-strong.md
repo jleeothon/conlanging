@@ -52,7 +52,8 @@ semiconsonant or consonants, with exceptions. These are the patterns:
 | 7d    | á                  | é          | á               | (any             |
 | 7e    | ó                  | é          | ó               | any              |
 
-Note the parallel between the present and past of classes: 1 and 7a, 2 and 7b, 3-i and 7c-i, 3-e and 7c-e.
+Note the parallel between the present and past of classes: 1 and 7a, 2 and 7b,
+3-i and 7c-i, 3-e and 7c-e.
 
 Note that the preterite of strong verbs does not distinguish first and third
 persons. Without context, the first person can be assumed.

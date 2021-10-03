@@ -5,7 +5,7 @@
 | Ortography | Pronunciation |
 | ---------- | ------------- |
 | i          | /ɪ/           |
-| u (ŭ)      | /ʊ/           |
+| u          | /ʊ/           |
 | e          | /ɛ/           |
 | o          | /ɔ/           |
 | a          | /a/           |
@@ -22,9 +22,6 @@
 | ai         | /ɛː/          |
 | au         | /ɔː/          |
 
-The vowel ⟨ŭ⟩ is used in dictionaries and grammars to represent full vowels in
-vowel-zero alternations.
-
 ### Consonants
 
 Consonants come in (up to) three variants: plain, w-variant, j-variant.
@@ -32,29 +29,28 @@ Consonants come in (up to) three variants: plain, w-variant, j-variant.
 In the following table:
 
 - (I) means "in initial position".
-- (M) means "in medial position".
-- (F) means "in final position".
+- (M) means "in medial position between sonorants".
+- (F) means "in final position or before a consonant".
 - Unmarked pronunciations mean "otherwise".
 
-| Plain | Pronunciation          | W-Variant | Pronunciation  | J-Variant | Pronunciation      |
-| ----- | ---------------------- | --------- | -------------- | --------- | ------------------ |
-| p     | /p/                    | pw        | /pw/, /pː/ (F) | pj        | /pj/               |
-| b     | /b/, see notes         | bw        | /bw/, /bː/ (F) | bj        | /bj/               |
-| t     | /t/                    | tw        | /tw/, /tː/ (F) | dj        | /tʲ/               |
-| d     | /d/                    | dw        | /dw/, /dː/ (F) | tj        | /dʲ/               |
-| k     | /k/                    | kw        | /kʷ/, /kː/ (F) | kj        | /tʃ/               |
-| g     | /g/, /x~ç/ (F)         | gw        | /gʷ/, /gː/ (F) | gj        | /dʒ/               |
-| f     | /f/                    | fw        | /f/            | fj        | /fj/ (^F), /f/ (F) |
-| v     | /v/, /f/ (F)           | ??        |                | ??        |                    |
-| þ     | /θ/                    | þw        | /θw/, /θ/ (F)  | þj        | /θj/, /θ/ (F)      |
-| s     | /s/                    | sw        | /sw/           | sj        | /ɕ/                |
-| h     | /h/, /x~ç/             | hw        | /hw/, /g/ (F)  | hj        | /ç/                |
-| l     | /l/                    | lw        | /lw/, /lg/ (F) | lj        | /ʎ/                |
-| r     | /r/                    | rw        | /rw/, /rg/ (F) | rj        | /ʑ/                |
-| m     | /m/                    |           |                |           |                    |
-| n     | /n/, /ŋ/ before velars |           |                |           |                    |
-| j     | /j/                    |           |                |           |                    |
-| w     | /w/                    |           |                |           |                    |
+| Plain | Pronunciation          |
+| ----- | ---------------------- |
+| p     | /p/                    |
+| b     | /b/, /v/ (M), /f/ (F)                    |
+| t     | /t/                    |
+| d     | /d/                    |
+| k     | /k/                    |
+| g     | /g/, /ɣ/ (M), /x~ç/ (F)         |
+| f     | /f/                    |
+| þ     | /θ/                    |
+| s     | /s/                    |
+| h     | /h/, /x~ç/ (F)             |
+| l     | /l/                    |
+| r     | /r/                    |
+| m     | /m/                    |
+| n     | /n/, /ŋ/ before velars |
+| j     | /j/                    |
+| w     | /w/                    |
 
 The glottal stop is realised at the beginning of words that start with a vowel,
 and between vowels at internal boundaries in composite words.
@@ -66,33 +62,21 @@ Notes:
 
 ⟨b⟩ can be realised as /b/ everywhere, but is recommended to be realised as:
 
-- /b/ initially or when written ⟨bb⟩,
+- /b/ initially,
+- /bː/ when written ⟨bb⟩
 - /v/ medially between sonorants,
-- /f/ medially otherwise and finally;
+- /f/ medially otherwise and finally.
 
 E.g. ⟨bér⟩ /bɛːr/ "bear", ⟨halb⟩ /half/ "half".
 
 ⟨g⟩ can be realised as /g/ everywhere, but is recommended as:
 
-- /g/ initially and medially,
-- /x/ finally.
+- /g/ initially,
+- /gː/ when written ⟨gg⟩
+- /ɣ/ medially between sonorants,
+- /x/ medially otherwise and finally.
 
 Note: "sk" allows "dialectal variation" as /sx/ or /ʃ/, and optionally only
-before "i" and "e".
+before "i" and "e". 💭💭💭 Maybe it should be spelled ⟨sc⟩.
 
-Haven't fully decided on the spelling and pronunciation of ⟨b⟩. In the
-word-middle and word-end, it may be ⟨v⟩, thus the pronunciation better
-distinguished.
-
-Geminated consonants may exist. I'm not sure what to do with them, especially
-when they occur at the word-end; they may be trigger tone change.
-
-#### Consonant alternations
-
-W- and j-variants' realisations alternate when they appear at the end of a stem
-and a word is suffixed or unsuffixed.
-
-For example:
-
-- ⟨farw⟩ "colour" is realised /farg/.
-- ⟨farwan⟩ "colours" is realised /farwan/.
+What happens with geminated consonants at the word-end. 💭💭💭 Maybe they trigger minor tone changes, like Swedish tonemes.

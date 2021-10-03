@@ -36,12 +36,17 @@ Ordinal numbers start with _airist_ or _fórist_ (meaning "earliest" or "most in
 front"). All other ordinals are constructed with the cardinal and _-id_. Thus:
 _twaiid, þirid, feurid, fimfid_ etc.
 
-How do numerals behave regarding case inflection❓
+Numerals for 1 and 2 are the only irregular and may behave like a determiner:
+
+| Number | Nom. | Acc. | Gen.  |
+| ------ | ---- | ---- | ----- |
+| 1      | ain  | ait  | ais   |
+| 2      | twai | two  | twair |
 
 Multiples are constructed with _-fald_, thus _twaifald_ is "double" and
 _seffald_ "seven times" or "sevenfold". Composite numbers look like
 "twaintig-und-ainfald" (twenty-one-fold).
 
-Fractions are constructed with _-del_, _þridel_ is "a third" and "fimfdel" is "a
-fifth". The exception is _halv_, meaning "half". Composite numbers look like
-"twaintig-und-aindel".
+Fractions are constructed with _-dail_, _þridail_ is "a third" and "fimfdail" is
+"a fifth". The exception is _halv_, meaning "half". Composite numbers look like
+"twaintig-und-aindail".
