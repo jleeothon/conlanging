@@ -21,12 +21,11 @@
   meaning: oak
   tags:
     - Nature
-- entry: aikwerŏn
+- entry: aikweron
   pos: Noun
   meaning: squirrel
   tags:
     - Animals
-  istem: akwern-
 - entry: aindagis
   pos: Adverb
   meaning: one day, some day
@@ -54,7 +53,7 @@
   meaning: old
   tags:
     - Descriptions
-- entry: aldŏr
+- entry: aldor
   pos: Noun
   meaning: age
 - entry: allain (1)
@@ -80,7 +79,7 @@
 - entry: anþor
   pos: Noun
   meaning: other
-- entry: apŏl
+- entry: apol
   pos: Noun
   meaning: apple
   tags:
@@ -128,11 +127,11 @@
   meaning: leg
   tags:
     - Body
-- entry: bakŏn
+- entry: bakon
   pos: Verb
   meaning: to bake (transitive and intransitive)
   template: strong-6
-- entry: bannŏn
+- entry: bannon
   pos: Verb
   meaning: to ban
   template: strong-7c-i
@@ -152,7 +151,7 @@
   meaning: perch
   tags:
     - Animals
-- entry: baugjŏn
+- entry: baugjon
   pos: Verb
   meaning: to bend (transitive)
   see:
@@ -162,24 +161,24 @@
   meaning: tree
   tags:
     - Plants
-- entry: bautŏn
+- entry: bauton
   pos: Verb
   meaning: to beat
   template: strong-7b
-- entry: bedwŏn
+- entry: bedwon
   pos: Verb
   meaning: to pray
-- entry: berŏn
+- entry: beron
   pos: Verb
   meaning: to bear
   template: strong-34-e
-- entry: beugŏn
+- entry: beugon
   pos: Verb
   meaning: to bend (intransitive)
   template: strong-2
   see:
     - baugjun
-- entry: beutŏn
+- entry: beuton
   pos: Verb
   meaning: to offer
   template: strong-2
@@ -188,7 +187,7 @@
   meaning: beaver
   tags:
     - Animals
-- entry: bihlastwŏn
+- entry: bihlastwon
   pos: Verb
   meaning: to annoy, to harass
   see:
@@ -206,10 +205,10 @@
 - entry: bikwém
   pos: Adjective
   meaning: comfortable
-- entry: bilaunwŏn
+- entry: bilaunuon
   pos: Verb
   meaning: to wage, to reward, to pay
-- entry: bindŏn
+- entry: bindon
   pos: Verb
   meaning: to bind
   template: strong-3-i
@@ -223,7 +222,7 @@
 - entry: bisundris
   pos: Adverb
   meaning: especially, particularly
-- entry: bisundŏr
+- entry: bisundor
   pos: Adjective
   meaning: special, unusual
 - entry: bisweron
@@ -233,7 +232,7 @@
 - entry: blad
   pos: Noun
   meaning: blade
-- entry: blandŏn
+- entry: blandon
   pos: Verb
   meaning: to blend
   template: strong-7c-i
@@ -246,7 +245,7 @@
   pos: Verb
   meaning: to flower
   template: strong-7e
-- entry: blásŏn
+- entry: bláson
   pos: Verb
   meaning: to blow
   template: strong-7d
@@ -268,11 +267,11 @@
   meaning: boxwood
   tags:
     - Plants
-- entry: bradŏn
+- entry: bradon
   pos: Verb
   meaning: to cook in a pan
   template: strong-7d
-- entry: brekŏn
+- entry: brekon
   pos: Verb
   meaning: to break
   template: strong-34-e
@@ -287,7 +286,7 @@
   meaning: fountain, well, wellspring
   tags:
     - Nature
-- entry: broþŏr
+- entry: broþor
   pos: Noun
   meaning: brother
   tags:
@@ -370,7 +369,7 @@
 - entry: dail
   pos: Noun
   meaning: part, portion, fraction
-- entry: dailjŏn
+- entry: dailjon
   pos: Verb
   meaning: to divide
   template: weak-jun
@@ -380,7 +379,7 @@
 - entry: daud
   pos: Noun
   meaning: dead
-- entry: daudjŏn
+- entry: daudjon
   pos: Verb
   meaning: to kill
   template: weak-jun
@@ -392,22 +391,22 @@
   meaning: animal
   tags:
     - Animals
-- entry: dewŏn
+- entry: dewon
   pos: Verb
   meaning: to die
   template: strong-34-e
-- entry: dragŏn
+- entry: dragon
   pos: Verb
   meaning: to carry
   template: strong-6
-- entry: dragŏn
+- entry: dragon
   pos: Verb
   meaning: to wear
   template: strong-6
 - entry: draug
   pos: Adjective
   meaning: dry
-- entry: draugiŏn
+- entry: draugion
   pos: Verb
   meaning: to dry
 - entry: draum
@@ -416,15 +415,15 @@
 - entry: dreivan
   pos: Verb
   meaning: to drive
-- entry: drepŏn
+- entry: drepon
   pos: Verb
   meaning: to meet
   template: strong-34-e
-- entry: dreupŏn
+- entry: dreupon
   pos: Verb
   meaning: to drip
   template: strong-2
-- entry: drinkŏn
+- entry: drinkon
   pos: Verb
   meaning: to drink
   template: strong-3-i
@@ -433,22 +432,22 @@
   meaning: to drift
   tags:
     - Movement
-- entry: duhtŏr
+- entry: duhtor
   pos: Noun
   meaning: daughter
 - entry: dumb
   pos: Adjective
   meaning: stupid, dumb
-- entry: dunkŏl
+- entry: dunkol
   pos: Adjective
   meaning: dark
-- entry: dunkŏr
+- entry: dunkor
   pos: Adjective
   meaning: dark
 - entry: dusk
   pos: Adjective
   meaning: dark
-- entry: dweinŏn
+- entry: dweinon
   pos: Verb
   meaning: to disappear
   template: strong-1
@@ -496,7 +495,7 @@
   see:
     - bärj
     - erþ
-- entry: etŏn
+- entry: eton
   pos: Verb
   meaning: to eat
   template: strong-5
@@ -505,15 +504,15 @@
   meaning: ewe, female sheep
   tags:
     - Animals
-- entry: fadŏr
+- entry: fador
   pos: Noun
   meaning: father
   tags:
     - Family
-- entry: fagŏr
+- entry: fagor
   pos: Adjective
   meaning: pretty, beautiful
-- entry: fallŏn
+- entry: fallon
   pos: Verb
   meaning: to fall
   template: strong-7c-e
@@ -524,7 +523,7 @@
     - Time
   see:
     - dag
-- entry: fangŏn
+- entry: fangon
   pos: Verb
   meaning: to capture, to catch
   template: strong-7c-i
@@ -535,7 +534,7 @@
     - Time
   see:
     - kwild
-- entry: fanmorgŏn
+- entry: fanmorgon
   pos: Noun
   meaning: tomorrow, in the morning
   tags:
@@ -562,11 +561,11 @@
   meaning: colour
   tags:
     - Descriptions
-- entry: farŏn
+- entry: faron
   pos: Verb
   meaning: to drive
   template: strong-6
-- entry: fatwŏn
+- entry: fatwon
   pos: Verb
   meaning: to fetch, to catch, to grasp
 - entry: faw
@@ -597,15 +596,15 @@
   meaning: much
   tags:
     - Descriptions
-- entry: findŏn
+- entry: findon
   pos: Verb
   meaning: to find
   template: strong-3-i
-- entry: firkwistjŏn
+- entry: firkwistjon
   pos: Verb
   meaning: to waste
   template: weak-jun
-- entry: firswändjŏn
+- entry: firswändjon
   pos: Verb
   meaning: to make disappear
   template: weak-jun
@@ -634,11 +633,11 @@
   meaning: fly
   tags:
     - Animals
-- entry: fleugŏn
+- entry: fleugon
   pos: Verb
   meaning: to fly
   template: strong-2
-- entry: fleutŏn
+- entry: fleuton
   pos: Verb
   meaning: to float
   template: strong-2
@@ -647,19 +646,23 @@
   meaning: flounder, flatfish
   tags:
     - Animals
+- entry: ahw
+  pos: Noun
+  meaning: river
+  tags: [Nature]
 - entry: flód
   pos: Noun
   meaning: flood, river (poetic), high tide
   tags:
     - Nature
-- entry: flówŏn
+- entry: flówon
   pos: Verb
   meaning: to flow
   template: strong-7e
 - entry: foll
   pos: Adjective
   meaning: full
-- entry: forhŏn
+- entry: forhon
   pos: Noun
   meaning: trout
   tags:
@@ -667,7 +670,7 @@
 - entry: forþ
   pos: Adverb
   meaning: forward, forth
-- entry: fraurjŏn
+- entry: fraurjon
   pos: Verb
   meaning: to freeze (transitive)
   template: weak-jun
@@ -679,7 +682,7 @@
 - entry: frek
   pos: Adjective
   meaning: greedy; nasty
-- entry: freusŏn
+- entry: freuson
   pos: Verb
   meaning: to freeze (intransitive)
   template: strong-2
@@ -709,7 +712,7 @@
   meaning: early
   tags:
     - Time
-- entry: fugŏl
+- entry: fugol
   pos: Noun
   meaning: bird
   tags:
@@ -719,7 +722,7 @@
   meaning: fox
   tags:
     - Animals
-- entry: fulgwŏn
+- entry: fulgwon
   pos: Verb
   meaning: to follow
 - entry: fól
@@ -727,28 +730,28 @@
   meaning: foal, young horse
   tags:
     - Animals
-- entry: fórraidjŏn
+- entry: fórraidjon
   pos: Verb
   meaning: to prepare
   see:
     - raidjun
-- entry: fördailiŏn
+- entry: fördailion
   pos: Verb
   meaning: to distribute
-- entry: fördiŏn
+- entry: fördion
   pos: Verb
   meaning: to further, to foster, to support
-- entry: fördiŏn ut
+- entry: fördion ut
   pos: Verb
   meaning: to challenge
 - entry: försenkion
   pos: Verb
   meaning: to focus, to concentrate
   template: weak-jun
-- entry: försprekŏn
+- entry: försprekon
   pos: Verb
   meaning: to promise
-- entry: förswindŏn
+- entry: förswindon
   pos: Verb
   meaning: to disappear
   see:
@@ -776,7 +779,7 @@
   meaning: money
   see:
     - geldun
-- entry: geldŏn
+- entry: geldon
   pos: Verb
   meaning: to be valid
   template: strong-34-e
@@ -792,15 +795,15 @@
   meaning: orange
   tags:
     - Descriptions
-- entry: getŏn
+- entry: geton
   pos: Verb
   meaning: to get, to receive
   template: strong-5
-- entry: geutŏn
+- entry: geuton
   pos: Verb
   meaning: to pour
   template: strong-2
-- entry: gevŏn
+- entry: gevon
   pos: Verb
   meaning: to give
   template: strong-5
@@ -825,7 +828,7 @@
 - entry: giwar
   pos: Adjective
   meaning: aware
-- entry: gleidŏn
+- entry: gleidon
   pos: Verb
   meaning: to glide
   template: strong-1
@@ -840,15 +843,15 @@
   meaning: big
   tags:
     - Descriptions
-- entry: gravŏn
+- entry: gravon
   pos: Verb
   meaning: to dig
   template: strong-6
-- entry: greipŏn
+- entry: greipon
   pos: Verb
   meaning: to grab
   template: strong-1
-- entry: grimmŏn
+- entry: grimmon
   pos: Verb
   meaning: to be angry
   template: strong-3-i
@@ -866,7 +869,7 @@
   meaning: green
   tags:
     - Descriptions
-- entry: gäldjŏn
+- entry: gäldjon
   pos: Verb
   meaning: to be valid
   see:
@@ -879,7 +882,7 @@
 - entry: hail
   pos: Adjective
   meaning: whole, intact, unhurt
-- entry: haitŏn
+- entry: haiton
   pos: Verb
   meaning: to be named
   template: strong-7a
@@ -891,7 +894,7 @@
 - entry: hald
   pos: Noun
   meaning: hold, grasp
-- entry: haldŏn
+- entry: haldon
   pos: Verb
   meaning: to hold
   template: strong-7c-e
@@ -911,10 +914,10 @@
 - entry: handlár
   pos: Noun
   meaning: merchant
-- entry: handlŏn
+- entry: handlon
   pos: Verb
   meaning: to handle, to negotiate, to do business with sth.
-- entry: hangŏn
+- entry: hangon
   pos: Verb
   meaning: to hang
   template: strong-7c-i
@@ -923,7 +926,7 @@
   meaning: fall, autumn, harvest
   tags:
     - Time
-- entry: hauwŏn
+- entry: hauwon
   pos: Verb
   meaning: to hew, to chop
   template: strong-7b
@@ -936,7 +939,7 @@
   pos: Verb
   meaning: to lift
   template: strong-6-j
-- entry: helpŏn
+- entry: helpon
   pos: Verb
   meaning: to help
   template: strong-34-e
@@ -958,11 +961,11 @@
   meaning: female deer
   tags:
     - Animals
-- entry: hladŏn
+- entry: hladon
   pos: Verb
   meaning: to accumulate, to increase in something
   template: strong-6
-- entry: hlahŏn
+- entry: hlahon
   pos: Verb
   meaning: to laugh
 - entry: hlast
@@ -982,7 +985,7 @@
   meaning: annoying
   see:
     - hlast
-- entry: hlaupŏn
+- entry: hlaupon
   pos: Verb
   meaning: to walk
   template: strong-7b
@@ -1014,7 +1017,7 @@
   meaning: wood, forest (poetic)
   tags:
     - Nature
-- entry: hragŏn
+- entry: hragon
   pos: Verb
   meaning: to jut out, to protude, to stand out
   template: strong-34-e
@@ -1023,17 +1026,17 @@
   meaning: heron
   tags:
     - Animals
-- entry: hreggiŏn
+- entry: hreggion
   pos: Verb
   meaning: to incite, to excite, to
   template: weak-jun
   see:
-    - hragŏn
-- entry: hreitŏn
+    - hragon
+- entry: hreiton
   pos: Verb
   meaning: to scratch
   template: strong-1
-- entry: hringŏn
+- entry: hringon
   pos: Verb
   meaning: to ring
   template: strong-3-i
@@ -1060,10 +1063,10 @@
   meaning: dog
   tags:
     - Animals
-- entry: hungrwŏn
+- entry: hungrwon
   pos: Verb
   meaning: to hunger
-- entry: hungŏr
+- entry: hungor
   pos: Noun
   meaning: hunger
 - entry: huning
@@ -1086,7 +1089,7 @@
   meaning: while
   see:
     - hweil
-- entry: hweinŏn
+- entry: hweinon
   pos: Verb
   meaning: to cry
   template: strong-1
@@ -1100,7 +1103,7 @@
   meaning: welp, young mammal
   tags:
     - Animals
-- entry: hwervŏn
+- entry: hwervon
   pos: Verb
   meaning: to throw
   template: strong-34-e
@@ -1132,7 +1135,7 @@
   meaning: holly
   tags:
     - Plants
-- entry: hűrwŏn
+- entry: hűrwon
   pos: Verb
   meaning: to hire
 - entry: igil
@@ -1168,7 +1171,7 @@
   meaning: cat
   tags:
     - Animals
-- entry: kaupjŏn
+- entry: kaupjon
   pos: Verb
   meaning: to buy
   template: weak-jun
@@ -1180,7 +1183,7 @@
   meaning: chicken
   tags:
     - Animals
-- entry: keusŏn
+- entry: keuson
   pos: Verb
   meaning: to choose
   template: strong-2
@@ -1192,16 +1195,16 @@
 - entry: klaiþ
   pos: Noun
   meaning: cloth, clothing, clothes
-- entry: kleivŏn
+- entry: kleivon
   pos: Verb
   meaning: to stick to
   template: strong-1
-- entry: knedŏn
+- entry: knedon
   pos: Verb
   meaning: to knead
   template: strong-34-e
   note: Irregular strong-34-e
-- entry: kneipŏn
+- entry: kneipon
   pos: Verb
   meaning: to pinch
   template: strong-1
@@ -1248,7 +1251,7 @@
   pos: Verb
   meaning: arrive
   template: strong-34-e
-- entry: kwemŏn
+- entry: kwemon
   pos: Verb
   meaning: to come
   template: strong-34-e
@@ -1270,7 +1273,7 @@
 - entry: káp
   pos: Noun
   meaning: cape
-- entry: küssjŏn
+- entry: küssjon
   pos: Verb
   meaning: to kiss
   see:
@@ -1319,7 +1322,7 @@
     - Time
   see:
     - lat
-- entry: laŏn
+- entry: laon
   pos: Noun
   meaning: wage, reward, pay
 - entry: lebruon
@@ -1333,7 +1336,7 @@
   meaning: body
   tags:
     - Time
-- entry: leivŏn
+- entry: leivon
   pos: Verb
   meaning: to remain
   template: strong-1
@@ -1348,7 +1351,7 @@
 - entry: leson
   pos: Verb
   meaning: to read
-- entry: leusŏn
+- entry: leuson
   pos: Verb
   meaning: to lose
   template: strong-2
@@ -1366,7 +1369,7 @@
 - entry: lár / lér
   pos: Adjective
   meaning: empty
-- entry: látŏn
+- entry: láton
   pos: Verb
   meaning: to let
   template: strong-7d
@@ -1400,7 +1403,7 @@
 - entry: malm
   pos: Noun
   meaning: ore
-- entry: malŏn
+- entry: malon
   pos: Verb
   meaning: to grind
   template: strong-6
@@ -1414,15 +1417,15 @@
   meaning: marten
   tags:
     - Animals
-- entry: melkŏn
+- entry: melkon
   pos: Verb
   meaning: to milk
   template: strong-34-e
-- entry: meltŏn
+- entry: melton
   pos: Verb
   meaning: to melt (intransitive)
   template: strong-34-e
-- entry: metŏn
+- entry: meton
   pos: Verb
   meaning: to measure
   template: strong-5
@@ -1451,7 +1454,7 @@
   meaning: midnight
   tags:
     - Time
-- entry: midj
+- entry: midd
   pos: Noun
   meaning: middle, center
   tags:
@@ -1478,7 +1481,7 @@
 - entry: mislukuon
   pos: Verb
   meaning: to fail
-- entry: modŏr
+- entry: modor
   pos: Noun
   meaning: mother
   tags:
@@ -1488,7 +1491,7 @@
   meaning: in the mornings
   tags:
     - Time
-- entry: morgŏn
+- entry: morgon
   pos: Noun
   meaning: morning
   tags:
@@ -1516,7 +1519,7 @@
 - entry: nat
   pos: Adjective
   meaning: wet, moist
-- entry: natjŏn
+- entry: natjon
   pos: Verb
   meaning: to dampen, to moisten, to wetten
 - entry: naud
@@ -1525,7 +1528,7 @@
 - entry: nemon an
   pos: Verb
   meaning: to accept
-- entry: nemŏn
+- entry: nemon
   pos: Verb
   meaning: to take
   template: strong-34-e
@@ -1534,7 +1537,7 @@
   meaning: nest
   tags:
     - Animals
-- entry: nesŏn
+- entry: neson
   pos: Verb
   meaning: to heal (intransitive)
   template: strong-5
@@ -1552,11 +1555,11 @@
 - entry: nuh
   pos: Adverb
   meaning: yet
-- entry: näriŏn
+- entry: närion
   pos: Verb
   meaning: to heal (transitive), to take care of
   template: weak-jun
-- entry: obŏtj
+- entry: obotj
   pos: Noun
   meaning: fruit
   tags:
@@ -1581,7 +1584,7 @@
 - entry: penning (pänning)
   pos: Noun
   meaning: coin
-- entry: plehŏn
+- entry: plehon
   pos: Verb
   meaning: to commit
   template: strong-5
@@ -1599,7 +1602,7 @@
 - entry: poggstól
   pos: Noun
   meaning: mushroom (especially edible ones)
-- entry: pratuŏn
+- entry: pratuon
   pos: Verb
   meaning: to chat
 - entry: páw
@@ -1633,7 +1636,7 @@
   meaning: red
   tags:
     - Descriptions
-- entry: reidŏn
+- entry: reidon
   pos: Verb
   meaning: to ride
   template: strong-1
@@ -1647,7 +1650,7 @@
   meaning: rich
   see:
     - reikj (1)
-- entry: reisŏn
+- entry: reison
   pos: Verb
   meaning: to travel, to increase (intransitive)
   template: strong-1
@@ -1655,14 +1658,14 @@
   pos: Noun
   meaning: speech, thing said
   note: i-umlaut?
-- entry: rinnŏn
+- entry: rinnon
   pos: Verb
   meaning: to run
   template: strong-3-i
 - entry: rád
   pos: Noun
   meaning: advise, speech
-- entry: rádŏn
+- entry: rádon
   pos: Verb
   meaning: to advise
   template: strong-7d
@@ -1673,24 +1676,24 @@
 - entry: sam
   pos: Verb
   meaning: same
-- entry: samilŏn
+- entry: samilon
   pos: Verb
   meaning: to gather
-- entry: samŏn
+- entry: samon
   pos: Verb
   meaning: together
 - entry: sehun in
   pos: Verb
   meaning: to comprehend, to realise
   template: strong-34-e
-- entry: sehŏn
+- entry: sehon
   pos: Verb
   meaning: to see
   template: strong-5
-- entry: seldŏn
+- entry: seldon
   pos: Adverb
   meaning: seldom
-- entry: seldŏn
+- entry: seldon
   pos: Adjective
   meaning: rare, seldom
 - entry: selh
@@ -1711,10 +1714,10 @@
 - entry: siht
   pos: Noun
   meaning: sight
-- entry: sikŏr
+- entry: sikor
   pos: Adjective
   meaning: safe
-- entry: singŏn
+- entry: singon
   pos: Verb
   meaning: to sing
   template: strong-3-i
@@ -1722,7 +1725,7 @@
   pos: Verb
   meaning: to sink (intransitive)
   template: strong-3-i
-- entry: skaiþŏn
+- entry: skaiþon
   pos: Verb
   meaning: to separate, to distinguish
   template: strong-7a
@@ -1730,7 +1733,7 @@
   pos: Verb
   meaning: to shake
   template: strong-6
-- entry: skakŏn
+- entry: skakon
   pos: Verb
   meaning: to shake
   template: strong-6
@@ -1741,18 +1744,18 @@
   pos: Verb
   meaning: to move or to jump, to happen
   template: strong-5
-- entry: skeinŏn
+- entry: skeinon
   pos: Verb
   meaning: to shine
   template: strong-1
-- entry: skeitŏn
+- entry: skeiton
   pos: Verb
   meaning: to shite, to defecate
   template: strong-1
 - entry: skeld
   pos: Noun
   meaning: shield
-- entry: skeutŏn
+- entry: skeuton
   pos: Verb
   meaning: to shoot
   template: strong-2
@@ -1765,10 +1768,10 @@
 - entry: skor
   pos: Noun
   meaning: shore
-- entry: skrakŏw
+- entry: skrakow
   pos: Noun
   meaning: exaggeration, lie
-- entry: skraudŏn
+- entry: skraudon
   pos: Verb
   meaning: to cut up, to shred
   template: strong-7b
@@ -1788,15 +1791,15 @@
 - entry: slahan för
   pos: Verb
   meaning: to suggest
-- entry: slahŏn
+- entry: slahon
   pos: Verb
   meaning: to strike, to hit
   template: strong-6
-- entry: sleutŏn
+- entry: sleuton
   pos: Verb
   meaning: to close
   template: strong-2
-- entry: slápŏn
+- entry: slápon
   pos: Verb
   meaning: to sleep
   template: strong-7d
@@ -1817,7 +1820,7 @@
 - entry: snakuon
   pos: Verb
   meaning: to chat
-- entry: sneidŏn
+- entry: sneidon
   pos: Verb
   meaning: to snow
   template: strong-1
@@ -1831,26 +1834,26 @@
   meaning: sock
   tags:
     - Clothing
-- entry: spanŏn
+- entry: spanon
   pos: Verb
   meaning: to stretch, to span
   template: strong-7c-i
-- entry: spilwŏn
+- entry: spilwon
   pos: Verb
   meaning: to play
 - entry: spit
   pos: Noun
   meaning: tip (e.g of an arrow)
-- entry: spleitŏn
+- entry: spleiton
   pos: Verb
   meaning: to split, to divide
   template: strong-1
-- entry: sprekŏn
+- entry: sprekon
   pos: Verb
   meaning: to speak
   template: strong-34-e
   note: Irregular strong-34-e
-- entry: springŏn
+- entry: springon
   pos: Verb
   meaning: to spring
   template: strong-3-i
@@ -1860,24 +1863,24 @@
 - entry: stadir
   pos: Preposition
   meaning: instead of
-- entry: stautŏn
+- entry: stauton
   pos: Verb
   meaning: to push, to support
   template: strong-7b
-- entry: steikŏn
+- entry: steikon
   pos: Verb
   meaning: to stick, to be stuck
   template: strong-1
-- entry: stekŏn
+- entry: stekon
   pos: Verb
   meaning: to stab
   template: strong-34-e
   note: Irregular strong-34-e
-- entry: stelŏn
+- entry: stelon
   pos: Verb
   meaning: to steal
   template: strong-34-e
-- entry: stervŏn
+- entry: stervon
   pos: Verb
   meaning: to die
   template: strong-34-e
@@ -1886,7 +1889,7 @@
   meaning: bull
   tags:
     - Animals
-- entry: stinkŏn
+- entry: stinkon
   pos: Verb
   meaning: to stink
   template: strong-3-i
@@ -1895,27 +1898,24 @@
   meaning: stork
   tags:
     - Animals
-- entry: streidŏn
+- entry: streidon
   pos: Verb
   meaning: to quarrel
   template: strong-1
-- entry: streidŏn
+- entry: streidon
   pos: Verb
   meaning: to quarrel
   template: strong-1
-- entry: streikŏn
+- entry: streikon
   pos: Verb
   meaning: to strike, to hit
   template: strong-1
-- entry: städ
-  pos: Noun
-  meaning: place
 - entry: stäggj
   pos: Noun
   meaning: male deer
   tags:
     - Animals
-- entry: ställjŏn
+- entry: ställjon
   pos: Verb
   meaning: to put, to place
 - entry: stód
@@ -1931,7 +1931,7 @@
 - entry: störj
   pos: Noun
   meaning: sturgeon
-- entry: sumŏr
+- entry: sumor
   pos: Noun
   meaning: summer
   tags:
@@ -1939,7 +1939,7 @@
 - entry: sundir
   pos: Preposition
   meaning: without
-- entry: sundŏr
+- entry: sundor
   pos: Adjective
   meaning: alone, separate
 - entry: sunþ
@@ -1952,7 +1952,7 @@
   meaning: sow, female pig
   tags:
     - Animals
-- entry: swaipŏn
+- entry: swaipon
   pos: Verb
   meaning: to sweep
   template: strong-7a
@@ -1961,7 +1961,7 @@
   meaning: swallow
   tags:
     - Animals
-- entry: swalw
+- entry: swalow
   pos: Noun
   meaning: swallow (bird)
 - entry: swamm
@@ -1977,7 +1977,7 @@
   meaning: black
   tags:
     - Descriptions
-- entry: swarŏn
+- entry: swaron
   pos: Verb
   meaning: to swear (to make a solemn promise)
   tags:
@@ -1991,7 +1991,7 @@
   meaning: swine, pig
   tags:
     - Animals
-- entry: swellŏn
+- entry: swellon
   pos: Verb
   meaning: to swell
   template: strong-34-e
@@ -1999,36 +1999,36 @@
   pos: Verb
   meaning: to swear, to make an oath
   template: strong-6-j
-- entry: swestŏr
+- entry: swestor
   pos: Noun
   meaning: brother
   tags:
     - Family
-- entry: swindŏn
+- entry: swindon
   pos: Verb
   meaning: to dwindle
   template: strong-3-i
-- entry: swingŏn
+- entry: swingon
   pos: Verb
   meaning: to swing (intransitive)
   template: strong-3-i
 - entry: swár
   pos: Adjective
   meaning: heavy
-- entry: taihŏw
+- entry: taihow
   pos: Noun
   meaning: toe
 - entry: tanþ
   pos: Noun
   meaning: tooth
-- entry: taubŏr
+- entry: taubor
   pos: Noun
   meaning: magic
-- entry: teuhŏn
+- entry: teuhon
   pos: Verb
   meaning: to pull
   template: strong-2
-- entry: titirjŏn
+- entry: titirjon
   pos: Verb
   meaning: shiver, shake, vibrate
 - entry: tweig
@@ -2046,13 +2046,13 @@
   meaning: compensation, recompense
   see:
     - und-
-- entry: undgäldjŏn
+- entry: undgäldjon
   pos: Verb
   meaning: to recompense, to compensate
   see:
     - gäldjun
     - und-
-- entry: undkwemmŏn
+- entry: undkwemmon
   pos: Verb
   meaning: to leave, to flee
   see:
@@ -2061,23 +2061,23 @@
 - entry: ursak
   pos: Noun
   meaning: cause
-- entry: utfördiŏn
+- entry: utfördion
   pos: Noun
   meaning: challenge
-- entry: wagŏn
+- entry: wagon
   pos: Noun
   meaning: wagon, cart
 - entry: wahs
   pos: Noun
   meaning: wax
-- entry: wahsŏn
+- entry: wahson
   pos: Verb
   meaning: to grow
   template: strong-6
 - entry: waikw
   pos: Adjective
   meaning: weak, soft
-- entry: wakŏn
+- entry: wakon
   pos: Verb
   meaning: to awaken (intransitive)
   template: strong-6
@@ -2088,7 +2088,7 @@
   meaning: forest
   tags:
     - Nature
-- entry: wardŏn
+- entry: wardon
   pos: Verb
   meaning: to wait, to guard, to keep watch
 - entry: warm
@@ -2099,7 +2099,7 @@
   meaning: spring
   tags:
     - Time
-- entry: weipŏn
+- entry: weipon
   pos: Verb
   meaning: to wipe
   template: strong-1
@@ -2110,7 +2110,7 @@
   pos: Verb
   meaning: to turn; to put to use
   template: weak-jun
-- entry: werþŏn
+- entry: werþon
   pos: Verb
   meaning: to become
   template: strong-34-e
@@ -2125,7 +2125,7 @@
 - entry: wind
   pos: Noun
   meaning: wind
-- entry: wintŏr
+- entry: wintor
   pos: Noun
   meaning: winter
   tags:
@@ -2167,17 +2167,17 @@
 - entry: wort
   pos: Noun
   meaning: plant
-- entry: wrekŏn
+- entry: wrekon
   pos: Verb
   meaning: to punish
   template: strong-5
 - entry: wár
   pos: Adjective
   meaning: truth
-- entry: wäddjŏn
+- entry: wäddjon
   pos: Verb
   meaning: bet
-- entry: wäkiŏn
+- entry: wäkion
   pos: Verb
   meaning: to wake up (transitive)
   template: weak-jun
@@ -2236,7 +2236,7 @@
   meaning: thrush (bird)
   tags:
     - Animals
-- entry: þringŏn
+- entry: þringon
   pos: Verb
   meaning: to press
   template: strong-3-i
@@ -2245,14 +2245,14 @@
   meaning: urgent
   see:
     - þrinhwun
-- entry: þrinhwŏn
+- entry: þrinhwon
   pos: Verb
   meaning: to press; to be urgent
-- entry: þráwŏn
+- entry: þráwon
   pos: Verb
   meaning: to turn, to twist
   template: strong-7d
-- entry: þäkjŏn
+- entry: þäkjon
   pos: Verb
   meaning: cover
 - entry: þünn
@@ -2294,3 +2294,84 @@
 - entry: saiwol
   pos: Noun
   meaning: soul
+- entry: mándag
+  meaning: Monday
+  pos: Noun
+  tags: [Time]
+- entry: teiwsdag
+  meaning: Tuesday
+  pos: Noun
+  tags: [Time]
+- entry: wódnasdag
+  meaning: Wednesday
+  pos: Noun
+  tags: [Time]
+- entry: freijodag
+  meaning: Friday
+  pos: Noun
+  tags: [Time]
+- entry: satordag
+  meaning: Saturday
+  pos: Noun
+  tags: [Time]
+- entry: stund
+  meaning: hour
+  pos: Noun
+- entry: dust
+  meaning: dust
+  pos: Noun
+- entry: rúm
+  meaning: space, room
+  pos: Noun
+- entry: rúmuon
+  meaning: to make spacel to tidy up
+  pos: Verb
+- entry: mőþ
+  meaning: tired
+  pos: Adjective
+- entry: tagol
+  meaning: tail
+  pos: Noun
+- entry: nakwod
+  meaning: naked
+  pos: Adjective
+- entry: fraw
+  meaning: happy
+  pos: Adjective
+- entry: href
+  meaning: body
+  pos: Noun
+- entry: birkj
+  meaning: birch
+  pos: Noun
+- entry: ginóg
+  meaning: enough
+  pos: Adverb
+- entry: rakuon
+  meaning: to touch
+  pos: Verb
+  template: weak-jun
+- entry: workion
+  meaning: to work (irregular)
+  pos: Verb
+- entry: wörkion
+  meaning: to be effective, to take effect
+  pos: Verb
+  template: weak-jun
+- entry: bóg
+  meaning: bough, big branch
+  pos: Noun
+- entry: förnumoþ  / förnümþ / förnumþ
+  meaning: reason (capacity to reason)
+  pos: Noun
+  see: [-þiz]
+- entry: giwiton
+  meaning: conscience
+  pos: Noun
+- entry: sprok
+  meaning: language
+  pos: Noun
+- entry: mainuon
+  meaning: to mean, to have an opinion
+  pos: Verb
+-
