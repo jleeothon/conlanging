@@ -24,7 +24,7 @@ For example, _senkion_ "to sink (transitive)", from _sinkon_ "to sink
 These verbs are the most productive class and can be made from e.g. nouns and
 adjectives when not fitting other categories.
 
-For example, _makon_ (to make):
+For example, _makuon_ (to make):
 
 |            | Preset  | Past    |
 | ---------- | ------- | ------- |

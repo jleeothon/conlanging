@@ -7,7 +7,7 @@ To say:
 |            | Present  | Preterite |
 | ---------- | -------- | --------- |
 | Infinitive | seggion  | sagdun    |
-| Participle | seggiend | saged     |
+| Participle | seggiond | saged     |
 | 1st. sg.   | seggieu  | sagde     |
 | 2nd. sg.   | seggies  | sagdes    |
 | 3rd. sg.   | seggiet  | saged     |
@@ -20,134 +20,134 @@ To tell:
 |            | Present  | Preterite |
 | ---------- | -------- | --------- |
 | Infinitive | tellion  | taldun    |
-| Participle | telliend | tald      |
+| Participle | telliond | tald      |
 | 1st. sg.   | tellieu  | talde     |
 | 2nd. sg.   | tellies  | taldes    |
 | 3rd. sg.   | telliet  | talde     |
 | 1st. pl.   | telliem  | taldem    |
 | 2nd. pl.   | telliej  | taldej    |
-| 3rd. pl.   | tellieen | talden    |
+| 3rd. pl.   | tellien  | talden    |
 
 To buy:
 
 |            | Present  | Preterite |
 | ---------- | -------- | --------- |
-| Infinitive | büggion  | buhtun    |
-| Participle | büggiend | buht      |
+| Infinitive | büggion  | buhton    |
+| Participle | büggiond | buht      |
 | 1st. sg.   | büggieu  | buhte     |
 | 2nd. sg.   | büggies  | buhtes    |
 | 3rd. sg.   | büggiet  | buhte     |
 | 1st. pl.   | büggiem  | buhtem    |
 | 2nd. pl.   | büggiej  | buhtej    |
-| 3rd. pl.   | büggieen | buhten    |
+| 3rd. pl.   | büggien  | buhten    |
 
 To sell:
 
 |            | Present  | Preterite |
 | ---------- | -------- | --------- |
 | Infinitive | sellion  | saldun    |
-| Participle | selliend | sald      |
+| Participle | selliond | sald      |
 | 1st. sg.   | sellieu  | sald      |
 | 2nd. sg.   | sellies  | saldes    |
 | 3rd. sg.   | selliet  | sald      |
 | 1st. pl.   | selliem  | saldem    |
 | 2nd. pl.   | sellier  | salder    |
-| 3rd. pl.   | sellieen | salden    |
+| 3rd. pl.   | sellien  | salden    |
 
 To seek:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | sőkion  | sohtun    |
-| Participle | sőkiend | soht      |
+| Infinitive | sőkion  | sohton    |
+| Participle | sőkiond | soht      |
 | 1st. sg.   | sőkieu  | soht      |
 | 2nd. sg.   | sőkies  | sohtes    |
 | 3rd. sg.   | sőkiet  | soht      |
 | 1st. pl.   | sőkiem  | sohtem    |
 | 2nd. pl.   | sőkier  | sohter    |
-| 3rd. pl.   | sőkieen | sohten    |
+| 3rd. pl.   | sőkien  | sohten    |
 |            |         |           |
-
-To have an effect:
-
-|            | Present  | Preterite |
-| ---------- | -------- | --------- |
-| Infinitive | wirkion  | worhtun   |
-| Participle | wirkiend | worht     |
-| 1st. sg.   | wirkieu  | worht     |
-| 2nd. sg.   | wirkies  | worhtes   |
-| 3rd. sg.   | wirkiet  | worht     |
-| 1st. pl.   | wirkiem  | worhtem   |
-| 2nd. pl.   | wirkier  | worhter   |
-| 3rd. pl.   | wirkieen | worhten   |
 
 To think:
 
 |            | Present  | Preterite |
 | ---------- | -------- | --------- |
-| Infinitive | þänkion  | þahtun    |
-| Participle | þänkiend | þaht      |
+| Infinitive | þänkion  | þahton    |
+| Participle | þänkiond | þaht      |
 | 1st. sg.   | þänkieu  | þaht      |
 | 2nd. sg.   | þänkies  | þahtes    |
 | 3rd. sg.   | þänkiet  | þaht      |
 | 1st. pl.   | þänkiem  | þahtem    |
 | 2nd. pl.   | þänkier  | þahter    |
-| 3rd. pl.   | þänkieen | þahten    |
+| 3rd. pl.   | þänkien  | þahten    |
 
 To remember:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
 | Infinitive | hügion  | hügdun    |
-| Participle | hügiend | hügd      |
+| Participle | hügiond | hügd      |
 | 1st. sg.   | hügieu  | hügde     |
 | 2nd. sg.   | hügies  | hügdes    |
 | 3rd. sg.   | hügiet  | hügde     |
 | 1st. pl.   | hügiem  | hügdem    |
 | 2nd. pl.   | hügier  | hügder    |
-| 3rd. pl.   | hügieen | hügden    |
+| 3rd. pl.   | hügien  | hügden    |
 
 To seem:
 
 |            | Present  | Preterite |
 | ---------- | -------- | --------- |
-| Infinitive | þünkion  | þuhtun    |
-| Participle | þünkind  | þuht      |
+| Infinitive | þünkion  | þuhton    |
+| Participle | þünkiond | þuht      |
 | 1st. sg.   | þünkieu  | þuhte     |
 | 2nd. sg.   | þünkies  | þuhtes    |
 | 3rd. sg.   | þünkiet  | þuhte     |
 | 1st. pl.   | þünkiem  | þuhtem    |
 | 2nd. pl.   | þünkier  | þuhter    |
-| 3rd. pl.   | þünkieen | þuhten    |
+| 3rd. pl.   | þünkien  | þuhten    |
 
 ### Other
 
 To bring:
 
-|             | Present  | Preterite |
-| ----------- | -------- | --------- |
-| Inifinitive | bringun  | brahtun   |
-| Participle  | bringend | braht     |
-| 1st. sg.    | bringu   | brahte    |
-| 2nd. sg.    | bringes  | brahtes   |
-| 3rd. sg.    | bringet  | brahte    |
-| 1st. pl.    | bringem  | brahtem   |
-| 2nd. pl.    | bringer  | brahter   |
-| 3rd. pl.    | bringen  | brahten   |
+|             | Present   | Preterite |
+| ----------- | --------- | --------- |
+| Inifinitive | bringion  | brahton   |
+| Participle  | bringiond | braht     |
+| 1st. sg.    | bringiu   | brahte    |
+| 2nd. sg.    | bringies  | brahtes   |
+| 3rd. sg.    | bringiet  | brahte    |
+| 1st. pl.    | bringiem  | brahtem   |
+| 2nd. pl.    | bringier  | brahter   |
+| 3rd. pl.    | bringien  | brahten   |
 
 To use:
 
-|             | Present | Preterite |
-| ----------- | ------- | --------- |
-| Inifinitive | brukun  | bruhtun   |
-| Participle  | brukend | bruht     |
-| 1st. sg.    | bruku   | bruhte    |
-| 2nd. sg.    | brukes  | bruhtes   |
-| 3rd. sg.    | bruket  | bruhte    |
-| 1st. pl.    | brukem  | bruhtem   |
-| 2nd. pl.    | bruker  | bruhter   |
-| 3rd. pl.    | bruken  | bruhten   |
+|             | Present  | Preterite |
+| ----------- | -------- | --------- |
+| Inifinitive | brukion  | bruhton   |
+| Participle  | brukiond | bruht     |
+| 1st. sg.    | brukiu   | bruhte    |
+| 2nd. sg.    | brukies  | bruhtes   |
+| 3rd. sg.    | brukiet  | bruhte    |
+| 1st. pl.    | brukiem  | bruhtem   |
+| 2nd. pl.    | brukier  | bruhter   |
+| 3rd. pl.    | brukien  | bruhten   |
 
-To add:
+To work:
 
-- buwun / buwdun (to live)
+|            | Present  | Preterite |
+| ---------- | -------- | --------- |
+| Infinitive | workion  | worhton   |
+| Participle | workiond | worht     |
+| 1st. sg.   | workieu  | worhte    |
+| 2nd. sg.   | workies  | worhtes   |
+| 3rd. sg.   | workiet  | worhte    |
+| 1st. pl.   | workiem  | worhtem   |
+| 2nd. pl.   | workier  | worhter   |
+| 3rd. pl.   | workien  | worhten   |
+
+Missing:
+
+- buwun / buwdun??? (to live)

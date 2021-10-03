@@ -69,13 +69,13 @@ nonpersonhood, or animate and inanimate, according to context and preference.
 
 |      | 1st sg. | 2nd sg. | 3rd sg. masc. | 3rd sg epi. | 3rd fem. | 1st pl. | 2nd pl. | 3rd pl. | 3rd refl. |
 | ---- | ------- | ------- | ------------- | ----------- | -------- | ------- | ------- | ------- | --------- |
-| Nom. | ik      | þu      | he            | þé          | se       | we      | je      | þái     |           |
+| Nom. | ik      | þu      | he            | þé          | se       | we      | je      | þáa     |           |
 | Acc. | mih     | þih     | hem           | þém/þét     | sem      | uns     | juh     | þén     | sih       |
 | Gen. | mein    | þein    | hes           | þés         | ses      | unsar   | jewar   | þér     | sein      |
 
-There is an animacy distinction in the 3rd person epicine singular pronoun. The
-diacritic on the 3rd persons is only an ortographic convention to distinguish it
-from the definite article.
+w There is an animacy distinction in the 3rd person epicine singular pronoun.
+The diacritic on the 3rd persons is only an ortographic convention to
+distinguish it from the definite article.
 
 As with the genitive of nouns, genitive pronouns ("possessives") follow the noun
 they modify. They do not inflect. For example: _þe kat mien_ "my cat".
@@ -98,9 +98,9 @@ The definite articles and definite pronoun are the same:
 
 |      | Singular  | Plural |
 | ---- | --------- | ------ |
-| Nom. | þe        | þai    |
-| Acc. | þem / þet | þan    |
-| Gen. | þes       | þar    |
+| Nom. | þe        | þea    |
+| Acc. | þem / þet | þen    |
+| Gen. | þes       | þer    |
 
 Note that the singular forms are the same as the 3rd person epicine pronouns.
 There is only a subtle distinction betwen the definite pronouns and the 3rd
@@ -133,7 +133,7 @@ Most other quantifiers have this declension paradigm:
 
 |      | Singular  | Plural |
 | ---- | --------- | ------ |
-| Nom. | -a        | -a     |
+| Nom. | -         | -a     |
 | Acc. | -am / -at | -an    |
 | Gen. | -as       | -ar    |
 

@@ -3,22 +3,22 @@
 | Number | Cardinal          | Ordinal        |
 | ------ | ----------------- | -------------- |
 | 1      | ain               | fórist, airist |
-| 2      | twai              | twaid, anþŭr   |
-| 3      | þir               | þriuþ          |
-| 4      | feur              | feurŭþ         |
-| 5      | fimf              | fimfŭþ         |
-| 6      | sehs              | sehsŭþ         |
-| 7      | sebun             | sebunŭþ        |
-| 8      | aht               | ahtŭþ          |
-| 9      | neun              | neunŭþ         |
-| 10     | tein              | teinŭþ         |
-| 11     | ailif             | ailifŭþ        |
-| 12     | twalif            | twalifŭþ       |
+| 2      | twai              | twaid, anþor   |
+| 3      | þreir             | þridd          |
+| 4      | feur              | feuroþ         |
+| 5      | fimf              | fimfoþ         |
+| 6      | sehs              | sehsoþ         |
+| 7      | sebon             | sebunoþ        |
+| 8      | aht               | ahtoþ          |
+| 9      | neun              | neunoþ         |
+| 10     | tein              | teinoþ         |
+| 11     | ailif             | ailifoþ        |
+| 12     | twalif            | twalifoþ       |
 | 13     | þirtein           |                |
 | 14     | feurtein          |                |
 | 15     | fimftein          |                |
 | 16     | sehstein          |                |
-| 17     | sevtein           |                |
+| 17     | sebontein         |                |
 | 18     | ahtein            |                |
 | 19     | neuntein          |                |
 | 20     | twaintig          |                |
