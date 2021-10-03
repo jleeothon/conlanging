@@ -1,19 +1,19 @@
-Þe junga man und þe swalw
+Þe junga man und þe swalow
 
-Was ain junga und reikja man, hwe was hail hrómig twiskir þen frijandan sein üm
-þat hje was ain förkwistjár. Und hje kwik firkwistid alla geld sien.
+Was en junga und reika man, hwe was hail hrómig twiskir þen freiondan sein üm
+þat hje was ain förkwistjár. Und hje kwik firkwistid allat geld sien.
 
-Und þan aindagis in þet airiga warr ne mair had hwat övir, auk ne ait ainkila
+Und þan an en dag in þe airiga warr ne mair had hwat öbir, auk ne ait ainkila
 penning, avir allain þen klaiþan sien.
 
-Und hje most drepun ainan frijand avir ne had þet geld ümto kaupjun ainan niwa
-klaiþan. Avir sah ait swalw fleugun bi, und þe junga man þaht þat þe sumŭr kwam
-an. Hje ging to ait klaiþhandlár und förkaupid þen klaiþan sien und kaupid ainan
-niwa för sih.
+Und most drepon em freiond abir ne had þet geld för at kaupuon et niwa klaiþan.
+Abir sah et swalow fleugon bi, und þe junga man þaht at þe sumor kwam an. Ging
+to en klaiþhandling und förkaupude þen klaiþan sien und kaupude enan niwa för
+sih.
 
-To ainiga dagan latir, þei dagan plutsleik warþen kald und frustig. Und þe
-swalw, und þe dwása man hwe blaut had ainan niwa sumŭrklaiþan hwad ne þäkjid þen
-arman or knewan sien, titirjid sih te tiel dauþ.
+Aftir suma dagan, þea dagan plutsleik warþen kald und frustig. Und þe swalow,
+und þe dwása mann hwe blaut had enan niwa sumorklaiþan hwad ne þäkjiden þen
+arman or knewan sien, titiriden sih bit dauþ.
 
 ---
 

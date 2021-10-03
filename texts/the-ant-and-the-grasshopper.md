@@ -1,21 +1,21 @@
-In ait feld an ait sommurdag sang ain Grashoppár.
+In en feld an en sumordag sang en Grashoppárj.
 
-Ain meurj kwam bi, und bar ait hwaitjkorn to þes nest.
+En meurj kwam bi, und drug et hwäitjkorn to sein nest.
 
-"Hwaför ne kwemmes und prates miþ mih", saged þe Grashoppár, "in städ af werkun
+"Hwaför ne kwemmes und prates miþ mih", saged þe Grashoppárj, "stadir þet werkon
 dih daud?"
 
-"Helpo samilun etun för þet wintur", saged þe meurj. "Und skoldes mótun dón þet
+"Helpe samlon eton för þet wintor", saged þe meurj. "Und skoldes móton dón þet
 sama."
 
-Þe Gras-Hoppár saged: "Aver havem hjan hail filat etun."
+Þe Gras-Hoppárj sagede: "Abir hebbon hjan hail filat eton."
 
-Aver þe meurj ging þet weg þejar wiþir und werkwed wiþir.
+Abir þe meurj ging þet weg þenar wiþir und werkued wiþir.
 
-Hwan þe wintur kwam, þe Gras-Hoppár ne had etun und bigann hungrwun, te hweil
-sah þat þe meurjan elkan dag fördailden þet hwaitj af þet fórsamilun.
+Hwan þe wintor kwam, þe Gras-Hoppárj ne had eton und bigann hungruon, hweilir at
+sah at þe meurjan elkat dagin fördailden þet hwäitj af þet fórsamluon.
 
-Und þe Gras-Hoppár wist: is bätir fórraidjun för þen nauddagan.
+Und þe Gras-Hoppárj wist: is betir forraidiun för þe nauddagan.
 
 ---
 
