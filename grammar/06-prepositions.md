@@ -11,15 +11,21 @@ have a complement.
 
 Prepositions and advebs of place:
 
-| Basic Prep.     | Allative Prep. | Locative Adv.      | Allative Adv. | Ablative | Adjective      |
-| --------------- | -------------- | ------------------ | ------------- | -------- | -------------- |
-| in (inside of)  | inn (into)     | innin, binnin      | enn           | in af    | innir (innira) |
-| ur (outside of) | ut (out to)    | utin, butin        | utir          | ut af    | utir (utra)    |
-| uf (on)         | up (onto)      | obin, bobin        | obir          | up af    | upir (upra)    |
-| und (beneath)   | unt            | undin, bundin      | undir         |          | undir (undra)  |
-| twiskin         | twiskir        | twiskin, bitwiskin | twiskir       |          |                |
-| for             |                | forin              | for           |          |                |
-| um              |                |                    |               |          |                |
-| aft             |                | aftin              | aftir         |          | aftir (aftra)  |
-| þorhw           |                |                    |               |          |                |
-| gigin           |                |                    |               |          |                |
+| Locative Prep. | Ablative Prep. | Allative Prep. | Locative Adv.      | Allative Adv. | Ablative | Adjective      |
+| -------------- | -------------- | -------------- | ------------------ | ------------- | -------- | -------------- |
+| in (inside of) |                | inn (into)     | innin, binnin      | enn           | in af    | innir (innira) |
+|                | ur             | ut (out to)    | utin, butin        | utir          | ut af    | utir (utra)    |
+| uf (on)        |                | up (onto)      | obin, bobin        | obir          | up af    | upir (upra)    |
+| undir          |                | undir          | undin, bundin      | undir         |          | undir (undra)  |
+| niþir          |                |                | niþin, biniþin     | niþir         |          | undir (undra)  |
+| twiskin        |                | twiskir        | twiskin, bitwiskin | twiskir       |          |                |
+| fór            |                |                | forin              | for           |          |                |
+| um             |                |                |                    |               |          |                |
+| aftir          |                |                | aftin              | aftir         |          | aftir (aftra)  |
+| þorhw          |                |                |                    |               |          |                |
+| gigin          |                |                |                    |               |          |                |
+
+Pairs of prepositions:
+
+-   um (around), üm (for the sake of, with the intention to)
+-   for (for), för (because of)

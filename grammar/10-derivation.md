@@ -4,18 +4,18 @@
 
 Short vowels
 
-| Stem vowel | Stem coda | i or j in next syllable | Example                     |
-| ---------- | --------- | ----------------------- | --------------------------- |
-| a          |           |                         |                             |
-| e          |           |                         |                             |
-| i          |           |                         |                             |
-| u          | r, rC     |                         |                             |
-| u          |           |                         |                             |
-| a          |           | Yes                     | lagjaną > laggjan > läggion |
-| u          | r, rC     |                         | þurhw > þorh                |
-| u          |           |                         | brugjǭ > bruggju > brügg    |
-| ā          |           |                         |                             |
-| ē          |           |                         | slēpaną > slāpan > slápon   |
+| Stem vowel | Stem coda | Umlaut | Example                     |
+| ---------- | --------- | ------ | --------------------------- |
+| a          |           |        |                             |
+| e          |           |        |                             |
+| i          |           |        |                             |
+| u          | r, rC     |        |                             |
+| u          |           |        |                             |
+| a          |           | Yes    | lagjaną > laggjan > läggion |
+| u          | r, rC     |        | þurhw > þorh                |
+| u          |           |        | brugjǭ > bruggju > brügg    |
+| ā          |           |        |                             |
+| ē          |           |        | slēpaną > slāpan > slápon   |
 
 Stems of the 3rd and 4th strong verb classes tend to follow either the ablaut
 sequences i-a-u or e-a-o.
@@ -29,14 +29,13 @@ _u > o_ tend to happen before liquids _l, r_ and before geminates.
 
 The overlong ending _ô_ tends to make the previous syllable long, unless:
 
-- it is already long,
-- it is followed by sonorants _m, n, l, r_.
+-   it is already long,
+-   it is followed by sonorants _m, n, l, r_.
 
 Geminates:
 
-- _pp, tt, kk, ss, bb, dd, gg, mm, nn, ll, rr, jj, ww_ tend to (add high-pitch
-  tone?)  
-  sxdg
+-   _pp, tt, kk, ss, bb, dd, gg, mm, nn, ll, rr, jj, ww_ tend to (add high-pitch
+    tone?) sxdg
 
 The following medial clusters appear in medial position in PGmc., need special
 handling in Conlang1 due to suffix-deletion. The letters _ŏ, ŏ_ represent
@@ -67,14 +66,14 @@ letters that only appear in unsuffixed lexemes.
 
 These clusters do not need special treatment:
 
-- Nasals followed by sonorants:
-  - _mb, mp, mf_
-  - _nt, nd, nþ_
-  - _nk, ng, nh_
-  - _ms, ns_
-- Liquids followed by sonorants:
-  - _lp, lt, lk, lf, lþ (???), lh, ls, lb, ld, lg, lm_
-  - _rp, rt, rk, rf, rþ (???), rh, rs, rb, rd, rg, rm, rn_
+-   Nasals followed by sonorants:
+    -   _mb, mp, mf_
+    -   _nt, nd, nþ_
+    -   _nk, ng, nh_
+    -   _ms, ns_
+-   Liquids followed by sonorants:
+    -   _lp, lt, lk, lf, lþ (???), lh, ls, lb, ld, lg, lm_
+    -   _rp, rt, rk, rf, rþ (???), rh, rs, rb, rd, rg, rm, rn_
 
 Verner alternations: _f, þ, s, h, hw_ > _b, d, r, g, gw_
 
@@ -84,20 +83,20 @@ Verner alternations: _f, þ, s, h, hw_ > _b, d, r, g, gw_
 
 Strong class 4 verbs
 
-- kwelaną-kwaljaną => kwelon-kwellion (to suffer, to make suffer)
-- hreganą-hragjaną => hregon-hreggion (to stand out, to incite)
-- nesaną-nazjaną => nesun-nerrion (to recover, to heal)
+-   kwelaną-kwaljaną => kwelon-kwellion (to suffer, to make suffer)
+-   hreganą-hragjaną => hregon-hreggion (to stand out, to incite)
+-   nesaną-nazjaną => nesun-nerrion (to recover, to heal)
 
 i-Nouns and adjectives?
 
-- hrad-hradjaną > hrad-hreddion (to save)
-- lēziz > lér (empty)
-- raþjǭ > reþj? (Rede)
-- stapiz > stepj ? stepp
+-   hrad-hradjaną > hrad-hreddion (to save)
+-   lēziz > lér (empty)
+-   raþjǭ > reþj? (Rede)
+-   stapiz > stepj ? stepp
 
 #### ir > er
 
-- liznan > lernon
+-   liznan > lernon
 
 #### West germanic gemination
 
@@ -136,21 +135,21 @@ Examples of verb paradigms, derivation, and grammatischer Wechsel.
 
 In summary:
 
-- Classes 1-6 don't show grammatischer Wechsel inside their paradims.
-- Class 7 verbs always show grammatischer Wechsel; the original consonant is
-  lost.
-- Nouns can be derived from the stem of the past participle, with grammatischer
-  Wechsel.
+-   Classes 1-6 don't show grammatischer Wechsel inside their paradims.
+-   Class 7 verbs always show grammatischer Wechsel; the original consonant is
+    lost.
+-   Nouns can be derived from the stem of the past participle, with
+    grammatischer Wechsel.
 
 ## By part of speech and inflection
 
-## i-stem nouns
+### i-stem nouns
 
-## an-stem nouns and adjectives (ô)
+### an-stem nouns and adjectives (ô)
 
-- https://en.wiktionary.org/wiki/Category:Proto-Germanic_an-stem_nouns
-- https://en.wiktionary.org/wiki/Category:Proto-Germanic_an/%C4%ABn-stem_adjectives
-  (No useful entries)
+-   https://en.wiktionary.org/wiki/Category:Proto-Germanic_an-stem_nouns
+-   https://en.wiktionary.org/wiki/Category:Proto-Germanic_an/%C4%ABn-stem_adjectives
+    (No useful entries)
 
 | PG     | Slumpisk  | Notes                                   |
 | ------ | --------- | --------------------------------------- |
@@ -181,7 +180,7 @@ In summary:
 
 "-ô" as an agent suffix is nonproductive.
 
-## i-stem nouns
+### i-stem nouns
 
 | Stem type | PG      | Slumpisk | Notes |
 | --------- | ------- | -------- | ----- |
@@ -223,7 +222,7 @@ https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/-i%C3%BE%C5%8D
 | heavy, ó  | _grón > grőniþ_   | greenness    |
 | light, a  | _fagŏr > fägriþ_  | beauty       |
 
-## jaz, ī (jō) stems
+### jaz, ī (jō) stems
 
 Suffix -(i)ją to form collective nouns.
 
@@ -247,9 +246,9 @@ Suffix -(i)ją to form collective nouns.
 
 Nouns ending with -wj- often change to -w- without i-umlaut e.g.
 
-- hiwją > heuw (heu)
-- hawją > hauw (hay)
-- frawjō > frauw (woman)
-- flawją > flauw (ship)
-- gawją > gauw (district)
-- skiwją > skeuw (sky)
+-   hiwją > heuw (heu)
+-   hawją > hauw (hay)
+-   frawjō > frauw (woman)
+-   flawją > flauw (ship)
+-   gawją > gauw (district)
+-   skiwją > skeuw (sky)

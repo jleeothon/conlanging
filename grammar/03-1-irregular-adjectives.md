@@ -12,5 +12,5 @@ They all inflect regularly with case and number.
 Root forms meaning "little, few" and "many" are the following. They have regular
 comparatives and superlatives that are synonymous with the ones above.
 
-- "few": _faw, wainag_.
-- "many": _fil, manag_.
+-   "few": _faw, wainag_.
+-   "many": _fil, manag_.

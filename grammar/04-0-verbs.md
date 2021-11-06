@@ -55,7 +55,7 @@ Regular weak:
 | 2nd sg.    | -es     | -ides | -es     | -udes |        |      |
 | 3rd sg.    | -et     | -ide  | -et     | -ude  |        |      |
 | 1st pl.    | -em     | -idem | -em     | -udem |        |      |
-| 2nd pl.    | -er     | -ider | -er     | -uder |        |      |
+| 2nd pl.    | -ej     | -idej | -ej     | -udej |        |      |
 | 3rd pl.    | -en     | -iden | -en     | -uden |        |      |
 
 Rückumlaut weak (may have -t- affix instead of -d-):
@@ -92,10 +92,10 @@ Strong verbs follow an ablaut pattern. There are several ablaut patterns:
 | ----- | ------------------ | --------------- | --------------- |
 | 1     | ei                 | ai              | i               |
 | 2     | eu                 | au              | u               |
-| 34e   | e                  | a               | o               |
-| 34i   | i                  | a               | u               |
-| 5e    | e                  | a               | e               |
-| 5i    | i                  | a               | i               |
+| 34-e  | e                  | a               | o               |
+| 34-i  | i                  | a               | u               |
+| 5-e   | e                  | a               | e               |
+| 5-i   | i                  | a               | e               |
 | 6e    | a                  | u               | a               |
 | 6a    | e                  | u               | a               |
 | 7a    | ai                 | ei              | ai              |
@@ -103,25 +103,26 @@ Strong verbs follow an ablaut pattern. There are several ablaut patterns:
 | 7c-e  | a                  | e               | a               |
 | 7c-i  | a                  | i               | a               |
 | 7d    | á                  | é               | á               |
-| 7e    | ó                  | é               | ó               |
+| 7e-o  | o                  | e               | o               |
+| 7e-ó  | ó                  | é               | ó               |
 
 Here are some examples; each verb is provided in present and past infinitive,
 and past participle:
 
-- _streikan-straikan-strikun_ (to strike),
-- _fleugan-flaugan-flugun_ (to fly),
-- _helpan-halpan-holpun_ (to help),
-- _bindan-bandan-bundun_ (to bind).
-- _geban-gaban-gebun_ (to give),
-- _sitan-satan-situn_ (to sit),
-- _faran-furan-farun_ (to travel),
-- _swaran-swuran-swaran_ (to swear),
-- _haitan-heitan-haitun_ (to be named),
-- _hlaupan-hleupan-hlaupun_ (to walk),
-- _fallan-fellan-fallun_ (to fall),
-- _fangan-fingan-fagun_ (to grasp),
-- _látan-létan-látun_ (to let),
-- _hrópan-hrépan-hrópun_ (to call).
+-   _streikan-straikan-strikun_ (to strike),
+-   _fleugan-flaugan-flugun_ (to fly),
+-   _helpan-halpan-holpun_ (to help),
+-   _bindan-bandan-bundun_ (to bind).
+-   _geban-gaban-gebun_ (to give),
+-   _sitan-satan-setun_ (to sit),
+-   _faran-furan-farun_ (to travel),
+-   _swaran-swuran-swaran_ (to swear),
+-   _haitan-heitan-haitun_ (to be named),
+-   _hlaupan-hleupan-hlaupun_ (to walk),
+-   _fallan-fellan-fallun_ (to fall),
+-   _fangan-fingan-fagun_ (to grasp),
+-   _látan-létan-látun_ (to let),
+-   _hrópan-hrépan-hrópun_ (to call).
 
 Note that the preterite of strong verbs does not distinguish first and third
 persons. Without context, the first person is assumed.
@@ -130,10 +131,10 @@ persons. Without context, the first person is assumed.
 
 Regular weak verbs can be distinguished according to their endings:
 
-- weak verbs ending in _-ion_ (causative),
-- weak verbs ending in _-ilon_ (frequentative),
-- weak verbs ending in _-non_ (inchoative),
-- weak verbs ending in _-uon_ (other).
+-   weak verbs ending in _-ion_ (causative),
+-   weak verbs ending in _-ilon_ (frequentative),
+-   weak verbs ending in _-non_ (inchoative),
+-   weak verbs ending in _-uon_ (other).
 
 ### Rückumlaut verbs
 
@@ -229,24 +230,28 @@ intransitive from a transitive verb.
 
 The consonant alternations are:
 
-- þ > d
-- s > r
-- h > g
+-   þ > d
+-   s > r
+-   h > g
 
 Examples include:
 
-- _leiþan_ (to undergo) > _läidian_ (to lead)
-- _beugan_ (to bend, intr.) > _bäugian_ (to bend sth.)
-- _drinkan_ (to drink) > _dränkian_ (to make drink)
-- _smertan_ (to hurt, intr.) > _smärtian_ (to cause pain)
-- _hladan_ (to accumulate) > _hlődian_ (to load sth. into sth.)
-- _fallan_ (to fall) > _fällian_ (to fell)
+-   _leiþan_ (to undergo) > _läidian_ (to lead)
+-   _beugan_ (to bend, intr.) > _bäugian_ (to bend sth.)
+-   _drinkan_ (to drink) > _dränkian_ (to make drink)
+-   _smertan_ (to hurt, intr.) > _smärtian_ (to cause pain)
+-   _hladan_ (to accumulate) > _hlődian_ (to load sth. into sth.)
+-   _fallan_ (to fall) > _fällian_ (to fell)
 
 #### Prefixes
 
-- **fór**: before
-- **after**: after
-- **fer**: start to
-- **fir**: wrong
-- **or**:
-- **in**: in
+-   **fór**: before
+-   **after**: after
+-   **fer**: start to
+-   **fir**: wrong
+-   **or**:
+-   **in**: in
+
+### TO DO
+
+lerion - leridon lernon - lernedon

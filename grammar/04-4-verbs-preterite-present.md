@@ -4,7 +4,7 @@ To know:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | witun   | wistun    |
+| Infinitive | witon   | wiston    |
 | Participle | witend  | wist      |
 | 1st. sg.   | wait    | wiste     |
 | 2nd. sg.   | waitds  | wistes    |
@@ -17,7 +17,7 @@ To be fit:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | dugun   | duhtun    |
+| Infinitive | dugon   | duhton    |
 | Participle | dugend  | duht      |
 | 1st. sg.   | daug    | duhte     |
 | 2nd. sg.   | dauges  | duhtes    |
@@ -30,7 +30,7 @@ To be able to:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | konnun  | kondun    |
+| Infinitive | konnon  | kondon    |
 | Participle | konnend | kond      |
 | 1st. sg.   | kann    | konde     |
 | 2nd. sg.   | kannes  | kondes    |
@@ -43,7 +43,7 @@ To like:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | onnun   | ondun     |
+| Infinitive | onnon   | ondon     |
 | Participle | onnend  | ond       |
 | 1st. sg.   | ann     | ondue     |
 | 2nd. sg.   | annes   | ondes     |
@@ -56,7 +56,7 @@ To dare:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | dorrun  | dordun    |
+| Infinitive | dorron  | dordon    |
 | Participle | dorrend |           |
 | 1st. sg.   | darr    | dorde     |
 | 2nd. sg.   | darres  | dordes    |
@@ -69,7 +69,7 @@ To need:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | þorvun  | þorftun   |
+| Infinitive | þorvon  | þorfton   |
 | Participle | þorvend | þorftd    |
 | 1st. sg.   | þarv    | þorftu    |
 | 2nd. sg.   | þarves  | þorftes   |
@@ -82,7 +82,7 @@ To need:
 
 |            | Present  | Preterite |
 | ---------- | -------- | --------- |
-| Infinitive | skolun   | skoldun   |
+| Infinitive | skolon   | skoldon   |
 | Participle | skollend | skold     |
 | 1st. sg.   | skal     | skolde    |
 | 2nd. sg.   | skales   | skoldes   |
@@ -95,7 +95,7 @@ To have to:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | mótun   | mostun    |
+| Infinitive | móton   | moston    |
 | Participle | mótend  | most      |
 | 1st. sg.   | mót     | moste     |
 | 2nd. sg.   | mótes   | mostes    |
@@ -108,7 +108,7 @@ To be permitted to:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | mógun   | mohtun    |
+| Infinitive | mógon   | mohton    |
 | Participle | mógand  | mohtud    |
 | 1st. sg.   | mag     | mohte     |
 | 2nd. sg.   | mages   | mohtes    |
@@ -121,7 +121,7 @@ To fear:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | ógun    | ohtun     |
+| Infinitive | ógon    | ohton     |
 | Participle | ógend   | oht       |
 | 1st. sg.   | ag      | ohte      |
 | 2nd. sg.   | ages    | ohtes     |
@@ -134,7 +134,7 @@ To want:
 
 |            | Present | Preterite |
 | ---------- | ------- | --------- |
-| Infinitive | wollun  | woldun    |
+| Infinitive | wollon  | woldon    |
 | Participle | wollend | wold      |
 | 1st. sg.   | will    | wolde     |
 | 2nd. sg.   | willes  | woldes    |

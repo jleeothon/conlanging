@@ -2,11 +2,11 @@
 
 All noun phrases must be "complete". A noun phrase is complete when:
 
-- (a) it has a determiner,
-- (b) or has no determiner but an strongly declined noun,
-- (c) or has no determiner but a strongly declined adjective without a noun
-  (e.g. _þe rauda_ "the red one"),
-- (d) or is a pronoun.
+-   (a) it has a determiner,
+-   (b) or has no determiner but an strongly declined noun,
+-   (c) or has no determiner but a strongly declined adjective without a noun
+    (e.g. _þe rauda_ "the red one"),
+-   (d) or is a pronoun.
 
 In most cases, the number and case of a complete noun phrase is always noun.
 
@@ -87,10 +87,10 @@ weakly-inflected nouns.
 
 They are any of:
 
-- definite and indefinite articles,
-- demonstratives,
-- quantifiers,
-- numerals.
+-   definite and indefinite articles,
+-   demonstratives,
+-   quantifiers,
+-   numerals.
 
 ### Definite and indefinite articles and pronouns
 

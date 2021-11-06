@@ -7,20 +7,23 @@ Basic conjunctions
 | und  | "and"   |
 | or   | "or"    |
 
+The simplest subordinating conjunction is _at_, mostly equivalent to english
+"that". E.g.
+
+-   _Þänkeo at skolen onnon þen kokueda laukan þein._ "I think that they will
+    like your cooked leeks."
+
 Interrogative (hw-) pronouns and pro-adverbs also to coordinate phrases. For
 example:
 
-- Þe feld hwar þe skáp at þet gras. _The field where the sheep at the grass._
-- Þe mánoþ hwan blómai farskeinen. _The month when the flowers appear._
-
-The default subordinating conjunction is "at". For example:
-
-- Þänkeu at sehes gód ut. _I think you look good._
+-   _Þe feld hwar þe skáp at þet gras._ "The field where the sheep at the
+    grass."
+-   _Þe mánoþ hwan blómai farskeinen._ "The month when the flowers appear."
 
 Conjunctions can be derived from prepositions by following with the
-subordinating conjunction. Some examples are:
+subordinating conjunction _at_. Some examples are:
 
-| Word          | Meaning               |
-| ------------- | --------------------- |
-| te hwiel hwat | while (from _during_) |
-| te end hwat   | until                 |
+-   för, för at: reason
+-   üm, üm at: intention
+-   aftir, aftir at: after
+-   fór, fór at: before
