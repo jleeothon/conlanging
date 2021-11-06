@@ -1,18 +1,18 @@
 {
-  "name": "theudisk",
-  "version": "0.1.0",
-  "description": "Yet another West Germanic conlang",
-  "main": "index.js",
-  "bin": {
-    "theudisk": "render.js"
+  "description": "Yet another Germanic conlang",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "^16.3"
   },
+  "exports": "./index.js",
   "scripts": {
-    "prettier-js": "prettier --write --parser markdown --prose-wrap always",
-    "lint-yaml": "ls data/word-list.yaml | xargs -n 300 prettier --write --parser yaml --prose-wrap always",
+    "prettier-js": "prettier --write",
+    "lint-yaml": "ls data/word-list.yaml | xargs -n 300 prettier --write",
     "lint-js": "xo --fix",
     "lint-md-input": "ls *.md texts/*.md grammar/*.md | xargs -n 300 npm run prettier-js",
     "lint-md-output": "ls word-list/*.md | xargs -n 300 npm run prettier-js",
-    "verify-word-list": "bin/verify-word-list.js < data/word-list.yaml",
+    "verify-word-list": "bin/js/verify-word-list.js < data/word-list.yaml",
     "sort-word-list": "bin/sort-word-list.fish",
     "pre-lint": "npm run lint-yaml && npm run lint-md-input && npm run lint-js",
     "post-lint": "npm run lint-yaml && npm run lint-md-output",
@@ -31,13 +31,17 @@
   },
   "homepage": "https://github.com/jleeothon/conlang1#readme",
   "dependencies": {
-    "ajv": "^7.0.3",
-    "filter-obj": "^2.0.1",
-    "handlebars": "^4.7.6",
-    "js-yaml": "^3.14.1",
-    "prettier": "^2.2.1",
+    "ajv": "^8.6.1",
+    "delay": "^5.0.0",
+    "filter-obj": "^2.0.2",
+    "handlebars": "^4.7.7",
+    "js-yaml": "^4.1.0",
+    "p-map": "^5.0.0",
+    "pkg-dir": "^5.0.0",
+    "prettier": "^2.4.1",
+    "redisgraph.js": "^2.3.0",
     "string-natural-compare": "^3.0.1",
-    "xo": "^0.36.1"
-  },
-  "devDependencies": {}
+    "verror": "^1.10.0",
+    "xo": "^0.41.0"
+  }
 }
