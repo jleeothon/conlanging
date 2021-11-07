@@ -1,7 +1,5 @@
 # Slumpisk
 
-
-
 ## Orthography and phonology
 
 ### Vowels
@@ -28,15 +26,6 @@
 
 ### Consonants
 
-Consonants come in (up to) three variants: plain, w-variant, j-variant.
-
-In the following table:
-
--   (I) means "in initial position".
--   (M) means "in medial position between sonorants".
--   (F) means "in final position or before a consonant".
--   Unmarked pronunciations mean "otherwise".
-
 | Plain | Pronunciation           |
 | ----- | ----------------------- |
 | p     | /p/                     |
@@ -57,21 +46,10 @@ In the following table:
 | w     | /w/                     |
 
 The glottal stop is realised at the beginning of words that start with a vowel,
-and between vowels at internal boundaries in composite words.
+and between vowels at word boundaries in composite words.
 
 These consonants can be geminate: _pp, tt, kk, ss, bb, dd, gg, mm, nn, ll, rr,
 jj, ww_
-
-Notes:
-
-⟨b⟩ can be realised as /b/ everywhere, but is recommended to be realised as:
-
--   /b/ initially,
--   /bː/ when written ⟨bb⟩
--   /v/ medially between sonorants,
--   /f/ medially otherwise and finally.
-
-E.g. ⟨bér⟩ /bɛːr/ "bear", ⟨halb⟩ /half/ "half".
 
 ⟨g⟩ can be realised as /g/ everywhere, but is recommended as:
 
@@ -80,132 +58,103 @@ E.g. ⟨bér⟩ /bɛːr/ "bear", ⟨halb⟩ /half/ "half".
 -   /ɣ/ medially between sonorants,
 -   /x/ medially otherwise and finally.
 
-Note: "sk" allows "dialectal variation" as /sx/ or /ʃ/, and optionally only
-before "i" and "e". 💭💭💭 Maybe it should be spelled ⟨sc⟩.
-
-What happens with geminated consonants at the word-end. 💭💭💭 Maybe they
-trigger minor tone changes, like Swedish tonemes.
-
 ## General grammar
 
-Nouns, pronouns, adjectives, and determiners decline for number and case. There
-are two numbers: singular and plural. There are three cases: nominative,
-accusative, genitive.
+Nouns, pronouns, and determiners decline for number, case, animacy.
 
-Nouns, and adjectives have strong and weak paradigms. The weak paradigm is
-almost always used, and a determiner is obligatory.
+There are two numbers: singular and plural. There are three cases: nominative,
+accusative, genitive. Animacy (animate, inanimate) is only relevant in singular
+accusative declensions.
 
-The strong noun paradigm is used when a determiner is left out, but should be
-used only for literary purposes.
+Nouns have strong and weak paradigms.
 
-The strong adjective paradigm is used when a noun is implicit (e.g. "the strong
-(one)").
+-   The weak paradigm is used with a determiner.
+-   The strong noun paradigm is used when a determiner is left out.
 
-Adjectives do not decline in the predicative form.
+Adjectives do not decline in the predicative form. Otherwise they have three
+declension paradigms.
 
-Word order is relatively free, but V2 order is preferred as in Norwegian. Verb
-compounding is preferred to be head-final, but head-initial is allowed for
-literary or emphatic purposes. Irregular adjectives have irregular comparative
-and superlative forms.
+-   When preceding a noun, adjectives decline with a weak paradigm (e.g. _þe
+    rauda apol_ "the red apple").
+-   Some adjectives can work as function as determiners, and when so, decline as
+    determiners (e.g. _þe fawa aplan_ "the few apples").
+-   When an adjective takes the places of a noun, it declines with a strong
+    paradigm (e.g. _þe rauda_ "the red ones").
 
-They all inflect regularly with case and number.
+Most adjectives have comparative and superlative forms.
 
-| Root | Comparative | Superlative | Meaning         |
-| ---- | ----------- | ----------- | --------------- |
-| gód  | bätir       | bäst        | "good"          |
-| übil | wirsir      | wirist      | "bad"           |
-| -    | mindir      | mindist     | "less", "least" |
-| -    | mair        | maist       | "many", "most"  |
+Verbs conjugate for person, number, tense, and mood.
 
-Root forms meaning "little, few" and "many" are the following. They have regular
-comparatives and superlatives that are synonymous with the ones above.
+-   There are three persons, and two numbers (singular and plural).
+-   The moods are: indicative, subjunctive, conditional, imperative.
+-   Non-composite tenses are: present, preterite (both in the indicative). Many
+    composite forms are possible.
+-   Non-finite forms include: infinitive, past infinitive, present participle,
+    past participle.
 
--   "few": _faw, wainag_.
--   "many": _fil, manag_.
+There are two main regular verb systems: weak and strong. There are irregular
+verbs.
 
-## Nominal paradigms
+V2 order is preferred when the verb is not the first word in a sentence. Finite
+verb sequences prefer to be head initial e.g. _Skölde willon eton_ "I/he/she
+should want to eat".
+
+Adjectives usually precede nouns.
+
+Adverbs usually precede verbs, but can also follow them. The adverb _ne_ (not)
+can only appear before, not after.
+
+## Nouns and adjectives
 
 All noun phrases must be "complete". A noun phrase is complete when:
 
--   (a) it has a determiner,
--   (b) or has no determiner but an strongly declined noun,
--   (c) or has no determiner but a strongly declined adjective without a noun
-    (e.g. _þe rauda_ "the red one"),
--   (d) or is a pronoun.
+-   it has a determiner,
+-   or has no determiner but a strongly declined noun,
+-   or has no determiner but a strongly declined adjective without a noun,
+-   or is a pronoun.
 
-In most cases, the number and case of a complete noun phrase is always noun.
-
-In case (a), a noun is strongly
-
-**Nouns** decline for number and case. There are weak and strong paradigms.
+For the acccusative singular of the next paradigms, _-am_ is the animate ending,
+and _-at_ is the inanimate.
 
 The **weak noun paradigm**:
 
-|           | Singular | Plural |
-| --------- | -------- | ------ |
-| Nom.-Acc. | -        | -an    |
-| Gen.      | -as      | -ar    |
+|          | Nominative & Accusative | Genitive |
+| -------- | ----------------------- | -------- |
+| Singular | -                       | -as      |
+| Plural   | -an                     | -ar      |
 
-The **strong noun paradigm** is used in literary contexts and when a determiner
-is dropped; it is:
+The **strong noun paradigm**:
 
-|      | Singular  | Plural |
-| ---- | --------- | ------ |
-| Nom. | -         | -ai    |
-| Acc. | -am / -at | -an    |
-| Gen. | -an       | -ar    |
+|          | Nominative | Accusative | Genitive |
+| -------- | ---------- | ---------- | -------- |
+| Singular | -          | -am / -at  | -as      |
+| Plural   | -ai        | -an        | -ar      |
 
-Regular nouns take no ending in the nominative singular; nouns from adjectives
-(with an implicit noun e.g. the red one, the tall one) have the _-a_ ending.
+The **weak adjective paradigm**:
 
-There is an animacy distinction in the strong accusative singular: _-am_ for
-animate and _-at_ for inanimate.
+|             | All cases |
+| ----------- | --------- |
+| All numbers | -a        |
 
-The **weak adjective paradigm** is used when a noun is preceded by a determiner:
+The **strong adjective paradigm**:
 
-|           | All numbers |
-| --------- | ----------- |
-| All cases | -a          |
+|          | Nominative | Accusative | Genitive |
+| -------- | ---------- | ---------- | -------- |
+| Singular | -a         | -am / -at  | -as      |
+| Plural   | -ai        | -an        | -ar      |
 
-The **strong adjective paradigm** is used when the noun is omitted:
+[determiner paradigm]: #determiner-paradigm
 
-|      | Singular  | Plural |
-| ---- | --------- | ------ |
-| Nom. | -a        | -ai    |
-| Acc. | -am / -at | -an    |
-| Gen. | -an       | -ar    |
+The <span id="determiner-paradigm">**determiner paradigm**</span>:
+
+|          | Nominative | Accusative | Genitive |
+| -------- | ---------- | ---------- | -------- |
+| Singular | -          | -am / -at  | -as      |
+| Plural   | -a         | -an        | -ar      |
 
 The animacy distinction is the same as with nouns.
 
-### General notes
-
-Distal pronouns are also used for referent, as in, "such person", "such thing",
-"such kind", etc.
-
-In the following tables, any **base form** and **irregular forms** are marked
-with **bold**. Regular forms take endings from the strong noun paradigm (with
-the inanimate ending).
-
-Some determiners and pronouns have a animacy distinction in the singular
-accusative, _-am_ or _-ar_. This distinction can be between personhood and
-nonpersonhood, or animate and inanimate, according to context and preference.
-
-### Personal pronouns
-
-|      | 1st sg. | 2nd sg. | 3rd sg. masc. | 3rd sg epi. | 3rd fem. | 1st pl. | 2nd pl. | 3rd pl. | 3rd refl. |
-| ---- | ------- | ------- | ------------- | ----------- | -------- | ------- | ------- | ------- | --------- |
-| Nom. | ik      | þu      | he            | þé          | se       | we      | je      | þáa     |           |
-| Acc. | mih     | þih     | hem           | þém/þét     | sem      | uns     | juh     | þén     | sih       |
-| Gen. | mein    | þein    | hes           | þés         | ses      | unsar   | jewar   | þér     | sein      |
-
-w There is an animacy distinction in the 3rd person epicine singular pronoun.
-The diacritic on the 3rd persons is only an ortographic convention to
-distinguish it from the definite article.
-
-As with the genitive of nouns, genitive pronouns ("possessives") follow the noun
-they modify. They do not inflect. For example: _þe kat mien_ "my cat".
-
-### Determiners
+## Determiners and pronouns
 
 Determiners fully denote case and number; therefore they accompany
 weakly-inflected nouns.
@@ -217,151 +166,223 @@ They are any of:
 -   quantifiers,
 -   numerals.
 
-### Definite and indefinite articles and pronouns
+The **definite articles** are:
 
-The definite articles and definite pronoun are the same:
+|          | Nominative | Accusative | Genitive |
+| -------- | ---------- | ---------- | -------- |
+| Singular | þe         | þem / þet  | þes      |
+| Plural   | þea        | þen        | þer      |
 
-|      | Singular  | Plural |
-| ---- | --------- | ------ |
-| Nom. | þe        | þea    |
-| Acc. | þem / þet | þen    |
-| Gen. | þes       | þer    |
+The **definite pronouns** are:
 
-Note that the singular forms are the same as the 3rd person epicine pronouns.
-There is only a subtle distinction betwen the definite pronouns and the 3rd
-person pronouns. The definite pronouns tend to mean "the aforementioned". This
-distinction is not important.
+|          | Nominative | Accusative  | Genitive |
+| -------- | ---------- | ----------- | -------- |
+| Singular | þai        | þaim / þait | þais     |
+| Plural   | þaia       | þain        | þair     |
 
-The indefinite article and indefinite pronouns:
+The definite pronouns also appear under "personal pronouns".
 
-|      | Singular    | Plural |
-| ---- | ----------- | ------ |
-| Nom. | **en**      | ena    |
-| Acc. | **em / et** | enan   |
-| Gen. | **es**      | enar   |
+The <span id="indefinite-article">**indefinite articles**</span> are:
 
-Should I distinguish the definite article and pronoun❓ The article could look
-like an unstressed form: _en, et, enas, enai, einan, enar_.
+|          | Nominative | Accusative            | Genitive  |
+| -------- | ---------- | --------------------- | --------- |
+| Singular | en         | em (enam) / et (enat) | es (enas) |
+| Plural   | ena        | enan                  | enar      |
 
-### Quantifiers
+[indefinite pronoun]: #indefinite-pronoun
 
-The negative quantifier, both article and pronoun, works like HG "kein" or
-NL/NDS "keen", and follows the declension paradigm of _en_:
+The <span id="indefinite-pronoun">**indefinite pronoun**</span> is:
 
-|      | Singular      | Plural |
-| ---- | ------------- | ------ |
-| Nom. | **nen**       | nena   |
-| Acc. | **nem / net** | nenan  |
-| Gen. | **nes**       | nenar  |
+|          | Nominative | Accusative                | Genitive    |
+| -------- | ---------- | ------------------------- | ----------- |
+| Singular | ain        | aim (ainam) / ait (ainat) | ais (ainas) |
+| Plural   | aina       | ainan                     | ainar       |
 
-Most other quantifiers have this declension paradigm:
+The <span id="personal-pronouns">**personal pronouns**</span> are:
 
-|      | Singular  | Plural |
-| ---- | --------- | ------ |
-| Nom. | -         | -a     |
-| Acc. | -am / -at | -an    |
-| Gen. | -as       | -ar    |
+|              | Nominative | Accusative  | Genitive |
+| ------------ | ---------- | ----------- | -------- |
+| 1. sg.       | ik         | mih         | mein     |
+| 2. sg.       | þu         | þih         | þein     |
+| 3. sg. masc. | he         | hem         | hes      |
+| 3. sg. fem.  | se         | sem         | ses      |
+| 3. sg. epic. | þai        | þaim / þait | þais     |
+| 3. sg. refl. |            | sih         | sein     |
+| 1. pl.       | we         | uns         | wor      |
+| 2. pl.       | je         | juh         | jor      |
+| 3. pl.       | þaia       | þain        | þair     |
 
-Some examples of quantifiers that follow that paradigm are: _alla_ "all",
-_manga_ "many", _suma_ "some", _fawa_ "few".
+The **possessive pronouns** in the nominative singular are:
 
-### Demonstratives
+|              | Nominative singular |
+| ------------ | ------------------- |
+| 1. sg.       | min                 |
+| 2. sg.       | þin                 |
+| 3. sg. masc. | hes                 |
+| 3. sg. fem.  | ses                 |
+| 3. sg. epic. | þes                 |
+| 3. sg. refl. | sin                 |
+| 1. pl.       | wor                 |
+| 2. pl.       | jor                 |
+| 3. pl.       | þes                 |
 
-The demonstrative pronouns are identical to demonstrative articles
+For the accusative and plural forms, see [determiner paradigm][].
 
-|      | Proximal sg. | 〃 pl. | Medial sg. | 〃 pl. | Distal sg. | 〃 pl. |
-| ---- | ------------ | ------ | ---------- | ------ | ---------- | ------ |
-| Nom. | **þis**      | þisai  | **þas**    | þasai  | **jain**   | jainai |
-| Acc. | **þit**      | þisan  | **þat**    | þasan  | **jait**   | jainan |
-| Gen. | þisas        | þisar  | þasas      | þasar  | jainas     | jainar |
+For example, the forms of _min_ include: _min, minam, minat, minas, mina, minan,
+minar_.
+
+Genitives usually follow another noun phrase. They can be interchangeable with
+possesive nouns, but possessive nouns precede a noun phrase. The following are
+interchangeable: _Min hund ann þinam kat_ = _Þe hund mein ann þem kat þein_ ("my
+dog likes your cat").
+
+The **negative quantifier**, works like Low Saxon "keen". It is inflected like
+[_"en"_](#indefinite-article).
+
+|          | Nominative | Accusative                | Genitive    |
+| -------- | ---------- | ------------------------- | ----------- |
+| Singular | nen        | nem (nenam) / net (nenat) | nes (nenas) |
+| Plural   | nena       | nenan                     | nenar       |
+
+[negative indefinite pronoun]: #negative-indefinite-pronoun
+
+The <span id="negative-indefinite-pronoun">**negative indefinite
+pronoun**</span> is inflected like _"ain"_:
+
+|          | Nominative | Accusative                    | Genitive      |
+| -------- | ---------- | ----------------------------- | ------------- |
+| Singular | nain       | naim (nainam) / nait (nainat) | nais (nainas) |
+| Plural   | naina      | nainan                        | nainar        |
+
+Some adjectives can function as **quantifiers** and follow the [determiner
+paradigm]. For example:
+
+-   _all_ "all",
+-   _mänig_ "many"
+-   _sum_ "some"
+-   _faw_ "few".
+
+The **demonstrative pronouns** and **demonstrative articles** (identical) are:
+
+|              | Nominative | Accusative             | Genitive |
+| ------------ | ---------- | ---------------------- | -------- |
+| Proximal sg. | þis        | þit (þisam / þisat)    | þisas    |
+| Proximal pl. | þisa       | þisan                  | þisar    |
+| Medial sg.   | þas        | þat (þasam / þasat)    | þasas    |
+| Medial pl.   | þasa       | þasan                  | þasar    |
+| Distal sg.   | jain       | jait (jainam / jainat) | jainas   |
+| Distal pl.   | jaina      | jainan                 | jainar   |
 
 Demonstratives are used for both people and things.
 
-### Option or category
+The **pro-class** _hwelk_ and its family can be determiners or pronouns
+([determiner paradigm][]).
 
-The words _hwelk_ "which, what kind", _hjelk_ "this one", _þelk_ "that one",
-_sjelk_ "such one" are both determiners and pronouns.
+|               | Nominative sg. | Meaning                          |
+| ------------- | -------------- | -------------------------------- |
+| Interrogative | hwelk          | which, what kind of              |
+| Proximal      | hjelk          | this one, this kind here         |
+| Medial        | þelk           | that one, that kind there        |
+| Distal        | sjelk          | yonder one, that kind over there |
+| Referential   | swelk          | such one, such kind of           |
+| Universal     | elk            | each one                         |
 
-They are inflected similarly, as strong nouns:
+The **dual determiner** and **dual pronoun** ([determiner paradigm][]):
 
-|      | Question sg.  | 〃 pl.  | Proximal sg.  | 〃 pl.  | Medial sg.   | 〃 pl. | Distal sg.    | 〃 pl.  |
-| ---- | ------------- | ------- | ------------- | ------- | ------------ | ------ | ------------- | ------- |
-| Nom. | **hwelk**     | hwelkai | **hjelk**     | hjelkai | **þelk**     | þelkai | **sjelk**     | sjelkai |
-| Acc. | hwelkam / -at | hwelkan | hjelkam / -at | hjelkan | þelkam / -at | þelkan | sjelkam / -at | sjelkan |
-| Gen. | hwelkan       | hwelkar | hjelkan       | hjelkar | þelkan       | þelkar | sjelkan       | sjelkar |
+|               | Nominative sg. | Meaning                      |
+| ------------- | -------------- | ---------------------------- |
+| Interrogative | hwaiþ          | which two                    |
+| Proximal      | hjaiþ          | this one of the two          |
+| Medial        | þaiþ           | that one of the two          |
+| Distal        | sjaiþ          | that faraway one of the two  |
+| Referential   | swaiþ          | (rare) such one from the two |
+| Universal     | baiþ           | both                         |
+| Elective      | aiþ            | any of both                  |
 
-### Pro-person and pro-thing
+The **pro-persons**:
 
-The pro-person complement personal pronouns; they are _hwe_ "who", _hje_ "this
-person(s)", _þje_ "that person(s)", _sje_ "such person(s)". They do not inflect
-in number. The existential pro-person means "someone", and the negative
-pro-person means "no one".
+|                   | Nominative | Accusative | Genitive | Meaning                                      |
+| ----------------- | ---------- | ---------- | -------- | -------------------------------------------- |
+| Interrogative sg. | hwe        | hwem       | hwems    | who (singular)                               |
+| 〃 pl.            | hwea       | hwean      | hwemar   | who (plural)                                 |
+| Existential       | ain        |            |          | someone (see [indefinite pronoun][])         |
+| Negative          | nain       |            |          | no one (see [negative indefinite pronoun][]) |
+| Universal         | elkain     |            |          | everyone (inflects like _ain_; no plural)    |
 
-The pro-thing pronoun is similar to pro-persons. It only exists in a _hw-_ form.
+The **pro-thing** ([determiner paradigm][]):
 
-Pro-person:
+|               | Nominative | Accusative | Genitive | Meaning               |
+| ------------- | ---------- | ---------- | -------- | --------------------- |
+| Interrogative | hwa        | hwat       | hwats    | what (no plural)      |
+| Existential   | ihs        | iht        | ihtas    | something (no plural) |
+| Negative      | nihs       | niht       | nihtas   | something (no plural) |
 
-|      | Question | Exist. sg. | 〃 pl. | Negative  |
-| ---- | -------- | ---------- | ------ | --------- |
-| Nom. | **hwe**  | **hains**  | hainai | **naims** |
-| Acc. | **hwem** | **hain**   | hainan | **naim**  |
-| Gen. | **hwes** | hainas     | hainar | naimas    |
+The **pro-adverbs of place**:
 
-Pro-thing:
+|               | Pro-adverb | Meaning    |
+| ------------- | ---------- | ---------- |
+| Interrogative | hwar       | where      |
+| Proximal      | hjar       | here       |
+| Medial        | þar        | there      |
+| Distal        | sjar       | yonder     |
+| Referential   | swar       | such place |
 
-|      | Question | Exist. sg. | 〃 pl. | Negative |
-| ---- | -------- | ---------- | ------ | -------- |
-| Nom. | **hwa**  | **ihs**    | ihsai  | **nihs** |
-| Acc. | **hwat** | **iht**    | ihsan  | **niht** |
-| Gen. | **hwas** | ihsas      | ihsar  | nihsas   |
+The **pro-adverbs of time**:
 
-### Pro-adverbs
+|               | Pro-adverb | Meaning                          |
+| ------------- | ---------- | -------------------------------- |
+| Interrogative | hwan       | where                            |
+| Proximal      | hjan       | now                              |
+| Medial        | þan        | then (at that moment)            |
+| Distal        | sjan       | then (far in the future or past) |
+| Referential   | swan       | at such time                     |
 
-|                     | Question | Proximal | Medial | Comparative | Existential | Neg. Existential | Universal |
-| ------------------- | -------- | -------- | ------ | ----------- | ----------- | ---------------- | --------- |
-| Time                | hwan     | hjan     | þan    | sjan        | erg hwan    | nerg hwan        | ew hwan   |
-| Start (Time)        | hwens    | hjens    | þens   | sjens       | erg hwens   | nerg hwens       | ew hwens  |
-| End (Time)          | hwiner   | hjiner   | þiner  | sjiner      | erg hwiner  | nerg hwiner      | ew hwiner |
-| Place               | hwar     | hjar     | þar    | sjar        | erg hwar    | nerg hwar        | ew hwar   |
-| Origin (Place)      | hwers    | hjers    | þers   | sjers       | erg hwers   | nerg hwers       | ew hwers  |
-| Destination (Place) | hwiþer   | hjiþer   | þiþer  | sjiþer      | erg hwiþer  | nerg hwiþer      | ew hwiþer |
-| Manner              | hwus     | hjus     | þus    | sjus        | erg hwus    | nerg hwus        | ew hwus   |
+The following pro-adverbs have a similar family of related pro-adverbs (like
+_hwar_ and _hwan_).
 
-The time adverbs' meanings are: when, now, then, such moment, sometime, never,
-always.
+| Pro-adverb | Meaning    |
+| ---------- | ---------- |
+| hwars      | from where |
+| hwans      | since when |
 
-The start-of-time adverbs' meanings are: whence, since now, thence, since such
-moment, since sometime, since never, always (emphasis on a fact that has always
-been true).
+The **pro-adverbs of manner**:
 
-The end-of-time adverbs' meanings are: until when, until now, until then, until
-such moment, until sometime; _nerg hwiner_ and _ew hwiner_ may not have a
-practical definition but could be used by analogy.
+|               | Pro-adverb | Meaning                           |
+| ------------- | ---------- | --------------------------------- |
+| Interrogative | hwos       | how                               |
+| Proximal      | hjos       | in this way                       |
+| Medial        | þos        | thus, in that way                 |
+| Distal        | sjos       | otherwise (like Low Saxon _süss_) |
+| Referential   | swos       | in such way                       |
 
-The place adverbs' meanings are: where, here, there, such place, somewhere,
-nowhere, everywhere.
+[pro-adverbs of reason]: #pro-adverbs-of-reason
 
-The start (place) adverbs' meanings are: wherefrom, herefrom, therefrom, from
-such place, from somewhere, from nowhere, from everywhere.
+The **pro-adverbs of reason**:
 
-The end (place) adverbs' meanings are: whereto, thereto, thereto, to such place,
-to somewhere, to nowhere, to everywhere.
+|               | Pro-adverb | Meaning         |
+| ------------- | ---------- | --------------- |
+| Interrogative | hwarüm     | why             |
+| Proximal      | hjarüm     | because of this |
+| Medial        | þarüm      | because of that |
+| Distal        | sjarüm     | because fo that |
+| Referential   | swarüm     | in such way     |
 
-The adverbs of manner's meanings are: how, in this way, in that way, in such
-way, somehow, in no way, in every way.
+The **pro-adverbs of intention**:
 
-Note that many determiners are similar to related pronouns, but differ in the
-vowel.
+|               | Pro-adverb | Meaning     |
+| ------------- | ---------- | ----------- |
+| Interrogative | hwarför    | what for    |
+| Proximal      | hjarför    | for this    |
+| Medial        | þarför     | for that    |
+| Distal        | sjarför    | for that    |
+| Referential   | swarför    | in such way |
 
-⚠️ Should make a family of pro-adverbs for "why" and "what for".
+Other pro-forms also known as **prepositional pro-forms** can be built with:
 
-### Other
-
-Other pro-forms can be built combining pro-persons, pro-things, and pro-adverbs
-with prepositions. Pro-persons and pro-things inflect according to the case
-governed by the preposition.
-
-⚠️ Example needed.
+-   _hwem_ + preposition e.g. _hwem-miþ_ "with whom"
+-   _hwat_ + preposition e.g. _hwat-þorh_ "by what means"
+-   _hwar_ + preposition e.g. _hwar-in_ "wherein"
+-   _hwan_ + preposition e.g. _hwan-um_ "around when"
 
 ## Verbs
 
@@ -372,8 +393,6 @@ infinitive has a meaning of "to have done".
 There are four types of verb according to conjugation paradigm: strong, regular
 weak, rückumlaut weak, and preterite-present. In addition, there are irregular
 verbs.
-
-All infinitives are prefixed with _a-_, spelled with a dash.
 
 Strong verbs three stems: the general one, one for most preterite forms, one for
 the past participle.
@@ -387,30 +406,54 @@ Preterite-present verbs have three stems: one for the present singular
 conjugations, one for all other present forms (incl. infinitive and participle),
 one for the preterite forms.
 
-### Pronoun dropping
-
-**Pronoun dropping:** because all past paradigms, and the present paradigm of
-preterite-present verbs have conflated forms for the 1st and 3rd person, and
-sometimes the participle, the first or third person pronouns tend to be
-explicitly marked where there is no context (in all past paradigms, and the
-present paradigm of preterite present verbs).
+**Pronoun dropping:** because some paradigms (preterite of all verbs, and
+present of preterite-present verbs) have conflated forms for the 1st and 3rd
+person, and sometimes the participle, the first or third person pronouns tend to
+be explicitly marked when there is no context.
 
 ### Conjugation paradigms
 
-Strong:
+#### Strong verbs
 
-|            | Present | Past |
-| ---------- | ------- | ---- |
-| Infinitive | -on     | -on  |
-| Participle | -ond    | -on  |
-| 1st sg.    | -u      | -    |
-| 2nd sg.    | -es     | -es  |
-| 3rd sg.    | -et     | -    |
-| 1st pl.    | -em     | -em  |
-| 2nd pl.    | -ej     | -ej  |
-| 3rd pl.    | -en     | -en  |
+Strong verbs conjugate with ablaut and suffixes. There are 3 ablaut grades (1,
+2, 3), and many ablaut classes.
 
-Regular weak:
+The ablaut classes and their grades follow (example shows present infinitive,
+past infinitive, past participle):
+
+| Class    | 1   | 2   | 3   | Example                                     |
+| -------- | --- | --- | --- | ------------------------------------------- |
+| 1        | ei  | ai  | i   | _streikon - straikon - strikon_ "to strike" |
+| 2        | eu  | au  | u   | _fleugon - flaugon - flugon_ "to fly"       |
+| 3-i, 4-i | i   | a   | u   | _bindon - bandon - bundon_ "to bind"        |
+| 3-e, 4-e | e   | a   | o   | _helpon - halpon - holpon_ "to help"        |
+| 5-e      | e   | a   | e   | _eton - aton - eton_ "to give"           |
+| 5-i      | i   | a   | e   | _siton - saton - seton_ "to sit"            |
+| 6e       | e   | ó   | a   | _sweron - swóron - swaron_ "to swear"       |
+| 6a       | e   | ó   | a   | _faron - fóron - faron_ "to travel"         |
+| 7a       | ai  | ei  | ai  | _haiton - heiton - haiton_ "to be named"    |
+| 7b       | au  | eu  | au  | _hlaupon - hleupon - hlaupon_ "to walk"     |
+| 7c-e     | a   | e   | a   | _fallon - fellon - fallon_ "to fall"        |
+| 7c-i     | a   | i   | a   | _fangon - fingon - fagon_ "to grasp"        |
+| 7d       | á   | é   | á   | _láton - léton - láton_ "to let"            |
+| 7e-ow    | ow  | ew  | ow  | _growon - grewon - growon_ "to grow"        |
+| 7e-ó     | ó   | é   | ó   | _hrópon - hrépon - hrópon_ "to call"        |
+
+The conjugation paradigm for the indicative mood can be describe with one of the
+ablaut grades and a suffix:
+
+|            | Present  | Past    |
+| ---------- | -------- | ------- |
+| Infinitive | 1 + -on  | 2 + -on |
+| Participle | 1 + -ond | 3 + -on |
+| 1st sg.    | 1 + -ew  | 2 + -   |
+| 2nd sg.    | 1 + -es  | 2 + -es |
+| 3rd sg.    | 1 + -et  | 2 + -   |
+| 1st pl.    | 1 + -em  | 2 + -em |
+| 2nd pl.    | 1 + -ej  | 2 + -ej |
+| 3rd pl.    | 1 + -en  | 2 + -en |
+
+### Regular weak verbs
 
 |            | Present | Past  | Present | Past  | Preset | Past |
 | ---------- | ------- | ----- | ------- | ----- | ------ | ---- |
@@ -448,46 +491,6 @@ Preterite-present (may have -t- affix instead of -d-):
 | 1st pl.    | -em     | -dem |
 | 2nd pl.    | -ej     | -dej |
 | 3rd pl.    | -un     | -dun |
-
-### Strong verbs
-
-Strong verbs follow an ablaut pattern. There are several ablaut patterns:
-
-| Class | Present infinitive | Past infinitive | Past participle |
-| ----- | ------------------ | --------------- | --------------- |
-| 1     | ei                 | ai              | i               |
-| 2     | eu                 | au              | u               |
-| 34-e  | e                  | a               | o               |
-| 34-i  | i                  | a               | u               |
-| 5-e   | e                  | a               | e               |
-| 5-i   | i                  | a               | e               |
-| 6e    | a                  | u               | a               |
-| 6a    | e                  | u               | a               |
-| 7a    | ai                 | ei              | ai              |
-| 7b    | au                 | eu              | au              |
-| 7c-e  | a                  | e               | a               |
-| 7c-i  | a                  | i               | a               |
-| 7d    | á                  | é               | á               |
-| 7e-o  | o                  | e               | o               |
-| 7e-ó  | ó                  | é               | ó               |
-
-Here are some examples; each verb is provided in present and past infinitive,
-and past participle:
-
--   _streikan-straikan-strikun_ (to strike),
--   _fleugan-flaugan-flugun_ (to fly),
--   _helpan-halpan-holpun_ (to help),
--   _bindan-bandan-bundun_ (to bind).
--   _geban-gaban-gebun_ (to give),
--   _sitan-satan-setun_ (to sit),
--   _faran-furan-farun_ (to travel),
--   _swaran-swuran-swaran_ (to swear),
--   _haitan-heitan-haitun_ (to be named),
--   _hlaupan-hleupan-hlaupun_ (to walk),
--   _fallan-fellan-fallun_ (to fall),
--   _fangan-fingan-fagun_ (to grasp),
--   _látan-létan-látun_ (to let),
--   _hrópan-hrépan-hrópun_ (to call).
 
 Note that the preterite of strong verbs does not distinguish first and third
 persons. Without context, the first person is assumed.
@@ -607,19 +610,6 @@ Examples include:
 -   _smertan_ (to hurt, intr.) > _smärtian_ (to cause pain)
 -   _hladan_ (to accumulate) > _hlődian_ (to load sth. into sth.)
 -   _fallan_ (to fall) > _fällian_ (to fell)
-
-#### Prefixes
-
--   **fór**: before
--   **after**: after
--   **fer**: start to
--   **fir**: wrong
--   **or**:
--   **in**: in
-
-### TO DO
-
-lerion - leridon lernon - lernedon
 
 ### Regular strong verbs
 
@@ -768,7 +758,7 @@ For example _handlon_ (to handle):
 | 2nd pl.    | handler  | handloder |
 | 3rd pl.    | handlen  | handloden |
 
-### N-Verbs
+#### N-Verbs
 
 These verbs usually have an inchoative meaning (start to be X) and are made by
 suffixing adjectives.
@@ -785,7 +775,6 @@ For example _raudnon_ "to redden":
 | 1st pl.    | raudnem  | raudnodem |
 | 2nd pl.    | raudner  | raudnoder |
 | 3rd pl.    | raudnen  | raudnoden |
-
 
 ### Irregular verbs
 
@@ -1329,258 +1318,3 @@ the subordinate clause. For example:
 -   Þe hund hwem sah was brún. _The dog which I saw is brown._
 -   Þe hund, hwes aiganor singet ilke morgin, is hail frijendleik. _The dog,
     whose owner sings ever morning, is friendly._
-
-## Derivation
-
-### Vowels in stems
-
-Short vowels
-
-| Stem vowel | Stem coda | Umlaut | Example                     |
-| ---------- | --------- | ------ | --------------------------- |
-| a          |           |        |                             |
-| e          |           |        |                             |
-| i          |           |        |                             |
-| u          | r, rC     |        |                             |
-| u          |           |        |                             |
-| a          |           | Yes    | lagjaną > laggjan > läggion |
-| u          | r, rC     |        | þurhw > þorh                |
-| u          |           |        | brugjǭ > bruggju > brügg    |
-| ā          |           |        |                             |
-| ē          |           |        | slēpaną > slāpan > slápon   |
-
-Stems of the 3rd and 4th strong verb classes tend to follow either the ablaut
-sequences i-a-u or e-a-o.
-
-The basic rule for derivation from PGmc lemmas is: endings (az, ō, etc.)
-disappear.
-
-_z_ becomes _r_ in all positions.
-
-_u > o_ tend to happen before liquids _l, r_ and before geminates.
-
-The overlong ending _ô_ tends to make the previous syllable long, unless:
-
--   it is already long,
--   it is followed by sonorants _m, n, l, r_.
-
-Geminates:
-
--   _pp, tt, kk, ss, bb, dd, gg, mm, nn, ll, rr, jj, ww_ tend to (add high-pitch
-    tone?) sxdg
-
-The following medial clusters appear in medial position in PGmc., need special
-handling in Conlang1 due to suffix-deletion. The letters _ŏ, ŏ_ represent
-letters that only appear in unsuffixed lexemes.
-
-| PGmc                                                          | Conlang1                                                      |
-| ------------------------------------------------------------- | ------------------------------------------------------------- |
-| _pl, tl, kl, fl, hl, sl, bl, gl, wl_                          | _pŏl, tŏl, kŏl, fŏl, hŏl, sŏl, bŏl, gŏl, wŏl_                 |
-| _pr, tr, kr, fr, þr, hr, br, gr, wr_                          | _pŏr, kŏr, fŏr, þŏl, hŏr, sŏr, bŏr, gŏr, wŏr_                 |
-| _lw, rw_                                                      | _lw_ (/lg/), _rw_ (/rg/)                                      |
-| _lj, rj_                                                      | _lj_ (/lʲ/), _rj_ (/rʲ ~ rʒ/)                                 |
-| _tw, dw, kw, gw, þw, hw, sw_                                  | _tŏw, dŏw, kŏw, gŏw, þŏw, hŏw, sŏw_                           |
-| _pj, tj, kj, fj, þj , hj, zj, bj, dj, gj, mj, nj, lj, rj, wj_ | _pj, tj, kj, fj, þj , hj, rj, bj, dj, gj, mj, nj, lj, rj, wj_ |
-| _zd_                                                          | _rd_                                                          |
-
-| Plain      | +w       | +j      |
-| ---------- | -------- | ------- |
-| p /p/      | pw /pː/  | pj /pt/ |
-| k /k/      | kw /kː/  | kj /tʃ/ |
-| g /g/, /x/ | gw /gː/  | gj /dʒ/ |
-| t /t/      | tw /tʷ/  | tj /tʲ/ |
-| d /d/      | dw /dʷ/  | dj /dʲ/ |
-| l /l/      | lw /lg/  | lj /lʲ/ |
-| r /r/      | rw /rg/  | rj /ʑ/  |
-| s /s/      | sw /ŭsʷ/ | sj /ɕ/  |
-| þ /θ/      | þw /ŭθ/  | þj /d/  |
-| h /h/      | hw /g/   | hj /ç/  |
-
-These clusters do not need special treatment:
-
--   Nasals followed by sonorants:
-    -   _mb, mp, mf_
-    -   _nt, nd, nþ_
-    -   _nk, ng, nh_
-    -   _ms, ns_
--   Liquids followed by sonorants:
-    -   _lp, lt, lk, lf, lþ (???), lh, ls, lb, ld, lg, lm_
-    -   _rp, rt, rk, rf, rþ (???), rh, rs, rb, rd, rg, rm, rn_
-
-Verner alternations: _f, þ, s, h, hw_ > _b, d, r, g, gw_
-
-### Other general notes
-
-#### i-umlaut
-
-Strong class 4 verbs
-
--   kwelaną-kwaljaną => kwelon-kwellion (to suffer, to make suffer)
--   hreganą-hragjaną => hregon-hreggion (to stand out, to incite)
--   nesaną-nazjaną => nesun-nerrion (to recover, to heal)
-
-i-Nouns and adjectives?
-
--   hrad-hradjaną > hrad-hreddion (to save)
--   lēziz > lér (empty)
--   raþjǭ > reþj? (Rede)
--   stapiz > stepj ? stepp
-
-#### ir > er
-
--   liznan > lernon
-
-#### West germanic gemination
-
-Triggered by consonant + /j/, except /rj/ and /zj/.
-
-Sometimes triggered by /l/ or /r/ after another consonant.
-
-Happens for strong class 4 verbs. Happens for verbs from adjectives?
-
-Examples of verb paradigms, derivation, and grammatischer Wechsel.
-
-| Class | Consonant | Pres. Inf. | Past Inf. | Past Part. | Causative / Iterative | Noun   | Notes                               |
-| ----- | --------- | ---------- | --------- | ---------- | --------------------- | ------ | ----------------------------------- |
-| 1     | h > g     | teihon     | taihon    | tihon      | taigion               | tig    | to show, to accuse                  |
-| 1     | s > r     | reison     | raison    | rison      | rairion               | rir    | to rise, to raise                   |
-| 1     | þ > d     | leiþon     | laiþon    | liþon      | laidion               | lid    | to undergo, to lead                 |
-| 1     | þ > d     | meiþon     | maiþon    | miþon      |                       | mid    | to avoid                            |
-| 1     | þ > d     | sneiþon    | snaiþon   | sniþon     |                       | snid   | to cut                              |
-| 2     | h > g     | fleuhon    | flauhon   | fluhon     | flaugion              | flug   | to flee, to set free                |
-| 2     | h > g     | teuhon     | tauhon    | tuhon      | taugion               | tug    | to pull, to tie                     |
-| 2     | s > r     | keuson     | kauson    | kuson      | kaurion               | kor    | to choose, to sample, decision      |
-| 2     | s > r     | leuson     | lauson    | luson      | laurion               |        | to lose, to                         |
-| 2     | þ > d     | freuþon    | frauþon   | fruþon     |                       | fruþ   | to froth                            |
-| 2     | þ > d     | seuþon     | sauþon    | suþon      | saudion               | sud    | to boil (INTR vs TRANS), concoction |
-| 3     | h > g     | þwinhon    | þwanhon   | þwungon    |                       | þwung  | to force (so)                       |
-| 3     | s > r     | þerson     | þarson    | þorson     | þärion                | þurr   | to dry out, to dry, dryness         |
-| 3     | þ > d     | hinþon     | hanþon    | hunþon     |                       |        | to acquire                          |
-| 5     | s > r     | jeson      | jason     | jeson      | järion                |        | to ferment (INTR vs TRANS)          |
-| 5     | s > r     | neson      | nason     | neson      | närion, nőrion        |        | to heal, to feed                    |
-| 6     | h > g     | slahon     | sluhon    | slahon     | slőgion?              | slag   | to hit                              |
-| 6     | þ > d     | hlaþon     | hluþon    | hlaþon     | hlődion               | hlad   | to load                             |
-| 6     | h > g     | hlahon     | hluhon    | hlahon     | hlődion               | \*hlah | to laugh                            |
-| 7c    | h > g     | fangon     | fingon    | fangon     |                       | fang   | to fold                             |
-| 7c    | h > g     | hangon     | hingon    | hangon     |                       | hang   | to catch                            |
-| 7c    | þ > d     | faldon     | feldon    | faldon     |                       | fald   | to fold                             |
-
-In summary:
-
--   Classes 1-6 don't show grammatischer Wechsel inside their paradims.
--   Class 7 verbs always show grammatischer Wechsel; the original consonant is
-    lost.
--   Nouns can be derived from the stem of the past participle, with
-    grammatischer Wechsel.
-
-## By part of speech and inflection
-
-### i-stem nouns
-
-### an-stem nouns and adjectives (ô)
-
--   https://en.wiktionary.org/wiki/Category:Proto-Germanic_an-stem_nouns
--   https://en.wiktionary.org/wiki/Category:Proto-Germanic_an/%C4%ABn-stem_adjectives
-    (No useful entries)
-
-| PG     | Slumpisk  | Notes                                   |
-| ------ | --------- | --------------------------------------- |
-| augô   | (-) aug   | (heavy) eye                             |
-| balkô  | (-) balk  | (heavy) beam, balk, plank               |
-| blōmô  | (-) blóm  | (heavy) flower                          |
-| brunnô | (-) bronn | (heavy) spring, well                    |
-| hertô  | (-) hert  | (heavy) heart                           |
-| krabbô | (-) krabb | (heavy) crab                            |
-| pūkô   | (-) púk   | (heavy) spook                           |
-| saljô  | (-) sällj | (heavy) companion                       |
-| sīmô   | (-) seim  | (heavy) seam, thread, cord, string      |
-| gōmô   | (-) góm   | (heavy) gum, palate                     |
-| apô    | (+) áp    | (light) ape                             |
-| banô   | (+) bán   | (light) murderer                        |
-| hagô   | (+) hág   | (light) garden                          |
-| hasô   | (+) hás   | (light) hare                            |
-| kranô  | (+) krán  | (light) crane                           |
-| namô   | (+) nám   | (light) name                            |
-| nefô   | (+) néf   | (light) nephew                          |
-| budô   | (+) búd   | (light) messenger (see _bud_ "message") |
-| huþô   | (+) húþ   | (light) testicle                        |
-| skiwô  | \*skeuw   | sky                                     |
-| silô   | ??        | harness                                 |
-| drupô  | (NA) drup | drop (see _dreupon_)                    |
-| bugô   | (NA) bug  | bow (see _beugon_)                      |
-| flutô  | (NA) flút | boat, floatation device (see _fleuton_) |
-
-"-ô" as an agent suffix is nonproductive.
-
-### i-stem nouns
-
-| Stem type | PG      | Slumpisk | Notes |
-| --------- | ------- | -------- | ----- |
-| heavy, a  | algiz   | älg      | elk   |
-| heavy, a  | gastiz  | gäst     | guest |
-| heavy, u  | drunkiz | drünk    | drink |
-| heavy, u  | hupiz   | hüp      | hip   |
-| heavy, u  | lustiz  | lüst     | loss  |
-| heavy, u  | mundiz  | münd     | mind  |
-| heavy, ō  | grōniz  | grőn     | green |
-| heavy, ō  | hrōmiz  | hrőm     | fame  |
-
-Category: -þiz- suffixed nouns (nonproductive).
-
-| Stem type | PG             | Slumpisk | Notes          |
-| --------- | -------------- | -------- | -------------- |
-| heavy, a  | stadiz         | städ     | place          |
-| heavy, i  | wihtiz         | wiht     | weight         |
-| heavy, u  | fluhtiz        | flüht    | flight, escape |
-| heavy, u  | mundiz, mindiz | münd     | mind           |
-| heavy, ur | burtiz         | bört     | (berŏn>borŏn)  |
-| heavy, ē  | dēdiz          | dád      | deed           |
-| heavy, ō  | glōdiz         | glőd     | glowth         |
-| heavy, ō  | grōdiz         | grőd     | growth         |
-
-Internal derivation: -iþ- suffixed nouns (from PG. \*þiz), productive.
-
-https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/-i%C3%BE%C5%8D
-
-| Stem      | Example           | Notes        |
-| --------- | ----------------- | ------------ |
-| heavy, a  | _ald > äldiþ_     | oldness, age |
-| heavy, a  | _lang > längiþ_   | length       |
-| heavy, au | _graut > grautiþ_ | size         |
-| heavy, au | _raud > raudiþ_   | redness      |
-| heavy, el | _gelŏw > gelwiþ_  | yelowness    |
-| heavy, i  | _mild > mildiþ_   | mildness     |
-| heavy, á  | _swár > swáriþ_   | heaviness    |
-| heavy, ó  | _grón > grőniþ_   | greenness    |
-| light, a  | _fagŏr > fägriþ_  | beauty       |
-
-### jaz, ī (jō) stems
-
-Suffix -(i)ją to form collective nouns.
-
-| Stem     | PG        | Slumpisk | Notes              |
-| -------- | --------- | -------- | ------------------ |
-| heavy, a | harjaz    | härr     | army               |
-| heavy, a | bazją     | bärr     | berry              |
-| heavy, a | wabją     | wäbb     | web                |
-| heavy, a | ajją      | ägg\*    | egg                |
-| heavy, a | andijaz   | änd\*    | end                |
-| light, a | nabją     | näbb\*   | nib, beak          |
-| heavy, a | fanją     | fänn\*   | fen, marsh         |
-| light, a | ribją     | ribb     | rib                |
-|          | midją     | midd     | middle             |
-|          | hrugjaz   | hrügg    | ridge, back        |
-|          | sundī     | sünd     | sin                |
-|          | hiwją     | heuw     | hue, appearance    |
-|          | hawją     | hauw     | hue, appearance    |
-|          | hulwiją   | holow?   | depression, hollow |
-|          | hwaitijaz | hwaitj   | wheat              |
-
-Nouns ending with -wj- often change to -w- without i-umlaut e.g.
-
--   hiwją > heuw (heu)
--   hawją > hauw (hay)
--   frawjō > frauw (woman)
--   flawją > flauw (ship)
--   gawją > gauw (district)
--   skiwją > skeuw (sky)
