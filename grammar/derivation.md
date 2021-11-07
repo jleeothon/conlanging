@@ -1,6 +1,6 @@
-## Derivation
+# Derivation
 
-### Vowels in stems
+## Vowels in stems
 
 Short vowels
 
@@ -77,9 +77,9 @@ These clusters do not need special treatment:
 
 Verner alternations: _f, þ, s, h, hw_ > _b, d, r, g, gw_
 
-### Other general notes
+## Other general notes
 
-#### i-umlaut
+### i-umlaut
 
 Strong class 4 verbs
 
@@ -94,11 +94,11 @@ i-Nouns and adjectives?
 -   raþjǭ > reþj? (Rede)
 -   stapiz > stepj ? stepp
 
-#### ir > er
+### ir > er
 
 -   liznan > lernon
 
-#### West germanic gemination
+### West germanic gemination
 
 Triggered by consonant + /j/, except /rj/ and /zj/.
 
@@ -216,33 +216,33 @@ https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/-i%C3%BE%C5%8D
 | heavy, a  | _lang > längiþ_   | length       |
 | heavy, au | _graut > grautiþ_ | size         |
 | heavy, au | _raud > raudiþ_   | redness      |
-| heavy, el | _gelŏw > gelwiþ_  | yelowness    |
+| heavy, el | _gelŏw > gelwiþ_  | yellowness   |
 | heavy, i  | _mild > mildiþ_   | mildness     |
 | heavy, á  | _swár > swáriþ_   | heaviness    |
-| heavy, ó  | _grón > grőniþ_   | greenness    |
+| heavy, ő  | _grőn > grőniþ_   | greenness    |
 | light, a  | _fagŏr > fägriþ_  | beauty       |
 
 ### jaz, ī (jō) stems
 
 Suffix -(i)ją to form collective nouns.
 
-| Stem     | PG        | Slumpisk | Notes              |
-| -------- | --------- | -------- | ------------------ |
-| heavy, a | harjaz    | härr     | army               |
-| heavy, a | bazją     | bärr     | berry              |
-| heavy, a | wabją     | wäbb     | web                |
-| heavy, a | ajją      | ägg\*    | egg                |
-| heavy, a | andijaz   | änd\*    | end                |
-| light, a | nabją     | näbb\*   | nib, beak          |
-| heavy, a | fanją     | fänn\*   | fen, marsh         |
-| light, a | ribją     | ribb     | rib                |
-|          | midją     | midd     | middle             |
-|          | hrugjaz   | hrügg    | ridge, back        |
-|          | sundī     | sünd     | sin                |
-|          | hiwją     | heuw     | hue, appearance    |
-|          | hawją     | hauw     | hue, appearance    |
-|          | hulwiją   | holow?   | depression, hollow |
-|          | hwaitijaz | hwaitj   | wheat              |
+| Stem      | PG        | Slumpisk | Notes              |
+| --------- | --------- | -------- | ------------------ |
+| heavy, a  | ajją      | ägg\*    | egg                |
+| heavy, a  | andijaz   | änd\*    | end                |
+| heavy, a  | bazją     | bärr     | berry              |
+| heavy, a  | fanją     | fänn\*   | fen, marsh         |
+| heavy, a  | harjaz    | härr     | army               |
+| heavy, a  | hawją     | hauw     | hue, appearance    |
+| heavy, a  | wabją     | wäbb     | web                |
+| heavy, ai | hwaitijaz | hwaitj   | wheat              |
+| heavy, i  | hiwją     | heuw     | hue, appearance    |
+| heavy, u  | hulwiją   | holow?   | depression, hollow |
+| heavy, u  | sundī     | sünd     | sin                |
+| light, a  | nabją     | näbb\*   | nib, beak          |
+| light, a  | ribją     | ribb     | rib                |
+| light, i  | midją     | midd     | middle             |
+| light, u  | hrugjaz   | hrügg    | ridge, back        |
 
 Nouns ending with -wj- often change to -w- without i-umlaut e.g.
 
