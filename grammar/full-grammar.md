@@ -60,18 +60,18 @@ jj, ww_
 
 ## General grammar
 
-Nouns, pronouns, and determiners decline for number, case, animacy.
+Nouns, pronouns, and determiners decline for:
 
-There are two numbers: singular and plural. There are three cases: nominative,
-accusative, genitive. Animacy (animate, inanimate) is only relevant in singular
-accusative declensions.
+- number: singular or plural;
+- case: nominative, accusative, genitive;
+- animacy: animate, inanimate (only singular accusative of nouns and determiners).
 
 Nouns have strong and weak paradigms.
 
 - The weak paradigm is used with a determiner.
 - The strong noun paradigm is used when a determiner is left out.
 
-Adjectives do not decline in the predicative form. Otherwise they have three
+Adjectives do not decline as predicatives. As attributives, they have three
 declension paradigms.
 
 - When preceding a noun, adjectives decline with a weak paradigm (e.g. _þe
@@ -101,6 +101,8 @@ but head-initial is allowed (e.g. _eton willon_).
 Adverbs usually appear before verbs, but can also follow them. The adverb _ne_
 (not) can only appear before, not after.
 
+Prepositions govern the nominative case.
+
 ## Nouns and adjectives
 
 All noun phrases must be "complete". A noun phrase is complete when:
@@ -108,10 +110,10 @@ All noun phrases must be "complete". A noun phrase is complete when:
 - (a) it has a determiner,
 - (b) or has no determiner but an strongly declined noun,
 - (c) or has no determiner but a strongly declined adjective without a noun,
-- (d) or is a pronoun.
+- (d) or is a pronoun,
+- (e) is preceded by a preposition.
 
-For the acccusative singular of the next paradigms, _-am_ is the animate ending,
-and _-at_ is the inanimate.
+In all the next references, when there are two forms of the singular accusative, the first is for the animate, and the second for the inanimate.
 
 The **weak noun paradigm**:
 
@@ -475,20 +477,22 @@ Strong verbs follow an ablaut pattern. There are several ablaut patterns:
 Here are some examples; each verb is provided in present and past infinitive,
 and past participle:
 
-- _streikan-straikan-strikun_ (to strike),
-- _fleugan-flaugan-flugun_ (to fly),
-- _helpan-halpan-holpun_ (to help),
-- _bindan-bandan-bundun_ (to bind).
-- _geban-gaban-gebun_ (to give),
-- _sitan-satan-setun_ (to sit),
-- _faran-furan-farun_ (to travel),
-- _swaran-swuran-swaran_ (to swear),
-- _haitan-heitan-haitun_ (to be named),
-- _hlaupan-hleupan-hlaupun_ (to walk),
-- _fallan-fellan-fallun_ (to fall),
-- _fangan-fingan-fagun_ (to grasp),
-- _látan-létan-látun_ (to let),
-- _hrópan-hrépan-hrópun_ (to call).
+| Class | Present infinitive | Past infinitive | Past participle | Meaning      |
+| ----- | ------------------ | --------------- | --------------- | ------------ |
+| 1     | streikon           | straikon        | strikon         | to strike    |
+| 2     | fleugon            | flaugon         | flugon          | to fly       |
+| 3-i   | drinkon            | drankon         | drunkon         | to drink     |
+| 3-e   | helpon             | halpon          | holpon          | to help      |
+| 4     | nemon              | namon           | nomon           | to take      |
+| 5     | neson              | nason           | neson           | to heal      |
+| 6     | faron              | furon           | faron           | to travel    |
+| 7a    | haiton             | heiton          | haiton          | to be called |
+| 7b    | hlaupon            | hleupon         | hlaupon         | to walk      |
+| 7c-i  | fangon             | fingon          | fangon          | to grab      |
+| 7c-e  | fallon             | fellon          | fallon          | to fall      |
+| 7d    | láton              | léton           | láton           | to let       |
+| 7e-o  | hrópon             | hrépon          | hrópon          | to call      |
+| 7e-ó  | growon             | grewon          | growon          | to grow      |
 
 Note that the preterite of strong verbs does not distinguish first and third
 persons. Without context, the first person is assumed.
@@ -569,30 +573,16 @@ intransitive from a transitive verb.
 
 | Strong ablaut | Weak causative   |
 | ------------- | ---------------- |
-| ei-ai-i       | ai               |
-| eu-au-u       | au               |
+| ei-ai-i       | äi               |
+| eu-au-u       | äu               |
 | i-a-u         | ä                |
 | e-a-o         | ä                |
 | e-a-e         | ä                |
 | i-a-i         | ä                |
-| a-u-a         | ü                |
+| a-ó-a         | ő                |
 | a-i-a         |                  |
 | á-é-á         | (Not productive) |
 | ó-é-ó         | (Not productive) |
-
-> ⚠️ Self-note: the sequence a-u-a should, by PGmc>Slumpisk sound changes, be
-> a-ó-a. But I'm considering a-ó-a, a-ú-a, a-u-a.
->
-> The problem with a-u-a is that it may create derivative words that class. The
-> problem that a-ó-a is that causative verbs would have the stem vowel
-> "ó-umlaut", whose representation as "eu" is ugly, and the representation as
-> "ő" would create a letter only marginally used. Also, would it have the same
-> sound value as "eu"?
->
-> The problem with a-ú-a, is similar: it could create a need for a letter "ű"
-> (but it wouldn't conflict with "eu"). However, hlaþan-hlúþan-hláþun (to load,
-> intr.) creates hlűdian-hlűdid. It may conflict with a verb from "hlúd"
-> (noiise).
 
 The consonant alternations are:
 
@@ -646,23 +636,6 @@ Strong verbs follow an ablaut pattern. There are several ablaut patterns:
 
 Here are some examples; each verb is provided in present and past infinitive,
 and past participle:
-
-| Class | Present infinitive | Past infinitive | Past participle | Meaning      |
-| ----- | ------------------ | --------------- | --------------- | ------------ |
-| 1     | streikon           | straikon        | strikon         | to strike    |
-| 2     | fleugon            | flaugon         | flugon          | to fly       |
-| 3-i   | drinkon            | drankon         | drunkon         | to drink     |
-| 3-e   | helpon             | halpon          | holpon          | to help      |
-| 4     | nemon              | namon           | nomon           | to take      |
-| 5     | neson              | nason           | neson           | to heal      |
-| 6     | faron              | furon           | faron           | to travel    |
-| 7a    | haiton             | heiton          | haiton          | to be called |
-| 7b    | hlaupon            | hleupon         | hlaupon         | to walk      |
-| 7c-i  | fangon             | fingon          | fangon          | to grab      |
-| 7c-e  | fallon             | fellon          | fallon          | to fall      |
-| 7d    | láton              | léton           | láton           | to let       |
-| 7e-o  | hrópon             | hrépon          | hrópon          | to call      |
-| 7e-ó  | growon             | grewon          | growon          | to grow      |
 
 The past infinitive could also be called "perfect infinitive" e.g. "to have
 done".
