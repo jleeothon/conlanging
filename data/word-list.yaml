@@ -1,9 +1,9 @@
-- entry: '-bár'
+- entry: "-bár"
   pos: Affix
   meaning: adjective suffix, akin to -able.
 - entry: ant-
-  post: Affix
-	meaning: opposite
+  pos: Affix
+  meaning: opposite
 - entry: abgrund
   pos: Noun
   meaning: precipice
@@ -23,12 +23,12 @@
   pos: Noun
   meaning: oak
   tags:
-      - Nature
+    - Nature
 - entry: aikweron
   pos: Noun
   meaning: squirrel
   tags:
-      - Animals
+    - Animals
 - entry: aindagis
   pos: Adverb
   meaning: one day, some day
@@ -39,7 +39,7 @@
   pos: Adjective
   meaning: single, only one
   tags:
-      - Numbers
+    - Numbers
 - entry: air (2)
   pos: Noun
   meaning: reverence, honour
@@ -47,7 +47,7 @@
   pos: Adjective
   meaning: early
   tags:
-      - Time
+    - Time
 - entry: akor
   pos: Noun
   meaning: field
@@ -55,7 +55,7 @@
   pos: Adjective
   meaning: old
   tags:
-      - Descriptions
+    - Descriptions
 - entry: aldor
   pos: Noun
   meaning: age
@@ -69,7 +69,7 @@
   pos: Noun
   meaning: blackbird
   tags:
-      - Animals
+    - Animals
 - entry: and
   pos: Conjunction
   meaning: and
@@ -86,8 +86,8 @@
   pos: Noun
   meaning: apple
   tags:
-      - Nature
-      - Food
+    - Nature
+    - Food
 - entry: ard
   pos: Noun
   meaning: type, kind
@@ -98,12 +98,12 @@
   pos: Noun
   meaning: arm
   tags:
-      - Time
+    - Time
 - entry: aug
   pos: Noun
   meaning: eye
   tags:
-      - Body
+    - Body
 - entry: auk
   pos: Adverb
   meaning: also, too (including)
@@ -111,7 +111,7 @@
   pos: Noun
   meaning: east
   tags:
-      - Geography
+    - Geography
 - entry: avir
   pos: Conjunction
   meaning: but, however
@@ -119,9 +119,9 @@
   pos: Noun
   meaning: evening
   synonyms:
-      - kwild
+    - kwild
   tags:
-      - Time
+    - Time
 - entry: aþol
   pos: Adjective
   meaning: noble
@@ -129,7 +129,7 @@
   pos: Noun
   meaning: leg
   tags:
-      - Body
+    - Body
 - entry: bakon
   pos: Verb
   meaning: to bake (transitive and intransitive)
@@ -148,12 +148,12 @@
   pos: Adjective
   meaning: purple
   tags:
-      - Descriptions
+    - Descriptions
 - entry: bars
   pos: Noun
   meaning: perch
   tags:
-      - Animals
+    - Animals
 - entry: baugjon
   pos: Verb
   meaning: to bend (transitive)
@@ -161,7 +161,7 @@
   pos: Noun
   meaning: tree
   tags:
-      - Plants
+    - Plants
 - entry: bauton
   pos: Verb
   meaning: to beat
@@ -185,22 +185,22 @@
   pos: Noun
   meaning: beaver
   tags:
-      - Animals
+    - Animals
 - entry: bihlastwon
   pos: Verb
   meaning: to annoy, to harass
   see:
-      - hlast
+    - hlast
 - entry: bij
   pos: Noun
   meaning: bee
   tags:
-      - Animals
+    - Animals
 - entry: bikj
   pos: Noun
   meaning: female dog
   tags:
-      - Animals
+    - Animals
 - entry: bikwém
   pos: Adjective
   meaning: comfortable
@@ -237,8 +237,8 @@
   template: strong-7c-i
 - entry: blaut
   pos:
-      - Adjective
-      - Adverb
+    - Adjective
+    - Adverb
   meaning: bare, only, simply
 - entry: blowan
   pos: Verb
@@ -252,7 +252,7 @@
   pos: Adjective
   meaning: blue
   tags:
-      - Descriptions
+    - Descriptions
 - entry: blóm
   pos: Noun
   meaning: flower
@@ -260,12 +260,12 @@
   pos: Noun
   meaning: flower
   tags:
-      - Plants
+    - Plants
 - entry: bohs
   pos: Noun
   meaning: boxwood
   tags:
-      - Plants
+    - Plants
 - entry: bradon
   pos: Verb
   meaning: to cook in a pan
@@ -279,17 +279,17 @@
   pos: Noun
   meaning: breast, chest
   tags:
-      - Body
+    - Body
 - entry: bronn
   pos: Noun
   meaning: fountain, well, wellspring
   tags:
-      - Nature
+    - Nature
 - entry: broþor
   pos: Noun
   meaning: brother
   tags:
-      - Family
+    - Family
 - entry: brámulbärj
   pos: Noun
   meaning: blackberry, raspberry
@@ -297,22 +297,22 @@
   pos: Adjective
   meaning: brown
   tags:
-      - Descriptions
+    - Descriptions
 - entry: brügj
   pos: Noun
   meaning: bridge
   tags:
-      - Civilisation
+    - Civilisation
 - entry: bukk
   pos: Noun
   meaning: buck, male of a mammal
   tags:
-      - Animals
+    - Animals
 - entry: bul
   pos: Noun
   meaning: bull
   tags:
-      - Animals
+    - Animals
 - entry: butins
   pos: Preposition
   meaning: except
@@ -320,28 +320,28 @@
   pos: Noun
   meaning: berry
   tags:
-      - Nature
-      - Food
-      - Plants
+    - Nature
+    - Food
+    - Plants
 - entry: bäst
   pos: Adjective
   meaning: best
   tags:
-      - Descriptions
+    - Descriptions
   see:
-      - gód
+    - gód
 - entry: bätir
   pos: Adjective
   meaning: better
   tags:
-      - Descriptions
+    - Descriptions
   see:
-      - gód
+    - gód
 - entry: bér
   pos: Noun
   meaning: bear
   tags:
-      - Animals
+    - Animals
 - entry: bók (1)
   pos: Noun
   meaning: book
@@ -349,7 +349,7 @@
   pos: Noun
   meaning: beech
   tags:
-      - Nature
+    - Nature
 - entry: bót
   pos: Noun
   meaning: boat
@@ -357,14 +357,14 @@
   pos: Noun
   meaning: day
   tags:
-      - Time
+    - Time
 - entry: dagis
   pos: Adverb
   meaning: during the day
   tags:
-      - Time
+    - Time
   see:
-      - dag
+    - dag
 - entry: dail
   pos: Noun
   meaning: part, portion, fraction
@@ -389,7 +389,7 @@
   pos: Noun
   meaning: animal
   tags:
-      - Animals
+    - Animals
 - entry: dewon
   pos: Verb
   meaning: to die
@@ -430,7 +430,7 @@
   pos: Noun
   meaning: to drift
   tags:
-      - Movement
+    - Movement
 - entry: duhtor
   pos: Noun
   meaning: daughter
@@ -463,22 +463,22 @@
   pos: Noun
   meaning: dove
   tags:
-      - Animals
+    - Animals
 - entry: ebb
   pos: Noun
   meaning: low tide, ebb
   tags:
-      - Nature
+    - Nature
 - entry: ehw
   pos: Noun
   meaning: horse
   tags:
-      - Animals
+    - Animals
 - entry: elh
   pos: Noun
   meaning: elk
   tags:
-      - Animals
+    - Animals
 - entry: emmur
   pos: Noun
   meaning: bucket
@@ -487,7 +487,7 @@
   pos: Noun
   meaning: earth
   tags:
-      - Nature
+    - Nature
 - entry: erþbärj
   pos: Noun
   meaning: strawberry
@@ -500,12 +500,12 @@
   pos: Noun
   meaning: ewe, female sheep
   tags:
-      - Animals
+    - Animals
 - entry: fador
   pos: Noun
   meaning: father
   tags:
-      - Family
+    - Family
 - entry: fagor
   pos: Adjective
   meaning: pretty, beautiful
@@ -517,9 +517,9 @@
   pos: Noun
   meaning: today
   tags:
-      - Time
+    - Time
   see:
-      - dag
+    - dag
 - entry: fangon
   pos: Verb
   meaning: to capture, to catch
@@ -528,36 +528,36 @@
   pos: Noun
   meaning: this evening
   tags:
-      - Time
+    - Time
   see:
-      - kwild
+    - kwild
 - entry: fanmorgon
   pos: Noun
   meaning: tomorrow, in the morning
   tags:
-      - Time
+    - Time
 - entry: fannaht
   pos: Noun
   meaning: this night
   tags:
-      - Time
+    - Time
   see:
-      - naht
+    - naht
 - entry: farh
   pos: Noun
   meaning: piglet, young pig
   tags:
-      - Animals
+    - Animals
 - entry: farn
   pos: Noun
   meaning: fern
   tags:
-      - Plants
+    - Plants
 - entry: farw
   pos: Noun
   meaning: colour
   tags:
-      - Descriptions
+    - Descriptions
 - entry: faron
   pos: Verb
   meaning: to drive
@@ -569,22 +569,22 @@
   pos: Adjective
   meaning: few, little
   tags:
-      - Descriptions
+    - Descriptions
 - entry: feh
   pos: Noun
   meaning: cattle
   tags:
-      - Animals
+    - Animals
 - entry: feuhtj
   pos: Noun
   meaning: spruce
   tags:
-      - Nature
+    - Nature
 - entry: feþur
   pos: Noun
   meaning: feather
   tags:
-      - Animals
+    - Animals
 - entry: fijend
   pos: Noun
   meaning: enemy, foe
@@ -592,7 +592,7 @@
   pos: Adjective
   meaning: much
   tags:
-      - Descriptions
+    - Descriptions
 - entry: findon
   pos: Verb
   meaning: to find
@@ -606,12 +606,12 @@
   meaning: to make disappear
   template: weak-jun
   see:
-      - förswindun
+    - förswindun
 - entry: fisk
   pos: Noun
   meaning: fish
   tags:
-      - Animals
+    - Animals
 - entry: flaisk
   pos: Noun
   meaning: meat
@@ -619,17 +619,17 @@
   pos: Noun
   meaning: flea
   tags:
-      - Animals
+    - Animals
 - entry: flaum
   pos: Noun
   meaning: flood
   tags:
-      - Nature
+    - Nature
 - entry: fleug
   pos: Noun
   meaning: fly
   tags:
-      - Animals
+    - Animals
 - entry: fleugon
   pos: Verb
   meaning: to fly
@@ -642,7 +642,7 @@
   pos: Noun
   meaning: flounder, flatfish
   tags:
-      - Animals
+    - Animals
 - entry: ahw
   pos: Noun
   meaning: river
@@ -651,7 +651,7 @@
   pos: Noun
   meaning: flood, river (poetic), high tide
   tags:
-      - Nature
+    - Nature
 - entry: flówon
   pos: Verb
   meaning: to flow
@@ -663,7 +663,7 @@
   pos: Noun
   meaning: trout
   tags:
-      - Animals
+    - Animals
 - entry: forþ
   pos: Adverb
   meaning: forward, forth
@@ -696,25 +696,25 @@
   meaning: frog
 - entry: frust
   pos:
-      - Noun
+    - Noun
   meaning: frost
   tags:
-      - Nature
+    - Nature
 - entry: frów
   pos: Adjective
   meaning: early
   tags:
-      - Time
+    - Time
 - entry: fugol
   pos: Noun
   meaning: bird
   tags:
-      - Animals
+    - Animals
 - entry: fuhs
   pos: Noun
   meaning: fox
   tags:
-      - Animals
+    - Animals
 - entry: fulgwon
   pos: Verb
   meaning: to follow
@@ -722,7 +722,7 @@
   pos: Noun
   meaning: foal, young horse
   tags:
-      - Animals
+    - Animals
 - entry: fórraidjon
   pos: Verb
   meaning: to prepare
@@ -752,17 +752,17 @@
   pos: Noun
   meaning: goat
   tags:
-      - Animals
+    - Animals
 - entry: gans
   pos: Noun
   meaning: goose
   tags:
-      - Animals
+    - Animals
 - entry: gauk
   pos: Noun
   meaning: cuckoo
   tags:
-      - Animals
+    - Animals
 - entry: geld
   pos: Noun
   meaning: money
@@ -774,12 +774,12 @@
   pos: Adjective
   meaning: yellow
   tags:
-      - Descriptions
+    - Descriptions
 - entry: gelwraud
   pos: Adjective
   meaning: orange
   tags:
-      - Descriptions
+    - Descriptions
 - entry: geton
   pos: Verb
   meaning: to get, to receive
@@ -799,17 +799,17 @@
   pos: Noun
   meaning: yesterday
   tags:
-      - Time
+    - Time
 - entry: gistirkwild
   pos: Noun
   meaning: last evening
   tags:
-      - Time
+    - Time
 - entry: gistirnaht
   pos: Noun
   meaning: last night
   tags:
-      - Time
+    - Time
 - entry: giwar
   pos: Adjective
   meaning: aware
@@ -827,7 +827,7 @@
   pos: Adjective
   meaning: big
   tags:
-      - Descriptions
+    - Descriptions
 - entry: gravon
   pos: Verb
   meaning: to dig
@@ -848,22 +848,22 @@
   pos: Adjective
   meaning: grey
   tags:
-      - Descriptions
+    - Descriptions
 - entry: grőn
   pos: Adjective
   meaning: green
   tags:
-      - Descriptions
+    - Descriptions
 - entry: gäldjon
   pos: Verb
   meaning: to be valid
   see:
-      - geldun
+    - geldun
 - entry: gód
   pos: Adjective
   meaning: good
   tags:
-      - Descriptions
+    - Descriptions
 - entry: hail
   pos: Adjective
   meaning: whole, intact, unhurt
@@ -875,7 +875,7 @@
   pos: Noun
   meaning: pike
   tags:
-      - Animals
+    - Animals
 - entry: hald
   pos: Noun
   meaning: hold, grasp
@@ -890,12 +890,12 @@
   pos: Noun
   meaning: hen, rooster, guineafowl
   tags:
-      - Animals
+    - Animals
 - entry: hand
   pos: Noun
   meaning: hand
   tags:
-      - Body
+    - Body
 - entry: handlár
   pos: Noun
   meaning: merchant
@@ -910,7 +910,7 @@
   pos: Noun
   meaning: fall, autumn, harvest
   tags:
-      - Time
+    - Time
 - entry: hauwon
   pos: Verb
   meaning: to hew, to chop
@@ -919,7 +919,7 @@
   pos: Noun
   meaning: male goat
   tags:
-      - Animals
+    - Animals
 - entry: hebbion
   pos: Verb
   meaning: to lift
@@ -932,7 +932,7 @@
   pos: Noun
   meaning: deer, stag
   tags:
-      - Animals
+    - Animals
 - entry: hert
   pos: Noun
   meaning: heart
@@ -940,12 +940,12 @@
   pos: Noun
   meaning: sky
   tags:
-      - Nature
+    - Nature
 - entry: hind
   pos: Noun
   meaning: female deer
   tags:
-      - Animals
+    - Animals
 - entry: hladon
   pos: Verb
   meaning: to accumulate, to increase in something
@@ -957,19 +957,19 @@
   pos: Noun
   meaning: burden
   see:
-      - bihlastwun
-      - hlastian
-      - hlastig
+    - bihlastwun
+    - hlastian
+    - hlastig
 - entry: hlastian
   pos: Verb
   meaning: to burden
   see:
-      - hlast
+    - hlast
 - entry: hlastig
   pos: Verb
   meaning: annoying
   see:
-      - hlast
+    - hlast
 - entry: hlaupon
   pos: Verb
   meaning: to walk
@@ -1001,7 +1001,7 @@
   pos: Noun
   meaning: wood, forest (poetic)
   tags:
-      - Nature
+    - Nature
 - entry: hragon
   pos: Verb
   meaning: to jut out, to protude, to stand out
@@ -1010,7 +1010,7 @@
   pos: Noun
   meaning: heron
   tags:
-      - Animals
+    - Animals
 - entry: hreggion
   pos: Verb
   meaning: to incite, to excite, to
@@ -1031,7 +1031,7 @@
   pos: Noun
   meaning: horse
   tags:
-      - Animals
+    - Animals
 - entry: hróm
   pos: Noun
   meaning: fame
@@ -1045,7 +1045,7 @@
   pos: Noun
   meaning: dog
   tags:
-      - Animals
+    - Animals
 - entry: hungrwon
   pos: Verb
   meaning: to hunger
@@ -1056,8 +1056,8 @@
   pos: Noun
   meaning: honey
   tags:
-      - Animals
-      - Food
+    - Animals
+    - Food
 - entry: hvis
   pos: Conjunction
   meaning: if
@@ -1078,12 +1078,12 @@
   pos: Adjective
   meaning: white
   tags:
-      - Descriptions
+    - Descriptions
 - entry: hwelp
   pos: Noun
   meaning: welp, young mammal
   tags:
-      - Animals
+    - Animals
 - entry: hwervon
   pos: Verb
   meaning: to throw
@@ -1092,22 +1092,22 @@
   pos: Noun
   meaning: weasel, ermine
   tags:
-      - Animals
+    - Animals
 - entry: hás
   pos: Noun
   meaning: hare
   tags:
-      - Animals
+    - Animals
 - entry: hän
   pos: Noun
   meaning: female chicken
   tags:
-      - Animals
+    - Animals
 - entry: häwj
   pos: Noun
   meaning: hay
   tags:
-      - Plants
+    - Plants
 - entry: hód
   pos: Noun
   meaning: hood, head covering
@@ -1115,7 +1115,7 @@
   pos: Noun
   meaning: holly
   tags:
-      - Plants
+    - Plants
 - entry: hűrwon
   pos: Verb
   meaning: to hire
@@ -1123,12 +1123,12 @@
   pos: Noun
   meaning: hedgehog
   tags:
-      - Animals
+    - Animals
 - entry: imbij
   pos: Noun
   meaning: beeswarm
   tags:
-      - Animals
+    - Animals
 - entry: inboron
   pos: Adjective
   meaning: innate
@@ -1136,22 +1136,22 @@
   pos: Adjective
   meaning: young
   tags:
-      - Descriptions
+    - Descriptions
 - entry: kak
   pos: Noun
   meaning: cake
   tags:
-      - Food
+    - Food
 - entry: kalv
   pos: Noun
   meaning: calf
   tags:
-      - Animals
+    - Animals
 - entry: kat
   pos: Noun
   meaning: cat
   tags:
-      - Animals
+    - Animals
 - entry: kaupjon
   pos: Verb
   meaning: to buy
@@ -1163,7 +1163,7 @@
   pos: Noun
   meaning: chicken
   tags:
-      - Animals
+    - Animals
 - entry: keuson
   pos: Verb
   meaning: to choose
@@ -1172,7 +1172,7 @@
   pos: Adjective
   meaning: small
   tags:
-      - Descriptions
+    - Descriptions
 - entry: klaiþ
   pos: Noun
   meaning: cloth, clothing, clothes
@@ -1193,12 +1193,12 @@
   pos: Noun
   meaning: knee
   tags:
-      - Body
+    - Body
 - entry: knuk
   pos: Noun
   meaning: bone
   tags:
-      - Time
+    - Time
 - entry: kopp
   pos: Noun
   meaning: head
@@ -1206,7 +1206,7 @@
   pos: Noun
   meaning: seed, stone (of fruit)
   tags:
-      - Plants
+    - Plants
 - entry: krab
   pos: Noun
   meaning: crab
@@ -1217,17 +1217,17 @@
   pos: Noun
   meaning: crane
   tags:
-      - Animals
+    - Animals
 - entry: kuss
   pos: Noun
   meaning: kiss
   see:
-      - küssjun
+    - küssjun
 - entry: kuw
   pos: Noun
   meaning: cow
   tags:
-      - Animals
+    - Animals
 - entry: kwemun an
   pos: Verb
   meaning: arrive
@@ -1241,16 +1241,16 @@
   meaning: lively
 - entry: kwik
   pos:
-      - Adjective
-      - Adverb
+    - Adjective
+    - Adverb
   meaning: quick, lively, of short duration
 - entry: kwild
   pos: Noun
   meaning: evening
   synonyms:
-      - kwild
+    - kwild
   tags:
-      - Time
+    - Time
 - entry: káp
   pos: Noun
   meaning: cape
@@ -1258,12 +1258,12 @@
   pos: Verb
   meaning: to kiss
   see:
-      - kuss
+    - kuss
 - entry: lahs
   pos: Noun
   meaning: salmon
   tags:
-      - Animals
+    - Animals
 - entry: lairion
   pos: Verb
   meaning: to teach
@@ -1272,37 +1272,37 @@
   pos: Noun
   meaning: lark
   tags:
-      - Animals
+    - Animals
 - entry: lamb
   pos: Noun
   meaning: lamb
   tags:
-      - Animals
+    - Animals
 - entry: lat
   pos:
-      - Adjective
-      - Adverb
+    - Adjective
+    - Adverb
   meaning: late
   tags:
-      - Time
+    - Time
 - entry: latir
   pos:
-      - Adjective
-      - Adverb
+    - Adjective
+    - Adverb
   meaning: later
   tags:
-      - Time
+    - Time
   see:
-      - lat
+    - lat
 - entry: latist
   pos:
-      - Adjective
-      - Adverb
+    - Adjective
+    - Adverb
   meaning: latest, last
   tags:
-      - Time
+    - Time
   see:
-      - lat
+    - lat
 - entry: laon
   pos: Noun
   meaning: wage, reward, pay
@@ -1316,7 +1316,7 @@
   pos: Noun
   meaning: body
   tags:
-      - Time
+    - Time
 - entry: leivon
   pos: Verb
   meaning: to remain
@@ -1343,7 +1343,7 @@
   pos: Noun
   meaning: lynx
   tags:
-      - Animals
+    - Animals
 - entry: lust
   pos: Noun
   meaning: desire
@@ -1358,12 +1358,12 @@
   pos: Noun
   meaning: love
   tags:
-      - Feelings
+    - Feelings
 - entry: lütt
   pos: Adjective
   meaning: small
   tags:
-      - Descriptions
+    - Descriptions
 - entry: luvian
   pos: Verb
   meaning: to love
@@ -1371,16 +1371,16 @@
   pos: Adjective
   meaning: more
   tags:
-      - Descriptions
+    - Descriptions
   see:
-      - maist
+    - maist
 - entry: maist
   pos: Adjective
   meaning: most
   tags:
-      - Descriptions
+    - Descriptions
   see:
-      - mair
+    - mair
 - entry: malm
   pos: Noun
   meaning: ore
@@ -1392,12 +1392,12 @@
   pos: Noun
   meaning: maple
   tags:
-      - Nature
+    - Nature
 - entry: marþur
   pos: Noun
   meaning: marten
   tags:
-      - Animals
+    - Animals
 - entry: melkon
   pos: Verb
   meaning: to milk
@@ -1414,51 +1414,51 @@
   pos: Noun
   meaning: ant
   tags:
-      - Animals
+    - Animals
 - entry: midil
   pos: Noun
   meaning: middle
   tags:
-      - Descriptions
+    - Descriptions
 - entry: midirdag
   pos: Noun
   meaning: midday
   tags:
-      - Time
+    - Time
 - entry: midirdagis
   pos: Adverb
   meaning: at noon
   tags:
-      - Time
+    - Time
 - entry: midirnaht
   pos: Noun
   meaning: midnight
   tags:
-      - Time
+    - Time
 - entry: midd
   pos: Noun
   meaning: middle, center
   tags:
-      - Descriptions
+    - Descriptions
 - entry: mikil
   pos: Adjective
   meaning: much, many, big
   tags:
-      - Descriptions
+    - Descriptions
 - entry: mindir
   pos: Adjective
   meaning: less
   tags:
-      - Descriptions
+    - Descriptions
   see:
-      - mindist
+    - mindist
 - entry: mindist
   pos: Adjective
   meaning: least
   tags:
-      - Descriptions
+    - Descriptions
   see:
-      - mindir
+    - mindir
 - entry: mislukuon
   pos: Verb
   meaning: to fail
@@ -1466,22 +1466,22 @@
   pos: Noun
   meaning: mother
   tags:
-      - Family
+    - Family
 - entry: morgunis
   pos: Noun
   meaning: in the mornings
   tags:
-      - Time
+    - Time
 - entry: morgon
   pos: Noun
   meaning: morning
   tags:
-      - Time
+    - Time
 - entry: märhj
   pos: Noun
   meaning: female horse
   tags:
-      - Animals
+    - Animals
 - entry: múl
   pos: Noun
   meaning: jaws
@@ -1489,14 +1489,14 @@
   pos: Noun
   meaning: mouse
   tags:
-      - Animals
+    - Animals
 - entry: naht
   pos: Noun
   meaning: night
   tags:
-      - Time
+    - Time
   see:
-      - nahtis
+    - nahtis
 - entry: nat
   pos: Adjective
   meaning: wet, moist
@@ -1517,7 +1517,7 @@
   pos: Noun
   meaning: nest
   tags:
-      - Animals
+    - Animals
 - entry: neson
   pos: Verb
   meaning: to heal (intransitive)
@@ -1529,7 +1529,7 @@
   pos: Noun
   meaning: north
   tags:
-      - Geography
+    - Geography
 - entry: nu
   pos: Adverb
   meaning: now
@@ -1544,8 +1544,8 @@
   pos: Noun
   meaning: fruit
   tags:
-      - Plants
-      - Food
+    - Plants
+    - Food
 - entry: of
   pos: Conjunction
   meaning: or
@@ -1556,12 +1556,12 @@
   pos: Noun
   meaning: ox, castrated bull
   tags:
-      - Animals
+    - Animals
 - entry: otur
   pos: Noun
   meaning: otter
   tags:
-      - Animals
+    - Animals
 - entry: penning (pänning)
   pos: Noun
   meaning: coin
@@ -1571,8 +1571,8 @@
   template: strong-5
 - entry: plutsleik
   pos:
-      - Adjective
-      - Adverb
+    - Adjective
+    - Adverb
   meaning: sudden, unexpected
 - entry: plúm
   pos: Noun
@@ -1590,7 +1590,7 @@
   pos: Noun
   meaning: peafowl
   tags:
-      - Animals
+    - Animals
 - entry: raid
   pos: Adjective
   meaning: ready
@@ -1601,17 +1601,17 @@
   pos: Noun
   meaning: deer
   tags:
-      - Animals
+    - Animals
 - entry: ramm
   pos: Noun
   meaning: ram, male sheep
   tags:
-      - Animals
+    - Animals
 - entry: raud
   pos: Adjective
   meaning: red
   tags:
-      - Descriptions
+    - Descriptions
 - entry: reidon
   pos: Verb
   meaning: to ride
@@ -1620,12 +1620,12 @@
   pos: Noun
   meaning: kingdom, government, realm, authority
   see:
-      - reikj (2)
+    - reikj (2)
 - entry: reikj (2)
   pos: Adjective
   meaning: rich
   see:
-      - reikj (1)
+    - reikj (1)
 - entry: reison
   pos: Verb
   meaning: to travel, to increase (intransitive)
@@ -1676,7 +1676,7 @@
   pos: Noun
   meaning: seal
   tags:
-      - Animals
+    - Animals
 - entry: selv
   pos: Noun
   meaning: self
@@ -1758,12 +1758,12 @@
   pos: Noun
   meaning: sheep
   tags:
-      - Animals
+    - Animals
 - entry: skóh
   pos: Noun
   meaning: shoe
   tags:
-      - Clothing
+    - Clothing
 - entry: slahan för
   pos: Verb
   meaning: to suggest
@@ -1792,7 +1792,7 @@
   pos: Noun
   meaning: smelt
   tags:
-      - Animals
+    - Animals
 - entry: snakuon
   pos: Verb
   meaning: to chat
@@ -1802,14 +1802,14 @@
   template: strong-1
 - entry: snell
   pos:
-      - Adjective
-      - Adverb
+    - Adjective
+    - Adverb
   meaning: fast
 - entry: sokk
   pos: Noun
   meaning: sock
   tags:
-      - Clothing
+    - Clothing
 - entry: spanon
   pos: Verb
   meaning: to stretch, to span
@@ -1864,7 +1864,7 @@
   pos: Noun
   meaning: bull
   tags:
-      - Animals
+    - Animals
 - entry: stinkon
   pos: Verb
   meaning: to stink
@@ -1873,7 +1873,7 @@
   pos: Noun
   meaning: stork
   tags:
-      - Animals
+    - Animals
 - entry: streidon
   pos: Verb
   meaning: to quarrel
@@ -1890,7 +1890,7 @@
   pos: Noun
   meaning: male deer
   tags:
-      - Animals
+    - Animals
 - entry: ställjon
   pos: Verb
   meaning: to put, to place
@@ -1898,12 +1898,12 @@
   pos: Noun
   meaning: herd of horses
   tags:
-      - Animals
+    - Animals
 - entry: stór
   pos: Adjective
   meaning: big
   tags:
-      - Descriptions
+    - Descriptions
 - entry: störj
   pos: Noun
   meaning: sturgeon
@@ -1911,7 +1911,7 @@
   pos: Noun
   meaning: summer
   tags:
-      - Time
+    - Time
 - entry: sundir
   pos: Preposition
   meaning: without
@@ -1922,12 +1922,12 @@
   pos: Noun
   meaning: south
   tags:
-      - Geography
+    - Geography
 - entry: suw
   pos: Noun
   meaning: sow, female pig
   tags:
-      - Animals
+    - Animals
 - entry: swaipon
   pos: Verb
   meaning: to sweep
@@ -1936,7 +1936,7 @@
   pos: Noun
   meaning: swallow
   tags:
-      - Animals
+    - Animals
 - entry: swalow
   pos: Noun
   meaning: swallow (bird)
@@ -1947,17 +1947,17 @@
   pos: Noun
   meaning: swan
   tags:
-      - Animals
+    - Animals
 - entry: swart
   pos: Adjective
   meaning: black
   tags:
-      - Descriptions
+    - Descriptions
 - entry: swaron
   pos: Verb
   meaning: to swear (to make a solemn promise)
   tags:
-      - Language
+    - Language
   template: strong-6
 - entry: swaïgian
   pos: Verb
@@ -1966,7 +1966,7 @@
   pos: Noun
   meaning: swine, pig
   tags:
-      - Animals
+    - Animals
 - entry: swellon
   pos: Verb
   meaning: to swell
@@ -1979,7 +1979,7 @@
   pos: Noun
   meaning: brother
   tags:
-      - Family
+    - Family
 - entry: swindon
   pos: Verb
   meaning: to dwindle
@@ -2015,25 +2015,25 @@
   meaning: between, among
 - entry: and-
   pos:
-      - Affix
+    - Affix
   meaning: prefix for verbs or nouns meaning "against", or indicating "removal"
 - entry: andgäldj
   pos: Noun
   meaning: compensation, recompense
   see:
-      - and-
+    - and-
 - entry: andgäldjon
   pos: Verb
   meaning: to recompense, to compensate
   see:
-      - gäldjun
-      - and-
+    - gäldjun
+    - and-
 - entry: andkwemmon
   pos: Verb
   meaning: to leave, to flee
   see:
-      - kwemmun
-      - and-
+    - kwemmun
+    - and-
 - entry: orsak
   pos: Noun
   meaning: cause
@@ -2058,12 +2058,12 @@
   meaning: to awaken (intransitive)
   template: strong-6
   see:
-      - wäkiun
+    - wäkiun
 - entry: wald
   pos: Noun
   meaning: forest
   tags:
-      - Nature
+    - Nature
 - entry: wardon
   pos: Verb
   meaning: to wait, to guard, to keep watch
@@ -2074,7 +2074,7 @@
   pos: Noun
   meaning: spring
   tags:
-      - Time
+    - Time
 - entry: weipon
   pos: Verb
   meaning: to wipe
@@ -2097,7 +2097,7 @@
   pos: Noun
   meaning: west
   tags:
-      - Geography
+    - Geography
 - entry: wind
   pos: Noun
   meaning: wind
@@ -2105,41 +2105,41 @@
   pos: Noun
   meaning: winter
   tags:
-      - Time
+    - Time
 - entry: wirsir
   pos: Adjective
   meaning: worse
   tags:
-      - Descriptions
+    - Descriptions
   see:
-      - übil
+    - übil
 - entry: wirst
   pos: Adjective
   meaning: worst
   tags:
-      - Descriptions
+    - Descriptions
   see:
-      - übil
+    - übil
 - entry: wisul
   pos: Noun
   meaning: weasel
   tags:
-      - Animals
+    - Animals
 - entry: wiþir
   pos: Adverb
   meaning: >-
-      further, indicates continuation of action e.g. "gán wiþir" (to continue to
-      go, to go further)
+    further, indicates continuation of action e.g. "gán wiþir" (to continue to
+    go, to go further)
 - entry: wolf
   pos: Noun
   meaning: wolf
   tags:
-      - Animals
+    - Animals
 - entry: worm
   pos: Noun
   meaning: worm
   tags:
-      - Animals
+    - Animals
 - entry: wort
   pos: Noun
   meaning: plant
@@ -2161,17 +2161,17 @@
   pos: Noun
   meaning: eel
   tags:
-      - Animals
+    - Animals
 - entry: áp
   pos: Noun
   meaning: ape
   tags:
-      - Animals
+    - Animals
 - entry: übil
   pos: Adjective
   meaning: bad
   tags:
-      - Descriptions
+    - Descriptions
 - entry: üm
   pos: Preposition
   meaning: around
@@ -2179,12 +2179,12 @@
   pos: Conjunction
   meaning: because
   see:
-      - üm
+    - üm
 - entry: þahs
   pos: Noun
   meaning: badger
   tags:
-      - Animals
+    - Animals
 - entry: þauh
   pos: Adverb
   meaning: though, however, nonetheless
@@ -2198,7 +2198,7 @@
   pos: Noun
   meaning: village
   tags:
-      - Civilisation
+    - Civilisation
 - entry: þorsk
   pos: Noun
   meaning: cod
@@ -2206,12 +2206,12 @@
   pos: Noun
   meaning: to press
   see:
-      - þrinhwun
+    - þrinhwun
 - entry: þrast
   pos: Noun
   meaning: thrush (bird)
   tags:
-      - Animals
+    - Animals
 - entry: þringon
   pos: Verb
   meaning: to press
@@ -2220,7 +2220,7 @@
   pos: Adjective
   meaning: urgent
   see:
-      - þrinhwun
+    - þrinhwun
 - entry: þrinhwon
   pos: Verb
   meaning: to press; to be urgent
