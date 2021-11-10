@@ -2,18 +2,14 @@
 
 Design philosophy:
 
--   based on Proto-Germanic,
--   morphologically less complex than Proto-Germanic but more complex than
-    modern Germanic languages,
--   complex but highly symmetric,
--   I have to like it.
+-   based on some point between Proto-Germanic and Proto-West-Germanic,
+-   morphologically less complex than Proto-Germanic,
+-   complex but highly symmetric.
 
 Design guidelines:
 
--   biased towards Low Saxon,
 -   no Nasal-Spirant Law and no Second Consonant Shift,
--   North Germanic loans integrated when they help find symmetry,
--   pro-drop although without 1:1 perfect correspondences of ending and
-    person-number.
+-   North Germanic grammatical and lexical loans integrated when they help find symmetry,
+-   pro-drop.
 
-[Word lists](/word-list/index.md)
+[Grammar](grammar/full-grammar.md)
