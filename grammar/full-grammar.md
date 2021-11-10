@@ -53,10 +53,10 @@ jj, ww_
 
 ⟨g⟩ can be realised as /g/ everywhere, but is recommended as:
 
--   /g/ initially,
--   /gː/ when written ⟨gg⟩
--   /ɣ/ medially between sonorants,
--   /x/ medially otherwise and finally.
+- /g/ initially,
+- /gː/ when written ⟨gg⟩
+- /ɣ/ medially between sonorants,
+- /x/ medially otherwise and finally.
 
 ## General grammar
 
@@ -68,28 +68,28 @@ accusative declensions.
 
 Nouns have strong and weak paradigms.
 
--   The weak paradigm is used with a determiner.
--   The strong noun paradigm is used when a determiner is left out.
+- The weak paradigm is used with a determiner.
+- The strong noun paradigm is used when a determiner is left out.
 
 Adjectives do not decline in the predicative form. Otherwise they have three
 declension paradigms.
 
--   When preceding a noun, adjectives decline with a weak paradigm (e.g. _þe
-    rauda apol_ "the red apple").
--   Some adjectives can work as function as determiners, and when so, decline as
-    determiners (e.g. _þe fawa aplan_ "the few apples").
--   When an adjective takes the places of a noun, it declines with a strong
-    paradigm (e.g. _þe rauda_ "the red ones").
+- When preceding a noun, adjectives decline with a weak paradigm (e.g. _þe
+  rauda apol_ "the red apple").
+- Some adjectives can work as function as determiners, and when so, decline as
+  determiners (e.g. _þe fawa aplan_ "the few apples").
+- When an adjective takes the places of a noun, it declines with a strong
+  paradigm (e.g. _þe rauda_ "the red ones").
 
 Most adjectives have comparative and superlative forms.
 
 Verbs conjugate for person, number, tense, and mood.
 
--   There are three persons, and two numbers (singular and plural).
--   The moods are: indicative, subjunctive, conditional, imperative.
--   Non-composite tenses are: present, preterite (both in the indicative). Many
-    composite forms are possible.
--   Non-finite forms include: infinitive, present participle, past participle.
+- There are three persons, and two numbers (singular and plural).
+- The moods are: indicative, subjunctive, conditional, imperative.
+- Non-composite tenses are: present, preterite (both in the indicative). Many
+  composite forms are possible.
+- Non-finite forms include: infinitive, present participle, past participle.
 
 There are two main regular verb systems: weak and strong. There are irregular
 verbs.
@@ -105,10 +105,10 @@ Adverbs usually appear before verbs, but can also follow them. The adverb _ne_
 
 All noun phrases must be "complete". A noun phrase is complete when:
 
--   (a) it has a determiner,
--   (b) or has no determiner but an strongly declined noun,
--   (c) or has no determiner but a strongly declined adjective without a noun,
--   (d) or is a pronoun.
+- (a) it has a determiner,
+- (b) or has no determiner but an strongly declined noun,
+- (c) or has no determiner but a strongly declined adjective without a noun,
+- (d) or is a pronoun.
 
 For the acccusative singular of the next paradigms, _-am_ is the animate ending,
 and _-at_ is the inanimate.
@@ -158,10 +158,10 @@ weakly-inflected nouns.
 
 They are any of:
 
--   definite and indefinite articles,
--   demonstratives,
--   quantifiers,
--   numerals.
+- definite and indefinite articles,
+- demonstratives,
+- quantifiers,
+- numerals.
 
 The **definite articles** are:
 
@@ -250,10 +250,10 @@ pronoun**</span> is inflected like _"ain"_:
 Some adjectives can function as **quantifiers** and follow the [determiner
 paradigm]. For example:
 
--   _all_ "all",
--   _mänig_ "many"
--   _sum_ "some"
--   _faw_ "few".
+- _all_ "all",
+- _mänig_ "many"
+- _sum_ "some"
+- _faw_ "few".
 
 The **demonstrative pronouns** and **demonstrative articles** (identical) are:
 
@@ -475,20 +475,20 @@ Strong verbs follow an ablaut pattern. There are several ablaut patterns:
 Here are some examples; each verb is provided in present and past infinitive,
 and past participle:
 
--   _streikan-straikan-strikun_ (to strike),
--   _fleugan-flaugan-flugun_ (to fly),
--   _helpan-halpan-holpun_ (to help),
--   _bindan-bandan-bundun_ (to bind).
--   _geban-gaban-gebun_ (to give),
--   _sitan-satan-setun_ (to sit),
--   _faran-furan-farun_ (to travel),
--   _swaran-swuran-swaran_ (to swear),
--   _haitan-heitan-haitun_ (to be named),
--   _hlaupan-hleupan-hlaupun_ (to walk),
--   _fallan-fellan-fallun_ (to fall),
--   _fangan-fingan-fagun_ (to grasp),
--   _látan-létan-látun_ (to let),
--   _hrópan-hrépan-hrópun_ (to call).
+- _streikan-straikan-strikun_ (to strike),
+- _fleugan-flaugan-flugun_ (to fly),
+- _helpan-halpan-holpun_ (to help),
+- _bindan-bandan-bundun_ (to bind).
+- _geban-gaban-gebun_ (to give),
+- _sitan-satan-setun_ (to sit),
+- _faran-furan-farun_ (to travel),
+- _swaran-swuran-swaran_ (to swear),
+- _haitan-heitan-haitun_ (to be named),
+- _hlaupan-hleupan-hlaupun_ (to walk),
+- _fallan-fellan-fallun_ (to fall),
+- _fangan-fingan-fagun_ (to grasp),
+- _látan-létan-látun_ (to let),
+- _hrópan-hrépan-hrópun_ (to call).
 
 Note that the preterite of strong verbs does not distinguish first and third
 persons. Without context, the first person is assumed.
@@ -497,10 +497,10 @@ persons. Without context, the first person is assumed.
 
 Regular weak verbs can be distinguished according to their endings:
 
--   weak verbs ending in _-ion_ (causative),
--   weak verbs ending in _-ilon_ (frequentative),
--   weak verbs ending in _-non_ (inchoative),
--   weak verbs ending in _-uon_ (other).
+- weak verbs ending in _-ion_ (causative),
+- weak verbs ending in _-ilon_ (frequentative),
+- weak verbs ending in _-non_ (inchoative),
+- weak verbs ending in _-uon_ (other).
 
 ### Rückumlaut verbs
 
@@ -596,27 +596,27 @@ intransitive from a transitive verb.
 
 The consonant alternations are:
 
--   þ > d
--   s > r
--   h > g
+- þ > d
+- s > r
+- h > g
 
 Examples include:
 
--   _leiþan_ (to undergo) > _läidian_ (to lead)
--   _beugan_ (to bend, intr.) > _bäugian_ (to bend sth.)
--   _drinkan_ (to drink) > _dränkian_ (to make drink)
--   _smertan_ (to hurt, intr.) > _smärtian_ (to cause pain)
--   _hladan_ (to accumulate) > _hlődian_ (to load sth. into sth.)
--   _fallan_ (to fall) > _fällian_ (to fell)
+- _leiþan_ (to undergo) > _läidian_ (to lead)
+- _beugan_ (to bend, intr.) > _bäugian_ (to bend sth.)
+- _drinkan_ (to drink) > _dränkian_ (to make drink)
+- _smertan_ (to hurt, intr.) > _smärtian_ (to cause pain)
+- _hladan_ (to accumulate) > _hlődian_ (to load sth. into sth.)
+- _fallan_ (to fall) > _fällian_ (to fell)
 
 #### Prefixes
 
--   **fór**: before
--   **after**: after
--   **fer**: start to
--   **fir**: wrong
--   **or**:
--   **in**: in
+- **fór**: before
+- **after**: after
+- **fer**: start to
+- **fir**: wrong
+- **or**:
+- **in**: in
 
 ### TO DO
 
@@ -690,10 +690,10 @@ exceptions. These are the patterns:
 
 Note the parallel between the present and past of classes:
 
--   1 and 7a,
--   2 and 7b,
--   3-i and 7c-i,
--   3-e and 7c-e.
+- 1 and 7a,
+- 2 and 7b,
+- 3-i and 7c-i,
+- 3-e and 7c-e.
 
 Note that the preterite of strong verbs does not distinguish first and third
 persons. Without context, the first person can be assumed.
@@ -793,11 +793,11 @@ For example _raudnon_ "to redden":
 
 Some commonalities of these verbs are:
 
--   In the present:
-    -   First person sg. has no ending.
-    -   Third person pl. has a -d or -t ending.
--   In the preterite:
-    -   First and third person have no ending.
+- In the present:
+  - First person sg. has no ending.
+  - Third person pl. has a -d or -t ending.
+- In the preterite:
+  - First and third person have no ending.
 
 To be:
 
@@ -1043,7 +1043,7 @@ To own:
 
 Missing:
 
--   buwon / buwdun??? (to live)
+- buwon / buwdun??? (to live)
 
 ### Preterite-present verbs
 
@@ -1272,8 +1272,8 @@ Prepositions and advebs of place:
 
 Pairs of prepositions:
 
--   um (around), üm (for the sake of, with the intention to)
--   for (for), för (because of)
+- um (around), üm (for the sake of, with the intention to)
+- for (for), för (because of)
 
 ## Conjunctions
 
@@ -1287,45 +1287,45 @@ Basic conjunctions
 The simplest subordinating conjunction is _at_, mostly equivalent to english
 "that". E.g.
 
--   _Þänkeo at skolen onnon þen kokueda laukan þein._ "I think that they will
-    like your cooked leeks."
+- _Þänkeo at skolen onnon þen kokueda laukan þein._ "I think that they will
+  like your cooked leeks."
 
 Interrogative (hw-) pronouns and pro-adverbs also to coordinate phrases. For
 example:
 
--   _Þe feld hwar þe skáp at þet gras._ "The field where the sheep at the
-    grass."
--   _Þe mánoþ hwan blómai farskeinen._ "The month when the flowers appear."
+- _Þe feld hwar þe skáp at þet gras._ "The field where the sheep at the
+  grass."
+- _Þe mánoþ hwan blómai farskeinen._ "The month when the flowers appear."
 
 Conjunctions can be derived from prepositions by following with the
 subordinating conjunction _at_. Some examples are:
 
--   för, för at: reason
--   üm, üm at: intention
--   aftir, aftir at: after
--   fór, fór at: before
+- för, för at: reason
+- üm, üm at: intention
+- aftir, aftir at: after
+- fór, fór at: before
 
 ## Sentence building
 
 Positive yes-no questions can be built by starting the question with a verb
 followed by _ne_. Example:
 
--   Etes ne þen krabban? _Do you eat crabs?_
+- Etes ne þen krabban? _Do you eat crabs?_
 
 They are answered by: _ja_ or _ne_.
 
 Negative yes-no questions can be built by start the question with the negated
 verb followed by _jah_.
 
--   Ne etes jah þen krabban? _Don't you eat crabs?_
+- Ne etes jah þen krabban? _Don't you eat crabs?_
 
 They are answered by: _jah_ or _neh_.
 
 Clauses can also be joined by pronouns, which take the case of the referent in
 the subordinate clause. For example:
 
--   Þe hund hwe blaffet ilke dag is mein. _The dog which barks ever day is
-    mine._
--   Þe hund hwem sah was brún. _The dog which I saw is brown._
--   Þe hund, hwes aiganor singet ilke morgin, is hail frijendleik. _The dog,
-    whose owner sings ever morning, is friendly._
+- Þe hund hwe blaffet ilke dag is mein. _The dog which barks ever day is
+  mine._
+- Þe hund hwem sah was brún. _The dog which I saw is brown._
+- Þe hund, hwes aiganor singet ilke morgin, is hail frijendleik. _The dog,
+  whose owner sings ever morning, is friendly._
