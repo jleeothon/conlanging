@@ -1,6 +1,9 @@
 - entry: '-bár'
   pos: Affix
   meaning: adjective suffix, akin to -able.
+- entry: ant-
+  post: Affix
+	meaning: opposite
 - entry: abgrund
   pos: Noun
   meaning: precipice
