@@ -1,2 +1,3 @@
-import {sync as pkgDir} from 'pkg-dir';
+import {packageDirectorySync as pkgDir} from 'pkg-dir';
+
 export default pkgDir();
