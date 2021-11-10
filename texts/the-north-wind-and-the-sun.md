@@ -1,15 +1,15 @@
 # Þe Norþerwind und þe Sonn
 
-Þe Norþerwind und þe Sonn straiten sih över hwe av þejem was þe starkira.
+Þe Norþerwind und þe Sonn straiten sih över hwe av þén was þe starkira.
 
-Te hweil at þej spraken, en wandror hleup langs þen weg, miþ ait káp.
+Hweil at þej spraken, en wandror hleup langs þen weg, miþ ait káp.
 
 Þe Sonn sagde: «Lát uns ainiginan at þe hwe is starkir skal konnan nemman þet
 káp þes wandrors snellir av.»
 
 «Hjus skal wi dón», andworded þe Norþerwind.
 
-Þe Norþerwind blése und blése miþ þet alla starkiþ sien. Aver if filir blése if
+Þe Norþorwind blése und blése miþ þet alla starkiþ sien. Aver if filir blése if
 filir þe wandror held þet káp sien an sih. Und þes upwand was för niht.
 
 Þan bigann þe Sonn te skein. Warþ warm und þe wandror fralaused þet káp sien.

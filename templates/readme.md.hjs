@@ -1,0 +1,21 @@
+## Conlang1
+
+[All entries](all.md)
+
+By part of speech:
+
+{{#each parts}}
+- [{{this.name}}]({{this.link}})
+{{/each}}
+
+By tags:
+
+{{#each tags}}
+- [{{this.name}}]({{this.link}})
+{{/each}}
+
+By template:
+
+{{#each templates}}
+- [{{this.name}}]({{this.link}})
+{{/each}}

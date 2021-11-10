@@ -1,7 +1,0 @@
-## preposition
-
-### üm
-
-(preposition)
-
-around
