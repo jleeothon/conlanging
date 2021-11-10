@@ -319,13 +319,14 @@ The **pro-thing** ([determiner paradigm][]):
 
 The **pro-adverbs of place**:
 
-|               | Pro-adverb | Meaning    |
-| ------------- | ---------- | ---------- |
-| Interrogative | hwar       | where      |
-| Proximal      | hjar       | here       |
-| Medial        | þar        | there      |
-| Distal        | sjar       | yonder     |
-| Referential   | swar       | such place |
+|               | Pro-adverb | Meaning                                |
+| ------------- | ---------- | -------------------------------------- |
+| Interrogative | hwar       | where                                  |
+| Proximal      | hjar       | here                                   |
+| Medial        | þar        | there                                  |
+| Distal        | sjar       | yonder                                 |
+| Referential   | swar       | such place                             |
+| Existential   | ar         | Used for constructions like "there is" |
 
 The **pro-adverbs of time**:
 
@@ -427,7 +428,7 @@ past infinitive, past participle):
 | 2        | eu  | au  | u   | _fleugon - flaugon - flugon_ "to fly"       |
 | 3-i, 4-i | i   | a   | u   | _bindon - bandon - bundon_ "to bind"        |
 | 3-e, 4-e | e   | a   | o   | _helpon - halpon - holpon_ "to help"        |
-| 5-e      | e   | a   | e   | _eton - aton - eton_ "to give"           |
+| 5-e      | e   | a   | e   | _eton - aton - eton_ "to give"              |
 | 5-i      | i   | a   | e   | _siton - saton - seton_ "to sit"            |
 | 6e       | e   | ó   | a   | _sweron - swóron - swaron_ "to swear"       |
 | 6a       | e   | ó   | a   | _faron - fóron - faron_ "to travel"         |
@@ -440,69 +441,130 @@ past infinitive, past participle):
 | 7e-ó     | ó   | é   | ó   | _hrópon - hrépon - hrópon_ "to call"        |
 
 The conjugation paradigm for the indicative mood can be describe with one of the
-ablaut grades and a suffix:
+ablaut grades and a suffix.
 
-|            | Present  | Past    |
-| ---------- | -------- | ------- |
-| Infinitive | 1 + -on  | 2 + -on |
-| Participle | 1 + -ond | 3 + -on |
-| 1st sg.    | 1 + -ew  | 2 + -   |
-| 2nd sg.    | 1 + -es  | 2 + -es |
-| 3rd sg.    | 1 + -et  | 2 + -   |
-| 1st pl.    | 1 + -em  | 2 + -em |
-| 2nd pl.    | 1 + -ej  | 2 + -ej |
-| 3rd pl.    | 1 + -en  | 2 + -en |
+|            | Present  | Past    | Subjunctive |
+| ---------- | -------- | ------- | ----------- |
+| Infinitive | 1 + -on  | 2 + -on |             |
+| Participle | 1 + -ond | 3 + -on |             |
+| 1st sg.    | 1 + -ew  | 2 + -   | 2 + e       |
+| 2nd sg.    | 1 + -es  | 2 + -es | 2 + es      |
+| 3rd sg.    | 1 + -et  | 2 + -   | 2 + e       |
+| 1st pl.    | 1 + -em  | 2 + -em | 2 + em      |
+| 2nd pl.    | 1 + -ej  | 2 + -ej | 2 + ej      |
+| 3rd pl.    | 1 + -en  | 2 + -en | 2 + en      |
 
-### Regular weak verbs
+#### Regular weak verbs
 
-|            | Present | Past  | Present | Past  | Preset | Past |
-| ---------- | ------- | ----- | ------- | ----- | ------ | ---- |
-| Infinitive | -ion    | -idon | -uon    | -udon |        |      |
-| Participle | -iond   | -iod  | -uond   | -uod  |        |      |
-| 1st sg.    | -eu     | -ide  | -eu     | -ude  |        |      |
-| 2nd sg.    | -es     | -ides | -es     | -udes |        |      |
-| 3rd sg.    | -et     | -ide  | -et     | -ude  |        |      |
-| 1st pl.    | -em     | -idem | -em     | -udem |        |      |
-| 2nd pl.    | -ej     | -idej | -ej     | -udej |        |      |
-| 3rd pl.    | -en     | -iden | -en     | -uden |        |      |
+Regular weak verbs can be distinguished according to their endings:
 
-Rückumlaut weak (may have -t- affix instead of -d-):
+-   weak verbs infixed with -i- (often causative),
+-   weak verbs infixed with -il- (often frequentative),
+-   weak verbs infixed with -ir- (from words in -ir),
+-   weak verbs infixed with -n- (often inchoative),
+-   weak verbs infixed with -u- (other).
 
-|            | Present | Past |
-| ---------- | ------- | ---- |
-| Infinitive | -ien    | -den |
-| Participle | -ind    | -d   |
-| 1st sg.    | -iu     | -de  |
-| 2nd sg.    | -is     | -des |
-| 3rd sg.    | -it     | -de  |
-| 1st pl.    | -im     | -dem |
-| 2nd pl.    | -ij     | -dej |
-| 3rd pl.    | -iun    | -den |
+**Weak verbs with -i-** are usually causative in origin. Their paradigm:
+
+|            | Present | Past  | Subjunctive |
+| ---------- | ------- | ----- | ----------- |
+| Infinitive | -ion    | -idon |             |
+| Participle | -iond   | -iod  |             |
+| 1st sg.    | -iew    | -ide  | -iaide      |
+| 2nd sg.    | -ies    | -ides | -iaides     |
+| 3rd sg.    | -iet    | -ide  | -iaide      |
+| 1st pl.    | -iem    | -idem | -iaidem     |
+| 2nd pl.    | -iej    | -idej | -iaidej     |
+| 3rd pl.    | -ien    | -iden | -iden       |
+
+Examples: _arväidion_ "to work", _füllion_ "to fill", _főlion_ "to feel".
+
+**Weak verbs with -u-** are the default means of producing a verb from a noun.
+Their paradigm:
+
+|            | Present | Past  | Subjunctive |
+| ---------- | ------- | ----- | ----------- |
+| Infinitive | -uon    | -udon |             |
+| Participle | -uond   | -uod  |             |
+| 1st sg.    | -ueu    | -ude  | -uaide      |
+| 2nd sg.    | -ues    | -udes | -uaides     |
+| 3rd sg.    | -uet    | -ude  | -uaide      |
+| 1st pl.    | -uem    | -udem | -uaidem     |
+| 2nd pl.    | -uej    | -udej | -uaidej     |
+| 3rd pl.    | -uen    | -uden | -uaiden     |
+
+Examples: _salvuon_ "to annoint", _fiscuon_ "to fish".
+
+**Weak verbs with -il-** are usually frequentative in origin. Their paradigm:
+
+|            | Present | Past    | Subjunctive |
+| ---------- | ------- | ------- | ----------- |
+| Infinitive | -ilon   | -ildon  |             |
+| Participle | -ilond  | -ilod   |             |
+| 1st sg.    | -ilew   | -ilede  | -ilaide     |
+| 2nd sg.    | -iles   | -iledes | -ilaides    |
+| 3rd sg.    | -ilet   | -ilede  | -ilaide     |
+| 1st pl.    | -ilem   | -ildem  | -ilaiem     |
+| 2nd pl.    | -ilej   | -ildej  | -ilaiej     |
+| 3rd pl.    | -ilen   | -ilden  | -ilaiden    |
+
+Examples: _handilon_ "to handle, to negotiate", _bättilon_ (to beg).
+
+**Weak verbs with -ir-** usually come from words ending in _-or_. Their
+paradigm:
+
+|            | Present | Past    | Subjunctive |
+| ---------- | ------- | ------- | ----------- |
+| Infinitive | -iron   | -irdon  |             |
+| Participle | -irond  | -irod   |             |
+| 1st sg.    | -irew   | -irede  | -iraide     |
+| 2nd sg.    | -ires   | -iredes | -iraidres   |
+| 3rd sg.    | -iret   | -irede  | -iraide     |
+| 1st pl.    | -irem   | -iredem | -iraidem    |
+| 2nd pl.    | -irej   | -iredej | -iraidej    |
+| 3rd pl.    | -iren   | -ireden | -iraiden    |
+
+Examples: _sikiron / sikron_ "to secure", _änþiron_ "to change".
+
+**Weak verbs with -n-** usually come from words ending in _-on_. Their paradigm:
+
+Example:
+
+|            | Present | Past   | Subjunctive |
+| ---------- | ------- | ------ | ----------- |
+| Infinitive | -non    | -ndon  |             |
+| Participle | -nond   | -nod   |             |
+| 1st sg.    | -neu    | -nede  | -naide      |
+| 2nd sg.    | -nes    | -nedes | -naideee    |
+| 3rd sg.    | -net    | -nede  | -naid       |
+| 1st pl.    | -nem    | -nedem | -naidem     |
+| 2nd pl.    | -nej    | -nedej | -naideje    |
+| 3rd pl.    | -nen    | -neden | -naine      |
+
+Examples: _raudnon_ "to redden", _waknon_ "to awaken", _kwiknon_ (to make
+lively).
+
+#### Preterite-present verbs
+
+This is a closed class of verbs. Often they have modal meanings.
+
+See [reference](verbs-preterite-present.md);
 
 Preterite-present (may have -t- affix instead of -d-):
 
 |            | Present | Past |
 | ---------- | ------- | ---- |
-| Infinitive | -en     | -den |
-| Participle | -end    | -d   |
+| Infinitive | -on     | -don |
+| Participle | -ond    | -d   |
 | 1st sg.    | -       | -de  |
 | 2nd sg.    | -s      | -des |
 | 3rd sg.    | -       | -de  |
 | 1st pl.    | -em     | -dem |
 | 2nd pl.    | -ej     | -dej |
-| 3rd pl.    | -un     | -dun |
+| 3rd pl.    | -en     | -dun |
 
 Note that the preterite of strong verbs does not distinguish first and third
 persons. Without context, the first person is assumed.
-
-### Weak verbs
-
-Regular weak verbs can be distinguished according to their endings:
-
--   weak verbs ending in _-ion_ (causative),
--   weak verbs ending in _-ilon_ (frequentative),
--   weak verbs ending in _-non_ (inchoative),
--   weak verbs ending in _-uon_ (other).
 
 ### Rückumlaut verbs
 
@@ -510,8 +572,18 @@ They are a category of weak verbs whose present stems differ from preterite
 stems by a vowel alternation, and sometimes exhibit a consonant alternation due
 to the Germanic Spirant Law.
 
-For an exhaustive list, see
-[verbs-preterite-present.md](./4-3-verbs-rückumlaut.md).
+The rückumlaut weak paradigm (may have -t- affix instead of -d-):
+
+|            | Present | Past |
+| ---------- | ------- | ---- |
+| Infinitive | -ion    | -den |
+| Participle | -ind    | -d   |
+| 1st sg.    | -iew    | -de  |
+| 2nd sg.    | -ies    | -des |
+| 3rd sg.    | -iet    | -de  |
+| 1st pl.    | -iem    | -dem |
+| 2nd pl.    | -iej    | -dej |
+| 3rd pl.    | -ien    | -den |
 
 ### Preterite-present verbs
 
@@ -610,51 +682,6 @@ Examples include:
 -   _smertan_ (to hurt, intr.) > _smärtian_ (to cause pain)
 -   _hladan_ (to accumulate) > _hlődian_ (to load sth. into sth.)
 -   _fallan_ (to fall) > _fällian_ (to fell)
-
-### Regular strong verbs
-
-Strong verbs follow an ablaut pattern. There are several ablaut patterns:
-
-| Class    | Present infinitive | Past infinitive | Past participle |
-| -------- | ------------------ | --------------- | --------------- |
-| 1        | ei                 | ai              | i               |
-| 2        | eu                 | au              | u               |
-| 3,4-e    | e                  | a               | o               |
-| 3,4-i    | i                  | a               | u               |
-| 5e       | e                  | a               | e               |
-| 5i       | i                  | a               | i               |
-| 6a       | a                  | u               | a               |
-| 6e (irr) | e                  | u               | a               |
-| 7a       | ai                 | ei              | ai              |
-| 7b       | au                 | eu              | au              |
-| 7c-e     | a                  | e               | a               |
-| 7c-i     | a                  | i               | a               |
-| 7d       | á                  | é               | á               |
-| 7e-o     | o                  | e               | o               |
-| 7e-ó     | ó                  | é               | ó               |
-
-Here are some examples; each verb is provided in present and past infinitive,
-and past participle:
-
-| Class | Present infinitive | Past infinitive | Past participle | Meaning      |
-| ----- | ------------------ | --------------- | --------------- | ------------ |
-| 1     | streikon           | straikon        | strikon         | to strike    |
-| 2     | fleugon            | flaugon         | flugon          | to fly       |
-| 3-i   | drinkon            | drankon         | drunkon         | to drink     |
-| 3-e   | helpon             | halpon          | holpon          | to help      |
-| 4     | nemon              | namon           | nomon           | to take      |
-| 5     | neson              | nason           | neson           | to heal      |
-| 6     | faron              | furon           | faron           | to travel    |
-| 7a    | haiton             | heiton          | haiton          | to be called |
-| 7b    | hlaupon            | hleupon         | hlaupon         | to walk      |
-| 7c-i  | fangon             | fingon          | fangon          | to grab      |
-| 7c-e  | fallon             | fellon          | fallon          | to fall      |
-| 7d    | láton              | léton           | láton           | to let       |
-| 7e-o  | hrópon             | hrépon          | hrópon          | to call      |
-| 7e-ó  | growon             | grewon          | growon          | to grow      |
-
-The past infinitive could also be called "perfect infinitive" e.g. "to have
-done".
 
 Because of their Proto-Germanic origin, the strong verb class is usually
 distinguished by the main vowel and following semiconsonant or consonants, with
@@ -775,409 +802,6 @@ For example _raudnon_ "to redden":
 | 1st pl.    | raudnem  | raudnodem |
 | 2nd pl.    | raudner  | raudnoder |
 | 3rd pl.    | raudnen  | raudnoden |
-
-### Irregular verbs
-
-### Group 1
-
-Some commonalities of these verbs are:
-
--   In the present:
-    -   First person sg. has no ending.
-    -   Third person pl. has a -d or -t ending.
--   In the preterite:
-    -   First and third person have no ending.
-
-To be:
-
-|             | Present | Preterite |
-| ----------- | ------- | --------- |
-| Inifinitive | weson   | weron     |
-| Participle  | wesend  | weson     |
-| 1st. sg.    | bim     | was       |
-| 2nd. sg.    | ires    | wars      |
-| 3rd. sg.    | is      | was       |
-| 1st. pl.    | sum     | warem     |
-| 2nd. pl.    | suj     | warer     |
-| 3rd. pl.    | sun     | waren     |
-
-There is / are / was / were:
-
-|             | Present | Preterite |
-| ----------- | ------- | --------- |
-| Inifinitive | äron    | ?         |
-| Participle  | ärond   | ?         |
-| 1st. sg.    | är      | ?         |
-| 2nd. sg.    | äres    | ?         |
-| 3rd. sg.    | är      | ?         |
-| 1st. pl.    | ärem    | ?         |
-| 2nd. pl.    | ärej    | ?         |
-| 3rd. pl.    | ären    | ?         |
-
-To stand:
-
-|             | Present  | Preterite |
-| ----------- | -------- | --------- |
-| Inifinitive | stán     | stóden    |
-| Participle  | stánd    | stód      |
-| 1st. sg.    | stág ❗️ | stód      |
-| 2nd. sg.    | stás     | stódes    |
-| 3rd. sg.    | stát     | stód      |
-| 1st. pl.    | stám     | stódem    |
-| 2nd. pl.    | stáj     | stóder    |
-| 3rd. pl.    | stánt    | stóden    |
-
-To do:
-
-|             | Present | Preterite |
-| ----------- | ------- | --------- |
-| Inifinitive | dón     | dáden     |
-| Participle  | dónd    | dán       |
-| 1st. sg.    | dóg ❗️ | dád       |
-| 2nd. sg.    | dós     | dádes     |
-| 3rd. sg.    | dót     | dád       |
-| 1st. pl.    | dóm     | dádem     |
-| 2nd. pl.    | dój     | dáder     |
-| 3rd. pl.    | dónt    | dáden     |
-
-To go:
-
-|             | Present | Preterite |
-| ----------- | ------- | --------- |
-| Inifinitive | gán     | gingan    |
-| Participle  | gánd    | gán       |
-| 1st. sg.    | gág ❗️ | ging      |
-| 2nd. sg.    | gás     | ginges    |
-| 3rd. sg.    | gát     | ging      |
-| 1st. pl.    | gán     | gingem    |
-| 2nd. pl.    | gáj     | ginger    |
-| 3rd. pl.    | gánt    | gingen    |
-
-### Group 2 (weak verbs)
-
-### Irregular weak verbs
-
-Some of these verbs verbs display rückumaut (umlaut in present, no umlaut in
-past).
-
-To say:
-
-|            | Present  | Preterite |
-| ---------- | -------- | --------- |
-| Infinitive | säggion  | sagdon    |
-| Participle | säggiond | sagd      |
-| 1st. sg.   | säggio   | sagde     |
-| 2nd. sg.   | säggies  | sagdes    |
-| 3rd. sg.   | säggiet  | saged     |
-| 1st. pl.   | säggiem  | sagdem    |
-| 2nd. pl.   | säggiej  | sagdej    |
-| 3rd. pl.   | säggien  | sagden    |
-
-To remember:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | hügion  | hugdon    |
-| Participle | hügiond | hugd      |
-| 1st. sg.   | hügio   | hugde     |
-| 2nd. sg.   | hügies  | hugdes    |
-| 3rd. sg.   | hügiet  | hugde     |
-| 1st. pl.   | hügiem  | hugdem    |
-| 2nd. pl.   | hügier  | hugdej    |
-| 3rd. pl.   | hügien  | hugden    |
-
-To buy:
-
-|            | Present  | Preterite |
-| ---------- | -------- | --------- |
-| Infinitive | büggion  | buhton    |
-| Participle | büggiond | buht      |
-| 1st. sg.   | büggio   | buhte     |
-| 2nd. sg.   | büggies  | buhtes    |
-| 3rd. sg.   | büggiet  | buhte     |
-| 1st. pl.   | büggiem  | buhtem    |
-| 2nd. pl.   | büggiej  | buhtej    |
-| 3rd. pl.   | büggien  | buhten    |
-
-To sell:
-
-|            | Present  | Preterite |
-| ---------- | -------- | --------- |
-| Infinitive | sellion  | saldon    |
-| Participle | selliond | sald      |
-| 1st. sg.   | sellio   | salde     |
-| 2nd. sg.   | sellies  | saldes    |
-| 3rd. sg.   | selliet  | salde     |
-| 1st. pl.   | selliem  | saldem    |
-| 2nd. pl.   | sellier  | saldej    |
-| 3rd. pl.   | sellien  | salden    |
-
-To tell:
-
-|            | Present  | Preterite |
-| ---------- | -------- | --------- |
-| Infinitive | tällion  | taldon    |
-| Participle | tälliond | tald      |
-| 1st. sg.   | tällio   | talde     |
-| 2nd. sg.   | tällies  | taldes    |
-| 3rd. sg.   | tälliet  | talde     |
-| 1st. pl.   | tälliem  | taldem    |
-| 2nd. pl.   | tälliej  | taldej    |
-| 3rd. pl.   | tällien  | talden    |
-
-To seek:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | sőkion  | sohton    |
-| Participle | sőkiond | soht      |
-| 1st. sg.   | sőkio   | sohte     |
-| 2nd. sg.   | sőkies  | sohtes    |
-| 3rd. sg.   | sőkiet  | sohte     |
-| 1st. pl.   | sőkiem  | sohtem    |
-| 2nd. pl.   | sőkier  | sohtej    |
-| 3rd. pl.   | sőkien  | sohten    |
-|            |         |           |
-
-To think:
-
-|            | Present  | Preterite |
-| ---------- | -------- | --------- |
-| Infinitive | þänkion  | þahton    |
-| Participle | þänkiond | þaht      |
-| 1st. sg.   | þänkio   | þahte     |
-| 2nd. sg.   | þänkies  | þahtes    |
-| 3rd. sg.   | þänkiet  | þahte     |
-| 1st. pl.   | þänkiem  | þahtem    |
-| 2nd. pl.   | þänkier  | þahtej    |
-| 3rd. pl.   | þänkien  | þahten    |
-
-To seem:
-
-|            | Present  | Preterite |
-| ---------- | -------- | --------- |
-| Infinitive | þünkion  | þuhton    |
-| Participle | þünkiond | þuht      |
-| 1st. sg.   | þünkio   | þuhte     |
-| 2nd. sg.   | þünkies  | þuhtes    |
-| 3rd. sg.   | þünkiet  | þuhte     |
-| 1st. pl.   | þünkiem  | þuhtem    |
-| 2nd. pl.   | þünkier  | þuhtej    |
-| 3rd. pl.   | þünkien  | þuhten    |
-
-To bring:
-
-|             | Present   | Preterite |
-| ----------- | --------- | --------- |
-| Inifinitive | bringion  | brahton   |
-| Participle  | bringiond | braht     |
-| 1st. sg.    | bringiu   | brahte    |
-| 2nd. sg.    | bringies  | brahtes   |
-| 3rd. sg.    | bringiet  | brahte    |
-| 1st. pl.    | bringiem  | brahtem   |
-| 2nd. pl.    | bringier  | brahtej   |
-| 3rd. pl.    | bringien  | brahten   |
-
-To use:
-
-|             | Present  | Preterite |
-| ----------- | -------- | --------- |
-| Inifinitive | brukion  | bruhton   |
-| Participle  | brukiond | bruht     |
-| 1st. sg.    | brukiu   | bruhte    |
-| 2nd. sg.    | brukies  | bruhtes   |
-| 3rd. sg.    | brukiet  | bruhte    |
-| 1st. pl.    | brukiem  | bruhtem   |
-| 2nd. pl.    | brukier  | bruhtej   |
-| 3rd. pl.    | brukien  | bruhten   |
-
-To work:
-
-|            | Present  | Preterite |
-| ---------- | -------- | --------- |
-| Infinitive | workion  | worhton   |
-| Participle | workiond | worht     |
-| 1st. sg.   | workio   | worhte    |
-| 2nd. sg.   | workies  | worhtes   |
-| 3rd. sg.   | workiet  | worhte    |
-| 1st. pl.   | workiem  | worhtem   |
-| 2nd. pl.   | workier  | worhtej   |
-| 3rd. pl.   | workien  | worhten   |
-
-To have:
-
-|             | Present  | Preterite |
-| ----------- | -------- | --------- |
-| Inifinitive | hebbion  | hadon     |
-| Participle  | hebbiond | had       |
-| 1st. sg.    | hebbio   | hade      |
-| 2nd. sg.    | hebbies  | hades     |
-| 3rd. sg.    | hebbiet  | hade      |
-| 1st. pl.    | hebbiem  | hadem     |
-| 2nd. pl.    | hebbiej  | hadej     |
-| 3rd. pl.    | hebbien  | haden     |
-
-To own:
-
-|             | Present | Preterite |
-| ----------- | ------- | --------- |
-| Inifinitive | aigon   | aihton    |
-| Participle  | aigond  | aihton    |
-| 1st. sg.    | aigo    | aihte     |
-| 2nd. sg.    | aiges   | aihtes    |
-| 3rd. sg.    | aiget   | aihte     |
-| 1st. pl.    | aigem   | aihtem    |
-| 2nd. pl.    | aigej   | aihtej    |
-| 3rd. pl.    | aigen   | aihten    |
-
-Missing:
-
--   buwon / buwdun??? (to live)
-
-### Preterite-present verbs
-
-To know:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | witon   | wiston    |
-| Participle | witend  | wist      |
-| 1st. sg.   | wait    | wiste     |
-| 2nd. sg.   | waitds  | wistes    |
-| 3rd. sg.   | wait    | wiste     |
-| 1st. pl.   | witem   | wistem    |
-| 2nd. pl.   | witer   | wister    |
-| 3rd. pl.   | witen   | wisten    |
-
-To be fit:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | dugon   | duhton    |
-| Participle | dugend  | duht      |
-| 1st. sg.   | daug    | duhte     |
-| 2nd. sg.   | dauges  | duhtes    |
-| 3rd. sg.   | daug    | duhte     |
-| 1st. pl.   | dugem   | duhtem    |
-| 2nd. pl.   | duger   | duhter    |
-| 3rd. pl.   | dugen   | duhten    |
-
-To be able to:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | konnon  | kondon    |
-| Participle | konnend | kond      |
-| 1st. sg.   | kann    | konde     |
-| 2nd. sg.   | kannes  | kondes    |
-| 3rd. sg.   | kann    | konde     |
-| 1st. pl.   | konnem  | kondem    |
-| 2nd. pl.   | konner  | konder    |
-| 3rd. pl.   | konnen  | konden    |
-
-To like:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | onnon   | ondon     |
-| Participle | onnend  | ond       |
-| 1st. sg.   | ann     | ondue     |
-| 2nd. sg.   | annes   | ondes     |
-| 3rd. sg.   | ann     | onde      |
-| 1st. pl.   | onnem   | ondem     |
-| 2nd. pl.   | onnej   | ondej     |
-| 3rd. pl.   | onnen   | onden     |
-
-To dare:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | dorron  | dordon    |
-| Participle | dorrend |           |
-| 1st. sg.   | darr    | dorde     |
-| 2nd. sg.   | darres  | dordes    |
-| 3rd. sg.   | darr    | dorde     |
-| 1st. pl.   | dorrem  | dordem    |
-| 2nd. pl.   | dorrej  | dordej    |
-| 3rd. pl.   | dorren  | dorden    |
-
-To need:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | þorvon  | þorfton   |
-| Participle | þorvend | þorftd    |
-| 1st. sg.   | þarv    | þorftu    |
-| 2nd. sg.   | þarves  | þorftes   |
-| 3rd. sg.   | þarv    | þorfte    |
-| 1st. pl.   | þorvem  | þorftem   |
-| 2nd. pl.   | þorvej  | þorftej   |
-| 3rd. pl.   | þorven  | þorften   |
-
-(Preset) future marker, (preterite) future-in-past, or subjunctive marker:
-
-|            | Present  | Preterite |
-| ---------- | -------- | --------- |
-| Infinitive | skolon   | skoldon   |
-| Participle | skollend | skold     |
-| 1st. sg.   | skal     | skolde    |
-| 2nd. sg.   | skales   | skoldes   |
-| 3rd. sg.   | skal     | skolde    |
-| 1st. pl.   | skolem   | skoldem   |
-| 2nd. pl.   | skolej   | skoldej   |
-| 3rd. pl.   | skolen   | skolden   |
-
-To have to:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | móton   | moston    |
-| Participle | mótend  | most      |
-| 1st. sg.   | mót     | moste     |
-| 2nd. sg.   | mótes   | mostes    |
-| 3rd. sg.   | mót     | moste     |
-| 1st. pl.   | mótem   | mostem    |
-| 2nd. pl.   | mótej   | mostej    |
-| 3rd. pl.   | móten   | mosten    |
-
-To be permitted to:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | mógon   | mohton    |
-| Participle | mógand  | mohtud    |
-| 1st. sg.   | mag     | mohte     |
-| 2nd. sg.   | mages   | mohtes    |
-| 3rd. sg.   | mag     | mohte     |
-| 1st. pl.   | mógem   | mohtem    |
-| 2nd. pl.   | mógej   | mohtej    |
-| 3rd. pl.   | mógen   | mohten    |
-
-To fear:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | ógon    | ohton     |
-| Participle | ógend   | oht       |
-| 1st. sg.   | ag      | ohte      |
-| 2nd. sg.   | ages    | ohtes     |
-| 3rd. sg.   | ag      | ohte      |
-| 1st. pl.   | ógem    | ohtem     |
-| 2nd. pl.   | ógej    | ohtej     |
-| 3rd. pl.   | ógen    | ohten     |
-
-To want:
-
-|            | Present | Preterite |
-| ---------- | ------- | --------- |
-| Infinitive | wollon  | woldon    |
-| Participle | wollend | wold      |
-| 1st. sg.   | will    | wolde     |
-| 2nd. sg.   | willes  | woldes    |
-| 3rd. sg.   | will    | wolde     |
-| 1st. pl.   | wollem  | woldem    |
-| 2nd. pl.   | wollej  | woldej    |
-| 3rd. pl.   | wollen  | wolden    |
 
 ## Numbers
 

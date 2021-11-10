@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  redis:
+    image: redislabs/redisgraph:2.4.6
+    ports: ["6379:6379"]
+#     volumes: [redis-data2:/data]
+# volumes:
+#   redis-data2:
