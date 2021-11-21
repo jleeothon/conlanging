@@ -252,3 +252,68 @@ Nouns ending with -wj- often change to -w- without i-umlaut e.g.
 - flawją > flauw (ship)
 - gawją > gauw (district)
 - skiwją > skeuw (sky)
+
+## Causatives
+
+A weak verb can be derived by changing the ablaut vowel, and in some cases,
+grammatischer Wechsel. The meaning of the derived verb is usually causative, or
+intransitive from a transitive verb.
+
+| Strong ablaut | Weak causative   |
+| ------------- | ---------------- |
+| ei-ai-i       | ai               |
+| eu-au-u       | au               |
+| i-a-u         | ä                |
+| e-a-o         | ä                |
+| e-a-e         | ä                |
+| i-a-i         | ä                |
+| a-u-a         | ü                |
+| a-i-a         |                  |
+| á-é-á         | (Not productive) |
+| ó-é-ó         | (Not productive) |
+
+These are the changes from grammatischer Wechsel:
+
+- þ > d
+- s > r
+- h > g
+
+Examples include:
+
+- _leiþan_ (to undergo) > _läidian_ (to lead)
+- _beugan_ (to bend, intr.) > _bäugian_ (to bend sth.)
+- _drinkan_ (to drink) > _dränkian_ (to make drink)
+- _smertan_ (to hurt, intr.) > _smärtian_ (to cause pain)
+- _hladan_ (to accumulate) > _hlődian_ (to load sth. into sth.)
+- _fallan_ (to fall) > _fällian_ (to fell)
+
+Because of their Proto-Germanic origin, the strong verb class is usually
+distinguished by the main vowel and following semiconsonant or consonants, with
+exceptions. These are the patterns:
+
+| Class | Present | Past  | P. Part. | Next consonant        |
+| ----- | ------- | ----- | -------- | --------------------- |
+| 1     | e + i   | a + i | i        | any                   |
+| 2     | e + u   | a + u | u        | any                   |
+| 3-i   | i       | a     | u        | (m/n) + any           |
+| 3-e   | e       | e     |          | (l/r) + any           |
+| 4     | e       | a     | u        | m/n/l/r               |
+| 5     | e       | a     | e        | not (m/n/l/r)         |
+| 6     | a       | u     | a        | not ((m/n/l/r) + any) |
+| 7a    | a + i   | e + i | a + i    | any                   |
+| 7b    | a + u   | e + u | a + u    | any                   |
+| 7c-i  | a       | i     | a        | (m/n) + any           |
+| 7c-e  | a       | e     | a        | (l/r) + any           |
+| 7d    | á       | é     | á        | (any                  |
+| 7e-o  | o       | e     | o        | any                   |
+| 7e-ó  | ó       | é     | ó        | any                   |
+
+Note the parallel between the present and past of classes:
+
+- 1 and 7a,
+- 2 and 7b,
+- 3-i and 7c-i,
+- 3-e and 7c-e.
+
+Note that the preterite of strong verbs does not distinguish first and third
+persons. Without context, the first person can be assumed.
