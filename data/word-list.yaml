@@ -2350,3 +2350,17 @@
 - entry: mainuon
   meaning: to mean, to have an opinion
   pos: Verb
+- entry: mán
+  meaning: moon
+	pos: Noun
+- entry: bágon
+  pos: Verb
+	meaning: to fight
+	template: strong-7d
+- entry: bág
+  pos: Noun
+	meaning: fight, quarrel
+- entry: báglon
+  pos: Verb
+	meaning: to discuss, to quarrel
+	template: weak-lun
