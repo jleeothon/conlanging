@@ -6,7 +6,7 @@ import rx, {firstValueFrom} from 'rxjs';
 
 // URL: https://en.wiktionary.org/w/api.php?action=query&format=json&cmpageid=4488666&list=categorymembers&cmlimit=10&cmcontinue=...
 
-const defaultSearchParameters = {
+const searchParameters = {
 	action: 'query',
 	format: 'json',
 	cmpageid: '4488666',
@@ -15,21 +15,30 @@ const defaultSearchParameters = {
 };
 
 async function * fetchPages() {
+	const url = 'https://en.wiktionary.org/w/api.php';
+
+	let options = {searchParams: searchParameters};
 	let cmcontinue = null;
+
 	do {
-		const searchParameters = cmcontinue ? {...defaultSearchParameters, cmcontinue} : defaultSearchParameters;
-		const options = {searchParams: searchParameters};
 		// eslint-disable-next-line no-await-in-loop
-		const data = await got('https://en.wiktionary.org/w/api.php', options).json();
-		yield data;
-		cmcontinue = data.continue?.cmcontinue;
+		const data = await got(url, options).json();
+		yield data.query.categorymembers;
+
+		cmcontinue = data?.continue?.cmcontinue;
+		options = {searchParams: {...searchParameters, cmcontinue}};
 	} while (cmcontinue);
 }
 
-const results = await firstValueFrom(rx.from(fetchPages()).pipe(
-	rx.map(data => data.query.categorymembers),
-	rx.toArray(),
-));
+const observableMembers = rx.from(fetchPages());
 
-const fileName = path.join(packageDirectorySync(), 'crawler', 'data-0.json');
+const results = await firstValueFrom(
+	observableMembers.pipe(
+		rx.mergeMap(members => members),
+		rx.toArray(),
+	),
+);
+
+const fileName = path.join(packageDirectorySync(), 'crawler', 'data', 'data-0.json');
+
 writeJsonFileSync(fileName, results, {indent: '\t'});
