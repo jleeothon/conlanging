@@ -7,7 +7,7 @@ import process from 'node:process';
 import Ajv from 'ajv';
 import yaml from 'js-yaml';
 
-import projectRoot from './project-root.js';
+import projectRoot from '../lib/project-root.js';
 
 const schemaPath = path.join(projectRoot, 'word-list-schema.json');
 
@@ -21,16 +21,12 @@ const validate = ajv.compile(schema);
 const valid = validate(input);
 
 if (valid) {
-	console.log('✓ Word list OK');
+	console.error('✓ Word list OK');
 } else {
-	const errorEntries = validate.errors.map(
-		({instancePath, schemaPath, keyword, message, data}) => {
-			const entryIndex = Number.parseInt(instancePath.split('/')[1], 10);
-			const {entry} = input[entryIndex];
-			return [entry, {schemaPath, keyword, message, data}];
-		},
-	);
-	const errors = new Map(errorEntries);
+	for (const error of validate.errors
+		.map(({instancePath, message}) => ({path: instancePath, message}))) {
+		console.error(error);
+	}
+
 	process.exitCode = 1;
-	console.error(errors);
 }
