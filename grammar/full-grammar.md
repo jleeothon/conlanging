@@ -148,7 +148,7 @@ The **strong adjective paradigm**:
 |          | Nominative | Accusative | Genitive |
 | -------- | ---------- | ---------- | -------- |
 | Singular | -a         | -am / -at  | -as      |
-| Plural   | -ai        | -an        | -ar      |
+| Plural   | -anna      | -an        | -ar      |
 
 [determiner paradigm]: #determiner-paradigm
 
@@ -290,7 +290,7 @@ and decline with the [determiner paradigm][] or [strong noun paradigm][] accordi
 | Interrogative | hwelk          | which, what kind of              |
 | Proximal      | hjelk          | this one, this kind here         |
 | Medial        | þelk           | that one, that kind there        |
-| Distal        | sjelk         | yonder one, that kind over there |
+| Distal        | sjelk          | yonder one, that kind over there |
 | Referential   | swelk          | such one, such kind of           |
 | Universal     | elk            | each one                         |
 
@@ -479,7 +479,7 @@ Regular weak verbs can be distinguished according to their endings:
 | Participle | -iond   | -iod  |             |
 | 1st sg.    | -iew    | -ide  | -iaide      |
 | 2nd sg.    | -ies    | -ides | -iaides     |
-| 3rd sg.    | -iet    | -ide  | -iaide      |
+| 3rd sg.    | -ieþ    | -ide  | -iaide      |
 | 1st pl.    | -iem    | -idem | -iaidem     |
 | 2nd pl.    | -iej    | -idej | -iaidej     |
 | 3rd pl.    | -ien    | -iden | -iden       |
@@ -495,7 +495,7 @@ Their paradigm:
 | Participle | -uond   | -uod  |             |
 | 1st sg.    | -ueu    | -ude  | -uaide      |
 | 2nd sg.    | -ues    | -udes | -uaides     |
-| 3rd sg.    | -uet    | -ude  | -uaide      |
+| 3rd sg.    | -ueþ    | -ude  | -uaide      |
 | 1st pl.    | -uem    | -udem | -uaidem     |
 | 2nd pl.    | -uej    | -udej | -uaidej     |
 | 3rd pl.    | -uen    | -uden | -uaiden     |
@@ -510,7 +510,7 @@ Examples: _salvuon_ "to annoint", _fiscuon_ "to fish".
 | Participle | -ilond  | -ilod   |             |
 | 1st sg.    | -ilew   | -ilede  | -ilaide     |
 | 2nd sg.    | -iles   | -iledes | -ilaides    |
-| 3rd sg.    | -ilet   | -ilede  | -ilaide     |
+| 3rd sg.    | -ileþ   | -ilede  | -ilaide     |
 | 1st pl.    | -ilem   | -ildem  | -ilaiem     |
 | 2nd pl.    | -ilej   | -ildej  | -ilaiej     |
 | 3rd pl.    | -ilen   | -ilden  | -ilaiden    |
@@ -526,7 +526,7 @@ paradigm:
 | Participle | -irond  | -irod   |             |
 | 1st sg.    | -irew   | -irede  | -iraide     |
 | 2nd sg.    | -ires   | -iredes | -iraidres   |
-| 3rd sg.    | -iret   | -irede  | -iraide     |
+| 3rd sg.    | -ireþ   | -irede  | -iraide     |
 | 1st pl.    | -irem   | -iredem | -iraidem    |
 | 2nd pl.    | -irej   | -iredej | -iraidej    |
 | 3rd pl.    | -iren   | -ireden | -iraiden    |
@@ -543,7 +543,7 @@ Example:
 | Participle | -nond   | -nod   |             |
 | 1st sg.    | -neu    | -nede  | -naide      |
 | 2nd sg.    | -nes    | -nedes | -naideee    |
-| 3rd sg.    | -net    | -nede  | -naid       |
+| 3rd sg.    | -neþ    | -nede  | -naid       |
 | 1st pl.    | -nem    | -nedem | -naidem     |
 | 2nd pl.    | -nej    | -nedej | -naideje    |
 | 3rd pl.    | -nen    | -neden | -naine      |
@@ -587,7 +587,7 @@ The rückumlaut weak paradigm (may have -t- affix instead of -d-):
 | Participle | -ind    | -d   |
 | 1st sg.    | -iew    | -de  |
 | 2nd sg.    | -ies    | -des |
-| 3rd sg.    | -iet    | -de  |
+| 3rd sg.    | -ieþ    | -de  |
 | 1st pl.    | -iem    | -dem |
 | 2nd pl.    | -iej    | -dej |
 | 3rd pl.    | -ien    | -den |
@@ -732,21 +732,21 @@ Some conjunctions can be derived from prepositions by following with the
 subordinating conjunction _at_. This can also be analyzed as a case where the argument of the preposition is not a noun phrase, but a verb phrase. Some examples are:
 
 - _för_ "for"
-    - as preposition e.g. _þis is för þen fiskan_ "this is for the fish"
-	- as conjunction e.g. _þis is för at fangon fiskan_ "this is for catching fish"
+  - as preposition e.g. _þis is för þen fiskan_ "this is for the fish"
+  - as conjunction e.g. _þis is för at fangon fiskan_ "this is for catching fish"
 - _üm_ "due to, because"
-    - as preposition e.g. _þe hund kwam in üm þunor_ "the dog came in because of the thunder"
-	- as conjunction e.g. _þe hund kwam in üm at is bang gigin þunran_ "the dog came in because it's scared of thunders"
+  - as preposition e.g. _þe hund kwam in üm þunor_ "the dog came in because of the thunder"
+  - as conjunction e.g. _þe hund kwam in üm at is bang gigin þunran_ "the dog came in because it's scared of thunders"
 - _aftir_ "after"
-	- as preposition e.g. _þe wikk skal kwemon aftir þet folla mán_ "the wizard shall come after the full moon"
-	- as conjunction e.g. _þe wikk skal kwemon after at þe mán is foll_ "the wizard shall come after the moon is full"
+  - as preposition e.g. _þe wikk skal kwemon aftir þet folla mán_ "the wizard shall come after the full moon"
+  - as conjunction e.g. _þe wikk skal kwemon after at þe mán is foll_ "the wizard shall come after the moon is full"
 
-| Preposition | Conjunction |
-| ----------- | ----------- |
-| för "for"   | för at "in order to" |
-| üm "due to"   | üm at "because" |
-| aftir "after"   | aftir at "after" |
-| fór "before"   | fór "before" |
+| Preposition   | Conjunction          |
+| ------------- | -------------------- |
+| för "for"     | för at "in order to" |
+| üm "due to"   | üm at "because"      |
+| aftir "after" | aftir at "after"     |
+| fór "before"  | fór "before"         |
 
 ## Sentence building
 
@@ -765,7 +765,6 @@ verb followed by _jah_.
 - Ne etes jah krabban? _Don't you eat crabs?_
 
 They are answered by: _jah_ or _neh_.
-
 
 ### Relative clauses
 
