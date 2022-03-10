@@ -1,8 +1,8 @@
-Was en kuning und he had nen kind. Abir þe kuning wold em sun.
+Ar was en kuning and he had nenem kind. Abir þe kuning wold em sun.
 
-He fragued an en kerkman: "Látet en sun an mih weson boron".
+He fraguede an en kerkman: "Látet en sun an mih weson boron".
 
-Þe kerkman saged an þen kuning: "Bedu an þen gud Werun".
+Þe kerkman saged an þen kuning: "Bede an þen gud Werun".
 
 Werun kwam niþir af himil. "Hwat willes?"
 
