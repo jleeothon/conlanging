@@ -1,1291 +1,1279 @@
-- entry: "-bár"
+"-bár":
   pos: Affix
   meaning: adjective suffix, akin to -able.
-- entry: ant-
+ant-:
   pos: Affix
   meaning: opposite
-- entry: abgrund
+afgrund:
   pos: Noun
   meaning: precipice
-- entry: abhangighaid
+afhangighaid:
   pos: Noun
   meaning: dependence, attachment
-- entry: ahsihtj
+ahsihtj:
   pos: Noun
   meaning: aspect
-- entry: aht
+aht:
   pos: Noun
   meaning: attention
-- entry: aigonskap
+aigonskap:
   pos: Noun
   meaning: characteristic, property
-- entry: aik
+aik:
   pos: Noun
   meaning: oak
   tags:
     - Nature
-- entry: aikweron
+aikweron:
   pos: Noun
   meaning: squirrel
   tags:
     - Animals
-- entry: aindagis
+aindagis:
   pos: Adverb
   meaning: one day, some day
-- entry: ainist
+ainist:
   pos: Adverb
   meaning: once
-- entry: ainkil
+ainkil:
   pos: Adjective
   meaning: single, only one
   tags:
     - Numbers
-- entry: air (2)
+air (2):
   pos: Noun
   meaning: reverence, honour
-- entry: airig (1)
+airig (1):
   pos: Adjective
   meaning: early
   tags:
     - Time
-- entry: akor
+akor:
   pos: Noun
   meaning: field
-- entry: ald
+ald:
   pos: Adjective
   meaning: old
   tags:
     - Descriptions
-- entry: aldor
+aldor:
   pos: Noun
   meaning: age
-- entry: allain (1)
+allain (1):
   pos: Adverb
   meaning: only
-- entry: allain (2)
+allain (2):
   pos: Adjective
   meaning: alone
-- entry: amsul
+amsul:
   pos: Noun
   meaning: blackbird
   tags:
     - Animals
-- entry: and
+and:
   pos: Conjunction
   meaning: and
-- entry: andhüllion
+andhüllion:
   pos: Verb
   meaning: to revelate
-- entry: antworduon
+antworduon:
   pos: Verb
   meaning: to answer
-- entry: anþor
+anþor:
   pos: Noun
   meaning: other
-- entry: apol
+apol:
   pos: Noun
   meaning: apple
   tags:
     - Nature
     - Food
-- entry: ard
+ard:
   pos: Noun
   meaning: type, kind
-- entry: arhw
+arhw:
   pos: Noun
   meaning: arrow
-- entry: arm (1)
+arm (1):
   pos: Noun
   meaning: arm
   tags:
     - Time
-- entry: aug
+aug:
   pos: Noun
   meaning: eye
   tags:
     - Body
-- entry: auk
+auk:
   pos: Adverb
   meaning: also, too (including)
-- entry: aust
+aust:
   pos: Noun
   meaning: east
   tags:
     - Geography
-- entry: avir
+avir:
   pos: Conjunction
   meaning: but, however
-- entry: avund
+avund:
   pos: Noun
   meaning: evening
   synonyms:
     - kwild
   tags:
     - Time
-- entry: aþol
+aþol:
   pos: Adjective
   meaning: noble
-- entry: bain
+bain:
   pos: Noun
   meaning: leg
   tags:
     - Body
-- entry: bakon
+bakon:
   pos: Verb
   meaning: to bake (transitive and intransitive)
   template: strong-6
-- entry: bannon
+bannon:
   pos: Verb
   meaning: to ban
   template: strong-7c-i
-- entry: bar
+bar:
   pos: Adjective
   meaning: only, mere, bare
-- entry: bard
+bard:
   pos: Noun
   meaning: beard
-- entry: barisk
+barisk:
   pos: Adjective
   meaning: purple
   tags:
     - Descriptions
-- entry: bars
+bars:
   pos: Noun
   meaning: perch
   tags:
     - Animals
-- entry: baugjon
+baugjon:
   pos: Verb
   meaning: to bend (transitive)
-- entry: baum
+baum:
   pos: Noun
   meaning: tree
   tags:
     - Plants
-- entry: bauton
+bauton:
   pos: Verb
   meaning: to beat
   template: strong-7b
-- entry: bedwon
+bedwon:
   pos: Verb
   meaning: to pray
-- entry: beron
+beron:
   pos: Verb
   meaning: to bear
   template: strong-34-e
-- entry: beugon
+beugon:
   pos: Verb
   meaning: to bend (intransitive)
   template: strong-2
-- entry: beuton
+beuton:
   pos: Verb
   meaning: to offer
   template: strong-2
-- entry: bevur
+bevur:
   pos: Noun
   meaning: beaver
   tags:
     - Animals
-- entry: bihlastwon
+bihlastwon:
   pos: Verb
   meaning: to annoy, to harass
   see:
     - hlast
-- entry: bij
+bei:
   pos: Noun
   meaning: bee
   tags:
     - Animals
-- entry: bikj
+bikj:
   pos: Noun
   meaning: female dog
   tags:
     - Animals
-- entry: bikwém
+bikwém:
   pos: Adjective
   meaning: comfortable
-- entry: bilaunuon
+bilaunuon:
   pos: Verb
   meaning: to wage, to reward, to pay
-- entry: bindon
+bindon:
   pos: Verb
   meaning: to bind
   template: strong-3-i
-- entry: binins
+binin:
   pos: Preposition
   meaning: including
-- entry: biskreibon
+biskreibon:
   pos: Verb
   meaning: describe
   template: strong-1
-- entry: bisundris
+bisundris:
   pos: Adverb
   meaning: especially, particularly
-- entry: bisundor
+bisundor:
   pos: Adjective
   meaning: special, unusual
-- entry: bisweron
+bisweron:
   pos: Verb
   meaning: to complain
   template: strong-6-j
-- entry: blad
+blad:
   pos: Noun
   meaning: blade
-- entry: blandon
+blandon:
   pos: Verb
   meaning: to blend
   template: strong-7c-i
-- entry: blaut
+blaut:
   pos:
     - Adjective
     - Adverb
   meaning: bare, only, simply
-- entry: blowan
+blowan:
   pos: Verb
   meaning: to flower
   template: strong-7e
-- entry: bláson
+bláson:
   pos: Verb
   meaning: to blow
   template: strong-7d
-- entry: bláw
+bláw:
   pos: Adjective
   meaning: blue
   tags:
     - Descriptions
-- entry: blóm
-  pos: Noun
-  meaning: flower
-- entry: blóm
+blóm:
   pos: Noun
   meaning: flower
   tags:
     - Plants
-- entry: bohs
+bohs:
   pos: Noun
   meaning: boxwood
   tags:
     - Plants
-- entry: bradon
+bradon:
   pos: Verb
   meaning: to cook in a pan
   template: strong-7d
-- entry: brekon
+brekon:
   pos: Verb
   meaning: to break
   template: strong-34-e
   note: Irregular strong-34-e
-- entry: breust
+breust:
   pos: Noun
   meaning: breast, chest
   tags:
     - Body
-- entry: bronn
+bronn:
   pos: Noun
   meaning: fountain, well, wellspring
   tags:
     - Nature
-- entry: broþor
+broþor:
   pos: Noun
   meaning: brother
   tags:
     - Family
-- entry: brámulbärj
+brámulbärj:
   pos: Noun
   meaning: blackberry, raspberry
-- entry: brún
+brún:
   pos: Adjective
   meaning: brown
   tags:
     - Descriptions
-- entry: brügj
+brügj:
   pos: Noun
   meaning: bridge
   tags:
     - Civilisation
-- entry: bukk
+bukk:
   pos: Noun
   meaning: buck, male of a mammal
   tags:
     - Animals
-- entry: bul
+bul:
   pos: Noun
   meaning: bull
   tags:
     - Animals
-- entry: butins
+butins:
   pos: Preposition
   meaning: except
-- entry: bärj
+bärj:
   pos: Noun
   meaning: berry
   tags:
     - Nature
     - Food
     - Plants
-- entry: bäst
+bäst:
   pos: Adjective
   meaning: best
   tags:
     - Descriptions
   see:
     - gód
-- entry: bätir
+bätir:
   pos: Adjective
   meaning: better
   tags:
     - Descriptions
   see:
     - gód
-- entry: bér
+bér:
   pos: Noun
   meaning: bear
   tags:
     - Animals
-- entry: bók (1)
+bók (1):
   pos: Noun
   meaning: book
-- entry: bók (2)
+bók (2):
   pos: Noun
   meaning: beech
   tags:
     - Nature
-- entry: bót
+bót:
   pos: Noun
   meaning: boat
-- entry: dag
+dag:
   pos: Noun
   meaning: day
   tags:
     - Time
-- entry: dagis
+dagis:
   pos: Adverb
   meaning: during the day
   tags:
     - Time
   see:
     - dag
-- entry: dail
+dail:
   pos: Noun
   meaning: part, portion, fraction
-- entry: dailjon
+dailjon:
   pos: Verb
   meaning: to divide
   template: weak-jun
-- entry: damp
+damp:
   pos: Noun
   meaning: vapour
-- entry: daud
+daud:
   pos: Noun
   meaning: dead
-- entry: daudjon
+daudjon:
   pos: Verb
   meaning: to kill
   template: weak-jun
-- entry: dauþ
+dauþ:
   pos: Noun
   meaning: death
-- entry: deur
+deur:
   pos: Noun
   meaning: animal
   tags:
     - Animals
-- entry: dewon
+dewon:
   pos: Verb
   meaning: to die
   template: strong-34-e
-- entry: dragon
-  pos: Verb
-  meaning: to carry
-  template: strong-6
-- entry: dragon
+dragon:
   pos: Verb
   meaning: to wear
   template: strong-6
-- entry: draug
+draug:
   pos: Adjective
   meaning: dry
-- entry: draugion
+draugion:
   pos: Verb
   meaning: to dry
-- entry: draum
+draum:
   pos: Verb
   meaning: dream
-- entry: dreivan
+dreivan:
   pos: Verb
   meaning: to drive
-- entry: drepon
+drepon:
   pos: Verb
   meaning: to meet
   template: strong-34-e
-- entry: dreupon
+dreupon:
   pos: Verb
   meaning: to drip
   template: strong-2
-- entry: drinkon
+drinkon:
   pos: Verb
   meaning: to drink
   template: strong-3-i
-- entry: drivian
+drivian:
   pos: Noun
   meaning: to drift
   tags:
     - Movement
-- entry: duhtor
+duhtor:
   pos: Noun
   meaning: daughter
-- entry: dumb
+dumb:
   pos: Adjective
   meaning: stupid, dumb
-- entry: dunkol
+dunkol:
   pos: Adjective
   meaning: dark
-- entry: dunkor
+dunkor:
   pos: Adjective
   meaning: dark
-- entry: dusk
+dusk:
   pos: Adjective
   meaning: dark
-- entry: dweinon
+dweinon:
   pos: Verb
   meaning: to disappear
   template: strong-1
-- entry: dwás
+dwás:
   pos: Adjective
   meaning: stupid, foolish
-- entry: dör
+dör:
   pos: Noun
   meaning: door
-- entry: dor
+dor:
   pos: Noun
   meaning: gate, door
-- entry: dúv
+dúv:
   pos: Noun
   meaning: dove
   tags:
     - Animals
-- entry: ebb
+ebb:
   pos: Noun
   meaning: low tide, ebb
   tags:
     - Nature
-- entry: ehw
+ehw:
   pos: Noun
   meaning: horse
   tags:
     - Animals
-- entry: elh
+elh:
   pos: Noun
   meaning: elk
   tags:
     - Animals
-- entry: emmur
+emmur:
   pos: Noun
   meaning: bucket
   note: Not sure about this one
-- entry: erþ
+erþ:
   pos: Noun
   meaning: earth
   tags:
     - Nature
-- entry: erþbärj
+erþbärj:
   pos: Noun
   meaning: strawberry
-  from: [erþ, bärj]
-- entry: eton
+  from:
+    - erþ
+    - bärj
+eton:
   pos: Verb
   meaning: to eat
   template: strong-5
-- entry: ew
+ew:
   pos: Noun
   meaning: ewe, female sheep
   tags:
     - Animals
-- entry: fador
+fador:
   pos: Noun
   meaning: father
   tags:
     - Family
-- entry: fagor
+fagor:
   pos: Adjective
   meaning: pretty, beautiful
-- entry: fallon
+fallon:
   pos: Verb
   meaning: to fall
   template: strong-7c-e
-- entry: fandag
+fandag:
   pos: Noun
   meaning: today
   tags:
     - Time
   see:
     - dag
-- entry: fangon
+fangon:
   pos: Verb
   meaning: to capture, to catch
   template: strong-7c-i
-- entry: fankwild
+fankwild:
   pos: Noun
   meaning: this evening
   tags:
     - Time
   see:
     - kwild
-- entry: fanmorgon
+fanmorgon:
   pos: Noun
   meaning: tomorrow, in the morning
   tags:
     - Time
-- entry: fannaht
+fannaht:
   pos: Noun
   meaning: this night
   tags:
     - Time
   see:
     - naht
-- entry: farh
+farh:
   pos: Noun
   meaning: piglet, young pig
   tags:
     - Animals
-- entry: farn
+farn:
   pos: Noun
   meaning: fern
   tags:
     - Plants
-- entry: farw
+farw:
   pos: Noun
   meaning: colour
   tags:
     - Descriptions
-- entry: faron
+faron:
   pos: Verb
   meaning: to drive
   template: strong-6
-- entry: fatwon
+fatwon:
   pos: Verb
   meaning: to fetch, to catch, to grasp
-- entry: faw
+faw:
   pos: Adjective
   meaning: few, little
   tags:
     - Descriptions
-- entry: feh
+feh:
   pos: Noun
   meaning: cattle
   tags:
     - Animals
-- entry: feuhtj
+feuhtj:
   pos: Noun
   meaning: spruce
   tags:
     - Nature
-- entry: feþur
+feþur:
   pos: Noun
   meaning: feather
   tags:
     - Animals
-- entry: fijend
+fijend:
   pos: Noun
   meaning: enemy, foe
-- entry: fil
+fil:
   pos: Adjective
   meaning: much
   tags:
     - Descriptions
-- entry: findon
+findon:
   pos: Verb
   meaning: to find
   template: strong-3-i
-- entry: firkwistjon
+firkwistjon:
   pos: Verb
   meaning: to waste
   template: weak-jun
-- entry: firswändjon
+firswändjon:
   pos: Verb
   meaning: to make disappear
   template: weak-jun
   see:
     - förswindun
-- entry: fisk
+fisk:
   pos: Noun
   meaning: fish
   tags:
     - Animals
-- entry: flaisk
+flaisk:
   pos: Noun
   meaning: meat
-- entry: flauh
+flauh:
   pos: Noun
   meaning: flea
   tags:
     - Animals
-- entry: flaum
+flaum:
   pos: Noun
   meaning: flood
   tags:
     - Nature
-- entry: fleug
+fleug:
   pos: Noun
   meaning: fly
   tags:
     - Animals
-- entry: fleugon
+fleugon:
   pos: Verb
   meaning: to fly
   template: strong-2
-- entry: fleuton
+fleuton:
   pos: Verb
   meaning: to float
   template: strong-2
-- entry: fluþur
+fluþur:
   pos: Noun
   meaning: flounder, flatfish
   tags:
     - Animals
-- entry: ahw
+ahw:
   pos: Noun
   meaning: river
-  tags: [Nature]
-- entry: flód
+  tags:
+    - Nature
+flód:
   pos: Noun
   meaning: flood, river (poetic), high tide
   tags:
     - Nature
-- entry: flówon
+flówon:
   pos: Verb
   meaning: to flow
   template: strong-7e
-- entry: foll
+foll:
   pos: Adjective
   meaning: full
-- entry: forhon
+forhon:
   pos: Noun
   meaning: trout
   tags:
     - Animals
-- entry: forþ
+forþ:
   pos: Adverb
   meaning: forward, forth
-- entry: fraurjon
+fraurjon:
   pos: Verb
   meaning: to freeze (transitive)
   template: weak-jun
-- entry: fraw
-  pos: Noun
-  meaning: woman
-- entry: frek
+fraw:
+  meaning: happy
+  pos: Adjective
+frek:
   pos: Adjective
   meaning: greedy; nasty
-- entry: freuson
+freuson:
   pos: Verb
   meaning: to freeze (intransitive)
   template: strong-2
-- entry: frij
+frij:
   pos: Adjective
   meaning: free
-- entry: frijend
+frijend:
   pos: Noun
   meaning: friend
-- entry: frijon?
+frijon?:
   pos: Verb
   meaning: to free
   template: weak-jun
-- entry: frusk
+frusk:
   pos: Noun
   meaning: frog
-- entry: frust
+frust:
   pos:
     - Noun
   meaning: frost
   tags:
     - Nature
-- entry: frów
+frów:
   pos: Adjective
   meaning: early
   tags:
     - Time
-- entry: fugol
+fugol:
   pos: Noun
   meaning: bird
   tags:
     - Animals
-- entry: fuhs
+fuhs:
   pos: Noun
   meaning: fox
   tags:
     - Animals
-- entry: fulgwon
+fulgwon:
   pos: Verb
   meaning: to follow
-- entry: fól
+fól:
   pos: Noun
   meaning: foal, young horse
   tags:
     - Animals
-- entry: fórraidjon
+fórraidjon:
   pos: Verb
   meaning: to prepare
-- entry: fördailion
+fördailion:
   pos: Verb
   meaning: to distribute
-- entry: fördion
+fördion:
   pos: Verb
   meaning: to further, to foster, to support
-- entry: fördion ut
+fördion ut:
   pos: Verb
   meaning: to challenge
-- entry: försenkion
+försenkion:
   pos: Verb
   meaning: to focus, to concentrate
   template: weak-jun
-- entry: försprekon
+försprekon:
   pos: Verb
   meaning: to promise
-- entry: förswindon
+förswindon:
   pos: Verb
   meaning: to disappear
-- entry: gail
+gail:
   pos: Adjective
   meaning: abundant; lustful
-- entry: gait
+gait:
   pos: Noun
   meaning: goat
   tags:
     - Animals
-- entry: gans
+gans:
   pos: Noun
   meaning: goose
   tags:
     - Animals
-- entry: gauk
+gauk:
   pos: Noun
   meaning: cuckoo
   tags:
     - Animals
-- entry: geld
+geld:
   pos: Noun
   meaning: money
-- entry: geldon
+geldon:
   pos: Verb
   meaning: to be valid
   template: strong-34-e
-- entry: gelow
+gelow:
   pos: Adjective
   meaning: yellow
   tags:
     - Descriptions
-- entry: gelwraud
+gelwraud:
   pos: Adjective
   meaning: orange
   tags:
     - Descriptions
-- entry: geton
+geton:
   pos: Verb
   meaning: to get, to receive
   template: strong-5
-- entry: geuton
+geuton:
   pos: Verb
   meaning: to pour
   template: strong-2
-- entry: gevon
+gevon:
   pos: Verb
   meaning: to give
   template: strong-5
-- entry: gisihtj
+gisihtj:
   pos: Noun
   meaning: face
-- entry: gistirdag
+gistirdag:
   pos: Noun
   meaning: yesterday
   tags:
     - Time
-- entry: gistirkwild
+gistirkwild:
   pos: Noun
   meaning: last evening
   tags:
     - Time
-- entry: gistirnaht
+gistirnaht:
   pos: Noun
   meaning: last night
   tags:
     - Time
-- entry: giwar
+giwar:
   pos: Adjective
   meaning: aware
-- entry: gleidon
+gleidon:
   pos: Verb
   meaning: to glide
   template: strong-1
-- entry: gold
+gold:
   pos: Noun
   meaning: gold
-- entry: grap
+grap:
   pos: Noun
   meaning: joke
-- entry: graut
+graut:
   pos: Adjective
   meaning: big
   tags:
     - Descriptions
-- entry: gravon
+gravon:
   pos: Verb
   meaning: to dig
   template: strong-6
-- entry: greipon
+greipon:
   pos: Verb
   meaning: to grab
   template: strong-1
-- entry: grimmon
+grimmon:
   pos: Verb
   meaning: to be angry
   template: strong-3-i
-- entry: growan
+growan:
   pos: Verb
   meaning: to grow (intransitive, for plants)
   template: strong-7e
-- entry: gráw
+gráw:
   pos: Adjective
   meaning: grey
   tags:
     - Descriptions
-- entry: grőn
+grőn:
   pos: Adjective
   meaning: green
   tags:
     - Descriptions
-- entry: gäldjon
+gäldjon:
   pos: Verb
   meaning: to be valid
   see:
     - geldun
-- entry: gód
+gód:
   pos: Adjective
   meaning: good
   tags:
     - Descriptions
-- entry: hail
+hail:
   pos: Adjective
   meaning: whole, intact, unhurt
-- entry: haiton
+haiton:
   pos: Verb
   meaning: to be named
   template: strong-7a
-- entry: hakud
+hakud:
   pos: Noun
   meaning: pike
   tags:
     - Animals
-- entry: hald
+hald:
   pos: Noun
   meaning: hold, grasp
-- entry: haldon
+haldon:
   pos: Verb
   meaning: to hold
   template: strong-7c-e
-- entry: hals
+hals:
   pos: Noun
   meaning: neck, throat
-- entry: han
+han:
   pos: Noun
   meaning: hen, rooster, guineafowl
   tags:
     - Animals
-- entry: hand
+hand:
   pos: Noun
   meaning: hand
   tags:
     - Body
-- entry: handlár
+handlár:
   pos: Noun
   meaning: merchant
-- entry: handlon
+handlon:
   pos: Verb
   meaning: to handle, to negotiate, to do business with sth.
-- entry: hangon
+hangon:
   pos: Verb
   meaning: to hang
   template: strong-7c-i
-- entry: harvist
+harvist:
   pos: Noun
   meaning: fall, autumn, harvest
   tags:
     - Time
-- entry: hauwon
+hauwon:
   pos: Verb
   meaning: to hew, to chop
   template: strong-7b
-- entry: havur
+havur:
   pos: Noun
   meaning: male goat
   tags:
     - Animals
-- entry: hebbion
+hebbion:
   pos: Verb
   meaning: to lift
   template: strong-6-j
-- entry: helpon
+helpon:
   pos: Verb
   meaning: to help
   template: strong-34-e
-- entry: hert
-  pos: Noun
-  meaning: deer, stag
-  tags:
-    - Animals
-- entry: hert
+hert:
   pos: Noun
   meaning: heart
-- entry: himil
+himil:
   pos: Noun
   meaning: sky
   tags:
     - Nature
-- entry: hind
+hind:
   pos: Noun
   meaning: female deer
   tags:
     - Animals
-- entry: hladon
+hladon:
   pos: Verb
   meaning: to accumulate, to increase in something
   template: strong-6
-- entry: hlahon
+hlahon:
   pos: Verb
   meaning: to laugh
-- entry: hlast
+hlast:
   pos: Noun
   meaning: burden
   see:
     - bihlastwun
     - hlastian
     - hlastig
-- entry: hlastian
+hlastian:
   pos: Verb
   meaning: to burden
   see:
     - hlast
-- entry: hlastig
+hlastig:
   pos: Verb
   meaning: annoying
   see:
     - hlast
-- entry: hlaupon
+hlaupon:
   pos: Verb
   meaning: to walk
   template: strong-7b
-- entry: hlowan
+hlowan:
   pos: Verb
   meaning: to shout
   template: strong-7e
-- entry: hlusnoling? hlusnling
+hlusnoling? hlusnling:
   pos: Noun
   meaning: listener
-- entry: hlusnon
+hlusnon:
   pos: Verb
   meaning: to listen
   template: weak-nun
-- entry: hláw
+hláw:
   pos: Adjective
   meaning: lukewarm
-- entry: hlőd
+hlőd:
   pos: Noun
   meaning: load
-- entry: hlődian
+hlődian:
   pos: Verb
   meaning: to load (transitive)
-- entry: hnauw
+hnauw:
   pos: Adjective
   meaning: exact
-- entry: holt
+holt:
   pos: Noun
   meaning: wood, forest (poetic)
   tags:
     - Nature
-- entry: hragon
+hragon:
   pos: Verb
   meaning: to jut out, to protude, to stand out
   template: strong-34-e
-- entry: hraig
+hraig:
   pos: Noun
   meaning: heron
   tags:
     - Animals
-- entry: hreggion
+hreggion:
   pos: Verb
   meaning: to incite, to excite, to
   template: weak-jun
-- entry: hreiton
+hreiton:
   pos: Verb
   meaning: to scratch
   template: strong-1
-- entry: hringon
+hringon:
   pos: Verb
   meaning: to ring
   template: strong-3-i
-- entry: hropan
+hropan:
   pos: Verb
   meaning: to call
   template: strong-7e
-- entry: hrus
+hrus:
   pos: Noun
   meaning: horse
   tags:
     - Animals
-- entry: hróm
+hróm:
   pos: Noun
   meaning: fame
-- entry: hrómig
+hrómig:
   pos: Adjective
   meaning: famous
-- entry: hrügj
+hrügj:
   pos: Noun
   meaning: back (anatomy), spine (anatomy)
-- entry: hund
+hund:
   pos: Noun
   meaning: dog
   tags:
     - Animals
-- entry: hungrwon
+hungrwon:
   pos: Verb
   meaning: to hunger
-- entry: hungor
+hungor:
   pos: Noun
   meaning: hunger
-- entry: huning
+huning:
   pos: Noun
   meaning: honey
   tags:
     - Animals
     - Food
-- entry: hvis
+hvis:
   pos: Conjunction
   meaning: if
-- entry: hwass
+hwass:
   pos: Adjective
   meaning: sharp
-- entry: hwassiþ
+hwassiþ:
   pos: Noun
   meaning: sharpness
-- entry: hweil at
+hweil at:
   pos: Conjunction
   meaning: while
-- entry: hweinon
+hweinon:
   pos: Verb
   meaning: to cry
   template: strong-1
-- entry: hweit
+hweit:
   pos: Adjective
   meaning: white
   tags:
     - Descriptions
-- entry: hwelp
+hwelp:
   pos: Noun
   meaning: welp, young mammal
   tags:
     - Animals
-- entry: hwervon
+hwervon:
   pos: Verb
   meaning: to throw
   template: strong-34-e
-- entry: hárm
+hárm:
   pos: Noun
   meaning: weasel, ermine
   tags:
     - Animals
-- entry: hás
+hás:
   pos: Noun
   meaning: hare
   tags:
     - Animals
-- entry: hän
+hän:
   pos: Noun
   meaning: female chicken
   tags:
     - Animals
-- entry: häwj
+häwj:
   pos: Noun
   meaning: hay
   tags:
     - Plants
-- entry: hód
+hód:
   pos: Noun
   meaning: hood, head covering
-- entry: hülis
+hülis:
   pos: Noun
   meaning: holly
   tags:
     - Plants
-- entry: hűrwon
+hűrwon:
   pos: Verb
   meaning: to hire
-- entry: igil
+igil:
   pos: Noun
   meaning: hedgehog
   tags:
     - Animals
-- entry: imbij
+imbij:
   pos: Noun
   meaning: beeswarm
   tags:
     - Animals
-- entry: inboron
+inboron:
   pos: Adjective
   meaning: innate
-- entry: jung
+jung:
   pos: Adjective
   meaning: young
   tags:
     - Descriptions
-- entry: kak
+kak:
   pos: Noun
   meaning: cake
   tags:
     - Food
-- entry: kalv
+kalv:
   pos: Noun
   meaning: calf
   tags:
     - Animals
-- entry: kat
+kat:
   pos: Noun
   meaning: cat
   tags:
     - Animals
-- entry: kaupjon
+kaupjon:
   pos: Verb
   meaning: to buy
   template: weak-jun
-- entry: kerk
+kerk:
   pos: Noun
   meaning: church
-- entry: keukin
+keukin:
   pos: Noun
   meaning: chicken
   tags:
     - Animals
-- entry: keuson
+keuson:
   pos: Verb
   meaning: to choose
   template: strong-2
-- entry: klain
+klain:
   pos: Adjective
   meaning: small
   tags:
     - Descriptions
-- entry: klaiþ
+klaiþ:
   pos: Noun
   meaning: cloth, clothing, clothes
-- entry: kleivon
+kleivon:
   pos: Verb
   meaning: to stick to
   template: strong-1
-- entry: knedon
+knedon:
   pos: Verb
   meaning: to knead
   template: strong-34-e
   note: Irregular strong-34-e
-- entry: kneipon
+kneipon:
   pos: Verb
   meaning: to pinch
   template: strong-1
-- entry: knew
+knew:
   pos: Noun
   meaning: knee
   tags:
     - Body
-- entry: knuk
+knuk:
   pos: Noun
   meaning: bone
   tags:
     - Time
-- entry: kopp
+kopp:
   pos: Noun
   meaning: head
-- entry: korn
+korn:
   pos: Noun
   meaning: seed, stone (of fruit)
   tags:
     - Plants
-- entry: krab
+krab:
   pos: Noun
   meaning: crab
-- entry: krank
+krank:
   pos: Adjective
   meaning: sick, ill
-- entry: krán
+krán:
   pos: Noun
   meaning: crane
   tags:
     - Animals
-- entry: kuss
+kuss:
   pos: Noun
   meaning: kiss
   see:
     - küssjun
-- entry: kuw
+kuw:
   pos: Noun
   meaning: cow
   tags:
     - Animals
-- entry: kwemun an
+kwemun an:
   pos: Verb
   meaning: arrive
   template: strong-34-e
-- entry: kwemon
+kwemon:
   pos: Verb
   meaning: to come
   template: strong-34-e
-- entry: kwik
-  pos: Adjective
-  meaning: lively
-- entry: kwik
+kwik:
   pos:
     - Adjective
     - Adverb
   meaning: quick, lively, of short duration
-- entry: kwild
+kwild:
   pos: Noun
   meaning: evening
   synonyms:
     - kwild
   tags:
     - Time
-- entry: káp
+káp:
   pos: Noun
   meaning: cape
-- entry: küssjon
+küssjon:
   pos: Verb
   meaning: to kiss
   see:
     - kuss
-- entry: lahs
+lahs:
   pos: Noun
   meaning: salmon
   tags:
     - Animals
-- entry: lairion
+lairion:
   pos: Verb
   meaning: to teach
   template: weak-jun
-- entry: laiwarik
+laiwarik:
   pos: Noun
   meaning: lark
   tags:
     - Animals
-- entry: lamb
+lamb:
   pos: Noun
   meaning: lamb
   tags:
     - Animals
-- entry: lat
+lat:
   pos:
     - Adjective
     - Adverb
   meaning: late
   tags:
     - Time
-- entry: latir
+latir:
   pos:
     - Adjective
     - Adverb
@@ -1294,7 +1282,7 @@
     - Time
   see:
     - lat
-- entry: latist
+latist:
   pos:
     - Adjective
     - Adverb
@@ -1303,1064 +1291,1060 @@
     - Time
   see:
     - lat
-- entry: laon
+laon:
   pos: Noun
   meaning: wage, reward, pay
-- entry: lebruon
+lebruon:
   pos: Noun
   meaning: deliver
-- entry: leib
+leib:
   pos: Noun
   meaning: life
-- entry: leik
+leik:
   pos: Noun
   meaning: body
   tags:
     - Time
-- entry: leivon
+leivon:
   pos: Verb
   meaning: to remain
   template: strong-1
-- entry: leiþon
+leiþon:
   pos: Verb
   meaning: to suffer
   template: strong-1
-- entry: lernon
+lernon:
   pos: Verb
   meaning: to learn
   template: weak-nun
-- entry: leson
+leson:
   pos: Verb
   meaning: to read
-- entry: leuson
+leuson:
   pos: Verb
   meaning: to lose
   template: strong-2
-- entry: lim
+lim:
   pos: Noun
   meaning: limb, branch
-- entry: luhs
+luhs:
   pos: Noun
   meaning: lynx
   tags:
     - Animals
-- entry: lust
+lust:
   pos: Noun
   meaning: desire
-- entry: lár / lér
+lár / lér:
   pos: Adjective
   meaning: empty
-- entry: láton
+láton:
   pos: Verb
   meaning: to let
   template: strong-7d
-- entry: luv
+luv:
   pos: Noun
   meaning: love
   tags:
     - Feelings
-- entry: lütt
+lütt:
   pos: Adjective
   meaning: small
   tags:
     - Descriptions
-- entry: luvian
+luvian:
   pos: Verb
   meaning: to love
-- entry: mair
+mair:
   pos: Adjective
   meaning: more
   tags:
     - Descriptions
   see:
     - maist
-- entry: maist
+maist:
   pos: Adjective
   meaning: most
   tags:
     - Descriptions
   see:
     - mair
-- entry: malm
+malm:
   pos: Noun
   meaning: ore
-- entry: malon
+malon:
   pos: Verb
   meaning: to grind
   template: strong-6
-- entry: mapul
+mapul:
   pos: Noun
   meaning: maple
   tags:
     - Nature
-- entry: marþur
+marþur:
   pos: Noun
   meaning: marten
   tags:
     - Animals
-- entry: melkon
+melkon:
   pos: Verb
   meaning: to milk
   template: strong-34-e
-- entry: melton
+melton:
   pos: Verb
   meaning: to melt (intransitive)
   template: strong-34-e
-- entry: meton
+meton:
   pos: Verb
   meaning: to measure
   template: strong-5
-- entry: meurj
+meurj:
   pos: Noun
   meaning: ant
   tags:
     - Animals
-- entry: midil
+midil:
   pos: Noun
   meaning: middle
   tags:
     - Descriptions
-- entry: midirdag
+midirdag:
   pos: Noun
   meaning: midday
   tags:
     - Time
-- entry: midirdagis
+midirdagis:
   pos: Adverb
   meaning: at noon
   tags:
     - Time
-- entry: midirnaht
+midirnaht:
   pos: Noun
   meaning: midnight
   tags:
     - Time
-- entry: midd
+midd:
   pos: Noun
   meaning: middle, center
   tags:
     - Descriptions
-- entry: mikil
+mikil:
   pos: Adjective
   meaning: much, many, big
   tags:
     - Descriptions
-- entry: mindir
+mindir:
   pos: Adjective
   meaning: less
   tags:
     - Descriptions
   see:
     - mindist
-- entry: mindist
+mindist:
   pos: Adjective
   meaning: least
   tags:
     - Descriptions
   see:
     - mindir
-- entry: mislukuon
+mislukuon:
   pos: Verb
   meaning: to fail
-- entry: modor
+modor:
   pos: Noun
   meaning: mother
   tags:
     - Family
-- entry: morgunis
+morgunis:
   pos: Noun
   meaning: in the mornings
   tags:
     - Time
-- entry: morgon
+morgon:
   pos: Noun
   meaning: morning
   tags:
     - Time
-- entry: märhj
+märhj:
   pos: Noun
   meaning: female horse
   tags:
     - Animals
-- entry: múl
+múl:
   pos: Noun
   meaning: jaws
-- entry: mús
+mús:
   pos: Noun
   meaning: mouse
   tags:
     - Animals
-- entry: naht
+naht:
   pos: Noun
   meaning: night
   tags:
     - Time
   see:
     - nahtis
-- entry: nat
+nat:
   pos: Adjective
   meaning: wet, moist
-- entry: natjon
+natjon:
   pos: Verb
   meaning: to dampen, to moisten, to wetten
-- entry: naud
+naud:
   pos: Noun
   meaning: need, emergency
-- entry: nemon an
+nemon an:
   pos: Verb
   meaning: to accept
-- entry: nemon
+nemon:
   pos: Verb
   meaning: to take
   template: strong-34-e
-- entry: nest
+nest:
   pos: Noun
   meaning: nest
   tags:
     - Animals
-- entry: neson
+neson:
   pos: Verb
   meaning: to heal (intransitive)
   template: strong-5
-- entry: niw
+niw:
   pos: Adjective
   meaning: new
-- entry: norþ
+norþ:
   pos: Noun
   meaning: north
   tags:
     - Geography
-- entry: nu
+nu:
   pos: Adverb
   meaning: now
-- entry: nuh
+nuh:
   pos: Adverb
   meaning: yet
-- entry: närion
+närion:
   pos: Verb
   meaning: to heal (transitive), to take care of
   template: weak-jun
-- entry: obotj
+obotj:
   pos: Noun
   meaning: fruit
   tags:
     - Plants
     - Food
-- entry: of
+of:
   pos: Conjunction
   meaning: or
-- entry: oft
+oft:
   pos: Adverb
   meaning: often
-- entry: ohs
+ohs:
   pos: Noun
   meaning: ox, castrated bull
   tags:
     - Animals
-- entry: otur
+otur:
   pos: Noun
   meaning: otter
   tags:
     - Animals
-- entry: penning (pänning)
+penning (pänning):
   pos: Noun
   meaning: coin
-- entry: plehon
+plehon:
   pos: Verb
   meaning: to commit
   template: strong-5
-- entry: plutsleik
+plutsleik:
   pos:
     - Adjective
     - Adverb
   meaning: sudden, unexpected
-- entry: plúm
+plúm:
   pos: Noun
   meaning: plum
-- entry: pogg
+pogg:
   pos: Noun
   meaning: toad, frog
-- entry: poggstól
+poggstól:
   pos: Noun
   meaning: mushroom (especially edible ones)
-- entry: pratuon
+pratuon:
   pos: Verb
   meaning: to chat
-- entry: páw
+páw:
   pos: Noun
   meaning: peafowl
   tags:
     - Animals
-- entry: raid
+raid:
   pos: Adjective
   meaning: ready
-- entry: raidjun
+raidjun:
   pos: Verb
   meaning: to arrange
-- entry: raih
+raih:
   pos: Noun
   meaning: deer
   tags:
     - Animals
-- entry: ramm
+ramm:
   pos: Noun
   meaning: ram, male sheep
   tags:
     - Animals
-- entry: raud
+raud:
   pos: Adjective
   meaning: red
   tags:
     - Descriptions
-- entry: reidon
+reidon:
   pos: Verb
   meaning: to ride
   template: strong-1
-- entry: reikj (1)
+reikj (1):
   pos: Noun
   meaning: kingdom, government, realm, authority
   see:
     - reikj (2)
-- entry: reikj (2)
+reikj (2):
   pos: Adjective
   meaning: rich
   see:
     - reikj (1)
-- entry: reison
+reison:
   pos: Verb
   meaning: to travel, to increase (intransitive)
   template: strong-1
-- entry: reþ
+reþ:
   pos: Noun
   meaning: speech, thing said
   note: i-umlaut?
-- entry: rinnon
+rinnon:
   pos: Verb
   meaning: to run
   template: strong-3-i
-- entry: rád
+rád:
   pos: Noun
   meaning: advise, speech
-- entry: rádon
+rádon:
   pos: Verb
   meaning: to advise
   template: strong-7d
-- entry: rádsol
+rádsol:
   meaning: riddle, puzzle
   pos: Noun
   note: From PWG \*rādlisī. ra̋disol? ra̋dsol?
-- entry: sam
+sam:
   pos: Verb
   meaning: same
-- entry: samilon
+samilon:
   pos: Verb
   meaning: to gather
-- entry: samon
+samon:
   pos: Verb
   meaning: together
-- entry: sehun in
+sehun in:
   pos: Verb
   meaning: to comprehend, to realise
   template: strong-34-e
-- entry: sehon
+sehon:
   pos: Verb
   meaning: to see
   template: strong-5
-- entry: seldon
-  pos: Adverb
-  meaning: seldom
-- entry: seldon
+seldon:
   pos: Adjective
   meaning: rare, seldom
-- entry: selh
+selh:
   pos: Noun
   meaning: seal
   tags:
     - Animals
-- entry: selv
+selv:
   pos: Noun
   meaning: self
-- entry: senkion
+senkion:
   pos: Verb
   meaning: to sink (transitive)
   template: weak-jun
-- entry: seuk
+seuk:
   pos: Adjective
   meaning: sick, ill
-- entry: siht
+siht:
   pos: Noun
   meaning: sight
-- entry: sikor
+sikor:
   pos: Adjective
   meaning: safe
-- entry: singon
+singon:
   pos: Verb
   meaning: to sing
   template: strong-3-i
-- entry: sinkon
+sinkon:
   pos: Verb
   meaning: to sink (intransitive)
   template: strong-3-i
-- entry: skaiþon
+skaiþon:
   pos: Verb
   meaning: to separate, to distinguish
   template: strong-7a
-- entry: skakon
+skakon:
   pos: Verb
   meaning: to shake
   template: strong-6
-- entry: skakon
-  pos: Verb
-  meaning: to shake
-  template: strong-6
-- entry: skap
+skap:
   pos: Noun
   meaning: shape, condition, nature
-- entry: skehon
+skehon:
   pos: Verb
   meaning: to move or to jump, to happen
   template: strong-5
-- entry: skeinon
+skeinon:
   pos: Verb
   meaning: to shine
   template: strong-1
-- entry: skeiton
+skeiton:
   pos: Verb
   meaning: to shite, to defecate
   template: strong-1
-- entry: skeld
+skeld:
   pos: Noun
   meaning: shield
-- entry: skeuton
+skeuton:
   pos: Verb
   meaning: to shoot
   template: strong-2
-- entry: skokk
+skokk:
   pos: Noun
   meaning: shock
-- entry: skokkuon
+skokkuon:
   pos: Verb
   meaning: to shock
-- entry: skor
+skor:
   pos: Noun
   meaning: shore
-- entry: skrakow
+skrakow:
   pos: Noun
   meaning: exaggeration, lie
-- entry: skraudon
+skraudon:
   pos: Verb
   meaning: to cut up, to shred
   template: strong-7b
-- entry: skrimpul
+skrimpul:
   pos: Noun
   meaning: shrimp
-- entry: skáp
+skáp:
   pos: Noun
   meaning: sheep
   tags:
     - Animals
-- entry: skóh
+skóh:
   pos: Noun
   meaning: shoe
   tags:
     - Clothing
-- entry: slahan för
+slahan för:
   pos: Verb
   meaning: to suggest
-- entry: slahon
+slahon:
   pos: Verb
   meaning: to strike, to hit
   template: strong-6
-- entry: sleuton
+sleuton:
   pos: Verb
   meaning: to close
   template: strong-2
-- entry: slápon
+slápon:
   pos: Verb
   meaning: to sleep
   template: strong-7d
-- entry: smal
+smal:
   pos: Adjective
   meaning: small
-- entry: smeil
+smeil:
   pos: Noun
   meaning: smile
-- entry: smeiluon
+smeiluon:
   pos: Verb
   meaning: to smile
-- entry: smelt
+smelt:
   pos: Noun
   meaning: smelt
   tags:
     - Animals
-- entry: snakuon
+snakuon:
   pos: Verb
   meaning: to chat
-- entry: sneidon
+sneidon:
   pos: Verb
   meaning: to snow
   template: strong-1
-- entry: snell
+snell:
   pos:
     - Adjective
     - Adverb
   meaning: fast
-- entry: sokk
+sokk:
   pos: Noun
   meaning: sock
   tags:
     - Clothing
-- entry: spanon
+spanon:
   pos: Verb
   meaning: to stretch, to span
   template: strong-7c-i
-- entry: spilwon
+spilwon:
   pos: Verb
   meaning: to play
-- entry: spit
+spit:
   pos: Noun
   meaning: tip (e.g of an arrow)
-- entry: spleiton
+spleiton:
   pos: Verb
   meaning: to split, to divide
   template: strong-1
-- entry: sprekon
+sprekon:
   pos: Verb
   meaning: to speak
   template: strong-34-e
   note: Irregular strong-34-e
-- entry: springon
+springon:
   pos: Verb
   meaning: to spring
   template: strong-3-i
-- entry: stad
+stad:
   pos: Noun
   meaning: place
-- entry: stadir
+stadir:
   pos: Preposition
   meaning: instead of
-- entry: stauton
+stauton:
   pos: Verb
   meaning: to push, to support
   template: strong-7b
-- entry: steikon
+steikon:
   pos: Verb
   meaning: to stick, to be stuck
   template: strong-1
-- entry: stekon
+stekon:
   pos: Verb
   meaning: to stab
   template: strong-34-e
   note: Irregular strong-34-e
-- entry: stelon
+stelon:
   pos: Verb
   meaning: to steal
   template: strong-34-e
-- entry: stervon
+stervon:
   pos: Verb
   meaning: to die
   template: strong-34-e
-- entry: steur
+steur:
   pos: Noun
   meaning: bull
   tags:
     - Animals
-- entry: stinkon
+stinkon:
   pos: Verb
   meaning: to stink
   template: strong-3-i
-- entry: stork
+stork:
   pos: Noun
   meaning: stork
   tags:
     - Animals
-- entry: streidon
+streidon:
   pos: Verb
   meaning: to quarrel
   template: strong-1
-- entry: streidon
-  pos: Verb
-  meaning: to quarrel
-  template: strong-1
-- entry: streikon
+streikon:
   pos: Verb
   meaning: to strike, to hit
   template: strong-1
-- entry: stäggj
+stäggj:
   pos: Noun
   meaning: male deer
   tags:
     - Animals
-- entry: ställjon
+ställjon:
   pos: Verb
   meaning: to put, to place
-- entry: stód
+stód:
   pos: Noun
   meaning: herd of horses
   tags:
     - Animals
-- entry: stór
+stór:
   pos: Adjective
   meaning: big
   tags:
     - Descriptions
-- entry: störj
+störj:
   pos: Noun
   meaning: sturgeon
-- entry: sumor
+sumor:
   pos: Noun
   meaning: summer
   tags:
     - Time
-- entry: sundir
+sundir:
   pos: Preposition
   meaning: without
-- entry: sundor
+sundor:
   pos: Adjective
   meaning: alone, separate
-- entry: sunþ
+sunþ:
   pos: Noun
   meaning: south
   tags:
     - Geography
-- entry: suw
+suw:
   pos: Noun
   meaning: sow, female pig
   tags:
     - Animals
-- entry: swaipon
+swaipon:
   pos: Verb
   meaning: to sweep
   template: strong-7a
-- entry: swalw
+swalw:
   pos: Noun
   meaning: swallow
   tags:
     - Animals
-- entry: swalow
+swalow:
   pos: Noun
   meaning: swallow (bird)
-- entry: swamm
+swamm:
   pos: Noun
   meaning: fungus, mushroom
-- entry: swan
+swan:
   pos: Noun
   meaning: swan
   tags:
     - Animals
-- entry: swart
+swart:
   pos: Adjective
   meaning: black
   tags:
     - Descriptions
-- entry: swaron
+swaron:
   pos: Verb
   meaning: to swear (to make a solemn promise)
   tags:
     - Language
   template: strong-6
-- entry: swaïgian
+swaïgian:
   pos: Verb
   meaning: to sway, to rock
-- entry: swein
+swein:
   pos: Noun
   meaning: swine, pig
   tags:
     - Animals
-- entry: swellon
+swellon:
   pos: Verb
   meaning: to swell
   template: strong-34-e
-- entry: sweron
+sweron:
   pos: Verb
   meaning: to swear, to make an oath
   template: strong-6-j
-- entry: swestor
+swestor:
   pos: Noun
   meaning: brother
   tags:
     - Family
-- entry: swindon
+swindon:
   pos: Verb
   meaning: to dwindle
   template: strong-3-i
-- entry: swingon
+swingon:
   pos: Verb
   meaning: to swing (intransitive)
   template: strong-3-i
-- entry: swár
+swár:
   pos: Adjective
   meaning: heavy
-- entry: taihow
+taihow:
   pos: Noun
   meaning: toe
-- entry: tanþ
+tanþ:
   pos: Noun
   meaning: tooth
-- entry: taubor
+taubor:
   pos: Noun
   meaning: magic
-- entry: teuhon
+teuhon:
   pos: Verb
   meaning: to pull
   template: strong-2
-- entry: titirjon
+titirjon:
   pos: Verb
   meaning: shiver, shake, vibrate
-- entry: tweig
+tweig:
   pos: Noun
   meaning: twig
-- entry: twiskir
+twiskir:
   pos: Preposition
   meaning: between, among
-- entry: and-
+and-:
   pos:
     - Affix
   meaning: prefix for verbs or nouns meaning "against", or indicating "removal"
-- entry: andgäldj
+andgäldj:
   pos: Noun
   meaning: compensation, recompense
   see:
     - and-
-- entry: andgäldjon
+andgäldjon:
   pos: Verb
   meaning: to recompense, to compensate
   see:
     - gäldjun
     - and-
-- entry: andkwemmon
+andkwemmon:
   pos: Verb
   meaning: to leave, to flee
   see:
     - kwemmun
     - and-
-- entry: orsak
+orsak:
   pos: Noun
   meaning: cause
-- entry: utfördion
+utfördion:
   pos: Noun
   meaning: challenge
-- entry: wagon
+wagon:
   pos: Noun
   meaning: wagon, cart
-- entry: wahs
+wahs:
   pos: Noun
   meaning: wax
-- entry: wahson
+wahson:
   pos: Verb
   meaning: to grow
   template: strong-6
-- entry: waikw
+waikw:
   pos: Adjective
   meaning: weak, soft
-- entry: wakon
+wakon:
   pos: Verb
   meaning: to awaken (intransitive)
   template: strong-6
   see:
     - wäkiun
-- entry: wald
+wald:
   pos: Noun
   meaning: forest
   tags:
     - Nature
-- entry: wardon
+wardon:
   pos: Verb
   meaning: to wait, to guard, to keep watch
-- entry: warm
+warm:
   pos: Adjective
   meaning: warm
-- entry: warr
+warr:
   pos: Noun
   meaning: spring
   tags:
     - Time
-- entry: weipon
+weipon:
   pos: Verb
   meaning: to wipe
   template: strong-1
-- entry: wel
+wel:
   pos: Adverb
   meaning: very
-- entry: wendion
+wendion:
   pos: Verb
   meaning: to turn; to put to use
   template: weak-jun
-- entry: werþon
+werþon:
   pos: Verb
   meaning: to become
   template: strong-34-e
-- entry: wesonhaid
+wesonhaid:
   pos: Noun
   meaning: essence
-- entry: west
+west:
   pos: Noun
   meaning: west
   tags:
     - Geography
-- entry: wind
+wind:
   pos: Noun
   meaning: wind
-- entry: wintor
+wintor:
   pos: Noun
   meaning: winter
   tags:
     - Time
-- entry: wirsir
+wirsir:
   pos: Adjective
   meaning: worse
   tags:
     - Descriptions
   see:
     - übil
-- entry: wirst
+wirst:
   pos: Adjective
   meaning: worst
   tags:
     - Descriptions
   see:
     - übil
-- entry: wisul
+wisul:
   pos: Noun
   meaning: weasel
   tags:
     - Animals
-- entry: wiþir
+wiþir:
   pos: Adverb
-  meaning: >-
+  meaning:
     further, indicates continuation of action e.g. "gán wiþir" (to continue to
     go, to go further)
-- entry: wolf
+wolf:
   pos: Noun
   meaning: wolf
   tags:
     - Animals
-- entry: worm
+worm:
   pos: Noun
   meaning: worm
   tags:
     - Animals
-- entry: wort
+wort:
   pos: Noun
   meaning: plant
-- entry: wrekon
+wrekon:
   pos: Verb
   meaning: to punish
   template: strong-5
-- entry: wár
+wár:
   pos: Adjective
   meaning: truth
-- entry: wäddjon
+wäddjon:
   pos: Verb
   meaning: bet
-- entry: wäkion
+wäkion:
   pos: Verb
   meaning: to wake up (transitive)
   template: weak-jun
-- entry: ál
+ál:
   pos: Noun
   meaning: eel
   tags:
     - Animals
-- entry: áp
+áp:
   pos: Noun
   meaning: ape
   tags:
     - Animals
-- entry: übil
+übil:
   pos: Adjective
   meaning: bad
   tags:
     - Descriptions
-- entry: üm
+üm:
   pos: Preposition
   meaning: around
-- entry: üm at
+üm at:
   pos: Conjunction
   meaning: because
   see:
     - üm
-- entry: þahs
+þahs:
   pos: Noun
   meaning: badger
   tags:
     - Animals
-- entry: þauh
+þauh:
   pos: Adverb
   meaning: though, however, nonetheless
-- entry: þik
+þik:
   pos: Adjective
   meaning: thick
-- entry: þorh
+þorh:
   pos: Preposition
   meaning: through
-- entry: þorp
+þorp:
   pos: Noun
   meaning: village
   tags:
     - Civilisation
-- entry: þorsk
+þorsk:
   pos: Noun
   meaning: cod
-- entry: þrangw
+þrangw:
   pos: Noun
   meaning: to press
   see:
     - þrinhwun
-- entry: þrast
+þrast:
   pos: Noun
   meaning: thrush (bird)
   tags:
     - Animals
-- entry: þringon
+þringon:
   pos: Verb
   meaning: to press
   template: strong-3-i
-- entry: þrinhwend
+þrinhwend:
   pos: Adjective
   meaning: urgent
   see:
     - þrinhwun
-- entry: þrinhwon
+þrinhwon:
   pos: Verb
   meaning: to press; to be urgent
-- entry: þráwon
+þráwon:
   pos: Verb
   meaning: to turn, to twist
   template: strong-7d
-- entry: þäkjon
+þäkjon:
   pos: Verb
   meaning: cover
-- entry: þünn
+þünn:
   pos: Adjective
   meaning: thin
-- entry: hág
+hág:
   pos: Noun
   meaning: yard, pasture, small forest
-  see: [hägg]
-- entry: hägg
+  see:
+    - hägg
+hägg:
   meaning: garden, enclosure
-  see: [hág]
+  see:
+    - hág
   pos: Noun
-- entry: trinnon
+trinnon:
   meaning: to separate oneself
   pos: Verb
   template: strong-3-i
-- entry: trännion
+trännion:
   meaning: to cause separate, to divide
   pos: Verb
   template: weak-jun
-- entry: beur
+beur:
   meaning: beer
   pos: Noun
-- entry: aigon (1)
+aigon (1):
   meaning: to own
   pos: Verb
   note: irregular
-- entry: aigon (2)
+aigon (2):
   pos: Adjective
   meaning: own
-- entry: aigonleik
-  pos: [Adjective, Adverb]
+aigonleik:
+  pos:
+    - Adjective
+    - Adverb
   meaning: actually, in reality
-- entry: samlon
+samlon:
   pos: Verb
   template: weak-lun
   meaning: to gather, to collect
-- entry: saiwol
+saiwol:
   pos: Noun
   meaning: soul
-- entry: mándag
+mándag:
   meaning: Monday
   pos: Noun
-  tags: [Time]
-- entry: teiwsdag
+  tags:
+    - Time
+teiwsdag:
   meaning: Tuesday
   pos: Noun
-  tags: [Time]
-- entry: wódnasdag
+  tags:
+    - Time
+wódnasdag:
   meaning: Wednesday
   pos: Noun
-  tags: [Time]
-- entry: freijodag
+  tags:
+    - Time
+freijodag:
   meaning: Friday
   pos: Noun
-  tags: [Time]
-- entry: satordag
+  tags:
+    - Time
+satordag:
   meaning: Saturday
   pos: Noun
-  tags: [Time]
-- entry: stund
+  tags:
+    - Time
+stund:
   meaning: hour
   pos: Noun
-- entry: dust
+dust:
   meaning: dust
   pos: Noun
-- entry: rúm
+rúm:
   meaning: space, room
   pos: Noun
-- entry: rúmuon
+rúmuon:
   meaning: to make spacel to tidy up
   pos: Verb
-- entry: mőþ
+mőþ:
   meaning: tired
   pos: Adjective
-- entry: tagol
+tagol:
   meaning: tail
   pos: Noun
-- entry: nakwod
+nakwod:
   meaning: naked
   pos: Adjective
-- entry: fraw
-  meaning: happy
-  pos: Adjective
-- entry: href
+href:
   meaning: body
   pos: Noun
-- entry: birkj
+birkj:
   meaning: birch
   pos: Noun
-- entry: ginóg
+ginóg:
   meaning: enough
   pos: Adverb
-- entry: rakuon
+rakuon:
   meaning: to touch
   pos: Verb
   template: weak-jun
-- entry: workion
+workion:
   meaning: to work (irregular)
   pos: Verb
-- entry: wörkion
+wörkion:
   meaning: to be effective, to take effect
   pos: Verb
   template: weak-jun
-- entry: bóg
+bóg:
   meaning: bough, big branch
   pos: Noun
-- entry: förnumoþ  / förnümþ / förnumþ
+förnumoþ  / förnümþ / förnumþ:
   meaning: reason (capacity to reason)
   pos: Noun
-  see: [-þiz]
-- entry: giwiton
+  see:
+    - "-þiz"
+giwiton:
   meaning: conscience
   pos: Noun
-- entry: sprok
+sprok:
   meaning: language
   pos: Noun
-- entry: mainuon
+mainuon:
   meaning: to mean, to have an opinion
   pos: Verb
-- entry: mán
+mán:
   meaning: moon
-	pos: Noun
-- entry: bágon
-  pos: Verb
-	meaning: to fight
-	template: strong-7d
-- entry: bág
   pos: Noun
-	meaning: fight, quarrel
-- entry: báglon
+bágon:
   pos: Verb
-	meaning: to discuss, to quarrel
-	template: weak-lun
+  meaning: to fight
+  template: strong-7d
+bág:
+  pos: Noun
+  meaning: fight, quarrel
+báglon:
+  pos: Verb
+  meaning: to discuss, to quarrel
+  template: weak-lun

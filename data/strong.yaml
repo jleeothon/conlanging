@@ -1,0 +1,512 @@
+strong-1:
+  - beidon # to offer
+  - beiton # to bite
+  - bleikon
+  - deikon
+  - dreibon # to drive
+  - dreiton # to defecate
+  - dweinon
+  - feison
+  - geinon
+  - gleidon
+  - gleimon
+  - gleipon
+  - gleiton
+  - gneidon
+  - greinon
+  - greipon
+  - greison
+  - hleidon
+  - hneigon
+  - hneipon
+  - hneiton
+  - hneiwon
+  - hreibon
+  - hreinon
+  - hreiton
+  - hweinon
+  - keibon
+  - keikon
+  - keinon
+  - kleibon # stick
+  - kneipon
+  - kreiton
+  - kweinon
+  - leibon
+  - leiþon
+  - meigon # to pee
+  - meiþon # to avoid
+  - peipon
+  - reidon
+  - reifon
+  - reihon
+  - reimon
+  - reipon
+  - reison
+  - seigon
+  - seipon
+  - skeinon
+  - skeiton
+  - skreibon # write
+  - skreiton
+  - skreiþon
+  - sleibon
+  - sleidon
+  - sleikon
+  - sleipon
+  - sleiton
+  - smeiton
+  - sneikon
+  - sneiwon
+  - sneiþon
+  - speiwon
+  - spleiton
+  - spreiþon
+  - steigon
+  - streibon
+  - streidon
+  - streikon
+  - sweibon
+  - sweimon
+  - sweinon
+  - sweiþon
+  - teihon
+  - weipon
+  - weiton
+  - wleiton
+  - wreibon
+  - wreihon
+  - wreiton
+  - wreiþon
+  - þreibon
+  - þweinon
+
+strong-2:
+  - anabeudon
+  - beudon # to offer
+  - beugon # to bow, to bend
+  - breuton
+  - breuþon
+  - dreugon
+  - dreupon
+  - dreuson
+  - feukon
+  - fleugon
+  - fleuhon
+  - fleuton
+  - fneuson
+  - fraleuson
+  - freuson
+  - freuþon
+  - furibeudon
+  - ganeuton
+  - geuson
+  - geuton # to pour, to water
+  - gleupon
+  - greupon
+  - greuton
+  - heufon
+  - hleuton
+  - hneudon
+  - hneupon
+  - hneuson
+  - hreudon
+  - hreuson
+  - hreuton
+  - keuson
+  - kleubon
+  - kreukon
+  - kreupon
+  - kreuston
+  - leudon
+  - leugon
+  - leukon
+  - leuson
+  - leuston
+  - neuton # to use
+  - reudon
+  - reufon
+  - reukon
+  - reuton
+  - seukon
+  - seuþon
+  - skeubon
+  - skeuton
+  - sleupon
+  - sleuton
+  - smeugon # to creep
+  - smeukon
+  - sneufon # to sniff, to snort
+  - spreuton
+  - steubon
+  - streukon
+  - streupon
+  - teuhon # to tee, to pull
+  - uzþreuton
+  - þeuton
+  - þreuton # to harass
+
+strong-3-e:
+  - belgon
+  - bellon # to call, to bark, to cry out
+  - bergon # to protect, to accumulate
+  - berkon
+  - bigerdon
+  - delbon
+  - delgon
+  - derbon
+  - felhon
+  - ferton
+  - frageldon
+  - frawerþon
+  - gawerpon
+  - geldon
+  - gellon
+  - gerdon
+  - gerron
+  - hellon
+  - helpon
+  - hwelbon
+  - hwerbon
+  - kerbon
+  - kerzon
+  - kwellon
+  - kwerron
+  - melkon
+  - melton # to melt (intr.)
+  - selkon
+  - serþon
+  - skelbon
+  - skeldon
+  - skellon
+  - skerton
+  - smelton
+  - smerton
+  - snerkon
+  - sterbon # to die
+  - sterkon
+  - swelgon
+  - swellon # to swell
+  - swelton
+  - swerbon
+  - swerkon
+  - teldon
+  - uzwerpon
+  - wellon
+  - welton
+  - welwon
+  - werpon
+  - werzon
+  - werþon # to become
+  - þerson
+
+strong-3-i:
+  - andabindon
+  - bibindon
+  - bindon
+  - biwindon
+  - blinkon
+  - brimmon
+  - bringon
+  - brinnon
+  - dimbon
+  - dinton
+  - drinkon
+  - finkon
+  - finþon
+  - fraslindon
+  - gabindon
+  - gawinnon
+  - ginnon
+  - glinton
+  - grimmon
+  - grindon
+  - hinkon
+  - hinþon
+  - hlimmon
+  - hrimpon
+  - hrindon
+  - kimbon
+  - klimbon
+  - klingon
+  - krimmon
+  - krimpon
+  - kringon
+  - krinkon
+  - krinton
+  - kwinkon
+  - limpon # to glide
+  - linnon
+  - ninþon
+  - rinnon
+  - sinnon
+  - skrimbon
+  - skrimpon
+  - skrindon
+  - slimpon
+  - slindon
+  - slinkon
+  - slinton
+  - spinnon
+  - springon
+  - sprinton
+  - stingon
+  - stinton
+  - swimmon
+  - swindon
+  - swingon
+  - swinkon
+  - tingon
+  - tinhon
+  - tinnon # to spark a fire
+  - trimpon # to trample
+  - trinnon
+  - twingon
+  - windon # to wind
+  - winnon
+  - wrimpon
+  - wringon
+  - þinhon
+  - þinson # to stretch
+  - þrimmon
+  - þrindon
+  - þrinton
+  - þwinhon
+
+strong-4-e:
+  - abagebon
+  - abanemon
+  - atberon
+  - atgebon
+  - beron
+  - bigeton
+  - bikwemon
+  - binemon
+  - brekon
+  - bremon
+  - dewon
+  - drepon
+  - dwelon
+  - eton
+  - fehon
+  - feton
+  - fraberon
+  - fragebon
+  - frakwemon
+  - frakweþon
+  - franemon
+  - furaikwemon
+  - furaikweþon
+  - gaberon
+  - ganemon
+  - ganeson
+  - gawedon
+  - gawrekon
+  - gebon
+  - geton
+  - helon
+  - hlefon
+  - hregon
+  - hreþon # to sift, to shake
+  - jedon
+  - jehon
+  - jeson # to ferment (intr.)
+  - kwebon
+  - kwelon
+  - kwemon
+  - kweron
+  - kweþon
+  - lekon
+  - leson
+  - meton
+  - nemon
+  - neson
+  - rekon
+  - skehon
+  - skeron
+  - skrepon
+  - snewon
+  - sprekon
+  - stelon
+  - stenon
+  - streþon
+  - swefon
+  - swelon
+  - sweron
+  - sweþon
+  - temon
+  - teron
+  - tregon
+  - trekon
+  - tremon
+  - uzberon
+  - uzgebon
+  - uznemon
+  - webon
+  - wedon
+  - wegon
+  - weson
+  - wrekon
+  - þweron
+
+strong-5:
+  - abagebon
+  - atgebon
+  - bigeton
+  - brekon
+  - dewon
+  - drepon
+  - eton
+  - fehon
+  - feton
+  - fraeton
+  - fragebon
+  - frakweþon
+  - furaikweþon
+  - gawedon
+  - gawrekon
+  - gebon
+  - geton
+  - hlefon
+  - hregon # to jut out, to become excited
+  - hreþon
+  - jedon
+  - jehon
+  - jeson
+  - kwebon
+  - kweþon
+  - lekon
+  - leson
+  - meton
+  - neson
+  - rekon
+  - skehon
+  - skrepon
+  - snewon
+  - sprekon
+  - streþon
+  - swefon
+  - sweþon
+  - tregon
+  - trekon
+  - uzgebon
+  - webon
+  - wedon
+  - wegon
+  - weson
+  - wrekon
+
+strong-6:
+  - akon # to ache
+  - alon
+  - anon
+  - andasakon
+  - bakon
+  - bigrabon
+  - dabon # to happen
+  - drabon
+  - dragon # to draw, to pull
+  - fahon
+  - faron # to travel
+  - flahon
+  - fradragon
+  - frafaron
+  - gadragon
+  - galon # to charm, to sing ritually
+  - gnagon # to gnaw
+  - grabon
+  - hagon
+  - hlaþon
+  - hnabon
+  - kalon # to cool (intr.)
+  - lahon # to blame
+  - lapon # to laddle up? to take a spoonful?
+  - malon # to pulverize
+  - sakon
+  - skabon # to shave
+  - skakon
+  - slahon # to hit, to kill
+  - snakon
+  - spanon
+  - wadon
+  - wakon
+  - þwahon
+  - skapon
+
+strong-6-e:
+  - swäron
+	- stäppon
+	- säbbon # to know, to notice
+	- räffon # to seize
+
+strong-7a:
+  - aigon
+  - aikon
+  - flaihon
+  - fraison
+  - haiton
+  - laikon
+  - maiton
+  - skaiþon
+  - swaipon
+  - taison
+  - uzhaiton
+
+strong-7b:
+  - aukon
+  - auson
+  - bauton
+  - daugon
+  - hlaupon
+  - skraudon
+  - stauton
+
+strong-7c:
+  - akron
+  - bannon
+  - batnon
+  - bistandon
+  - blandon
+  - fallon
+  - falþon
+  - fanhon
+  - flagnon
+  - frastandon
+  - furaistandon
+  - gawahwon
+  - haldon
+  - hanhon
+  - hawwon
+  - prangon # to press
+  - salton
+  - spannon
+  - staldon
+  - standon
+  - waldon
+  - walkon
+  - wallon
+  - walton
+  - waskon
+
+strong-7c-e:
+
+
+
+strong-7d-ow:
+  - blowon
+  - browon # to brew, to boil
+  - flowon
+  - glowon
+  - growon
+  - hlowon # to call
+  - rowon # to row
+
+strong-7d-ó:
+  - blóton # to sacrifice
+  - flókon # to beat, to strike
+  - hrópon # to call
+  - hwópon # to boast, to threaten
+  - hwóson # to cough
+  - mójon # to tire
+  - swógon # to overwhelm
+  - wróton # to root

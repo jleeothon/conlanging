@@ -1,0 +1,3 @@
+parser: yaml
+proseWrap: always
+quoteProps: as-needed
