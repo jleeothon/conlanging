@@ -24,10 +24,11 @@ function applyUmlaut(vowel) {
 	const umlautMapping = {
 		a: 'ä',
 		ai: 'äi',
+		au: 'äu',
 		o: 'ö',
 		u: 'ü',
-		ū: 'üü',
-		ō: 'öö',
+		ū: 'ű',
+		ō: 'ő',
 	};
 	const result = umlautMapping[vowel];
 	return result ? result : vowel;
@@ -37,7 +38,7 @@ function applyLengthening(vowel) {
 	const lengtheningMap = {
 		a: 'ā',
 		e: 'ē',
-		i: 'ī',
+	i: 'ī',
 		o: 'ō',
 		u: 'ū',
 	};
@@ -48,7 +49,7 @@ function applyLengthening(vowel) {
 function superRe(regexp) {
 	return new RegExp(
 		regexp.source
-			.replaceAll('[V]', '(?:ai|au|eu|iu|[aeiouāēīōūąǭį̄êô])')
+			.replaceAll('[V]', '(?:ai|au|eu|iu|[aeiouāēīōūąǭį̄êôűő])')
 			.replaceAll('[C]', '[bpdtgkmnfþszhjwlr]'),
 		regexp.flags
 	);
@@ -65,49 +66,28 @@ const transformations = [
 			if (!lemma.endsWith('ô')) {
 				return null;
 			}
-			const matches = lemma.match(superRe(/(?<vowel>[V]+)(?<consonants>[C]{1,2})ô$/));
-			if (matches) {
-				const prefix = lemma.substring(0, matches.index);
-				const coda = matches.groups.consonants;
-				const originalVowel = matches.groups.vowel;
-				const vowel = coda.length === 1 ? applyLengthening(originalVowel) : originalVowel;
-				return prefix + vowel + coda;
-			}
-			return null;
+			const re = superRe(/([V]+)([C]+)ô$/);
+			return lemma.replace(re, (match, vowel, consonant) => {
+				// Only short vowels followed by a single consonant
+				const vowelIsShort = ['a', 'e', 'i', 'o', 'u'].includes(vowel);
+				const consonantIsSingle = consonant.length === 1;
+				if (!(vowelIsShort && consonantIsSingle)) {
+					return vowel + consonant;
+				}
+				return applyLengthening(vowel) + consonant;
+			});
 		}
 	},
 	{
 		description: '-į̄ > (no umlaut) ∅',
 		do: (lemma) => {
 			return lemma.match(/^(.*)(į̄)$/)?.[1];
-			if (!lemma.endsWith('į̄')) {
-				return null;
-			}
-			const matches = lemma.match(/([aeiouāēīōūǭį̄êô]+)(.{1,2})į̄$/);
-			if (matches && matches[1] && matches[2]) {
-				const prefix = lemma.substring(0, matches.index);
-				const vowel = applyUmlaut(matches[1]);
-				const coda = matches[2];
-				return prefix + vowel + coda;
-			}
-			return null;
 		}
 	},
 	{
 		description: '-iz > (no umlaut) ∅',
 		do: (lemma) => {
 			return lemma.match(/^(.*)(iz)$/)?.[1];
-			if (!lemma.endsWith('iz')) {
-				return null;
-			}
-			const matches = lemma.match(/([aeiouāēīōūǭį̄êô]+)(.{1,2})iz$/);
-			if (matches) {
-				const prefix = lemma.substring(0, matches.index);
-				const vowel = applyUmlaut(matches[1]);
-				const coda = matches[2];
-				return prefix + vowel + coda;
-			}
-			return null;
 		}
 	},
 	{
@@ -117,7 +97,7 @@ const transformations = [
 	{
 		description: 'ur > or',
 		do(lemma) {
-			return lemma.replaceAll(superRe(/([V])[zr]/g), (match, vowel, ...args) => {
+			return lemma.replaceAll(superRe(/([V])[zr]/g), (match, vowel) => {
 				if (vowel === 'u') {
 					return 'or'
 				}
@@ -127,19 +107,30 @@ const transformations = [
 	},
 	{
 		description: 'ul > ol',
-		do: (lemma) => lemma.replace(/ul/, 'ol'),
+		do: (lemma) => lemma.replaceAll(/ul/g, 'ol'),
 	},
 	{
-		description: '-j > umlaut + ∅',
+		description: '-an > -on',
+		do: (lemma) => lemma.replace(/an$/, 'on'),
+	},
+	{
+		description: '-ij causes umlaut',
 		do: (lemma) => {
-			const matches = lemma.match(superRe(/(?<vowel>[V]+)(?<consonants>[C]{1,2})j$/));
-			if (matches) {
-				const start = lemma.substring(0, matches.index);
-				const vowel = applyUmlaut(matches.groups.vowel);
-				const ending = matches.groups.consonants + 'j';
-				return start + vowel + ending;
-			}
-			return null;
+			const re = superRe(/([V])([C]+)ij/g);
+			const replaced = lemma.replaceAll(re, (_, vowel, consonants) => {
+				return applyUmlaut(vowel) + consonants + 'ij';
+			});
+			return replaced;
+		}
+	},
+	{
+		description: '-j > causes umlaut',
+		do: (lemma) => {
+			const re = superRe(/([V]+)([C])j/g);
+			const result = lemma.replaceAll(re, (_, vowel, consonants) => {
+				return applyUmlaut(vowel) + consonants + 'j';
+			})
+			return result;
 		}
 	},
 	{
@@ -161,7 +152,6 @@ const transformations = [
 			const re = superRe(/(?<vowel>[V])(?<consonants>[C]{1,2})iþ$/);
 			const matches = lemma.match(re);
 			if (matches) {
-				console.log(matches);
 				const start = lemma.substring(0, matches.index);
 				const vowel = applyUmlaut(matches.groups.vowel);
 				const ending = matches.groups.consonants + 'iþ';
@@ -190,34 +180,37 @@ const transformations = [
 		do: (lemma) => lemma.replace(/wj/, 'w'),
 	},
 	{
-		description: '-kj > -ḱ',
-		do: (lemma) => lemma.replace(/kj$/, 'ḱ'),
+		description: '-kj > -č',
+		do: (lemma) => lemma.replace(/kj$/, 'č'),
 	},
 	{
-		description: '-gj > -ǵ',
-		do: (lemma) => lemma.replace(/gj$/, 'ǵ'),
+		description: '-gj > -ǧ',
+		do: (lemma) => lemma.replace(/gj$/, 'ǧ'),
 	},
 	{
-		description: '-kij > -ḱi',
-		do: (lemma) => lemma.replace(/kij$/, 'ḱi'),
+		description: '-kij > -ci',
+		do: (lemma) => lemma.replace(/kij/, 'ci'),
 	},
 	{
-		description: '-gij > -ǵi',
-		do: (lemma) => lemma.replace(/gij$/, 'ǵi'),
+		description: '-gij > -gi',
+		do: (lemma) => lemma.replace(/gij/, 'gi'),
 	},
 	{
-		description: '-an > -on',
-		do: (lemma) => lemma.replace(/an$/, 'on'),
+		description: 'Respell k > c',
+		do: (lemma) => lemma.replace(/c/, 'c'),
 	},
 	{
-		description: 'Rewrite orthography',
+		description: 'Rewrite vowels',
 		do: (lemma) => {
 			const replacements = {
-				ī: 'ei',
 				iu: 'eu',
-				ā: 'æ',
+				ā: 'aa',
+				ē: 'ee',
+				ī: 'ei',
 				ō: 'oo',
 				ū: 'uu',
+				ő: 'öö',
+				ű: 'üü',
 			};
 			return [...Object.entries(replacements)].reduce(
 				(accum, [key, val]) => accum.replaceAll(key, val),
