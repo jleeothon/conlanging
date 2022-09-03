@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "engines": {
-    "node": "^16.3"
+    "node": "^18"
   },
   "exports": "./index.js",
   "scripts": {
@@ -49,5 +49,12 @@
     "verror": "^1.10.1",
     "write-json-file": "^5.0.0",
     "xo": "^0.48.0"
+  },
+  "name": "slumpisk",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^5.5.0"
   }
 }
