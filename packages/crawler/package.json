@@ -1,0 +1,13 @@
+{
+  "name": "crawler",
+  "author": "Johnny E. Lee Othon",
+  "version": "1.0.0",
+  "description": "The files in this directory extract data from Wiktionary.",
+  "main": "crawl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "undefined": "/Users/johnnyleeothon/lang/slumpisk/packages/crawler"
+  }
+}
