@@ -396,6 +396,12 @@ strong-5:
   - weson
   - wrekon
 
+strong-5i:
+  - bidon - badon - bedon
+  - siton - saton - seton
+  - ligon - lagon - legon
+  - þigon - þagon - þegon # (to accept / to implore)
+
 strong-6:
   - akon # to ache
   - alon
@@ -432,12 +438,10 @@ strong-6:
   - wakon
   - þwahon
   - skapon
-
-strong-6-e:
-  - swäron
-	- stäppon
-	- säbbon # to know, to notice
-	- räffon # to seize
+  - swaron
+  - stapon
+  - sabon # to know, to notice
+  - ravon # to seize
 
 strong-7a:
   - aigon
@@ -489,8 +493,6 @@ strong-7c:
   - waskon
 
 strong-7c-e:
-
-
 
 strong-7d-ow:
   - blowon
