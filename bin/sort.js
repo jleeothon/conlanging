@@ -17,7 +17,7 @@ function recreateEntry({pos, meaning, synonyms, tags, template, see, ...rest}) {
 const entries = Object.entries(rawData);
 
 const data = entries.map(
-	([lemma, entry]) => [lemma, recreateEntry(entry)]
+	([lemma, entry]) => [lemma, recreateEntry(entry)],
 );
 
 // Sort entries themselves
@@ -25,7 +25,7 @@ data.sort(([lemmaA], [lemmaB]) => {
 	try {
 		return compare(lemmaA, lemmaB);
 	} catch (error) {
-		console.error('Could not compare', a, b);
+		console.error('Could not compare', lemmaA, lemmaB);
 		throw error;
 	}
 });
