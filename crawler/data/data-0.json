@@ -1535,9 +1535,19 @@
 		"title": "Reconstruction:Proto-Germanic/aukaną"
 	},
 	{
+		"pageid": 8685644,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/auknaną"
+	},
+	{
 		"pageid": 4405872,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/aukô"
+	},
+	{
+		"pageid": 8685672,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/aukōną"
 	},
 	{
 		"pageid": 3847646,
@@ -2135,11 +2145,6 @@
 		"title": "Reconstruction:Proto-Germanic/baumaz"
 	},
 	{
-		"pageid": 3627455,
-		"ns": 118,
-		"title": "Reconstruction:Proto-Germanic/baumijǭ"
-	},
-	{
 		"pageid": 2845567,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/baunō"
@@ -2153,6 +2158,11 @@
 		"pageid": 2621583,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/bautaną"
+	},
+	{
+		"pageid": 8717623,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/bautijaną"
 	},
 	{
 		"pageid": 4038858,
@@ -2268,6 +2278,11 @@
 		"pageid": 2719472,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/berhtaz"
+	},
+	{
+		"pageid": 8560171,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/bērilaz"
 	},
 	{
 		"pageid": 4413938,
@@ -2492,7 +2507,7 @@
 	{
 		"pageid": 3630502,
 		"ns": 118,
-		"title": "Reconstruction:Proto-Germanic/birilô"
+		"title": "Reconstruction:Proto-Germanic/birilaz"
 	},
 	{
 		"pageid": 3401251,
@@ -3238,6 +3253,11 @@
 		"pageid": 3471610,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/brunjǭ"
+	},
+	{
+		"pageid": 8506552,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/brunnaz"
 	},
 	{
 		"pageid": 4122804,
@@ -4635,6 +4655,11 @@
 		"title": "Reconstruction:Proto-Germanic/egalaz"
 	},
 	{
+		"pageid": 8628877,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/eh"
+	},
+	{
 		"pageid": 4995237,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/ehwaraidō"
@@ -4643,6 +4668,11 @@
 		"pageid": 2722545,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/ehwaz"
+	},
+	{
+		"pageid": 8571685,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/ehþau"
 	},
 	{
 		"pageid": 2323325,
@@ -4808,6 +4838,11 @@
 		"pageid": 2928375,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/eutaz"
+	},
+	{
+		"pageid": 8738939,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/euþą"
 	},
 	{
 		"pageid": 6519954,
@@ -5915,6 +5950,11 @@
 		"title": "Reconstruction:Proto-Germanic/fōdrą"
 	},
 	{
+		"pageid": 8623497,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/fōdrōną"
+	},
+	{
 		"pageid": 4928838,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/fōgijaną"
@@ -6765,6 +6805,11 @@
 		"title": "Reconstruction:Proto-Germanic/gadilingaz"
 	},
 	{
+		"pageid": 8506585,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/gadô"
+	},
+	{
 		"pageid": 7311183,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/gadōbiz"
@@ -7200,6 +7245,11 @@
 		"title": "Reconstruction:Proto-Germanic/garwiþō"
 	},
 	{
+		"pageid": 8566727,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/gasakaną"
+	},
+	{
 		"pageid": 5510236,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/gasaljô"
@@ -7450,6 +7500,11 @@
 		"title": "Reconstruction:Proto-Germanic/gerstō"
 	},
 	{
+		"pageid": 8478045,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/gerugaz"
+	},
+	{
 		"pageid": 2898496,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/getaną"
@@ -7613,6 +7668,11 @@
 		"pageid": 4018173,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/glīdaną"
+	},
+	{
+		"pageid": 8721223,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/glidǭ"
 	},
 	{
 		"pageid": 7372125,
@@ -8410,11 +8470,6 @@
 		"title": "Reconstruction:Proto-Germanic/haisraz"
 	},
 	{
-		"pageid": 3485557,
-		"ns": 118,
-		"title": "Reconstruction:Proto-Germanic/haistraz"
-	},
-	{
 		"pageid": 7501296,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/haitą"
@@ -8790,6 +8845,11 @@
 		"title": "Reconstruction:Proto-Germanic/harduz"
 	},
 	{
+		"pageid": 8545357,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/Harjabrandaz"
+	},
+	{
 		"pageid": 7316897,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/harjafardiz"
@@ -9033,6 +9093,11 @@
 		"pageid": 4995227,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/hazwaz"
+	},
+	{
+		"pageid": 8514361,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/Haþuwulfaz"
 	},
 	{
 		"pageid": 2900413,
@@ -10015,6 +10080,11 @@
 		"title": "Reconstruction:Proto-Germanic/hringijaną"
 	},
 	{
+		"pageid": 8527150,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/hringōną"
+	},
+	{
 		"pageid": 7976268,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/hrinkwaną"
@@ -10338,6 +10408,16 @@
 		"pageid": 5098599,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/hulþô"
+	},
+	{
+		"pageid": 8638571,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/humelaz"
+	},
+	{
+		"pageid": 8638947,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/hummōną"
 	},
 	{
 		"pageid": 4440171,
@@ -11175,6 +11255,11 @@
 		"title": "Reconstruction:Proto-Germanic/jestuz"
 	},
 	{
+		"pageid": 8738162,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/jeuką"
+	},
+	{
 		"pageid": 3970583,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/jihtiz"
@@ -11223,6 +11308,11 @@
 		"pageid": 2545228,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/jungaz"
+	},
+	{
+		"pageid": 8795780,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/jungijaną"
 	},
 	{
 		"pageid": 3912776,
@@ -13010,6 +13100,11 @@
 		"title": "Reconstruction:Proto-Germanic/laskaz"
 	},
 	{
+		"pageid": 8662177,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/laskijaną"
+	},
+	{
 		"pageid": 6873571,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/laskwaz"
@@ -13490,6 +13585,11 @@
 		"title": "Reconstruction:Proto-Germanic/linwaz"
 	},
 	{
+		"pageid": 8729863,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/linþawurmiz"
+	},
+	{
 		"pageid": 6354101,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/linþaz"
@@ -13603,6 +13703,11 @@
 		"pageid": 3603424,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/lubją"
+	},
+	{
+		"pageid": 8690121,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/lubjaną"
 	},
 	{
 		"pageid": 3603389,
@@ -13885,6 +13990,11 @@
 		"title": "Reconstruction:Proto-Germanic/mainą"
 	},
 	{
+		"pageid": 8686643,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/mainaswarô"
+	},
+	{
 		"pageid": 2830735,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/mainaz"
@@ -14073,11 +14183,6 @@
 		"pageid": 6384071,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/manōną"
-	},
-	{
-		"pageid": 5369212,
-		"ns": 118,
-		"title": "Reconstruction:Proto-Germanic/manþijaną"
 	},
 	{
 		"pageid": 2948202,
@@ -14288,6 +14393,11 @@
 		"pageid": 3743492,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/mēgaz"
+	},
+	{
+		"pageid": 8509989,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/mēkijas agjō"
 	},
 	{
 		"pageid": 5014713,
@@ -14995,6 +15105,11 @@
 		"title": "Reconstruction:Proto-Germanic/nakwadaz"
 	},
 	{
+		"pageid": 8797159,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/nakwadį̄"
+	},
+	{
 		"pageid": 3627831,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/nakwô"
@@ -15530,11 +15645,6 @@
 		"title": "Reconstruction:Proto-Germanic/paddǭ"
 	},
 	{
-		"pageid": 3594568,
-		"ns": 118,
-		"title": "Reconstruction:Proto-Germanic/pagilaz"
-	},
-	{
 		"pageid": 3669523,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/paidō"
@@ -15593,11 +15703,6 @@
 		"pageid": 7019931,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/pīpaną"
-	},
-	{
-		"pageid": 7019818,
-		"ns": 118,
-		"title": "Reconstruction:Proto-Germanic/pīpǭ"
 	},
 	{
 		"pageid": 4801270,
@@ -16033,6 +16138,11 @@
 		"pageid": 4026226,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/regną"
+	},
+	{
+		"pageid": 8497817,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/regnawatōr"
 	},
 	{
 		"pageid": 6397190,
@@ -16707,7 +16817,7 @@
 	{
 		"pageid": 4991958,
 		"ns": 118,
-		"title": "Reconstruction:Proto-Germanic/samanai"
+		"title": "Reconstruction:Proto-Germanic/samana"
 	},
 	{
 		"pageid": 4812908,
@@ -17100,6 +17210,11 @@
 		"title": "Reconstruction:Proto-Germanic/sēwiz"
 	},
 	{
+		"pageid": 8740116,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/seþlą"
+	},
+	{
 		"pageid": 4552909,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/sibjaz"
@@ -17153,6 +17268,11 @@
 		"pageid": 3724474,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/sīganą"
+	},
+	{
+		"pageid": 8794697,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/Sigimēraz"
 	},
 	{
 		"pageid": 4991575,
@@ -17323,6 +17443,11 @@
 		"pageid": 2863280,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/siwjaną"
+	},
+	{
+		"pageid": 8755250,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/sīþaną"
 	},
 	{
 		"pageid": 4574719,
@@ -18340,9 +18465,9 @@
 		"title": "Reconstruction:Proto-Germanic/smaltą"
 	},
 	{
-		"pageid": 3639033,
+		"pageid": 8753892,
 		"ns": 118,
-		"title": "Reconstruction:Proto-Germanic/smanþiz"
+		"title": "Reconstruction:Proto-Germanic/smaltijaną"
 	},
 	{
 		"pageid": 4553653,
@@ -18895,6 +19020,11 @@
 		"title": "Reconstruction:Proto-Germanic/spinnaną"
 	},
 	{
+		"pageid": 8805773,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/spinþrô"
+	},
+	{
 		"pageid": 6099293,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/spīrǭ"
@@ -19053,6 +19183,11 @@
 		"pageid": 3628086,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/stabaz"
+	},
+	{
+		"pageid": 8527379,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/stabnijaną"
 	},
 	{
 		"pageid": 4855450,
@@ -19235,7 +19370,7 @@
 		"title": "Reconstruction:Proto-Germanic/stankwiz"
 	},
 	{
-		"pageid": 4106871,
+		"pageid": 8669197,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/stapiz"
 	},
@@ -19278,6 +19413,11 @@
 		"pageid": 7461530,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/startijaną"
+	},
+	{
+		"pageid": 8585886,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/stassiz"
 	},
 	{
 		"pageid": 3199181,
@@ -19428,6 +19568,11 @@
 		"pageid": 8177919,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/stikjaną"
+	},
+	{
+		"pageid": 8756295,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/stikkô"
 	},
 	{
 		"pageid": 4711449,
@@ -20105,6 +20250,11 @@
 		"title": "Reconstruction:Proto-Germanic/swait-"
 	},
 	{
+		"pageid": 8535707,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/swaitaną"
+	},
+	{
 		"pageid": 7605833,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/swaitijaną"
@@ -20485,6 +20635,11 @@
 		"title": "Reconstruction:Proto-Germanic/swinþijaną"
 	},
 	{
+		"pageid": 8754442,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/swīpaną"
+	},
+	{
 		"pageid": 4708548,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/swippōną"
@@ -20493,6 +20648,11 @@
 		"pageid": 5555781,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/switjaną"
+	},
+	{
+		"pageid": 8740326,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/swizjô"
 	},
 	{
 		"pageid": 7423688,
@@ -20748,6 +20908,11 @@
 		"pageid": 3996283,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/targǭ"
+	},
+	{
+		"pageid": 8679514,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/tarjaną"
 	},
 	{
 		"pageid": 4006211,
@@ -21018,6 +21183,11 @@
 		"pageid": 4599365,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/tinnaną"
+	},
+	{
+		"pageid": 8727346,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/titrōną"
 	},
 	{
 		"pageid": 6455493,
@@ -21340,6 +21510,11 @@
 		"title": "Reconstruction:Proto-Germanic/tunþskaz"
 	},
 	{
+		"pageid": 8543816,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/tunþuz"
+	},
+	{
 		"pageid": 3885862,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/tuppaz"
@@ -21500,6 +21675,11 @@
 		"title": "Reconstruction:Proto-Germanic/twiz-"
 	},
 	{
+		"pageid": 8703040,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/-u"
+	},
+	{
 		"pageid": 2948237,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/ub"
@@ -21543,6 +21723,16 @@
 		"pageid": 2787121,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/ubiri"
+	},
+	{
+		"pageid": 8779143,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/ubiswō"
+	},
+	{
+		"pageid": 8736703,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/ud"
 	},
 	{
 		"pageid": 7521503,
@@ -21803,6 +21993,11 @@
 		"pageid": 3275034,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/uppai"
+	},
+	{
+		"pageid": 8546011,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/upphiminaz"
 	},
 	{
 		"pageid": 7739934,
@@ -22340,6 +22535,11 @@
 		"title": "Reconstruction:Proto-Germanic/waljaną"
 	},
 	{
+		"pageid": 8663333,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/walką"
+	},
+	{
 		"pageid": 3723646,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/walkaną"
@@ -22658,6 +22858,11 @@
 		"pageid": 5356877,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/wastmaz"
+	},
+	{
+		"pageid": 8521406,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/waswǭ"
 	},
 	{
 		"pageid": 2588052,
@@ -23192,7 +23397,7 @@
 	{
 		"pageid": 5438317,
 		"ns": 118,
-		"title": "Reconstruction:Proto-Germanic/winidaz"
+		"title": "Reconstruction:Proto-Germanic/Winidaz"
 	},
 	{
 		"pageid": 7457766,
@@ -23825,11 +24030,6 @@
 		"title": "Reconstruction:Proto-Germanic/wurmiz"
 	},
 	{
-		"pageid": 6107155,
-		"ns": 118,
-		"title": "Reconstruction:Proto-Germanic/wurtijō"
-	},
-	{
 		"pageid": 7794943,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/wurzô"
@@ -24228,6 +24428,11 @@
 		"pageid": 2719387,
 		"ns": 118,
 		"title": "Reconstruction:Proto-Germanic/þrangwijaną"
+	},
+	{
+		"pageid": 8530383,
+		"ns": 118,
+		"title": "Reconstruction:Proto-Germanic/þranhaz"
 	},
 	{
 		"pageid": 3462004,
@@ -24718,11 +24923,6 @@
 		"pageid": 2322238,
 		"ns": 14,
 		"title": "Category:Proto-Germanic pronouns"
-	},
-	{
-		"pageid": 2398467,
-		"ns": 14,
-		"title": "Category:Proto-Germanic proper nouns"
 	},
 	{
 		"pageid": 2228402,

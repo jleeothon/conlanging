@@ -23,7 +23,7 @@ async function * fetchPages() {
 	do {
 		// eslint-disable-next-line no-await-in-loop
 		const data = await got(url, options).json();
-		yield data.query.categorymembers;
+		yield * data.query.categorymembers;
 
 		cmcontinue = data?.continue?.cmcontinue;
 		options = {searchParams: {...searchParameters, cmcontinue}};
@@ -34,7 +34,7 @@ const observableMembers = rx.from(fetchPages());
 
 const results = await firstValueFrom(
 	observableMembers.pipe(
-		rx.mergeMap(members => members),
+		// Rx.mergeMap(members => members),
 		rx.toArray(),
 	),
 );
