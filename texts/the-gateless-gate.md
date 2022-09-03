@@ -4,8 +4,8 @@ Adapted from: https://www.sacred-texts.com/bud/glg/index.htm
 
 ## Hund Joshu'as
 
-En munk fraguode an Joshu, em zen-fórling: "Hebbiet en hund et
-Buddha-wesundhaid?"
+En munk fraguode an Joshu, em zen-fórling: "Hebbieþ en hund et
+Buddha-wesondhaid?"
 
 Joshu andwordide: "Mu."
 
