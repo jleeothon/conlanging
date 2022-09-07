@@ -9,26 +9,26 @@ Nominals from class 4 strong verbs may show primary umlaut. E.g. _kwemon > kümi
 Derivations from strong verbs
 
 - Class 1
-	- skitiz > skit "shit", from p. part. of _skeiton_
-	- swikiz > swik "deceit", from p. part. of _sweikon_
-	- wlitiz > wlit, from p. part of wleiton
-	- writiz > writ, from p. part of wreiton
+  - skitiz > skit "shit", from p. part. of _skeiton_
+  - swikiz > swik "deceit", from p. part. of _sweikon_
+  - wlitiz > wlit, from p. part of wleiton
+  - writiz > writ, from p. part of wreiton
 - Class 2 (zero-grade i-stems)
-	- flugiz > flug "flight", from p. part of fleugon
-	- skutiz > skut "shot" from p. part. of _skeuton_
-	- sudiz > sud from p. part. of _seuþon_ (Verner alternation)
-	- tugiz > tug from p. part. of _teuhon_ (Verner alternation)
-	- druziz "fall, decline" from p. part. of _dreuson_
+  - flugiz > flug "flight", from p. part of fleugon
+  - skutiz > skut "shot" from p. part. of _skeuton_
+  - sudiz > sud from p. part. of _seuþon_ (Verner alternation)
+  - tugiz > tug from p. part. of _teuhon_ (Verner alternation)
+  - druziz "fall, decline" from p. part. of _dreuson_
 - Class 3
-	- bruniz "burn" just take _brun_ from the p. part. of brinnon
-	- runiz > run "course", from p. part. of _rinnon_
+  - bruniz "burn" just take _brun_ from the p. part. of brinnon
+  - runiz > run "course", from p. part. of _rinnon_
 - Class 4
-	- kumiz (unused) "arrival", related to _kwemon, kümiþ_
-	- hriþiz > shake, from _hreþon_
+  - kumiz (unused) "arrival", related to _kwemon, kümiþ_
+  - hriþiz > shake, from _hreþon_
 - Class 6
-	- kaliz (unused) "coldness", related to _kalon, kőlion, käliþ_
-	- slagiz > slag "blow" from p. part. of _slagon_
-	- akiz > ak "ache"
+  - kaliz (unused) "coldness", related to _kalon, kőlion, käliþ_
+  - slagiz > slag "blow" from p. part. of _slagon_
+  - akiz > ak "ache"
 
 Other verbs
 
@@ -62,7 +62,7 @@ Other verbs
 - nutiz > nut from p. part of neuton
 - risiz "giant" (problematic)
 - rugiz > rüg "rye"
-- saliz >  "hall"
+- saliz > "hall"
 - siniz # old
 - -skapiz > skap
 - stadiz > stad "city" (> städj place)

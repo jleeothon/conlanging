@@ -1,4 +1,3 @@
-
 ## Class 2
 
 fleugon > flug "flight"

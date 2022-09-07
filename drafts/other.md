@@ -1,4 +1,3 @@
-
 Verbs about thought:
 
 - _hüggion (p. hugdon)_ "to remember, to recall"
