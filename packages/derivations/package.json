@@ -11,7 +11,6 @@
     },
     "devDependencies": {
         "commander": "^9.4.0",
-        "load-json-file": "^7.0.1",
         "pkg-dir": "^7.0.0",
         "rxjs": "^7.5.6",
         "crawler": "*"
