@@ -1,14 +1,14 @@
-import path from 'node:path';
 import process from 'node:process';
 
-import {loadJsonFile} from 'load-json-file';
 import rx from 'rxjs';
-import {packageDirectory} from 'pkg-dir';
+// import {packageDirectory} from 'pkg-dir';
 import {program} from 'commander';
 
-const pkgDir = await packageDirectory();
+import data from "crawler";
 
-const data = await loadJsonFile(path.join(pkgDir, '..', 'crawler', 'data', 'data-1.json'));
+// const pkgDir = await packageDirectory();
+
+// const data = await loadJsonFile(path.join(pkgDir, '..', 'crawler', 'data', 'data-1.json'));
 
 async function action(regexp) {
 	const dataObservable = rx.from(data);
