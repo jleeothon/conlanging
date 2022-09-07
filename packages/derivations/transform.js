@@ -1,14 +1,6 @@
 import { writeFileSync } from "node:fs";
 
 import inputData from "crawler";
-console.log(inputData, "--------");
-
-// const dataString = readFileSync('./data/data-1.json', 'utf8');
-
-// const entries = JSON
-// 	.parse(dataString)
-// 	.filter(({lemma}) => !lemma.startsWith('-'))
-// 	.map(entry => ({...entry, history: [entry.lemma]}));
 
 const entries = inputData
 	.filter(({ lemma }) => !lemma.startsWith("-"))
@@ -16,7 +8,7 @@ const entries = inputData
 
 function apply(entries, transformation) {
 	console.log("-".repeat(80));
-	console.log(transformation.description);
+	console.log(transformation.id, "---", transformation.description);
 	console.log("-".repeat(80));
 	for (const entry of entries) {
 		const lastLemma = entry.history.at(-1);
@@ -225,6 +217,11 @@ const transformations = [
 
 			return null;
 		},
+	},
+	{
+		description: "-wij- > -wi-",
+		id: "tr-wij",
+		do: (lemma) => lemma.replace(/wij/, "wi"),
 	},
 	{
 		description: "-wj- > -w-",
