@@ -34,7 +34,6 @@ const observableMembers = rx.from(fetchPages());
 
 const results = await firstValueFrom(
 	observableMembers.pipe(
-		// Rx.mergeMap(members => members),
 		rx.toArray(),
 	),
 );

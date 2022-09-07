@@ -1,13 +1,10 @@
 import path from 'node:path';
 
-import {loadJsonFile} from 'load-json-file';
 import {packageDirectory} from 'pkg-dir';
 import rx from 'rxjs';
 import {writeJsonFileSync} from 'write-json-file';
 
-const pkgDir = await packageDirectory();
-
-const content = await loadJsonFile(path.join(pkgDir, 'data', 'data-0.json'));
+import content from './data/data-0.json' assert { type: 'json' };
 
 const observableContent = rx.of(...content);
 
@@ -24,6 +21,7 @@ const cleanedUp = await rx.firstValueFrom(
 	),
 );
 
+const pkgDir = await packageDirectory();
 const targetFileName = path.join(pkgDir, 'data', 'data-1.json');
 
 writeJsonFileSync(targetFileName, cleanedUp, {indent: '\t'});
