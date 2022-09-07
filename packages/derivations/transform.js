@@ -286,7 +286,7 @@ function run() {
 		apply(finalEntries, transformation);
 	}
 
-	writeFileSync("./transform.json", JSON.stringify(finalEntries, null, 2));
+	writeFileSync("./data/transform.json", JSON.stringify(finalEntries, null, 2));
 }
 
 run();
