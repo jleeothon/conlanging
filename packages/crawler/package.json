@@ -1,13 +1,23 @@
 {
-  "name": "crawler",
-  "author": "Johnny E. Lee Othon",
-  "version": "1.0.0",
-  "description": "The files in this directory extract data from Wiktionary.",
-  "main": "crawl.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "undefined": "/Users/johnnyleeothon/lang/slumpisk/packages/crawler"
-  }
+    "name": "crawler",
+    "author": "Johnny E. Lee Othon",
+    "version": "1.0.0",
+    "description": "The files in this directory extract data from Wiktionary.",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "build": "node crawl.js",
+        "lint": "xo",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "undefined": "/Users/johnnyleeothon/lang/slumpisk/packages/crawler"
+    },
+    "devDependencies": {
+        "got": "^12.4.1",
+        "load-json-file": "^7.0.1",
+        "pkg-dir": "^7.0.0",
+        "rxjs": "^7.5.6",
+        "write-json-file": "^5.0.0"
+    }
 }

@@ -30,6 +30,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "abgaliþō",
+		"pageid": 8908575,
+		"ns": 118
+	},
+	{
 		"lemma": "abisjaną",
 		"pageid": 7398518,
 		"ns": 118
@@ -445,6 +450,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "aināną",
+		"pageid": 8828071,
+		"ns": 118
+	},
+	{
 		"lemma": "ainarēdaz",
 		"pageid": 7398583,
 		"ns": 118
@@ -542,6 +552,11 @@
 	{
 		"lemma": "aitrą",
 		"pageid": 3855758,
+		"ns": 118
+	},
+	{
+		"lemma": "aitrōną",
+		"pageid": 8863565,
 		"ns": 118
 	},
 	{
@@ -967,6 +982,11 @@
 	{
 		"lemma": "andabindaną",
 		"pageid": 4924894,
+		"ns": 118
+	},
+	{
+		"lemma": "andagaldijaną",
+		"pageid": 8920543,
 		"ns": 118
 	},
 	{
@@ -1535,8 +1555,18 @@
 		"ns": 118
 	},
 	{
+		"lemma": "auknaną",
+		"pageid": 8685644,
+		"ns": 118
+	},
+	{
 		"lemma": "aukô",
 		"pageid": 4405872,
+		"ns": 118
+	},
+	{
+		"lemma": "aukōną",
+		"pageid": 8685672,
 		"ns": 118
 	},
 	{
@@ -2135,11 +2165,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "baumijǭ",
-		"pageid": 3627455,
-		"ns": 118
-	},
-	{
 		"lemma": "baunō",
 		"pageid": 2845567,
 		"ns": 118
@@ -2152,6 +2177,11 @@
 	{
 		"lemma": "bautaną",
 		"pageid": 2621583,
+		"ns": 118
+	},
+	{
+		"lemma": "bautijaną",
+		"pageid": 8717623,
 		"ns": 118
 	},
 	{
@@ -2267,6 +2297,11 @@
 	{
 		"lemma": "berhtaz",
 		"pageid": 2719472,
+		"ns": 118
+	},
+	{
+		"lemma": "bērilaz",
+		"pageid": 8560171,
 		"ns": 118
 	},
 	{
@@ -2490,7 +2525,7 @@
 		"ns": 118
 	},
 	{
-		"lemma": "birilô",
+		"lemma": "birilaz",
 		"pageid": 3630502,
 		"ns": 118
 	},
@@ -3237,6 +3272,11 @@
 	{
 		"lemma": "brunjǭ",
 		"pageid": 3471610,
+		"ns": 118
+	},
+	{
+		"lemma": "brunnaz",
+		"pageid": 8506552,
 		"ns": 118
 	},
 	{
@@ -4270,11 +4310,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "druknijaną",
-		"pageid": 4050313,
-		"ns": 118
-	},
-	{
 		"lemma": "drunjaną",
 		"pageid": 7608622,
 		"ns": 118
@@ -4635,6 +4670,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "eh",
+		"pageid": 8628877,
+		"ns": 118
+	},
+	{
 		"lemma": "ehwaraidō",
 		"pageid": 4995237,
 		"ns": 118
@@ -4642,6 +4682,11 @@
 	{
 		"lemma": "ehwaz",
 		"pageid": 2722545,
+		"ns": 118
+	},
+	{
+		"lemma": "ehþau",
+		"pageid": 8571685,
 		"ns": 118
 	},
 	{
@@ -4807,6 +4852,11 @@
 	{
 		"lemma": "eutaz",
 		"pageid": 2928375,
+		"ns": 118
+	},
+	{
+		"lemma": "euþą",
+		"pageid": 8738939,
 		"ns": 118
 	},
 	{
@@ -5327,6 +5377,11 @@
 	{
 		"lemma": "felauz",
 		"pageid": 2667622,
+		"ns": 118
+	},
+	{
+		"lemma": "fēlaz",
+		"pageid": 8911120,
 		"ns": 118
 	},
 	{
@@ -5912,6 +5967,11 @@
 	{
 		"lemma": "fōdrą",
 		"pageid": 2859522,
+		"ns": 118
+	},
+	{
+		"lemma": "fōdrōną",
+		"pageid": 8623497,
 		"ns": 118
 	},
 	{
@@ -6530,11 +6590,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "funhtijaną",
-		"pageid": 5189154,
-		"ns": 118
-	},
-	{
 		"lemma": "funhtijaz",
 		"pageid": 4102721,
 		"ns": 118
@@ -6762,6 +6817,11 @@
 	{
 		"lemma": "gadilingaz",
 		"pageid": 4047257,
+		"ns": 118
+	},
+	{
+		"lemma": "gadô",
+		"pageid": 8506585,
 		"ns": 118
 	},
 	{
@@ -7200,6 +7260,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "gasakaną",
+		"pageid": 8566727,
+		"ns": 118
+	},
+	{
 		"lemma": "gasaljô",
 		"pageid": 5510236,
 		"ns": 118
@@ -7227,6 +7292,11 @@
 	{
 		"lemma": "gasōkijaną",
 		"pageid": 7169736,
+		"ns": 118
+	},
+	{
+		"lemma": "gastihūsą",
+		"pageid": 8842033,
 		"ns": 118
 	},
 	{
@@ -7450,6 +7520,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "gerugaz",
+		"pageid": 8478045,
+		"ns": 118
+	},
+	{
 		"lemma": "getaną",
 		"pageid": 2898496,
 		"ns": 118
@@ -7612,6 +7687,11 @@
 	{
 		"lemma": "glīdaną",
 		"pageid": 4018173,
+		"ns": 118
+	},
+	{
+		"lemma": "glidǭ",
+		"pageid": 8721223,
 		"ns": 118
 	},
 	{
@@ -7830,11 +7910,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "grautį̄",
-		"pageid": 5234303,
-		"ns": 118
-	},
-	{
 		"lemma": "grēbiz",
 		"pageid": 4796422,
 		"ns": 118
@@ -8037,6 +8112,11 @@
 	{
 		"lemma": "grunnatjaną",
 		"pageid": 4102767,
+		"ns": 118
+	},
+	{
+		"lemma": "grunnitjaną",
+		"pageid": 8832844,
 		"ns": 118
 	},
 	{
@@ -8320,6 +8400,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "hailasamaz",
+		"pageid": 8906981,
+		"ns": 118
+	},
+	{
 		"lemma": "hailaz",
 		"pageid": 2790640,
 		"ns": 118
@@ -8407,11 +8492,6 @@
 	{
 		"lemma": "haisraz",
 		"pageid": 7152660,
-		"ns": 118
-	},
-	{
-		"lemma": "haistraz",
-		"pageid": 3485557,
 		"ns": 118
 	},
 	{
@@ -8542,11 +8622,6 @@
 	{
 		"lemma": "halsaz",
 		"pageid": 2900419,
-		"ns": 118
-	},
-	{
-		"lemma": "halsijaną",
-		"pageid": 6094228,
 		"ns": 118
 	},
 	{
@@ -8787,6 +8862,11 @@
 	{
 		"lemma": "harduz",
 		"pageid": 2576007,
+		"ns": 118
+	},
+	{
+		"lemma": "Harjabrandaz",
+		"pageid": 8545357,
 		"ns": 118
 	},
 	{
@@ -9032,6 +9112,11 @@
 	{
 		"lemma": "hazwaz",
 		"pageid": 4995227,
+		"ns": 118
+	},
+	{
+		"lemma": "Haþuwulfaz",
+		"pageid": 8514361,
 		"ns": 118
 	},
 	{
@@ -9282,6 +9367,11 @@
 	{
 		"lemma": "hiwją",
 		"pageid": 3757074,
+		"ns": 118
+	},
+	{
+		"lemma": "hīwô",
+		"pageid": 7506052,
 		"ns": 118
 	},
 	{
@@ -9795,6 +9885,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "hrabô",
+		"pageid": 8928239,
+		"ns": 118
+	},
+	{
 		"lemma": "hradaz",
 		"pageid": 3617915,
 		"ns": 118
@@ -10012,6 +10107,11 @@
 	{
 		"lemma": "hringijaną",
 		"pageid": 3961228,
+		"ns": 118
+	},
+	{
+		"lemma": "hringōną",
+		"pageid": 8527150,
 		"ns": 118
 	},
 	{
@@ -10340,6 +10440,16 @@
 		"ns": 118
 	},
 	{
+		"lemma": "humelaz",
+		"pageid": 8638571,
+		"ns": 118
+	},
+	{
+		"lemma": "hummōną",
+		"pageid": 8638947,
+		"ns": 118
+	},
+	{
 		"lemma": "-hun",
 		"pageid": 4440171,
 		"ns": 118
@@ -10472,6 +10582,11 @@
 	{
 		"lemma": "hurznutō",
 		"pageid": 3613667,
+		"ns": 118
+	},
+	{
+		"lemma": "hūsalausaz",
+		"pageid": 8917680,
 		"ns": 118
 	},
 	{
@@ -11175,6 +11290,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "jeuką",
+		"pageid": 8738162,
+		"ns": 118
+	},
+	{
 		"lemma": "jihtiz",
 		"pageid": 3970583,
 		"ns": 118
@@ -11222,6 +11342,11 @@
 	{
 		"lemma": "jungaz",
 		"pageid": 2545228,
+		"ns": 118
+	},
+	{
+		"lemma": "jungijaną",
+		"pageid": 8795780,
 		"ns": 118
 	},
 	{
@@ -11685,11 +11810,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "klainį̄",
-		"pageid": 4061007,
-		"ns": 118
-	},
-	{
 		"lemma": "klainiz",
 		"pageid": 3552978,
 		"ns": 118
@@ -11952,11 +12072,6 @@
 	{
 		"lemma": "kōlijaną",
 		"pageid": 7597940,
-		"ns": 118
-	},
-	{
-		"lemma": "kōlį̄",
-		"pageid": 6356341,
 		"ns": 118
 	},
 	{
@@ -12330,11 +12445,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "kuningǭ",
-		"pageid": 5233580,
-		"ns": 118
-	},
-	{
 		"lemma": "kuniz",
 		"pageid": 7004462,
 		"ns": 118
@@ -12432,6 +12542,11 @@
 	{
 		"lemma": "kustuz",
 		"pageid": 3921103,
+		"ns": 118
+	},
+	{
+		"lemma": "kutą",
+		"pageid": 8911171,
 		"ns": 118
 	},
 	{
@@ -13010,8 +13125,18 @@
 		"ns": 118
 	},
 	{
+		"lemma": "laskijaną",
+		"pageid": 8662177,
+		"ns": 118
+	},
+	{
 		"lemma": "laskwaz",
 		"pageid": 6873571,
+		"ns": 118
+	},
+	{
+		"lemma": "latāną",
+		"pageid": 8827950,
 		"ns": 118
 	},
 	{
@@ -13232,6 +13357,11 @@
 	{
 		"lemma": "leubaz",
 		"pageid": 3177733,
+		"ns": 118
+	},
+	{
+		"lemma": "leubō",
+		"pageid": 8936240,
 		"ns": 118
 	},
 	{
@@ -13490,6 +13620,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "linþawurmiz",
+		"pageid": 8729863,
+		"ns": 118
+	},
+	{
 		"lemma": "linþaz",
 		"pageid": 6354101,
 		"ns": 118
@@ -13602,6 +13737,11 @@
 	{
 		"lemma": "lubją",
 		"pageid": 3603424,
+		"ns": 118
+	},
+	{
+		"lemma": "lubjaną",
+		"pageid": 8690121,
 		"ns": 118
 	},
 	{
@@ -13885,6 +14025,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "mainaswarô",
+		"pageid": 8686643,
+		"ns": 118
+	},
+	{
 		"lemma": "mainaz",
 		"pageid": 2830735,
 		"ns": 118
@@ -14075,11 +14220,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "manþijaną",
-		"pageid": 5369212,
-		"ns": 118
-	},
-	{
 		"lemma": "marhaz",
 		"pageid": 2948202,
 		"ns": 118
@@ -14195,6 +14335,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "matją",
+		"pageid": 8931779,
+		"ns": 118
+	},
+	{
 		"lemma": "matjaną",
 		"pageid": 2870868,
 		"ns": 118
@@ -14287,6 +14432,11 @@
 	{
 		"lemma": "mēgaz",
 		"pageid": 3743492,
+		"ns": 118
+	},
+	{
+		"lemma": "mēkijas agjō",
+		"pageid": 8509989,
 		"ns": 118
 	},
 	{
@@ -14650,6 +14800,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "-mô",
+		"pageid": 8920035,
+		"ns": 118
+	},
+	{
 		"lemma": "mōdagaz",
 		"pageid": 7020643,
 		"ns": 118
@@ -14677,6 +14832,11 @@
 	{
 		"lemma": "mōhô",
 		"pageid": 5016580,
+		"ns": 118
+	},
+	{
+		"lemma": "mōijǭ",
+		"pageid": 8939258,
 		"ns": 118
 	},
 	{
@@ -14865,6 +15025,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "murhō",
+		"pageid": 8916070,
+		"ns": 118
+	},
+	{
 		"lemma": "murhǭ",
 		"pageid": 4838420,
 		"ns": 118
@@ -14992,6 +15157,11 @@
 	{
 		"lemma": "nakwadaz",
 		"pageid": 3714639,
+		"ns": 118
+	},
+	{
+		"lemma": "nakwadį̄",
+		"pageid": 8797159,
 		"ns": 118
 	},
 	{
@@ -15530,11 +15700,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "pagilaz",
-		"pageid": 3594568,
-		"ns": 118
-	},
-	{
 		"lemma": "paidō",
 		"pageid": 3669523,
 		"ns": 118
@@ -15595,11 +15760,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "pīpǭ",
-		"pageid": 7019818,
-		"ns": 118
-	},
-	{
 		"lemma": "plaggą",
 		"pageid": 4801270,
 		"ns": 118
@@ -15647,6 +15807,11 @@
 	{
 		"lemma": "preunaz",
 		"pageid": 6858159,
+		"ns": 118
+	},
+	{
+		"lemma": "preunōną",
+		"pageid": 8845535,
 		"ns": 118
 	},
 	{
@@ -16032,6 +16197,11 @@
 	{
 		"lemma": "regną",
 		"pageid": 4026226,
+		"ns": 118
+	},
+	{
+		"lemma": "regnawatōr",
+		"pageid": 8497817,
 		"ns": 118
 	},
 	{
@@ -16705,7 +16875,7 @@
 		"ns": 118
 	},
 	{
-		"lemma": "samanai",
+		"lemma": "samana",
 		"pageid": 4991958,
 		"ns": 118
 	},
@@ -17100,6 +17270,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "seþlą",
+		"pageid": 8740116,
+		"ns": 118
+	},
+	{
 		"lemma": "sibjaz",
 		"pageid": 4552909,
 		"ns": 118
@@ -17117,6 +17292,11 @@
 	{
 		"lemma": "sīdaz",
 		"pageid": 4022751,
+		"ns": 118
+	},
+	{
+		"lemma": "sīdiþō",
+		"pageid": 8834170,
 		"ns": 118
 	},
 	{
@@ -17152,6 +17332,11 @@
 	{
 		"lemma": "sīganą",
 		"pageid": 3724474,
+		"ns": 118
+	},
+	{
+		"lemma": "Sigimēraz",
+		"pageid": 8794697,
 		"ns": 118
 	},
 	{
@@ -17322,6 +17507,11 @@
 	{
 		"lemma": "siwjaną",
 		"pageid": 2863280,
+		"ns": 118
+	},
+	{
+		"lemma": "sīþaną",
+		"pageid": 8755250,
 		"ns": 118
 	},
 	{
@@ -17727,6 +17917,16 @@
 	{
 		"lemma": "skēwijaną",
 		"pageid": 7511538,
+		"ns": 118
+	},
+	{
+		"lemma": "skībōną",
+		"pageid": 8834936,
+		"ns": 118
+	},
+	{
+		"lemma": "skībǭ",
+		"pageid": 8817886,
 		"ns": 118
 	},
 	{
@@ -18340,8 +18540,8 @@
 		"ns": 118
 	},
 	{
-		"lemma": "smanþiz",
-		"pageid": 3639033,
+		"lemma": "smaltijaną",
+		"pageid": 8753892,
 		"ns": 118
 	},
 	{
@@ -18895,6 +19095,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "spinþrô",
+		"pageid": 8805773,
+		"ns": 118
+	},
+	{
 		"lemma": "spīrǭ",
 		"pageid": 6099293,
 		"ns": 118
@@ -19052,6 +19257,11 @@
 	{
 		"lemma": "stabaz",
 		"pageid": 3628086,
+		"ns": 118
+	},
+	{
+		"lemma": "stabnijaną",
+		"pageid": 8527379,
 		"ns": 118
 	},
 	{
@@ -19236,7 +19446,7 @@
 	},
 	{
 		"lemma": "stapiz",
-		"pageid": 4106871,
+		"pageid": 8669197,
 		"ns": 118
 	},
 	{
@@ -19277,6 +19487,11 @@
 	{
 		"lemma": "startijaną",
 		"pageid": 7461530,
+		"ns": 118
+	},
+	{
+		"lemma": "stassiz",
+		"pageid": 8585886,
 		"ns": 118
 	},
 	{
@@ -19427,6 +19642,11 @@
 	{
 		"lemma": "stikjaną",
 		"pageid": 8177919,
+		"ns": 118
+	},
+	{
+		"lemma": "stikkô",
+		"pageid": 8756295,
 		"ns": 118
 	},
 	{
@@ -20105,6 +20325,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "swaitaną",
+		"pageid": 8535707,
+		"ns": 118
+	},
+	{
 		"lemma": "swaitijaną",
 		"pageid": 7605833,
 		"ns": 118
@@ -20485,6 +20710,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "swīpaną",
+		"pageid": 8754442,
+		"ns": 118
+	},
+	{
 		"lemma": "swippōną",
 		"pageid": 4708548,
 		"ns": 118
@@ -20492,6 +20722,11 @@
 	{
 		"lemma": "switjaną",
 		"pageid": 5555781,
+		"ns": 118
+	},
+	{
+		"lemma": "swizjô",
+		"pageid": 8740326,
 		"ns": 118
 	},
 	{
@@ -20527,6 +20762,11 @@
 	{
 		"lemma": "swōtijaną",
 		"pageid": 6038388,
+		"ns": 118
+	},
+	{
+		"lemma": "swōtmô",
+		"pageid": 8920166,
 		"ns": 118
 	},
 	{
@@ -20747,6 +20987,11 @@
 	{
 		"lemma": "targǭ",
 		"pageid": 3996283,
+		"ns": 118
+	},
+	{
+		"lemma": "tarjaną",
+		"pageid": 8679514,
 		"ns": 118
 	},
 	{
@@ -21020,12 +21265,17 @@
 		"ns": 118
 	},
 	{
+		"lemma": "titrōną",
+		"pageid": 8727346,
+		"ns": 118
+	},
+	{
 		"lemma": "tiunijaną",
 		"pageid": 6455493,
 		"ns": 118
 	},
 	{
-		"lemma": "Tīwaz",
+		"lemma": "tīwaz",
 		"pageid": 2715454,
 		"ns": 118
 	},
@@ -21340,6 +21590,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "tunþuz",
+		"pageid": 8543816,
+		"ns": 118
+	},
+	{
 		"lemma": "tuppaz",
 		"pageid": 3885862,
 		"ns": 118
@@ -21500,6 +21755,16 @@
 		"ns": 118
 	},
 	{
+		"lemma": "twiznāną",
+		"pageid": 8830557,
+		"ns": 118
+	},
+	{
+		"lemma": "-u",
+		"pageid": 8703040,
+		"ns": 118
+	},
+	{
 		"lemma": "ub",
 		"pageid": 2948237,
 		"ns": 118
@@ -21542,6 +21807,16 @@
 	{
 		"lemma": "ubiri",
 		"pageid": 2787121,
+		"ns": 118
+	},
+	{
+		"lemma": "ubiswō",
+		"pageid": 8779143,
+		"ns": 118
+	},
+	{
+		"lemma": "ud",
+		"pageid": 8736703,
 		"ns": 118
 	},
 	{
@@ -21642,6 +21917,11 @@
 	{
 		"lemma": "under",
 		"pageid": 2947628,
+		"ns": 118
+	},
+	{
+		"lemma": "underkuningaz",
+		"pageid": 8880654,
 		"ns": 118
 	},
 	{
@@ -21750,6 +22030,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "unswōtuz",
+		"pageid": 8930917,
+		"ns": 118
+	},
+	{
 		"lemma": "untriwwiz",
 		"pageid": 7916051,
 		"ns": 118
@@ -21802,6 +22087,11 @@
 	{
 		"lemma": "uppai",
 		"pageid": 3275034,
+		"ns": 118
+	},
+	{
+		"lemma": "upphiminaz",
+		"pageid": 8546011,
 		"ns": 118
 	},
 	{
@@ -22340,6 +22630,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "walką",
+		"pageid": 8663333,
+		"ns": 118
+	},
+	{
 		"lemma": "walkaną",
 		"pageid": 3723646,
 		"ns": 118
@@ -22660,6 +22955,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "waswǭ",
+		"pageid": 8521406,
+		"ns": 118
+	},
+	{
 		"lemma": "watōr",
 		"pageid": 2588052,
 		"ns": 118
@@ -22822,6 +23122,11 @@
 	{
 		"lemma": "werduz",
 		"pageid": 6397674,
+		"ns": 118
+	},
+	{
+		"lemma": "wērijaną",
+		"pageid": 8878820,
 		"ns": 118
 	},
 	{
@@ -23120,7 +23425,7 @@
 		"ns": 118
 	},
 	{
-		"lemma": "wiljakumô",
+		"lemma": "wiljakwemô",
 		"pageid": 5582058,
 		"ns": 118
 	},
@@ -23190,7 +23495,7 @@
 		"ns": 118
 	},
 	{
-		"lemma": "winidaz",
+		"lemma": "Winidaz",
 		"pageid": 5438317,
 		"ns": 118
 	},
@@ -23287,6 +23592,11 @@
 	{
 		"lemma": "wiskijaną",
 		"pageid": 4700897,
+		"ns": 118
+	},
+	{
+		"lemma": "wisnaną",
+		"pageid": 8829125,
 		"ns": 118
 	},
 	{
@@ -23522,6 +23832,11 @@
 	{
 		"lemma": "wōþijaz",
 		"pageid": 4238800,
+		"ns": 118
+	},
+	{
+		"lemma": "wōþuz",
+		"pageid": 8836475,
 		"ns": 118
 	},
 	{
@@ -23825,11 +24140,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "wurtijō",
-		"pageid": 6107155,
-		"ns": 118
-	},
-	{
 		"lemma": "wurzô",
 		"pageid": 7794943,
 		"ns": 118
@@ -23955,6 +24265,11 @@
 		"ns": 118
 	},
 	{
+		"lemma": "þawwaz",
+		"pageid": 8933530,
+		"ns": 118
+	},
+	{
 		"lemma": "þebōną",
 		"pageid": 6030264,
 		"ns": 118
@@ -24030,11 +24345,6 @@
 		"ns": 118
 	},
 	{
-		"lemma": "Þeudarīks",
-		"pageid": 3534561,
-		"ns": 118
-	},
-	{
 		"lemma": "þeudō",
 		"pageid": 2663619,
 		"ns": 118
@@ -24047,6 +24357,11 @@
 	{
 		"lemma": "Þeudōberhtaz",
 		"pageid": 5172907,
+		"ns": 118
+	},
+	{
+		"lemma": "Þeudōrīks",
+		"pageid": 3534561,
 		"ns": 118
 	},
 	{
@@ -24227,6 +24542,11 @@
 	{
 		"lemma": "þrangwijaną",
 		"pageid": 2719387,
+		"ns": 118
+	},
+	{
+		"lemma": "þranhaz",
+		"pageid": 8530383,
 		"ns": 118
 	},
 	{

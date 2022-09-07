@@ -7,7 +7,7 @@ import {writeJsonFileSync} from 'write-json-file';
 
 const pkgDir = await packageDirectory();
 
-const content = await loadJsonFile(path.join(pkgDir, 'crawler', 'data', 'data-0.json'));
+const content = await loadJsonFile(path.join(pkgDir, 'data', 'data-0.json'));
 
 const observableContent = rx.of(...content);
 
@@ -24,6 +24,6 @@ const cleanedUp = await rx.firstValueFrom(
 	),
 );
 
-const targetFileName = path.join(pkgDir, 'crawler', 'data', 'data-1.json');
+const targetFileName = path.join(pkgDir, 'data', 'data-1.json');
 
 writeJsonFileSync(targetFileName, cleanedUp, {indent: '\t'});

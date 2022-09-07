@@ -39,6 +39,6 @@ const results = await firstValueFrom(
 	),
 );
 
-const fileName = path.join(packageDirectorySync(), 'crawler', 'data', 'data-0.json');
+const fileName = path.join(packageDirectorySync(), 'data', 'data-0.json');
 
 writeJsonFileSync(fileName, results, {indent: '\t'});
