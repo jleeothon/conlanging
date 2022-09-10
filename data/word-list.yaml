@@ -2341,9 +2341,12 @@ bágon:
   pos: Verb
   meaning: to fight
   template: strong-7d
+  from: PG bēganą
+  from: PG bēganą
 bág:
   pos: Noun
   meaning: fight, quarrel
+  from: PG bēgaz
 báglon:
   pos: Verb
   meaning: to discuss, to quarrel
@@ -2360,3 +2363,7 @@ skaþo:
 fink:
   pos: Noun
   meaning: finch
+án:
+  pos: Preposition
+  meaning: without
+  from: PG ēnu
