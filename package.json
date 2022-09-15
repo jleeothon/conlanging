@@ -11,7 +11,7 @@
     "headings": "rg '^#' grammar/full-grammar.md",
     "lint:yaml": "prettier --write data/*",
     "lint:js": "xo --fix",
-    "lint:md": "ls *.md texts/*.md grammar/*.md | xargs -n 300 npm run prettier-js",
+    "lint:md": "ls *.md texts/*.md grammar/*.md drafts/*.md | xargs -n 300 npm run prettier-js",
     "lint:md-output": "ls word-list/*.md | xargs -n 300 npm run prettier-js",
     "verify-word-list": "bin/verify-word-list.js < data/word-list.yaml",
     "sort-word-list": "bin/sort-word-list.fish",
@@ -47,14 +47,14 @@
     "rxjs": "^7.4.0",
     "string-natural-compare": "^3.0.1",
     "verror": "^1.10.1",
-    "write-json-file": "^5.0.0",
-    "xo": "^0.48.0"
+    "write-json-file": "^5.0.0"
   },
   "name": "slumpisk",
   "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^5.5.0"
+    "lerna": "^5.5.0",
+    "xo": "^0.52.3"
   }
 }
