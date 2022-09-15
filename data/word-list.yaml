@@ -56,7 +56,11 @@ ald:
   meaning: old
   tags:
     - Descriptions
-aldor:
+alon:
+  pos: Verb
+  meaning: to age
+  template: strong-6
+aldiþ:
   pos: Noun
   meaning: age
 allain (1):
@@ -1640,9 +1644,6 @@ rádsol:
 sam:
   pos: Verb
   meaning: same
-samilon:
-  pos: Verb
-  meaning: to gather
 samon:
   pos: Verb
   meaning: together
@@ -2189,18 +2190,17 @@ wäkion:
   meaning: thrush (bird)
   tags:
     - Animals
-þringon:
+þrinhon:
+  pos: Verb
+  meaning: to cause pressure (by an inanimate agent), to be important, to be urgent
+  template: strong-3-i
+þrängjon:
   pos: Verb
   meaning: to press
-  template: strong-3-i
-þrinhwend:
+  template: weak-j
+þrinhond:
   pos: Adjective
   meaning: urgent
-  see:
-    - þrinhwun
-þrinhwon:
-  pos: Verb
-  meaning: to press; to be urgent
 þráwon:
   pos: Verb
   meaning: to turn, to twist
@@ -2222,7 +2222,7 @@ hägg:
     - hág
   pos: Noun
 trinnon:
-  meaning: to separate oneself
+  meaning: to divide (itself, oneself) into parts
   pos: Verb
   template: strong-3-i
 trännion:
@@ -2244,9 +2244,9 @@ aigonleik:
     - Adjective
     - Adverb
   meaning: actually, in reality
-samlon:
+samilon:
   pos: Verb
-  template: weak-lun
+  template: weak-lon
   meaning: to gather, to collect
 saiwol:
   pos: Noun
@@ -2342,7 +2342,6 @@ bágon:
   meaning: to fight
   template: strong-7d
   from: PG bēganą
-  from: PG bēganą
 bág:
   pos: Noun
   meaning: fight, quarrel
@@ -2350,7 +2349,7 @@ bág:
 báglon:
   pos: Verb
   meaning: to discuss, to quarrel
-  template: weak-lun
+  template: weak-lon
 güdjon:
   pos: Noun
   meaning: priest (pagan)
