@@ -40,6 +40,10 @@ ainkil:
   meaning: single, only one
   tags:
     - Numbers
+air (1):
+  pos: Noun
+  meaning: ore
+  from: PG aiz
 air (2):
   pos: Noun
   meaning: reverence, honour
@@ -2366,3 +2370,51 @@ fink:
   pos: Preposition
   meaning: without
   from: PG ēnu
+helon:
+  pos: Verb
+  meaning: to hide (intr.)
+  from: PG helaną
+häljon:
+  pos: Verb
+  meaning: to hide (trans.)
+  from: PG haljaną
+  see: [helon]
+höljon:
+  pos: Verb
+  meaning: to cover, to protect by covering
+  from: PG huljaną
+  see: [helon]
+hölj:
+  pos: Noun
+  meaning: protective covering
+  see: [höljon]
+fund:
+  pos: Noun
+  meaning: something that is found, discovery
+  see: [findan]
+wleiton:
+  pos: Verb
+  meaning: to ressemble
+  from: PG wlītaną (to see)
+wlit:
+  pos: Noun
+  meaning: appearance, ressemblance
+  see: [wleiton]
+felow:
+  pos: Noun
+  inflectedStem: felw-
+  meaning: fellow, friend, one who travels along
+  from: EN "fellow"
+fehon:
+  pos: Verb
+  template: strong-5
+  meaning: to rejoice, to be glad
+fägjon:
+  pos: Verb
+  template: weak-jon
+  meaning: to please, to do a favour
+  see: [fehon]
+follfägjon:
+  pos: Verb
+  from: foll + fägjon
+  meaning: to fullfill, to satisfy
