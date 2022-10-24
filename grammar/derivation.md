@@ -201,7 +201,7 @@ Category: -þiz- suffixed nouns (nonproductive).
 | heavy, i  | wihtiz         | wiht     | weight         |
 | heavy, u  | fluhtiz        | flüht    | flight, escape |
 | heavy, u  | mundiz, mindiz | münd     | mind           |
-| heavy, ur | burtiz         | bört     | (berŏn>borŏn)  |
+| heavy, ur | burtiz         | bört     | (beron>boron)  |
 | heavy, ē  | dēdiz          | dád      | deed           |
 | heavy, ō  | glōdiz         | glőd     | glowth         |
 | heavy, ō  | grōdiz         | grőd     | growth         |
@@ -215,8 +215,8 @@ https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/-i%C3%BE%C5%8D
 | heavy, a  | _ald > äldiþ_     | oldness, age |
 | heavy, a  | _lang > längiþ_   | length       |
 | heavy, au | _graut > grautiþ_ | size         |
-| heavy, au | _raud > raudiþ_   | redness      |
-| heavy, el | _gelŏw > gelwiþ_  | yellowness   |
+| heavy, au | _raud > räudiþ_   | redness      |
+| heavy, el | _gelow > gelwiþ_  | yellowness   |
 | heavy, i  | _mild > mildiþ_   | mildness     |
 | heavy, á  | _swár > swáriþ_   | heaviness    |
 | heavy, ő  | _grőn > grőniþ_   | greenness    |

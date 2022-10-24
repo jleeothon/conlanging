@@ -63,7 +63,7 @@ The rückumlaut weak paradigm (may have -t- affix instead of -d-):
 | 2nd sg.    | -ies    | -des |
 | 3rd sg.    | -ieþ    | -de  |
 | 1st pl.    | -iem    | -dem |
-| 2nd pl.    | -iej    | -dej |
+| 2nd pl.    | -iej    | -deď |
 | 3rd pl.    | -ien    | -den |
 
 #### Irregular verbs
