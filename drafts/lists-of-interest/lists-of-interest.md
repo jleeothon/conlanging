@@ -36,6 +36,7 @@ Tentatively stems may alternate between `VLw-` and `VLLow` in suffixed and unsuf
 | terwaz             | N spear                        | terow    |                      |
 | welwaną            | V to rob, to plunder           | welwon   | welwon-walwon-wolwon |
 | welwô              | V robber, plunderer            | welow    | -ô agentive          |
+| walwōn             | V to roll (var. of _walwijaną_) | walwon (V), walow (N)    | to roll, roll          |
 
 ## Segment -wj-
 
@@ -132,42 +133,22 @@ With kw-, gw-
 | walwijaną     |                    |          |                                                         |
 | þrangwijaną   |                    |          |                                                         |
 
-## -ir which may have become ē²
+## -iz- which may have become ē²
 
 See Lehmann, Winfred P. (2007). "The Origin of PGmc. Long Close e". Proto-Indo-European phonology. Austin: Linguistics Research Center.
 
-aiz may become ai e.g. waizdaz > waid
-
-| PG           | Meaning              | Slumpisk  | Notes                    |
-| ------------ | -------------------- | --------- | ------------------------ |
-| aizāną       | to honour            | äiron     |                          |
-| aizō         | fear, honour         | äir       |                          |
-| alizō        | alder                | älir      |                          |
-| alþizô       | parents              | -         |                          |
-| Aþalagaizaz  |                      |           |                          |
-| batizōną     | to improve           | batiron   |                          |
-| flaizô       |                      |           |                          |
-| Friþugaizaz  |                      |           |                          |
-| gaizaz       | spear                | gair      |                          |
-| gaizô        | wedge                |           |                          |
-| Hrōþigaizaz  |                      |           |                          |
-| -izô         |                      |           |                          |
-| kaizwijaną   |                      |           |                          |
-| laizijaną    |                      |           |                          |
-| laizīniz     |                      |           |                          |
-| laizō        | knowledge, doctrine  | lair      | "area of knowledge"      |
-| lizaną       | to gather, to read   | -         | See `lernuon`, `lairion` |
-| mizdō        | reward               | méd       | "rent"                   |
-| raizijaną    |                      |           |                          |
-| rikwizjaną   |                      |           |                          |
-| sigizōną     |                      |           |                          |
-| swizjô       | sister's son, nephew | -         |                          |
-| tizdailijaną |                      |           |                          |
-| twitwizōną   | to twitter, to chirp | twitwiron | See `twit`, `twitwir`    |
-| twiz-        | to split, to destroy | twir-     | Compare German zer-      |
-| twiznāną     |                      |           |                          |
-| Uzdagaizaz   |                      |           |                          |
-| waizdaz      | woad                 | waid      |                          |
+| PG         | Meaning                     | Slumpisk     | Notes                    |
+| ---------- | --------------------------- | ------------ | ------------------------ |
+| alizō      | alder                       | älir         |                          |
+| alþizô     | parents                     | -            |                          |
+| batizōną   | to improve                  | bätiron      |                          |
+| lizaną     | to gather, to read          | -            | See `lernuon`, `lairion` |
+| mizdō      | reward                      | meid / mird? | "rent"                   |
+| swizjô     | sister's son, nephew        | -            |                          |
+| twitwizōną | to twitter, to chirp        | twitwiron    | See `twit`, `twitwir`    |
+| twiz-      | to split, to destroy        | twir-        | Compare German zer-      |
+| twiznāną   | to twine, to twist together | twirnon      |                          |
+| twiznaz    | twine                       | twiron       |                          |
 
 ## Other long vowels followed by w or j
 
