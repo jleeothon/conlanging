@@ -1,24 +1,25 @@
-1
+https://www.ohchr.org/en/human-rights/universal-declaration/translations/english
 
-Alla gumnan sin boron frei und gileik in worþ und rihtan. Häbbien þet förnumþ
-und giwiton und skölden doon elkam anþram miþ giswestorhaid.
+Low Saxon: https://www.ohchr.org/sites/default/files/UDHR/Documents/UDHR_Translations/ige.pdf
 
-All human beings are born free and equal in dignity and rights. They are endowed
-with reason and conscience and should act towards one another in a spirit of
-brotherhood.
+## 1 - Övir Freihaid, Gileikhaid, Giswestorhaid
 
-2
+Alla gumonan sind boron frei und gileik in worþ and rihtan. Häbbien þet förnumoþ and giwiton und skölden dón to ain anþra miþ giswestorhaid.
 
-Alla gineuten þen rihtan und freihaidan hjar gebona, án skaiþon nenar ard, als
-folk, farow, gisläht, sprok, gilaub, stadleika or anþra mainuon, landleika or
-gisäiljskapleika orsprung, (property), boron, or anþra tostand.
+## 2 - Förbud fram (discrimination)
 
-Everyone is entitled to all the rights and freedoms set forth in this
-Declaration, without distinction of any kind, such as race, colour, sex,
-language, religion, political or other opinion, national or social origin,
-property, birth or other status.
+Alla gineuten all þen rihtan und freihaidan hjar gebona, án skaiþ nainas ard, als
+folk, farow, gisläht, sprak, gilaub, stadleika or anþra main, landleika or
+gisäiljskapleika orsprung, aigonskap, boron, or anþra tostand.
+
+Mairis, naina skaiþ skal weson dón up grund af (political), rihtleika, or twiskinlandleika tostand þes landas or gilandas to hwelk
+ain gumon tohaüréþ, (no matter) þis land fullmaht haþ, ne selƀ-giwalteond is, or ait anþra inskrank af aigonrihtj haþ.
 
 Furthermore, no distinction shall be made on the basis of the political,
 jurisdictional or international status of the country or territory to which a
 person belongs, whether it be independent, trust, non-self-governing or under
 any other limitation of sovereignty.
+
+## 3 - Rihtj and freihaid
+
+Elkain haþ þet rihtj to lib, freihaid, and sikorhaid af person.

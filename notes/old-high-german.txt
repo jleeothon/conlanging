@@ -1,0 +1,20 @@
+Here are enumerated the sound changes that transformed Common West Germanic into Old High German, not including the Late OHG changes which affected Middle High German
+
+    /ɣ/, /β/ > /ɡ/, /b/ in all positions (/ð/ > /d/ already took place in West Germanic). Most but not all High German areas are subject to this change.
+        PG *sibi "sieve" > OHG sib (cf. Old English sife), PG *gestra "yesterday" > OHG gestaron (cf. OE ġeostran, ġ being a fricative /ʝ/ )
+    High German consonant shift: Inherited voiceless plosives are lenited into fricatives and affricates, while voiced fricatives are hardened into plosives and in some cases devoiced.
+        Ungeminated post-vocalic /p/, /t/, /k/ spirantize intervocalically to /ff/, /ȥȥ/, /xx/ and elsewhere to /f/, /ȥ/, /x/. Cluster /tr/ is exempt from this. Compare Old English slǣpan to Old High German slāfan.
+        Word-initially, after a resonant and when geminated, the same consonants affricatized to /pf/, /tȥ/ and /kx/, OE tam: OHG zam.
+            Spread of /k/ > /kx/ is geographically very limited and is not reflected in Modern Standard German.
+        /b/, /d/ and /ɡ/ are devoiced.
+            In Standard German, this applies to /d/ in all positions, but to /b/ and /ɡ/ only when geminated. PG *brugjo > *bruggo > brucca, but *leugan > leggen.
+    /eː/ (*ē²) and /oː/ are diphthongized into /ie/ and /uo/ respectively.
+    Proto-Germanic /ai/ became /ei/, except before /r/, /h/, /w/ and word finally, where it monophthongizes into ê ( which is also the reflex of unstressed /ai/).
+        Similarly /au/ > /ô/ before /r/, /h/ and all dentals, otherwise /au/ > /ou/. PG *dauþaz "death" > OHG tôd, but *haubudą "head" > houbit.
+            /h/ refers here only to inherited /h/ from PIE *k, and not to the result of the consonant shift /x/, which is sometimes written as h.
+    /eu/ merges with /iu/ under i-umlaut and u-umlaut, but elsewhere is /io/ (earlier /eo/). In Upper German varieties it also becomes /iu/ before labials and velars.
+    /θ/ fortifies to /d/ in all German dialects.
+    Initial /w/ and /h/ before another consonant are dropped.
+
+
+/au[rhdtþ]/ > ó

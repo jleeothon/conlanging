@@ -231,10 +231,10 @@ Other pro-forms also known as **prepositional pro-forms** can be built with pro-
 
 The **pro-adverbs** of condition:
 
-|               | Pro-adverb | Meaning                             |
-| ------------- | ---------- | ----------------------------------- |
-| Interrogative | hwef       | if, whether                         |
-| Proximal      | hjef       | then immediately (compare to ZH 就) |
-| Medial        | þef        | then                                |
-| Distal        | sjef       | only then (compare to ZH 才)        |
-| Referential   | swof       | then (emph. the conditional clause) |
+|               | Pro-adverb | Meaning                                  |
+| ------------- | ---------- | ---------------------------------------- |
+| Interrogative | hwef       | if, whether                              |
+| Proximal      | hjef       | then immediately (compare to Chinese 就) |
+| Medial        | þef        | then                                     |
+| Distal        | sjef       | only then (compare to Chinese 才)        |
+| Referential   | swef       | then (emph. the conditional clause)      |
