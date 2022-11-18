@@ -244,9 +244,7 @@ blandon:
   meaning: to blend
   template: strong-7c-i
 blaut:
-  pos:
-    - Adjective
-    - Adverb
+  pos: Adjective
   meaning: bare, only, simply
 blowan:
   pos: Verb
@@ -699,8 +697,7 @@ frusk:
   pos: Noun
   meaning: frog
 frust:
-  pos:
-    - Noun
+  pos: Noun
   meaning: frost
   tags:
     - Nature
@@ -1236,9 +1233,7 @@ kwemon:
   meaning: to come
   template: strong-34-e
 kwik:
-  pos:
-    - Adjective
-    - Adverb
+  pos: Adjective
   meaning: quick, lively, of short duration
 kwild:
   pos: Noun
@@ -1275,25 +1270,19 @@ lamb:
   tags:
     - Animals
 lat:
-  pos:
-    - Adjective
-    - Adverb
+  pos: Adjective
   meaning: late
   tags:
     - Time
 latir:
-  pos:
-    - Adjective
-    - Adverb
+  pos: Adjective
   meaning: later
   tags:
     - Time
   see:
     - lat
 latist:
-  pos:
-    - Adjective
-    - Adverb
+  pos: Adjective
   meaning: latest, last
   tags:
     - Time
@@ -1566,9 +1555,7 @@ plehon:
   meaning: to commit
   template: strong-5
 plutsleik:
-  pos:
-    - Adjective
-    - Adverb
+  pos: Adverb
   meaning: sudden, unexpected
 plúm:
   pos: Noun
@@ -1787,10 +1774,9 @@ sneidon:
   meaning: to snow
   template: strong-1
 snell:
-  pos:
-    - Adjective
-    - Adverb
+  pos: Adjective
   meaning: fast
+  from: PG snellaz
 sokk:
   pos: Noun
   meaning: sock
@@ -1996,8 +1982,7 @@ twiskir:
   pos: Preposition
   meaning: between, among
 and-:
-  pos:
-    - Affix
+  pos: Affix
   meaning: prefix for verbs or nouns meaning "against", or indicating "removal"
 andgäldj:
   pos: Noun
@@ -2244,9 +2229,7 @@ aigon (2):
   pos: Adjective
   meaning: own
 aigonleik:
-  pos:
-    - Adjective
-    - Adverb
+  pos: Adverb
   meaning: actually, in reality
 samilon:
   pos: Verb
