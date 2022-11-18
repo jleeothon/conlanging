@@ -1,29 +1,20 @@
-#!/usr/bin/env node
-
-import { readFileSync } from "node:fs";
-// import path from "node:path";
-// import process from "node:process";
-
-// import Ajv from "ajv";
-import yaml from "js-yaml";
-
-import { packageDirectorySync } from "pkg-dir";
-
 import { wordListSchema } from "../lib/schema.js";
 import { ZodError } from "zod";
+import { readFileSync } from "node:fs";
 
-const projectRoot = packageDirectorySync();
+import { load as yamlLoad } from "js-yaml";
 
-// const schemaPath = path.join(projectRoot, "word-list-schema.json");
+// Future structure
+// aigonleik:
+//   parts:
+//   - pos: Adjective
+//     meanings:
+//       - something that does something
+//   - pos: Adverb
+//     meanings:
+// 		 - something that does something
 
-// const schema = yaml.load(readFileSync(schemaPath, "utf8"));
-
-// const ajv = new Ajv({ allErrors: true, verbose: true });
-
-const input = yaml.load(readFileSync(0, "utf8"));
-
-// const validate = ajv.compile(schema);
-// const valid = validate(input);
+const input = yamlLoad(readFileSync(0, "utf8"));
 
 try {
 	wordListSchema.parse(input);
@@ -31,19 +22,8 @@ try {
 } catch (e) {
 	if (e instanceof ZodError) {
 		console.error(e.toString());
+		process.exitCode = 1;
+	} else {
+		throw e;
 	}
-	throw e;
 }
-
-// if (valid) {
-// 	console.error("✓ Word list OK");
-// } else {
-// 	for (const error of validate.errors.map(({ instancePath, message }) => ({
-// 		path: instancePath,
-// 		message,
-// 	}))) {
-// 		console.error(error);
-// 	}
-
-// 	process.exitCode = 1;
-// }
