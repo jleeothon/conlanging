@@ -1,5 +1,5 @@
 overrides:
-  - files: "*.yaml"
+  - files: "**/*.yaml"
     parser: yaml
     proseWrap: always
     quoteProps: never

@@ -1,4 +1,4 @@
-"-bár":
+'-bár':
   roles:
     - pos: Affix
       xdefs:
@@ -3294,7 +3294,7 @@ förnumoþ  / förnümþ / förnumþ:
       xdefs:
         - def: reason (capacity to reason)
           see:
-            - "-þiz"
+            - '-þiz'
 giwiton:
   roles:
     - pos: Noun
@@ -3442,3 +3442,4 @@ klaiw:
     - pos: Noun
       xdefs:
         - def: clover
+
