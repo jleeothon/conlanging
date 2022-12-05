@@ -1,0 +1,13 @@
+- name: nature
+  subcategories:
+    - atmosphere
+    - lifeforms
+- name: lifeforms
+  subcategories:
+    - animals
+    - fungi
+    - plants
+- name: animals
+  subcategories:
+    - fish
+    - livestock

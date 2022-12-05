@@ -1,0 +1,23 @@
+- name: Noun
+  subcategories:
+    - Proper Noun
+    - Weak Noun
+- name: Verb
+  subcategories:
+    - Strong Verb
+    - Weak Verb
+    - Irregular Verb
+- name: Strong Verb
+  subcategories:
+    - Class 1 Strong Verb
+    - Class 2 Strong Verb
+    - Class 3 Strong Verb
+    - Class 4 Strong Verb
+    - Class 5 Strong Verb
+    - Class 6 Strong Verb
+- name: Weak Verb
+    - Class 1 Weak Verb
+    - Class 2 Weak Verb
+    - Class 3 Weak Verb
+- name: Adjective
+- name: Adverb

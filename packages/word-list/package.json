@@ -10,8 +10,7 @@
         "verify-word-list": "ts-node bin/verify-word-list.ts < data/word-list.yaml",
         "sort-word-list": "bin/sort-word-list.fish",
         "lint": "prettier",
-        "render": "rm word-list/*; bin/render.js < data/word-list.yaml",
-        "test": "npm run verify-word-list && npm run sort-word-list && npm run render && npm run post-lint"
+        "test": "npm run verify-word-list && npm run sort-word-list"
     },
     "author": "",
     "license": "ISC",

@@ -3,11 +3,6 @@
     - pos: Affix
       xdefs:
         - def: adjective suffix, akin to -able.
-ant-:
-  roles:
-    - pos: Affix
-      xdefs:
-        - def: opposite
 afgrund:
   roles:
     - pos: Noun
@@ -28,6 +23,28 @@ aht:
     - pos: Noun
       xdefs:
         - def: attention
+ahw:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: river
+          tags:
+            - Nature
+aigon (1):
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to own
+aigon (2):
+  roles:
+    - pos: Adjective
+      xdefs:
+        - def: own
+aigonleik:
+  roles:
+    - pos: Adverb
+      xdefs:
+        - def: actually, in reality
 aigonskap:
   roles:
     - pos: Noun
@@ -93,11 +110,6 @@ ald:
         - def: old
           tags:
             - Descriptions
-alon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to age
 aldiþ:
   roles:
     - pos: Noun
@@ -113,6 +125,21 @@ allain (2):
     - pos: Adjective
       xdefs:
         - def: alone
+alon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to age
+ampor (1):
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: common sorrel, _Rumex acetosa_
+ampor (2):
+  roles:
+    - pos: Adjective
+      xdefs:
+        - def: bitter and sour
 amsul:
   roles:
     - pos: Noun
@@ -125,11 +152,44 @@ and:
     - pos: Conjunction
       xdefs:
         - def: and
+and-:
+  roles:
+    - pos: Affix
+      xdefs:
+        - def: prefix for verbs or nouns def "against", or indicating "removal"
+andgäldj:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: compensation, recompense
+          see:
+            - and-
+andgäldjon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to recompense, to compensate
+          see:
+            - and-
+            - gäldjun
 andhüllion:
   roles:
     - pos: Verb
       xdefs:
         - def: to revelate
+andkwemmon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to leave, to flee
+          see:
+            - and-
+            - kwemmun
+ant-:
+  roles:
+    - pos: Affix
+      xdefs:
+        - def: opposite
 antworduon:
   roles:
     - pos: Verb
@@ -146,8 +206,8 @@ apol:
       xdefs:
         - def: apple
           tags:
-            - Nature
             - Food
+            - Nature
 ard:
   roles:
     - pos: Noun
@@ -266,6 +326,13 @@ bedwon:
     - pos: Verb
       xdefs:
         - def: to pray
+bei:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: bee
+          tags:
+            - Animals
 beron:
   roles:
     - pos: Verb
@@ -276,6 +343,11 @@ beugon:
     - pos: Verb
       xdefs:
         - def: to bend (intransitive)
+beur:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: beer
 beuton:
   roles:
     - pos: Verb
@@ -295,13 +367,6 @@ bihlastwon:
         - def: to annoy, to harass
           see:
             - hlast
-bei:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: bee
-          tags:
-            - Animals
 bikj:
   roles:
     - pos: Noun
@@ -329,21 +394,26 @@ binin:
     - pos: Preposition
       xdefs:
         - def: including
+birkj:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: birch
 biskreibon:
   roles:
     - pos: Verb
       xdefs:
         - def: describe
-bisundris:
-  roles:
-    - pos: Adverb
-      xdefs:
-        - def: especially, particularly
 bisundor:
   roles:
     - pos: Adjective
       xdefs:
         - def: special, unusual
+bisundris:
+  roles:
+    - pos: Adverb
+      xdefs:
+        - def: especially, particularly
 bisweron:
   roles:
     - pos: Verb
@@ -464,14 +534,29 @@ butins:
     - pos: Preposition
       xdefs:
         - def: except
+bág:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: fight, quarrel
+báglon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to discuss, to quarrel
+bágon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to fight
 bärj:
   roles:
     - pos: Noun
       xdefs:
         - def: berry
           tags:
-            - Nature
             - Food
+            - Nature
             - Plants
 bäst:
   roles:
@@ -498,6 +583,11 @@ bér:
         - def: bear
           tags:
             - Animals
+bóg:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: bough, big branch
 bók (1):
   roles:
     - pos: Noun
@@ -573,6 +663,11 @@ dewon:
     - pos: Verb
       xdefs:
         - def: to die
+dor:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: gate, door
 dragon:
   roles:
     - pos: Verb
@@ -645,6 +740,11 @@ dusk:
     - pos: Adjective
       xdefs:
         - def: dark
+dust:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: dust
 dweinon:
   roles:
     - pos: Verb
@@ -660,11 +760,6 @@ dör:
     - pos: Noun
       xdefs:
         - def: door
-dor:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: gate, door
 dúv:
   roles:
     - pos: Noun
@@ -792,6 +887,11 @@ farn:
         - def: fern
           tags:
             - Plants
+faron:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to drive
 farw:
   roles:
     - pos: Noun
@@ -799,11 +899,6 @@ farw:
         - def: colour
           tags:
             - Descriptions
-faron:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to drive
 fatwon:
   roles:
     - pos: Verb
@@ -823,6 +918,16 @@ feh:
         - def: cattle
           tags:
             - Animals
+fehon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to rejoice, to be glad
+felow:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: fellow, friend, one who travels along
 feuhtj:
   roles:
     - pos: Noun
@@ -837,7 +942,7 @@ feþur:
         - def: feather
           tags:
             - Animals
-fijend:
+fijond:
   roles:
     - pos: Noun
       xdefs:
@@ -854,12 +959,17 @@ findon:
     - pos: Verb
       xdefs:
         - def: to find
-firkwistjon:
+fink:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: finch
+förkwistjon:
   roles:
     - pos: Verb
       xdefs:
         - def: to waste
-firswändjon:
+förswändjon:
   roles:
     - pos: Verb
       xdefs:
@@ -916,13 +1026,6 @@ fluþur:
         - def: flounder, flatfish
           tags:
             - Animals
-ahw:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: river
-          tags:
-            - Nature
 flód:
   roles:
     - pos: Noun
@@ -940,6 +1043,11 @@ foll:
     - pos: Adjective
       xdefs:
         - def: full
+follfägjon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to fullfill, to satisfy
 forhon:
   roles:
     - pos: Noun
@@ -962,6 +1070,13 @@ fraw:
     - pos: Adjective
       xdefs:
         - def: happy
+freijodag:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: Friday
+          tags:
+            - Time
 frek:
   roles:
     - pos: Adjective
@@ -977,12 +1092,12 @@ frij:
     - pos: Adjective
       xdefs:
         - def: free
-frijend:
+freiond:
   roles:
     - pos: Noun
       xdefs:
         - def: friend
-frijon?:
+freion:
   roles:
     - pos: Verb
       xdefs:
@@ -1025,6 +1140,20 @@ fulgwon:
     - pos: Verb
       xdefs:
         - def: to follow
+fund:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: something that is found, discovery
+          see:
+            - findan
+fägjon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to please, to do a favour
+          see:
+            - fehon
 fól:
   roles:
     - pos: Noun
@@ -1042,16 +1171,23 @@ fördailion:
     - pos: Verb
       xdefs:
         - def: to distribute
-fördion:
+förþion:
   roles:
     - pos: Verb
       xdefs:
         - def: to further, to foster, to support
-fördion ut:
+förþion ut:
   roles:
     - pos: Verb
       xdefs:
         - def: to challenge
+förnumoþ:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: reason (capacity to reason)
+          see:
+            - "-þiz"
 försenkion:
   roles:
     - pos: Verb
@@ -1132,6 +1268,11 @@ gevon:
     - pos: Verb
       xdefs:
         - def: to give
+ginóg:
+  roles:
+    - pos: Adverb
+      xdefs:
+        - def: enough
 gisihtj:
   roles:
     - pos: Noun
@@ -1163,6 +1304,11 @@ giwar:
     - pos: Adjective
       xdefs:
         - def: aware
+giwiton:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: conscience
 gleidon:
   roles:
     - pos: Verb
@@ -1233,6 +1379,11 @@ gód:
         - def: good
           tags:
             - Descriptions
+güdjon:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: priest (pagan)
 hail:
   roles:
     - pos: Adjective
@@ -1279,16 +1430,16 @@ hand:
         - def: hand
           tags:
             - Body
-handlár:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: merchant
 handlon:
   roles:
     - pos: Verb
       xdefs:
         - def: to handle, to negotiate, to do business with sth.
+handlár:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: merchant
 hangon:
   roles:
     - pos: Verb
@@ -1318,6 +1469,11 @@ hebbion:
     - pos: Verb
       xdefs:
         - def: to lift
+helon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to hide (intr.)
 helpon:
   roles:
     - pos: Verb
@@ -1434,6 +1590,11 @@ hraig:
         - def: heron
           tags:
             - Animals
+href:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: body
 hreggion:
   roles:
     - pos: Verb
@@ -1483,16 +1644,16 @@ hund:
         - def: dog
           tags:
             - Animals
-hungrwon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to hunger
 hungor:
   roles:
     - pos: Noun
       xdefs:
         - def: hunger
+hungrwon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to hunger
 huning:
   roles:
     - pos: Noun
@@ -1506,6 +1667,11 @@ hvis:
     - pos: Conjunction
       xdefs:
         - def: if
+hwal:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: whale
 hwass:
   roles:
     - pos: Adjective
@@ -1545,6 +1711,13 @@ hwervon:
     - pos: Verb
       xdefs:
         - def: to throw
+hág:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: yard, pasture, small forest
+          see:
+            - hägg
 hárm:
   roles:
     - pos: Noun
@@ -1559,6 +1732,20 @@ hás:
         - def: hare
           tags:
             - Animals
+hägg:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: garden, enclosure
+          see:
+            - hág
+häljon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to hide (trans.)
+          see:
+            - helon
 hän:
   roles:
     - pos: Noun
@@ -1578,6 +1765,20 @@ hód:
     - pos: Noun
       xdefs:
         - def: hood, head covering
+hölj:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: protective covering
+          see:
+            - höljon
+höljon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to cover, to protect by covering
+          see:
+            - helon
 hülis:
   roles:
     - pos: Noun
@@ -1666,6 +1867,16 @@ klain:
         - def: small
           tags:
             - Descriptions
+klaiw:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: clover
+klaiwor:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: clover
 klaiþ:
   roles:
     - pos: Noun
@@ -1743,16 +1954,16 @@ kuw:
         - def: cow
           tags:
             - Animals
-kwemun an:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: arrive
 kwemon:
   roles:
     - pos: Verb
       xdefs:
         - def: to come
+kwemun an:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: arrive
 kwik:
   roles:
     - pos: Adjective
@@ -1805,6 +2016,11 @@ lamb:
         - def: lamb
           tags:
             - Animals
+laon:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: wage, reward, pay
 lat:
   roles:
     - pos: Adjective
@@ -1830,11 +2046,6 @@ latist:
             - Time
           see:
             - lat
-laon:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: wage, reward, pay
 lebruon:
   roles:
     - pos: Noun
@@ -1894,6 +2105,18 @@ lust:
     - pos: Noun
       xdefs:
         - def: desire
+luv:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: love
+          tags:
+            - Feelings
+luvian:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to love
 lár / lér:
   roles:
     - pos: Adjective
@@ -1904,13 +2127,6 @@ láton:
     - pos: Verb
       xdefs:
         - def: to let
-luv:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: love
-          tags:
-            - Feelings
 lütt:
   roles:
     - pos: Adjective
@@ -1918,11 +2134,11 @@ lütt:
         - def: small
           tags:
             - Descriptions
-luvian:
+mainuon:
   roles:
     - pos: Verb
       xdefs:
-        - def: to love
+        - def: to mean, to have an opinion
 mair:
   roles:
     - pos: Adjective
@@ -1987,6 +2203,13 @@ meurj:
         - def: ant
           tags:
             - Animals
+midd:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: middle, center
+          tags:
+            - Descriptions
 midil:
   roles:
     - pos: Noun
@@ -2015,13 +2238,6 @@ midirnaht:
         - def: midnight
           tags:
             - Time
-midd:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: middle, center
-          tags:
-            - Descriptions
 mikil:
   roles:
     - pos: Adjective
@@ -2059,6 +2275,13 @@ modor:
         - def: mother
           tags:
             - Family
+morgon:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: morning
+          tags:
+            - Time
 morgunis:
   roles:
     - pos: Noun
@@ -2066,11 +2289,16 @@ morgunis:
         - def: in the mornings
           tags:
             - Time
-morgon:
+mán:
   roles:
     - pos: Noun
       xdefs:
-        - def: morning
+        - def: moon
+mándag:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: Monday
           tags:
             - Time
 märhj:
@@ -2092,6 +2320,11 @@ mús:
         - def: mouse
           tags:
             - Animals
+mőþ:
+  roles:
+    - pos: Adjective
+      xdefs:
+        - def: tired
 naht:
   roles:
     - pos: Noun
@@ -2101,6 +2334,11 @@ naht:
             - Time
           see:
             - nahtis
+nakwod:
+  roles:
+    - pos: Adjective
+      xdefs:
+        - def: naked
 nat:
   roles:
     - pos: Adjective
@@ -2116,16 +2354,21 @@ naud:
     - pos: Noun
       xdefs:
         - def: need, emergency
-nemon an:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to accept
 nemon:
   roles:
     - pos: Verb
       xdefs:
         - def: to take
+nemon an:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to accept
+neson:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to heal (intransitive)
 nest:
   roles:
     - pos: Noun
@@ -2133,11 +2376,11 @@ nest:
         - def: nest
           tags:
             - Animals
-neson:
+neur:
   roles:
-    - pos: Verb
+    - pos: Noun
       xdefs:
-        - def: to heal (intransitive)
+        - def: kidney
 niw:
   roles:
     - pos: Adjective
@@ -2171,8 +2414,8 @@ obotj:
       xdefs:
         - def: fruit
           tags:
-            - Plants
             - Food
+            - Plants
 of:
   roles:
     - pos: Conjunction
@@ -2190,6 +2433,11 @@ ohs:
         - def: ox, castrated bull
           tags:
             - Animals
+orsak:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: cause
 otur:
   roles:
     - pos: Noun
@@ -2256,6 +2504,11 @@ raih:
         - def: deer
           tags:
             - Animals
+rakuon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to touch
 ramm:
   roles:
     - pos: Noun
@@ -2319,26 +2572,53 @@ rádsol:
     - pos: Noun
       xdefs:
         - def: riddle, puzzle
+rúm:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: space, room
+rúmuon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to make spacel to tidy up
+saiwol:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: soul
 sam:
   roles:
     - pos: Verb
       xdefs:
         - def: same
+samilon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to gather, to collect
 samon:
   roles:
     - pos: Verb
       xdefs:
         - def: together
-sehun in:
+satordag:
   roles:
-    - pos: Verb
+    - pos: Noun
       xdefs:
-        - def: to comprehend, to realise
+        - def: Saturday
+          tags:
+            - Time
 sehon:
   roles:
     - pos: Verb
       xdefs:
         - def: to see
+sehun in:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to comprehend, to realise
 seldon:
   roles:
     - pos: Adjective
@@ -2356,7 +2636,7 @@ selv:
     - pos: Noun
       xdefs:
         - def: self
-senkion:
+sänkion:
   roles:
     - pos: Verb
       xdefs:
@@ -2366,6 +2646,11 @@ seuk:
     - pos: Adjective
       xdefs:
         - def: sick, ill
+seukonon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to sicken, to become sick
 siht:
   roles:
     - pos: Noun
@@ -2386,6 +2671,11 @@ sinkon:
     - pos: Verb
       xdefs:
         - def: to sink (intransitive)
+skaid:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: sheathfish
 skaiþon:
   roles:
     - pos: Verb
@@ -2401,6 +2691,11 @@ skap:
     - pos: Noun
       xdefs:
         - def: shape, condition, nature
+skaþo:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: damage
 skehon:
   roles:
     - pos: Verb
@@ -2564,6 +2859,11 @@ springon:
     - pos: Verb
       xdefs:
         - def: to spring
+sprok:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: language
 stad:
   roles:
     - pos: Noun
@@ -2628,6 +2928,11 @@ streikon:
     - pos: Verb
       xdefs:
         - def: to strike, to hit
+stund:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: hour
 stäggj:
   roles:
     - pos: Noun
@@ -2695,6 +3000,11 @@ swaipon:
     - pos: Verb
       xdefs:
         - def: to sweep
+swalow:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: swallow (bird)
 swalw:
   roles:
     - pos: Noun
@@ -2702,11 +3012,6 @@ swalw:
         - def: swallow
           tags:
             - Animals
-swalow:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: swallow (bird)
 swamm:
   roles:
     - pos: Noun
@@ -2719,13 +3024,6 @@ swan:
         - def: swan
           tags:
             - Animals
-swart:
-  roles:
-    - pos: Adjective
-      xdefs:
-        - def: black
-          tags:
-            - Descriptions
 swaron:
   roles:
     - pos: Verb
@@ -2733,6 +3031,13 @@ swaron:
         - def: to swear (to make a solemn promise)
           tags:
             - Language
+swart:
+  roles:
+    - pos: Adjective
+      xdefs:
+        - def: black
+          tags:
+            - Descriptions
 swaïgian:
   roles:
     - pos: Verb
@@ -2777,6 +3082,11 @@ swár:
     - pos: Adjective
       xdefs:
         - def: heavy
+tagol:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: tail
 taihow:
   roles:
     - pos: Noun
@@ -2792,6 +3102,13 @@ taubor:
     - pos: Noun
       xdefs:
         - def: magic
+teiwsdag:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: Tuesday
+          tags:
+            - Time
 teuhon:
   roles:
     - pos: Verb
@@ -2802,6 +3119,16 @@ titirjon:
     - pos: Verb
       xdefs:
         - def: shiver, shake, vibrate
+trinnon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to divide (itself, oneself) into parts
+trännion:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to cause separate, to divide
 tweig:
   roles:
     - pos: Noun
@@ -2812,39 +3139,6 @@ twiskir:
     - pos: Preposition
       xdefs:
         - def: between, among
-and-:
-  roles:
-    - pos: Affix
-      xdefs:
-        - def: prefix for verbs or nouns def "against", or indicating "removal"
-andgäldj:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: compensation, recompense
-          see:
-            - and-
-andgäldjon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to recompense, to compensate
-          see:
-            - gäldjun
-            - and-
-andkwemmon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to leave, to flee
-          see:
-            - kwemmun
-            - and-
-orsak:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: cause
 utfördion:
   roles:
     - pos: Noun
@@ -2977,6 +3271,18 @@ wiþir:
         - def: >-
             further, indicates continuation of action e.g. "gán wiþir" (to
             continue to go, to go further)
+wleiton:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to ressemble
+wlit:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: appearance, ressemblance
+          see:
+            - wleiton
 wolf:
   roles:
     - pos: Noun
@@ -2984,6 +3290,11 @@ wolf:
         - def: wolf
           tags:
             - Animals
+workion:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to work (irregular)
 worm:
   roles:
     - pos: Noun
@@ -3016,6 +3327,18 @@ wäkion:
     - pos: Verb
       xdefs:
         - def: to wake up (transitive)
+wódnasdag:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: Wednesday
+          tags:
+            - Time
+wörkion:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to be effective, to take effect
 ál:
   roles:
     - pos: Noun
@@ -3023,6 +3346,11 @@ wäkion:
         - def: eel
           tags:
             - Animals
+án:
+  roles:
+    - pos: Preposition
+      xdefs:
+        - def: without
 áp:
   roles:
     - pos: Noun
@@ -3104,11 +3432,6 @@ wäkion:
         - def: >-
             to cause pressure (by an inanimate agent), to be important, to be
             urgent
-þrängjon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to press
 þrinhond:
   roles:
     - pos: Adjective
@@ -3119,6 +3442,11 @@ wäkion:
     - pos: Verb
       xdefs:
         - def: to turn, to twist
+þrängjon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to press
 þäkjon:
   roles:
     - pos: Verb
@@ -3129,316 +3457,3 @@ wäkion:
     - pos: Adjective
       xdefs:
         - def: thin
-hág:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: yard, pasture, small forest
-          see:
-            - hägg
-hägg:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: garden, enclosure
-          see:
-            - hág
-trinnon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to divide (itself, oneself) into parts
-trännion:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to cause separate, to divide
-beur:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: beer
-aigon (1):
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to own
-aigon (2):
-  roles:
-    - pos: Adjective
-      xdefs:
-        - def: own
-aigonleik:
-  roles:
-    - pos: Adverb
-      xdefs:
-        - def: actually, in reality
-samilon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to gather, to collect
-saiwol:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: soul
-mándag:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: Monday
-          tags:
-            - Time
-teiwsdag:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: Tuesday
-          tags:
-            - Time
-wódnasdag:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: Wednesday
-          tags:
-            - Time
-freijodag:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: Friday
-          tags:
-            - Time
-satordag:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: Saturday
-          tags:
-            - Time
-stund:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: hour
-dust:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: dust
-rúm:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: space, room
-rúmuon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to make spacel to tidy up
-mőþ:
-  roles:
-    - pos: Adjective
-      xdefs:
-        - def: tired
-tagol:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: tail
-nakwod:
-  roles:
-    - pos: Adjective
-      xdefs:
-        - def: naked
-href:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: body
-birkj:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: birch
-ginóg:
-  roles:
-    - pos: Adverb
-      xdefs:
-        - def: enough
-rakuon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to touch
-workion:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to work (irregular)
-wörkion:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to be effective, to take effect
-bóg:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: bough, big branch
-förnumoþ  / förnümþ / förnumþ:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: reason (capacity to reason)
-          see:
-            - "-þiz"
-giwiton:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: conscience
-sprok:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: language
-mainuon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to mean, to have an opinion
-mán:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: moon
-bágon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to fight
-bág:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: fight, quarrel
-báglon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to discuss, to quarrel
-güdjon:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: priest (pagan)
-neur:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: kidney
-skaþo:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: damage
-fink:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: finch
-án:
-  roles:
-    - pos: Preposition
-      xdefs:
-        - def: without
-helon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to hide (intr.)
-häljon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to hide (trans.)
-          see:
-            - helon
-höljon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to cover, to protect by covering
-          see:
-            - helon
-hölj:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: protective covering
-          see:
-            - höljon
-fund:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: something that is found, discovery
-          see:
-            - findan
-wleiton:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to ressemble
-wlit:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: appearance, ressemblance
-          see:
-            - wleiton
-felow:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: fellow, friend, one who travels along
-fehon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to rejoice, to be glad
-fägjon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to please, to do a favour
-          see:
-            - fehon
-follfägjon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to fullfill, to satisfy
-ampor (1):
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: common sorrel, _Rumex acetosa_
-ampor (2):
-  roles:
-    - pos: Adjective
-      xdefs:
-        - def: bitter and sour
-klaiwor:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: clover
-klaiw:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: clover
