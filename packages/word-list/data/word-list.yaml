@@ -1,4 +1,4 @@
-'-bár':
+"-bár":
   roles:
     - pos: Affix
       xdefs:
@@ -23,20 +23,18 @@ aht:
     - pos: Noun
       xdefs:
         - def: attention
-ahw:
+ahow:
   roles:
     - pos: Noun
       xdefs:
         - def: river
           tags:
             - Nature
-aigon (1):
+aigon:
   roles:
     - pos: Verb
       xdefs:
         - def: to own
-aigon (2):
-  roles:
     - pos: Adjective
       xdefs:
         - def: own
@@ -91,7 +89,7 @@ air (2):
     - pos: Noun
       xdefs:
         - def: reverence, honour
-airig (1):
+airig:
   roles:
     - pos: Adjective
       xdefs:
@@ -130,13 +128,11 @@ alon:
     - pos: Verb
       xdefs:
         - def: to age
-ampor (1):
+ampor:
   roles:
     - pos: Noun
       xdefs:
         - def: common sorrel, _Rumex acetosa_
-ampor (2):
-  roles:
     - pos: Adjective
       xdefs:
         - def: bitter and sour
@@ -156,15 +152,15 @@ and-:
   roles:
     - pos: Affix
       xdefs:
-        - def: prefix for verbs or nouns def "against", or indicating "removal"
-andgäldj:
+        - def: prefix for verbs or nouns meaning "against", or indicating removal
+ändgäldj:
   roles:
     - pos: Noun
       xdefs:
         - def: compensation, recompense
           see:
             - and-
-andgäldjon:
+ändgäldjon:
   roles:
     - pos: Verb
       xdefs:
@@ -172,12 +168,12 @@ andgäldjon:
           see:
             - and-
             - gäldjun
-andhüllion:
+ändhüllion:
   roles:
     - pos: Verb
       xdefs:
         - def: to revelate
-andkwemmon:
+ändkwemmon:
   roles:
     - pos: Verb
       xdefs:
@@ -185,11 +181,6 @@ andkwemmon:
           see:
             - and-
             - kwemmun
-ant-:
-  roles:
-    - pos: Affix
-      xdefs:
-        - def: opposite
 antworduon:
   roles:
     - pos: Verb
@@ -213,7 +204,7 @@ ard:
     - pos: Noun
       xdefs:
         - def: type, kind
-arhw:
+arhow:
   roles:
     - pos: Noun
       xdefs:
@@ -249,7 +240,7 @@ avir:
     - pos: Conjunction
       xdefs:
         - def: but, however
-avund:
+ábond:
   roles:
     - pos: Noun
       xdefs:
@@ -274,7 +265,7 @@ bakon:
   roles:
     - pos: Verb
       xdefs:
-        - def: to bake (transitive and intransitive)
+        - def: (ergative) to bake
 bannon:
   roles:
     - pos: Verb
@@ -474,7 +465,7 @@ brekon:
   roles:
     - pos: Verb
       xdefs:
-        - def: to break
+        - def: (ergative) to break
 breust:
   roles:
     - pos: Noun
@@ -556,7 +547,6 @@ bärj:
         - def: berry
           tags:
             - Food
-            - Nature
             - Plants
 bäst:
   roles:
@@ -600,7 +590,7 @@ bók (2):
         - def: beech
           tags:
             - Nature
-bót:
+baut:
   roles:
     - pos: Noun
       xdefs:
@@ -641,7 +631,7 @@ daud:
     - pos: Noun
       xdefs:
         - def: dead
-daudjon:
+däudjon:
   roles:
     - pos: Verb
       xdefs:
@@ -658,7 +648,7 @@ deur:
         - def: animal
           tags:
             - Animals
-dewon:
+däujon:
   roles:
     - pos: Verb
       xdefs:
@@ -1177,7 +1167,7 @@ förnumoþ:
       xdefs:
         - def: reason (capacity to reason)
           see:
-            - '-þiz'
+            - "-þiz"
 försenkion:
   roles:
     - pos: Verb
@@ -2540,20 +2530,14 @@ reidon:
     - pos: Verb
       xdefs:
         - def: to ride
-reikj (1):
+reikj:
   roles:
     - pos: Noun
       xdefs:
         - def: kingdom, government, realm, authority
-          see:
-            - reikj (2)
-reikj (2):
-  roles:
     - pos: Adjective
       xdefs:
         - def: rich
-          see:
-            - reikj (1)
 reison:
   roles:
     - pos: Verb
@@ -3469,4 +3453,13 @@ wörkion:
     - pos: Adjective
       xdefs:
         - def: thin
-
+dóm:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: judgment, opinion
+dőmion:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to deem, to judge
