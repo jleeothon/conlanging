@@ -1,4 +1,4 @@
-"-bár":
+'-bár':
   roles:
     - pos: Affix
       xdefs:
@@ -824,6 +824,13 @@ fador:
         - def: father
           tags:
             - Family
+fagon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: (trans.) to attach sth. to oneself
+          see:
+            - főgion
 fagor:
   roles:
     - pos: Adjective
@@ -964,18 +971,6 @@ fink:
     - pos: Noun
       xdefs:
         - def: finch
-förkwistjon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to waste
-förswändjon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to make disappear
-          see:
-            - förswindun
 fisk:
   roles:
     - pos: Noun
@@ -1077,6 +1072,16 @@ freijodag:
         - def: Friday
           tags:
             - Time
+freion:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to free
+freiond:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: friend
 frek:
   roles:
     - pos: Adjective
@@ -1092,16 +1097,6 @@ frij:
     - pos: Adjective
       xdefs:
         - def: free
-freiond:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: friend
-freion:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to free
 frusk:
   roles:
     - pos: Noun
@@ -1171,23 +1166,18 @@ fördailion:
     - pos: Verb
       xdefs:
         - def: to distribute
-förþion:
+förkwistjon:
   roles:
     - pos: Verb
       xdefs:
-        - def: to further, to foster, to support
-förþion ut:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to challenge
+        - def: to waste
 förnumoþ:
   roles:
     - pos: Noun
       xdefs:
         - def: reason (capacity to reason)
           see:
-            - "-þiz"
+            - '-þiz'
 försenkion:
   roles:
     - pos: Verb
@@ -1203,6 +1193,28 @@ förswindon:
     - pos: Verb
       xdefs:
         - def: to disappear
+förswändjon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to make disappear
+          see:
+            - förswindun
+förþion:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to further, to foster, to support
+förþion ut:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to challenge
+főgion:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: (trans.) to attach sth, to add sth.
 gail:
   roles:
     - pos: Adjective
@@ -2636,11 +2648,6 @@ selv:
     - pos: Noun
       xdefs:
         - def: self
-sänkion:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to sink (transitive)
 seuk:
   roles:
     - pos: Adjective
@@ -3082,6 +3089,11 @@ swár:
     - pos: Adjective
       xdefs:
         - def: heavy
+sänkion:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to sink (transitive)
 tagol:
   roles:
     - pos: Noun
@@ -3457,3 +3469,4 @@ wörkion:
     - pos: Adjective
       xdefs:
         - def: thin
+
