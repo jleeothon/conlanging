@@ -13,6 +13,13 @@ afhangighaid:
     - pos: Noun
       xdefs:
         - def: dependence, attachment
+ahow:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: river
+          tags:
+            - Nature
 ahsihtj:
   roles:
     - pos: Noun
@@ -23,21 +30,14 @@ aht:
     - pos: Noun
       xdefs:
         - def: attention
-ahow:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: river
-          tags:
-            - Nature
 aigon:
   roles:
-    - pos: Verb
-      xdefs:
-        - def: to own
     - pos: Adjective
       xdefs:
         - def: own
+    - pos: Verb
+      xdefs:
+        - def: to own
 aigonleik:
   roles:
     - pos: Adverb
@@ -130,12 +130,12 @@ alon:
         - def: to age
 ampor:
   roles:
-    - pos: Noun
-      xdefs:
-        - def: common sorrel, _Rumex acetosa_
     - pos: Adjective
       xdefs:
         - def: bitter and sour
+    - pos: Noun
+      xdefs:
+        - def: common sorrel, _Rumex acetosa_
 amsul:
   roles:
     - pos: Noun
@@ -153,34 +153,6 @@ and-:
     - pos: Affix
       xdefs:
         - def: prefix for verbs or nouns meaning "against", or indicating removal
-ändgäldj:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: compensation, recompense
-          see:
-            - and-
-ändgäldjon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to recompense, to compensate
-          see:
-            - and-
-            - gäldjun
-ändhüllion:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to revelate
-ändkwemmon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to leave, to flee
-          see:
-            - and-
-            - kwemmun
 antworduon:
   roles:
     - pos: Verb
@@ -240,15 +212,6 @@ avir:
     - pos: Conjunction
       xdefs:
         - def: but, however
-ábond:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: evening
-          tags:
-            - Time
-          synonyms:
-            - kwild
 aþol:
   roles:
     - pos: Adjective
@@ -307,6 +270,11 @@ baum:
         - def: tree
           tags:
             - Plants
+baut:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: boat
 bauton:
   roles:
     - pos: Verb
@@ -590,11 +558,6 @@ bók (2):
         - def: beech
           tags:
             - Nature
-baut:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: boat
 dag:
   roles:
     - pos: Noun
@@ -631,11 +594,6 @@ daud:
     - pos: Noun
       xdefs:
         - def: dead
-däudjon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to kill
 dauþ:
   roles:
     - pos: Noun
@@ -648,11 +606,6 @@ deur:
         - def: animal
           tags:
             - Animals
-däujon:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to die
 dor:
   roles:
     - pos: Noun
@@ -745,6 +698,21 @@ dwás:
     - pos: Adjective
       xdefs:
         - def: stupid, foolish
+däudjon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to kill
+däujon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to die
+dóm:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: judgment, opinion
 dör:
   roles:
     - pos: Noun
@@ -757,6 +725,11 @@ dúv:
         - def: dove
           tags:
             - Animals
+dőmion:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to deem, to judge
 ebb:
   roles:
     - pos: Noun
@@ -2532,12 +2505,12 @@ reidon:
         - def: to ride
 reikj:
   roles:
-    - pos: Noun
-      xdefs:
-        - def: kingdom, government, realm, authority
     - pos: Adjective
       xdefs:
         - def: rich
+    - pos: Noun
+      xdefs:
+        - def: kingdom, government, realm, authority
 reison:
   roles:
     - pos: Verb
@@ -3335,6 +3308,15 @@ wörkion:
     - pos: Verb
       xdefs:
         - def: to be effective, to take effect
+ábond:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: evening
+          tags:
+            - Time
+          synonyms:
+            - kwild
 ál:
   roles:
     - pos: Noun
@@ -3354,6 +3336,34 @@ wörkion:
         - def: ape
           tags:
             - Animals
+ändgäldj:
+  roles:
+    - pos: Noun
+      xdefs:
+        - def: compensation, recompense
+          see:
+            - and-
+ändgäldjon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to recompense, to compensate
+          see:
+            - and-
+            - gäldjun
+ändhüllion:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to revelate
+ändkwemmon:
+  roles:
+    - pos: Verb
+      xdefs:
+        - def: to leave, to flee
+          see:
+            - and-
+            - kwemmun
 übil:
   roles:
     - pos: Adjective
@@ -3453,13 +3463,3 @@ wörkion:
     - pos: Adjective
       xdefs:
         - def: thin
-dóm:
-  roles:
-    - pos: Noun
-      xdefs:
-        - def: judgment, opinion
-dőmion:
-  roles:
-    - pos: Verb
-      xdefs:
-        - def: to deem, to judge

@@ -10,9 +10,7 @@
         "lint": "xo",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "dependencies": {
-        "undefined": "/Users/johnnyleeothon/lang/slumpisk/packages/crawler"
-    },
+    "dependencies": {},
     "devDependencies": {
         "got": "^12.4.1",
         "pkg-dir": "^7.0.0",
