@@ -1,5 +1,5 @@
 import { z } from "zod";
-import sortKeys from "sort-keys";
+import { compare } from "./alphabet.js";
 
 const partsOfSpeech = [
 	"Adjective",
@@ -45,7 +45,11 @@ export const wordListSchema = z
 			synonyms: sortedStringArraySchema.optional(),
 		})
 	)
-	.transform((val) => sortKeys(val));
+	.transform((val) =>
+		Object.fromEntries(
+			Object.entries(val).sort(([key1], [key2]) => compare(key1, key2))
+		)
+	);
 
 export type WordList = z.infer<typeof wordListSchema>;
 

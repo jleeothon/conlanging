@@ -9,8 +9,8 @@
     "scripts": {
         "verify-word-list": "ts-node bin/verify-word-list.ts < data/word-list.yaml",
         "sort-word-list": "bin/sort-word-list.fish",
-        "lint": "prettier",
-        "test": "npm run verify-word-list && npm run sort-word-list"
+        "lint": "prettier --write .",
+        "test": "npm run verify-word-list && npm run sort-word-list && npm run lint"
     },
     "author": "",
     "license": "ISC",
