@@ -1,19 +1,19 @@
 # Þe fuhs und þei þrúban
 
-An en dag, sah en hungriga fuhs et weinwörtj und enan þrúban hwa hingen af þet.
+An en dag, sah en hungriga fuhs et weinwörtj and enan þrúban hwa hingen af þet.
 
-Þe þrúban weren graut und plump und deup raud, und þe munþ þes fuhsas draup
-hweil at kaik þen. Nerg hwaner sah þe fuhs enan hjus grauta und plumpa und deup
+Þe þrúban weren graut and plump and deup raud, and þe munþ þes fuhsas draup
+hweil at kaik þen. Nerg hwaner sah þe fuhs enan hjus grauta and plumpa and deup
 rauda þrúban.
 
 Þe þrúban hingen af et hauha tweig. Þe fuhs sprang för fangen þem, abir ne konde
-reikion þén. Þan hleup bak und rann und sprang til þen þrúban, und strakid þet
-nek sien, aver auk ne konnde reikién þén.
+reikion þen. Þan hleup bak and rann and sprang til þen þrúban, and strakid þet
+nek sien, aver auk ne konnde reikjon þén.
 
-Sair sag þe fuhs: «Hwolk bim en dumba. Doo mih móþ för enan súra þrúban. Þej ne
+Sair sag þe fuhs: «Hwolk bim en dumba. Doę mih móþ för enan súra þrúban. Þej ne
 sunt worþig.»
 
-Und hleup weg.
+And hleup weg.
 
 ---
 

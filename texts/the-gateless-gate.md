@@ -4,8 +4,8 @@ Adapted from: https://www.sacred-texts.com/bud/glg/index.htm
 
 ## Hund Joshu'as
 
-En munk fraguode an Joshu, em zen-fórling: "Hebbieþ en hund et
-Buddha-wesondhaid?"
+En munk fraguode an Joshu, em zen-fórling: "Hebbieþ en hund
+Buddha-wesondhaidam?"
 
 Joshu andwordide: "Mu."
 
@@ -15,8 +15,8 @@ Joshu andwordide: "Mu."
 
 ## 4. Ain bardlausa Butinlandling
 
-Wakuan biswor hwan he sah ait bild ab Bodhidharma miþ ain bard: "Hwarum hab he
-nain bard?"
+Wakuan biswor hwan he sah ait bild ab Bodhidharma miþ ain bard: "Hwarum häbbieþ
+nen bard?"
 
 > Wakuan complained when he saw a picture of bearded Bodhidharma: "Why hasn't
 > that fellow a beard?"

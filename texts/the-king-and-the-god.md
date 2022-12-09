@@ -1,16 +1,16 @@
-Ar was en kuning and he had nenem kind. Abir þe kuning wold em sun.
+Ar was en küning and he had nenem kind. Abir þe k¨ning wold em sun.
 
-He fraguede an en kerkman: "Látet en sun an mih weson boron".
+He fraguode an en gűdj: "Látet en sun an mih weson boron".
 
-Þe kerkman saged an þen kuning: "Bede an þen gud Werun".
+Þe gűdj saged an þen kuning: "Bede an þen gud Weron".
 
-Werun kwam niþir af himil. "Hwat willes?"
+Weron kwam niþir af himil. "Hwat willes?"
 
 "Will en sun."
 
-"Þus skoled." saged þe berhta gud Werun.
+"Þus skoled." saged þe berhta gud Weron.
 
-Und þe frauw þes kuningas bar en sun.
+And þe weib þes küningas bar en sun.
 
 ---
 

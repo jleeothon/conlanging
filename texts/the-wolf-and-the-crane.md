@@ -1,12 +1,12 @@
 En wolf hwe had et knuk stikon in sein hals, hűred em kran gigin fil gold för at
-ställiun seinat kopp in þet munþ þes wolfas und nimmon þet knuk ut. Hwan þe kran
-namm þet knuk ut und fróg öbir þet försprukna gold, sagede þe wolf, hlahonda und
+ställiun seinat kopp in þet munþ þes wolfas und nimmon þet knuk út. Hwan þe kran
+namm þet knuk út und fróg öbir þet försprukna gold, sagede þe wolf, hlahonda and
 miþ þen tanþan samon gibiton:
 
-"Hwarför? Has al ginóg undgäldj, för at sikor ställdes þeinat kopp in und ut
+"Hwarför? Has al ginóg undgäldj, för at sikor ställedes þeinat kopp in und út
 fram þe munþ und þe múl es wolfas."
 
-Hwan at helpon þen üblan, ne wardon bilaun, und weson þankbar hwis undkwemmon
+Hwan helpes þen üblan, ne warde-þú bilaun, und wese-þú þankbar hwef ändkwemmes
 wundlaus.
 
 ---

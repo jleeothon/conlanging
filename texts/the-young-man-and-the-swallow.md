@@ -1,18 +1,18 @@
 Þe junga man und þe swalow
 
 Was en junga und reika man, hwe was hail hrómig twiskir þen freiondan sein üm
-þat hje was ain förkwistjár. Und hje kwik firkwistid allat geld sien.
+þat was ain förkwistjár. Und kwik firkwistid allat geld sien.
 
-Und þan an en dag in þe airiga warr ne mair had hwat öbir, auk ne ait ainkila
-penning, avir allain þen klaiþan sien.
+And þan, an en dag in þe airiga warr ne mair had hwat öbir, auk ne ait ainkila
+penning, abir allain þen klaiþan sien.
 
-Und most drepon em freiond abir ne had þet geld för at kaupuon et niwa klaiþan.
+And most drepon em freiond abir ne had þet geld för at kaupuon et niwa klaiþan.
 Abir sah et swalow fleugon bi, und þe junga man þaht at þe sumor kwam an. Ging
-to en klaiþhandling und förkaupude þen klaiþan sien und kaupude enan niwa för
+to en klaiþhandling und förkaupuede þen klaiþan sien und kaupuede et niwa för
 sih.
 
-Aftir suma dagan, þea dagan plutsleik warþen kald und frustig. Und þe swalow,
-und þe dwása mann hwe blaut had enan niwa sumorklaiþan hwad ne þäkjiden þen
+Aftir suma dagan, warþen þea dagan plutsleik kald and frustig. And þe swalow
+and þe dwása mann hwe blaut had enan niwa sumorklaiþan hwad ne þäkjeden þen
 arman or knewan sien, titiriden sih bit dauþ.
 
 ---
