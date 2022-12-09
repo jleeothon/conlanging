@@ -1,14 +1,19 @@
 {
-    "name": "crawler",
-    "author": "Johnny E. Lee Othon",
+    "name": "@jleeothon/wiktionary-scraper",
     "version": "1.0.0",
+    "private": true,
     "description": "The files in this directory extract data from Wiktionary.",
+    "author": "Johnny E. Lee Othon",
     "type": "module",
     "main": "index.js",
     "scripts": {
         "build": "node crawl.js",
         "lint": "xo",
         "test": "xo --fix ."
+    },
+    "dependencies": {
+        "js-yaml": "^4.1.0",
+        "p-throttle": "^5.0.0"
     },
     "devDependencies": {
         "got": "^12.4.1",

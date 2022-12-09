@@ -1,4 +1,5 @@
 {
+    "name": "@jleeothon/slumpisk",
     "description": "Yet another Germanic conlang",
     "private": true,
     "type": "module",
@@ -17,8 +18,9 @@
         "sort-word-list": "bin/sort-word-list.fish",
         "pre-lint": "npm run lint:yaml && npm run lint:md && npm run lint:js",
         "post-lint": "npm run lint:yaml && npm run lint:md-output",
-        "lint": "npm run pre-lint && npm run post-lint",
+        "lint": "npm run pre-lint && sort-package-json && npm run post-lint",
         "render": "rm word-list/*; bin/render.js < data/word-list.yaml",
+        "sort-package-json": "sort-package-json packages/*/package.json",
         "test": "npm run pre-lint && npm run verify-word-list && npm run sort-word-list && npm run render && npm run post-lint"
     },
     "repository": {
@@ -46,12 +48,12 @@
         "verror": "^1.10.1",
         "write-json-file": "^5.0.0"
     },
-    "name": "slumpisk",
     "workspaces": [
         "packages/*"
     ],
     "devDependencies": {
         "lerna": "^5.5.0",
+        "sort-package-json": "^2.1.0",
         "xo": "^0.52.3"
     }
 }

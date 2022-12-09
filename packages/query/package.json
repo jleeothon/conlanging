@@ -1,8 +1,9 @@
 {
     "name": "query",
-    "author": "Johnny E. Lee Othon",
     "version": "1.0.0",
+    "private": true,
     "description": "",
+    "author": "Johnny E. Lee Othon",
     "type": "module",
     "main": "index.js",
     "scripts": {
@@ -11,7 +12,7 @@
     },
     "devDependencies": {
         "commander": "^9.4.0",
-        "rxjs": "^7.5.6",
-        "derivations": "*"
+        "derivations": "*",
+        "rxjs": "^7.5.6"
     }
 }

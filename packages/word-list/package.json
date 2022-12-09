@@ -1,19 +1,20 @@
 {
     "name": "word-list",
     "version": "1.0.0",
+    "private": true,
     "description": "",
+    "license": "ISC",
+    "author": "",
     "type": "module",
     "bin": {
         "word-list": "bin/sort.js"
     },
     "scripts": {
-        "verify-word-list": "ts-node bin/verify-word-list.ts < data/word-list.yaml",
-        "sort-word-list": "bin/sort-word-list.fish",
         "lint": "prettier --write .",
-        "test": "npm run verify-word-list && npm run sort-word-list && npm run lint"
+        "sort-word-list": "bin/sort-word-list.fish",
+        "test": "npm run verify-word-list && npm run sort-word-list && npm run lint",
+        "verify-word-list": "ts-node bin/verify-word-list.ts < data/word-list.yaml"
     },
-    "author": "",
-    "license": "ISC",
     "dependencies": {
         "js-yaml": "^4.1.0",
         "pkg-dir": "^7.0.0",
