@@ -1,0 +1,68 @@
+pageid: 2771632
+ns: 118
+title: Reconstruction:Proto-Germanic/-ōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From two sources, both reflecting earlier {{m|gem-pro||*-ōjaną}}:
+
+  * From {{inh|gem-pro|ine-pro|*-eh₂yéti}}, an innovated compound suffix from
+  {{m|ine-pro|*-éh₂|pos=eh₂-stem noun suffix}} +
+  {{m|ine-pro|*-yéti|pos=denominative suffix}}. These were originally formed as
+  denominative verbs from ō-stem nouns. When attached to {{l|en|thematic}}
+  (a-stem) nouns, the thematic vowel was also retained, but the resulting
+  compound suffix {{m|ine-pro||*-eyé-}} became part of the first weak class
+  instead.
+
+  * From {{inh|gem-pro|ine-pro|*-h₂yéti|*-(e)h₂yéti}}, an innovated compound
+  suffix from {{m|ine-pro|*-h₂ti|*-(e)h₂ti|pos=factitive verb suffix}} which was
+  originally athematic, but later extended with the thematic present suffix
+  {{m|ine-pro|*-yéti}}.
+
+  Cognates include {{cog|la|-āre|pos=first conjugation}},
+  {{cog|grc|-άω|pos=contracted verb}}, {{cog|sa|-आयति|tr=-ā́yati}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # {{non-gloss definition|Creates [[denominative]] verbs from nouns.}}
+
+  # {{non-gloss definition|Creates [[factitive]] verbs from adjectives.}}
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|-}}
+
+
+  ====Derived terms====
+
+  {{derivsee|Proto-Germanic class 2 weak verbs}}
+
+
+  ====Descendants====
+
+  This class eventually became the dominant and most productive verb class in
+  all daughter languages.
+
+
+  * {{desctree|gmw-pro|*-ōn}}
+
+  * {{desc|gmq-pro|}}
+
+  ** {{desctree|non|-a|noalts=1}}
+
+  * {{desc|got|-𐍉𐌽}}

@@ -1,0 +1,35 @@
+pageid: 2612640
+ns: 118
+title: Reconstruction:Proto-Germanic/awiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inherited|gem-pro|ine-pro|*h₂ówis}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑ.wiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*awi-|45}}</ref>
+
+  # [[ewe]]
+  # [[sheep]] in general
+  #: {{syn|gem-pro|*fahaz|*skēpą}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*awidiją}}
+  * {{l|gem-pro|*awistrą}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*awi}}
+  * {{desctree|non|ær}}
+
+  ===References===
+  <references/>
+
+  [[Category:gem-pro:Sheep]]

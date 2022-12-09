@@ -1,0 +1,44 @@
+pageid: 7085023
+ns: 118
+title: Reconstruction:Proto-Germanic/agraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Plausibly from Pre-Germanic {{m|ine-pro||*h₂(e)kʷrós}}:
+  {{der|gem-pro|ine-pro|*h₂ekʷ-}}, the same root which gave
+  {{m|ine-pro|*h₂ékʷeh₂}} (whence Germanic {{m|gem-pro|*ahwō}}), with the suffix
+  {{m|ine-pro|*-rós}}.<ref name="Kroonen"/> Thus equivalent to
+  {{suf|gem-pro|*ahwō|*-raz}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="Kroonen">{{R:gem:EDPG|*agra-|5}}</ref>
+
+
+  # {{topics|gem-pro|Water|Weather}} [[flood]]
+
+  #: {{syn|gem-pro|*flaumaz|*flōduz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun-a-m|agr}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*agr}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Water]]

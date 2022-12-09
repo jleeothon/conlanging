@@ -1,0 +1,54 @@
+pageid: 2899592
+ns: 118
+title: Reconstruction:Proto-Germanic/mundiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*men-|id=think}}
+
+  From {{suffix|gem-pro|*munaną|*þiz}}, from {{der|gem-pro|ine-pro||*mn̥ti-}},
+  oblique stem of
+
+  {{m|ine-pro|*méntis||thought}}, from {{m|ine-pro|*men-||to think}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmun.diz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[thought]], [[remembrance]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*gamundiz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|mynd}} {{i|in derivatives}}
+
+  ** {{desc|enm|mund|mynd|mend|mind}}
+
+  *** {{desc|sco|mynd|mind}}
+
+  *** {{desctree|en|mind}}
+
+
+  {{topics|gem-pro|Thinking}}

@@ -1,0 +1,25 @@
+pageid: 5600457
+ns: 118
+title: Reconstruction:Proto-Germanic/alīnō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑ.liː.nɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{alternative form of|gem-pro|*alinō}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|got|𐌰𐌻𐌴𐌹𐌽𐌰}}
+  ** {{desc|VL.|bor=1|*alina}}
+  *** {{desc|fro|alne}} {{i|also possibly from Frankish}}
+  **** {{desc|frm|aune}}
+  ***** {{desc|fr|aune}}
+  ***** {{desc|bor=1|it|auna}}

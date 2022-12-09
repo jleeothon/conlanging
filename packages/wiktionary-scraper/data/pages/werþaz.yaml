@@ -1,0 +1,102 @@
+pageid: 4724622
+ns: 118
+title: Reconstruction:Proto-Germanic/werþaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*wértos}}, probably derived from
+  {{der|gem-pro|ine-pro|*wert-||to turn}} through a meaning of “exchange”, a
+  development also seen in Celtic.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwer.θɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[worthy]], [[valuable]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|werþ}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*werþōną}}
+
+  * {{l|gem-pro|*wirþijaną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*werþą}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|weorþ}}
+
+  * {{desc|ofs|werth|werd}}
+
+  * {{desc|osx|werth}}
+
+  * {{desc|odt|-}}
+
+  ** {{desc|dum|wert|waert}}
+
+  *** {{desc|nl|waard}}
+
+  * {{desc|goh|werd}}
+
+  ** {{desc|gmh|wert}}
+
+  *** {{desc|cim|bèart}}
+
+  *** {{desc|de|wert|Wert}}
+
+  **** {{desc|pl|wart|bor=1}}
+
+  **** {{desc|uk|вартий|bor=1}}
+
+  *** {{desc|hrx|Weert}}
+
+  *** {{desc|lb|wäert}}
+
+  * {{desc|non|verðr|verð}}
+
+  ** {{desc|fo|verður}}
+
+  ** {{desc|is|verður}}
+
+  ** {{desc|no|-}} {{l|nb|verdt}}, {{l|nn|verd}}
+
+  ** {{desc|da|værd}}
+
+  ** {{desc|gmq-osw|værþer}}
+
+  *** {{desc|sv|värd}}
+
+  ** {{desc|gmq-bot|wähl}}
+
+  * {{desc|got|𐍅𐌰𐌹𐍂𐌸𐍃|𐍅𐌰𐌹𐍂𐌸}} {{qualifier| <*werþą}}
+
+  * {{desc|bor=1|fi|verta|t=match}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}
+
+  * {{R:cel:Matasovic 2009|415}}

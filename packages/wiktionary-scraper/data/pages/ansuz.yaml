@@ -1,0 +1,68 @@
+pageid: 2614907
+ns: 118
+title: Reconstruction:Proto-Germanic/ansuz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro||*h₂émsus}}, from {{m|ine-pro|*h₂ems-||to engender,
+  beget}}. Compare {{cog|hit|𒈗𒍑|tr=ḫa-aš-šu-uš|ts=ḫaššuš|t=king}},
+  {{cog|ae|𐬀𐬵𐬎‎|t=lord}}, {{m|ae|𐬀𐬢𐬵𐬎|t=lord; life, existence}},
+  {{cog|sa|असु|tr=ásu|t=spirit, life-force, life}},
+  {{m|sa|असुर|tr=ásura|t=godlike, powerful}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑn.suz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*ansu-|30}}</ref>
+
+
+  # {{topics|gem-pro|Religion}} [[deity]], [[god]]
+
+  # {{topics|gem-pro|Runic letter names}} name of the A-rune ([[ᚨ]])
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*Ansugīslaz}}
+
+  * {{l|gem-pro|*Ansulaibaz}}
+
+  * {{l|gem-pro|*Ansuwaldaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*ansu}}
+
+  * {{desc|gmq-pro|*ᚨᛊᚢᛉ}}
+
+  ** {{desctree|non|áss|id=god}}
+
+  * {{desc|got|*𐌰𐌽𐍃𐌿𐍃}}
+
+  ** {{desc|la|Ansis|bor=1}} {{q|from the plural}}
+
+  * {{desc|xvn|*ans-}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Religion]]

@@ -1,0 +1,39 @@
+pageid: 3902071
+ns: 118
+title: Reconstruction:Proto-Germanic/firstiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*furstiz}} <!-- Dutch vorst, MLG vorst, MHG forst; are
+  considered original; stem? -->
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*perst-}}, {{m|ine-pro|*porst-||post, finger,
+  peak}}. Cognate with {{cog|la|postis||post, doorpost}},
+  {{cog|lt|pirštas||finger, toe, pin, cam}}, {{cog|ru|перст||finger, digit}},
+  {{cog|grc|παρστάς}}, {{m|grc|παστάς||portico, porch, inner chamber, bower}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[ridgepole]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*firsti}}

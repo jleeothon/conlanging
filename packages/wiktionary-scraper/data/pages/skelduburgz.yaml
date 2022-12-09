@@ -1,0 +1,29 @@
+pageid: 7387992
+ns: 118
+title: Reconstruction:Proto-Germanic/skelduburgz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*skelduz|*burgz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskel.du.ˌburɣz/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:HGE|*skeldu-burgz~skeldi-burgz|337}}</ref>
+
+  # [[testudo]], [[wall]] of [[shields]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|sċildburg}}
+  * {{desc|goh|sciltburg}}
+  ** {{desc|de|Schildburg}}
+  * {{desc|non|skjaldborg}}
+
+  ===References===
+  <references/>

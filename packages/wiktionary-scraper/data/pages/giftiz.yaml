@@ -1,0 +1,54 @@
+pageid: 2948635
+ns: 118
+title: Reconstruction:Proto-Germanic/giftiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*gʰebʰ-}}
+  From {{suffix|gem-pro|*gebaną|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣiɸ.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # (act of) [[giving]], [[gift]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*giftijaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*gifti}}
+  ** {{desctree|ang|ġift}}
+  ** {{desc|ofs|jeft}}
+  *** {{desc|fy|jefte}}
+  ** {{desc|osx|*gift}}
+  *** {{desc|gml|gifte}}
+  **** {{desc|nds-de|Gift|Gifte}}
+  **** {{desc|stq|Gift|bor=1}}
+  ** {{desc|odt|*gift}}
+  *** {{desc|dum|gicht|ghift|gifte}}
+  **** {{desc|nl|gift|gif}}
+  ** {{desc|goh|gift}}
+  *** {{desc|gmh|gift}}
+  **** {{desc|de|Gift}}
+  **** {{desc|lb|Gëft}}
+  **** {{desc|wym|gejft}}
+  **** {{desc|yi|גיפֿט}}
+  * {{desc|non|gipt}}
+  ** {{desc|is|gift}}
+  ** {{desc|no|gift}}
+  ** {{desc|gmq-osw|gipt}}
+  *** {{desc|sv|gift}}
+  ** {{desc|gmq-oda|gift}}
+  *** {{desc|da|gift}}
+  ** {{desc|enm|gift|bor=1}}
+  *** {{desc|sco|gift|gyft}}
+  *** {{desc|en|gift}}
+  * {{desc|got|*𐌲𐌹𐍆𐍄𐍃}}

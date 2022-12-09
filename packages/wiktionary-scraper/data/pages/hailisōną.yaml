@@ -1,0 +1,32 @@
+pageid: 4535446
+ns: 118
+title: Reconstruction:Proto-Germanic/hailisōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*hailusōną}}, {{l|gem-pro|*hailasōną}}
+
+  ===Etymology===
+  From {{suffix|gem-pro|*hailaz|*isōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑi̯.li.sɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[greet]]; [[salute]]
+  # to [[inquire]]; [[beseech]]
+
+  ====Inflection====
+  {{gem-conj-wk2|hailis}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*hailisōn}}
+  ** {{desc|ang|hālsian|*hǣlsian|hēalsian}}
+  *** {{desctree|enm|halsen|id=to beseech}}
+  ** {{desc|goh|heilisōn}}
+  *** {{desc|gmh|heilsen}}
+  * {{desctree|non|heilsa}}

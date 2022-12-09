@@ -1,0 +1,91 @@
+pageid: 4082227
+ns: 118
+title: Reconstruction:Proto-Germanic/turnaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*der-}}
+
+  From {{der|gem-pro|ine-pro||*dr̥-nós}}, from {{der|gem-pro|ine-pro|*der-|t=to
+  flay, split}}. Cognate with {{cog|sla-pro|*dьrnъ}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈtur.nɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[bitter]], [[embittered]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|turn}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*teraną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|torn}}
+
+  * {{desc|osx|torn}}
+
+  ** {{desc|gml|torn|torne}}
+
+  * {{desc|goh|zorn}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[anger]]; [[wrath]]
+
+  # [[discord]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|torn}}
+
+  * {{desc|ofs|torn}}
+
+  ** {{desc|fy|toarne}}
+
+  * {{desc|osx|torn}}
+
+  ** {{desc|gml|torn|tarn}}
+
+  * {{desc|odt|*torn}}
+
+  ** {{desc|dum|torn|toren|toorn}}
+
+  *** {{desc|nl|toorn}}
+
+  * {{desc|goh|zorn}}
+
+  ** {{desc|gmh|zorn}}
+
+  *** {{desc|de|Zorn}}
+
+  *** {{desc|lb|Zar}}

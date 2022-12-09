@@ -1,0 +1,43 @@
+pageid: 6058645
+ns: 118
+title: Reconstruction:Proto-Germanic/Brunjōhildiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*brunjǭ|t1=breastplate|*hildiz|t2=battle, fight}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbrun.jɔː.ˌxil.diz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|f}}
+
+  # {{given name|gem-pro|female}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Related terms====
+  * {{l|gem-pro|*Mahtihildiz}}
+  * {{l|gem-pro|*Ermunahildiz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Brunnjuhildi}}
+  ** {{desc|goh|Brunichildis|*Brunnīhilta}}
+  *** {{desc|gmh|Briunhilde|Priunhilde}}
+  **** {{desc|de|Brunhilde|Brünhild|Brünnhilde|Brunhild}}
+  ***** {{desc|en|Brunhild|bor=1}}
+  ***** {{desc|fr|Brunehilde|bor=1}}
+  ***** {{desc|it|Brunilde|bor=1}}
+  ***** {{desc|es|Brunilda|bor=1}}
+  ***** {{desc|pt|Brunilda|bor=1}}
+  ***** {{desc|ca|Brunilda|bor=1}}
+  * {{desc|non|Brynhildr}}
+  ** {{desc|is|Brynhildur}}
+  ** {{desc|fo|Brynhild}}
+  ** {{desc|no|Brynhild}}
+  ** {{desc|sv|Brynhild}}
+  *** {{desc|fi|Brynhild|bor=1}}
+  ** {{desc|da|Brynhild}}

@@ -1,0 +1,36 @@
+pageid: 7185125
+ns: 118
+title: Reconstruction:Proto-Germanic/strīdaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*strīdaną}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[battle]], [[fight]]
+
+  ====Inflection====
+  {{gem-decl-noun-a-m|strīd}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*strīd}}
+  ** {{desc|ofs|strīd|g=n}}
+  *** {{desc|fy|striid|g=c}}
+  ** {{desc|osx|strīd}}
+  *** {{desc|ang|strīþ|bor=1}}
+  ** {{desc|odt|*strīt}}
+  *** {{desc|dum|strijt}}
+  **** {{desctree|nl|strijd}}
+  ** {{desctree|goh|strīt}}
+  * {{desc|non|stríð}}
+  ** {{desc|is|stríð}}
+  ** {{desc|da|strid}}
+  ** {{desc|nb|strid}}
+  ** {{desc|nn|strid}}
+  ** {{desc|sv|strid}}
+  * {{desc|fiu-fin-pro|*riita|bor=1}} {{see desc}}
+  * {{desc|smi-pro|*rijtō|bor=1}} {{see desc}}

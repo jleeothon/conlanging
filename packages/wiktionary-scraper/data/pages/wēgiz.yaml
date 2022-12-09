@@ -1,0 +1,27 @@
+pageid: 4654039
+ns: 118
+title: Reconstruction:Proto-Germanic/wēgiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weǵʰ-}}
+  {{vrd|gem-pro|*weganą|t=to move, carry, weigh|ger=1}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɛː.ɣiz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[weighing]], [[balancing]]
+  # [[able]] to be weighed
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|goh|*wāgi}}
+  ** {{desc|gmh|unwæge}}
+  * {{desc|non|vægr}}

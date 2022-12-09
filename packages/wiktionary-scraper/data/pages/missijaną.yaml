@@ -1,0 +1,43 @@
+pageid: 3910016
+ns: 118
+title: Reconstruction:Proto-Germanic/missijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*meyth₂-}}
+  From {{affix|gem-pro|*missaz|t1=alternate, reciprocal, mutual|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmis.si.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[miss]], go [[wrong]], [[fail]]
+
+  ====Inflection====
+  {{gem-conj-wk1|miss|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|missan}}
+  ** {{desc|enm|missen}}
+  *** {{desc|sco|mis|mys|miss}}
+  *** {{desc|en|miss}}
+  **** {{desc|mt|mmisja|bor=1}}
+  **** {{desc|da|misse|bor=1}}
+  * {{desc|ofs|missa}}
+  ** {{desc|stq|misje|miste}}
+  ** {{desc|fy|misse}}
+  * {{desc|osx|*missian}}
+  ** {{desc|gml|missen}}
+  *** {{desc|nds-de|missen}}
+  * {{desc|odt|*missen}}
+  ** {{desc|dum|missen}}
+  *** {{desc|nl|missen}}
+  * {{desc|goh|missen}}
+  ** {{desc|gmh|missen}}
+  *** {{desc|de|missen}}
+  *** {{desc|lb|mëssen}}
+  * {{desctree|non|missa}}

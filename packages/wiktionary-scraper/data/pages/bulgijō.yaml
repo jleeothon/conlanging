@@ -1,0 +1,27 @@
+pageid: 6059228
+ns: 118
+title: Reconstruction:Proto-Germanic/bulgijō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*bʰelǵʰ-||to swell}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbul.ɣi.jɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{topics|gem-pro|Water}} [[wave]], [[billow]]
+  #: {{syn|gem-pro|*hraznō|*unþī|*wallijǭ|*wēgaz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gml|bulge}}
+  ** {{desc|nds|bülge}}
+  * {{desc|gmh|bulga}}
+  * {{desctree|non|bylgja}}

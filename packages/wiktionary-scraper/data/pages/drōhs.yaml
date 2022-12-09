@@ -1,0 +1,36 @@
+pageid: 6316610
+ns: 118
+title: Reconstruction:Proto-Germanic/drōhs
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*dʰrā́ks}}, likely of non-[[Indo-European]] origin.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdrɔːxs/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[dregs]], [[sediment]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*dragjō}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*drōhsnō}}
+
+  ====Descendants====
+  * {{desc|ang|drōs}}
+  ** {{desc|enm|drosse|dros}}
+  *** {{desc|en|dross}}
+  *** {{desc|sco|dros|drose|drosse}}
+  * {{desc|odt|*druos}}
+  ** {{desc|dum|droes}}
+  *** {{desc|nl|droes}}
+  * {{desc|goh|truos|gitruos}}

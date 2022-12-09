@@ -1,0 +1,81 @@
+pageid: 3849326
+ns: 118
+title: Reconstruction:Proto-Germanic/draugiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*dʰrewgʰ-|t=to strengthen; become hard or solid}},
+  from {{m|ine-pro|*dʰer-|t=to hold, hold fast, support}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdrɑu̯.ɣiz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[hard]], [[solid]]
+
+  # {{tlb|gem-pro|West Germanic}} [[dry]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*drauhnōną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*drūgiz}}
+
+  * {{l|gem-pro|*druhnaz}}, {{l|gem-pro|*druknaz}}
+
+
+  ====Descendants====
+
+  * ({{desc|ang|drȳġe}}, {{l|ang|drīġe}} {{i|possibly from {{l|ang|*drīeġe}} <
+  *draugiz; but more likely < {{l|gem-pro|*drūgiz}}}}); {{l|ang|drēahnian}} (<
+  {{l|gem-pro|*drauhnōną}})
+
+  ** ({{desc|enm|druȝe|alt=drüȝe}}, {{l|enm|dryge}}, {{l|enm|drye}},
+  {{l|enm|drie}}); {{l|enm|dreinen}}
+
+  *** ({{desc|sco|dry}}, {{l|sco|drey}}); {{l|sco|drain}}
+
+  *** ({{desc|en|dry}}); {{l|en|drain}}
+
+  * {{desc|osx|*drōgi}}
+
+  ** {{desc|gml|drôge}}
+
+  *** {{desc|nds|dröög|dröge}}
+
+  **** {{desc|de|dröge|bor=1}}
+
+  * {{desc|odt|*drougi|*drōgi}}
+
+  ** {{desc|dum|droghe|alt=drôghe}}
+
+  *** {{desc|nl|droog}}
+
+  **** {{desc|af|droog}}
+
+  **** {{desc|fy|droech|bor=1}}
+
+  * {{desc|non|draugr|der=1}} (with the sense of "dry wood")
+
+  ** {{desc|is|draugur}} ("dry log")

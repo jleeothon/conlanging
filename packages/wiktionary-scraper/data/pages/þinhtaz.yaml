@@ -1,0 +1,38 @@
+pageid: 3997528
+ns: 118
+title: Reconstruction:Proto-Germanic/þinhtaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*þinhtijaz}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*tenk-}}
+  From {{der|gem-pro|ine-pro|*tenk-||to contract}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθĩːx.tɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[tight]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|þinht}}
+
+  ====Related terms====
+  * {{l|gem-pro|*þinhaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þį̄ht(ī)}}
+  * {{desc|non|þéttr}}
+  ** {{desc|is|þéttur}}
+  ** {{desc|fo|tættur}}
+  ** {{desc|no|tett|tjett}}
+  ** {{desc|gmq-osw|thætter|alt=thǣtter}}
+  *** {{desc|sv|tät}}
+  ** {{desc|da|tæt}}
+  ** {{desc|gmq-bot|tjett}}

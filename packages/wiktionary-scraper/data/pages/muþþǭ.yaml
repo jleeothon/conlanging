@@ -1,0 +1,26 @@
+pageid: 7695569
+ns: 118
+title: Reconstruction:Proto-Germanic/muþþǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Leveled from {{m|gem-pro|*maþô}} ~ {{m|gem-pro||*muttaz|t=moth}}.
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:Kroonen:2011|pages=218-219}}</ref>
+
+  # [[moth]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*moþþā}}
+  * {{desc|smi-pro|*muocē|t=moth|bor=1|unc=1}}
+
+  ===References===
+  <references />
+
+  [[Category:gem-pro:Insects]]

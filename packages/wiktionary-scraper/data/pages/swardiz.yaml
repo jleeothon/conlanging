@@ -1,0 +1,27 @@
+pageid: 5953482
+ns: 118
+title: Reconstruction:Proto-Germanic/swardiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*swer-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈswɑr.ðiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # That which is [[sworn]]; a [[swearing]]; [[oath]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*swardi}}
+  ** {{desc|ang|sweord|swierd}}
+  *** {{desc|ang|āþsweord|der=1}}
+  ** {{desc|goh|swart|swert}}
+  *** {{desc|goh|eidswart|der=1}}

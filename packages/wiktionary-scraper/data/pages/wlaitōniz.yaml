@@ -1,0 +1,29 @@
+pageid: 4720451
+ns: 118
+title: Reconstruction:Proto-Germanic/wlaitōniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*wlaitōną||to look for}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwlɑi̯.tɔː.niz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[looking]] around, looking for
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * ({{desc|ang|wlātung}}) {{i|with change of suffix}}
+  * {{desc|non|*leitan|umleitan|ráðaleitan}}
+  ** {{desc|is|leitan|leitun}}
+  ** {{desc|fo|leitan}}
+  ** {{desc|gmq-osw|atletan|alt=atlētan}}
+
+  {{cln|gem-pro|terms suffixed with *-ōniz}}

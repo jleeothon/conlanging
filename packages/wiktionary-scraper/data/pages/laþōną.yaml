@@ -1,0 +1,30 @@
+pageid: 2863307
+ns: 118
+title: Reconstruction:Proto-Germanic/laþōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*laþō|t1=invitation|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑ.θɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[invite]], to [[call]]
+
+  ====Inflection====
+  {{gem-conj-wk2|laþ}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*laþōduz}}
+  * {{l|gem-pro|*laþōniz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*laþōn}}
+  * {{desc|non|laða}}
+  ** {{desc|is|laða}}
+  * {{desc|got|𐌻𐌰𐌸𐍉𐌽}}

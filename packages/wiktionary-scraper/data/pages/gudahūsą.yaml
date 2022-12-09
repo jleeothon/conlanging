@@ -1,0 +1,45 @@
+pageid: 7210551
+ns: 118
+title: Reconstruction:Proto-Germanic/gudahūsą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰewd-}}
+  From {{compound|gem-pro|*gudą|*hūsą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣu.ðɑ.xuː.sɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{topics|gem-pro|Religion|Buildings and structures}} [[temple]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*alhs}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*godahūs}}
+  ** {{desc|ang|*godhūs}}
+  *** {{desc|enm|goddes hous}}
+  **** {{desc|en|God's house}}; {{l|en|House of God}}
+  ** {{desc|ofs|godishūs}}
+  ** {{desc|osx|*godhūs}}
+  *** {{desc|gml|godeshûs}}
+  ** {{desc|odt|*godhūs}}
+  *** {{desc|dum|godeshuus}}
+  **** {{desc|nl|godshuis}}
+  ** {{desc|goh|*gothūs}}
+  *** {{desc|gmh|gotshūs}}
+  **** {{desc|de|Gotteshaus}}
+  *** {{desc|goh|abgothūs|der=1}}
+  **** {{desc|gmh|abgothūs}}
+  ***** {{desc|de|Abgotthaus}} {{q|archaic}}
+  * {{desc|non|goðahús|goðhús}}
+  ** {{desc|is|goðahús|goðhús}}
+  * {{desc|got|𐌲𐌿𐌳𐌷𐌿𐍃|tr=gudhūs}}

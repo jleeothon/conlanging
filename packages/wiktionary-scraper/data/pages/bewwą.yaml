@@ -1,0 +1,28 @@
+pageid: 3627265
+ns: 118
+title: Reconstruction:Proto-Germanic/bewwą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref>{{R:gem:EDPG|*bewwa-|63}}</ref>
+
+  # [[crops]], [[yield]]
+  # [[barley]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Alternative reconstructions====
+  * {{alter|gem-pro|*bewwu}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*beuw}}
+  * {{desctree|non|bygg}}
+
+  ===References===
+  <references />

@@ -1,0 +1,31 @@
+pageid: 2790222
+ns: 118
+title: Reconstruction:Proto-Germanic/jestuz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*yes-}}
+  From {{suffix|gem-pro|*jesaną|*þuz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈjes.tuz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[fermentation]]; [[byproduct]]s or [[agent]]s of fermentation; [[yeast]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*drōhsaz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*jesaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*jestu}}
+  * {{desctree|non|jǫstr}}

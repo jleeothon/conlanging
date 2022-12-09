@@ -1,0 +1,100 @@
+pageid: 3605393
+ns: 118
+title: Reconstruction:Proto-Germanic/gellaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*gʰel-}}
+
+  Ultimately from {{der|gem-pro|ine-pro|*gʰel-||to shout}}, possibly with
+  contamination from a marginally attested iterative {{m|gem-pro|*gullōną}},
+  although Kroonen suggests the strong verb was back-formed to the
+  iterative.<ref name='Kroonen'>{{R:gem:EDPG|*gellan-|174}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣel.lɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name='Kroonen'></ref><ref>{{R:gem:HGE|*ʒellanan|131}}</ref>
+
+
+  # to [[shout]], to [[yell]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=3|gell|gall|gull|gull}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*galaną}}
+
+  * {{l|gem-pro|*galmaz}}
+
+  * {{l|gem-pro|*gelpaną}}
+
+  * {{l|gem-pro|*gōlijaną}}
+
+  * {{l|gem-pro|*gullōną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|ġiellan}}
+
+  ** {{desc|enm|yellen}}
+
+  *** {{desc|en|yell}}
+
+  * {{desc|osx|*gellan}}
+
+  ** {{desc|gml|gellen}}
+
+  *** {{desc|nds-de|gielen}}
+
+  * {{desc|odt|*gellan}}
+
+  ** {{desc|dum|gellen}}
+
+  *** {{desc|nl|gillen}}
+
+  * {{desc|goh|gellan}}
+
+  ** {{desc|gmh|gellen}}
+
+  *** {{desc|de|gellen}}
+
+  * {{desc|non|gella|gjalla}}
+
+  ** {{desc|is|gjalla}}
+
+  ** {{desc|fo|gjalla}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nb|gjalle}}
+
+  *** {{desc|nn|gjalle|gjalla}}
+
+  ** {{desc|gmq-osw|gælla}}
+
+  *** {{desc|sv|gälla}}
+
+  ** {{desc|gmq-oda|gællæ}}, {{l|gmq-osw|*giallæ}}
+
+  *** {{desc|da|gjalde}}
+
+
+  ===References===
+
+  <references/>

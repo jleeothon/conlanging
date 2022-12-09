@@ -1,0 +1,28 @@
+pageid: 8685644
+ns: 118
+title: Reconstruction:Proto-Germanic/auknaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂ewg-}}
+  From {{suffix|gem-pro|*aukaną|*-naną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑu̯k.nɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{lb|gem-pro|intransitive}} to [[grow]], to become larger
+
+  ====Inflection====
+  {{gem-conj-wk4|aukn}}
+
+  ====Related terms====
+  * {{l|gem-pro|*aukōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*auknōn}}
+  * {{desc|got|𐌰𐌿𐌺𐌽𐌰𐌽}}

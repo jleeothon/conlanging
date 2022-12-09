@@ -1,0 +1,83 @@
+pageid: 2632153
+ns: 118
+title: Reconstruction:Proto-Germanic/atjaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*h₃ed-|id=hate}}
+
+  From Pre-Germanic {{m|ine-pro||*h₃odéyeti}}, causative of
+  {{der|gem-pro|ine-pro|*h₃ed-||to hate|id=hate}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*atjan- 1|39}}</ref>
+
+
+  # {{senseid|gem-pro|incite}}to [[incite]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk1|at|j=j}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*anattjan|der=1}}
+
+  * {{desctree|gmw-pro|*ūtattjan|der=1|unc=1}}
+
+  ** {{desc|ofs|ūtetta|der=1|unc=1}}
+
+  * {{desc|non|etja}}
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*h₁ed-}}
+
+  From {{affix|gem-pro|*etaną|*-janą|id2=causative|pos2=causative suffix}}.
+  Diachronically from {{inh|gem-pro|ine-pro||*h₁odéyeti}}; compare
+  {{cog|sa|आदयति|tr=ādáyati|t=to feed}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*atjan- 2|39}}</ref>
+
+
+  # {{senseid|gem-pro|feed}}to cause/allow to [[eat]], [[feed]] (an animal)
+
+  ## to [[pasture]]; [[graze]] {{attn|gem-pro|transitive or intransitive?}}
+
+  # to cause to be eaten, feed (fodder)
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk1|at|j=j}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*attjan}}
+
+  * {{desc|non|etja|id=feed}}
+
+  ** {{desc|fo|etja}}
+
+  ** {{desc|is|etja}}
+
+  * {{desc|got|𐍆𐍂𐌰𐌰𐍄𐌾𐌰𐌽|der=1}}
+
+
+  ===References===
+
+  <references/>

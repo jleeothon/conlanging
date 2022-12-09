@@ -1,0 +1,38 @@
+pageid: 4760286
+ns: 118
+title: Reconstruction:Proto-Germanic/fradōmijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dʰeh₁-}}
+  From {{prefix|gem-pro|*fra|*dōmijaną|t2=to judge, deem|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɸrɑ.ˈdɔː.mi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[condemn]], [[damn]]
+
+  ====Inflection====
+  {{gem-conj-wk1|fradōm|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|fordēman}}
+  ** {{desc|enm|fordemen}}
+  *** {{desc|en|fordeem}}
+  * {{desc|ofs|fordēma}}
+  * {{desc|osx|fardōmian}}
+  ** {{desc|gml|vordōmen}}
+  *** {{desc|gmq-osw|fordøma|bor=1}}
+  **** {{desc|sv|fördöma}}
+  *** {{desc|da|fordømme|bor=1}}
+  * {{desc|odt|-}}
+  ** {{desc|dum|-}}
+  *** {{desc|nl|verdoemen}}
+  * {{desc|goh|firtuomen|fartuomen}}
+  ** {{desc|gmh|vertüemen}}
+  * {{desc|non|fyrirdœma}}

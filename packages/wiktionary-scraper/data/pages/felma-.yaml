@@ -1,0 +1,77 @@
+pageid: 3829457
+ns: 118
+title: Reconstruction:Proto-Germanic/felma-
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*pel-|id=skin}}
+
+  Probably an original ''men''-stem from {{inh|gem-pro|ine-pro||*pélmō}} which
+  was re-formed as if from {{m|ine-pro||*pél-mo-s}}, from the root
+  {{m|ine-pro|*pel-||hide, skin; to cover, wrap}}. Cognate with
+  {{cog|grc|πέλμα||sole of the foot}}, which is from {{m|ine-pro||*pélmn̥}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸel.maz/}}
+
+  * {{IPA|gem-pro|/ˈɸel.mɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[covering]], [[skin]], [[hide]], [[fleece]]
+
+
+  ====Inflection====
+
+  Possible original ''an''-stem paradigm:
+
+  {{gem-decl-noun|felm|stem=n|g=m}}
+
+
+  If it was an ''a''-stem:
+
+  {{gem-decl-noun|felm|stem=a|g=m}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*fellą}}
+
+
+  ====Descendants====
+
+  In the Anglo-Frisian languages, derived forms seem to have supplanted the
+  inherited forms.
+
+  * {{desc|ang|*felma}} (in compound {{l|ang|ǣġerfelma}}); {{l|ang|filmen}},
+  {{l|ang|fylmen}} (< {{m|gem-pro||*filmīną}})
+
+  ** {{desc|enm|filme}}
+
+  *** {{desc|sco|fillum|feelim}}
+
+  *** {{desc|en|film}}
+
+  * {{desc|ofs|filmene}}
+
+  * {{desc|odt|*felm}}
+
+  ** {{desc|dum|velm}}
+
+  * {{desc|goh|felm|g=m}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG|head=*felma(n)-|page=135}}

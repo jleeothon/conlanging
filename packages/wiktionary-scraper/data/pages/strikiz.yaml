@@ -1,0 +1,28 @@
+pageid: 3585976
+ns: 118
+title: Reconstruction:Proto-Germanic/strikiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*streyg-||line, stroke, dash}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstri.kiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[line]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*strīkaną}}
+  * {{l|gem-pro|*straikaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*striki}}
+  * {{desc|got|𐍃𐍄𐍂𐌹𐌺𐍃}}

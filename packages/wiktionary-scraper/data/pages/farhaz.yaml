@@ -1,0 +1,28 @@
+pageid: 2900409
+ns: 118
+title: Reconstruction:Proto-Germanic/farhaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*pórḱos}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɑr.xɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Pigs}} [[pig]], [[piglet]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*farh}}
+  * {{desc|non|*farr}}
+  ** {{desc|gmq-osw||alt=*far}}
+  *** {{desc|der=1|gmq-osw|fargalter}}
+  **** {{desc|sv|fargalt}}
+  ** {{desc|gmq-bot|fɑrg}}

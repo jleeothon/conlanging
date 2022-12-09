@@ -1,0 +1,25 @@
+pageid: 4413962
+ns: 118
+title: Reconstruction:Proto-Germanic/brēkiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{vrd|gem-pro|*brekaną|t=to break|ger=1}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbrɛːkiz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # pertaining to [[breaking]], [[shattering]], [[fracturing]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|ang|*brǣċe|ǣbrǣċe}}
+  * {{desc|goh|*brāhhi}} (appears once in {{m|goh||ungibrahhi}})
+  ** {{desc|gmh|*breche|*bræche|vridebreche|vridebræche}}

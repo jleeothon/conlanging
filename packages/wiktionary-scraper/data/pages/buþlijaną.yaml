@@ -1,0 +1,56 @@
+pageid: 3630498
+ns: 118
+title: Reconstruction:Proto-Germanic/buþlijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+  {{rfv|gem-pro}}
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|alt=*bōþlijaną}}<ref
+  name="OFED">{{R:ofs:OFED|belda|36|Denominative verb *bōdl-jan > *bēdl-(j)a(n)
+  > bēlda with metathesis *dl > ld}}</ref>
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*buþlą|*-janą}}, a variant of {{m|gem-pro|*bōþlą||house,
+  dwelling, farm}}, from {{der|gem-pro|ine-pro|*bʰeh₂w-||to swell, grow, thrive,
+  be, live, dwell}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbuθ.li.jɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[build]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk1|buþl|j=ij}}
+
+
+  ====Descendants====
+
+  Old English shows somewhat regular metathesis of -þl- to -lþ-, which becomes
+  -ld-.
+
+  * {{desctree|ang|bytlan}}
+
+  * {{desc|ofs|belda|*balda}}
+
+
+  ===References===
+
+  <references />

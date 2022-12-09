@@ -1,0 +1,102 @@
+pageid: 4994007
+ns: 118
+title: Reconstruction:Proto-Germanic/plōgaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*plōguz}}
+
+
+  ===Etymology===
+
+  {{w|Mario Alinei}}<ref>Alinei, Mario (2000), ''Origini delle lingue
+  d’Europa'', vol. 2, Bologna: Il Mulino, page 567 ff.</ref> has proposed a
+  borrowing from {{bor|gem-pro|cel-pro|*ɸlowyos}},
+  {{m|cel-pro|*ɸlowyā||rudder}}<ref>{{R:cel:Matasovic 2009|head=*flowyo-,
+  *flowyā|page=136}}</ref>, itself from {{der|gem-pro|ine-pro|*plówyos||ship}},
+  ultimately from the root {{m|ine-pro|*plew-||to fly, flow, swim, float, run}}.
+  Compare {{cog|kw|lew||rudder}}, {{cog|sga|luí||rudder, tail}},
+  {{cog|cy|llyw||rudder, tail, leader, pilot}}. {{cog|grc|πλοῖον}} is derived
+  from the same root formation. Compare furthermore {{cog|sq|plor}} or
+  {{m|sq|pluar||prow, ploughshare, vomer bone}}, supposedly from [[Ancient
+  Greek]] {{m|grc|πλώρη||prow}}, which should be from {{m|grc|πρῷρα||prow}},
+  whence also {{m|en|prow}}.
+
+
+  Alinei also mentions the {{cog|la|plaumoratum}} ({{w|Pliny the Elder}},
+  ''Naturalis historia''
+  [http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0138:book=18:chapter=69&highlight=plaumorati
+  18.69]), with the second element possibly relating to the family of
+  {{cog|la|rota}}, {{cog|cel-pro|*rotos}} and {{cog|gem-pro|*raþą||wheel}}.
+  {{w|Guus Kroonen}} has suggested a connection of the Germanic and the Latin
+  words to {{m|gmw-pro|*plehan||to take responsibility, care}} (“to care for
+  one’s life” > “to plow”); compare {{cog|goh|pfluog||livelihood}} and
+  {{cog|is|plógur}}, {{m|is|plóg||profit}}, which could nevertheless point as
+  well to the opposite morpho-semantic evolution. Otherwise he proposes a
+  connection with {{cog|gem-pro|*plag/kkōn-||rag, sod}}, which seems a bit
+  far-fetched.<ref>Kroonen, Guus (2009), “plōga-”, in ''Etymological Dictionary
+  of Proto-Germanic'', consulted online.</ref>
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[plough]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*plōg}}
+
+  * {{desc|non|plógr}}
+
+  ** {{desc|is|plógur}}
+
+  ** {{desc|fo|plógv}}
+
+  ** {{desc|nrn|plu}}
+
+  ** {{desc|no|plog}}
+
+  ** {{desc|gmq-osw|plogher|alt=plōgher}}
+
+  *** {{desc|sv|plog}}
+
+  ** {{desc|da|plov}}
+
+  ** {{desc|ovd|pluog}}
+
+  ** {{desc|gmq-gut|plog}}
+
+  ** {{desc|bor=1|enm|plouh|plugh|plough|plouw|plow}} {{q|partially}}
+
+  *** {{desc|en|plough}} {{q|partially}}
+
+  * {{desc|la|plōvum|ploum|bor=1}}
+
+  * {{desc|sla-pro|*plugъ|bor=1}}
+
+  ** {{desc|sq|plug|bor=1}}
+
+  ** {{desc|ro|plug|bor=1}}
+
+
+  ===References===
+
+  <references/>
+
+  * Du Cange et al., ''Glossarium mediæ et infimæ latinitatis'', Niort : L.
+  Favre, 1883-1887 «plovum, ploum» (online)
+  [http://ducange.enc.sorbonne.fr/PLOUM]

@@ -1,0 +1,62 @@
+pageid: 5216891
+ns: 118
+title: Reconstruction:Proto-Germanic/hnukāną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*knewg-||to press; push; bend}}, from
+  {{m|ine-pro|*ken-||to press; pinch}}.
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # To [[bend]], [[flex]], [[bow]], [[draw up]], [[shrink]], [[wrinkle]], become
+  pinched
+
+
+  ====Inflection====
+
+  {{gem-conj-wk3|hnuk}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|ġehnycned}}; {{l|ang|ġenycled}} (for {{l|ang|*ġehnycled}})
+
+  * {{desc|ofs|*nukja|*nukkia}}
+
+  ** {{desc|stq|Nukke}}
+
+  ** {{desc|fy|neuke}}
+
+  * {{desc|osx|*hnukian}}; {{l|osx|*hnukōn}}
+
+  ** {{desc|gml|*nuken|*noken}}
+
+  *** {{desc|nds-de|nucken|nöken}}
+
+  * {{desc|odt|*nuken}}; {{l|odt|*nukon}}
+
+  ** {{desc|dum|*noken|*neuken}}
+
+  *** {{desctree|nl|neuken}}
+
+  * {{desc|non|hnykkja}}
+
+  ** {{desc|is|hnykkja}}
+
+  ** {{desc|fo|nykkja}}
+
+  ** {{desc|gmq-osw|nykkia}}
+
+  *** {{desc|sv|nycka}} {{qualifier|dialectal}}
+
+  ** {{desc|da|nykke}}

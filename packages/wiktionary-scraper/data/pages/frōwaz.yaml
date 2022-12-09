@@ -1,0 +1,37 @@
+pageid: 4836783
+ns: 118
+title: Reconstruction:Proto-Germanic/frōwaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*frōwijaz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*proh₁-||early; in the morning}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸrɔː.wɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[early]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|frōw}}
+
+  ====Descendants====
+  * {{desc|ofs|*frōw|*frōwi}}
+  ** {{desc|stq|fröier|der=1}}
+  * {{desc|osx|*frōw|*frō}}
+  ** {{desc|gml|vrô|vrôch}}
+  *** {{desc|nds-de|froh}}
+  * {{desctree|odt|fruo}}
+  * {{desc|goh|fruo}}; {{l|goh|*fruoi}}, {{desctree|notext=1|goh|fruoji}}
+  ** {{desc|goh|fruoī|der=1|pos=n}}
+  *** {{desc|gmh|frue}}
+  **** {{desc|de|Frühe}}
+  **** {{desc|mhn|vria}}
+  <!--{{l|gmh|vruo|pos=adverb}}-->

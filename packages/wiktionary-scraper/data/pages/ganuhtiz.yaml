@@ -1,0 +1,26 @@
+pageid: 3718129
+ns: 118
+title: Reconstruction:Proto-Germanic/ganuhtiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂neḱ-}}
+  From {{suffix|gem-pro|*ganuganą|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑˈnux.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[abundance]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*ganuhti}}
+  * {{desc|non|gnótt|gnœtt}}
+  ** {{desc|is|gnótt}}

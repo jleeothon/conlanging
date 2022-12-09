@@ -1,0 +1,27 @@
+pageid: 8359189
+ns: 118
+title: Reconstruction:Proto-Germanic/swiknijaną
+wikitext: |-
+  {{reconstructed}}
+  {{original research}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*swiknaz|*-janą|t1=pure, innocent}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈswi.kni.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[purify]], to [[cleanse]]
+  # to [[absolve]]
+
+  ====Inflection====
+  {{gem-conj-wk1|swikn|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*swiknijan}}
+  * {{desc|got|*𐍃𐍅𐌹𐌺𐌽𐌾𐌰𐌽}}
+  ** {{desc|got|𐍃𐍅𐌹𐌺𐌽𐌴𐌹𐌽𐍃|der=1}}

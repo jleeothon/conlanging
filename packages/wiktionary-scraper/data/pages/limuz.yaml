@@ -1,0 +1,78 @@
+pageid: 5063563
+ns: 118
+title: Reconstruction:Proto-Germanic/limuz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*līmuz}}
+
+
+  ===Etymology===
+
+  Probably from a {{der|gem-pro|ine-pro|-}} root meaning “to bend, skew”, but
+  which root in particular is {{unk|gem-pro|uncertain}}: possibilities include
+  {{m|ine-pro|*h₂el-}} (extended as {{m|ine-pro||*h₂l-ey-}}),
+  {{m|ine-pro|*Heh₃l-}} (extended as {{m|ine-pro||*(H)h₃l-ey-}}), and
+  {{m|ine-pro|*leyH-|}}. Cognate with {{cog|la|līmus||askew}}, but with a
+  slightly different derivation. Also compare {{m|gem-pro|*liþuz||joint, bend,
+  limb}}.<ref>{{R:gem:EDPG|head=*limu-|page=338}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈli.muz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{lb|gem-pro|anatomy}}{{topic|gem-pro|Body parts}} [[limb]]; [[member]]
+
+  #: {{syn|gem-pro|*liþuz}}
+
+  # {{lb|gem-pro|of a tree}}{{topic|gem-pro|Plants}} [[branch]]; [[twig]]
+
+  #: {{syn|gem-pro|*astaz|*telguz|*tōgô|*twīgą}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*līmô}}
+
+  * {{l|gem-pro|*liþuz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*limu}}
+
+  * {{desc|non|limr|g=m}}; {{l|non|lim|g=f}}; {{l|non|lim|g=n}}
+
+  ** {{desc|is|limur}}
+
+  ** {{desc|fo|limur}}
+
+  ** {{desc|no|lem}}
+
+  ** {{desc|gmq-osw|limber}}
+
+  *** {{desc|sv|lem}}
+
+  ** {{desc|da|lem}}
+
+
+  ===References===
+
+  <references/>

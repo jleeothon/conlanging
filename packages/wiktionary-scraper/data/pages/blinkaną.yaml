@@ -1,0 +1,77 @@
+pageid: 5005684
+ns: 118
+title: Reconstruction:Proto-Germanic/blinkaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰleyǵ-}}
+
+  From Pre-Germanic {{m|ine-pro||*bʰli-n-ǵ-}}, a nasal-infix present formed from
+  {{der|gem-pro|ine-pro|*bʰleyǵ-}} (from which
+  {{m|gem-pro|*blīkaną}}).<ref>{{R:gem:EDPG|page=67|head=*blanka-}}</ref>
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[shine]], [[glitter]], [[twinkle]]
+
+  # to [[blink]], [[wink]]
+
+
+  ====Inflection====
+
+  {{rfinfl|gem-pro|verb}}<!-- probably not class 3 strong, despite its shape;
+  weak in Middle Dutch -->
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*blankaz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|blincan}}
+
+  ** {{desc|enm|blenken|blynken}}
+
+  *** {{desc|en|blink}}
+
+  **** {{desc|nrf|blyîntchi|bor=1}}
+
+  * {{desc|ofs|blinka}}
+
+  ** {{desc|stq|blinkje}}
+
+  ** {{desc|fy|blinke}}
+
+  * {{desc|osx|blinkan}}
+
+  ** {{desc|gml|blinken}}
+
+  *** {{desc|de|blinken|bor=1}}
+
+  **** {{desc|no|blinke|bor=1}}
+
+  **** {{desc|sv|blinka|bor=1}}; (possibly also {{l|sv|blänka}})
+
+  **** {{desc|da|blinke|bor=1}}
+
+  * {{desc|odt|*blinkan}}
+
+  ** {{desc|dum|blinken}}
+
+  *** {{desc|nl|blinken}}
+
+
+  ===References===
+
+  <references/>

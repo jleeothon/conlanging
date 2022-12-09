@@ -1,0 +1,76 @@
+pageid: 3617591
+ns: 118
+title: Reconstruction:Proto-Germanic/bijǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*bijō|*bīwō}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*bʰey-||bee}}. Cognate with
+  {{cog|la|fūcus||drone}}, {{cog|sga|bech||bee}}, {{cog|lt|bitė||bee}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbi.jɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[bee]]
+
+
+  ====Inflection====
+
+  Ablauting n-stem, alternating between e-grade stem ''*bijōn-'' and zero-grade
+  stem ''*bin-''.
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*biniz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*bijā}}
+
+  ** {{desctree|ang|bēo}}
+
+  ** {{desc|ofs|bē}}
+
+  *** {{desc|fy|bij}}
+
+  ** {{desctree|osx|*bīa}}
+
+  ** {{desctree|odt|*bīa}}
+
+  ** {{desc|goh|pīa|bīa}}
+
+  *** {{desc|gmh|bīe}}
+
+  **** {{desc|gsw|Bii}}
+
+  **** {{desc|gmw-cfr|Bei}}
+
+  **** {{desc|de|Beie}} {{q|obsolete}}
+
+  **** {{desc|lb|Bei}}
+
+  * {{desctree|non|bý}}
+
+
+  [[Category:gem-pro:Bees]]

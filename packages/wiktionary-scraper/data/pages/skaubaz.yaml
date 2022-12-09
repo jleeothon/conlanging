@@ -1,0 +1,21 @@
+pageid: 3484774
+ns: 118
+title: Reconstruction:Proto-Germanic/skaubaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[bundle]], [[sheaf]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skaub|g=m}}
+  * {{desc|non|skauf|g=n}}

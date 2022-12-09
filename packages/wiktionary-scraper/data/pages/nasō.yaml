@@ -1,0 +1,76 @@
+pageid: 3485558
+ns: 118
+title: Reconstruction:Proto-Germanic/nasō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*néh₂s|t=nose}}. Compare {{cog|la|nāsus}}.
+
+
+  May, in Proto-Germanic, have been a ''plurale tantum'', whose nominative
+  ending ''*-ō'' goes back to the Proto-Indo-European thematic nominative dual
+  ending {{m|ine-pro|*-oh₁}}, while the other cases displayed consonant-stem
+  plural endings ''-ǭ'', ''-miz'', ''-unz''. This presupposes a Proto-Germanic
+  consonant stem
+  {{m|gem-pro|*nas-|t=nostril}}.<ref>{{cite-book|last=Griepentrog|first=Wolfgang|chapter=Urgermanisch
+  *''nas-'', Dual *''nas-ō'', *''nus-ō'' "Nase", "Nasenloch"|title=Die
+  Wurzelnomina des Germanischen und ihre Vorgeschichte|location=Innsbruck,
+  Austria|publisher=Institut für Sprachwissenschaft der Universität
+  Innsbruck|year=1995|pages=323–351|isbn=3-85124-651-9|lang=de}}, specifically
+  pp. 329–333</ref>
+
+
+  Griepentrog prefers to reconstruct, following Rasmussen, the original
+  Proto-Indo-European paradigm as an acrostratic paradigm with rare ablaut ''a''
+  ~ ''ā'': nom. sg. ''*Hnā́s-s'', acc. sg. ''*Hnā́s-m̥'', gen. sg. ''*Hnás-s''
+  (> ''*Hnás-os''), dat. sg. ''*Hnás-ey'', nom. du. ''*Hnā́s-h₁'', nom. pl.
+  ''*Hnā́s-es'', acc. pl. ''*Hnás-m̥s''.<ref>Griepentrog, p. 350</ref>
+
+
+  Griepentrog also considers the zero-grade form ''*nus-'' instead of ''**uns-''
+  regular, adducing parallels. Forms in ''*nus-'' may be additionally
+  analogically influenced by a Proto-Indo-European verb {{m|ine-pro|*news-|t=to
+  sniff}}.<ref>Griepentrog, pp. 334f.</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈnɑ.sɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[nose]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*nasją}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*nasu}}
+
+  * {{desctree|non|nǫs}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{C|gem-pro|Face}}

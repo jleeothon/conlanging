@@ -1,0 +1,30 @@
+pageid: 5566547
+ns: 118
+title: Reconstruction:Proto-Germanic/wurhtaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*wr̥ǵtós}}, from {{m|ine-pro|*werǵ-}}.
+
+  ===Participle===
+  {{head|gem-pro|past participle}}
+
+  # {{past participle of|gem-pro|*wurkijaną|nocat=1}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[done]]; [[made]]; having [[happened]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|wurht}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wurhtiz}}
+  * {{l|gem-pro|*gawurhtiz}}
+  * {{l|gem-pro|*gawurhtiją}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*handuwurhtaz}}

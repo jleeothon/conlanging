@@ -1,0 +1,55 @@
+pageid: 3631482
+ns: 118
+title: Reconstruction:Proto-Germanic/maskwǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*mēskwǭ}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*mozgo-||netting, mesh, knot, loop}}, from
+  {{der|gem-pro|ine-pro|*mezgʷ-||to knit, tie, make a loop}}. Cognate with
+  {{cog|lt|mègzti||to make a knot, knit}}.
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[loop]], [[knot]]
+
+  # [[mesh]], [[netting]]
+
+  # mesh used as a [[filter]], [[facemask]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*maskā}}
+
+  * {{desc|non|mǫskvi|g=m|mǫskun|g2=f}}
+
+  ** {{desc|is|möskvi}}
+
+  ** {{desc|fo|meskur}}
+
+  ** {{desc|no|moske}}
+
+  ** {{desc|gmq-osw|maska}}
+
+  *** {{desc|sv|maska}}
+
+  ** {{desc|da|maske}}

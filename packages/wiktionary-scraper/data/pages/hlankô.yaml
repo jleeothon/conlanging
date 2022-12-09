@@ -1,0 +1,32 @@
+pageid: 5871244
+ns: 118
+title: Reconstruction:Proto-Germanic/hlankô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*hlankaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxlɑŋ.kɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # A [[bend]]; [[curve]]
+  # {{lb|gem-pro|anatomy}} [[side]]; [[flank]]; [[hip]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*hlankō}}
+
+  ====Descendants====
+  * {{desc|ang|hlanca}}
+  ** {{desc|enm|lanke|lonke}}
+  *** {{desc|en|lank|lonk}} {{q|dialectal}}
+  * {{desc|goh|lanko|lanco}}
+  ** {{desc|der=1|goh|gilanko|gilanco}}
+  *** {{desc|gmh|gelanc|glanc}}

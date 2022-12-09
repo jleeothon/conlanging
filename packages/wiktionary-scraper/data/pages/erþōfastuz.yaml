@@ -1,0 +1,37 @@
+pageid: 7393945
+ns: 118
+title: Reconstruction:Proto-Germanic/erþōfastuz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*erþōfastaz}}<ref>{{R:gem:HGE|*erþafastaz|85}}</ref>
+
+  ===Etymology===
+  From {{compound|gem-pro|*erþō|*fastuz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈer.θɔːˌɸɑs.tuz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[fixed]] to the [[ground]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|ang|eorþfæst|eorþfest}}
+  ** {{desc|enm|*erthfast|*erdfast}}
+  *** {{desc|sco|erdfast|eirdfast}}
+  * {{desc|ofs|erthfest}}
+  * {{desc|osx|*erthafast|*erthfast}}
+  ** {{desc|gml|erdfast|ērdvast|ērtvast}}
+  * {{desc|nl|aardvast}}
+  * {{desc|de|erdfest}}
+  * {{desc|non|jarðfastr}}
+
+  ===References===
+  <references/>

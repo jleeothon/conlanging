@@ -1,0 +1,116 @@
+pageid: 3604745
+ns: 118
+title: Reconstruction:Proto-Germanic/haitaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*kayd-}}, a derived form of {{m|ine-pro|*kay-||hot;
+  to heat}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑi̯.tɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # {{topics|gem-pro|Temperature}} [[hot]]
+
+  #: {{syn|gem-pro|*warmaz|t1=warm}}
+
+  #: {{ant|gem-pro|*kaldaz}}
+
+
+  ====Declension====
+
+  {{gem-decl-adj-a|hait}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*haitį̄}}
+
+  * {{l|gem-pro|*haitijaną}}
+
+  * {{l|gem-pro|*haitiþō}}
+
+  * {{l|gem-pro|*hitnaną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*haitą}}
+
+  * {{l|gem-pro|*hitjō}} ~ {{l|gem-pro|*hitjǭ}}
+
+  ** {{desc|ang|hitt}}
+
+  ** {{desc|odt|*hitta}}
+
+  *** {{desc|dum|hitte}}
+
+  **** {{desctree|nl|hitte}}
+
+  ** {{desc|goh|hizza}}
+
+  *** {{desc|gmh|hitze}}
+
+  **** {{desc|cim|hitze|alts=1}}
+
+  **** {{desctree|de|Hitze}}
+
+  **** {{desc|lb|Hëtz}} {{desc|lb|Hëtzt|der=1|nolb=1}}
+
+  ** {{desctree|non|hita}}
+
+  ** {{desc|got|𐌷𐌴𐌹𐍄𐍉}} {{q|< variant {{m|gem-pro|*hitǭ}}}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*hait}}
+
+  ** {{desc|ang|hāt}}
+
+  *** {{desc|enm|hat|hot}}
+
+  **** {{desc|sco|hat|hate|hait}}
+
+  **** {{desc|en|hot}}
+
+  ** {{desc|ofs|hēt}}
+
+  *** {{desc|frr|hiet}}
+
+  *** {{desc|stq|heet}}
+
+  *** {{desc|fy|hjit|hyt}}
+
+  ** {{desc|osx|hēt}}
+
+  *** {{desc|gml|hêt}}
+
+  **** {{desc|nds-de|heet}}
+
+  **** {{desc|nds|heet|hitt}}
+
+  ** {{desc|odt|heit|*hēt}}
+
+  *** {{desc|dum|heet}}
+
+  **** {{desc|nl|heet|heit}} (dialectal)
+
+  ***** {{desc|af|heet}}
+
+  ** {{desctree|goh|heiz}}
+
+  * {{desctree|non|heitr}}

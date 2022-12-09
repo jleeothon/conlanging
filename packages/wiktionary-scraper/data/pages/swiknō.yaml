@@ -1,0 +1,27 @@
+pageid: 7496194
+ns: 118
+title: Reconstruction:Proto-Germanic/swiknō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Substantivisation of {{m|gem-pro|*swiknaz|t=pure, innocent}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈswik.nɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*swiknō|393}}</ref>
+
+  # [[absolution]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*swiknu}}
+  * {{desc|non|sykn}}
+
+  ===References===
+  <references/>

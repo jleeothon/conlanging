@@ -1,0 +1,26 @@
+pageid: 4695091
+ns: 118
+title: Reconstruction:Proto-Germanic/krammiþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*krammaz|t1=moist|*iþō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkrɑm.mi.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[moisture]], [[moistness]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|got|𐌵𐍂𐌰𐌼𐌼𐌹𐌸𐌰}}
+
+  ===References===
+  * {{R:gem:EDPG}}

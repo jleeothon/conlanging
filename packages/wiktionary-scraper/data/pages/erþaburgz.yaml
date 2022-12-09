@@ -1,0 +1,27 @@
+pageid: 6515547
+ns: 118
+title: Reconstruction:Proto-Germanic/erþaburgz
+wikitext: |-
+  {{reconstructed}}
+  {{rfv|gem-pro|is it a or ō?}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*erþō|*burgz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈer.θɑ.ˌburɣz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # earthen mound, [[earthwork]]
+
+  ====Inflection====
+  {{gem-decl-noun-cons-mf|erþaburg}}
+
+  ====Descendants====
+  * {{desc|ang|eorþburh}}
+  * {{desc|goh|erdburg}}
+  ** {{desc|de|Erdburg}}
+  * {{desc|non|jarðborg}}

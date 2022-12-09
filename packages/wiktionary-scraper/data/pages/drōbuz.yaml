@@ -1,0 +1,30 @@
+pageid: 4434183
+ns: 118
+title: Reconstruction:Proto-Germanic/drōbuz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Related to {{m|gem-pro|*drabaz||dregs}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdrɔː.βuz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[turbid]], [[disturbed]], [[troubled]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*drōbijaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*drōbī}}
+  * {{desc|sv|drov}} {{qualifier|dialectal}}
+
+  ====Further reading====
+  * {{R:gem:EDPG}}

@@ -1,0 +1,62 @@
+pageid: 5543054
+ns: 118
+title: Reconstruction:Proto-Germanic/Harjawaldaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ker-|*h₂welh₁-|id2=rule}}
+
+  From {{compound|gem-pro|*harjaz|t1=army|*waldaz|t2=ruler, authority}}. Compare
+  {{m|gem-pro|*Waldaharjaz}}, composed of the same elements but in the reverse
+  order.
+
+
+  ===Proper noun===
+
+  {{gem-proper noun|m}}
+
+
+  # {{given name|gem-pro|male}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|nopl=1}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|Hereweald}}
+
+  ** {{desc|en|Harold}}
+
+  * {{desctree|non|Haraldr}}
+
+  * {{desc|fi|Harjavalta|bor=1}}
+
+  * {{desc|la|Chariovalda|bor=1}} (''Attested by Tacitus<ref>Tacitus, The Annals
+  [[s:The Annals (Tacitus)/Book 2#11|2.11]]</ref>'')
+
+  * Suevic or Gothic:
+
+  ** {{desc|la|Arvaldus|bor=1}}
+
+  *** {{desc|gl|Albarde}} {{q|place name}}
+
+  * From an unknown later Germanic language:
+
+  ** {{desc|la|Haroldus|bor=1}}
+
+  *** {{desc|it|Araldo}}
+
+  *** {{desc|fr|Hérault}}
+
+
+  ===References===
+
+  <References/>

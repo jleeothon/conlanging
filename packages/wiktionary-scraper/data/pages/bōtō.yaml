@@ -1,0 +1,44 @@
+pageid: 3930208
+ns: 118
+title: Reconstruction:Proto-Germanic/bōtō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*bʰed-}}, {{m|ine-pro|*bʰeHd-||good}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɔː.tɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[improvement]], [[betterment]]
+  # [[recompense]], [[atonement]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*bōtijaną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*bataną}}
+  * {{l|gem-pro|*bataz}}
+  * {{l|gem-pro|*batiz}}
+  * {{l|gem-pro|*batnaną}}
+  * {{l|gem-pro|*batô}}
+  * {{l|gem-pro|*batōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bōtu}}
+  * {{desc|non|bót}}
+  ** {{desc|is|bót}}
+  ** {{desc|fo|bót}}
+  ** {{desc|nb|bot}}
+  ** {{desc|nn|bot}}
+  ** {{desc|gmq-osw|bot|alt=bōt}}
+  *** {{desc|sv|bot}}
+  ** {{desc|da|bod}}
+  * {{desc|got|𐌱𐍉𐍄𐌰}}

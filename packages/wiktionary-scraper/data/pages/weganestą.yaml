@@ -1,0 +1,25 @@
+pageid: 6515572
+ns: 118
+title: Reconstruction:Proto-Germanic/weganestą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*wegaz|*nestą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwe.ɣɑ.ˌnes.tɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[food]] or [[provisions]] for a journey
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|weġnest}}
+  * {{desc|goh|weganest}}
+  * {{desc|non|vegnest}}

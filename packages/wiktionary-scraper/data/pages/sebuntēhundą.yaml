@@ -1,0 +1,61 @@
+pageid: 3370215
+ns: 118
+title: Reconstruction:Proto-Germanic/sebuntēhundą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Modified from earlier {{m|gem-pro||*seftunēhundą}} under the influence of
+  {{m|gem-pro|*sebun|*sebunt|t=seven}}, from earlier {{m|gem-pro||*seftunhundą}}
+  remodeled after {{m|gem-pro|*fimfēhundą|t=fifty}} and
+  {{m|gem-pro|*sehsēhundą|t=sixty}},<ref>{{R:Sihler 1995|419}}</ref> from
+  {{m|gem-pro|*seftun}}, from {{der|gem-pro|ine-pro|*septḿ̥|t=seven}}, +
+  {{m|gem-pro|*hundą|*-hundą|t=hundred}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈse.βun.tɛːˌxun.dɑ̃/}}
+
+
+  ===Numeral===
+
+  {{enum|gem-pro|*sehs tigiwiz|*ahtōutēhundą|cardinal number (tens)|70}}
+
+  {{gem-num}}
+
+
+  # [[seventy]]
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|}}
+
+  ** {{desctree|ang|hundseofontig}}
+
+  ** {{desctree|osx|antsivuntig}}
+
+  ** {{desc|odt|*antsivontig}}
+
+  *** {{desc|dum|tsēventich}}
+
+  **** {{desctree|nl|zeventig}}
+
+  ** {{desc|goh|sibunzo}}
+
+  * {{desc|got|𐍃𐌹𐌱𐌿𐌽𐍄𐌴𐌷𐌿𐌽𐌳}}
+
+
+  ===References===
+
+  <references />
+
+
+  {{c|gem-pro|Seven}}
+
+  [[Category:Proto-Germanic terms suffixed with *-hundą]]

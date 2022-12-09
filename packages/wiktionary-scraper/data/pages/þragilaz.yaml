@@ -1,0 +1,46 @@
+pageid: 4108379
+ns: 118
+title: Reconstruction:Proto-Germanic/þragilaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*þrahilaz}}, {{l|gem-pro|*þrēgilaz}}, {{l|gem-pro|*þrēhilaz}},
+  {{l|gem-pro|*þrigilaz}}, {{l|gem-pro|*þrihilaz}}
+
+
+  ===Etymology===
+
+  From {{m|gem-pro|*þrēg-}}, {{m|gem-pro|*þrag-||to run}}, from
+  {{der|gem-pro|ine-pro|*trāgʰ-||to pull, drag, race, run}} or
+  {{der|gem-pro|ine-pro|*tregʰ-}}, {{m|ine-pro|*tragʰ-||to run}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[runner]]; [[gofer]]; [[servant]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|osx|thragil|*thregil}}
+
+  ** {{desc|gml|dravel|drevel}}; {{l|gml|drelle}} (< Old Norse?)
+
+  *** {{desc|bor=1|nl|drel|trel}} (?)
+
+  * {{desc|goh|dregil|drigil|trigil|trikil}}
+
+  * {{desctree|non|þræll}}

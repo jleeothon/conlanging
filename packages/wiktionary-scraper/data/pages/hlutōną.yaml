@@ -1,0 +1,46 @@
+pageid: 3376206
+ns: 118
+title: Reconstruction:Proto-Germanic/hlutōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*hlutą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxlu.tɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[cast]] [[lots]]
+  # to be [[allot|allotted]]
+
+  ====Inflection====
+  {{gem-conj-wk2|hlut}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*hleutaną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*hlautiz}}
+  * {{l|gem-pro|*hlutą}}
+
+  ====Descendants====
+  * {{desc|ofs|lotia}}
+  ** {{desc|fy|lotsje}}
+  * {{desc|osx|*loton}}
+  ** {{desc|gml|loten|lotten}}
+  * {{desc|odt|*loton}}
+  ** {{desc|dum|loten}}
+  *** {{desc|nl|loten}}
+  * {{desc|goh}} {{i|may be a recent formation from the noun}}
+  ** {{desc|de|losen}}
+  * {{desc|non|hluta}}
+  ** {{desc|is|hluta}}
+  ** {{desc|fo|luta}}
+  ** {{desc|no|-}}
+  *** {{desc|nn|luta}}
+  ** {{desc|gmq-osw|luta|lota}}
+  *** {{desc|sv|lotta}}

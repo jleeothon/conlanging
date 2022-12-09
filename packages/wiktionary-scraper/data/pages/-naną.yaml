@@ -1,0 +1,84 @@
+pageid: 2771641
+ns: 118
+title: Reconstruction:Proto-Germanic/-naną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Reconstructed by Ringe<ref>{{R:gem:PIEPG}}</ref> from an alternating suffix
+  {{m|gem-pro||*-nō-}} (singular) ~ {{m|gem-pro||*-na-}} (nonsingular), from
+  {{der|gem-pro|ine-pro||*-néh₂-}} ~ {{m|ine-pro||*-nh₂-}}, from n-infix
+  presents to laryngeal-final roots that were reanalysed as a separate suffix
+  (as in several other branches).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/nɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # {{non-gloss definition|Forms [[fientive]] verbs, with a sense of 'to become
+  (the base)'.}}
+
+
+  ====Inflection====
+
+  These verbs are always intransitive, so there are no passive forms. They
+  seemed to have originally lacked a past participle as well.
+
+  {{gem-conj-wk4|-n}}
+
+
+  ====Derived terms====
+
+  {{derivsee|Proto-Germanic class 4 weak verbs}}
+
+
+  ====Descendants====
+
+  This suffix was preserved as a separate class only in Gothic. In Old High
+  German, it mostly merged with the third weak class, while in the other
+  descendants it merged with the second weak class.
+
+
+  * {{desc|ang|-nian}}
+
+  ** {{desc|enm|-nen|-enen}}
+
+  *** {{desc|en|-en}}
+
+  * {{desc|goh|-nen}}
+
+  * {{desc|non|-na}}
+
+  ** {{desc|is|-na}}
+
+  ** {{desc|fo|-na}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nn|-na}}
+
+  *** {{desc|nb|-ne}}
+
+  ** {{desc|sv|-na}}
+
+  ** {{desc|da|-ne}}
+
+  ** {{desc|gmq-bot|-gn|-n|-än}}
+
+  * {{desc|got|-𐌽𐌰𐌽}}
+
+
+  ===References===
+
+  <references/>

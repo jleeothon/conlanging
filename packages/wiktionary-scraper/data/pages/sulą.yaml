@@ -1,0 +1,32 @@
+pageid: 3579664
+ns: 118
+title: Reconstruction:Proto-Germanic/sulą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*sūl-||thick liquid, muck}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsu.lɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[mud]], [[muck]], [[mire]]
+  # [[spot]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*sulwō}}
+
+  ====Related terms====
+  * {{l|gem-pro|*saulijǭ}}
+  * {{l|gem-pro|*sulwaz}}
+
+  ====Descendants====
+  {{desctree|gmw-pro|*sol}}
+  * {{desc|non|sol-|pos=prefix}}

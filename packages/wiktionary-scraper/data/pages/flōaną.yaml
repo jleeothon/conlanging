@@ -1,0 +1,91 @@
+pageid: 4479789
+ns: 118
+title: Reconstruction:Proto-Germanic/flōaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{l|gem-pro|*flōwaną}}<ref>{{R:gem:HGE|head=flōwanan|page=108}}</ref>
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*plew-}}
+
+  Possibly from a pre-form {{m|ine-pro||*plōw-}}, the lengthened o-grade form of
+  {{der|gem-pro|ine-pro|*plew-}}<ref name="Kroonen" />. Alternatively from
+  {{m|ine-pro|*pleh₃-}}<ref>{{R:Philippa EWN 2009|vloeien}}</ref>.
+
+
+  Kroonen explains the alternation between -w- (in Anglo-Saxon) and -j- (in Low
+  German) as a result of hiatus after the regular loss of *u after *ō.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸlɔː.ɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name="Kroonen">{{R:gem:EDPG|head=*flōan-|page=147}}</ref>
+
+
+  # to [[flow]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=7e|nopass=1|flō|feflō|feflō|flō}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*flōan}}
+
+  ** {{desc|ang|flōwan}}
+
+  *** {{desc|enm|flowen}}
+
+  **** {{desc|sco|flow|flou}}
+
+  **** {{desc|en|flow}}
+
+  ** {{desc|ofs|*flōja}}
+
+  *** {{desc|stq|flouje}}
+
+  *** {{desc|fy|floeie}}
+
+  ** {{desc|osx|*flōian}}
+
+  *** {{desc|gml|vlôien|vlôigen|vlôgen}}
+
+  **** {{desc|nds|floien|flojen}}
+
+  ** {{desc|odt|*fluoien}}
+
+  *** {{desc|dum|vloeyen}}
+
+  **** {{desc|nl|vloeien}}
+
+  ***** {{desc|af|vloei}}
+
+  ** {{desc|goh|flouwen|flawjan|flawen|flewen}}
+
+  *** {{desc|gmh|flæjen|vlæjen|vlæen|vlæn}}
+
+  * {{desc|non|flóa}}
+
+  ** {{desc|is|flóa}}
+
+  ** {{desc|no|flo}}
+
+
+  ===References===
+
+  <references/>

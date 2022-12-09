@@ -1,0 +1,30 @@
+pageid: 6685135
+ns: 118
+title: Reconstruction:Proto-Germanic/banstiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑn.stiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[barn]], [[storehouse]]
+  # [[crib]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|bōsig}}
+  * {{desc|ofs|bōs}}
+  * {{desc|goh|*banse}}
+  ** {{desc|gmh|banse}}
+  *** {{desc|de|Banse|Barn}}
+  * {{desc|non|báss}}
+  * {{desc|got|𐌱𐌰𐌽𐍃𐍄𐍃}}

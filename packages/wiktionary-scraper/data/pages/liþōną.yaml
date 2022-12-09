@@ -1,0 +1,42 @@
+pageid: 8988875
+ns: 118
+title: Reconstruction:Proto-Germanic/liþōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈli.θɔː.nɑ̃/}}
+
+  ===Etymology 1===
+  Likely from {{suffix|gem-pro|*liþuz|*-ōną|t1=joint, limb}}.
+
+  ====Verb====
+  {{gem-verb}}
+
+  # to [[cut]], [[divide]], [[dissect]]
+  # to [[bend]] 
+  # to [[organize]], to put in order
+
+  =====Inflection=====
+  {{gem-conj-wk2|liþ}}
+
+  =====Descendants=====
+  * {{desctree|gmw-pro|*liþōn|id=cut}}
+  * {{desctree|non|liða}}
+
+  ===Etymology 2===
+  Closely related to the strong verb {{m|gem-pro|*līþaną|t=to go, pass}}.
+
+  ====Verb====
+  {{gem-verb}}
+
+  # to [[lead]], [[go]]
+  # to [[endure]], [[suffer]]
+
+  =====Inflection=====
+  {{gem-conj-wk2|liþ}}
+
+  =====Descendants=====
+  * {{desctree|gmw-pro|*liþōn|id=lead}}
+  * {{desctree|non|liða}}

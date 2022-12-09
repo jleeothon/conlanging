@@ -1,0 +1,61 @@
+pageid: 6147872
+ns: 118
+title: Reconstruction:Proto-Germanic/fristiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{m|gem-pro|*fres|t=forward}}, from {{der|gem-pro|ine-pro|*pres-}},
+  {{m|ine-pro|*per-|t=forward, forth, over, beyond}}, equivalent to
+  {{suffix|gem-pro|*fres|*þiz}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸris.tiz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # an appointed [[time]]; [[date]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*frestą}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|frist|first|fierst|fyrst|g4=m}}; {{l|ang|fierst|g=f}}
+
+  ** {{desc|enm|first|furst|feorst|forst|ferst|frest|vrist}}
+
+  *** {{desc|en|frist|first}}
+
+  *** {{desc|sco|frist|frest|first|fyrst}}
+
+  * {{desc|osx|*frist}}
+
+  ** {{desc|gml|frist|ferst|verst|vorst|vrüst|g5=f}}
+
+  * {{desc|goh|frist|g=m}}; {{l|goh|frist|g=f}}
+
+  ** {{desc|gmh|vrist|g=m}}; {{l|gmh|vrist|g=f}}
+
+  *** {{desc|de|Frist|g=f}}
+
+  * {{desc|non|*frestr}}; {{l|non|*fresta}} (likely a back-formation of the
+  neuter plural of {{m|gem-pro|*frestą}})

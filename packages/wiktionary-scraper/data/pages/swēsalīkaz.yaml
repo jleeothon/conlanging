@@ -1,0 +1,27 @@
+pageid: 7453622
+ns: 118
+title: Reconstruction:Proto-Germanic/swēsalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*swēsaz|*-līkaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈswɛː.sɑˌliː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*swēsa-līkaz|396}}</ref>
+
+  # [[friendly]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*swāsalīk}}
+  * {{desc|non|sváslígr}}
+
+  ===References===
+  <references/>

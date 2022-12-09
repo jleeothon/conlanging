@@ -1,0 +1,28 @@
+pageid: 7758741
+ns: 118
+title: Reconstruction:Proto-Germanic/flatjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*flataz|t1=flat|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸlɑt.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|head=*flatjanan|page=105}}</ref>
+
+  # To [[flatten]], make [[flat]]
+
+  ====Inflection====
+  {{gem-conj-wk1|flat|j=j}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*flattjan}}
+  * {{desc|non|fletja}}
+  ** {{desc|is|fletja}}
+
+  ===References===
+  <references/>

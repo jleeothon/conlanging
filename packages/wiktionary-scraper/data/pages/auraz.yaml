@@ -1,0 +1,73 @@
+pageid: 4001622
+ns: 118
+title: Reconstruction:Proto-Germanic/auraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro|Uncertain}}; possibly a secondary [[vrddhi|vṛddhi]] full-grade
+  of {{inh|gem-pro|ine-pro||*Huh₁-ró-s}} (compare {{cog|lt|jáura|t=marsh}},
+  {{m|lt|jū́ra|t=sea}}, {{cog|prg|wurs|t=pool}}), from
+  {{suf|ine-pro|*Hweh₁-|t1=water|*rós|nocat=1}}. Cognate with
+  {{cog|sa|वार्|tr=vā́r|t=water; pond,
+  pool}}.<ref>{{R:TOitPIEatPIEw|126}}</ref><ref>{{R:inc:EWAia|vā́r-|pages=544-545}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑu̯.rɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*aura-|42}}</ref>
+
+
+  # wet [[sand]] or [[earth]], [[mud]]
+
+  #: {{syn|gem-pro|*fangō|*gurą|*gurwijō|*muþraz}}
+
+  # {{topics|gem-pro|Geography|Water}} [[liquid]], [[water]], [[sea]]
+
+  #: {{syn|gem-pro|*ahwō}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*ūrą}}
+
+  ** {{desc|non|úr}}
+
+  * {{l|gem-pro|*warô}}
+
+  ** {{desc|ang|wær}}
+
+  ** {{desc|non|vari}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*aurī}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*aur}}
+
+  * {{desctree|non|aurr}}
+
+  * {{desc|got|𐌰𐌿𐍂𐌰𐌷𐌾𐍉𐌼|unc=1}}
+
+
+  ===References===
+
+  <references/>

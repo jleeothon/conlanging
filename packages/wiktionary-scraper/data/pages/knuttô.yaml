@@ -1,0 +1,69 @@
+pageid: 6069174
+ns: 118
+title: Reconstruction:Proto-Germanic/knuttô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Possibly from {{der|gem-pro|ine-pro|*gnod-||to bind}}. Cognate with
+  {{cog|la|nōdus}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈknut.tɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # a [[knot]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*knuttijaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*knottō}}
+
+  ** {{desctree|ang|cnotta}}
+
+  ** {{desc|ofs|knotta}}
+
+  *** {{desc|stq|Knöt|Knät}}
+
+  *** {{desc|fy|knotte}}
+
+  ** {{desc|osx|knotto}}
+
+  *** {{desc|gml|knotte|knutte}}
+
+  **** {{desc|nds-de|Knütt|Knütte}}
+
+  ** {{desc|odt|*knotto}}
+
+  *** {{desc|dum|cnote|cnotte|cnudde}}
+
+  **** {{desc|nl|knot}}
+
+  ** {{desc|goh|*knozzo}}; {{l|goh|*knozza|g=f}}
+
+  *** {{desc|gmh|knotze|g=f}}
+
+  **** {{desc|de|Knotze|g=f|t=gnarl, knot}} {{gl|obsolete}}
+
+  * {{desctree|non|knútr}}

@@ -1,0 +1,37 @@
+pageid: 4606591
+ns: 118
+title: Reconstruction:Proto-Germanic/skeutaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*skeutaną||to shoot}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskeu̯.tɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[fast]], [[swift]], [[ready]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|skeut}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*skeut}}
+  ** {{desc|ang|sċēot}}
+  *** {{desc|enm|shete|sheyte}}
+  *** {{desc|enm|schete|der=1|pos=adv|t=quickly, easily}}
+  * {{desc|non|skjótr}}
+  ** {{desc|is|skjótur}}
+  ** {{desc|fo|skjótur}}
+  ** {{desc|gmq-osw|skiuter|alt=skiūter}}
+  ** {{desc|non|skjótt|der=1|pos=adv}}
+  *** {{desc|is|skjótt}}
+  *** {{desc|fo|skjótt}}
+  *** {{desc|enm|skete|bor=1}}
+
+  ===References===
+  * {{R:gem:EDPG}}

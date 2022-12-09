@@ -1,0 +1,27 @@
+pageid: 5980453
+ns: 118
+title: Reconstruction:Proto-Germanic/snidą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Zero-grade action noun derived from {{m|gem-pro|*snīþaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsni.ðɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # a [[cutting]], [[slice]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|snid}}
+  * {{desc|non|snið}}
+  ** {{desc|is|snið}}
+  ** {{desc|fo|snið}}
+  ** {{desc|gmq-osw|snidh}}

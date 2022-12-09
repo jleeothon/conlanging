@@ -1,0 +1,40 @@
+pageid: 2681753
+ns: 118
+title: Reconstruction:Proto-Germanic/fulô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*pelH-}}
+  From pre-Germanic *''pl̥Hon''-, from {{der|gem-pro|ine-pro|*pelH-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸu.lɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[foal]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*fuljō}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*folō}}
+  * {{desc|non|foli}}
+  ** {{desc|is|foli}}
+  ** {{desc|fo|foli}}
+  ** {{desc|no|fole}}
+  ** {{desc|gmq-osw|foli}}
+  *** {{desc|sv|fåle}}
+  ** {{desc|gmq-oda|folæ}}
+  *** {{desc|da|fole}}
+  ** {{desc|ovd|fuoli}}
+  ** {{desc|gmq-bot|fåål|fålla|fåla}}
+  * {{desc|got|𐍆𐌿𐌻𐌰}}
+
+  {{C|gem-pro|Horses}}

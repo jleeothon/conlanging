@@ -1,0 +1,28 @@
+pageid: 4389500
+ns: 118
+title: Reconstruction:Proto-Germanic/mēaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂meh₁-}}
+  From {{der|gem-pro|ine-pro|*h₂meh₁-||to mow}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɛː.ɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[mow]], [[cut down]] (grass, crops)
+
+  ====Inflection====
+  {{gem-conj-st|class=7d|mē|memō|memō|mē}}
+
+  ====Related terms====
+  * {{l|gem-pro|*mēdiz}}
+  * {{l|gem-pro|*mēþą}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*māan}}

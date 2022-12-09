@@ -1,0 +1,23 @@
+pageid: 6555819
+ns: 118
+title: Reconstruction:Proto-Germanic/handusahsą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*handuz|*sahsą}}.
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[small]] [[knife]], [[dagger]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|handseax}}
+  ** {{desc|enm|hond-sæx}}
+  * {{desc|non|handsax}}
+  ** {{desc|is|handsax}}

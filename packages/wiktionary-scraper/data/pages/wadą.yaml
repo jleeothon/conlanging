@@ -1,0 +1,105 @@
+pageid: 2831521
+ns: 118
+title: Reconstruction:Proto-Germanic/wadą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*weh₂dʰ-}}
+
+  From {{inh|gem-pro|ine-pro|*wadʰom}}, {{m|ine-pro|*wh₂dʰóm}}, from
+  {{m|ine-pro|*weh₂dʰ-}}.  Cognate with {{cog|la|vadum||ford}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwɑ.ðɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[shallow]] [[water]], [[ford]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*wadaną}}
+
+  * {{l|gem-pro|*wadilą}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|wæd|wæþ}}
+
+  ** {{desc|enm|wath|wathe|weth}} {{q|mostly in placenames |in part}}
+
+  *** {{desc|sco|wath}}
+
+  *** {{desc|en|wath}}
+
+  * {{desc|ofs|*wed}}
+
+  ** {{desc|fy|waad|wâd}}
+
+  * {{desc|osx|*wad}}
+
+  ** {{desc|gml|wat}}
+
+  *** {{desc|de|Watt|bor=1}}
+
+  * {{desc|frk|*wad}}
+
+  ** {{desc|odt|wad}} {{q|in placenames}}
+
+  *** {{desc|dum|wat}}
+
+  **** {{desc|nl|wad}}
+
+  ** {{desc|la-vul|*uadam|bor=1}} {{q|possibly confused with {{m|la|vadum}}}}
+
+  *** {{desc|fro|gué}}
+
+  **** {{desc|frm|gué}}
+
+  ***** {{desc|fr|gué}}
+
+  *** {{desc|oc|ga|guá}}
+
+  *** {{desc|it|guado}}
+
+  * {{desctree|goh|wat}}
+
+  * {{desc|non|vað}}
+
+  ** {{desc|is|vað}}
+
+  ** {{desc|fo|vað}}
+
+  ** {{desc|no|vad}}
+
+  ** {{desc|gmq-bot|væð}}
+
+  ** {{desc|gmq-osw|vaþ}}
+
+  *** {{desc|sv|vad}}
+
+  ** {{desc|da|vad}}
+
+  ** {{desc|bor=1|enm|wath|wathe|weth}} {{q|mostly in placenames|in part}}
+
+  *** {{desc|sco|wath}}
+
+  *** {{desc|en|wath}}

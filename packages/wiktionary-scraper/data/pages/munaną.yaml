@@ -1,0 +1,72 @@
+pageid: 2319677
+ns: 118
+title: Reconstruction:Proto-Germanic/munaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*men-|id=think}}
+
+  From {{inh|gem-pro|ine-pro|*memóne}}, from {{m|ine-pro|*men-||to
+  think|id=think}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmu.nɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[think]], to [[consider]], to [[believe]]
+
+  # to [[remember]]
+
+
+  ====Inflection====
+
+  {{gem-conj-pp|mun|man|mund}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*munnōną}}
+
+  * {{l|gem-pro|*muniz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*munan}}
+
+  * {{desc|non|muna}}; {{l|non|munu}}
+
+  ** {{desc|da|monne}} (archaic), {{l|da|mon}}
+
+  ** {{desc|fo|muna}}
+
+  ** {{desc|is|muna}}; {{l|non|munu}}
+
+  ** {{desc|nn|muna|mune}}
+
+  ** {{desc|gmq-osw|mona}}
+
+  *** {{desc|sv|månde}} (archaic)
+
+  ** {{desc|bor=1|enm|mone|id=shall|mon|mune|munne|mun|man}}
+
+  *** {{desc|en|mun}} {{q|dialectal}}
+
+  *** {{desc|sco|maun|mun|man|mon}}
+
+  * {{desc|got|𐌼𐌿𐌽𐌰𐌽}}
+
+
+  {{topics|gem-pro|Thinking}}

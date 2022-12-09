@@ -1,0 +1,36 @@
+pageid: 5024062
+ns: 118
+title: Reconstruction:Proto-Germanic/auþijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*auþijaz|t1=empty, void|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑu̯.θi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:EDPG|*auþja-|43|*auþjan-}}</ref>
+
+  # to [[make]] empty; to [[desolate]]
+
+  ====Inflection====
+  {{gem-conj-wk1|auþ|j=ij}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*auþīniz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*auþijan}}
+  * {{desc|non|eyða}}
+  ** {{desc|is|eyða}}
+  ** {{desc|fo|oyða}}
+  ** {{desc|nn|øyde}}
+  ** {{desc|gmq-osw|øþa|alt=ø̄þa}}
+  *** {{desc|sv|öda}}
+  ** {{desc|gmq-bot|öy}}
+
+  ===References===
+  <references/>

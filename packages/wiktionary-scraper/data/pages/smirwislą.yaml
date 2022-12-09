@@ -1,0 +1,31 @@
+pageid: 4599301
+ns: 118
+title: Reconstruction:Proto-Germanic/smirwislą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*smirwijaną|*slą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsmir.wis.lɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[ointment]], [[unguent]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|smirels|g=m}}
+  * {{desc|non|smyrsl|pos=plural}}
+  ** {{desc|is|smyrsl|smyrsli}}
+  ** {{desc|fo|smyrsl}}
+  ** {{desc|no|smorelse}}
+  ** {{desc|gmq-osw|smyrsla|smyrilse}}
+  *** {{desc|sv|smörjelse}}
+  ** {{desc|da|smørelse}}
+  * {{desc|nl|smeersel}}

@@ -1,0 +1,24 @@
+pageid: 2948639
+ns: 118
+title: Reconstruction:Proto-Germanic/gaskaftiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{confix|gem-pro|*ga|*skapjaną|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑ.ˈskɑɸ.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[creation]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*gaskafti}}
+  * {{desc|got|𐌲𐌰𐍃𐌺𐌰𐍆𐍄𐍃}}

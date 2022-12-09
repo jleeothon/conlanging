@@ -1,0 +1,36 @@
+pageid: 7638581
+ns: 118
+title: Reconstruction:Proto-Germanic/furaikwemaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*furai|*kwemaną}}.
+
+  ===Verb===
+  {{head|gem-pro|verb}}
+
+  # to [[come]] [[before]], to [[precede]]
+
+  ====Inflection====
+  {{gem-conj-st|class=4|furaikwem|furaikwam|furaikwēm|furaikum}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*forakweman}}
+  ** {{desc|ang|forecuman}}
+  *** {{desc|enm|forecomen}}
+  **** {{desc|en|forecome}}
+  ** {{desc|ofs|forakuma}}
+  *** {{desc|stq|foarkuume}}
+  *** {{desc|fy|foarkomme}}
+  ** {{desc|osx|*foraqueman|*forakuman}}
+  *** {{desc|gml|vōrekōmen|vȫrekōmen|vȫrkōmen}}
+  **** {{desc|nds-de|vörkomen}}
+  ** {{desc|odt|foracuman}}
+  *** {{desc|dum|vōrecōmen}}
+  **** {{desc|nl|voorkomen}}
+  ** {{desc|goh|foraqueman|furiqueman}}
+  *** {{desc|gmh|forekomen|vorekomen|vurekomen|vürekomen}}
+  **** {{desc|de|vorkommen}}
+  * {{desc|got|𐍆𐌰𐌿𐍂𐌰𐌵𐌹𐌼𐌰𐌽}}

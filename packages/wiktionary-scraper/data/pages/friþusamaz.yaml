@@ -1,0 +1,24 @@
+pageid: 7564192
+ns: 118
+title: Reconstruction:Proto-Germanic/friþusamaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*friþuz|*samaz}}.
+
+  ===Adjective===
+  {{head|gem-pro|adjective}}<ref>{{R:ang:DOE|521|PNWGmc *friþusamaz}}</ref>
+
+  # [[peaceful]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*friþusam}}
+  * {{desc|non|friðsamr}}
+
+  ===References===
+  <references/>

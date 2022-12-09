@@ -1,0 +1,32 @@
+pageid: 7314985
+ns: 118
+title: Reconstruction:Proto-Germanic/bergō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*berganą|t1=to preserve, to keep|*-ō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈber.ɣɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*bergō|42}}</ref>
+
+  # [[help]]
+  # [[protection]], [[shelter]], [[defense]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*breustabergō}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*bergu}}
+  * {{desc|non|bjǫrg}}
+  ** {{desc|is|björg}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,32 @@
+pageid: 4600189
+ns: 118
+title: Reconstruction:Proto-Germanic/ainahandijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*ainaz|*handuz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑi̯.nɑ.ˌxɑn.di.jɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[one-handed]], having one hand, [[lame]], [[imperfect]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|ainahand|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*ainahandī}}
+  ** {{desc|ang|ānhende}}
+  *** {{desc|enm|anhende|onhende}}
+  ** {{desc|goh|einhenti}}
+  *** {{desc|gmh|einhende}}
+  ****{{desc|de|einhändig}}
+  * {{desc|non|einhendr}}
+  ** {{desc|is|einhentur}}
+  ** {{desc|gmq-osw|enhænder|alt=ēnhænder}}
+  *** {{desc|sv|enhänt}} (?)

@@ -1,0 +1,90 @@
+pageid: 4817969
+ns: 118
+title: Reconstruction:Proto-Germanic/makô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*makkô}}
+
+
+  ===Etymology===
+
+  From {{m|gem-pro|*makaz||fitting, suitable, convenient, comfortable}}, from
+  {{der|gem-pro|ine-pro|*mag-||to knead, work}}.
+
+
+  ===Pronunciation===
+
+  *{{IPA|gem-pro|/ˈmɑ.kɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # an [[equal]]; [[comrade]]; [[mate]]; [[match]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*gamakô}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|maca|ġemaca}}; {{l|ang|mæċċa}}, {{l|ang|ġemæċċa}}
+
+  ** {{desc|enm|make}}, {{l|en|mak}}, {{l|enm|ȝemace}}, {{l|enm|imake}};
+  {{l|enm|mache}}, {{l|enm|meche}}, {{l|enm|macche}}, {{l|enm|mecche}},
+  {{l|enm|matche}}, {{l|enm|metche}}
+
+  *** {{desc|sco|mak}}; {{l|sco|mach}}, {{l|sco|match}}
+
+  *** {{desc|en|make}}; {{l|en|match}}
+
+  **** {{desctree|ru|матч|bor=1}}
+
+  * {{desc|osx|gimako}}
+
+  ** {{desc|gml|makkære|makker}}
+
+  *** {{desc|nds-de|Macker}}
+
+  * {{desc|odt|*gimako}}; {{l|odt|*gimakko}}
+
+  ** {{desc|dum|*gemakke|*ghemacke}} (>{{l|dum|macker}})
+
+  *** ({{desc|nl|makker}})
+
+  **** ({{desc|nds-de|Macker|bor=1}})
+
+  ***** ({{desc|de|Macker|bor=1}})
+
+  * {{desc|goh|kamahho|gimahho|gimacho}}; {{l|goh|gimahha|g=f}}
+
+  * {{desc|non|maki}}
+
+  ** {{desc|is|maki}}
+
+  ** {{desc|fo|maki}}
+
+  ** {{desc|no|make}}
+
+  ** {{desc|gmq-osw|maki}}
+
+  *** {{desc|sv|make|maka}}
+
+  ** {{desc|da|mage}}
+
+  ** {{desc|gmq-bot|maka}}

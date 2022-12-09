@@ -1,0 +1,55 @@
+pageid: 3745562
+ns: 118
+title: Reconstruction:Proto-Germanic/lahwaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*logʷʰ-es-}}, perhaps ultimately from the root
+  of {{m|gem-pro|*lagjaz|t=leg}}.<ref name="EDPG"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈlɑ.xʷɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}<ref name="EDPG">{{R:gem:EDPG|*lawiz-|329-30}}</ref>
+
+
+  # [[thigh]]
+
+
+  ====Alternative reconstructions====
+
+  * {{alt|gem-pro|alt1=*lawaz}}<ref name="EDPG"/>
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|stem=z}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*lahw}}
+
+  ** {{desc|ang|lēow|alts=1}}
+
+  * {{desctree|non-own|lær}}
+
+  * {{desctree|non-oen|*lāʀ}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Anatomy}}

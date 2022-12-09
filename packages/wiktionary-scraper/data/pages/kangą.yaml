@@ -1,0 +1,26 @@
+pageid: 7515108
+ns: 118
+title: Reconstruction:Proto-Germanic/kangą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*genk-|t=to gladen, rejoice}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkɑŋ.ɡɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[agitation]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|non|*kangi}}
+  ** {{desc|sv|kång}}
+  ** {{desc|non|kanginyrði|der=1|t=jeering words|g=p}}
+  ** {{desc|enm|cang|bor=1}}

@@ -1,0 +1,35 @@
+pageid: 2860414
+ns: 118
+title: Reconstruction:Proto-Germanic/saltaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*saltaną||to salt}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑl.tɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # {{topics|gem-pro|Taste}} [[salty]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|salt}}
+
+  ====Related terms====
+  * {{l|gem-pro|*saltą}}
+  * {{l|gem-pro|*saltaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*salt|id=salty}}
+  * {{desc|non|saltr}}
+  ** {{desc|is|saltur}}
+  ** {{desc|fo|saltur}}
+  ** {{desc|no|salt}}
+  ** {{desc|gmq-osw|salter}}
+  *** {{desc|sv|salt}}
+  ** {{desc|da|salt}}
+  ** {{desc|gmq-gut|saltar|salt}}

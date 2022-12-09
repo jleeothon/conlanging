@@ -1,0 +1,30 @@
+pageid: 5432086
+ns: 118
+title: Reconstruction:Proto-Germanic/wanjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*wenh₁-}}
+  From {{der|gem-pro|ine-pro|*wenh₁-|t=to wish; desire; love}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑn.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[accustom]], to [[make]] [[used to]]
+
+  ====Inflection====
+  {{gem-conj-wk1|wan|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wunāną}}
+  * {{l|gem-pro|*wunjō}}
+  * {{l|gem-pro|*wunô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wannjan}}
+  * {{desctree|non|venja}}

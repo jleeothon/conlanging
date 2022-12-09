@@ -1,0 +1,33 @@
+pageid: 2226743
+ns: 118
+title: Reconstruction:Proto-Germanic/gumô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*ǵʰmṓ|*ǵʰm̥mṓ}}. Cognate with {{cog|la|homo}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣu.mɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|People}} [[man]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*mann-}}
+  * {{l|gem-pro|*weraz}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*brūdigumô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*gumō}}
+  * {{desc|gmq-pro|}}
+  ** {{desctree|non|gumi}}
+  * {{desc|got|𐌲𐌿𐌼𐌰}}

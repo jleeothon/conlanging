@@ -1,0 +1,43 @@
+pageid: 6498450
+ns: 118
+title: Reconstruction:Proto-Germanic/blōþaraudaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*blōþą|*raudaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈblɔː.θɑ.ˌrɑu̯.ðɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[blood-red]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|blōþraud}}
+
+  ====Descendants====
+  * {{desc|ang|blōdrēad}}
+  ** {{desc|enm|blodread|blodred}}
+  *** {{desc|en|blood-red|bloodred}}
+  *** {{desc|sco|blude-rede|blude-reid}}
+  * {{desc|ofs|*blōdrād}}
+  ** {{desc|stq|bloudrood}}
+  ** {{desc|fy|bloedread}}
+  * {{desc|osx|*blōdrōd}}
+  ** {{desc|gml|blôtrôt}}
+  *** {{desc|nds|bloodrood}}
+  * {{desc|odt|*bluotrōt}}
+  ** {{desc|dum|bloetroot}}
+  *** {{desc|nl|bloedrood}}
+  * {{desc|goh|bluotrōt}}
+  ** {{desc|gmh|bluotrōt}}
+  *** {{desc|de|blutrot}}
+  * {{desc|non|blóðrauðr}}
+  ** {{desc|is|blóðrauður}}
+  ** {{desc|no|blodrød}}
+  ** {{desc|sv|blodröd}}
+  ** {{desc|da|blodrød}}

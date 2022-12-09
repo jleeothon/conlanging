@@ -1,0 +1,37 @@
+pageid: 7316851
+ns: 118
+title: Reconstruction:Proto-Germanic/handulausaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*handuz|*-lausaz|t1=hand}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑn.du.ˌlɑu̯.sɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*xandu-lausaz|159}}</ref>
+
+  # [[handless]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|ang|*handlēas}}
+  ** {{desc|enm|handles}}
+  *** {{desc|en|handless}}
+  * {{desc|ofs|handlās}}
+  ** {{desc|fy|hânleas}}
+  * {{desc|osx|*handlōs}}
+  ** {{desc|gml|hantlōs}}
+  * {{desc|goh|*hantlōs}}
+  ** {{desc|gmh|hantlōs}}
+  *** {{desc|de|handlos}}
+  * {{desc|non|handlauss}}
+  ** {{desc|is|handlauss}}
+
+  ===References===
+  <references/>

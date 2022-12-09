@@ -1,0 +1,52 @@
+pageid: 4588262
+ns: 118
+title: Reconstruction:Proto-Germanic/ūtgangaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰengʰ-}}
+  From {{compound|gem-pro|*ūt|*gangaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈuːt.ˌɣɑŋ.ɡɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # a going out, [[exit]]
+  #: {{ant|gem-pro|*inngangaz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|utgang|alt=ūtgang}}
+  ** {{desc|enm|outgang}}
+  *** {{desc|en|outgang}}
+  * {{desc|ofs|utgang|alt=ūtgang|utgong|alt2=ūtgong}}
+  ** {{desc|stq|Uutgoang}}
+  ** {{desc|fy|útgong}}
+  * {{desc|osx|ūtgang}}
+  ** {{desc|gml|utgang|alt=ūtgang}}
+  *** {{desc|nds-de|Utgang}}
+  *** {{desc|pdt|Utgank}}
+  * {{desc|odt|*ūtgang}}
+  ** {{desc|dum|utgang|alt=ūtgang}}
+  *** {{desc|nl|uitgang}}
+  **** {{desc|af|uitgang}}
+  * {{desc|goh|uzgang|alt=ūzgang}}
+  ** {{desc|gmh|uzgang|alt=ūzgang}}
+  *** {{desc|de|Ausgang}}
+  *** {{desc|lb|Ausgank}}
+  * {{desc|non|útgangr}}
+  ** {{desc|is|útgangur}}
+  ** {{desc|fo|útgongd}}
+  ** {{desc|nrn|utgeng}}
+  ** {{desc|no|utgang}}
+  ** {{desc|gmq-osw|utganger|alt=ūtganger}}
+  *** {{desc|sv|utgång}}
+  ** {{desc|da|udgang}}
+  ** {{desc|ovd|autgaungg}}
+  ** {{desc|gmq-gut|äutgangg}}

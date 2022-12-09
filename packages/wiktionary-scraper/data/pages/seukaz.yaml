@@ -1,0 +1,30 @@
+pageid: 2733446
+ns: 118
+title: Reconstruction:Proto-Germanic/seukaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*seukaną||to be sick}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈseu̯.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # {{topics|gem-pro|Health}} [[sick]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|seuk}}
+
+  ====Related terms====
+  * {{l|gem-pro|*suhtiz}}
+  * {{l|gem-pro|*seukadōmaz}}
+  * {{l|gem-pro|*siukį̄}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*seuk}}
+  * {{desctree|non|sjúkr}}
+  * {{desc|got|𐍃𐌹𐌿𐌺𐍃}}

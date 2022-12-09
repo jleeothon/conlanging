@@ -1,0 +1,38 @@
+pageid: 5746201
+ns: 118
+title: Reconstruction:Proto-Germanic/dusnaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*duznaz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*dʰewh₂-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdus.nɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # {{topics|gem-pro|Colors}} [[brownish]]; [[brown]]
+  # {{topics|gem-pro|Colors}} [[yellow]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|dusn}}
+
+  ====Related terms====
+  * {{l|gem-pro|*dusnǭ}}
+
+  ====Descendants====
+  * {{desc|ang|dunn|dun}}
+  ** {{desc|enm|dunne|donne|dune|dun}}
+  *** {{desc|sco|dune|dun|din}}
+  *** {{desc|en|dun}}
+  * {{desc|osx|*dunn|dun}}; {{l|osx|dosan}}
+  * {{desc|goh|tusin}}
+
+  ====See also====
+  {{table:colors/gem-pro}}

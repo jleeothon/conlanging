@@ -1,0 +1,31 @@
+pageid: 6372237
+ns: 118
+title: Reconstruction:Proto-Germanic/hrugjabainą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*hrugjaz|*bainą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxruɣ.jɑˌbɑi̯.nɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{topics|gem-pro|Bones}} [[backbone]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hruggjabain}}
+  * {{desc|non|*hryggbein}}; {{l|non|*hryggjarbein}}
+  ** {{desc|is|hryggjarbein}}
+  ** {{desc|fo|ryggjabein}}
+  ** {{desc|nrn|ryggben}}
+  ** {{desc|no|ryggbein}}
+  ** {{desc|sv|ryggben}}
+  ** {{desc|da|rygben}}
+  ** {{desc|ovd|ryggbien}}

@@ -1,0 +1,27 @@
+pageid: 7435443
+ns: 118
+title: Reconstruction:Proto-Germanic/dwaliþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*dwalaz|*-iþō|t1=foolish, misled}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdwɑ.li.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*dwaliþō~dwaliþan|81}}</ref>
+
+  # [[foolishness]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*dwalliþu}}
+  * {{desc|got|𐌳𐍅𐌰𐌻𐌹𐌸𐌰}}
+
+  ===References===
+  <references/>

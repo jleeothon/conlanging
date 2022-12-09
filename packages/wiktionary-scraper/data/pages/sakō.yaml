@@ -1,0 +1,37 @@
+pageid: 3611728
+ns: 118
+title: Reconstruction:Proto-Germanic/sakō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*seh₂g-}}
+  From {{af|gem-pro|*sakaną|t1=to quarrel, to argue, to debate|*-ō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑ.kɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[quarrel]]
+  # [[charge]], [[case]], [[lawsuit]]
+  # [[thing]], [[matter]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*sakōlausaz}}
+  * {{l|gem-pro|*sakōną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sahtiz}}
+  * {{l|gem-pro|*sōkijaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*saku}}
+  * {{desc|gmq-pro|*ᛊᚨᚲᚢ}}
+  ** {{desctree|non|sǫk}}
+  * {{desc|fiu-fin-pro|*sakko|bor=1}} {{see desc}}

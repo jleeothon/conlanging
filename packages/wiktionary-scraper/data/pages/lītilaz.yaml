@@ -1,0 +1,36 @@
+pageid: 2667597
+ns: 118
+title: Reconstruction:Proto-Germanic/lītilaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+  {{cln|gem-pro|terms suffixed with *-ilaz (adjectival)}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈliː.ti.lɑz/}}
+
+  ===Adjective===
+  {{gem-adj|*minnizô|*minnistaz}}
+
+  # [[small]], [[little]] ({{altform|gem-pro|*lūtilaz|nocap=1}})
+  # [[few]], little {{gloss|small amount of}}
+
+  ====Inflection====
+  {{gem-decl-adj-a|lītil}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*fawaz}}
+  * {{l|gem-pro|*lūtilaz}}
+
+  ====Antonyms====
+  * {{l|gem-pro|*mikilaz}}
+
+  ====Descendants====
+  * {{desctree|non|lítill}}
+  * {{desc|got|𐌻𐌴𐌹𐍄𐌹𐌻𐍃}}
+  * {{desc|gme-cgo|lista}}
+
+  {{catlangname|gem-pro|suppletive adjectives}}

@@ -1,0 +1,68 @@
+pageid: 3424477
+ns: 118
+title: Reconstruction:Proto-Germanic/frawjǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*per-}}
+
+  A feminine form of {{m|gem-pro|*frawjô||lord}}, from
+  {{inh|gem-pro|ine-pro|*proHwo-}}, a derivation from {{m|ine-pro|*per-|t=to go
+  forward}}. The Indo-European root is also the source of {{cog|sla-pro|*pravъ}}
+  (whence {{cog|cu|правъ}}, {{cog|ru|пра́вый|t=right}}).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸrɑw.jɔ̃ː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[lady]], wife of a [[lord]] {{gloss|woman of high standing}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*frawjaz}}
+
+  * {{l|gem-pro|*frawjô}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|frēo|frōwe}} {{q|< {{m|gem-pro|*frōwǭ}}, {{m|gem-pro|*fruwwǭ}},
+  or borrowed}}
+
+  * {{desctree|ofs|frowe}}
+
+  * {{desctree|osx|frūa}}
+
+  * {{desc|odt|*frouwa}}
+
+  ** {{desc|dum|vrouwe}}
+
+  *** {{desc|nl|vrouwe|t=lady}}, {{desctree|notext=1|nl|vrouw|t=woman}}
+
+  *** {{desc|li|vrówwe|vrów}}
+
+  *** {{desc|bor=1|en|frow}}
+
+  * {{desctree|goh|frouwa}}
+
+  * {{desctree|non|freyja}}
+
+  ** {{desctree|der=1|non|Freyja|qq=given name}}

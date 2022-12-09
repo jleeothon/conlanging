@@ -1,0 +1,47 @@
+pageid: 2856385
+ns: 118
+title: Reconstruction:Proto-Germanic/missadēdiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*meyth₂-|*dʰeh₁-}}
+  From {{prefix|gem-pro|*missa|*dēdiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmis.sɑ.ˌdɛː.ðiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[misdeed]], [[wrongful]] [[act]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*undēdiz}}
+
+  ====Descendants====
+  * {{desc|ang|misdǣd}}
+  ** {{desc|enm|misdede}}
+  *** {{desc|sco|misdede|misdeid}}
+  *** {{desc|en|misdeed}}
+  * {{desc|ofs|misdēd|misdēde}}
+  ** {{desc|stq|Misdoat}}
+  ** {{desc|fy|misdied}}
+  * {{desc|osx|misdād}}
+  ** {{desc|gml|misdât}}
+  *** {{desc|nds-de|Missdaad}}
+  * {{desc|odt|misdād|*misdāt}}
+  ** {{desc|dum|misdaet}}
+  *** {{desc|nl|misdaad}}
+  **** {{desc|af|misdaad}}
+  * {{desc|goh|missitāt|mistāt}}
+  ** {{desc|gmh|missetāt}}
+  *** {{desc|de|Missetat}}
+  * {{desc|non|*misdáð}}
+  ** {{desc|da|misdåd}}
+  ** {{desc|sv|missdåd}}
+  * {{desc|got|𐌼𐌹𐍃𐍃𐌰𐌳𐌴𐌸𐍃}}

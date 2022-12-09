@@ -1,0 +1,30 @@
+pageid: 8471908
+ns: 118
+title: Reconstruction:Proto-Germanic/werkadagaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*werką|*dagaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwer.kɑ.ˌdɑ.ɣɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[workday]]
+
+  ====Inflection====
+  {{gem-decl-noun-a-m|werkadag}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*werkadag}}
+  ** {{desc|ang|weorcdæġ}}
+  *** {{desc|enm|werkday}}
+  **** {{desc|en|workday}}
+  ** {{desc|goh|werctag}}
+  *** {{desc|gmh|werctag}}
+  **** {{desc|de|Werktag}}
+  * {{desc|non|verkdagr}}

@@ -1,0 +1,65 @@
+pageid: 4677671
+ns: 118
+title: Reconstruction:Proto-Germanic/fardiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*per-}}
+
+  A ti-stem derived from {{m|gem-pro|*faraną||to go, travel}}, representing
+  Pre-Germanic {{m|ine-pro||*portís}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸɑr.ðiz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[journey]], [[voyage]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*fardi}}
+
+  * {{desc|gmq-pro|}}
+
+  ** {{desc|non|ferð}}
+
+  *** {{desc|is|ferð}}
+
+  *** {{desc|fo|ferð}}
+
+  *** {{desc|no|ferd}}
+
+  *** {{desc|gmq-osw|færþ}}
+
+  **** {{desc|sv|färd}}
+
+  *** {{desc|gmq-oda|færth}}
+
+  **** {{desc|da|færd}}
+
+  *** {{desc|gmq-bot|fäl}}
+
+
+  ====Further reading====
+
+  * {{R:gem:EDPG}}
+
+  * {{R:ODS online|fart|færd|fært}}

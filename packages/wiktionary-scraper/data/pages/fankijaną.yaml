@@ -1,0 +1,29 @@
+pageid: 7501242
+ns: 118
+title: Reconstruction:Proto-Germanic/fankijaną
+wikitext: |-
+  {{reconstruction}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*finkaną|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈfɑŋ.ki.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="Kroonen">{{R:gem:EDPG|*fangjan-~*fankjan-|127}}</ref>
+
+  # to cause to [[sparkle]], [[ignite]]
+
+  ====Inflection====
+  {{gem-conj-wk1|fank|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*fangijaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*fankijan}}
+
+  ===References===
+  <references/>

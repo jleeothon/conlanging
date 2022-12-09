@@ -1,0 +1,36 @@
+pageid: 5606875
+ns: 118
+title: Reconstruction:Proto-Germanic/skankô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*(s)keng-||to limp; be crooked; slant}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskɑŋ.kɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # that which is [[bent]]
+  # {{topics|gem-pro|Body parts}} [[shank]]; [[thigh]]
+  #: {{syn|gem-pro|*skinkô|*þeuhą}}
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*skankaz}}
+  * {{l|gem-pro|*skankijaną}}
+  * {{l|gem-pro|*skankōną}}
+  * {{l|gem-pro|*skinkô}}
+  * {{l|gem-pro|*skunkô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skankō}}
+  * {{desc|non|skakki}}
+  ** {{desc|no|skonk}} {{i|dialectal}}
+  ** {{desc|sv|skank}}
+  ** {{desc|da|skank}}

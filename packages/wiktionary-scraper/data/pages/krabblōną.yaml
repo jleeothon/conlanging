@@ -1,0 +1,95 @@
+pageid: 7418345
+ns: 118
+title: Reconstruction:Proto-Germanic/krabblōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{l|gem-pro|*krablōną}}<ref>{{R:gem:HGE|*krablōjanan|220}}</ref>
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*krabbô|*-lōną|t1=crab}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkrɑb.blɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # {{lb|gem-pro|intransitive}} to [[crawl]], [[paw]]
+
+  # {{lb|gem-pro|transitive}} to [[touch]] continuously
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|krabbl}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*krabbōną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|*crabblian}} {{q|possibly (?)}}
+
+  ** {{desc|enm|*crabbelen}}
+
+  *** {{desc|en|crabble}} {{i|likely borrowed from Dutch or Low German}}
+
+  * {{desc|ofs|*krablia|*kravlia}}
+
+  ** {{desc|stq|krabbelje|krauelje}}
+
+  * {{desc|osx|*krabbalōn}}
+
+  ** {{desc|gml|krabbelen|krabbeln}}
+
+  *** {{desc|nds-de|krabbeln}}
+
+  * {{desc|odt|*krabbalon}}
+
+  ** {{desc|dum|krabbelen}}
+
+  *** {{desc|nl|krabbelen}}
+
+  * {{desc|goh|*krabbalōn}}
+
+  ** {{desc|gmh|krabbelen}}
+
+  *** {{desc|de|krabbeln}}
+
+  * {{desc|non|krafla}} (< {{l|gem-pro|*krablōną}})
+
+  ** {{desc|is|krafla}}
+
+  ** {{desc|da|kravle}}
+
+  ** {{desc|sv|kravla}}
+
+  ** {{desc|gmq-bot|kraul}} (< {{l|gem-pro|*krabulōną}}?), {{l|gmq-bot|kräväl}}
+  (< {{l|gem-pro|*krabilōną}}?)
+
+  ** {{desc|enm|crawlen|bor=1}}
+
+  *** {{desc|en|crawl}}
+
+  *** {{desc|sco|crowl}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,38 @@
+pageid: 7429675
+ns: 118
+title: Reconstruction:Proto-Germanic/halbō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Substantivization of {{m|gem-pro|*halbaz|t=half}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑl.βɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*xalbō|155}}</ref>
+
+  # [[half]], [[side]]
+  #: {{syn|gem-pro|*halbiþō}}, {{l|gem-pro|*halbǭ}}
+  # [[direction]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*halbu}}
+  ** {{desc|ang|healf}}
+  *** {{desc|enm|half}}
+  **** {{desc|en|half}}
+  ** {{desc|osx|halba|halva}}
+  *** {{desc|gml|halve}}
+  ** {{desc|odt|halva}}
+  *** {{desc|dum|halve}}
+  ** {{desc|goh|halba|halb}}
+  *** {{desc|gmh|halbe}}
+  * {{desc|got|𐌷𐌰𐌻𐌱𐌰𐌹}} {{q|dative singular}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,89 @@
+pageid: 7313550
+ns: 118
+title: Reconstruction:Proto-Germanic/hrūtaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  {{IPA|gem-pro|/ˈxruː.tɑ.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  Derived from the iterative verb {{m|gem-pro|*hruttōną|t=to snore, roar}}.<ref
+  name="Kroonen"></ref>
+
+
+  ====Alternative forms====
+
+  * {{l|gem-pro|*hreutaną}}
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref name="Kroonen">{{R:gem:EDPG|head=*hreutan- ~
+  *hrutan-|page=246}}</ref><ref name='Orel I'>{{R:gem:HGE|*xreutanan ~ xrūtanan
+  I|page=186}}</ref>
+
+
+  # To [[snore]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-st|class=2|hrūt|hraut|hrut|hrut}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*hrūtan}}
+
+  * {{desc|non|hrjóta}} (<''*hreutaną'')
+
+  ** {{desc|fo|rjóta|róta}}
+
+  ** {{desc|is|hrjóta}}
+
+  ** {{desc|ovd|riuota}}
+
+
+  ===Etymology 2===
+
+  Related to {{m|gem-pro|*hreusaną|t=to fall}}
+
+
+  ====Alternative forms====
+
+  * {{l|gem-pro|*hreutaną}}
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref name='Orel II'>{{R:gem:HGE|*xreutanan ~ xrūtanan
+  II|page=186}}</ref>
+
+
+  # To [[fall]], [[fly]], [[move]] quickly
+
+
+  =====Inflection=====
+
+  {{gem-conj-st|class=2|hrūt|hraut|hrut|hrut}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*hrūtan}}
+
+  * {{desc|non|hrjóta}}
+
+  ** {{desc|is|hrjóta}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,67 @@
+pageid: 4496638
+ns: 118
+title: Reconstruction:Proto-Germanic/maitaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*mey-||small}} or {{m|ine-pro|*meh₂y-||to cut}}
+  (compare {{cog|cel-pro|*mailos|t=bald}}).
+
+
+  In view of the likely causative {{m|gem-pro|*maidijaną||to hurt}}, Kroonen
+  assumes the original form of this verb was {{m|gem-pro||*maiþaną}}, from
+  Pre-Germanic {{m|ine-pro||*moitH-}}, with contamination from the related
+  {{m|gem-pro|*mittōną||to cut}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmɑi̯.tɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[cut]], [[hew]]
+
+  # to [[cut off]], [[sever]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=7a|mait|memait|memait|mait}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*maitilaz}}
+
+  * {{l|gem-pro|*maitijaną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*maitan}}
+
+  * {{desc|non|meita|pos=wk vb}} (through confluence with
+  {{m|gem-pro|*maitijaną}})
+
+  ** {{desc|is|meita}}
+
+  ** {{desc|no|meita}}
+
+  ** {{desc|sv|meta}}
+
+  * {{desc|got|𐌼𐌰𐌹𐍄𐌰𐌽}}
+
+
+  ====Further reading====
+
+  * {{R:gem:EDPG}}

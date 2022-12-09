@@ -1,0 +1,33 @@
+pageid: 7314855
+ns: 118
+title: Reconstruction:Proto-Germanic/siukį̄
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*seukaz|*-į̄}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsiu̯.kĩː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*seukīn|326}}</ref>
+
+  # [[sickness]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*siukī}}
+  * {{desc|non|*sýki}}
+  ** {{desc|is|sýki}}
+  ** {{desctree|non|barnsýki|der=1}}
+  ** {{desctree|non|hugsýki|t=anxiety|der=1}}
+  ** {{desctree|non|ǫfundarsýki|der=1}}
+  ** {{desctree|non|ǫfundsýki|der=1}}
+  * {{desc|got|𐍃𐌹𐌿𐌺𐌴𐌹}}
+
+  ===References===
+  <references/>

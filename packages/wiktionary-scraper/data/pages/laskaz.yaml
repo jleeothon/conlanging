@@ -1,0 +1,41 @@
+pageid: 5553839
+ns: 118
+title: Reconstruction:Proto-Germanic/laskaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  Compare also {{cog|la|laxus||loose, slack, yielding}}.
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[false]]
+  # [[weak]], [[feeble]], [[lax]]
+  # [[mellow]], [[soft]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|lask}}
+
+  ====Related terms====
+  * {{l|gem-pro|*lasiwaz}}
+  * {{l|gem-pro|*laskwaz}}
+  * {{l|gem-pro|*laskijaną}}
+  * {{l|gem-pro|*laskô}}
+  * {{l|gem-pro|*leskaną}}
+
+  ====Descendants====
+  * {{desc|ang||alt=*lysċ||alt2=*lesċ}}
+  ** {{desc|enm|lusch}}
+  *** {{desc|en|lush}}
+  * {{desc|osx|lask}}
+  ** {{desc|gml|lasch|las}}
+  *** {{desc|nds|lusch}}
+  * {{desc|odt||alt=*lask}}
+  ** {{desc|dum|lasch}}
+  * {{desc|non|lǫskr}}
+  ** {{desc|enm||alt=*lusk|bor=1}}
+  *** {{desc|en|lusk}}

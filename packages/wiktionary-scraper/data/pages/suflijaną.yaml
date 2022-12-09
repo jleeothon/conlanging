@@ -1,0 +1,28 @@
+pageid: 7466550
+ns: 118
+title: Reconstruction:Proto-Germanic/suflijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*suflą|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsu.ɸli.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*sufljanan|385}}</ref>
+
+  # to [[furnish]] with [[sowl]]
+
+  ====Inflection====
+  {{gem-conj-wk1|sufl|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*suflijan}}
+  * {{desc|non|syfla}}
+  ** {{desc|is|syfla}}
+
+  ===References===
+  <references/>

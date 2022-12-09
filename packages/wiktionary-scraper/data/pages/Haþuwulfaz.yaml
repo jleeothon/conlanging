@@ -1,0 +1,47 @@
+pageid: 8514361
+ns: 118
+title: Reconstruction:Proto-Germanic/Haþuwulfaz
+wikitext: >-
+  {{rfd|gem-pro|only attested in one branch}} 
+
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{compound|gem-pro|*haþuz|t1=battle, fight|*wulfaz|t2=wolf}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑ.θu.ˌwul.ɸɑz/}}
+
+
+  ===Proper noun===
+
+  {{gem-proper noun|m}}
+
+
+  # {{given name|gem-pro|male}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|nopl=1}}
+
+
+  ====Related terms====
+
+  * See {{l|gem-pro|*haþuz}} and {{l|gem-pro|*wulfaz}}.
+
+
+  ====Descendants====
+
+  *
+  {{desc|gmq-pro|ᚺᛡᚦᚢᚹᚢᛚᚨᚠᛉ|tr1=hAþuwulafʀ|ᚺᛡᚦᚢᚹᛟᛚᛡᚠᛦ|tr2=hAþuwolAfʀ|ᚺᛡᚦᚢᚹᛟᛚᛡᚠᛡ}}
+
+  ** {{desc|non|*Hǫðulfr}}
+
+  *** {{desc|enm|Hathulf|bor=1}}

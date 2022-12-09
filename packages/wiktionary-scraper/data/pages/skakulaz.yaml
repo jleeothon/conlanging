@@ -1,0 +1,91 @@
+pageid: 4034402
+ns: 118
+title: Reconstruction:Proto-Germanic/skakulaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*skakilaz}}
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*skakaną|*ilaz|alt2=*ulaz|id2=agent noun}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈskɑ.ku.lɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # a [[link]] in a [[chain]]
+
+  # a [[fetter]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*skakul|*skakil}}
+
+  ** {{desc|ang|sċacul|sċeacul|sċeacel}}; {{l|ang|sċecel}} (<
+  {{l|gem-pro|*skakilaz}})
+
+  *** {{desc|enm|scheakel|schakle|schakylle|schakkyl}}
+
+  **** {{desc|sco|schakill|schaikill|scheckell}}
+
+  **** {{desc|en|shackle}}
+
+  ***** {{desc|da|sjækkel|bor=1}}
+
+  ***** {{desc|no|sjakkel|bor=1}}
+
+  ***** {{desc|sv|schackel|bor=1}}
+
+  ***** {{desc|mh|jakōļ|bor=1}}
+
+  ** {{desc|ofs|*skakel}}
+
+  *** {{desc|stq|Schakel}}
+
+  *** {{desc|fy|skeakel}} (possibly from Middle Dutch)
+
+  ** {{desc|osx|*skakul}}
+
+  *** {{desc|gml|schākel}}
+
+  **** {{desc|nds-de|Schakel}}
+
+  **** {{desc|bor=1|de|Schäckel|Schäkel}}
+
+  ** {{desc|odt|*skakul}}
+
+  *** {{desc|dum|scākel|schakel|schaeckel}}
+
+  **** {{desc|nl|schakel}}
+
+  * {{desc|non|skǫkull}}; {{l|non|skekill}} (< {{l|gem-pro|*skakilaz}})
+
+  ** {{desc|is|skökull|skakel|skekil}}
+
+  ** {{desc|no|skakel}}
+
+  ** {{desc|sv|skakel}}
+
+  ** {{desc|da|skagle}}
+
+  ** {{desc|gmq-bot|skackahl|skökkel}}

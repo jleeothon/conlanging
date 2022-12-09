@@ -1,0 +1,94 @@
+pageid: 6162031
+ns: 118
+title: Reconstruction:Proto-Germanic/durīz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*dʰwer-}}
+
+  Reformed as a feminine i-stem from earlier {{m|gem-pro|*durī}}, from
+  Pre-Germanic {{m|ine-pro||*dʰúrih₁|double doors}}, dual of
+  {{m|ine-pro||*dʰúrom}} (see {{m|gem-pro|*durą}}), from
+  {{der|gem-pro|ine-pro|*dʰwer-}}. Compare {{cog|xcl|դուրք}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/duriːz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f-p}}
+
+
+  # [[door]]
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*durą}}
+
+  * {{l|gem-pro|*durō}}
+
+
+  ====Descendants====
+
+  * {{desc|osx|duri}}
+
+  * {{desc|odt|duri}}
+
+  ** {{desc|dum|dore|duere|dure}}
+
+  *** {{desc|nl|deur}}
+
+  * {{desc|goh|turi}}
+
+  ** {{desc|gmh|türe}}
+
+  *** {{desc|de|Tür|Türe}}
+
+  *** {{desc|cim|tüar}}
+
+  *** {{desc|lb|Dier}}
+
+  *** {{desc|mhn|tir}}
+
+  *** {{desc|pdc|Dier}}
+
+  *** {{desc|yi|טיר}}
+
+  * {{desc|non|dyrr|g=f-p}}
+
+  ** {{desc|is|dyr|g=f-p}}
+
+  ** {{desc|fo|dyr|g=f-p}}
+
+  ** {{desc|nrn|dør|g=f-p}}
+
+  ** {{desc|no|dør|g=f-s}}, {{g|m-s}}
+
+  ** {{desc|gmq-osw|dyr|g=f-p}} or {{g|n-p}}, later {{g|f-s}}
+
+  *** {{desc|sv|dörr|g=c-s}}
+
+  ** {{desc|da|dør|g=c-s}}
+
+  ** {{desc|gmq-bot|dyr|g=f-s}} (''dat.'' {{l|gmq-bot|dyrĕn}}, ''gen.''
+  {{l|gmq-bot|dura-}}, {{g|p}} {{l|gmq-bot|dura}})
+
+  ** {{desc|gmq-gut|dur|duri}}
+
+  ** {{desc|gmq-scy|dør}} {{g|m-s}}
+
+  ** {{desc|ovd|dörer|g=f-p}} (''dat.'' {{l|ovd|dörum}})
+
+
+  ===References===
+
+  * {{R:gem:EDPG|page=110}}

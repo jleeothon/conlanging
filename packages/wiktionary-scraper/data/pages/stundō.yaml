@@ -1,0 +1,104 @@
+pageid: 2619049
+ns: 118
+title: Reconstruction:Proto-Germanic/stundō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*stut-|t=prop}}, from {{m|ine-pro|*steh₂-|t=to
+  stand}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstun.dɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[mark]], [[marker]]
+
+  # [[point]] in [[time]]
+
+  # period of time
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*standaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*stundu}}
+
+  ** {{desc|ang|stund}}
+
+  *** {{desc|enm|stound|stounde|stond}}
+
+  **** {{desc|sco|stound|stownd}}
+
+  **** {{desc|en|stound}}
+
+  ** {{desc|ofs|stunde}}
+
+  *** {{desc|frr|stuwn}}
+
+  *** {{desc|stq|Stuunde}} {{qualifier|rare}}
+
+  **** {{desc|stq|stuuns|der=1|pos=adv}}
+
+  ** {{desc|osx|stunda}}
+
+  *** {{desc|gml|stunde}}
+
+  **** {{desc|nds-de|Stünne|Stünn}}
+
+  **** {{desc|nds|Stünn}}
+
+  ** {{desc|odt|*stunda}}
+
+  *** {{desc|dum|stonde|stont}}
+
+  **** {{desc|nl|stond}}
+
+  ** {{desctree|goh|stunta}}
+
+  * {{desc|non|stund}}
+
+  ** {{desc|is|stund}}
+
+  ** {{desc|fo|stund}}
+
+  ** {{desc|nb|stund}}¨
+
+  ** {{desc|nn|stund}}¨
+
+  ** {{desc|gmq-osw|stund}}
+
+  *** {{desc|sv|stund}}
+
+  *** {{desc|fi|bor=1|tunti}}
+
+  ** {{desc|da|stund}}
+
+  ** {{desc|gmq-bot|stann|stånn|stot}}
+
+  * {{desc|got|*𐍃𐍄𐌿𐌽𐌳𐌰}}
+
+  ** {{desc|ca|estona|bor=1}}
+
+
+  {{topics|gem-pro|Time}}

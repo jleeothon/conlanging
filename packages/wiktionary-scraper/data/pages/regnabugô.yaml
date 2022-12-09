@@ -1,0 +1,33 @@
+pageid: 4026223
+ns: 118
+title: Reconstruction:Proto-Germanic/regnabugô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰewgʰ-}}
+  From {{compound|gem-pro|*regną|*bugô|t1=rain|t2=bow}}.
+
+  ===Pronunciation===
+  *{{IPA|gem-pro|/ˈreɣ.nɑˌbu.ɣɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[rainbow]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*regnabogō}}
+  * {{desc|non|regnbogi}}
+  ** {{desc|is|regnbogi}}
+  ** {{desc|fo|regnbogi}}
+  ** {{desc|no|regnboge|regnbue}}
+  ** {{desc|gmq-osw|ræghnbughi|ræghnboghi}}
+  *** {{desc|sv|regnbåge}}
+  ** {{desc|da|regnbue}}
+  ** {{desc|ovd|raingenbugi}}
+  ** {{desc|gmq-gut|regnbuge|regnbugi}}

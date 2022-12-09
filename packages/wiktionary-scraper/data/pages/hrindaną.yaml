@@ -1,0 +1,34 @@
+pageid: 4587171
+ns: 118
+title: Reconstruction:Proto-Germanic/hrindaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*kret-||to beat, strike, hit}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxrin.dɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*xrenđanan|page=185}}</ref>
+
+  # to [[push]], [[thrust]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|hrind|hrand|hrund|hrund}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hrandijaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*hrindan}}
+  ** {{desc|ang|hrindan}}
+  * {{desc|non|hrinda}}
+  ** {{desc|is|hrinda}}
+  ** {{desc|fo|rinda}}
+  ** {{desc|gmq-osw|rinda}}
+
+  ===References===
+  <references/>

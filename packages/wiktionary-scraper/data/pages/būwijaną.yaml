@@ -1,0 +1,41 @@
+pageid: 7422036
+ns: 118
+title: Reconstruction:Proto-Germanic/būwijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*bōwwjaną}}<ref>{{R:gem:HGE|*bōwwjanan|53}}</ref>
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰuH-}}
+  Related to {{m|gem-pro|*būaną|t=to dwell}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbuː.wi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[settle]], to [[inhabit]]
+
+  ====Inflection====
+  {{gem-conj-wk1|būw|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*būwijan}}
+  ** {{desc|ang|bȳan}}
+  ** {{desc|ofs|būwa}}
+  * {{desc|non|byggja|byggva}} {{q|if not from {{l|gem-pro|*būwāną}} instead}}
+  ** {{desc|is|byggja}}
+  ** {{desc|fo|byggja}}
+  ** {{desc|nn|byggja|byggje|byge}}
+  ** {{desc|nb|bygge}}
+  ** {{desc|sv|bygga}}
+  ** {{desc|da|bygge}}
+  ** {{desc|ovd|byddja}}
+  ** {{desc|sco|bor=1|big}}
+
+  ===References===
+  <references/>

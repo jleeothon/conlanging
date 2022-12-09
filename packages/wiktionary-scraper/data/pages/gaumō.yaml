@@ -1,0 +1,43 @@
+pageid: 7004395
+ns: 118
+title: Reconstruction:Proto-Germanic/gaumō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gʰowe-|t=to heed}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣɑu̯.mɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[heed]]; [[attention]]
+
+  ====Declension====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*gaumijaną}}
+
+  ====Descendants====
+  * {{desc|ang|ġīeme}}
+  ** {{desc|enm|ȝieme|ȝeme|yeme|yem}}
+  * {{desc|ofs|gāme}}
+  * {{desc|osx|gōma}}
+  ** {{desc|gml|gôme|goum}}
+  * {{desc|odt|gouma}}
+  ** {{desc|dum|gome}}
+  *** {{desc|nl|goom}}
+  * {{desc|goh|gouma}}
+  ** {{desc|gmh|goume|goum}}
+  *** {{desc|de|Gaume}}
+  * {{desc|non|gaum}}
+  ** {{desc|is|gaum}}
+  ** {{desc|no|gaum}}
+  ** {{desc|bor=1|enm|gome|gom}}
+  *** {{desc|en|gaum}}
+  **** {{desc|en|gormless|der=1}}
+  *** {{desc|sco|gome|goam}}

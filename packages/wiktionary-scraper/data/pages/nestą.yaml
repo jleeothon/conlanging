@@ -1,0 +1,71 @@
+pageid: 2948215
+ns: 118
+title: Reconstruction:Proto-Germanic/nestą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈnes.tɑ̃/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*sed-}}
+
+  From {{inh|gem-pro|ine-pro|*nisdós||seat}}, with an uncommonly consistent
+  {{w|Germanic a-mutation|a-mutation}} from ''i'' → ''e'' seen across all the
+  descendants (matched only by {{m|gem-pro|*weraz}}) and a change to the neuter
+  gender.
+
+
+  ====Noun====
+
+  {{gem-noun|n}}
+
+
+  # [[nest]]
+
+
+  =====Declension=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*nest}}
+
+
+  ===Etymology 2===
+
+  A to-stem derived from {{m|gem-pro|*nesaną}}.
+
+
+  ====Noun====
+
+  {{gem-noun|n}}
+
+
+  # [[provisions]]; [[food]] and supplies
+
+
+  =====Declension=====
+
+  {{gem-decl-noun-a-n|nest}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|nest}}
+
+  * {{desc|goh|*nest}}
+
+  ** {{desc|goh|*fartnest|der=1}}
+
+  ** {{desc|der=1|goh|weganest|weganist}}
+
+  * {{desc|non|nest}}

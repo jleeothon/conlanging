@@ -1,0 +1,58 @@
+pageid: 3608139
+ns: 118
+title: Reconstruction:Proto-Germanic/faludaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Origin {{unk|gem-pro|nocap=1}}. Perhaps related to {{m+|gmq-osw|fala||a plain,
+  heath}}. Compare also {{cog|la|Palātium||one of the seven hills of Rome}},
+  {{cog|la|palātum||vault, roof of the mouth, palate}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # an enclosed space, [[enclosure]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|fald|falod|falud}}
+
+  ** {{desc|enm|fald|fold|folde}}
+
+  *** {{desc|sco|fald|fauld}}
+
+  *** {{desc|en|fold}}
+
+  *** {{desc|cy|ffald|bor=1}}
+
+  * {{desc|osx|faled}}
+
+  ** {{desc|gml|valde|valt|vālt}}
+
+  *** {{desc|gmq-oda|fald|bor=1}}
+
+  **** {{desc|da|fold}}
+
+  *** {{desc|sv|fålla|bor=1}}
+
+  * {{desc|odt|*faled}}
+
+  ** {{desc|dum|vaelde|vaelt}}
+
+  *** {{desc|nl|vaalt}}
+
+  **** {{desc|af|vaalt}}

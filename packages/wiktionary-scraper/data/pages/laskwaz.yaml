@@ -1,0 +1,90 @@
+pageid: 6873571
+ns: 118
+title: Reconstruction:Proto-Germanic/laskwaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*laskuz}}
+
+
+  ===Etymology===
+
+  {{unk|gem-pro|title=Uncertain}}. Possibly from earlier
+  {{m|gem-pro|*latskwaz}}, from {{m|gem-pro|*lataz|t=slow, late}}, from
+  {{der|gem-pro|ine-pro|*leh₁d-|t=to let, leave}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈlɑsk.wɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[sluggish]], [[dull]], [[lazy]], [[idle]]
+
+  # [[limp]], [[lax]], [[feeble]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*lasiwaz}}
+
+  * {{l|gem-pro|*laskaz}}
+
+  * {{l|gem-pro|*laskijaną}}
+
+  * {{l|gem-pro|*laskô}}
+
+  * {{l|gem-pro|*leskaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*laskw|*lasku}}
+
+  ** {{desc|ang|*lesċ|*lysċ}} (< {{m+|gmw-pro|*lasku}}, <
+  {{m+|gem-pro|*laskuz}})
+
+  *** {{desc|enm|lusch}}
+
+  **** {{desc|en|lush}}
+
+  ** {{desc|osx|*lask}}
+
+  *** {{desc|gml|lasch|las}}
+
+  **** {{desc|nds|lasch}}
+
+  ***** {{desc|de|lasch|bor=1}}
+
+  ** {{desc|odt|*lask}}
+
+  *** {{desc|dum|lasc|lasch}}
+
+  **** {{desc|nl|las}}
+
+  * {{desc|non|lǫskr|laskr}}
+
+  ** {{desc|is|löskur}}
+
+  ** {{desc|gmq-bot|lösk}}
+
+  ** {{desc|gmq-jmk|lǫsk}}
+
+  ** {{desc|bor=1|enm|*lusk}}
+
+  *** {{desc|en|lusk}}

@@ -1,0 +1,37 @@
+pageid: 4707718
+ns: 118
+title: Reconstruction:Proto-Germanic/þurznaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ters-}}
+  From {{suffix|gem-pro|*þursuz|t1=dry|*-naną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθurz.nɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:EDPG|*þurzu-|554}}</ref>
+
+  # {{lb|gem-pro|intransitive}} to [[dry]] out
+  # to [[wither]]
+
+  ====Inflection====
+  {{gem-conj-wk4|þurzn}}
+
+  ====Related terms====
+  * {{l|gem-pro|*þersaną}}
+
+  ====Descendants====
+  * {{desc|non|þorna}}
+  ** {{desc|is|þorna}}
+  ** {{desc|fo|torna}}
+  * {{desc|got|𐌲𐌰𐌸𐌰𐌿𐍂𐍃𐌽𐌰𐌽|der=1}}
+
+  ====Further reading====
+  * {{R:gem:PIEPG|page=217}}
+
+  ===References===
+  <references/>

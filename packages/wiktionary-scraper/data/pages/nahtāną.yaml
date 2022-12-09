@@ -1,0 +1,27 @@
+pageid: 8078229
+ns: 118
+title: Reconstruction:Proto-Germanic/nahtāną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*nahts|*-āną|t1=night}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈnɑx.tɑː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[become]] [[night]]
+
+  ====Inflection====
+  {{gem-conj-wk3|naht}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*nahtēn}}
+  * {{desc|non|nátta}}
+  ** {{desc|is|nátta}}
+
+  {{top|gem-pro|Night}}

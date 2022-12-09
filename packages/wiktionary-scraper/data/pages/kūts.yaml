@@ -1,0 +1,32 @@
+pageid: 7344433
+ns: 118
+title: Reconstruction:Proto-Germanic/kūts
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+  ===Etymology===
+  Of {{onomatopoeic|gem-pro|title=imitative}} origin
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/kuːts/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[bird of prey]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*kūtijô||kite}}
+
+  ====Descendants====
+  * {{desc|goh|*kūz}}
+  ** {{desc|gmh|kūz|kiuzelīn|kützlīn}}
+  *** {{desc|de|Kauz}}
+
+  ===References===
+  * {{R:Duden|Kauz}}
+
+  {{topics|gem-pro|Birds of prey}}

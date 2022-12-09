@@ -1,0 +1,41 @@
+pageid: 5129845
+ns: 118
+title: Reconstruction:Proto-Germanic/hwatjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*hwataz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxʷɑt.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*xwatjanan|199}}</ref>
+
+  # to [[sharpen]]; [[whet]]
+  # to [[instigate]]; [[incite]]
+
+  ====Inflection====
+  {{gem-conj-wk1|hwat|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*hwatō}}
+  * {{l|gem-pro|*hwatōną}}
+  * {{l|gem-pro|*hwētaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hwattjan}}
+  * {{desc|non|hvetja}}
+  ** {{desc|is|hvetja}}
+  ** {{desc|fo|hvøtja}}
+  ** {{desc|no|kvetja}}
+  ** {{desc|gmq-osw|hvætia}}
+  *** {{desc|sv|vättja|hvättja}} {{i|dialectal}}
+  ** {{desc|da|hvæde|hvætte}} {{i|dialectal}}
+  ** {{desc|gmq-bot|gwätt|weti}}
+  * {{desc|got|𐌲𐌰𐍈𐌰𐍄𐌾𐌰𐌽}}
+
+  ===References===
+  <references/>

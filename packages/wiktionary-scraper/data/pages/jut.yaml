@@ -1,0 +1,33 @@
+pageid: 2324275
+ns: 118
+title: Reconstruction:Proto-Germanic/jut
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*yú}}, dual of {{m|ine-pro|*túh₂}}.
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*jit||North-West Germanic}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/jut/}}
+
+  ===Pronoun===
+  {{gem-pron}}
+
+  # [[you]] [[two]]
+
+  ====Inflection====
+  {{gem-decl-ppron}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*jit}}
+  * {{desctree|non|it}}
+  * {{desc|got|𐌾𐌿𐍄}}
+
+  ===References===
+  <references/>
+
+  {{cln|gem-pro|personal pronouns}}

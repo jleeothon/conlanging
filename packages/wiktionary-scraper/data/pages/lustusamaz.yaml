@@ -1,0 +1,27 @@
+pageid: 7088320
+ns: 118
+title: Reconstruction:Proto-Germanic/lustusamaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*lustuz|*-samaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlus.tu.ˌsɑ.mɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:ang:DOE|521|PGmc *lustusamaz}}</ref>
+
+  # [[pleasing]]; [[pleasant]]
+
+  ====Declension====
+  {{gem-decl-adj-a|lustusam}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*lustusam}}
+  * {{desc|got|𐌻𐌿𐍃𐍄𐌿𐍃𐌰𐌼𐌰}}
+
+  ===References===
+  <references/>

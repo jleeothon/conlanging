@@ -1,0 +1,69 @@
+pageid: 2419741
+ns: 118
+title: Reconstruction:Proto-Germanic/þūsundī
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Either from {{inh|gem-pro|ine-pro|*tuHsont-}}, {{m|ine-pro|*tuHsenti-}}, cf.
+  also {{cog|sla-pro|*tysǫti}} / {{m|sla-pro|*tysęti|gloss=thousand}} and
+  {{cog|lt|tūkstantis}}, or – as Kroonen suggests – from
+  {{inh|gem-pro|ine-pro|*tuHsdḱmto-}}, compounded from a prefix
+  {{m|ine-pro|*tuHs-}} (from {{m|ine-pro|*tewh₂-}}) and
+  {{m|ine-pro|*ḱm̥tóm||hundred}}.<ref>{{R:gem:EDPG|*þūshundī-|554}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈθuː.sun.diː/}}
+
+
+  ===Noun===
+
+  {{enum|gem-pro|*hundą||cardinal number|1000}}
+
+  {{gem-noun|f}}
+
+  {{cln|gem-pro|cardinal numbers}}
+
+
+  # a [[thousand]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{desctree|gmw-pro|*þūsundi}}
+
+  * {{desc|non|þúsund}}
+
+  ** {{desc|is|þúsund}}
+
+  ** {{desc|fo|túsund}}
+
+  ** {{desc|nn|tusund}}
+
+  ** {{desc|nb|tusen}}
+
+  *** {{desc|nn|tusen|bor=1}}
+
+  ** {{desctree|gmq-osw|þūsand}}
+
+  ** {{desctree|da|tusinde}}
+
+  *** {{desc|nb|tusende}}
+
+  * {{desc|got|𐌸𐌿𐍃𐌿𐌽𐌳𐌹|tr=þūsundi}}
+
+
+  ===References===
+
+  <references/>

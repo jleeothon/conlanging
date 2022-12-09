@@ -1,0 +1,34 @@
+pageid: 4534748
+ns: 118
+title: Reconstruction:Proto-Germanic/galaubijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*lewbʰ-|id=love}}
+  From {{prefix|gem-pro|*ga|*laubijaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑ.ˈlɑu̯.βi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[praise]]; [[commend]]
+  # to [[allow]]; [[grant]]
+  # to [[believe]]
+
+  ====Inflection====
+  {{gem-conj-wk1|galaub|j=ij}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*ungalaubijandz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*galaubô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*galaubijan}}
+  * {{desc|non|*gleyfa}}, {{desctree|non|nolb=1|leyfa}}
+  * {{desc|got|𐌲𐌰𐌻𐌰𐌿𐌱𐌾𐌰𐌽}}

@@ -1,0 +1,95 @@
+pageid: 3887098
+ns: 118
+title: Reconstruction:Proto-Germanic/lūtilaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*lutilaz|*luttilaz}}
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*lūtaną|*ilaz|id2=adjectival}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈluː.ti.lɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # {{lb|gem-pro|West Germanic}} [[bent]]; tending to [[stoop]]; [[crouching]]
+
+  # {{lb|gem-pro|West Germanic}} [[little]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|lūtil}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*lītilaz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*luttikaz}}
+
+  * {{l|gem-pro|*luttiz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*lūtil}}
+
+  ** {{desc|ang|lȳtel}}; {{l|ang|lȳt}}, {{l|ang|lyt}}
+
+  *** {{desc|enm|lutil|alt=lütil|lytel|litel}}; {{l|enm|lyte}}, {{l|enm|lite}};
+  {{l|enm|lut|lüt}}, {{l|enm|lyt}}, {{l|enm|lit}}
+
+  **** {{desc|sco|lytil}}; {{l|sco|litil}}
+
+  **** {{desc|en|little}}; {{l|en|lite#Etymology_2|lite}}
+
+  ** {{desc|ofs|*lit|lītik|littik}}
+
+  *** {{desc|stq|litje}}
+
+  *** {{desc|fy|lyts}}
+
+  ** {{desc|osx|luttil}}; {{l|osx|lūt}}, {{l|osx|lut}}, {{l|osx|liut}},
+  {{l|osx|luttic}}, {{l|osx|luttik}}
+
+  *** {{desc|gml|lüttel}}; {{l|gml|lüttik}}, {{l|gml|lutich}}; {{l|gml|lüttinc}}
+
+  **** {{desc|nds|lütt|lüttje}}
+
+  ** {{desc|odt|*luttil}}; {{l|odt|*lut}}, {{l|odt|luttik}}
+
+  *** {{desc|dum|lettel|luttel}}; {{l|dum|*lut}}; {{l|dum|luttik}}
+
+  **** {{desc|nl|luttel}}; {{l|nl|lutje}}
+
+  **** {{desc|vls|lettel|alt=lette(l)}}; {{l|vls|letje}}
+
+  ** {{desc|goh|luzil|luzzil|liuzil}}; {{l|goh|*luz}} > {{l|goh|luzzen}},
+  {{l|goh|luzzīc}}, {{l|goh|luzzīg}}; {{l|goh|luzzi}}
+
+  *** {{desc|gmh|lüzzel|lützel}}; {{l|gmh|lützen}}
+
+  **** {{desc|de|lützel}} {{qualifier|dialectal}}
+
+  **** {{desc|gmh|der=1|Lützelburc}}
+
+  ***** {{desc|lb|Lëtzebuerg}}

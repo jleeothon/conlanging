@@ -1,0 +1,42 @@
+pageid: 5849448
+ns: 118
+title: Reconstruction:Proto-Germanic/spilþijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*(s)pelH-}}
+  From {{af|gem-pro|*spelþą|t1=spoil, ruin|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈspil.θi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*spelþjanan|364}}</ref>
+
+  # To [[spoil]], [[ruin]]
+  # To [[kill]], [[murder]]
+
+  ====Inflection====
+  {{gem-conj-wk1|spilþ|j=ij}}
+
+  ===Alternative reconstructions===
+  * {{alter|gem-pro|alt=*spillijaną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*spelþōną}}
+  * {{l|gem-pro|*spilþiz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*spilþijan}}
+  * {{desc|non|spilla}}
+  ** {{desc|is|spilla}}
+  ** {{desc|fo|spilla}}
+  ** {{desc|no|spille}}
+  ** {{desc|gmq-osw|spilla}}
+  *** {{desc|sv|spilla}}
+  ** {{desc|da|spilde}}
+
+  ===References===
+  <references />

@@ -1,0 +1,57 @@
+pageid: 2949533
+ns: 118
+title: Reconstruction:Proto-Germanic/hafraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*habraz}}
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*kápros||buck, male goat}}. Cognate with
+  {{cog|la|caper||goat}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑ.ɸrɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[he-goat]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*habrô}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*hafr}}
+
+  * {{desc|non|hafr}}
+
+  ** {{desc|is|hafur}}
+
+  ** {{desc|fo|havur}}
+
+  * {{desc|fiu-fin-pro|*kapris|bor=1}} {{see desc}}
+
+
+  [[Category:gem-pro:Goats]]

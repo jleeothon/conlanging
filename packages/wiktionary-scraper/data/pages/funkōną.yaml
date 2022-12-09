@@ -1,0 +1,56 @@
+pageid: 7501187
+ns: 118
+title: Reconstruction:Proto-Germanic/funkōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*penk-}}, a zero-grade iterative to the primary
+  strong verb {{m|gem-pro||*finhaną}} and the secondary strong verb
+  {{m|gem-pro|*finkaną||to sparkle, to burn}}.<ref
+  name="Kroonen">{{R:gem:EDPG|*funkōn-|160}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈfuŋ.kɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name="Kroonen"></ref>
+
+
+  # to [[sparkle]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|funk}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*funkōn}}
+
+  ** {{desc|odt|*funkon}}
+
+  *** {{desc|dum|vonken}}
+
+  **** {{desc|nl|vonken}}
+
+  ** {{desc|goh|*funkōn}}
+
+  *** {{desc|gmh|vunken}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

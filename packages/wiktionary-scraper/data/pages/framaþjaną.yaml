@@ -1,0 +1,36 @@
+pageid: 7711163
+ns: 118
+title: Reconstruction:Proto-Germanic/framaþjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*per-}}
+  From {{suffix|gem-pro|*framaþiz|t1=foreign, alien, strange|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸrɑ.mɑθ.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*framaþjanan|page=111}}</ref>
+
+  # to [[alienate]], to [[estrange]]
+
+  ====Inflection====
+  {{gem-conj-wk1|framaþ|j=j}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*framiþijan}}
+  ** {{desc|goh|fremiden}}
+  *** {{desc|gmh|fremeden}}
+  ** {{desc|gmw-pro|*gaframiþijan|der=1}}
+  *** {{desc|goh|gifremiden}}
+  ** {{desc|gmw-pro|*uʀframiþijan|der=1}}
+  *** {{desc|ang|āfremdan}}
+  *** {{desc|ofs|urfremethia|urfremda}}
+  *** {{desc|goh|irfremiden}}
+  * {{desc|got|𐍆𐍂𐌰𐌼𐌰𐌸𐌾𐌰𐌽}}
+
+  ===References===
+  <references/>

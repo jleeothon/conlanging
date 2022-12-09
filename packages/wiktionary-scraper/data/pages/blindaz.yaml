@@ -1,0 +1,77 @@
+pageid: 2749772
+ns: 118
+title: Reconstruction:Proto-Germanic/blindaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰlendʰ-}}
+
+  From Pre-Germanic {{m|ine-pro||*bʰlendʰos}}, an adjective derived from
+  {{m|gem-pro|*blandaną||to make murky}}<ref>{{R:gem:EDPG}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈblin.dɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[blind]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|blind}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*blindį̄}}
+
+  * {{l|gem-pro|*blindijaną}}
+
+  * {{l|gem-pro|*blindōną}}
+
+  * {{l|gem-pro|*starablindaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*blind}}
+
+  * {{desc|non|blindr}}
+
+  ** {{desc|is|blindur}}
+
+  ** {{desc|fo|blindur}}
+
+  ** {{desc|nrn|blind}}
+
+  ** {{desc|no|blind}}
+
+  ** {{desc|gmq-osw|blinder}}
+
+  *** {{desc|sv|blind}}
+
+  ** {{desc|da|blind}}
+
+  ** {{desc|gmq-gut|blindar|blindur}}
+
+  * {{desc|got|𐌱𐌻𐌹𐌽𐌳𐍃}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Vision}}

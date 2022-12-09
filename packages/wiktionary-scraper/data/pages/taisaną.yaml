@@ -1,0 +1,23 @@
+pageid: 7433862
+ns: 118
+title: Reconstruction:Proto-Germanic/taisaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*deh₂y-|t=to separate, divide}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtɑi̯.sɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[tug]], to [[pull]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7a|tais|tetais|tetaiz|taiz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*taisan}}

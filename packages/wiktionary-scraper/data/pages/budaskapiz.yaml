@@ -1,0 +1,25 @@
+pageid: 7490144
+ns: 118
+title: Reconstruction:Proto-Germanic/budaskapiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*budą|*skapiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbu.ðɑ.skɑ.piz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[message]]
+  # [[ordinance]], [[command]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bodaskapi}}
+  * {{desc|non|boðkapr}}

@@ -1,0 +1,61 @@
+pageid: 3586138
+ns: 118
+title: Reconstruction:Proto-Germanic/strangiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*strengʰ-||rope, cord; to be tight}}. Cognate with
+  {{cog|grc|στραγγός||tied together, entangled, twisted}},
+  {{cog|ga|srincne||umbilical cord}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[string]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*strangijaną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*strangi}}
+
+  * {{desc|non|strengr}}
+
+  ** {{desc|is|strengur}}
+
+  ** {{desc|fo|strongur}}
+
+  ** {{desc|no|streng}}
+
+  ** {{desc|gmq-osw|strænger}}
+
+  *** {{desc|sv|sträng}}
+
+  ** {{desc|gmq-oda|stræng}}
+
+  *** {{desc|da|streng}}
+
+  ** {{desc|gmq-bot|sträng}}
+
+  ** {{desc|ovd|straingg}}
+
+  ** {{desc|gmq-gut|strängg}}
+
+  ** {{desc|ga|sreang|bor=1}}

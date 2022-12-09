@@ -1,0 +1,68 @@
+pageid: 4022625
+ns: 118
+title: Reconstruction:Proto-Germanic/huppijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Possibly from {{der|gem-pro|ine-pro|*kewb-||to bend; a bend, joint}}; see
+  {{m|gem-pro|*hupiz||hip}}. Or, derived from the iterative
+  {{m|gem-pro|*huppōną|*huppōną ~ *hubbōną}}, from 
+
+  a {{m+|ine-pro|*kewp-|*kup-}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxup.pi.jɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # {{lb|gem-pro|West Germanic}} to [[move]] up and down; [[hop]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk1|hupp|j=ij}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*huppōną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*huppijan}}
+
+  ** {{desc|ang|*hyppan}}
+
+  *** {{desc|enm|huppen|alt=hüppen|hyppen|hippen}}
+
+  **** {{desc|sco|hip}}
+
+  **** {{desc|en|hip}} (dialectal)
+
+  ** {{desc|osx|*huppian}}
+
+  *** {{desc|gml|huppen}}
+
+  **** {{desc|nds-de|hüppen}}
+
+  ** {{desc|goh|*hupfēn}}
+
+  *** {{desc|gmh|hupfen}}
+
+  **** {{desc|de|hüpfen}}
+
+  * {{desc|non|*hyppa}}
+
+  ** {{desc|bor=1|unc=1|fiu-fin-pro|*hüp'äit'äk}} {{see desc}}

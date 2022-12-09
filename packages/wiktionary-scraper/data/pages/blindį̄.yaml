@@ -1,0 +1,31 @@
+pageid: 7314940
+ns: 118
+title: Reconstruction:Proto-Germanic/blindį̄
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*blindaz|*-į̄}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈblin.dĩː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*blendīn|48}}</ref>
+
+  # [[blindness]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*blindī}}
+  ** {{desc|osx|blindi}}
+  ** {{desc|goh|blintī}}
+  *** {{desc|gmh|blinde}}
+  **** {{desc|de|Blinde}}
+  * {{desctree|non|blindi|g=f}}
+
+  ===References===
+  <references/>

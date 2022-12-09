@@ -1,0 +1,34 @@
+pageid: 3627252
+ns: 118
+title: Reconstruction:Proto-Germanic/fersnō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*tpḗrsneh₂}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[heel]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|fiersn}}
+  * {{desc|osx|fersna}}
+  ** {{desc|gml|versene|alt=vērsene|verse|alt2=vērse}}
+  * {{desc|odt|*fersana}}
+  ** {{desc|dum|versene}}
+  *** {{desc|nl|verzen|vaars}} {{i|dialectal}}
+  * {{desc|goh|fersana|fersna}}
+  ** {{desc|gmh|vërsene|vërsen|vërse}}
+  *** {{desc|de|Ferse}}
+  *** {{desc|lb|Feescht}}
+  *** {{desc|wym|faoś}}
+  *** {{desc|cim|vèerzinga|alts=1|der=1}}
+  * {{desc|got|𐍆𐌰𐌹𐍂𐌶𐌽𐌰}}
+
+  {{topics|gem-pro|Anatomy}}

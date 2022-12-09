@@ -1,0 +1,57 @@
+pageid: 4234965
+ns: 118
+title: Reconstruction:Proto-Germanic/flatją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*flataz|*-ją}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸlɑt.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # a [[level]] surface; level [[ground]]
+  # the [[floor]] of a house
+  # [[house]]; [[dwelling]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*flataz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*flatti}}
+  ** {{desc|ang|flett|flet}}
+  *** {{desc|enm|flet}}
+  **** {{desc|sco|flet}}
+  ***** {{desc|en|flat|bor=1}}
+  ****** {{desc|nl|flat|bor=1}}
+  **** {{desc|en|flet}}
+  ** {{desc|ofs|flett|flet}}
+  ** {{desc|osx|fletti|flett|flet}}
+  *** {{desc|gml|vlette|vlet}}
+  **** {{desc|nds|Flet}}
+  ***** {{desc|de|Flett|bor=1}}
+  ** {{desc|odt|*fletti}}
+  *** {{desc|dum|vlette|vlet}}
+  **** {{desc|nl|vlet}}
+  ** {{desc|goh|flezzi}}
+  *** {{desc|gmh|vletze|vlez}}
+  **** {{desc|de|Fletz|Flötz}}
+  * {{desc|gmq-pro|*ᚠᛚᚨᛏᛃᚨ}}
+  ** {{desc|non|flet}}
+  *** {{desc|is|flet|fleti}}
+  *** {{desc|fo|flet|g=f}}
+  *** {{desc|no|flet}}
+  *** {{desc|gmq-osw|flæt|flat}} (?)
+  *** {{desc|gmq-oda|flæt}}
+  **** {{desc|da|fled}}
+  ** {{desc|fiu-fin-pro|bor=1}}
+  *** {{desc|fi|lattia}}
+  *** {{desc|krl|late}}
+  *** {{desc|olo|late}}

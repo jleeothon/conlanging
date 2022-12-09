@@ -1,0 +1,25 @@
+pageid: 4396691
+ns: 118
+title: Reconstruction:Proto-Germanic/þēgiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*tek-|id=receive}}
+  {{vrd|gem-pro|*þigjaną|t=to accept|ger=1}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθɛːɣiz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # {{lb|gem-pro|North Germanic}} [[acceptable]], [[agreeable]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|non|þægr}}
+  ** {{desc|is|þægur}}

@@ -1,0 +1,74 @@
+pageid: 3592291
+ns: 118
+title: Reconstruction:Proto-Germanic/ūraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{l|gem-pro||*uzrô}}<ref
+  name="Gąsiorowski">{{cite-journal|first=Piotr|last=Gąsiorowski|title=The
+  Germanic reflexes of PIE ''*-sr-'' in the context of Verner's
+  Law|year=2012|journal=The Sound of Indo-European: Phonetics, Phonemics, and
+  Morphophonemics|editors=Benedicte Nielsen Whitehead, Thomas Olander, Birgit
+  Anette Olsen, and Jens Elmegard Rasmussen|page=120}}</ref>
+
+  * {{l|gem-pro|*ūrô}}; (later) {{l|gem-pro|*ūruz}}<ref
+  name="Kroonen">{{R:EDPG|page=561|head=*ūru-}}</ref><ref
+  name="Orel">{{R:gem:HGE|head=*ūruz|page=437}}</ref>
+
+
+  ===Etymology===
+
+  {{unk|gem-pro|title=Uncertain}}; hypotheses include:
+
+  * Cognate with {{cog|sa|उष्ट्र|tr=úṣṭra|t=buffalo}}, {{cog|fa|اشتر|tr=uštur}},
+  from {{der|gem-pro|ine-pro||*(H)us-r-(en-)|(red) bull, aurochs}}, from
+  {{m|ine-pro|*h₂ews-|*h₂ews-r-|dawn}} after its reddish color.<ref
+  name="Gąsiorowski"/> (See {{m|gem-pro|*austraz}}.)
+
+  * From Proto-Indo-European {{m|ine-pro|*wérsēn|*(u)rs-én-|male animal}}.<ref
+  name="Kroonen"/><ref name="Orel"/> Kroonen assumes that the ''an''-stem form
+  is original and was replaced dialectally by a ''u''-stem, to which he finds a
+  parallel development in {{m|gem-pro|*arô||eagle}}.
+
+  * From Proto-Indo-European {{m|ine-pro||*awǝ-}}, {{m|ine-pro||*ewǝ-|t=flowing
+  water}}, analogous to the derivation of {{m|gem-pro|*uhsô}}. If so, then
+  related to {{cog|non|úr|t=dampness, fine rain, drizzle}}, {{cog|ang|ēar|t=sea,
+  ocean}}. (See {{m|gem-pro|*auraz}}, {{m|gem-pro|*ūrą}}.) {{rfv-etym|gem-pro}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topics|gem-pro|Mammals}} [[aurochs]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*ūr}}
+
+  * {{desc|non|úrr}}
+
+  * {{desc|got|𐌿𐍂𐍃}}
+
+  * {{desctree|la|urus|bor=1|unc=1}}
+
+  * {{desc|fiu-fin-pro|*uros|bor=1|unc=1}} {{see desc}}
+
+  * {{desc|smi-pro|*orēs|bor=1|unc=1}} {{see desc}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,36 @@
+pageid: 2632180
+ns: 118
+title: Reconstruction:Proto-Germanic/laibijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*leyp-}}
+  From {{affix|gem-pro|*lībaną|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑi̯.βi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[leave]] [[behind]], to leave [[remaining]]
+
+  ====Inflection====
+  {{gem-conj-wk1|laib|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*laibijan}}
+  * {{desc|non|leifa}}
+  ** {{desc|is|leifa}}
+  ** {{desc|fo|leiva}}
+  ** {{desc|no|-}}
+  *** {{desc|nb|leive}}
+  *** {{desc|nn|leiva|leive}}
+  ** {{desctree|gmq-osw|lēva}}
+  ** {{desc|non-ogt|laifa}}
+  * {{desc|got|*𐌻𐌰𐌹𐌱𐌾𐌰𐌽}} (in {{l|got|𐌱𐌹𐌻𐌰𐌹𐌱𐌾𐌰𐌽}})
+
+  ===References===
+  <references/>

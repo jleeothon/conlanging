@@ -1,0 +1,26 @@
+pageid: 2663633
+ns: 118
+title: Reconstruction:Proto-Germanic/kunþiją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵneh₃-}}
+  Ultimately from {{der|gem-pro|ine-pro|*ǵneh₃-||to know}}. {{rfe|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkun.θi.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[knowledge]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|non|kynni}}
+  ** {{desc|is|kynni}}
+  * {{desc|got|𐌺𐌿𐌽𐌸𐌹}}

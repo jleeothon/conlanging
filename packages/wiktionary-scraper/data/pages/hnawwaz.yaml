@@ -1,0 +1,54 @@
+pageid: 6357120
+ns: 118
+title: Reconstruction:Proto-Germanic/hnawwaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*hnawwuz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*knew-|t=to scrape; scratch; rub}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxnɑw.wɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[tight]]; [[narrow]]
+  # [[sparse]]; [[meager]]; [[lean]]; [[scarce]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|hnaww}}
+
+  ====Related terms====
+  * {{l|gem-pro|*hnēwwaz}}
+  * {{l|gem-pro|*hnewwaną}}
+
+  ====Descendants====
+  * {{desc|ang|hnēaw}}
+  * {{desc|ofs|*nāu}}
+  ** {{desc|stq|nau}}
+  ** {{desc|fy|nau}}
+  * {{desc|osx|*hnauw}}
+  ** {{desc|gml|nouwe|nau}}
+  *** {{desc|nds-de|nau}}
+  *** {{desc|gml|genouwe|der=1}}
+  **** {{desc|nds-de|genau}}
+  ***** {{desc|stq|gnau|bor=1}}
+  * {{desc|odt|*nauw}}
+  ** {{desc|dum|nauwe}}
+  *** {{desc|nl|nauw}}
+  * {{desc|goh|*hnouw|*nouw}}
+  ** {{desc|gmh|nouwe|nou}}
+  *** {{desc|der=1|gmh|genouwe|genoue}}
+  **** {{desc|de|genau}}
+  * {{desc|non|hnøggr}}
+  ** {{desc|is|hnöggur}}
+  ** {{desc|sv|njugg}}
+  ** {{desc|bor=1|enm|nig|nigard}}
+  *** {{desc|en|niggard}}
+  **** {{desc|en|niggardly}}
+  *** {{desc|sco|negart|niggard}}

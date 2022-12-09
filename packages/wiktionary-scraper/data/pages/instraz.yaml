@@ -1,0 +1,34 @@
+pageid: 3485532
+ns: 118
+title: Reconstruction:Proto-Germanic/instraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[intestine]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|osx|*instar}}
+  ** {{desc|gml|inster|inser}}
+  *** {{desc|nds|inser}}
+  * {{desc|odt|*instar}}
+  ** {{desc|dum|inster}}
+  * {{desc|non|ístr}}
+  ** {{desc|gmq-osw|ister|alt=īster}}
+  *** {{desc|sv|ister}}
+  ** {{desc|da|ister}}
+  * {{desc|fiu-fin-pro|*icra|bor=1}}
+  ** {{desc|fi|ihra}}
+  ** {{desc|krl|isra}}
+  ** {{desc|vep|izr}}
+
+  {{topics|gem-pro|Anatomy}}

@@ -1,0 +1,35 @@
+pageid: 3594691
+ns: 118
+title: Reconstruction:Proto-Germanic/bankô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰeg-|id=bend}}
+  Related to {{m|gem-pro|*bankiz||slope, hill, shelf}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑŋ.kɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[bank]], [[embankment]]
+  # a [[hill]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*bankiz}}
+
+  ====Descendants====
+  * {{desc|ang|banca}} (as in {{l|ang|hōbanca}})
+  ** {{desc|enm|banke}}
+  *** {{desc|sco|bank}}
+  *** {{desc|en|bank}}
+  * {{desctree|non|bakki}}
+
+  ===Further reading===
+  * {{R:OED}}

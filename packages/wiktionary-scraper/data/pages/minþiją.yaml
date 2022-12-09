@@ -1,0 +1,33 @@
+pageid: 7397846
+ns: 118
+title: Reconstruction:Proto-Germanic/minþiją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*munaną|t=to think, to consider, to believe}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmin.θi.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref>{{R:gem:HGE|*menþjan|268}}</ref>
+
+  # [[remembrance]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*mindiz}}
+  * {{l|gem-pro|*minþijaną}}
+  * {{l|gem-pro|*mundiz}}
+
+  ====Descendants====
+  * {{desc|non|minni}}
+  ** {{desc|is|minni}}
+  * {{desc|got|𐌲𐌰𐌼𐌹𐌽𐌸𐌹}}
+
+  ===References===
+  <references/>

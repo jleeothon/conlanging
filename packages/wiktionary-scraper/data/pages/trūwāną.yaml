@@ -1,0 +1,33 @@
+pageid: 7308023
+ns: 118
+title: Reconstruction:Proto-Germanic/trūwāną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*triwwiz|*-āną}}.<ref name="Kroonen"></ref>
+
+  ===Verb===
+  {{gem-verb}}<ref name="Kroonen">{{R:gem:EDPG|head=*trūēn-|page=523}}</ref>
+
+  # to [[trust]]
+
+  ====Inflection====
+  {{gem-conj-wk3|trūw}}
+
+  ====Descendants====
+  * {{desctree|ang|trūwian}}
+  * {{desc|ofs|triūwa|trōwa}}
+  * {{desc|osx|trauwian}}
+  * {{desc|odt|*triuwon}}
+  ** {{desc|dum|trouwen}}
+  *** {{desc|nl|trouwen}}
+  * {{desc|goh|trūwēn}}
+  ** {{desc|de|trauen}}
+  * {{desctree|non|trúa}}
+  ** {{desc|fo|trúgva}}
+  * {{desc|got|𐍄𐍂𐌰𐌿𐌰𐌽}}
+
+  ===References===
+  <references/>

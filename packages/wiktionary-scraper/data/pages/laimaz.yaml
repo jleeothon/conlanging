@@ -1,0 +1,43 @@
+pageid: 7420445
+ns: 118
+title: Reconstruction:Proto-Germanic/laimaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*ley-|t=slimy, sticky; to slip, slide}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑi̯.mɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[loam]], [[mud]], [[clay]]
+
+  ====Declension====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*laimô}}
+  * {{l|gem-pro|*laizą}}
+  * {{l|gem-pro|*līmaz}}
+
+  ====Descendants====
+  * {{desc|ang|lām}}
+  ** {{desc|enm|lam|lame|lome}}
+  *** {{desc|en|loam}}
+  *** {{desc|sco|lame|laim}}
+  * {{desc|ofs|*lēm}}
+  ** {{desc|stq|Leem}}
+  ** {{desc|fy|liem}}
+  * {{desc|osx|*lēm}}
+  ** {{desc|gml|lêm|leim|lehm}}
+  *** {{desc|nds-de|Lehm}}
+  * {{desc|odt|leim}}
+  ** {{desc|dum|leem}}
+  *** {{desc|nl|leem}}
+  * {{desc|goh|leim}}
+  ** {{desc|gmh|leim|lēm}}
+  *** {{desc|de|Lehm}} {{i|merged with Middle Low German}}

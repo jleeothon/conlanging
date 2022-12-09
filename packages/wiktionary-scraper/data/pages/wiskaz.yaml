@@ -1,0 +1,66 @@
+pageid: 4700895
+ns: 118
+title: Reconstruction:Proto-Germanic/wiskaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*wiskō}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*wisgéh₂}} (cf. the feminine ''ō''-stem variant
+  {{m|gem-pro|*wiskō}}), from the root {{m|ine-pro|*weys-}}. Cognate with
+  {{cog|la|virga||twig, shoot, rod}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[bundle]] of [[hay]]/[[straw]], [[wisp]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*wiskijaną}}
+
+
+  ====Descendants====
+
+  * {{desc|odt|*wisk}}
+
+  ** {{desc|dum|wisch}}
+
+  *** {{desc|nl|wis}}
+
+  * {{desc|goh|wisk}}
+
+  ** {{desc|de|Wisch}}
+
+  ** {{desc|lb|Wësch}}
+
+  * {{desc|non|visk|g=f}} (< {{m|gem-pro|*wiskō}})
+
+  ** {{desc|gmq-osw|visk}}
+
+  *** {{desc|sv|viska}}
+
+  ** {{desc|da|visk}}
+
+  ** {{desc|enm|wisk|bor=1}}
+
+  *** {{desc|en|whisk}}
+
+  * {{desc|fiu-fin-pro|*vihko|bor=1}} (< {{l|gem-pro|*wiskō}}) {{see desc}}

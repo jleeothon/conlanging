@@ -1,0 +1,41 @@
+pageid: 8911120
+ns: 118
+title: Reconstruction:Proto-Germanic/fēlaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{unk|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɛː.lɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[terrible]], [[dreadful]], [[horrible]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|fēl}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*fēlijaną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*faluz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*fāl}}
+  ** {{desc|gmw-pro|*fāland|der=1}}
+  *** {{desc|osx|*fāland}}
+  **** {{desc|gml|vālant}}
+  *** {{desc|goh|fālant}}
+  **** {{desc|gmh|fālant|vālant}}
+  ***** {{desc|de|Valand}}
+  *** {{desc|gmw-pro|*fālandini|der=1}}
+  **** {{desc|osx|*fālandin|*fālandina}}
+  ***** {{desc|gml|vālentin|valentinne}}
+  *** {{desc|goh|*fālantin|*fālantina}}
+  **** {{desc|gmh|vālantīn|vālantinne}}
+  * {{desc|non|fála|der=1}}

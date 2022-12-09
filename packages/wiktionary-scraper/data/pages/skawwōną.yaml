@@ -1,0 +1,96 @@
+pageid: 3669411
+ns: 118
+title: Reconstruction:Proto-Germanic/skawwōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*(s)kewh₁-}}
+
+  From {{der|gem-pro|ine-pro|*(s)kewh₁-||to heed, look, feel, take note of}}.
+  Cognate with {{cog|la|cavēre||to beware, heed}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈskɑw.wɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[look]], [[see]], [[watch]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|skaww}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*skauniz}}
+
+  * {{l|gem-pro|*skuþōną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|sċēawian}}
+
+  ** {{desc|enm|schawen|schewen|schowen}}; {{l|enm|scheawing}},
+  {{l|enm|scewing}}
+
+  *** {{desc|en|show|qq=archaic {{m|en|shew}}}}
+
+  *** {{desc|sco|shaw}}
+
+  ** {{desc|ang|sċēawung|der=1}}
+
+  *** {{desc|enm|schewinge|schewynge}}
+
+  **** {{desc|en|showing}}
+
+  **** {{desc|sco|shawing|showing}}
+
+  *** {{desc|bor=1|fro|escauvinghe|escauwage}}; {{l|fro|scawageour}}
+
+  **** {{desc|bor=1|enm|scavage|schevage|schewage}}; {{l|en|scavager}}
+
+  ***** {{desc|sco|scavanger|scawanger}}
+
+  ***** {{desc|en|scavage}}; {{l|en|scavenger}}
+
+  * {{desc|ofs|skāwia|skōwia|skōia}}
+
+  ** {{desc|stq|scoe}}
+
+  ** {{desc|fy|skôgje|skoaie|skouje}}
+
+  * {{desc|osx|skauwōn}}
+
+  ** {{desc|gml|schouwen}}
+
+  *** {{desc|nds-de|schauen|schoen}}
+
+  **** {{desc|nds-de|wohrschoen|der=1}}
+
+  * {{desctree|odt|scouwon}}
+
+  * {{desc|goh|skouwōn|scouwōn}}
+
+  ** {{desc|gmh|schouwen}}
+
+  *** {{desc|de|schauen}}
+
+  * {{desc|fiu-fin-pro||bor=1}}
+
+  ** {{desc|et|kava}}
+
+  ** {{desc|fi|kaava}}

@@ -1,0 +1,27 @@
+pageid: 7315144
+ns: 118
+title: Reconstruction:Proto-Germanic/deupalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*deupaz|*-līkaz|t1=deep}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdeu̯.pɑ.liː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*deupa-līkaz|71}}</ref>
+
+  # [[deeply]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|ang|dēoplīċ}}
+  * {{desc|non|djúpligr}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,37 @@
+pageid: 7412940
+ns: 118
+title: Reconstruction:Proto-Germanic/melkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*melkaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmel.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:HGE|*melkaz|267}}</ref>
+
+  # [[giving]] [[milk]], [[milch]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|ang|meolc|melc}}
+  * {{desc|osx|*melk}}
+  ** {{desc|gml|melk}}
+  * {{desc|odt|*melc}}
+  ** {{desc|dum|melc}}
+  * {{desc|goh|melc|melk}}
+  ** {{desc|gmh|mëlch}}
+  *** {{desc|gsw|mëlch}}
+  *** {{desc|de|melk}}
+  * {{desc|non|mjólk}}
+  ** {{desc|is|mjólkur}}
+  ** {{desc|nn|mjølk}} {{q|{{l|nn|fastmjølk}}, {{l|nn|lausmjølk}}}}
+
+  ===References===
+  <references/>

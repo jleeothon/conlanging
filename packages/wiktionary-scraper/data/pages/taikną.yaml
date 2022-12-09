@@ -1,0 +1,78 @@
+pageid: 3617496
+ns: 118
+title: Reconstruction:Proto-Germanic/taikną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*deyḱ-}}
+
+  From the root of {{m|gem-pro|*taikijaną}}, ultimately from
+  {{der|gem-pro|ine-pro|*deyḱ-||to show, indicate, point out, declare}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈtɑi̯k.nɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[sign]], [[token]], [[symbol]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*furaitaikną}}
+
+  * {{l|gem-pro|*taiknijaną}}
+
+  * {{l|gem-pro|*taiknōną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*taikn}}
+
+  * {{desc|non|teikn}}
+
+  ** {{desc|is|teikn}}
+
+  ** {{desc|fo|tekn}}
+
+  ** {{desc|nn|teikn|tekn}}
+
+  ** {{desc|ovd|tekken}}
+
+  ** {{desc|gmq-bot|teken}}
+
+  ** {{desc|gmq-osw|tēkn}}
+
+  *** {{desc|sv|tecken}}
+
+  ** {{desc|gmq-oda|tēkn}}
+
+  *** {{desc|da|tegn}}
+
+  **** {{desc|nb|tegn}}
+
+  ** {{desc|gmq-gut|tekken}}
+
+  ** {{desc|gmq-scy|teğn}}
+
+  * {{desc|got|𐍄𐌰𐌹𐌺𐌽𐍃}} ( < {{l|gem-pro||*taikniz}}, although an a-stem
+  neuter may be attested; see entry) {{see desc}}
+
+  * {{desc|fiu-fin-pro|*taika|bor=1}}  {{see desc}}

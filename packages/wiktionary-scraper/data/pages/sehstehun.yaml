@@ -1,0 +1,42 @@
+pageid: 2420662
+ns: 118
+title: Reconstruction:Proto-Germanic/sehstehun
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Compound of {{m|gem-pro|*sehs}} + {{m|gem-pro|*tehun}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsexs.te.xun/}}
+
+  ===Numeral===
+  {{enum|gem-pro|*fimftehun|*sebuntehun|cardinal number|16}}
+  {{gem-num|*sehtatehundô}}
+
+  # [[sixteen]]
+
+  ====Derived terms====
+  * {{desc|ang|sixtīene}}
+  ** {{desc|enm|sextene}}, {{l|enm|sixtene}}
+  *** {{desc|en|sixteen}}
+  * {{desc|ofs|sextīne}}
+  ** {{desc|fy|sechstjin}}
+  * {{desc|osx|sehstein}}
+  * {{desc|odt|*sestian}}
+  ** {{desc|nl|zestien}}
+  *** {{desc|af|sestien}}
+  * {{desc|goh|sehszehan}}
+  ** {{desc|gmh|sehzehen}}
+  *** {{desc|cim|zèchsane|alts=1}}
+  *** {{desc|de|sechzehn}}
+  *** {{desc|lb|siechzéng}}
+  *** {{desc|yi|זעכצן}}
+  * {{desc|non|sextán}}
+  ** {{desc|is|sextán}}
+  ** {{desc|fo|sekstan}}
+  ** {{desc|no|seksten}}
+  ** {{desc|gmq-osw|sæxtan}}, {{l|gmq-osw|siæxtān}}
+  *** {{desc|sv|sexton}}
+  ** {{desc|da|seksten}}

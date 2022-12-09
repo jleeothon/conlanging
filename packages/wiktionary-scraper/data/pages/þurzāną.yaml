@@ -1,0 +1,29 @@
+pageid: 7569932
+ns: 118
+title: Reconstruction:Proto-Germanic/þurzāną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*þursuz|*-āną|t1=dry}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθur.zɑː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:EDPG|head=*þurzēn-|pages=553}}</ref>
+
+  # to [[be]] [[dry]]
+
+  ====Inflection====
+  {{gem-conj-wk3|þurz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þorʀēn}}
+  * {{desc|non|*þurra}}
+  ** {{desc|gmq-osw|*þurra|*þorra}}
+  *** {{desc|sv|torra}}
+
+  ===References===
+  <references/>

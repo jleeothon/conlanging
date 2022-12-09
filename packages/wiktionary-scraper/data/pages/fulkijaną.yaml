@@ -1,0 +1,29 @@
+pageid: 6029917
+ns: 118
+title: Reconstruction:Proto-Germanic/fulkijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*fulką|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸul.ki.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # To [[assemble]] [[people]]
+  # To [[muster]] [[troops]]
+
+  ====Inflection====
+  {{gem-conj-wk1|fulk|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*fulkijan}}
+  * {{desc|non|fylkja}}
+  ** {{desc|is|fylkja}}
+  ** {{desc|nn|fylkes}}
+  ** {{desc|gmq-osw|fylkia}}
+  *** {{desc|sv|fylka}}

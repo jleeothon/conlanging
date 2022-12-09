@@ -1,0 +1,80 @@
+pageid: 2780822
+ns: 118
+title: Reconstruction:Proto-Germanic/hwaþeraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*kʷ-}}
+
+  From {{inh|gem-pro|ine-pro|*kʷóteros}}, from {{m|ine-pro|*kʷos||which}}. 
+  Cognate with {{cog|sa|कतर|tr=katará}}, {{cog|grc|πότερος}},
+  {{cog|sla-pro|*koterъjь}} / {{m|sla-pro|*kotorъjь}}, {{cog|la|uter}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxʷɑ.θe.rɑz/}}
+
+
+  ===Determiner===
+
+  {{gem-det}}
+
+
+  # [[which]], [[what]] {{gloss|of two, interrogative}}
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*hwaþerazuh}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*hwaz}}
+
+  * {{l|gem-pro|*hwarjaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*hwaþar}}
+
+  * {{desc|non|hvaðarr|hvárr}}
+
+  ** {{desc|is|hvor}}; {{l|is|hvorki}} {{q|from {{m+|non|hvárr|hvárt}} +
+  {{m|non|-gi}}}}
+
+  ** {{desc|fo|hvørki}}
+
+  ** {{desc|nn|kvar|korkje|kven}}
+
+  ** {{desc|gmq-osw|hvar|alt=hvār}}; {{l|gmq-osw|hvarke}}, {{l|gmq-osw|hvarkin}}
+
+  *** {{desc|sv|var}}; {{l|sv|varken}}
+
+  ** {{desc|da|hver}}
+
+  *** {{desc|nb|hver}}
+
+  ** {{desc|gmq-bot|hódt|hwȯssskjä}}
+
+  * {{desc|got|𐍈𐌰𐌸𐌰𐍂}}
+
+
+  ====Further reading====
+
+  * {{R:gem:PIEPG}}
+
+
+  {{cln|gem-pro|interrogative determiners}}

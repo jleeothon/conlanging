@@ -1,0 +1,27 @@
+pageid: 7315216
+ns: 118
+title: Reconstruction:Proto-Germanic/erþōkundaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*erþō|*kundaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈer.θɔː.ˌkun.ðɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*erþa-kundaz|85}}</ref>
+
+  # [[terrestrial]], of [[earthly]] [[birth]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|ang|eorþcund}}
+  * {{desc|got|𐌰𐌹𐍂𐌸𐌰𐌺𐌿𐌽𐌳𐍃}}
+
+  ===References===
+  <references/>

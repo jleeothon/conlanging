@@ -1,0 +1,26 @@
+pageid: 3839881
+ns: 118
+title: Reconstruction:Proto-Germanic/sundaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*suntos||strong, vigorous, active, healthy}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsun.dɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[healthy]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|sund}}
+
+  ====Related terms====
+  * {{l|gem-pro|*swinþaz}}, {{l|gem-pro|*swinþijaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sund}}

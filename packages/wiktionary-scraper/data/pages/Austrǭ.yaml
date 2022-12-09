@@ -1,0 +1,126 @@
+pageid: 2899779
+ns: 118
+title: Reconstruction:Proto-Germanic/Austrǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+  {{wikipedia|Ēostre}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*h₂ews-||dawn}} or {{m|ine-pro|*h₂wes-||to dawn}}.
+
+
+  If the ancestral formation is {{m|ine-pro|*h₂ewsreh₂}}, {{cog|lt|aušrà}},
+  dial. {{m|lt|auštrà|gloss=dawn}}, is identical in formation, as is
+  {{cog|grc|αὔρᾱ||(esp. cool) breeze, fresh air of the morning}}, if from
+  {{cog|grk-pro|*aúhrā}} (< ''*h₂éwsreh₂''). {{cog|sa|उस्रा|tr=usrā́-||dawn,
+  morning}} (from {{m|ine-pro|*h₂usreh₂}}) only differs by the zero-grade in the
+  root.
+
+
+  Also compare {{cog|sla-pro|*utro||morning, dawn}} (with variants including
+  ''*ustro'', from {{cog|ine-bsl-pro|*aušra-|*auš(t)ra-|dawn, morning}}) and
+  {{cog|sq|err||darkness}} (if from {{m|sqj-pro|*ausra||twilight}}). For the
+  epenthetic ''-t-'' in Proto-Germanic (also widespread in Balto-Slavic),
+  compare {{m|gmw-pro|*þimstr||dark, dusky}}.
+
+
+  All of these may go back to a Proto-Indo-European adjective
+  {{m|ine-pro|*h₂us-ró-}} (> {{cog|sa|उस्र|tr=usrá-||reddish, ruddy, bright,
+  matutinal}}) ~ {{m|ine-pro|*h₂éws-ro-||of the dawn or morning, [[matutinal]];
+  eastern}}, derived from a r-stem noun {{m|ine-pro|*h₂us-r-}} (forms belonging
+  to such a formation are attested in the oldest
+  Vedic<ref>{{R:ine:EWAia|vol=1|page=236}}</ref>), explaining the differences in
+  ablaut and gender. {{cog|cel-pro|*wāsrī}} from {{m|ine-pro|*h₂wōsrih₂}} (>
+  {{cog|sga|fáir}}) is close as well.
+
+
+  See also the noun {{m|ine-pro|*h₂éwsōs}} and its descendants, including
+  {{cog|la|Aurōra}}, {{cog|grc|Ἠώς}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑu̯s.trɔ̃ː/}}
+
+
+  ===Proper noun===
+
+  {{gem-proper noun|f}}<ref>{{R:gem:EDPG|*austrōn-|43}}</ref>
+
+
+  # [[Easter]], springtime
+
+  # {{topics|gem-pro|Gods}} {{n-g|name of a [[goddess]]}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|nopl=1}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*austraz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*austrā}}
+
+  ** {{desctree|ang|ēastre}}
+
+  ** {{desc|ang|Ēastre|Ēostre|t2=goddess of spring and fertility}}
+
+  *** {{desc|en|Eostre|bor=1}}
+
+  ** {{desc|ofs|āsteron}}
+
+  ** {{desc|osx|*ōstara|*ōstarūn}}
+
+  *** {{desc|gml|ôsteren|ôstern}}
+
+  **** {{desc|nds-de|Oostern}}
+
+  **** {{desc|pdt|Oostren}}
+
+  ** {{desc|odt|*ōstera}}
+
+  *** {{desc|odt|ōstermānoth|der=1|t=April|lit=[[Eastermonth]]}}
+
+  ** {{desc|goh|ōstra|ōstrūn|ōstarūn}}
+
+  *** {{desc|gmh|ōstre|ōstere|ōster}}
+
+  **** {{desc|bar|-}}
+
+  ****: {{desc|cim|Oastarn}}
+
+  ****: {{desc|mhn|Oastern}}
+
+  **** {{desc|de|Ostern}}
+
+  **** {{desc|hrx|Oostre}}
+
+  **** {{desc|lb|Ouschteren}}
+
+  **** {{desc|gmw-ecg|Ustern}}
+
+  * {{desc|sla-pro|bor=1}}
+
+  ** {{desc|csb|Jastrë|Jastra}}
+
+  ** {{desc|pox|jostrǻi}}
+
+  ** {{desc|dsb|jatšy}}
+
+  ** {{desc|hsb|jutry}}
+
+
+  ===References===
+
+  <references/>

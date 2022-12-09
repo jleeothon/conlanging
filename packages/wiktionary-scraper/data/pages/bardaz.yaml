@@ -1,0 +1,31 @@
+pageid: 3627258
+ns: 118
+title: Reconstruction:Proto-Germanic/bardaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*bʰardʰéh₂}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑr.ðɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|*bardaz|36}}</ref>
+
+  # {{top|gem-pro|Body parts}} [[beard]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*bardalausaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bard}}
+  * {{desctree|non|barð|qq1=< *barðą|g=n}}
+  * {{desc|gme-cgo|bars}}
+
+  ===References===
+  {{reflist}}

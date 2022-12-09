@@ -1,0 +1,52 @@
+pageid: 3579550
+ns: 118
+title: Reconstruction:Proto-Germanic/fruþgô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*prew-}}
+
+  Pet-name form of {{affix|gem-pro|*frauþaz|alt1=*fruþ-|t1=frog|*-gô}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{lb|gem-pro|West Germanic}}{{topics|gem-pro|Amphibians}} [[frog]]
+
+  #: {{syn|gem-pro|*frauþaz|*fruskaz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*froþgō|*frokgō|*froggō}}
+
+  ** {{desctree|ang|frocga}}
+
+  ** {{desc|osx|*fruggo|*froggo}}
+
+  *** {{desc|unc=1|gml|pugge|pogge|poge}} {{q|possibly conflated with
+  {{m+|gml|padde|t=toad}}}}
+
+  **** {{desc|nds-de|Pogge|Pogg}}
+
+  **** {{desc|stq|Poage|bor=1}}
+
+  ** {{desc|odt|*fruggo|*froggo}}
+
+  *** {{desc|dum|pogge|pog|unc=1}} {{q|possibly conflated with
+  {{m+|dum|padde|t=toad}}}}
+
+  **** {{desc|fy|pogge|pôge|bor=1}}

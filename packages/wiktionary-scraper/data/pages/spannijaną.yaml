@@ -1,0 +1,37 @@
+pageid: 6938019
+ns: 118
+title: Reconstruction:Proto-Germanic/spannijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*spannaną|*-janą|id2=causative}}.
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*spannjanan|page=362}}</ref>
+
+  # to cause to [[stretch]]
+
+  ====Inflection====
+  {{gem-conj-wk1|spann|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*spannijan}}
+  ** {{desc|osx|*spennian}}
+  *** {{desc|gml|spennen}}
+  ** {{desc|goh|*spennen}}
+  *** {{desc|gmh|spennen}}<ref>{{R:Duden|spannen|w=spannen}}</ref>
+  * {{desc|non|spenna}}
+  ** {{desc|is|spenna}}
+  ** {{desc|fo|spenna}}
+  ** {{desc|gmq-oda|spænne}}
+  *** {{desc|da|spænde}}
+  ** {{desc|no|-}}
+  *** {{desc|nb|spenne}}
+  *** {{desc|nn|spenne|spenna}}
+  ** {{desc|gmq-osw|spænna}}
+  *** {{desc|sv|spänna}}<ref>{{R:runeberg.org|svetym|0941.html spänna}}</ref>
+
+  ===References===
+  <references/>

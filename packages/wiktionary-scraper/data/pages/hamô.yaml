@@ -1,0 +1,118 @@
+pageid: 5327752
+ns: 118
+title: Reconstruction:Proto-Germanic/hamô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*ḱem-}}
+
+  Borrowed from {{bor|gem-pro|fiu-fin-pro|*haama}} (see
+  {{cog|fi|haamu}}).<ref>{{cite-thesis|last=Hyllested|first=Adam|date=2014|title=Word
+  Exchange at the Gates of Europe: Five Millennia of Language
+  Contact|publisher=Det Humanistiske Fakultet, Københavns
+  Universitet|url=https://static-curis.ku.dk/portal/files/136022384/Ph.d._2015_Adam_Hyllested.pdf}}</ref>
+
+  Or inherited from {{der|gem-pro|ine-pro|*ḱom-on-}}, from
+  {{m|ine-pro|*ḱem-|*ḱom-}}, and related to {{cog|sa|शामुल्य||shirt}}.
+
+
+  ====Noun====
+
+  {{gem-noun|m}}
+
+
+  # [[cover]], [[skin]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun|g=m}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*līkahamô}}
+
+
+  =====Descendants=====
+
+  * {{desc|gmw-pro|*hamō}}
+
+  ** {{desc|ang|homa|hama}}
+
+  *** {{desctree|enm|hame}}
+
+  * {{desc|non|*hami|hamr}}
+
+  ** {{desc|is|hamur}}
+
+  ** {{desc|fo|hamur}}
+
+  ** {{desc|da|ham}}
+
+  ** {{desc|nb|ham}}
+
+  ** {{desc|nn|ham}}
+
+  ** {{desc|sv|hamn}}
+
+
+  ===Etymology 2===
+
+  From the same source as Etymology 1 above; also compare
+  {{m|gem-pro|*hamiþiją|t=shirt}}.
+
+
+  ====Noun====
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*haman-|206}}</ref><ref>{{R:nl:Etymologiebank|haam1}}</ref>
+
+
+  # {{senseid|gem-pro|collar}} [[clothes]], [[skirt]], [[fishnet]]
+
+  # [[harness]], [[collar]] for a horse
+
+
+  =====Descendants=====
+
+  * {{desc|gmw-pro|*hamō}}
+
+  ** {{desc|ofs|hama|homa}}
+
+  *** {{desc|frr|hame}}
+
+  ** {{desc|osx|hamo}}
+
+  *** {{desc|gml|hame}}, {{l|gmh|ham}}
+
+  ** {{desc|odt|*hamo}}
+
+  *** {{desc|dum|hame}}
+
+  **** {{desc|nl|haam|ham}}
+
+  **** {{desc|enm|hame|bor=1}}
+
+  ***** {{desc|en|hame}}
+
+  ***** {{desc|sco|hame}}
+
+  ** {{desc|goh|hamo}}
+
+  *** {{desc|gmh|hame|ham}}
+
+  **** {{desc|de|Hame|Hamen|Ham}} {{q|dialectal}}
+
+  * {{desc|got|*𐌷𐌰𐌼𐍉}}
+
+  ** {{desc|got|der=1|𐌲𐌰𐌷𐌰𐌼𐍉𐌽}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,62 @@
+pageid: 3657018
+ns: 118
+title: Reconstruction:Proto-Germanic/dajjǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*dʰeh₁(y)-}}
+
+  From {{m|gem-pro|*dajjaną||to suckle}}, from
+  {{der|gem-pro|ine-pro|*dʰeh₁(y)-||to suck, suckle}}. Cognate with
+  {{cog|sa|धेनुः||tr=dhénu|cow, milk-cow}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdɑj.jɔ̃ː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # a female deer, [[hind]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*daijā}}
+
+  ** {{desc|ang|dā}}
+
+  *** {{desc|enm|da|do}}
+
+  **** {{desc|sco|da|dae}}
+
+  **** {{desc|en|doe}}
+
+  *** {{desc|da|då|bor=1}}
+
+  *** {{desc|fo|dádýr|der=1|bor=1}}
+
+  *** {{desc|is|dádýr|der=1|bor=1}}
+
+  ** {{desc|goh|*tē}}
+
+  *** {{desc|gmh|*tē}}
+
+  **** {{desc|gsw|Te|alt=Tē}}
+
+
+  [[Category:gem-pro:Cervids]]

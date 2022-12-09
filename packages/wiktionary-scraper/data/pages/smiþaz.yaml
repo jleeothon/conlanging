@@ -1,0 +1,84 @@
+pageid: 3883977
+ns: 118
+title: Reconstruction:Proto-Germanic/smiþaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*smiþô||found in one compound in Gothic}}
+
+
+  ===Etymology===
+
+  Likely related to {{m|gem-pro|*smītaną}}, {{m|gem-pro|*smittōną|*smit(t)ōną|to
+  strike; to smudge}}, but the origin is {{unk|gem-pro|uncertain}}. Possibly
+  from {{der|gem-pro|ine-pro|*smey-||to smear, spread}}
+  {{suf|ine-pro||*-tós|alt2=*-t-|nocat=1}}, if the root is cognate with
+  {{cog|grc|σμάω||to smear, wipe}},<ref name="HGE"/> but this comes with formal
+  difficulties and the similarity may well be coincidental. For the semantics,
+  Orel compares {{noncog|sla-pro|*kaliti||to temper (of metals)}} versus
+  {{m|sla-pro|*kalъ||dirt}}—though their connection is also disputed—and assumes
+  an intermediate meaning “to dip [metal] into liquid”. Per Kroonen, the suffix
+  may be an agentive ''tu''-stem (see {{m+|ine-pro|*-tus}} and
+  {{m+|gem-pro|*-þuz}}), but no further etymology is given.<ref name="EDPG"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsmi.θɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|*smiþaz|354–355}}</ref>
+
+
+  # {{topics|gem-pro|Occupations|People}} [[craftsman]], [[smith]]
+
+
+  ====Alternative reconstructions====
+
+  * {{alt|gem-pro|*smiþuz||''u''-stem}}<ref
+  name="EDPG">{{R:gem:EDPG|*smiþu-|460}}</ref>
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*aizasmiþô}}
+
+  * {{l|gem-pro|*gulþasmiþaz}}
+
+  * {{l|gem-pro|*smiþjǭ}}
+
+  * {{l|gem-pro|*smiþōną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*gasmīþiją}}
+
+  * {{l|gem-pro|*smīþō}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*smiþ}}
+
+  * {{desctree|non|smiðr}}
+
+  * {{desc|got|𐌰𐌹𐌶𐌰𐍃𐌼𐌹𐌸𐌰|alt=*𐍃𐌼𐌹𐌸𐌰|tr=[[aizasmiþa|*smiþa]]}} (<
+  {{m|gem-pro||*smiþô}})
+
+
+  ===References===
+
+  <references/>

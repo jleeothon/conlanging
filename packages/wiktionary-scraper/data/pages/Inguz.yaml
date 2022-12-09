@@ -1,0 +1,115 @@
+pageid: 6628946
+ns: 118
+title: Reconstruction:Proto-Germanic/Inguz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro|Uncertain}}; possibly from {{m|gem-pro||*inguz}},
+  {{m|gem-pro||*unguz|t=mortal; man}}, from {{inh|gem-pro|ine-pro|*néḱus}}, from
+  {{suf|ine-pro|*neḱ-|t1=to die,
+  perish|*us|nocat=1}}.<ref>{{cite-journal|1944|{{w|Wolfgang Krause|Krause,
+  Wolfgang}}|Ing|Nachrichten der Akademie der Wissenschaften in Göttingen,
+  philologischhistorische Klaise|number=10|location=Göttingen}}</ref>
+
+
+  ===Proper noun===
+
+  {{gem-proper noun|m}}<ref>{{cite-journal|1990|Kniezsa, Veronika|editor=Fisiak,
+  Jacek|The orthographic aspect of the runes|Historical Linguistics and
+  Philology|publisher=Mouton De Gruyter|series=Trends in Linguistics: Studies &
+  Monographs|page=248}}</ref><ref>{{R:runeberg.org|svetym|0360.html Inge}}</ref>
+
+
+  # [[Ing]] or [[Yngvi]], the Germanic god of fertility. Thought to be the human
+  incarnation of [[Nerthus]], and the original name of the Norse fertility god
+  [[Freyr]].
+
+  # Son of {{w|Mannus}}, and progenitor of the [[Ynglings]] and [[Ingaevones]].
+
+  # {{lb|gem-pro|Runic alphabet}} name of the ŋ-rune ([[ᛜ]])
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|nopl=1}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*Ingwô}}
+
+  ** {{desc|osx|ᛝᚹ|tr=*ingwe|pos=gen.sg.}}{{ref|group=n|Possible interpretation
+  of Weser runebone inscription #4988, dated 355 – 410
+  CE.<ref>{{cite-book|1989|Pieper, Peter|Die Weser-Runenknochen, Neue
+  Untersuchungen zur Problematik: Original oder
+  Fälschung|location=Oldenburg|publisher=Isensee|page=154}}</ref><ref>{{R:gem:Antonsen:2002|318}}</ref>}}
+
+  ** {{desc|non|Yngvi}}, {{l|non|Yngve|pos=nom.sg.}},
+  {{l|non|Yngva|pos=gen.sg.}} {{desctree|non|Yngvi|noparent=1}}
+
+  ** {{desc|got|ᛝᛁ|alt=&#x5b;ᛝ&#x5d;ᛁ|tr=-|unc=1}}
+  (<nowiki>[i(ng)]wi[n]</nowiki>){{ref|group=n|Possible interpretation of the
+  {{w|Ring of Pietroassa}} inscription.<ref>{{cite-journal|2003|Harhoiu,
+  Radu|author2=Pieper, Peter|author3=Nedoma, Robert|Pietroassa|Reallexikon der
+  Germanischen Altertumskunde|volume=23|location=Berlin, New York}}</ref>}}
+
+  ** {{desc|LL.|Inguo|bor=1}} {{defdate|9th c. CE, Codex Sangallensis 732}}
+
+  * {{l|gem-pro|*Ingwiniz}} {{q|< *Ingwiniz gen.sg. of *Ingwô|or +
+  {{l|gem-pro|*winiz|t=friend}}}}<ref>{{cite-journal|1939|Kaser, Max|Mores
+  maiorum und Gewohnheitsrecht kaser|Zeitschrift der Savigny-Stiftung für
+  Rechtsgeschichte|doi=10.7767/zrgra.1939.59.1.52}}</ref>
+
+  ** {{desc|ang|Ingwina|pos=gen.sg.}} {{defdate|1044 CE, {{w|Beowulf}}}}
+
+  ** {{desc|goh|Inguin}}
+
+  ** {{desc|non|Yngvin}}, {{l|non|Ynguni}}, {{l|non|Yngunni}} {{q|West-Germanic
+  borrowing?}}
+
+  ** {{desc|la|Ingaevōnēs|bor=1|alts=1}} {{q|+ {{l|la|-ō|-ōnēs}}}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|Ing}}
+
+  ** {{desc|en|Ing|lbor=1}}
+
+  * {{desctree|non|*Yngr}}
+
+  ** {{desc|non|Ynglingr|der=1}} {{q|+ {{l|non|-lingr}}}}
+
+  * {{desc|got|*𐌹𐌲𐌲𐌿𐍃}} or
+  {{l|got|*𐌹𐌲𐌲𐍅𐍃|ts=enguz}}{{ref|group=n|Latin transcription from the
+  {{w|Codex Vindobonensis 795}}. "Wulfilan" Gothic forms are scholarly
+  reconstructions.<ref>{{R:got:HG|ed=3|64}}</ref><ref>{{cite-book|1854|{{w|Adolf
+  Kirchhoff|Kirchhoff, A.}}|Das gothische Runenalphabet: eine
+  Abhandlung|location=Berlin|publisher=Verlag von Wilhelm
+  Hertz|page=48|url=https://archive.org/details/dasgothischerune00kircuoft/page/48}}</ref>|lang=German}}
+
+
+  ====Notes====
+
+  {{reflist|group=n|size=smaller}}
+
+
+  ===Further reading===
+
+  * {{cite-book|1997|North, Richard|Heathen Gods in Old English
+  Literature|publisher=Cambridge University Press|isbn=0-521-55183-8}}
+
+
+  ===References===
+
+  <references />
+
+
+  {{topics|gem-pro|Gods}}
+
+  {{topics|gem-pro|Runic letter names|sort=NG}}

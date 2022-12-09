@@ -1,0 +1,30 @@
+pageid: 7330262
+ns: 118
+title: Reconstruction:Proto-Germanic/samawistiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*samaz|*wistiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑ.mɑ.ˌwis.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*sama-westiz|317}}</ref>
+
+  # living together, [[cohabitation]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*samawisti}}
+  ** {{desc|ang|samwist}}
+  ** {{desc|goh|samwist|t=consortium}}
+  * {{desc|non|samvist}}
+  ** {{desc|is|samvist}}
+
+  ===References===
+  <references/>

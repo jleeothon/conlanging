@@ -1,0 +1,33 @@
+pageid: 6923112
+ns: 118
+title: Reconstruction:Proto-Germanic/tugōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dewk-}}
+  From {{der|gem-pro|ine-pro|*dewk-||to pull, lead}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtu.ɣɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[pull]], [[tow]]
+
+  ====Inflection====
+  {{gem-conj-wk2|tug}}
+
+  ====Related terms====
+  * {{l|gem-pro|*teuhaną}}
+  * {{l|gem-pro|*biteuhaną}}
+  * {{l|gem-pro|*tukkōną}}
+  * {{l|gem-pro|*tugnaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*togōn}}
+  * {{desc|non|toga}}
+  ** {{desc|is|toga}}
+  ** {{desc|fo|toga}}

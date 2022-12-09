@@ -1,0 +1,25 @@
+pageid: 7395823
+ns: 118
+title: Reconstruction:Proto-Germanic/gasehwaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*sekʷ-|id=see}}
+  From {{af|gem-pro|*ga-|*sehwaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɣɑˈse.xʷɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[see]] [[completely]]
+
+  ====Inflection====
+  {{gem-conj-st|class=5|gasehw|gasahw|past_indc_stem=gasēg|gasēw|gasew}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*gasehwan}}
+  * {{desc|got|𐌲𐌰𐍃𐌰𐌹𐍈𐌰𐌽}}

@@ -1,0 +1,91 @@
+pageid: 2947647
+ns: 118
+title: Reconstruction:Proto-Germanic/brēwō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*brēwiz|*brūwō}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*h₃bʰrḗw-||eyebrow}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbrɛː.wɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[eyebrow]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*brāwu|*brāwi}} (< {{l|gem-pro|*brēwiz}})
+
+  ** {{desc|ang|brǣw|brēaw|brēġ}}
+
+  *** {{desc|enm|breu}}
+
+  **** {{desc|sco|brew|bree|breers}}
+
+  **** {{desc|en|bree}} {{qualifier|dialectal}}, {{l|en|brow}}
+
+  ** {{desc|ofs|*brāw|brē}} (in {{l|ofs|âgbrē}}, etc.)
+
+  *** {{desc|stq|Oogenbruun|der=1}}
+
+  *** {{desc|fy|winbrau|der=1}}
+
+  ** {{desc|osx|brāwa|brāha}}
+
+  *** {{desc|gml|brâwe|brâ}} (in {{l|gml|winbrâwe}}, {{l|gml|winbrâ}})
+
+  **** {{desc|nds-de|Braan|Bruun}}
+
+  ** {{desc|odt|*brāwa}}
+
+  *** {{desc|dum|brauwe}}
+
+  **** {{desc|nl|brauw}} (mostly in {{l|nl|wenkbrauw}}); {{l|nl||-per}} (in
+  {{l|nl|wimper}})
+
+  **** {{desc|li|braoj}} (mostly in {{l|li|ougsbraoj}})
+
+  ** {{desc|goh|brāwa}}
+
+  *** {{desc|gmh|brā}}; {{q|rarely}} {{l|gmh|brāwe}}
+
+  **** {{desc|de|Braue}} (mostly in {{l|de|Augenbraue}}); {{l|de||-per}} (in
+  {{l|de|Wimper}})
+
+  **** {{desc|lb||alt=-per}} (in {{l|lb|Aper}}, {{l|lb|Wëmper}})
+
+  * {{desc|non|brá}}
+
+  ** {{desc|is|brá}}
+
+  ** {{desc|fo|brá}}
+
+  ** {{desc|gmq-osw|bra|alt=brā}}
+
+  *** {{desc|sv|-brå}} in {{l|sv|baldersbrå}}
+
+
+  {{topics|gem-pro|Anatomy}}

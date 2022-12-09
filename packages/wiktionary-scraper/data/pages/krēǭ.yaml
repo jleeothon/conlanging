@@ -1,0 +1,26 @@
+pageid: 3627404
+ns: 118
+title: Reconstruction:Proto-Germanic/krēǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gerh₂-|t=to scream, cry, creak}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkrɛː.ɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{topics|gem-pro|Corvids}} [[crow]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*krēaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*krāā}}

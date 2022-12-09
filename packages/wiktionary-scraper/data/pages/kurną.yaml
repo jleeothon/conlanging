@@ -1,0 +1,39 @@
+pageid: 2731766
+ns: 118
+title: Reconstruction:Proto-Germanic/kurną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵerh₂-}}
+  From {{inh|gem-pro|ine-pro|*ǵr̥h₂nóm}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkur.nɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[corn]], [[grain]], [[cereal]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*kernô}}
+  * {{l|gem-pro|*kurnahūsą}}
+  * {{l|gem-pro|*kurnô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*korn}}
+  * {{desc|gmq-pro|*ᚲᛟᚱᚾᚨ}}
+  ** {{desc|gmq-pro|ᚹᚨᛚᚺᚨᚲᚢᚱᚾᛖ|tr=walhakurnē|der=1}}
+  ** {{desctree|non|korn}}
+  ** {{desc|got|𐌺𐌰𐌿𐍂𐌽}}
+  ** {{desc|gme-cgo|kor}}
+  ** {{desc|bor=1|smi-pro|-}}
+  *** {{desc|se|gordni}}
+  *** {{desc|sma|gernie}}
+
+  {{C|gem-pro|Agriculture|Plants}}

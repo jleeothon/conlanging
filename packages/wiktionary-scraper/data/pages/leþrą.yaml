@@ -1,0 +1,97 @@
+pageid: 3912079
+ns: 118
+title: Reconstruction:Proto-Germanic/leþrą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Related to {{cog|mga|lethar}}, {{cog|cy|lledr}}. Further origin
+  {{unk|gem-pro|title=uncertain}}. The Germanic term may be a borrowing from
+  {{bor|gem-pro|cel-pro|*ɸletro-}} or {{m|cel-pro|*ɸlitro-}}, from
+  {{der|gem-pro|ine-pro||*pl-etro-}}<ref>{{R:cel:EDPC|head=*fletro-|page=134}}</ref>
+  or {{m|ine-pro||*pl̥-tro-}},<ref>{{R:gem:EDPG|head=*leþra-|page=332}}</ref>
+  from {{cog|ine-pro|*pel-|t=to cover, wrap; skin, hide}}. Other suggested
+  origins include borrowing from a pre-Indo-European substrate.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈle.θrɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[leather]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*liþrīnaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*leþr}}
+
+  ** {{desc|ang|leþer}}
+
+  *** {{desc|enm|lether}}
+
+  **** {{desc|sco|lether|ledder|leither}}
+
+  **** {{desc|en|leather}}
+
+  ** {{desc|ofs|lether|leither|leder|lider|leer}}
+
+  *** {{desc|stq|Leeder}}
+
+  *** {{desc|fy|leare}}
+
+  ** {{desc|osx|lethar}}
+
+  *** {{desc|gml|leder}}
+
+  **** {{desc|nds-de|Leer}}
+
+  **** {{desc|nds|Ledder|Lier}}
+
+  ** {{desc|odt|*lether}}
+
+  *** {{desc|dum|leder}}
+
+  **** {{desc|nl|leder|leer}}
+
+  ** {{desc|goh|leder}}
+
+  *** {{desc|gmh|leder}}
+
+  **** {{desc|de|Leder}}
+
+  ***** {{desc|eo|ledo|bor=1}}
+
+  **** {{desc|hrx|Letter}}
+
+  **** {{desc|lb|Lieder}}
+
+  **** {{desc|wym|łaoder}}
+
+  **** {{desc|yi|לעדער}}
+
+  * {{desctree|non|leðr}}
+
+
+  ===References===
+
+  <references/>

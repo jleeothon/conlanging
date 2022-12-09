@@ -1,0 +1,85 @@
+pageid: 3627465
+ns: 118
+title: Reconstruction:Proto-Germanic/brēdaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*bʰrewh₁-||to boil, seethe}}. Cognate with
+  {{cog|la|fervō||seethe, burn}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbrɛː.ðɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[warm]], [[heat]], [[broil]]
+
+  # to [[roast]] (meat)
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=7d|brēd|bebrēd|bebrēd|brēd}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*brēdô}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|brǣdan}}
+
+  ** {{desc|enm|breden|breaden}}
+
+  *** {{desc|sco|brade}}
+
+  * {{desc|ofs|brēda}}
+
+  ** {{desc|stq|bräide}}
+
+  ** {{desc|fy|briede}}
+
+  * {{desc|osx|brādan}}
+
+  ** {{desc|gml|braden|brāden}}
+
+  *** {{desc|nds|braden|braën}}
+
+  *** {{desc|pdt|broden}}
+
+  * {{desctree|odt|brādan}}
+
+  * {{desc|goh|prātan|brātan}}
+
+  ** {{desc|gmh|braten}}
+
+  *** {{desc|de|braten}}
+
+  *** {{desc|lb|broden}}
+
+  *** {{desc|yi|בראָטן}}
+
+  * {{desc|non|bræða}}
+
+  ** {{desc|is|bræða}}
+
+  ** {{desc|fo|bræða}}
+
+  ** {{desc|gmq-osw|brædha}}
+
+  ** {{desc|da|bræde}}
+
+  * {{desc|gme-cgo|breen}}

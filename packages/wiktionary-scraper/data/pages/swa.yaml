@@ -1,0 +1,32 @@
+pageid: 2733588
+ns: 118
+title: Reconstruction:Proto-Germanic/swa
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*swé|*swō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/swɑ/}}
+
+  ===Adverb===
+  {{gem-adv}}
+
+  # [[so]], [[thus]], in this manner
+
+  ====Derived terms====
+  * {{l|gem-pro|*swalīkaz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*swē}}
+
+  ====Descendants====
+  In most descendants, this word merged with {{m|gem-pro|*swē}}.
+
+  * {{desctree|gmw-pro|*swā|id=so}}
+  * {{desctree|non|svá}}
+  * {{desc|got|𐍃𐍅𐌰}}
+
+  {{cln|gem-pro|demonstrative adverbs}}

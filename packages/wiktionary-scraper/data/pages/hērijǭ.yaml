@@ -1,0 +1,26 @@
+pageid: 8141430
+ns: 118
+title: Reconstruction:Proto-Germanic/hērijǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*hērą|*-ijǭ}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{topic|gem-pro|Hair}} [[fur]]
+  # {{topic|gem-pro|Fabrics}} [[haircloth]]
+
+  ====Declension====
+  {{gem-decl-noun-n-f|hērij}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hērīnaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hārijā}}
+  * {{desc|non|hæra}}
+  ** {{desc|is|hæra}}

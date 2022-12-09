@@ -1,0 +1,25 @@
+pageid: 7263838
+ns: 118
+title: Reconstruction:Proto-Germanic/bēgaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*bēganą||to fight, argue, quarrel}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɛː.ɣɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[difficult]], [[bad]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|bēg}}
+
+  ====Descendants====
+  * {{desc|non|bágr}}
+  ** {{desc|is|bágur}}
+  * {{desc|fiu-fin-pro|*paha|bor=1|unc=1}}

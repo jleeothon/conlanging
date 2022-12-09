@@ -1,0 +1,96 @@
+pageid: 2897719
+ns: 118
+title: Reconstruction:Proto-Germanic/-istaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*-istHos}}, from
+  {{compound|ine-pro|*-yōs|pos1=relative
+  suffix|*-tós|alt2=*-tHós|pos2=adjectival suffix|nocat=1}}.<ref>{{R:ine:Beekes
+  2011|page=221}}</ref><ref>{{R:gem:PIEPG|page=284}}</ref> Cognate with
+  {{cog|grc|-ιστος}}, {{cog|iir-pro|*-ištʰas}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/is.tɑz/}}
+
+
+  ===Suffix===
+
+  {{gem-adj|*-izô|adv=*-ist}}
+
+
+  # [[-est]]. {{non-gloss definition|Forms the superlative of certain
+  adjectives.}}
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Usage notes====
+
+  This was the normal superlative suffix for all i-, u- and ja-stem adjectives.
+  The regular a-stem adjectives sometimes used this suffix, and sometimes the
+  related suffix {{m|gem-pro|*-ōstaz}} without any predictable rule.
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*-umô}}
+
+
+  ====Derived terms====
+
+  {{derivsee|Proto-Germanic superlative adjectives}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|-st}}
+
+  ** {{desc|en|-est}}
+
+  * {{desc|ofs|-st}}
+
+  ** {{desc|fy|-st}}
+
+  * {{desc|osx|-ist}}
+
+  * {{desc|odt|-ist}}
+
+  ** {{desc|dum|-st}}
+
+  *** {{desc|nl|-st}}
+
+  * {{desc|goh|-ist}}
+
+  ** {{desc|de|-st}}
+
+  * {{desc|non|-str}}
+
+  ** {{desc|is|-stur}}
+
+  ** {{desc|fo|-stur}}
+
+  ** {{desc|no|-st}}
+
+  ** {{desc|gmq-osw|-ster}}
+
+  *** {{desc|sv|-st}}
+
+  ** {{desc|da|-st}}
+
+  * {{desc|got|-𐌹𐍃𐍄𐍃}}
+
+
+  ===References===
+
+  <references/>

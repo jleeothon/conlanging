@@ -1,0 +1,39 @@
+pageid: 4931137
+ns: 118
+title: Reconstruction:Proto-Germanic/hrībaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*(s)kreybʰ-}}
+  From {{der|gem-pro|ine-pro|*(s)kreybʰ-}}.
+
+  {{doublet|gem-pro|*skrībaną}}, which was probably borrowed from Latin.
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*xrībanan|page=187}}</ref>
+
+  # to [[scratch]]
+  # to [[snatch]], to [[grab]]
+
+  ====Inflection====
+  {{gem-conj-st|class=1|hrīb|hraib|hrib|hrib}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*hrīban}}
+  ** {{desc|ofs|rīva}}
+  *** {{desc|stq|riiv}}
+  ** {{desc|osx|*hrīvan}}
+  *** {{desc|gml|rīven}}
+  **** {{desc|nds|rieven}}
+  ** {{desc|odt|*rīvan}}
+  *** {{desc|dum|riven}}
+  **** {{desc|nl|rijven}}
+  * {{desc|non|hrífa}}
+  ** {{desc|is|hrífa}}
+  ** {{desc|fo|ríva}}
+  ** {{desc|nb|rive}}
+
+  ===References===
+  <references/>

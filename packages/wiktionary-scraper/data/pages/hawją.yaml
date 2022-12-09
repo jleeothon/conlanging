@@ -1,0 +1,35 @@
+pageid: 5973228
+ns: 118
+title: Reconstruction:Proto-Germanic/hawją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Uncertain. Perhaps related to {{m|gem-pro|*hawwaną||to hew; cut down}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑw.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[hay]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hawi}}
+  * {{desc|non|hey}}
+  ** {{desc|is|hey}}
+  ** {{desc|fo|hoyggj}}
+  ** {{desc|no|-}} {{l|nb|høy}}
+  ** {{desc|gmq-osw|hø|alt=hø̄}}
+  *** {{desc|sv|hö}}, {{qualifier|dialectal}} {{l|sv|hej}}, {{l|sv|hy}}
+  ** {{desc|da|hø}}
+  ** {{desc|gmq-bot|høy}}
+  ** {{desc|gmq-gut|hoy}}
+  * {{desc|got|𐌷𐌰𐍅𐌹}}
+
+  [[Category:gem-pro:Plants]]

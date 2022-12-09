@@ -1,0 +1,32 @@
+pageid: 7556113
+ns: 118
+title: Reconstruction:Proto-Germanic/helþaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*ḱel-||to tend, lean, incline, bend, tip}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxel.θɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[stack]], [[frame]], [[support]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*helþu}}
+  ** {{desc|osx|*hiltha}}
+  *** {{desc|gml|hilde}}
+  * {{desc|non|hjallr}}
+  ** {{desc|is|hjallur}}
+  ** {{desc|fo|hjallur}}
+  ** {{desc|sv|hjälle}}
+  ** {{desc|no|hjell}}
+  ** {{desc|da|hjald}}
+  ** {{desc|gmq-bot|jęll|jälld}}

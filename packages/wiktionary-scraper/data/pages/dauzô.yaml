@@ -1,0 +1,34 @@
+pageid: 7310049
+ns: 118
+title: Reconstruction:Proto-Germanic/dauzô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Related to {{m|gem-pro|*dwēsaz|t=foolish, stupid}}.<ref name="Kroonen"></ref>
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdɑu̯.zɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref name="Kroonen">{{R:gem:EDPG|head=*dauzan-|page=91}}</ref>
+
+  # {{lb|gem-pro|West Germanic}} [[fool]]
+
+  ====Declension====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|osx}}
+  ** {{desc|gml|dōre}}
+  *** {{desc|da|dåre|bor=1}}
+  * {{desc|odt}}
+  ** {{desc|dum|dôre}}
+  *** {{desc|nl|door}}
+  * {{desc|goh}}
+  ** {{desc|gmh|tōre}}
+  *** {{desc|de|Tor}}
+
+  ===References===
+  <references/>

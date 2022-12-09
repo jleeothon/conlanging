@@ -1,0 +1,102 @@
+pageid: 2926661
+ns: 118
+title: Reconstruction:Proto-Germanic/albī
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Possibly from {{inh|gem-pro|ine-pro|*albʰós|t=white}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑl.βiː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*albī-|20}}</ref>
+
+
+  # {{topics|gem-pro|Landforms|Water}} [[river]]
+
+  #: {{syn|gem-pro|*ahwō|*fleutą|*flōduz|*rīþaz|*straumaz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Alternative reconstructions====
+
+  * {{alter|gem-pro|*albiz}}<ref>{{R:gem:HGE|*albiz|13}}</ref>
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*albī}}
+
+  ** {{desc|ang|Ælf}}
+
+  <!-- Schiller-Lübben glosses "elve" as "alveus" and gives the attestation "de
+  elve der beke", glossed as "alveus torrentis", i. e., "the [[alveus]] of the
+  creek". This implies that "elve" is a loan from Latin "alveus" and not
+  connected with the river-word. The similar context, then, is only accidental.
+  However, the reconstructed Old Saxon predecessor form given here does look
+  exactly correct, if the Latin word was already borrowed then, which is
+  suggested by the presence of umlaut.
+
+  ** {{desc|osx|*elvi}}
+
+  *** {{desc|gml|elve}} -->
+
+  ** {{desc|goh|Elba}}
+
+  *** {{desc|gmh|Elbe}}
+
+  **** {{desc|de|Elbe}}
+
+  * {{desctree|non|elfr}}
+
+  * {{desc|bor=1|la|Albia|Albis}}
+
+  * {{desc|grc|Ἄλβις|bor=1}}
+
+  * {{desc|sla-pro|*olba|bor=1}}
+
+  ** {{desc|cs|Labe}}
+
+  ** {{desc|csb|Łaba}}
+
+  ** {{desc|pox|Låbü}}
+
+  ** {{desc|pl|Łaba}}
+
+  ** {{desc|ru|Ла́ба}}
+
+  ** {{desc|sh|Laba}}
+
+  ** {{desc|szl|Łaba}}
+
+  ** {{desc|sk|Labe}}
+
+  ** {{desc|sl|Laba}}
+
+  ** Sorbian:
+
+  *** {{desc|dsb|Łobjo}}
+
+  *** {{desc|hsb|Łobjo}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Water]]

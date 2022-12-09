@@ -1,0 +1,30 @@
+pageid: 4717707
+ns: 118
+title: Reconstruction:Proto-Germanic/wandīniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*wendʰ-}}
+  From {{af|gem-pro|*wandijaną|t1=to turn|*-īniz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑn.diː.niz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[turning]], [[change]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|*wenden|edwenden}}
+  * {{desc|ofs|wendene}}
+  * {{desc|goh|wentī|wendī}}
+  ** {{desc|gmh|wende}}
+  *** {{desc|de|Wende}}
+  * {{desc|got|*𐍅𐌰𐌽𐌳𐌴𐌹𐌽𐍃}}
+  ** {{desc|got|𐌲𐌰𐍅𐌰𐌽𐌳𐌴𐌹𐌽𐍃|der=1}}

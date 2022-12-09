@@ -1,0 +1,35 @@
+pageid: 2898453
+ns: 118
+title: Reconstruction:Proto-Germanic/unsēliz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*un|*sēliz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈun.ˌsɛː.liz/}}
+
+  ===Adjective===
+  {{gem-adj|*unsēlizô|*unsēlistaz}}
+
+  # [[unhappy]], [[unfortunate]], [[poor]]
+  # [[unkind]], [[bad]], [[wicked]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*unsālī}}
+  * {{desc|gmq-pro|*ᚢᚾᛊᚨᛚᛁᛉ|tr=*unsāliʀ}}
+  ** {{desc|non|úsæll|ósæll}}
+  *** {{desc|is|ósæll}}
+  *** {{desc|gmq-oda|usæl|usal|vsel}}
+  **** {{desc|da|ussel}}
+  *** {{desc|no|-}}
+  **** {{desc|nb|usæl|ussel}}
+  **** {{desc|nn|usæl|ussel}}
+  *** {{desc|gmq-osw|usæl|alt=ūsæl}}
+  **** {{desc|sv|usel}}
+  * {{desc|got|𐌿𐌽𐍃𐌴𐌻𐍃}}

@@ -1,0 +1,25 @@
+pageid: 3627831
+ns: 118
+title: Reconstruction:Proto-Germanic/nakwô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*néh₂us||boat}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈnɑ.kʷɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[boat]], [[ship]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*nakwō}}
+  * {{desc|non|nǫkkvi}}
+  ** {{desc|is|nökkvi}}

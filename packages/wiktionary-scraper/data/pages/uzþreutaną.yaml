@@ -1,0 +1,26 @@
+pageid: 7476920
+ns: 118
+title: Reconstruction:Proto-Germanic/uzþreutaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*trewd-}}
+  From {{af|gem-pro|*uz-|*þreutaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌuzˈθreu̯.tɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[tire]], [[annoy]]
+  # to [[displease]]
+
+  ====Inflection====
+  {{gem-conj-st|class=2|uzþreut|uzþraut|uzþrut|uzþrut}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*uʀþreutan}}
+  * {{desc|got|𐌿𐍃𐌸𐍂𐌹𐌿𐍄𐌰𐌽}}

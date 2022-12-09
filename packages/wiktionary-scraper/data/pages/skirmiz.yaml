@@ -1,0 +1,25 @@
+pageid: 3899569
+ns: 118
+title: Reconstruction:Proto-Germanic/skirmiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*(s)ker-|id=cut}}
+  From {{der|gem-pro|ine-pro|*(s)ker-||to cut, divide}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskir.miz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[fur]], [[hide]], [[pelt]]
+  # [[covering]], [[shelter]], [[screen]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skirmi}}

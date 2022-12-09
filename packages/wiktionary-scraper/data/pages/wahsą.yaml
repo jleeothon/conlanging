@@ -1,0 +1,45 @@
+pageid: 2831541
+ns: 118
+title: Reconstruction:Proto-Germanic/wahsą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Unknown. Cognate {{cog|ine-bsl-pro|*wáśkan|t=wax}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑx.sɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[wax]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|ang|weax}}
+  * {{desc|ofs|wax}}
+  ** {{desc|stq|Woaks}}
+  ** {{desc|fy|waaks|waachs}}
+  * {{desc|osx|wahs}}
+  ** {{desc|gml|was}}
+  *** {{desc|nds-de|Wass}}
+  * {{desc|odt|wahs}}
+  ** {{desc|dum|was}}
+  *** {{desc|nl|was}}
+  **** {{desc|af|was}}
+  * {{desctree|goh|wahs}}
+  * {{desc|non|vax}}
+  ** {{desc|is|vax}}
+  ** {{desc|fo|vaks}}
+  ** {{desc|no|-}} {{l|nb|voks}}
+  ** {{desc|gmq-osw|vax}}
+  *** {{desc|sv|vax}}
+  ** {{desc|gmq-oda|wax|wox}}
+  *** {{desc|da|voks}}
+  ** {{desc|ovd|waks}}
+  ** {{desc|gmq-gut|vax}}
+  * {{desc|bor=1|fiu-fin-pro|*vaha}} {{see desc}}

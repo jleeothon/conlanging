@@ -1,0 +1,47 @@
+pageid: 4690765
+ns: 118
+title: Reconstruction:Proto-Germanic/laugnijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*laugnaz|t1=hidden|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑu̯ɣ.ni.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[conceal]]; [[gainsay]]; [[deny]]
+
+  ====Inflection====
+  {{gem-conj-wk1|laugn|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|līeġnan|lȳġnian|līġnan|lēġnian}}
+  ** {{desc|enm|leynen|leinen|laynen|lainen}}
+  *** {{desc|sco|lain}}
+  *** {{desc|en|lain}}
+  * {{desc|ofs|lēina|laina}}
+  * {{desc|osx|lōgnian}}; {{l|osx|lāgnian}}, {{l|osx|lagnian}}
+  ** {{desc|gml|lôchenen}}
+  ** {{desc|stq|löägenje|bor=1}} (< {{l|osx|lāgnian}})
+  ** {{desc|fy|leagenje|bor=1}} (< {{l|osx|lāgnian}})
+  * {{desc|odt|*lōganen|*lōgnen}}
+  ** {{desc|dum|logenen|loochenen|loochnen|loggenen}}
+  *** {{desc|nl|loochenen}}
+  * {{desc|goh|louganen}}
+  ** {{desc|gmh|löugenen|lougen}}
+  *** {{desc|de|leugnen}}
+  * {{desc|non|leyna}}
+  ** {{desc|is|leyna}}
+  ** {{desc|fo|loyna}}
+  ** {{desc|gmq-osw|løna|alt=lø̄na}}
+  ** {{desc|bor=1|enm|leynen|laynen}}
+  *** {{desc|en|lain}}
+  * {{desc|got|𐌻𐌰𐌿𐌲𐌽𐌾𐌰𐌽}}
+
+  ===References===
+  * {{R:gem:EDPG}}

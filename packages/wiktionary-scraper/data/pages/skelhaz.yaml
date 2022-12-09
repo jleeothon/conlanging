@@ -1,0 +1,30 @@
+pageid: 6628827
+ns: 118
+title: Reconstruction:Proto-Germanic/skelhaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*skelhwaz|*skelgaz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)kel-||to lean, bend; joint}}.
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:EDPG|*skelha- ~ *skelga-|442}}</ref>
+
+  # [[squint]]-[[eyed]], [[sloping]], [[awry]]
+
+  ====Declension====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skelh}}
+  * {{desc|non|skjalgr}}
+  ** {{desc|is|skjálgur}}
+  ** {{desc|gmq-bot|skjalg}}
+  ** {{desc|en|askile|bor=1}}
+
+  ===References===
+  <references/>

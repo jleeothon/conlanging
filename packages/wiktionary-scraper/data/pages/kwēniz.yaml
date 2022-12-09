@@ -1,0 +1,32 @@
+pageid: 2947651
+ns: 118
+title: Reconstruction:Proto-Germanic/kwēniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gʷḗn||woman}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkʷɛː.niz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[wife]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*kwenǭ}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*kwāni}}
+  * {{desc|non|kvæn|kván}}
+  ** {{desc|is|kván|kvon|kvæn}}
+  ** {{desc|no|kvån}} (dialectal)
+  ** {{desc|gmq-bot|kon}}
+  ** {{desc|gmq-osw|-qvæn}} in {{l|gmq-osw|broþorqvæn}}, {{l|gmq-osw|sonaqvæn}}
+  * {{desc|got|𐌵𐌴𐌽𐍃}}

@@ -1,0 +1,33 @@
+pageid: 7452016
+ns: 118
+title: Reconstruction:Proto-Germanic/stōdahrussą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*stōdą|*hrussą|t1=stud|t2=herd of horse}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɔː.dɑˌxrus.sɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref name="HGE">{{R:gem:HGE|*stōda-xrussan|379}}</ref>
+
+  # [[stallion]], [[studhorse]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*stōdahross}}
+  ** {{desc|ang|stōdhors}}
+  *** {{desc|enm|*stodhors}}
+  **** {{desc|en|studhorse}}
+  ** {{desc|goh|stuotros}}
+  *** {{desc|gmh|stuotros}}
+  **** {{desc|de|Stutroß|pos=''archaic''}}
+  * {{desc|non|stóðhross}}
+
+  ===References===
+  <references/>

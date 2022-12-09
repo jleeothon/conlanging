@@ -1,0 +1,48 @@
+pageid: 5068210
+ns: 118
+title: Reconstruction:Proto-Germanic/garbō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*garbǭ}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*gʰrebʰ-}}
+  From {{inh|gem-pro|ine-pro|*gʰrebʰ-||to grab; gather up; rake}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣɑr.bɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[sheaf]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ofs|*jerfe|*iērfe}}
+  ** {{desc|stq|Jierwe}}
+  * {{desc|osx|garba|garva}}
+  ** {{desc|gml|garve}}
+  *** {{desc|nds-de|Garve|Garv}}
+  *** {{desc|pdt|Goaw}}
+  * {{desc|frk|*garbu}}
+  ** {{desc|odt|*garva|garava|garova}}
+  *** {{desc|dum|garve}}
+  **** {{desc|nl|garf}}
+  ** {{desc|bor=1|fro|garbe|jarbe}}
+  *** {{desc|frm|garbe|gerbe}}
+  **** {{desctree|fr|gerbe}}
+  *** {{desc|enm|garbe|bor=1}}
+  **** {{desc|en|garb}}
+  *** {{desctree|ML.|garba|bor=1|qq=or via Old High German}}
+  * {{desc|goh|garba}}
+  ** {{desc|gmh|garbe|garwe}}
+  *** {{desc|cim|ghèrba}}
+  *** {{desc|de|Garbe}}
+  *** {{desc|lb|Gaarf}}
+  *** {{desc|yi|גאַרב}}

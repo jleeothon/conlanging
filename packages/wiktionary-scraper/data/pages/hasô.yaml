@@ -1,0 +1,78 @@
+pageid: 2777851
+ns: 118
+title: Reconstruction:Proto-Germanic/hasô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*ḱeh₂s-}}. Compare with {{cog|cy|cannu||to
+  whiten}}, {{m|cy|ceinach||hare}}, {{cog|en|hare}}, {{cog|la|cascus||old}},
+  {{cog|prg|sasins||hare}}, {{cog|ps|سوی|tr=soe||hare}}, and
+  {{cog|sa|शश||hare}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑ.sɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topics|gem-pro|Lagomorphs}} [[hare]]
+
+
+  ====Inflection====
+
+  Verner alternation was preserved in this noun, so that some forms had the stem
+  ''*haz-''. But the distribution of the alternants is currently unknown.
+  According to Kroonen, this noun also contained vowel ablaut in its declension,
+  for example between nominative singular ''*hesô'' and genitive singular
+  ''*haznaz''.<ref>{{cite-book|author=Kroonen, Guus|chapter=The *e ~ *a
+  type|title=The Proto-Germanic ''n''-stems: A study in diachronic
+  morphophonology|location=Amsterdam|publisher=Rodopi|year=2011|pages=200-201}}</ref>
+
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*haswaz}}
+
+
+  ====Descendants====
+
+  Due to the vowel ablaut and Verner's law consonant alternations, several stems
+  are attested throughout the descendants. Proto-West Germanic preserves the
+  alternation in the consonant, but levels the vowel alternation.
+
+  * {{desctree|gmw-pro|*hasō|alt=*hasō ~ *haʀ-}}
+
+
+  From ''*hesô'':
+
+  * {{desc|no|jase}}
+
+
+  From ''hezô'':
+
+  * {{desc|non||alt=*hjeri}}
+
+  ** {{desc|is|héri}}
+
+
+  From ''hazô'':
+
+  * {{desctree|non|heri}}
+
+
+  ===References===
+
+  <references/>

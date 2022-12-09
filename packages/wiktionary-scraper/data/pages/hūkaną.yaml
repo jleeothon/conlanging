@@ -1,0 +1,29 @@
+pageid: 7447664
+ns: 118
+title: Reconstruction:Proto-Germanic/hūkaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Back-formed from {{m|gem-pro|*hukkōną|t=to squat, sit hunched, cower}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxuː.kɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="EDPG">{{R:gem:EDPG|*hūkan-|252}}</ref>
+
+  # to [[squat]]
+
+  ====Inflection====
+  {{gem-conj-st|class=2|hūk|hauk|huk|huk}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hūkan}}
+  * {{desc|non|húka}}
+  ** {{desc|fo|húka}}
+  ** {{desc|gmq-osw|húka}}
+
+  ===References===
+  <references/>

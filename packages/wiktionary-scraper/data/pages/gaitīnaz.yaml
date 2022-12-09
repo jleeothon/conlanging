@@ -1,0 +1,27 @@
+pageid: 5123424
+ns: 118
+title: Reconstruction:Proto-Germanic/gaitīnaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*gaits|*īnaz}}. Cognate with {{cog|la|haedīnus}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣai.tiː.nɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # Of or relating to [[goat]]s; [[goatlike]]; [[caprine]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|gaitīn}}
+
+  ====Related terms====
+  * {{l|gem-pro|*gaitīną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*gaitīn}}
+  * {{desc|got|𐌲𐌰𐌹𐍄𐌴𐌹𐌽|der=1}} (< {{m|gem-pro|*gaitīną}})

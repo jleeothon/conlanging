@@ -1,0 +1,34 @@
+pageid: 2719430
+ns: 118
+title: Reconstruction:Proto-Germanic/bainą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*bainaz||straight}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑi̯.nɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref>{{R:gem:EDPG|*baina-|48}}</ref>
+
+  # {{topics|gem-pro|Body parts}} [[leg]]
+  # {{topics|gem-pro|Bones}} [[bone]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hrugjabainą}}
+
+  ====Related terms====
+  * {{l|gem-pro|*bainaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bain}}
+  * {{desctree|non|bein}}
+
+  ===References===
+  <references/>

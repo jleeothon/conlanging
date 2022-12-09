@@ -1,0 +1,27 @@
+pageid: 3588453
+ns: 118
+title: Reconstruction:Proto-Germanic/dungaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dʰengʰ-}}
+  From {{der|gem-pro|ine-pro|*dʰengʰ-||to cover, hide, conceal}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[dung]], [[manure]], [[fertiliser]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ofs|dung}}
+  ** {{desc|frr|dong}}
+  ** {{desc|fy|dong}}
+  * {{desc|osx|dung}}
+  ** {{desc|gml|dunk|dunc}}
+  * {{desc|goh|tung|tunc}}
+  ** {{desc|gmh|tunc}}

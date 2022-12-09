@@ -1,0 +1,29 @@
+pageid: 3349006
+ns: 118
+title: Reconstruction:Proto-Germanic/smartaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*(s)merd-}}
+  From {{der|gem-pro|ine-pro|*(s)merd-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsmɑr.tɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[painful]], [[hurting]], [[aching]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|smart}}
+
+  ====Related terms====
+  * {{l|gem-pro|*smertaną|gloss=to hurt}}
+  * {{l|gem-pro|*smertą|gloss=pain, hurting}}
+
+  ====Descendants====
+  * {{desctree|ang|smeart}}
+  * {{desc|ofs|smert}}

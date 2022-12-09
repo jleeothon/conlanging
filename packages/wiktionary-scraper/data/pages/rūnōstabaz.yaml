@@ -1,0 +1,62 @@
+pageid: 5450185
+ns: 118
+title: Reconstruction:Proto-Germanic/rūnōstabaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*stebʰ-}}
+
+  From {{compound|gem-pro|*rūnō|t1=secret, mystery, rune|*stabaz|t2=staff,
+  stick}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈruː.nɔː.ˌstɑ.βɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # a runic letter or symbol
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*bōkstabaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*rūnustab}}
+
+  ** {{desc|ang|rūnstæf}}
+
+  *** {{desc|enm|*rounstaf|run-staf}} (attested in
+  {{l|enm|run-staven|pos=plural}})
+
+  **** {{desc|en|runestaff|runestave}}
+
+  ** {{desc|goh|rūnstab}}; {{l|goh|rūnstafa}}
+
+  * {{desc|non|rúnastafr}}
+
+  ** {{desc|is|rúnastafur}}
+
+  ** {{desc|fo|rúnastavur}}
+
+  ** {{desc|sv|runstav}}
+
+  ** {{desc|da|runestav}}

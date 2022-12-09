@@ -1,0 +1,28 @@
+pageid: 7314986
+ns: 118
+title: Reconstruction:Proto-Germanic/breustabergō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*breustą|*bergō|t1=breast|t2=help}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbreu̯s.tɑˌber.ɣɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*breusta-bergō|56}}</ref>
+
+  # [[breastplate]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*breustabergu}}
+  * {{desc|non|brjóstbjǫrg}}
+  ** {{desc|is|brjóstbjörg}}
+
+  ===References===
+  <references/>

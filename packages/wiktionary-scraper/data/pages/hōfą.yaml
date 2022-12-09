@@ -1,0 +1,29 @@
+pageid: 3416519
+ns: 118
+title: Reconstruction:Proto-Germanic/hōfą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*keh₂p-}}.
+
+  ===Noun===
+  {{gem-noun|n}}<ref>{{R:gem:HGE|*xōfan|181b}}</ref>
+
+  # [[necessity]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*habjaną}}
+  * {{l|gem-pro|*hōbiz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*hōf}}
+  ** {{desctree|gmw-pro|*bihōf|der=1}}
+  * {{desctree|non|hóf}}
+
+  ===References===
+  <references />

@@ -1,0 +1,83 @@
+pageid: 3434314
+ns: 118
+title: Reconstruction:Proto-Germanic/blēsaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰleh₁-|id=blow}}
+
+  From Pre-Germanic {{m|ine-pro||*bʰleh₁s-}}, sigmatic aorist to
+  {{m|ine-pro|*bʰleh₁-||to blow}}.<ref>{{R:gem:EDPG}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈblɛː.sɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[blow]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=7d|blēs|beblēs|beblēz|blēz}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*blēaną}}
+
+  * {{l|gem-pro|*wēaną}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*blēstuz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*blāsan}}
+
+  * {{desc|non|blása}}
+
+  ** {{desc|is|blása}}
+
+  ** {{desc|fo|blása}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nb|blåse}}
+
+  *** {{desc|nn|blåsa|blåse}}
+
+  ** {{desc|gmq-osw|blasa|alt=blāsa}}
+
+  *** {{desc|sv|blåsa}}
+
+  ** {{desc|gmq-oda|blæsæ|alt=blǣsæ}}
+
+  *** {{desc|da|blæse}}
+
+  ** {{desc|ovd|blåsa}}
+
+  ** {{desc|gmq-gut|blase}}
+
+  ** {{desc|gmq-scy|blæsa}}
+
+  * {{desc|got|*𐌱𐌻𐌴𐍃𐌰𐌽}} (in {{l|got|𐌿𐍆𐌱𐌻𐌴𐍃𐌰𐌽}})
+
+
+  ===References===
+
+  <references/>

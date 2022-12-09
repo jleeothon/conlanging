@@ -1,0 +1,30 @@
+pageid: 3921082
+ns: 118
+title: Reconstruction:Proto-Germanic/awahaimaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*auhaimaz}}, {{l|gem-pro|*awunhaimaz}}
+
+  ===Etymology===
+  From {{compound|gem-pro|*awô|t1=grandfather|*haimaz|t2=home}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑ.wɑ.ˌxɑi̯.mɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Family members}} [[maternal uncle]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*awô}}
+  * {{l|gem-pro|*awǭ}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*auhaim}}

@@ -1,0 +1,35 @@
+pageid: 2902304
+ns: 118
+title: Reconstruction:Proto-Germanic/flugiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*fleuganą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸlu.ɣiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[flight]], [[flying]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|flyge}}
+  * {{desc|osx|flugi}}
+  * {{desc|odt|*flugi|*fluge}}
+  ** {{desc|dum|vloghe|vleughe}}
+  *** {{desc|nl|vleug}}
+  * {{desc|goh|flugi}}
+  ** {{desc|de|Flug}}
+  *** {{desc|eo|flugo|bor=1}}
+  ** {{desc|lb|Fluch}}
+  ** {{desc|wa|flouxhe|bor=1}}
+  * {{desc|non|flugr}}
+  ** {{desc|is|flugur}}
+  * {{desc|got|𐌸𐌻𐌰𐌿𐌷𐍃}}

@@ -1,0 +1,32 @@
+pageid: 8112780
+ns: 118
+title: Reconstruction:Proto-Germanic/bidōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*bidą|*-ōną|t1=waiting, biding}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbi.ðɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name='Orel'>{{R:gem:HGE|*biđōjanan|45}}</ref>
+
+  # to [[wait]]
+  # to [[remain]]
+
+  ====Inflection====
+  {{gem-conj-wk2|bid}}
+
+  ====Related terms====
+  * {{l|gem-pro|*bīdaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bidōn}}
+  * {{desc|non|biða}}
+  ** {{desc|is|biða}}
+
+  ===References===
+  <references/>

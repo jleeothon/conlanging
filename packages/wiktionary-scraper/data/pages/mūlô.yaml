@@ -1,0 +1,38 @@
+pageid: 3906361
+ns: 118
+title: Reconstruction:Proto-Germanic/mūlô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*mū-||lips, muzzle}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmuːlɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[muzzle]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*mūlą}}
+  * {{l|gem-pro|*mūlō}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*mūlijaną}}
+
+  ====Descendants====
+  * {{desc|ofs|mūla}}
+  ** {{desc|fy|mûle}}
+  * {{desc|non|múli}}
+  ** {{desc|is|múli}}
+  ** {{desc|fo|múli}}
+  ** {{desc|no|mule}}
+  ** {{desc|gmq-osw|mule|alt=mūle}}
+  *** {{desc|sv|mule}}
+  ** {{desc|da|mule}}

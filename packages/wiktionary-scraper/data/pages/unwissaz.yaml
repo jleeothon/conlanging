@@ -1,0 +1,65 @@
+pageid: 2771444
+ns: 118
+title: Reconstruction:Proto-Germanic/unwissaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*weyd-}}
+
+  From {{prefix|gem-pro|*un|*wissaz}} (past participle of
+  {{m|gem-pro|*witaną}}).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈun.ˌwis.sɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[uncertain]], [[unsure]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|unwiss}}
+
+
+  ====Descendants====
+
+  The West Germanic terms have in many cases been influenced by
+  {{m|gem-pro|*gawissaz}}.
+
+  * {{desc|ang|unġewiss}}
+
+  * {{desc|ofs|unewiss}}
+
+  * {{desc|odt|*unwis}}, {{l|odt|*ungiwis}}
+
+  ** {{desc|dum|onwis}}, {{l|dum|onwisse}}, {{l|dum|ongewis}}
+
+  *** {{desc|nl|onwis}}, {{l|nl|ongewis}}
+
+  * {{desc|goh|*unwis}}, {{l|goh|ungiwis}}
+
+  ** {{desc|gmh|unwis}}, {{L|gmh|unwisse}}, {{l|gmh|ungewis}}
+
+  *** {{desc|de|ungewiss}}
+
+  * {{desc|non|úviss|úvíss}}
+
+  ** {{desc|is|óviss}}
+
+  ** {{desc|fo|óvissur}}
+
+  ** {{desc|da|uvis}}
+
+  * {{desc|got|𐌿𐌽𐍅𐌹𐍃𐍃}}

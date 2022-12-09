@@ -1,0 +1,33 @@
+pageid: 2756453
+ns: 118
+title: Reconstruction:Proto-Germanic/wikǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weyg-}}
+  From {{der|gem-pro|ine-pro|*weyg-|t=to bend, wind, turn, yield}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwi.kɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[sequence]]
+  # [[week]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wikā}}
+  * {{desctree|non|vika}}
+  * {{desc|got|𐍅𐌹𐌺𐍉}}
+  * {{desc|smi-pro|bor=1}}
+  ** {{desc|se|vahkku}}
+  ** {{desc|sma|våhkoe}}
+  * {{desc|fiu-fin-pro|*viikko|bor=1}} {{see desc}}
+
+  {{topics|gem-pro|Time}}

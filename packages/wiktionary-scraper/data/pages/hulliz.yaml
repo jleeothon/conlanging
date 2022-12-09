@@ -1,0 +1,58 @@
+pageid: 2949514
+ns: 118
+title: Reconstruction:Proto-Germanic/hulliz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*kelH-}}
+
+  From {{inh|gem-pro|ine-pro|*kl̥Hnís||hill}}, from the root
+  {{m|ine-pro|*kelH-}}. Compare {{cog|itc-pro|*kolnis}} > {{cog|la|collis}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxul.liz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[hill]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*halluz}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|hyll}}
+
+  * {{desc|ofs|*hell|*hel}}; {{l|ofs|holla}}
+
+  ** {{desc|fy|hel}}
+
+  * {{desc|osx|*hull|*hul}}
+
+  ** {{desc|gml|hull}}
+
+  * {{desc|odt|hil}} {{q|coastal, [[Ingvaeonic]]}}; {{l|odt|*hul}}
+  {{q|elsewhere}}
+
+  ** {{desc|dum|hil|hille}}; {{l|dum|hul}}
+
+  *** {{desc|nl|hil}}; {{l|nl|hul}}

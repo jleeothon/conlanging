@@ -1,0 +1,58 @@
+pageid: 7772960
+ns: 118
+title: Reconstruction:Proto-Germanic/smeukaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{cog|ine-pro|*smeugʰ-}} cognate with {{cog|grc|σμὐχω||t=to burn}} and
+  {{cog|lt|smáugiu}}, {{m|lt|smáugti|t=to choke}}. Kroonen assumes the verb was
+  back-formed to the iterative {{m|gem-pro|*smukkōną}} - {{m|gem-pro|*smukōną}}
+  which explains the 'k' instead of the expected 'g'.<ref
+  name=Kroonen>{{R:gem:EDPG|*smeukan- ~ *smūkan-|page=458-459}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsmeu̯.kɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref
+  name=Kroonen></ref><ref>{{R:gem:HGE|*smeukanan|page=354}}</ref>
+
+
+  # to [[smoke]], to [[fumigate]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=2|smeuk|smauk|smuk|smuk}}
+
+
+  ====Alternative forms====
+
+  * {{alter|gem-pro|*smūkaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*smeukan|*smūkan}}
+
+  ** {{desc|ang|smēocan}}
+
+  ** {{desc|odt|*smiekan|*smūkan}}
+
+  *** {{desc|dum|smieken|smuken}}
+
+  **** {{desc|nl|smuiken}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,97 @@
+pageid: 2859522
+ns: 118
+title: Reconstruction:Proto-Germanic/fōdrą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸɔːð.rɑ̃/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*peh₂-}}
+
+  From {{der|gem-pro|ine-pro|*peh₂-||to protect, guard; to graze, feed}}
+  {{suf|ine-pro||*-dʰrom|nocat=1}} or {{m|ine-pro|*-trom|*-tróm}}, the suffix
+  equivalent to {{af|gem-pro|*-þrą|alt1=*-drą}}; or directly from the root of
+  {{m|gem-pro|*fōdijaną||to feed}} and {{m|gem-pro|*fōdô||food}} (including the
+  {{m|gem-pro||*d}}), from an extended form {{m|ine-pro||*peh₂-dʰ(h₁)-}} or
+  {{m|ine-pro||*peh₂-t-}} of the same PIE root,
+  {{suf|ine-pro||*-r̥|alt2=*-r-om|nocat=1}}. Cognate with
+  {{cog|la|pābulum||food, fodder}} and possibly {{m|la|pānis||bread, food}}.
+
+
+  ====Noun====
+
+  {{gem-noun|n}}
+
+
+  # {{senseid|gem-pro|fodder}} {{topics|gem-pro|Food and drink}} [[fodder]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*fōdrōną}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*fōdijaną}}
+
+  * {{l|gem-pro|*fōdô}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*fōdr|id=fodder}}
+
+  * {{desctree|non|fóðr}}
+
+
+  ===Etymology 2===
+
+  From {{der|gem-pro|ine-pro|*peh₂-||to protect, guard, graze, feed}}.
+
+
+  ====Noun====
+
+  {{gem-noun|n}}
+
+
+  # {{senseid|gem-pro|sheath}} [[sheath]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*fōdr|id=sheath}}
+
+  * {{desc|non|fóðr}}
+
+  ** {{desc|fo|fóður|gloss=lining}}
+
+  ** {{desc|is|fóður}}
+
+  ** {{desc|da|for}}
+
+  ** {{desc|nn|foder}}
+
+  ** {{desc|sv|foder}}
+
+  * {{desc|got|𐍆𐍉𐌳𐍂}}
+
+  * {{desc|fiu-fin-pro|*hootra|bor=1}}

@@ -1,0 +1,29 @@
+pageid: 7315925
+ns: 118
+title: Reconstruction:Proto-Germanic/hiurijalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*hiurijaz|*līkaz|t1=trusted; familiar}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxiu̯.ri.jɑ.liː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*xeurja-līkaz|171}}</ref>
+
+  # [[smiling]], [[friendly]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*hiurijalīk}}
+  ** {{desctree|gmw-pro|*unhiurijalīk|der=1}}
+  * {{desc|non|hýrligr}}
+  ** {{desc|is|hýrlegur}}
+
+  ===References===
+  <references/>

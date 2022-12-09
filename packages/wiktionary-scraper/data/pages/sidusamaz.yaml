@@ -1,0 +1,30 @@
+pageid: 7421058
+ns: 118
+title: Reconstruction:Proto-Germanic/sidusamaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*siduz|*samaz|t1=custom, manner}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsi.ðu.ˌsɑ.mɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:HGE|*sedu-samaz|321}}</ref>
+
+  # [[well-mannered]], [[decent]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*sidusam}}
+  ** {{desc|goh|situsam}}
+  *** {{desc|gmh|*sitsam}}
+  **** {{desc|de|sittsam}}
+  * {{desc|non|siðsamr}}
+
+  ===References===
+  <references/>

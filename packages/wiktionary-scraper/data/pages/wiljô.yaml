@@ -1,0 +1,34 @@
+pageid: 4686321
+ns: 118
+title: Reconstruction:Proto-Germanic/wiljô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*welh₁-}}
+  Derived from {{m|gem-pro|*wiljaną||to want}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwil.jɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[will]], [[wish]], [[desire]]
+
+  ====Inflection====
+  {{gem-decl-noun-n-m|wil|j=j}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*Wiljahelmaz}}
+  * {{l|gem-pro|*wiljōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*willjō}}
+  * {{desctree|non|vili|qq=stem {{l|non||vilj-}}}}
+  * {{desc|got|𐍅𐌹𐌻𐌾𐌰}}
+  * {{desc|xvn|*wilja-}} (in personal names)
+
+  ===References===
+  * {{R:gem:EDPG}}

@@ -1,0 +1,39 @@
+pageid: 4009936
+ns: 118
+title: Reconstruction:Proto-Germanic/skulō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)kelH-|t=to split, divide}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{lb|gem-pro|West Germanic}} [[troop]]; [[group]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*skolu}}
+  ** {{desctree|ang|sċolu}}
+  ** {{desc|ofs|*skole}}
+  *** {{desc|frr|-}}
+  **** Söl'ring: {{l|frr|Skuul}}
+  **** Fering: {{l|frr|skuul}}
+  **** Öömrang: {{l|frr|skuul}}
+  **** Halunder: {{l|frr|Skuul}}
+  **** Bökingharde: {{l|frr|schölj}}
+  *** {{desc|fy|skoal}}
+  ** {{desc|osx|scola|skola}}
+  *** {{desc|gml|schōle}}
+  ** {{desc|odt|*skola}}
+  *** {{desc|dum|schōle}}
+  **** {{desc|nl|school}}
+  **** {{desc|enm|scole|bor=1}}
+  ***** {{desc|sco|scule|scuill|skole}}
+  ***** {{desc|en|school}}
+  **** {{desc|da|skole|bor=1}}
+  ** {{desc|la|schola|t=troop of soldiers|bor=1}}

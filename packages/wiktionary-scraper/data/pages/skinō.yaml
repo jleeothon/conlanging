@@ -1,0 +1,29 @@
+pageid: 3484775
+ns: 118
+title: Reconstruction:Proto-Germanic/skinō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Possibly from {{der|gem-pro|ine-pro|*skey-||to cut, split}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈski.nɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[plate]]; [[rim]]
+  # [[piece]]
+  # {{lb|gem-pro|anatomy}} [[shinbone]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skinu}}
+  * {{desc|got|*𐍃𐌺𐌹𐌽𐌰}}
+  ** {{desc|VL.|*skina|bor=1}} {{see desc}}
+  * Unsorted formations:
+  ** {{desctree|bor=1|fro|eschine}}

@@ -1,0 +1,25 @@
+pageid: 7642259
+ns: 118
+title: Reconstruction:Proto-Germanic/sanþasagulaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*sanþaz|*sagjaną|*-ulaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑn.θɑ.ˌsɑ.ɣu.lɑz/}}
+
+  ===Adjective===
+  {{head|gem-pro|adjective}}
+
+  # [[tend]]ing to [[speak]] the [[truth]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|sanþasagul}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sanþasagul}}
+  * {{desc|non|sannsǫgull}}
+  ** {{desc|is|sannsögull}}

@@ -1,0 +1,26 @@
+pageid: 5554613
+ns: 118
+title: Reconstruction:Proto-Germanic/Agiþewaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*agjō|t1=edge|*þewaz|t2=servant}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑ.ɣi.ˌθe.wɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Agiþeu}}
+  ** {{desc|ang|Eċġþēow|Eċġþēo|Eċġþīow}}
+  ** {{desc|goh|Egidio|Egideo}}
+  * {{desc|non|Eggþér}}

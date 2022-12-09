@@ -1,0 +1,29 @@
+pageid: 4034574
+ns: 118
+title: Reconstruction:Proto-Germanic/bruþą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰrewh₁-}}
+  From {{der|gem-pro|ine-pro|*bʰrewh₁-||to seethe; roil; brew}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbru.θɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[broth]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*brewwaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*broþ}}
+  * {{desc|non|broð}}
+  ** {{desc|is|broð}}

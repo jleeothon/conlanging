@@ -1,0 +1,38 @@
+pageid: 3692568
+ns: 118
+title: Reconstruction:Proto-Germanic/taugō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dewk-}}
+  Ultimately from {{der|gem-pro|ine-pro|*dewk-||to draw, pull}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtɑu̯.ɣɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[cord]], [[string]], [[rope]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*tawwą}}
+
+  ====Descendants====
+  * {{desctree|ang|tēag|id=cord}}
+  * {{desc|odt|*touga}}
+  ** {{desc|dum|toge|toog|tooch}}
+  *** {{desc|dum|tochener|toichener|der=1}}
+  **** {{desc|nl|togenaar}} {{gl|obsolete}}
+  * {{desc|non|taug}}; {{l|non|tog|g=n}} (from *tugą)
+  ** {{desc|da|tov}}
+  ** {{desc|is|taug}}
+  ** {{desc|nb|tau}}
+  ** {{desc|nn|tog}}
+  ** {{desc|gmq-osw|tugh|togh}}
+  *** {{desc|sv|tåg}}

@@ -1,0 +1,93 @@
+pageid: 5189225
+ns: 118
+title: Reconstruction:Proto-Germanic/ainagaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*ainīgaz}}
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*oynikós}}, equivalent to
+  {{suffix|gem-pro|*ainaz|*-gaz}}. Cognate with {{cog|la|ūnicus}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑɪ̯.nɑ.ɣɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[only]]; [[sole]]; [[singular]]; [[unique]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|ainag}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*ainaga}}
+
+  * {{l|gem-pro|*neainagaz}}
+
+  ** {{desctree|ang|nǣniġ}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*ainag|*ainīg}}
+
+  ** {{desc|ang|*āneġ|ǣneġ|āniġ|ǣniġ|āni|pos5=adj}}; {{l|ang|ānga}},
+  {{l|ang|ǣnga}}, {{l|ang|ēnga}}, {{l|ang|ǣnġe|pos=adv}}
+
+  *** {{desc|enm|aniȝ|eani|ony|eny|any}}
+
+  **** {{desc|sco|ony|onie}}
+
+  **** {{desc|en|any}}
+
+  ** {{desc|ofs|ēnig|ēnich|*ānig|ēng|āng}}
+
+  *** {{desc|stq|enig}}
+
+  *** {{desc|fy|ienich}}
+
+  ** {{desc|osx|ēnag|ēnig}}
+
+  *** {{desc|gml|ēnich}}
+
+  **** {{desc|nds-de|enig}}
+
+  ** {{desc|odt|*einag|einigh}}
+
+  *** {{desc|dum|enech}}
+
+  **** {{desc|nl|enig}}
+
+  ** {{desc|goh|einag|einac}}; ({{l|goh|einīg}})
+
+  *** {{desc|gmh|eineg|einec|einic}}
+
+  **** {{desc|de|einig}}
+
+  * {{desc|non|einigr|pos=adj}}; {{l|non|einga|pos=adv}} (in compounds)
+
+  ** {{desc|is|einigur}}
+
+  ** {{desc|fo|einigur}}
+
+  * {{desc|got|𐌰𐌹𐌽𐌰𐌷𐍃}}
+
+  * {{desc|fiu-fin-pro|*ainaga|bor=1}} {{see desc}}

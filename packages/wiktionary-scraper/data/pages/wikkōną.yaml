@@ -1,0 +1,84 @@
+pageid: 4423601
+ns: 118
+title: Reconstruction:Proto-Germanic/wikkōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*weyk-|id=separate}}
+
+  From Pre-Germanic {{m|ine-pro||*wik-néh₂-}}, from
+  {{der|gem-pro|ine-pro|*weyk-}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwik.kɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[practice]] sorcery
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|wikk}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*wikkô}}
+
+  * {{l|gem-pro|*wikkǭ}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*wigalaz}}
+
+  * {{l|gem-pro|*wīhaz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|wiccian|wiċċian}}
+
+  ** {{desc|enm|wicchen}}
+
+  *** {{desc|en|witch}}
+
+  *** {{desc|sco|wich|wech|witch}}
+
+  * {{desc|osx|*wikkōn}}
+
+  ** {{desc|gml|wicken}}
+
+  *** {{desc|nds-de|wicken}}
+
+  * {{desc|odt|*wikkon}}
+
+  ** {{desc|dum|wicken}}
+
+  *** {{desc|nl|wikken}}
+
+  * {{desc|goh|*wikkōn|*wihhōn}}
+
+  ** {{desc|gmh|wicken}}
+
+  *** {{desc|de|wicken}} {{q|obsolete}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

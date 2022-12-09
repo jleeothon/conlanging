@@ -1,0 +1,33 @@
+pageid: 7262850
+ns: 118
+title: Reconstruction:Proto-Germanic/lindīnaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*lindō|*-īnaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlin.diː.nɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # Made of [[lind]] wood, [[linden]].
+
+  ====Inflection====
+  {{gem-decl-adj-a|lindīn}}
+
+  ====Descendants====
+  * {{desc|ang|linden}}
+  ** {{desc|enm|linden}}
+  *** {{desc|en|linden}}
+  * {{desc|ofs|*linden}}
+  ** {{desc|fy|linenbeam|der=1}}
+  * {{desc|osx|*lindīn}}
+  ** {{desc|gml|linden}}
+  *** {{desc|nds-de|Linnenboom|der=1}}
+  * {{desc|goh|lintīn}}
+  ** {{desc|gmh|lintīn|lindīn}}
+  *** {{desc|de|linden}}

@@ -1,0 +1,39 @@
+pageid: 4532401
+ns: 118
+title: Reconstruction:Proto-Germanic/slōgiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{vrd|gem-pro|*slahaną|t=to hit, strike|ger=1}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈslɔː.ɣiz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # {{lb|gem-pro|North Germanic}} [[able]] to strike
+  # {{lb|gem-pro|North Germanic}} [[sly]], [[cunning]], [[clever]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*slōgijaną}}
+  * {{l|gem-pro|*slōgijǭ}}
+  * {{l|gem-pro|*slōgiþō}}
+
+  ====Descendants====
+  * {{desc|non|slœgr}}
+  ** {{desc|is|slægur}}
+  ** {{desc|nn|sløg}}
+  ** {{desc|gmq-oda|sløw}}
+  *** {{desc|da|sløv}} {{q|obsolete}}
+  ** {{desc|gmq-osw|sløgher}}
+  *** {{desc|sv|slög}} {{q|obsolete}}
+  ** {{desc|gmq-bot|slög|-slög|-slökt}}
+  ** {{desc|bor=1|enm|sley|sly}}
+  *** {{desc|sco|sley|sleye|sley}}
+  *** {{desc|en|sly}}

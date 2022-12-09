@@ -1,0 +1,23 @@
+pageid: 4990761
+ns: 118
+title: Reconstruction:Proto-Germanic/aikulaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+  ===Etymology===
+  Derived from the verb {{m|gem-pro|*aikaną|t=to make one's own}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[frightened]], [[terrified]]
+  # [[excited]]; [[trembling]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|aikul}}
+
+  ====Related terms====
+  * {{l|gem-pro|*aikaną}}
+
+  ====Descendants====
+  * {{desc|ang|acol|acul}}

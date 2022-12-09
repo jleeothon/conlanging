@@ -1,0 +1,54 @@
+pageid: 7775347
+ns: 118
+title: Reconstruction:Proto-Germanic/greupaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*gʰreubʰ-}}, Kroonen assumes backformation from the
+  iterative {{m|gem-pro|*gruppōną}} - {{m|gem-pro|*grubōną}}.<ref
+  name=Kroonen>{{R:gem:EDPG|*greupan- ~ *grūpan-|page=188-189}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣreu̯.pɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name=Kroonen></ref>
+
+
+  # to [[cut up]], to [[grind]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=2|greup|graup|grup|grup}}
+
+
+  ====Descendants====
+
+  * {{desc|non|*grjópa|*grúpa}}
+
+  ** {{desc|no|-}}
+
+  **: Nynorsk: {{l|nn|grjupe}}, {{l|nn|grupe}}
+
+  ** {{desc|ovd|griuopa}}
+
+  ** {{desc|sv|grjopa}}
+
+  ** {{desc|gmq-bot|grup}}
+
+  ** {{desc|gmq-gut|gröipa|grypa}}
+
+
+  ===References===
+
+  <references/>

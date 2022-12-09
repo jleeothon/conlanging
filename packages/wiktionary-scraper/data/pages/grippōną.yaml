@@ -1,0 +1,59 @@
+pageid: 4699232
+ns: 118
+title: Reconstruction:Proto-Germanic/grippōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*gʰribʰnéh₂-}}, a zero-grade iterative to the
+  root of {{m|gem-pro|*grīpaną||to grip}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣrip.pɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[grasp]]
+
+
+  ====Inflection====
+
+  The original paradigm likely consisted of two stem variants,
+  {{m|gem-pro||*gripp-}} in the singular and {{m|gem-pro||*grib-}} in the
+  non-singular.
+
+  {{gem-conj-wk2|gripp}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*graipōną}}
+
+
+  ====Descendants====
+
+  * {{desc|dum|grippen}}
+
+  ** ({{desc|nl|gribbelen}})
+
+  * Alsatian: {{l|de|grippen}} (?)
+
+  * ({{desc|non|gripla}})
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

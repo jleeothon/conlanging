@@ -1,0 +1,29 @@
+pageid: 4606584
+ns: 118
+title: Reconstruction:Proto-Germanic/skutiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  A zero-grade i-stem derived from {{m|gem-pro|*skeutaną||to shoot}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsku.tiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[shooting]], [[shot]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*skutą}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skuti}}
+
+  ====Further reading====
+  * {{R:gem:EDPG}}

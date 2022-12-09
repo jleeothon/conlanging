@@ -1,0 +1,42 @@
+pageid: 5965978
+ns: 118
+title: Reconstruction:Proto-Germanic/tugô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dewk-}}
+  From the zero-grade of {{af|gem-pro|*teuhaną|*-ô|id2=agent noun}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtu.ɣɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # he who draws; [[leader]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*togō}}
+  ** {{desc|ang|toga|toha}}
+  *** {{desc|enm|toȝe|togh}}
+  **** {{desc|en|toga}} {{qualifier|historical term}}, {{l|en|tog}}
+  ** {{desc|ofs|hertoga}}
+  *** {{desc|fy|toch}}
+  ** {{desc|osx|togo}}
+  *** {{desc|nds|Tog}}
+  ** {{desc|odt|*togo}}
+  *** {{desc|dum|toge|toche}}
+  **** {{desc|nl|hertog}}
+  ***** {{desc|af|tog}}
+  ** {{desctree|goh|*zogo}}
+  * {{desc|non|togi}} (''possibly from Middle Low German'')
+  ** {{desc|is|togi}}
+  ** {{desc|fo|togi|tugi}}
+  ** {{desc|no|tug}}
+  ** {{desc|sv|tig}}
+  ** {{desc|da|tug}}

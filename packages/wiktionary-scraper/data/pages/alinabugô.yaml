@@ -1,0 +1,60 @@
+pageid: 4040115
+ns: 118
+title: Reconstruction:Proto-Germanic/alinabugô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*Heh₃l-|*bʰewgʰ-}}
+
+  From {{compound|gem-pro|*alinō|t1=[[ell]], [[ulna]], forearm|*bugô|t2=bend,
+  bow}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑl.in.bu.ɣɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topics|gem-pro|Body parts}} [[elbow]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|elnboga}}
+
+  * {{desc|ofs|*elboga}}
+
+  ** {{desc|stq|Älbooge}}
+
+  * {{desc|osx|*elinbogo}}
+
+  ** {{desc|gml|ellebōge}}
+
+  *** {{desc|nds-de|Ellebage}}
+
+  *** {{desc|pdt|Alboagen}}
+
+  * {{desc|odt|*elinbogo}}
+
+  ** {{desc|dum|ellenboge|alt=ellenbōge|ellenboghe|alt2=ellenbōghe}}
+
+  *** {{desctree|nl|elleboog}}
+
+  * {{desctree|goh|elinbogo}}
+
+  * {{desctree|non|ǫlnbogi}}

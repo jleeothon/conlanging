@@ -1,0 +1,64 @@
+pageid: 3844935
+ns: 118
+title: Reconstruction:Proto-Germanic/weruz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*warzuz}} (?)
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*wer-|id=rise}}
+
+  From {{der|gem-pro|ine-pro|*wer-|t=high, raised area, tuber, lump,
+  blister|id=rise}}. Compare {{cog|la|varus||pimple|id=pimple}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwe.ruz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # {{lb|gem-pro|anatomy}} [[lip]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*werulō}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*weru}}; {{l|gmw-pro|*werulu}}
+
+  ** {{desc|der=1|ang|weler|weolor|welur}} (< {{l|gem-pro|*werulō}})
+
+  ** {{desc|ofs|were}}
+
+  *** {{desc|frr|ware|were}}
+
+  * {{desc|non|vǫrr}}
+
+  ** {{desc|is|vör}}
+
+  ** {{desc|fo|vørr}}
+
+  ** {{desc|gmq-bot|månvärr|alt=värr}}
+
+  * {{desc|der=1|got|𐍅𐌰𐌹𐍂𐌹𐌻𐍉}} (< {{l|gem-pro|*werulō}})

@@ -1,0 +1,29 @@
+pageid: 5557140
+ns: 118
+title: Reconstruction:Proto-Germanic/wīhijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*wīhaz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwiː.xi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[hallow]], to [[consecrate]]
+
+  ====Inflection====
+  {{gem-conj-wk1|wīh|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wīhijan}}
+  * {{desc|non|vígja}}
+  ** {{desc|is|vígja}}
+  ** {{desc|gmq-osw|vighia|alt=vīghia|vigha|alt2=vīgha}}
+  *** {{desc|sv|viga}}
+  *** {{desc|fi|vihkiä|bor=1}}
+  ** {{desc|da|vie}}

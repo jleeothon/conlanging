@@ -1,0 +1,86 @@
+pageid: 3591163
+ns: 118
+title: Reconstruction:Proto-Germanic/slidô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*sleydʰ-}}
+
+  Zero-grade form of the root of {{m|gem-pro|*slīdaną}}
+  {{suf|gem-pro||*-ô|id2=agent noun}}, literally “slider”.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsli.ðɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|head=*slidan-|page=454}}</ref>
+
+
+  # [[sled]], [[sleigh]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*slīdaną}}
+
+  * {{l|gem-pro|*slidraz}}
+
+
+  ====Descendants====
+
+  * {{desc|ofs|*slida}}
+
+  ** {{desc|stq|sliede}}
+
+  ** {{desc|fy|slide}}
+
+  * {{desc|osx|slido}}
+
+  ** {{desc|gml|slede}}
+
+  * {{desc|odt|*slido}}
+
+  ** {{desctree|dum|slēde}}
+
+  * {{desc|goh|slito}}
+
+  ** {{desc|gmh|slite}}
+
+  *** {{desc|de|Schlitten}}
+
+  *** {{desc|lb|Schlitt}}
+
+  *** {{desc|it|slitta|bor=1}}
+
+  * {{desc|non|sleði}}
+
+  ** {{desc|is|sleði}}
+
+  ** {{desc|no|slede}}
+
+  ** {{desc|gmq-osw|sliþi|slæþi}}
+
+  *** {{desc|sv|släde}}
+
+  ** {{desc|da|slæde}}
+
+  ** {{desc|gmq-bot|sla|släa}} ({{l|gmq-bot|sljär}}?)
+
+
+  ===References===
+
+  <references/>

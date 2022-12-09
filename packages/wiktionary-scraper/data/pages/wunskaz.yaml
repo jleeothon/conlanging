@@ -1,0 +1,48 @@
+pageid: 7425906
+ns: 118
+title: Reconstruction:Proto-Germanic/wunskaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*wunskō}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*wenh₁-|t=to wish, love}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwun.skɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:HGE|*wunskō~*wunskaz|475}}</ref>
+
+  # [[wish]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*wunskijaną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wanjaną}}
+  * {{l|gem-pro|*wunāną}}
+  * {{l|gem-pro|*winnaną}}
+  * {{l|gem-pro|*wundrą}}
+  * {{l|gem-pro|*wunjō}}
+  * {{l|gem-pro|*winiz}}
+
+  ====Descendants====
+  * {{desc|ang|wūsc}}
+  * {{desc|osx|*wunsk}}
+  ** {{desc|gml|wunsch}}
+  * {{desc|odt|*wunsk}}
+  ** {{desc|dum|wonsch}} {{l|dum|wensch}}
+  *** {{desc|nl|wens}}
+  * {{desc|goh|wunsk}}
+  ** {{desc|gmh|wunsch}}
+  *** {{desc|de|Wunsch}}
+  * {{desctree|non|ósk|g=f}}
+
+  ===References===

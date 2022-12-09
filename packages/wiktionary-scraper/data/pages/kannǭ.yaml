@@ -1,0 +1,126 @@
+pageid: 3628288
+ns: 118
+title: Reconstruction:Proto-Germanic/kannǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Probably from {{der|gem-pro|ine-pro|*gandʰ-}}, {{m|ine-pro|*gan-|t=a vessel,
+  vat, tub}}, related to {{m|gem-pro|*kanô|t=vessel, boat}}. An alternative
+  etymology derives *''kannǭ'' as possibly from {{noncog|la|canna|t=a reed,
+  cane}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkɑn.nɔ̃ː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # a [[tankard]], [[mug]], [[cup]], [[can]]
+
+  # a [[jug]], [[pitcher]], [[pot]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*kanô}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*kannā}}
+
+  ** {{desc|ang|canne}}
+
+  *** {{desc|enm|canne}}
+
+  **** {{desc|sco|can}}
+
+  **** {{desc|en|can}}
+
+  ***** {{desc|gd|cana|bor=1}}
+
+  ** {{desc|ofs|kanne|konne}}
+
+  *** {{desc|stq|Kanne}}
+
+  *** {{desc|fy|kanne}}
+
+  ** {{desc|osx|kanna}}
+
+  *** {{desc|gml|kanne}}
+
+  **** {{desc|nds-de|Kanne|Kann}}
+
+  ** {{desc|odt|*kanna}}
+
+  *** {{desc|dum|kanne}}
+
+  **** {{desc|nl|kan}}
+
+  ** {{desc|bor=1|ML.|canna|cana|canneta|caneta|cannata}}
+
+  *** {{desc|frm|kanete|bor=1}}
+
+  **** {{desc|fr|canette}}
+
+  *** {{desc|gkm|καννίον|κανίον|κανίν|bor=1}}
+
+  **** {{desc|myz|ࡒࡀࡍࡉࡍࡀ|bor=1|ts=qannīnā}}
+
+  **** {{desc|syc|ܩܢܝܢܬܐ|bor=1|ts=qannīntā}}
+
+  ***** {{desc|ar|قِنِّينَة|bor=1}}
+
+  **** {{desc|he-mis|[[קאנון]] / [[קנון]]|bor=1}}
+
+  ** {{desc|goh|channa}}
+
+  *** {{desc|gmh|kanne}}
+
+  **** {{desc|de|Kanne}}
+
+  ***** {{desc|hu|kanna|bor=1}}
+
+  ***** {{desc|bg|ка́на|bor=1}}
+
+  ***** {{desc|dsb|kana|bor=1}}
+
+  **** {{desc|lb|Kan}}
+
+  * {{desc|non|kanna}}
+
+  ** {{desc|is|kanna}}
+
+  ** {{desc|fo|kanna}}
+
+  ** {{desc|no|kanne}}
+
+  ** {{desc|gmq-osw|kanna}}
+
+  *** {{desc|sv|kanna}}
+
+  *** {{desc|fi|kannu|bor=1}}
+
+  *** {{desc|et|kann|bor=1}}
+
+  ** {{desc|da|kande}}
+
+  ** {{desc|nrf|canne|bor=1}}; {{l|nrf|cannette}} {{qual|Jersey}}
+
+
+  {{topics|gem-pro|Containers}}

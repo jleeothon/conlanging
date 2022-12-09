@@ -1,0 +1,35 @@
+pageid: 2947695
+ns: 118
+title: Reconstruction:Proto-Germanic/hwassaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*kʷh₁dtós||sharpened}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxʷɑs.sɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[sharp]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|hwass}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hwassį̄}}
+  * {{l|gem-pro|*hwassijaną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*hwētaną}}
+  * {{l|gem-pro|*hwataz}}
+  * {{l|gem-pro|*hwatjaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hwass}}
+  * {{desctree|non|hvass}}
+  * {{desc|got|*𐍈𐌰𐍃𐍃}}
+  ** {{desc|got|𐍈𐌰𐍃𐍃𐌰𐌱𐌰|der=1}}

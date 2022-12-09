@@ -1,0 +1,84 @@
+pageid: 3638171
+ns: 118
+title: Reconstruction:Proto-Germanic/þanhtaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*þanhtiz|*þanhtą}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*teng-|id=think}}
+
+  From {{m|gem-pro|*þankijaną}}, from {{der|gem-pro|ine-pro|*teng-||to
+  think|id=think}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈθɑ̃ːx.tɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[thought]], [[idea]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*þankaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*þą̄ht}}
+
+  ** {{desc|ang|þōht|g=m,n|ġeþōht|g2=m,n|þeaht|g3=n|ġeþeaht|g4=f,n}}
+
+  *** {{desc|enm|ȝeþoȝt|ithoght|thought}}
+
+  **** {{desc|sco|thocht}}
+
+  **** {{desc|en|thought}}
+
+  ** {{desc|ofs|thōchte|gethāht|*thāht}}
+
+  *** {{desc|stq|Toacht}}
+
+  *** {{desc|fy|dacht}} (in compounds)
+
+  ** {{desc|osx|githāht|g=f}}
+
+  *** {{desc|gml|gedahte|gedochte}}
+
+  **** {{desc|nds|Gedacht}} {{i|rare}}, {{l|nds|Andacht}}
+
+  ** {{desc|odt|*githāht}} (attested as plural {{l|odt|githāhti}})
+
+  *** {{desc|dum|gedachte|ghedachte|ghedochte}}
+
+  **** {{desc|nl|gedachte}}
+
+  ** {{desc|goh|gidāht|gedāht}}, *dāht, {{l|goh|anadāht}}
+
+  *** {{desc|gmh|gedæhte|alt=gedǣhte|dāht|g2=f|andāht}}
+
+  **** {{desc|de|Andacht}}
+
+  * {{desc|non|þóttr|g=m|þótti|g2=n}}
+
+  * {{desc|got|𐌰𐌽𐌳𐌰𐌸𐌰𐌷𐍄𐍃}} {{q|adjective}}

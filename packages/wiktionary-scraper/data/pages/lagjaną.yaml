@@ -1,0 +1,36 @@
+pageid: 2300250
+ns: 118
+title: Reconstruction:Proto-Germanic/lagjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*legʰ-}}
+  From {{affix|gem-pro|*ligjaną|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑɣ.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[lay]], to [[place]] in a resting position
+
+  ====Inflection====
+  {{gem-conj-wk1|lag|j=j}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*abalagjaną}}
+  * {{l|gem-pro|*analagjaną}}
+  * {{l|gem-pro|*atlagjaną}}
+  * {{l|gem-pro|*galagjaną}}
+  * {{l|gem-pro|*lagīniz}}
+  * {{l|gem-pro|*uberlagjaną}}
+  * {{l|gem-pro|*uzlagjaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*laggjan}}
+  * {{desctree|non|leggja}}
+  * {{desc|got|𐌻𐌰𐌲𐌾𐌰𐌽}}
+  * {{desc|fiu-fin-pro|*laittadak|bor=1|unc=1}}

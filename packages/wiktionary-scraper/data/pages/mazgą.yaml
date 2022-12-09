@@ -1,0 +1,33 @@
+pageid: 3388876
+ns: 118
+title: Reconstruction:Proto-Germanic/mazgą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*mosgʰós}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑz.ɣɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{topics|gem-pro|Body parts}} [[marrow]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*maʀg}}
+  * {{desc|non|mergr}}
+  ** {{desc|is|mergur}}
+  ** {{desc|fo|mergur}}
+  ** {{desc|no|-}}
+  *** {{desc|nb|marg}}
+  *** {{desc|nn|merg}}
+  ** {{desc|nrn|mergi}}
+  ** {{desc|da|marv}}
+  ** {{desc|gmq-osw|mærgher}}
+  *** {{desc|sv|märg}}

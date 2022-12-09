@@ -1,0 +1,30 @@
+pageid: 7656483
+ns: 118
+title: Reconstruction:Proto-Germanic/wēgijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*weganą|t1=to move|*janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɛː.ɣi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="Orel">{{R:gem:HGE|*wēʒjanan|page=460}}</ref>
+
+  # to cause to [[move]]
+  # to [[give way]], to [[yield]]
+
+  ====Inflection====
+  {{gem-conj-wk1|wēg|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*wēgijan}}
+  ** {{desc|osx|wāgian}}
+  * {{desc|non|vægja}}
+  ** {{desc|is|vægja}}
+
+  ===References===
+  <references/>

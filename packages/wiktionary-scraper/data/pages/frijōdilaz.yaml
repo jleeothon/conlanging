@@ -1,0 +1,55 @@
+pageid: 9019118
+ns: 118
+title: Reconstruction:Proto-Germanic/frijōdilaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*frīodilaz|*frīudilaz|*frīuþilaz||Late, West Germanic}}
+
+
+  ===Etymology===
+
+  From {{suf|gem-pro|*frijōdaz|t1=loved|pos1=past participle of
+  {{m|gem-pro|*frijōną}}|*-ilaz|pos2=agent suffix|id2=agent noun}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{lb|gem-pro|West Germanic}} [[beloved]] one; [[spouse]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*frīudil|*friudil|*friuþil}}
+
+  ** {{desc|ofs|friūdel|friūdelf|frūdelf}}
+
+  ** {{desc|osx|*friudil|friuthil}}
+
+  *** {{desc|gml|vrîdel|vrēdel|vridel}}
+
+  ** {{desc|odt|*friuthil|*frūthil}}
+
+  *** {{desc|dum|vriedel}}
+
+  *** {{desc|odt|frūthilo|der=1}}
+
+  ** {{desc|goh|friudil}}
+
+  *** {{desc|gmh|vriedel}}
+
+  **** {{desc|gmh|Friedel}} {{gl|merged with descendant of
+  {{m|gem-pro|*friþilaz}}}}

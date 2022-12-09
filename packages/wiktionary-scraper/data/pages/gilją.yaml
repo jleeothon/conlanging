@@ -1,0 +1,33 @@
+pageid: 4799064
+ns: 118
+title: Reconstruction:Proto-Germanic/gilją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*ǵʰēy-|t=to yawn, gape}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣil.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[cleft]]; [[gully]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*gailō}}
+
+  ====Descendants====
+  * {{desc|goh|*gil}}
+  ** {{desc|gmh|gil}}
+  * {{desc|non|gil}}
+  ** {{desc|is|gil}}
+  ** {{desc|fo|gil}}
+  ** {{desc|bor=1|enm|gille|gylle}}
+  *** {{desc|sco|gil|gill|gyll}}
+  *** {{desc|en|gill}}

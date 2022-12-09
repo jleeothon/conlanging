@@ -1,0 +1,48 @@
+pageid: 3652527
+ns: 118
+title: Reconstruction:Proto-Germanic/wandrōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*wendʰ-}}
+  From {{suffix|gem-pro|*wandijaną|*rōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑnd.rɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{lb|gem-pro|West Germanic}} to [[waver]], [[change]], [[fluctuate]]
+  # {{lb|gem-pro|West Germanic}} to [[wander]]
+
+  ====Inflection====
+  {{gem-conj-wk2|wandr}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wandilaz}}
+  * {{l|gem-pro|*wandlōną}}
+
+  ====Descendants====
+  * {{desc|ang|wandrian}}
+  ** {{desc|enm|wandrien|wondrien|wandren}}
+  *** {{desc|sco|wander}}
+  *** {{desc|en|wander}}
+  * {{desc|ofs|wandria|wondria}}
+  ** {{desc|stq|wonderje}}
+  * {{desc|osx|*wandrōn}}
+  ** {{desc|gml|wanderen}}
+  *** {{desc|nds-de|wandern|wannern}}
+  *** {{desc|da|vandre|bor=1}}
+  *** {{desc|sv|vandra|bor=1}}
+  *** {{desc|no|vandre|bor=1}}
+  * {{desc|odt|*wandrōn}}
+  ** {{desc|dum|wanderen}}
+  * {{desc|goh|*wantarōn|*wandarōn}}
+  ** {{desc|gmh|wanderen|wandern}}
+  *** {{desc|de|wandern}}
+  **** {{desc|szl|wandrować|bor=1}}
+  *** {{desc|lb|wanderen}}
+  *** {{desc|pl|wędrować|bor=1}}

@@ -1,0 +1,35 @@
+pageid: 4680298
+ns: 118
+title: Reconstruction:Proto-Germanic/tihtiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*deyḱ-}}
+  From {{suffix|gem-pro|*tīhaną|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtix.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[showing]], [[announcement]], relating of events
+  # [[accusation]], [[blame]], [[charge]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*tihtijaną}}
+
+  ====Descendants====
+  * {{desc|ang|tiht}}
+  ** {{desc|enm|tiȝt|tight}}
+  * {{desc|ofs|tichta}}
+  * {{desc|osx|*tiht}}
+  ** {{desc|gml|ticht}}
+  * {{desc|goh|*ziht}} (in {{l|goh|biziht}}, {{l|goh|inziht}})
+  ** {{desc|gmh|ziht}}
+  *** {{desc|de|Inzicht}}

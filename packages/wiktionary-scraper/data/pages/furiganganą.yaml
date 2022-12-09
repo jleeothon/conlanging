@@ -1,0 +1,21 @@
+pageid: 7638578
+ns: 118
+title: Reconstruction:Proto-Germanic/furiganganą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*furi-|*ganganą}}.
+
+  ===Verb===
+  {{head|gem-pro|verb}}
+
+  # to [[pass by]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7c|nopass=1|furigang|furigegang|furigegang|furigang}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*furigangan}}
+  * {{desc|got|𐍆𐌰𐌿𐍂𐌲𐌰𐌲𐌲𐌰𐌽}}

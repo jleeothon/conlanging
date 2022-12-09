@@ -1,0 +1,114 @@
+pageid: 3619601
+ns: 118
+title: Reconstruction:Proto-Germanic/butmaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*budmaz}}, {{l|gem-pro|*budmô}}, {{l|gem-pro|*buttmô}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*bʰudʰmḗn}}, gen. {{m|ine-pro||*bʰudʰmnós}}.
+  According to Kroonen, the -m- had been dissimilated in the genitive already in
+  Proto-Indo-European, giving {{cog|sa|बुध्न}} and {{cog|la|fundus}}, resulting
+  in a Germanic paradigm of {{m|gem-pro||*budm-}}, {{m|gem-pro||*butt-}}, which
+  then gave rise to other variants.<ref>{{R:gem:EDPG}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbut.mɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[bottom]]; [[foundation]]
+
+  # [[ground]]
+
+  # [[abyss]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  The original paradigm of {{m|gem-pro||*budm-}}, {{m|gem-pro||*butm-}} allowed
+  for different leveling among the daughter languages.
+
+  * {{desc|ang|bodan}}, {{desctree|notext=1|ang|botm}}
+
+  * {{desc|ofs|bodem|boden}}
+
+  ** {{desc|frr|bom}}
+
+  ** {{desc|stq|Boudem}}
+
+  ** {{desc|fy|beame}} {{i|archaic}}, {{l|fy|boaiem}}, {{l|fy|boom}}
+
+  * {{desctree|osx|bodom}}
+
+  * {{desc|odt|*bodom}}
+
+  ** {{desc|dum|bodem}}
+
+  *** {{desctree|nl|bodem}}
+
+  *** {{desc|li|boeadem|baom}}
+
+  * {{desc|goh|bodam|podam}}
+
+  ** {{desc|gmh|bodem|boden}}
+
+  *** {{desc|de|Boden}}
+
+  *** {{desc|hrx|Boddem}}
+
+  *** {{desc|lb|Buedem}}
+
+  * {{desc|non|botn}}
+
+  ** {{desc|is|botn}}
+
+  ** {{desc|fo|botnur}}
+
+  ** {{desc|nn|botn}}
+
+  *** {{desc|nb|botn|bor="1"}}
+
+  ** {{desc|nb|bånn}}
+
+  ** {{desc|gmq-osw|butn|botn}}
+
+  *** {{desc|sv|botten}}
+
+  ** {{desc|gmq-oda|botn|bon}}
+
+  *** {{desc|da|bund}}
+
+  **** {{desc|nb|bunn}}
+
+  ** {{desc|gmq-bot|butn}}
+
+  ** {{desc|ovd|buottn}}
+
+  ** {{desc|gmq-gut|buttn}}
+
+  ** {{desc|gmq-scy|bónð}}
+
+
+  ===References===
+
+  <references/>

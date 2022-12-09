@@ -1,0 +1,29 @@
+pageid: 4894783
+ns: 118
+title: Reconstruction:Proto-Germanic/harduhertaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ḱerd-}}
+  From {{compound|gem-pro|*harduz|*hertô}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑr.ðu.ˌxer.tɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[hardhearted]], [[severe]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|harduhert}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*harduhirtį̄}}
+
+  ====Descendants====
+  * {{desc|ang|heardheort}}
+  ** {{desc|enm|hardhert}}
+  * {{desc|got|*𐌷𐌰𐍂𐌳𐌿𐌷𐌰𐌹𐍂𐍄𐍃|𐌷𐌰𐍂𐌳𐌿𐌷𐌰𐌹𐍂𐍄𐌴𐌹}}

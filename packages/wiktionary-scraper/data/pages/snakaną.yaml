@@ -1,0 +1,26 @@
+pageid: 4983973
+ns: 118
+title: Reconstruction:Proto-Germanic/snakaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*sneg-||to creep, crawl}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsnɑ.kɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[crawl]]
+
+  ====Inflection====
+  {{gem-conj-st|class=6|snak|snōk|snōk|snak}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*snakô}}
+
+  ====Descendants====
+  * {{desc|goh|snahhan}}

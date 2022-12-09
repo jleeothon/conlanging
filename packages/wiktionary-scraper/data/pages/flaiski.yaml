@@ -1,0 +1,32 @@
+pageid: 3707675
+ns: 118
+title: Reconstruction:Proto-Germanic/flaiski
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*pleh₁ḱ-||to tear, peel off}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸlɑi̯.ski/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{topics|gem-pro|Food and drink}} [[meat]], [[flesh]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*flaiski}}
+  * {{desc|non|flesk|fleski}}
+  ** {{desc|is|flesk}}
+  ** {{desc|fo|flesk}}
+  ** {{desc|no|-}} {{l|nn|flesk}}
+  ** {{desc|gmq-osw|flæsk}}
+  *** {{desc|sv|fläsk}}
+  *** {{desc|bor=1|fi|läski}}
+  ** {{desc|gmq-oda|flæsk}}
+  *** {{desc|da|flæsk}}

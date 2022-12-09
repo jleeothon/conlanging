@@ -1,0 +1,31 @@
+pageid: 4487920
+ns: 118
+title: Reconstruction:Proto-Germanic/spihtaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*spehtaz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)peyk-||woodpecker; magpie}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Piciforms}} [[woodpecker]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*spehaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*spiht}}
+  * {{desc|non|spettr|spætr}}
+  ** {{desc|no|spetta}}
+  ** {{desc|gmq-bot|spit}}
+  ** {{desc|sv|spett}}
+  ** {{desc|da|spætte}}

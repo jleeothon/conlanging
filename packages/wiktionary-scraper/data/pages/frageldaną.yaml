@@ -1,0 +1,43 @@
+pageid: 4591090
+ns: 118
+title: Reconstruction:Proto-Germanic/frageldaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*fra|*geldaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɸrɑ.ˈɣel.dɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[pay up]]; [[renumerate]]
+  # to [[pay back]]; [[repay]]; [[restore]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|frageld|fragald|fraguld|fraguld}}
+
+  ====Descendants====
+  * {{desc|ang|forġieldan|forġildan}}
+  ** {{desc|enm|forȝelden|foryelden}}
+  *** {{desc|sco|foryeild}}
+  *** {{desc|en|foryield}}
+  * {{desc|ofs|forielda|forjelda}}
+  ** {{desc|stq|ferjäilde}}
+  ** {{desc|fy|ferjilde}}
+  * {{desc|osx|fargeldan}}
+  ** {{desc|gml|forgelden|vorgelden}}
+  *** {{desc|nds-de|vergelden}}
+  * {{desc|odt|fargeldan}}
+  ** {{desc|dum|vergelden}}
+  *** {{desc|nl|vergelden}}
+  * {{desc|goh|fargeltan}}
+  ** {{desc|gmh|vergelten}}
+  *** {{desc|de|vergelten}}
+  * {{desc|non|*forgjalda}}
+  ** {{desc|gmq-oda|forgælde}} {{i|possibly from Low German}}
+  *** {{desc|da|forgælde}}
+  * {{desc|got|𐍆𐍂𐌰𐌲𐌹𐌻𐌳𐌰𐌽}}

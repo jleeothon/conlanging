@@ -1,0 +1,28 @@
+pageid: 7502123
+ns: 118
+title: Reconstruction:Proto-Germanic/trekaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*dreg-|t=to pull}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtre.kɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[push]]
+  # to [[drag]]
+  # to [[scratch]]
+
+  ====Inflection====
+  {{gem-conj-st|class=5|trek|trak|trēk|trek}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*trakjaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*trekan}}

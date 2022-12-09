@@ -1,0 +1,28 @@
+pageid: 7440453
+ns: 118
+title: Reconstruction:Proto-Germanic/wīgalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*wīgą|*-līkaz|t1=battle}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwiː.ɣɑˌliː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*wīga-līkaz|465}}</ref>
+
+  # [[martial]], [[militant]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wīgalīk}}
+  * {{desc|non|vígligr}}
+  ** {{desc|non|víglegur}}
+
+  ===References===
+  <references/>

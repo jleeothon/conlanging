@@ -1,0 +1,59 @@
+pageid: 5104241
+ns: 118
+title: Reconstruction:Proto-Germanic/snerkaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*(s)nerg-}}, {{m|ine-pro|*(s)nerk-||to turn; wind;
+  lace; shrink; shrivel}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsner.kɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[shrink]]; [[shrivel]]; [[contract]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=3|snerk|snark|snurk|snurk}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*snarkijaną}}
+
+  * {{l|gem-pro|*snurkijaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*snerkan}}
+
+  ** {{desc|ang|*sneorcan}} 
+
+  *** {{desctree|ang|ġesneorcan|der=1|noalts=1}}
+
+  * {{desc|non|*snerka}}; {{l|non|*snorkinn}}; {{l|non|snorkil|pos=noun}}
+
+  ** {{desc|is|snorkinn|pos=ppt}}
+
+  ** {{desc|no|snerka|snerke}} {{i|dialectal}}
+
+  ** {{desc|gmq-osw|snorkin}}
+
+  ** {{desc|enm|*snirken|bor=1}}; {{l|enm|snorkil}}
+
+  *** {{desc|sco|snirk}} {{i|intransitive senses}}

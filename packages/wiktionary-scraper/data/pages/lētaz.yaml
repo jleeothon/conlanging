@@ -1,0 +1,40 @@
+pageid: 6158866
+ns: 118
+title: Reconstruction:Proto-Germanic/lētaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*lētaną|t=to let; free; release}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɛː.tɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[freeman]]
+  # [[bondsman]]; [[serf]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|lǣt}}
+  * {{desc|ofs|lēt}}
+  * {{desc|osx|lāt}}
+  ** {{desc|gml|lât}}
+  * {{desc|frk|*lāt}}
+  ** {{desc|odt|*lāt}}
+  *** {{desc|dum|lâet}}
+  **** {{desc|nl|laat}}
+  * {{desc|goh|lāz}}; {{l|goh|lāza|g=f}}
+  ** {{desc|gmh|lazze|g=m}}
+  * {{desc|non|*látr}}
+  * {{desc|got|*𐌻𐌴𐍄𐍃}} {{qual|in derivatives: {{l|got|𐍆𐍂𐌰𐌻𐌴𐍄𐍃}}}}
+  ** {{desc|bor=1|ML.|laetus|litus}}
+  *** {{desc|bor=1|osx|lido|liddo}}
+  *** {{desc|goh|litus|bor=1}}
+  **** {{desc|gmh|*lite}}
+  ***** {{desc|de|Lite}}

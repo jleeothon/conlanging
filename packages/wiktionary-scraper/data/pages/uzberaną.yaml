@@ -1,0 +1,27 @@
+pageid: 4915533
+ns: 118
+title: Reconstruction:Proto-Germanic/uzberaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰer-}}
+  From {{af|gem-pro|*uz-|*beraną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌuz.ˈbe.rɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[bear off]], away
+  # to [[bring forth]], [[produce]]
+
+  ====Inflection====
+  {{gem-conj-st|class=4|uzber|uzbar|uzbēr|uzbur}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*uʀberan}}
+  * ({{desc|non|bera|t=to bear off, away}})
+  * {{desc|got|𐌿𐍃𐌱𐌰𐌹𐍂𐌰𐌽}}

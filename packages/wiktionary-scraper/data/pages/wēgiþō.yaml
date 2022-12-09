@@ -1,0 +1,25 @@
+pageid: 3692592
+ns: 118
+title: Reconstruction:Proto-Germanic/wēgiþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*wēgijaną}} or {{suffix|gem-pro|*wēgijaz|*iþō}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[lenience]], [[mercy]]
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|non|vægð}}
+  ** {{desc|is|vægð}}
+  ** {{desc|nn|vægd}}
+
+  ===References===
+  * {{R:Íslensk orðsifjabók 1989}}

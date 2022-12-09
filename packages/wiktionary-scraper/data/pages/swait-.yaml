@@ -1,0 +1,104 @@
+pageid: 4539323
+ns: 118
+title: Reconstruction:Proto-Germanic/swait-
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*sweyd-}}
+
+  From Pre-Germanic {{m|ine-pro||*swoydo-}}, from
+  {{der|gem-pro|ine-pro|*sweyd-||to sweat}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈswɑi̯.tɑz/}} {{q|masculine a-stem}}
+
+  * {{IPA|gem-pro|/ˈswɑi̯.tɑ̃/}} {{q|neuter a-stem}}
+
+  * {{IPA|gem-pro|/ˈswɑi̯.tɔːː/}} {{q|masculine n-stem}}
+
+
+  ===Noun===
+
+  {{gem-noun|m|g2=n}}
+
+
+  # [[sweat]]; [[blood]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|swait|stem=a|g=m}}
+
+  {{gem-decl-noun|swait|stem=a|g=n}}
+
+  {{gem-decl-noun|swait|stem=n|g=m}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*swaitaną}}
+
+  * {{l|gem-pro|*swaitijaną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*switjaną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|swāt}} (< {{m|gem-pro||*swaitą}})
+
+  ** {{desc|enm|swate|swote|swot|swete|swet}} (< under influence from the verb)
+
+  *** {{desc|sco|swate|swait|swete|sweit}}
+
+  *** {{desc|en|sweat}}
+
+  **** {{desc|eo|ŝvito|bor=1}}
+
+  *** {{desc|en|swot}}
+
+  * {{desc|ofs|swēt}} (< {{m|gem-pro||*swaitaz}})
+
+  ** {{desc|frr|swiet}}
+
+  ** {{desc|stq|Sweet|g=n}}
+
+  ** {{desc|fy|swit}}
+
+  * {{desc|osx|swēt}}
+
+  ** {{desc|gml|swēt}}
+
+  *** {{desc|nds-de|Sweet}}
+
+  * {{desc|odt|*swēt}}
+
+  ** {{desctree|dum|swêet}}
+
+  * {{desc|goh|sweiz}} (< {{m|gem-pro||*swaitaz}})
+
+  ** {{desc|gmh|sweiz}}
+
+  *** {{desc|de|Schweiß}}
+
+  *** {{desc|lb|Schweess}}
+
+  *** {{desc|wym|śwaas}}
+
+  * {{desc|non|sveiti}} (< {{m|gem-pro||*swaitô}})
+  {{desctree|non|sveiti|noparent=1}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

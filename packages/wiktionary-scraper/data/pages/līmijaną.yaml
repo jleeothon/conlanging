@@ -1,0 +1,31 @@
+pageid: 8199713
+ns: 118
+title: Reconstruction:Proto-Germanic/līmijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*līmaz|t1=glue|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈliː.mi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[adhere]]
+  # to [[glue]] together
+
+  ====Inflection====
+  {{gem-conj-wk1|līm|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*līmijan}}
+  * {{desc|non|líma}}
+  ** {{desc|is|líma}}
+  ** {{desc|no|-}}
+  **: {{desc|nb|lime}}
+  **: {{desc|nn|lime}}, {{l|nb|lima}}
+  ** {{desc|sv|limma}}
+  ** {{desc|da|lime}}

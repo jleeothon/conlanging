@@ -1,0 +1,31 @@
+pageid: 4395973
+ns: 118
+title: Reconstruction:Proto-Germanic/arhwō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*h₂érkʷo-||bow, arrow}}. Compare {{cog|la|arcus}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑr.xʷɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*arhwō-|34}}</ref>
+
+  # {{topics|gem-pro|Weapons}} [[arrow]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*arhu}}
+  * {{desctree|non|ǫr}}
+  * {{desc|got|*𐌰𐍂𐍈𐌰}}
+  ** {{desc|got|𐌰𐍂𐍈𐌰𐌶𐌽𐌰|der=1}}
+
+  ===References===
+  <references/>
+
+  [[fr:Annexe:proto-germanique/*arhwō]]

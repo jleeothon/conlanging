@@ -1,0 +1,92 @@
+pageid: 4038904
+ns: 118
+title: Reconstruction:Proto-Germanic/bazōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{af|gem-pro|*bazaz|*-ōną}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɑ.zɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[bare]], make bare
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|baz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*baʀōn}}
+
+  ** {{desc|ang|barian}}
+
+  *** {{desc|enm|baren}}
+
+  **** {{desc|sco|bare}}
+
+  **** {{desc|en|bare}}
+
+  ** {{desc|ofs|baria}}
+
+  *** {{desc|fy|bere}}
+
+  *** {{desc|ofs|*epenbaria|der=1}}
+
+  **** {{desc|stq|eepenboarje}}
+
+  **** {{desc|fy|iepenbierje}} {{i|influenced in form by
+  {{noncog|ofs|epenbēr|pos=adj}}}}
+
+  ** {{desc|osx|barōn}}
+
+  *** {{desc|gml|baren}}
+
+  *** {{desc|osx|*opanbarōn|der=1}}
+
+  **** {{desc|gml|ōpenbāren}}
+
+  ***** {{desc|nds-de|openbaren}}
+
+  ** {{desc|odt|baron}}
+
+  *** {{desc|dum|baren}}
+
+  **** {{desc|nl|baren}}
+
+  ** {{desc|goh|barōn}}
+
+  *** {{desc|gmh|baren|barn}}
+
+  **** {{desc|swg|bären}}
+
+  *** {{desc|goh|gioffanbarōn|der=1}}
+
+  **** {{desc|gmh|offenbāren|offenbæren}}
+
+  ***** {{desc|de|offenbaren}}
+
+  * {{desc|non|bera}}; {{q|Eastern dialect}} {{l|non|*bara}}
+
+  ** {{desc|is|bera}}
+
+  ** {{desc|gmq-osw|bara}}
+
+  ** {{desc|non|opinbera|der=1}}
+
+  *** {{desc|is|opinbera}}

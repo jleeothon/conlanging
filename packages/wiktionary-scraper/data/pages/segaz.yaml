@@ -1,0 +1,102 @@
+pageid: 2399181
+ns: 118
+title: Reconstruction:Proto-Germanic/segaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*seguz|*sigiz}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*seǵʰ-}}
+
+  From {{inh|gem-pro|ine-pro|*séǵʰos|t=control, power}}, from root
+  {{m|ine-pro|*seǵʰ-||to hold, overpower}}.<ref name="Ringe
+  2006">{{R:gem:PIEPG}}</ref> Cognate with {{cog|sa|सहस्||tr=sáhas|force, power,
+  victory}}, and the {{cog|grc|-}} verb {{m|grc|ἔχω||I have, I own}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈse.ɣɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[victory]], [[triumph]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|stem=z}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*sigizōną}}
+
+  * {{l|gem-pro|*Sigigastiz}}
+
+  * {{l|gem-pro|*Sigimēraz}}
+
+  * {{l|gem-pro|*Sigimunduz}}
+
+  * {{l|gem-pro|*Sigiwarduz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*sigr|*sigu|*sigi}}
+
+  ** {{desc|ang|sigor|siġe}}
+
+  *** {{desc|enm|siȝe|sige}}
+
+  ** {{desc|ofs|sige|sī}}
+
+  *** {{desc|stq|Siech}}
+
+  *** {{desc|fy|sege}}
+
+  ** {{desc|osx|sigi}}
+
+  *** {{desc|gml|sēge}}
+
+  **** {{desc|nds-de|Sieg}}
+
+  ** {{desc|odt|sigi}} (in compounds)
+
+  *** {{desc|dum|sēge}}
+
+  **** {{desc|nl|zege}}
+
+  ** {{desc|goh|sigi|sigu}}
+
+  *** {{desc|gmh|sige}}
+
+  **** {{desc|de|Sieg}}
+
+  **** {{desc|hrx|Siegh}}
+
+  * {{desctree|non|sigr}}
+
+  * {{desc|got|𐍃𐌹𐌲𐌹𐍃}}
+
+  * {{desc|xvn|*sigiz}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|War}}

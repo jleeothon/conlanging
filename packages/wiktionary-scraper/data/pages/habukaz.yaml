@@ -1,0 +1,56 @@
+pageid: 2542569
+ns: 118
+title: Reconstruction:Proto-Germanic/habukaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*keh₂p-}}
+
+  Probably ultimately derived from {{der|gem-pro|ine-pro|*keh₂p-||seize}},
+  possibly through a root {{m|ine-pro|*kobuǵos}} (compare
+  {{cog|ru|ко́бец||falcon}}, {{cog|pl|kobuz}}, {{cog|la|capys}},
+  {{m|la|capus||bird of prey}} (if not loaned from Etruscan),
+  {{cog|sq|gabonjë}}).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑ.βu.kɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[hawk]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*habuk}}
+
+  * {{desctree|non|haukr}}
+
+  * {{desc|bor=1|fiu-fin-pro|*habukka|*habuk'as}}
+
+  ** {{desc|et|haugas}}
+
+  ** {{desc|fi|haukka}}, {{q|dialectal}} {{l|fi|havukka}}
+
+  ** {{desc|krl|haukka}}
+
+  ** {{desc|vep|habuk}}
+
+
+  {{topics|gem-pro|Birds of prey}}

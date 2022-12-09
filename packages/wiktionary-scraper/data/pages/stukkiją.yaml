@@ -1,0 +1,64 @@
+pageid: 2922475
+ns: 118
+title: Reconstruction:Proto-Germanic/stukkiją
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*(s)tewg-||to shock, butt, impact}}. The geminate
+  ''-kk-'' is assumed based on {{m|gem-pro|*stukkaz||stick}} (whence
+  {{cog|ang|stocc}}, {{cog|non|stokkr}}). However, if an etymological connection
+  does not exist, then the form {{m|gem-pro||*stukją}} is also possible, in
+  which case the geminate might have arisen in North and West Germanic due to
+  the following ''-j-'' (see [[w:West Germanic gemination]]).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstuk.ki.jɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[stump]]
+
+  #: {{syn|gem-pro|*stukkaz|*stumpaz}}
+
+  # [[piece]]
+
+  #: {{syn|gem-pro|*bitô|*braudą|*buttaz|*skarbaz|*skraudō|*snidaz|*speldą}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*stukkī}}
+
+  * {{desc|non|stykki}}
+
+  ** {{desc|is|stykki}}
+
+  ** {{desc|fo|stykki}}
+
+  ** {{desc|no|stykke}}
+
+  ** {{desc|gmq-osw|stykke}}
+
+  *** {{desc|sv|stycke}}
+
+  ** {{desc|da|stykke}}
+
+  ** {{desc|gmq-bot|stykkj|stiitj}}
+
+  ** {{desc|gmq-scy|stikke}}

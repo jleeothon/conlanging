@@ -1,0 +1,37 @@
+pageid: 3417478
+ns: 118
+title: Reconstruction:Proto-Germanic/balgiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*balguz}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰelǵʰ-}}
+  From {{der|gem-pro|ine-pro|*bʰelǵʰ-||to swell}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑl.ɣiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*balgi-|49}}</ref>
+
+  # {{topics|gem-pro|Bags}} [[bag]]
+  #: {{syn|gem-pro|*keudō|*malhō|*pukô|*pungô|*pusô|*seudaz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*matibalgiz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*balgi}}
+  * {{desctree|non|belgr}}
+  * {{desc|got|𐌱𐌰𐌻𐌲𐍃}}
+  * {{desc|bor=1|fiu-fin-pro|*palgeh|*palko}} {{see desc}}
+
+  ===References===
+  <references/>

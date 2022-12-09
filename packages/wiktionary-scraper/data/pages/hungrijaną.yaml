@@ -1,0 +1,30 @@
+pageid: 5714066
+ns: 118
+title: Reconstruction:Proto-Germanic/hungrijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*hungruz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxuŋ.ɡri.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*xunʒrjanan ~ *xunʒrōjanan|193}}</ref>
+
+  # to be [[hungry]], [[starve]] {{q|impersonal, with accusative}}
+
+  ====Inflection====
+  {{gem-conj-wk1|hungr|j=ij}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*hungrōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hungrijan}}
+  * {{desc|got|𐌷𐌿𐌲𐌲𐍂𐌾𐌰𐌽}}
+
+  ===References===
+  <references/>

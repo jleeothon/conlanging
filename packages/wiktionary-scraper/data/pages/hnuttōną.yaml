@@ -1,0 +1,100 @@
+pageid: 7313293
+ns: 118
+title: Reconstruction:Proto-Germanic/hnuttōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*hnuddōną}}
+
+
+  ===Pronunciation===
+
+  {{IPA|gem-pro|/ˈxnut.tɔː.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  {{rfe|gem-pro}}
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref name="Kroonen 1">{{R:gem:EDPG|head=*hnutt/dōn
+  1-|page=238}}</ref>
+
+
+  # To [[beat]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk2|hnutt}}
+
+
+  =====Descendants=====
+
+  * {{desc|goh}}
+
+  ** {{desc|gmh}}
+
+  *** {{desc|de|nussen}} {{q|Hessian}}
+
+  * {{desc|non|hnoða}}
+
+  ** {{desc|is|hnoða}}
+
+
+  ===Etymology 2===
+
+  Perhaps related to {{m|gem-pro|*hneudaną|t=to thrust; hit; pound}}.<ref
+  name="Kroonen 2"></ref>
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref name="Kroonen 2">{{R:gem:EDPG|head=*hnutt/dōn
+  2-|page=238}}</ref>
+
+
+  # To [[shake]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk2|hnutt}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang}}
+
+  ** {{desc|enm|nodden}}
+
+  *** {{desc|en|nod}}
+
+  * {{desc|odt}}
+
+  ** {{desc|dum|noten|t=to mate (of animals)}}
+
+  * {{desc|goh|hnotōn}}
+
+  ** {{desc|gmh|notten}}
+
+  *** {{desc|de|nottelen}} {{q|Lorraine}}
+
+  * {{desc|non}}
+
+  ** {{desc|ovd|noðå}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

@@ -1,0 +1,41 @@
+pageid: 4530130
+ns: 118
+title: Reconstruction:Proto-Germanic/kranô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gerh₂-||to cry hoarsely}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkrɑ.nɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Gruiforms}} [[crane]] {{gloss|bird}}
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*kranaz}}
+  * {{l|gem-pro|*krōnaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*kranō}}
+  * {{desc|der=1|non|trani|g=m|trana|g2=f}} {{q|perhaps from a related word}}
+  ** {{desc|is|trana}}
+  ** {{desc|fo|trani}}
+  ** {{desc|nb|trane}}
+  ** {{desc|nn|trane}}
+  ** {{desc|sv|trana}}
+  ** {{desc|da|trane}}
+  ** {{desc|gmq-gut|trane|trana|tranå}}
+  ** {{desc|non|trönur}} {{gl|derived from the plural}}
+  *** {{desc|xno|trone|bor=1}}
+  **** {{desc|ML.|trona|bor=1}} {{gl|Anglo-Latin}}
+  **** {{desc|enm|trone|bor=1}}
+  ***** {{desc|en|trone|tron}}
+  ***** {{desc|sco|trone|tron|troan}}

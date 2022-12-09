@@ -1,0 +1,48 @@
+pageid: 5406196
+ns: 118
+title: Reconstruction:Proto-Germanic/stukkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)tewg-|t=to push; hit}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstuk.kɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[stick]]
+  #: {{syn|gem-pro|*furkaz|*kablaz|*spituz|*stabaz|*waluz}}
+  # [[beam]]; [[post]]
+  #: {{syn|gem-pro|*sūliz}}
+  # [[stump]]
+  #: {{syn|gem-pro|*stukkiją|*stumpaz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*stukkiją}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*stokk}}
+  * {{desc|non|stokkr}}
+  ** {{desc|is|stokkur}}
+  ** {{desc|fo|stokkur}}
+  ** {{desc|no|stokk}}
+  ** {{desc|gmq-osw|stokker}}
+  *** {{desc|sv|stock}}
+  *** {{desc|fi|tukki|t=log|bor=1}}
+  **** {{desc|smn|tukki|t=log|bor=1}}
+  *** {{desc|krl|tukki|t=log|bor=1}}
+  ** {{desc|sma|stuehkie|bor=1}}
+  ** {{desc|se|stohkka|bor=1}}
+  ** {{desc|da|stok}}
+  * {{desc|cel-pro|*tsŭkk-|bor=1}} {{i|via metathesis}}
+  ** {{desc|cel-gau|*tsukka}}
+  *** {{desc|VL.|*tsucca|bor=1}} {{see desc}}
+  ** {{desc|br|soc’h}}
+  ** {{desc|sga|tócht}}

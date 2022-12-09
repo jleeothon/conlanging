@@ -1,0 +1,25 @@
+pageid: 2959481
+ns: 118
+title: Reconstruction:Proto-Germanic/frawardijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*wert-}}
+  From {{affix|gem-pro|*frawerþaną|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɸrɑ.ˈwɑr.ði.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[destroy]]
+
+  ====Inflection====
+  {{gem-conj-wk1|fraward|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*frawardijan}}
+  * {{desc|got|𐍆𐍂𐌰𐍅𐌰𐍂𐌳𐌾𐌰𐌽}}

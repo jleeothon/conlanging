@@ -1,0 +1,34 @@
+pageid: 3534159
+ns: 118
+title: Reconstruction:Proto-Germanic/Rēdawulfaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*rēdaz|t1=counsel|*wulfaz|t2=wolf}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈrɛː.ðɑ.ˌwul.ɸɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Related terms====
+  * {{l|gem-pro|*Aþalawulfaz}}
+  * {{l|gem-pro|*Hrōþiwulfaz}}
+  * {{l|gem-pro|*Rēdagunþiz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*Rādawulf}}
+  * {{desc|non|Ráðúlfr}}
+  ** {{desc|da|Radulf}}
+  *** {{desc|de|Radulf|bor=1}}
+  ** {{desc|sv|Rådulf}} {{q|obsolete}}
+  ** {{desc|ang|Raulf|bor=1}}
+  ** {{desc|bor=1|fro|Radulf|Radulph}} {{qualifier|Norman}}

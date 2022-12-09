@@ -1,0 +1,38 @@
+pageid: 6052912
+ns: 118
+title: Reconstruction:Proto-Germanic/grindō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gʰrendʰ-|t=to crush}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣrin.dɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[gravel]]; [[sand]]; [[pebbles]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*grandą}}
+  * {{l|gem-pro|*grindaną}}
+
+  ====Descendants====
+  * {{desc|ang|grinde|g=f}}
+  * {{desc|ofs|*grind|*grint}}
+  ** {{desc|fy|grint}}
+  * {{desc|osx|*grind}}
+  ** {{desc|gml|grint|g=m}}
+  *** {{desc|nds-de|Grind}}
+  * {{desc|odt|*grinda}}
+  ** {{desc|dum|grinde|grint|g2=f}}
+  *** {{desc|nl|grind}}
+  * {{desc|goh|grint|grient|g2=m}}
+  ** {{desc|gmh|grint}}
+  *** {{desc|de|Grind}}

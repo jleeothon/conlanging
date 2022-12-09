@@ -1,0 +1,29 @@
+pageid: 2897743
+ns: 118
+title: Reconstruction:Proto-Germanic/midjaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*médʰyos}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmið.jɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[middle]], [[mid]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Related terms====
+  * {{l|gem-pro|*midją}}, {{l|gem-pro|*midjǭ}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*midi|id=middle}}
+  * {{desctree|non|miðr}}
+  * {{desc|got|𐌼𐌹𐌳𐌾𐌹𐍃}}
+  ** {{desc|sq|midis|bor=1}} ?

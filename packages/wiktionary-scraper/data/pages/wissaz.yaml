@@ -1,0 +1,26 @@
+pageid: 2934465
+ns: 118
+title: Reconstruction:Proto-Germanic/wissaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weyd-}}
+  From {{inh|gem-pro|ine-pro|*widtós|*wid-tó-s}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwis.sɑz/}}
+
+  ===Participle===
+  {{gem-adj}}
+
+  # {{past participle of|gem-pro|*witaną}}
+
+  ====Inflection====
+  {{gem-decl-adj-a|wiss}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*gawissaz}}
+  * {{l|gem-pro|*unwissaz}}
+  * {{l|gem-pro|*wissį̄}}

@@ -1,0 +1,34 @@
+pageid: 2895861
+ns: 118
+title: Reconstruction:Proto-Germanic/fraisō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Related to {{m|gem-pro|*fraisaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸrɑi̯.sɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[danger]], [[peril]], [[risk]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*fraisaną}}
+
+  ====Descendants====
+  * {{desctree|ofs|frāse}}
+  * {{desc|osx|frēsa}}
+  * {{desc|odt|frēsa}}
+  ** {{desc|dum|vrese}}
+  *** {{desc|nl|vrees}}
+  **** {{desc|af|vrees}}
+  * {{desc|goh|freisa}}
+  ** {{desc|gmh|vreise}}
+  *** {{desc|de|Freise}} (dialectal)

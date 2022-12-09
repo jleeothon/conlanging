@@ -1,0 +1,29 @@
+pageid: 5522873
+ns: 118
+title: Reconstruction:Proto-Germanic/salją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Diminutive of {{m|gem-pro|*salą}} or {{m|gem-pro|*saliz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑl.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # a [[building]]; [[barn]]; [[shed]]
+  # [[room]]; [[chamber]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*saljô}}
+
+  ====Descendants====
+  * {{desc|ang|sel|g=n}}; {{l|ang|*siella}}, {{l|ang|sylla|g=m}}
+  * {{desc|non|sel|g=n}}
+  ** {{desc|gmq-osw|*sæl}} (only in compunds, e.g. {{l|gmq-osw|sælia boþ}})

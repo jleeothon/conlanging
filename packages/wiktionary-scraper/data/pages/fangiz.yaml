@@ -1,0 +1,83 @@
+pageid: 4414452
+ns: 118
+title: Reconstruction:Proto-Germanic/fangiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*fanhiz}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*peh₂ḱ-}}
+
+  Derived from {{m|gem-pro|*fanhaną||to take, seize}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸɑŋ.ɡiz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[catchable]], [[takeable]], [[obtainable]]
+
+  # [[effective]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*fangī}}
+
+  * {{desc|non|*fengr|bráðfengr|harðfengr}}
+
+  ** {{desc|is|fáfengur|harðfengur}}
+
+  ** {{desc|gmq-osw|fafænger|alt=fāfænger}}
+
+  *** {{desc|sv|brådfäng|eldfäng|fåfäng}}
+
+  ** Middle Danish: fofæng
+
+  *** {{desc|da|fåfængt}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # a [[catch]], [[taking]], [[contact]]; [[booty]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  Note: In some of the daughter languages, this word may have conflated with the
+  descendant of {{m|gem-pro|*fangą}}
+
+  * {{desctree|gmw-pro|*fangi}}
+
+  * {{desc|non|fengr}}
+
+  ** {{desc|is|fengur}}
+
+  ** {{desc|fo|fongur}}

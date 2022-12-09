@@ -1,0 +1,94 @@
+pageid: 4069537
+ns: 118
+title: Reconstruction:Proto-Germanic/faihaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸɑi̯.xɑz/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*peyḱ-|id=mark}}
+
+  From {{inh|gem-pro|ine-pro||*póyḱos}}, from {{m|ine-pro|*peyḱ-||to mark,
+  color, decorate, embroider|id=mark}}.
+
+
+  ====Alternative forms====
+
+  * {{alt|gem-pro|*faigaz}}
+
+
+  ====Adjective====
+
+  {{gem-adj}}
+
+
+  # {{topics|gem-pro|Colors|Art}}{{senseid|gem-pro|coloured}} [[coloured]],
+  [[decorated]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-adj-a|faih}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*faihijaną}}
+
+  * {{l|gem-pro|*faihį̄}}
+
+  * {{l|gem-pro|*faihōną}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*faih|id=coloured}}
+
+  * {{desc|got|*𐍆𐌰𐌹𐌷𐍃}} (in {{l|got|𐍆𐌹𐌻𐌿𐍆𐌰𐌹𐌷𐍃}})
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*peyḱ-|id=hostile}}
+
+  From {{der|gem-pro|ine-pro|*peyḱ-||to be angry, hostile, evil;
+  enemy|id=hostile}}.
+
+
+  ====Adjective====
+
+  {{gem-adj}}
+
+
+  # {{senseid|gem-pro|hostile}}{{lb|gem-pro|West
+  Germanic}}{{topics|gem-pro|Ethics|Law}} [[hostile]], [[criminal]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-adj-a|faih}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*faihijaną}}
+
+  * {{l|gem-pro|*faihiþō}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*faigijaz}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*faih|id=hostile}}

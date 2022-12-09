@@ -1,0 +1,91 @@
+pageid: 5115465
+ns: 118
+title: Reconstruction:Proto-Germanic/turbz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*derbʰ-}}
+
+  From {{der|gem-pro|ine-pro|*derbʰ-|t=tuft, grass}}.
+
+  Don Ringe argues that the lack of a-mutation in Old High German shows that
+  {{m|goh|zurba}} must have originally been a consonant stem.<ref>{{cite-book|
+  last = Ringe
+   | first = Don
+   | authorlink = Donald Ringe
+   | coauthors = Ann Taylor
+   | year = 2014
+   | title = The Development of Old English: a Linguistic History of English
+   |page= 28
+   | publisher = Oxford University Press
+   |isbn= 978-0-19-920784-8
+   | url= https://books.google.com/books?id=USgDBQAAQBAJ&pg=PA136&lpg=PA136&dq=%22kaisaraz%22&source=bl&ots=I0SeyJbQo0&sig=ud13HVtkBXKbk-FACCVduc0w2LY&hl=en&sa=X&ei=gqvWVOXfMs72yQSIlIDQDA&ved=0CCUQ6AEwAQ#v=onepage&q=%22kaisaraz%22&f=false
+  }}</ref> In addition, {{cog|ang|turf}} clearly shows a consonant-stem
+  declension.
+
+  In many of the descendants, the noun was thematized early on enough to cause
+  a-mutation in the descendant forms.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈturβz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m|g2=f}}
+
+
+  # [[turf]], [[peat]] <ref>{{R:itc:EDL}}</ref>
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*turbijaną}}
+
+  * {{l|gem-pro|*turbōną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*turb}}
+
+  * {{desc|non|torf|g=n|torfa|g2=f}}
+
+  ** {{desc|is|torf|g=n}}
+
+  ** {{desc|fo|torv|g=n}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|no|torv|g=n,m}}
+
+  *** {{desc|nn|torv|g=n,f}}
+
+  ** {{desc|gmq-osw|torf|g=n,f|törf|g2=n,f}}
+
+  *** {{desc|sv|torv|g=c|torva|g2=c}}
+
+  ** {{desc|da|tørv|g=c}}
+
+  ** {{desc|gmq-bot|tarv|g=f|tarv|g2=n}}
+
+  ** Norman: torve
+
+  * {{desc|bor=1|fiu-fin-pro|*turbeh|*turbas}}  {{see desc}}
+
+
+  ===References===
+
+  <references/>

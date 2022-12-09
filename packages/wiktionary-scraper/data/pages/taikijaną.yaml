@@ -1,0 +1,66 @@
+pageid: 3617181
+ns: 118
+title: Reconstruction:Proto-Germanic/taikijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*deyḱ-}}
+
+  From {{der|gem-pro|ine-pro|*deyḱ-||to show, instruct, tell, point out,
+  explain}}. Cognate with {{cog|la|dīcō||speak, say, tell}},
+  {{cog|grc|δείκνυμι||show, point out, explain, teach}}.
+
+
+  The {{m|gem-pro||*k}} rather than expected {{m|gem-pro||*h}} or
+  {{m|gem-pro||*g}} is probably due to [[w:Kluge's law|Kluge's law]], in which
+  case one must assume an earlier stem {{m|gem-pro||*taikk-}} which lost its
+  gemination in the heavy syllable, derived from {{m+|ine-pro||*doyḱ-néh₂-}} (or
+  similar) {{suf|gem-pro||*-janą|id2=causative}}.<ref name="EDPG"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈtɑi̯.ki.jɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name="EDPG">{{R:gem:EDPG|*taikjan-|505}}</ref>
+
+
+  # {{lb|gem-pro|West Germanic}} to [[show]], [[point out]], [[demonstrate]]; to
+  [[teach]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk1-j|taik|j=ij}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*taikną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*taikōną}}
+
+  * {{l|gem-pro|*tīhaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*taikijan}}
+
+  ** {{desctree|ang|tǣċan}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,32 @@
+pageid: 6500278
+ns: 118
+title: Reconstruction:Proto-Germanic/singrōniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*sin|*grōniz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsin.ˌɣrɔː.niz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[evergreen]]
+
+  ====Inflection====
+  {{gem-decl-adj-i|singrōn|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|singrēne}}
+  * {{desc|goh|singruoni}}
+  ** {{desc|de|singrün}}
+  * {{desc|gml|singröne}}
+  ** {{desc|gmq-osw|bor=1}}
+  *** {{desc|sv|sinngrön}}
+  ** {{desc|gmq-oda|singrøn|bor=1}}
+  *** {{desc|sv|singrøn}}
+  * {{desc|non|sígrœnn}}
+  ** {{desc|is|sígrænn}}

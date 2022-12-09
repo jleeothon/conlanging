@@ -1,0 +1,66 @@
+pageid: 4429467
+ns: 118
+title: Reconstruction:Proto-Germanic/stuþs
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Likely from Pre-Germanic {{m|ine-pro||*stút-s}}, root noun from
+  {{der|gem-pro|ine-pro|*stut-}}, extension of {{m|ine-pro|*stew-||firm}}.
+  Compare {{cog|lv|stute||prop, support}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstuθs/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[support]], [[prop]], [[post]]
+
+
+  ====Inflection====
+
+  The oblique has the voiced Verner alternant.
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*stuþilaz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*stuttijaną}}
+
+  * {{l|gem-pro|*stuþjaną}}
+
+  * {{l|gem-pro|*stuþōną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*stuþ}}
+
+  * {{desc|non|stoð|stuð}}
+
+  ** {{desc|is|stoð}}
+
+  ** {{desc|gmq-osw|stuþ|stoþ|stydh}} {{q|late}}
+
+  *** {{desc|sv|stöd}}
+
+
+  ====Further reading====
+
+  * {{R:gem:EDPG}}

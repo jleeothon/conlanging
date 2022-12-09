@@ -1,0 +1,29 @@
+pageid: 7356648
+ns: 118
+title: Reconstruction:Proto-Germanic/muþraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*múHtrom|t=excrement, filth}}.
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:HGE|*muþraz|278}}</ref>
+
+  # [[sediment]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|dum|modder|t=filth}}
+  ** {{desctree|nl|modder|t=mud}}
+  * {{desc|gml|modder|modde|mōde|t3=mud}}
+  ** {{desc|nds-de|modder|t=mud}}
+  *** {{desc|de|Modder|t=mud|bor=1}}
+  ** {{desc|gmh|moder|t=mold, swamp|bor=1}}
+  *** {{desc|de|Moder|t=decomposing mass, moldiness}}
+
+  ===References===
+  <references />

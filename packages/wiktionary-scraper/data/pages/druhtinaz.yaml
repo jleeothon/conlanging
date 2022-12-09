@@ -1,0 +1,30 @@
+pageid: 2948630
+ns: 118
+title: Reconstruction:Proto-Germanic/druhtinaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dʰrewgʰ-|id=serve}}
+  From {{suf|gem-pro|*druhtiz|*-inaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdrux.ti.nɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[leader]], [[lord]], [[sovereign]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*fadiz}}
+  * {{l|gem-pro|*frawjô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*druhtin}}
+  * {{desctree|non|dróttinn}}
+  * {{desc|bor=1|fi|ruhtinas}}

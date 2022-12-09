@@ -1,0 +1,42 @@
+pageid: 3717734
+ns: 118
+title: Reconstruction:Proto-Germanic/þursuz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ters-}}
+  From {{inh|gem-pro|ine-pro||*térs-u-s}}, from {{m|ine-pro|*ters-||dry}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθur.suz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[dry]], lacking [[water]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*þursakōną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*þersaną}}
+  * {{l|gem-pro|*þurstiz}}
+  * {{l|gem-pro|*þurzāną}}
+  * {{l|gem-pro|*þurzuz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þurʀī}}
+  * {{desc|non|þurr}}
+  ** {{desc|gmq-oda|thur|thiur|thyr}}
+  *** {{desc|da|tør}}
+  ** {{desc|fo|turrur}}
+  ** {{desc|is|þurr}}
+  ** {{desc|gmq-osw|þør|þor}}
+  *** {{desc|sv|torr}}
+  ** {{desc|gmq-bot|tör|törr}}
+  * {{desc|got|𐌸𐌰𐌿𐍂𐍃𐌿𐍃}}

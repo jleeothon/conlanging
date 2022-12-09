@@ -1,0 +1,112 @@
+pageid: 4047144
+ns: 118
+title: Reconstruction:Proto-Germanic/krampō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*grem-||to bind together, unite; lap, pile, heap}},
+  from {{der|gem-pro|ine-pro|*ger-||to unite, collect, forgather}}.
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[cramp]]
+
+  # [[clasp]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*krampaz}}
+
+  * {{l|gem-pro|*krampijaną}}
+
+  * {{l|gem-pro|*krimpaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*krampu}}
+
+  ** {{desc|ofs|*krampe|*krompe}}
+
+  *** {{desc|stq|Krompe}}
+
+  *** {{desc|fy|kramp}}
+
+  ** {{desc|osx|krampo}}
+
+  *** {{desc|gml|krampe}}
+
+  **** {{desc|nds-de|Kramp}}
+
+  **** {{desc|da|krampe|bor=1}}
+
+  **** {{desc|sv|kramp|bor=1}}
+
+  ***** {{desc|fi|kramppi|bor=1}}
+
+  **** {{desc|no|krampe|bor=1}}
+
+  **** {{desc|is|krampa|bor=1}}
+
+  **** {{desc|de|Krampe|bor=1}}
+
+  ** {{desc|odt|*krampa}}
+
+  *** {{desc|dum|crampe}}
+
+  **** {{desc|nl|kramp}}
+
+  **** {{desc|bor=1|enm|crampe|crompe|t2=metal bar}}
+
+  ***** {{desc|en|cramp}}
+
+  ** {{desc|bor=1|fro|cranpe|crampe}}
+
+  *** {{desc|frm|crampe}}
+
+  **** {{desc|fr|crampe}}
+
+  *** {{desc|bor=1|enm|crampe|craumpe|t2=spasm}}
+
+  **** {{desc|sco|cramp}}
+
+  **** {{desc|en|cramp}}
+
+  *** {{desc|ML.|crampa|bor=1}}
+
+  **** {{desc|it|crampo|bor=1}}
+
+  **** {{desc|vec|sgranfo|bor=1}}
+
+  *** {{desc|gl|grampa|bor=1}}
+
+  ** {{desc|goh|krampfo|krampho|chrampho}}; {{l|goh|chramph}}
+
+  *** {{desc|gmh|cramph|kramph}}
+
+  **** {{desc|de|Krampf}}
+
+  **** {{desc|lb|Kramp}}
+
+  * {{desc|got|𐌺𐍂𐌰𐌼𐍀𐌰}}
+
+  ** {{desc|gl|cambra|bor=1}}
+
+  ** {{desc|bor=1|pt|cãibra|câimbra}}
+
+  ** {{desc|es|calambre|bor=1}}

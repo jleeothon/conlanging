@@ -1,0 +1,36 @@
+pageid: 7457990
+ns: 118
+title: Reconstruction:Proto-Germanic/blikǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰleyǵ-}}
+  From {{der|gem-pro|ine-pro|*bʰleyǵ-||to shine}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbli.kɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[shine]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*blikōną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*blīkaną}}
+  * {{l|gem-pro|*blikkatjaną}}
+  * {{l|gem-pro|*bliką}}
+
+  ====Descendants====
+  * {{desc|gmw-pro}}
+  ** {{desc|ang|*blica}}
+  *** {{desc|ang|oferblica|der=1}}
+  * {{desc|non|blika|t=shine; flash (of lightning)}}
+  ** {{desc|is|blika}}

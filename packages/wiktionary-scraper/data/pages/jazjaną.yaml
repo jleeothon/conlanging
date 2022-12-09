@@ -1,0 +1,31 @@
+pageid: 2833682
+ns: 118
+title: Reconstruction:Proto-Germanic/jazjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*yes-}}
+  From {{affix|gem-pro|*jesaną|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈjɑz.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to cause to [[ferment]]
+
+  ====Inflection====
+  {{gem-conj-wk1|jaz|j=j}}
+
+  ====Descendants====
+  * {{desc|odt|*gerien}}
+  ** {{desc|dum|geren}}
+  * {{desc|goh|jerjan|gerjan|jerien|gerien}}
+  ** {{desc|gmh|jern|gern}}
+  *** {{desc|de|gären}}
+  **** {{desc|da|gære|bor=1}}
+  ***** {{desc|fo|gera|bor=1}}
+  *** {{desc|lb|gären}}

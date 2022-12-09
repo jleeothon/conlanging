@@ -1,0 +1,24 @@
+pageid: 5973297
+ns: 118
+title: Reconstruction:Proto-Germanic/druziz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Zero-grade i-stem derived from {{m|gem-pro|*dreusaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdru.ziz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # a [[fall]], [[decline]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|dryre}}
+  * {{desc|got|𐌳𐍂𐌿𐍃}}

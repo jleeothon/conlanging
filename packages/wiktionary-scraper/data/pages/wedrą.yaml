@@ -1,0 +1,76 @@
+pageid: 2732944
+ns: 118
+title: Reconstruction:Proto-Germanic/wedrą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*weþrą}}<ref name="EDPG"/>
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₂weh₁-}}
+
+  {{unk|gem-pro|Uncertain}}; traditionally linked to {{cog|sla-pro|*vedro||good
+  weather}}, reconstructing a common {{inh|gem-pro|ine-pro||*wedʰrom}}, which is
+  sometimes assumed to be from {{suf|nocat=1|ine-pro|*h₂weh₁-|t1=to blow;
+  wind|*-dʰrom|pos2=instrument noun–deriving suffix}}, equivalent to
+  {{suf|gem-pro|*wēaną|*-þrą}}. However, this etymology suffers phonetic
+  difficulties, namely the lack of a long vowel and the apparent alternation
+  between {{m|gem-pro||*-drą}} and {{m|gem-pro||*-þrą}} in descendants. If from
+  pre-Germanic {{m|ine-pro||*h₂weh₁tróm}}, perhaps a formation in common with
+  {{cog|lv|vētra}}, {{cog|lt|vė́tra||storm}} and {{cog|sla-pro|*vě̀trъ||wind,
+  air}}.<ref name="EDPG"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈweð.rɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}<ref name="EDPG">{{R:gem:EDPG|head=*weþra- ~
+  *wedra-|pages=583–584}}</ref><ref
+  name="HGE">{{R:gem:HGE|head=*weđran|page=452}}</ref>
+
+
+  # {{topics|gem-pro|Weather}} [[weather]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*unwedrą}}
+
+  * {{l|gem-pro|*wedralaikaz}}<ref name="HGE"/>
+
+  * {{l|gem-pro|*wedrōjaną}}<ref name="HGE"/>
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*wedr}}
+
+  * {{desctree|non|veðr}}
+
+
+  ===See also===
+
+  * {{l|gem-pro|*windaz}}
+
+  * {{l|gem-pro|*wintruz}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,42 @@
+pageid: 6397685
+ns: 118
+title: Reconstruction:Proto-Germanic/gahabjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology 1===
+  {{root|gem-pro|ine-pro|*keh₂p-}}
+  {{prefix|gem-pro|*ga|*habjaną|pos=verb}}.
+
+  ====Verb====
+  {{gem-verb}}
+
+  # to [[hold]] (onto); [[retain]]
+
+  =====Inflection=====
+  {{gem-conj-wk3-j|gahab|j=j}}
+
+  =====Descendants=====
+  * {{desc|ang|gehabban}}
+  * {{desc|osx|gihebbian}}
+  ** {{desc|gml|gehebben}}
+  *** {{desc|nds|gehebben}}
+  * {{desc|goh|gihabēn}}
+  * {{desc|got|𐌲𐌰𐌷𐌰𐌱𐌰𐌽}}
+
+  ===Etymology 2===
+  {{root|gem-pro|ine-pro|*keh₂p-}}
+  {{prefix|gem-pro|*ga|*habjaną|pos=verb}}.
+
+  ====Verb====
+  {{gem-verb}}
+
+  # to [[raise]]
+
+  =====Inflection=====
+  {{gem-conj-st-j|class=6|gahab|gahōf|gahōb|gahab|j=j}}
+
+  =====Descendants=====
+  * {{desc|ang|ġehebban}}
+  * {{desc|osx|gihebbian}}

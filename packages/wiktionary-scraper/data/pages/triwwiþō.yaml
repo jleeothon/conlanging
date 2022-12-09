@@ -1,0 +1,88 @@
+pageid: 3609089
+ns: 118
+title: Reconstruction:Proto-Germanic/triwwiþō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*triwwiz|*iþō}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈtriw.wi.θɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[promise]], [[contract]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*triuwiþu}}
+
+  ** {{desc|ang|trīewþ|trēowþ}}
+
+  *** {{desc|enm|trouthe|treowthe|treuwethe|treouthe|trewthe|treuthe|trothe}}
+
+  **** {{desc|sco|trowth|treuth}}
+
+  **** {{desc|en|troth|truth}}
+
+  *** {{desc|ang|ġetrēowþ|der=1}}
+
+  **** {{desc|ang|unġetrēowþ|der=1}}
+
+  *** {{desc|ang|untrēowþ|der=1}}
+
+  **** {{desc|enm|untreuth}}
+
+  ***** {{desc|en|untruth}}
+
+  ** {{desc|goh|*triuwida|*trūida}}
+
+  *** {{desc|der=1|goh|gatriuwida|gitriuwida}}
+
+  **** {{desc|gmh|getriuwede}}
+
+  **** {{desc|goh|ungitriuwida|der=1}}
+
+  *** {{desc|goh|missitriuwida|der=1}}
+
+  **** {{desc|gmh|missetriuwede}}
+
+  *** {{desc|der=1|goh|urtriuwida|urtrūida}}
+
+  *** {{desc|goh|zurtriuwida|der=1}}
+
+  * {{desc|non|tryggð|trygð}}
+
+  ** {{desc|is|tryggð}}
+
+  ** {{desc|fo|trygd}}
+
+  ** {{desc|nn|trygd}}
+
+  *** {{desc|nb|trygd|bor=1}}
+
+  ** {{desc|gmq-osw|trygþ}}
+
+  *** {{desc|sv|trygd}}
+
+  ** {{desc|gmq-oda|trygd}}
+
+  *** {{desc|da|trygd}} {{q|reborrowed in modern times from Old Danish or
+  another Nordic language}}

@@ -1,0 +1,45 @@
+pageid: 4918494
+ns: 118
+title: Reconstruction:Proto-Germanic/gurdilaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*gʰerdʰ-}}
+  From {{suffix|gem-pro|*gurdijaną|*ilaz|id2=agent noun}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣur.di.lɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[girdle]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*gerdō}}
+
+  ====Related terms====
+  * {{l|gem-pro|*gerdaną}}
+  * {{l|gem-pro|*gurdijaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*gurdil}}
+  ** {{desctree|ang|gyrdel}}
+  ** {{desc|ofs|gerdel}}
+  *** {{desc|stq|Gäddel}}
+  *** {{desc|fy|gurdle|gurle|gurl}}
+  ** {{desc|osx|gurdil}}
+  *** {{desc|gml|gördel|gordel}}
+  **** {{desc|nds-de|Gördel}}
+  ** {{desc|odt|*gurdel}}
+  *** {{desc|dum|gordel}}
+  **** {{desc|nl|gordel}}
+  ** {{desctree|goh|gurtil}}
+  * {{desctree|non|gyrðill}}
+
+  {{topics|gem-pro|Clothing}}

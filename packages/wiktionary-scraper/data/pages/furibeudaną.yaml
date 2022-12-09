@@ -1,0 +1,32 @@
+pageid: 4553837
+ns: 118
+title: Reconstruction:Proto-Germanic/furibeudaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*preh₂-|*bʰewdʰ-}}
+  From {{prefix|gem-pro|*furi|*beudaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɸu.ri.ˈbeu̯.ðɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[forbid]], [[prohibit]], [[command]] against (doing something)
+
+  ====Inflection====
+  {{gem-conj-st|class=2|furibeud|furibaud|furibud|furibud}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*furibudą}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*furibeudan}}
+  * {{desctree|non|fyrirbjóða|qq=descendants influenced by Middle Low German}}
+  * {{desc|got|𐍆𐌰𐌿𐍂𐌱𐌹𐌿𐌳𐌰𐌽}}
+
+  ===References===
+  <references/>

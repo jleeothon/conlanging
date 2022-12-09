@@ -1,0 +1,33 @@
+pageid: 2616364
+ns: 118
+title: Reconstruction:Proto-Germanic/sprangijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*springaną|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsprɑŋ.ɡi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to cause to [[spring]]
+  # to cause to [[burst]], to [[blow up]]
+
+  ====Inflection====
+  {{gem-conj-wk1|sprang|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sprangōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sprangijan}}
+  * {{desc|non|sprengja}}
+  ** {{desc|is|sprengja}}
+  ** {{desc|fo|spreingja}}
+  ** {{desc|no|sprenge}}
+  ** {{desctree|gmq-osw|sprængia}}
+  ** {{desc|da|sprænge}}

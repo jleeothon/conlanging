@@ -1,0 +1,29 @@
+pageid: 7316901
+ns: 118
+title: Reconstruction:Proto-Germanic/harjafulką
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*harjaz|*fulką|t1=army|t2=people}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑr.jɑ.ˌɸul.kɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref name="HGE">{{R:gem:HGE|*xarja-fulkan|162}}</ref>
+
+  # [[men]] of [[war]], [[warlike]] people
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|herefolc}}
+  * {{desc|ofs|hirifolk}}
+  * {{desc|non|herfolk}}
+  ** {{desc|is|herfólk}}
+
+  ===References===
+  <references/>

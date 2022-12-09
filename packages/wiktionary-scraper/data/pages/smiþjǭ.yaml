@@ -1,0 +1,43 @@
+pageid: 4053221
+ns: 118
+title: Reconstruction:Proto-Germanic/smiþjǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suf|gem-pro|*smiþaz|t1=smith|*-jǭ}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsmiθ.jɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[smithy]], smith's [[workplace]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|smiþþe}}
+  ** {{desc|enm|smythe}}
+  *** {{desc|en|smithe}} {{q|obsolete}}
+  * {{desc|ofs|smithe|smitte}}
+  * {{desc|odt|*smiththa}}
+  ** {{desc|dum|smisse|smitse}}
+  *** {{desc|nl|smidse}}
+  * {{desc|goh|smiththa|smidda|smitta}}
+  ** {{desc|de|Schmiede}}
+  ** {{desc|lb|Schmëdd}}
+  * {{desc|non|smiðja}}
+  ** {{desc|is|smiðja}}
+  ** {{desc|fo|smiðja}}
+  ** {{desc|nn|smia|smie|smidja|smidje|smidju}}
+  ** {{desc|nb|smie}}
+  ** {{desc|gmq-osw|smiþia}}
+  *** {{desc|sv|smedja}}
+  ** {{desc|da|smedje}}
+  ** {{desc|enm|smythy|bor=1}}
+  *** {{desc|en|smithy}}
+  *** {{desc|sco|smiddy|smiddie}}

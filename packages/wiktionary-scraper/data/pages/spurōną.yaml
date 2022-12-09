@@ -1,0 +1,65 @@
+pageid: 8104734
+ns: 118
+title: Reconstruction:Proto-Germanic/spurōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈspu.rɔː.nɑ̃/}}
+
+  ===Etymology 1===
+  From {{affix|gem-pro|*spurą|*-ōną|t1=track, trace}}.
+
+  ====Verb====
+  {{gem-verb}}<ref name='Orel'>{{R:gem:HGE|*spurōjanan|367-368}}</ref>
+
+  # to [[track]], to [[trace]]
+
+  =====Inflection=====
+  {{gem-conj-wk2|spur}}
+
+  =====Related terms=====
+  * {{l|gem-pro|*spurjaną}}
+
+  =====Descendants=====
+  * {{desctree|gmw-pro|*sporōn}}
+  * {{desc|non|spora}}
+  ** {{desc|da|spore}}
+  ** {{desc|fo|spora}}
+  ** {{desc|is|spora}}
+  ** {{desc|no|-}}
+  **: {{desc|nb|spore}}
+  **: {{desc|nn|spore}}, {{l|nn|spora}}
+  ** {{desc|sv|spåra}}
+
+  ===Etymology 2===
+  From {{affix|gem-pro|*spurô|*-ōną|t1=spur}}.
+
+  ====Verb====
+  {{gem-verb}}<ref name='Orel'></ref>
+
+  # to [[spur]]
+  # to [[kick]]
+  # to [[trample]]
+
+  =====Inflection=====
+  {{gem-conj-wk2|spur}}
+
+  =====Related terms=====
+  * {{l|gem-pro|*spurnaną}}
+
+  =====Descendants=====
+  * {{desc|gmw-pro|*sporōn}}
+  ** {{desc|ang|*sporian}}
+  *** {{desctree|enm|sporen}}
+  ** {{desc|odt|*sporon}}
+  *** {{desc|dum|spōren}}
+  **** {{desc|nl|sporen}}
+  ** {{desc|goh|sporōn}}
+  *** {{desc|gmh|sporen}}
+  * {{desc|non|spora}}
+  ** {{desc|da|spore}}
+
+  ===References===
+  <references/>

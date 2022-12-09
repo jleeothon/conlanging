@@ -1,0 +1,78 @@
+pageid: 7086610
+ns: 118
+title: Reconstruction:Proto-Germanic/angraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology 1===
+
+  From {{inh|gem-pro|ine-pro|*h₂eng-|t=corner}} in sense "narrow meadow beside
+  waterway". Compare [[w:Angrivarii|Angrivarii]].
+
+
+  ====Noun====
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*angra- 1|28}}</ref>
+
+
+  # [[lowland]], [[meadow]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun-a-m|angr}}
+
+
+  =====Descendants=====
+
+  * {{desc|osx|angar}}
+
+  ** {{desc|gml|anger}}
+
+  * {{desc|odt|*angar}}
+
+  ** {{desc|dum|anger}}
+
+  * {{desc|goh|angar}}
+
+  ** {{desc|gmh|anger}}
+
+  *** {{desc|de|Anger}}
+
+  * {{desc|non|angr}}
+
+
+  ===Etymology 2===
+
+  {{rfe|gem-pro}}
+
+
+  ====Noun====
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*angra- 2|28}}</ref>
+
+
+  # [[weevil]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun-a-m|angr}}
+
+
+  =====Descendants=====
+
+  * {{desc|goh|angar}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Landforms]]
+
+  [[Category:gem-pro:Weevils]]

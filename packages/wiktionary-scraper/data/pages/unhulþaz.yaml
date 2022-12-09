@@ -1,0 +1,35 @@
+pageid: 5098600
+ns: 118
+title: Reconstruction:Proto-Germanic/unhulþaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*un-|*hulþaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈun.xul.θɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[unfriendly]], [[hostile]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|unhulþ}}
+
+  ====Antonyms====
+  * {{l|gem-pro|*hulþaz}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*unhulþô}}
+
+  ====Descendants====
+  * {{desc|ang|unhold}}
+  * {{desc|osx|unhold}}
+  * {{desc|odt|-}}
+  ** {{desc|dum|onhout}}
+  *** {{desc|nl|onhoud}}
+  * {{desc|goh|unhold}}
+  ** {{desc|de|unhold}}

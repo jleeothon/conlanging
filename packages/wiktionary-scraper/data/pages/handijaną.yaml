@@ -1,0 +1,35 @@
+pageid: 3945289
+ns: 118
+title: Reconstruction:Proto-Germanic/handijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*handuz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑn.di.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*xanđjanan|page=159}}</ref>
+
+  # to take by the [[hand]]; [[seize]]; [[grip]]; [[capture]]
+
+  ====Inflection====
+  {{gem-conj-wk1|hand|j=ij}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*handīniz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*handijan}}
+  * {{desc|non|henda}}
+  ** {{desc|is|henda}}
+  ** {{desc|fo|henda}}
+  ** {{desc|gmq-osw|hænda}}
+  *** {{desc|sv|hända}}
+  ** {{desc|da|hænde}}
+
+  ===References===
+  <references/>

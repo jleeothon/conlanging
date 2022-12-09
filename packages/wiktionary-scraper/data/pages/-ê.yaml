@@ -1,0 +1,29 @@
+pageid: 2924222
+ns: 118
+title: Reconstruction:Proto-Germanic/-ê
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{unk|gem-pro}}. Compare with {{cog|la|-ē}}.
+
+  ===Adverb===
+  {{gem-adv}}
+
+  # {{n-g|creates adverbs of manner from adjectives}}: [[-ly]]
+
+  ====Derived terms====
+  {{suffixsee|gem-pro}}
+
+  ====Related terms====
+  * {{l|gem-pro|*-ô}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*-ē}}
+  ** {{desc|ang|-e}}
+  *** {{desc|enm|-e}}
+  ** {{desc|ofs|-e}}
+  * {{desc|non|-a|qq=may have merged with {{m|gem-pro|*-ô}}}}
+  ** {{desc|is|-a}}
+  * {{desc|got|-𐌴}}

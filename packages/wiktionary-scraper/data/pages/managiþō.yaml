@@ -1,0 +1,44 @@
+pageid: 4816151
+ns: 118
+title: Reconstruction:Proto-Germanic/managiþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*managaz|*iþō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑ.nɑ.ɣi.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[quantity]]; [[amount]]
+  # [[multitude]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*managiþu}}
+  ** {{desc|ang|menigdu}}
+  ** {{desc|ofs|*manigde|*manichte}}
+  *** {{desc|fy|mannichte}}
+  ** {{desc|osx|*menegda}}
+  *** {{desc|gml|mennichte}}
+  ** {{desc|odt|*menigde}}
+  *** {{desc|dum|menichte}}
+  **** {{desc|nl|menigte}}
+  ** {{desc|bor=1|fro|meinte|mainte}}
+  *** {{desc|frm|maint}}
+  **** {{desc|fr|maint}}
+  ** {{desc|unc=1|goh|managōti|menīgōti|menigōti}}
+  *** {{desc|gmh|mengede}}
+  * {{desc|non|*mǫngd|*mengd}}
+  ** {{desc|fo|mongd}}
+  ** {{desc|nn|mengd}}
+  ** {{desc|gmq-bot|maingd}}
+  ** {{desc|sv|mängd}}
+  ** {{desc|da|mængde}}
+  *** {{desc|nb|mengde}}

@@ -1,0 +1,59 @@
+pageid: 4415705
+ns: 118
+title: Reconstruction:Proto-Germanic/huntōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Underlyingly {{m|gem-pro||*hunttōną}}, an iterative formation representing
+  {{der|gem-pro|ine-pro||*ḱn̥t-néh₂-}}<ref>{{R:Kroonen 2012}}</ref>, from
+  {{m|ine-pro||*kent-}} or {{m|ine-pro||*ḱent-}}, whence
+  {{cog|gem-pro|*hinþaną||to catch}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxun.tɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[hunt]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|hunt}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*huntô}}
+
+  * {{l|gem-pro|*huntōþuz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|huntian}}
+
+  ** {{desc|enm|huntien|hunten|hounten}}
+
+  *** {{desc|sco|hunt}}
+
+  *** {{desc|en|hunt}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

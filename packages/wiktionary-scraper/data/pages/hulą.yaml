@@ -1,0 +1,36 @@
+pageid: 4569828
+ns: 118
+title: Reconstruction:Proto-Germanic/hulą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*hulaz||hollow}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxu.lɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # a [[hollow]]; [[depression]]; [[hole]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hol|id=hole}}
+  * {{desc|non|hol|hul}}
+  ** {{desc|is|hol}}
+  ** {{desc|fo|hol}}
+  ** {{desc|nn|hòl}}
+  *** {{desc|nb|hol|bor=1}}
+  ** {{desc|gmq-osw|hul|hol}}
+  *** {{desc|sv|hål}}
+  ** {{desc|da|hul}}
+  *** {{desc|nb|hull}}
+  ** {{desc|gmq-bot|hȯhl}}
+  ** {{desc|nrf|houle|bor=1}}
+  *** {{desc|fr|houle|bor=1}}
+  * {{desc|got|𐌷𐌿𐌻𐌿𐌽𐌳𐌹|der=1}}

@@ -1,0 +1,47 @@
+pageid: 2542556
+ns: 118
+title: Reconstruction:Proto-Germanic/stadiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*steh₂-}}
+
+  From {{der|gem-pro|ine-pro|*stéh₂tis}}. Cognate with {{cog|grc|στάσις}}.
+  Equivalent to {{suffix|gem-pro|*stāną|*þiz}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstɑ.ðiz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[place]], [[location]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*stadi}}
+
+  * {{desc|gmq-pro|*ᛊᛏᚨᛞᛁᛉ|tr=stadiʀ}}
+
+  ** {{desctree|non|staðr}}
+
+  * {{desc|got|𐍃𐍄𐌰𐌸𐍃}}
+
+
+  {{topics|gem-pro|Geography}}

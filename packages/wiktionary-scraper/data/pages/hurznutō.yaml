@@ -1,0 +1,83 @@
+pageid: 3613667
+ns: 118
+title: Reconstruction:Proto-Germanic/hurznutō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*hurznatō}}, {{l|gem-pro|*hurznitō}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ḱerh₂-}}
+
+  From {{der|gem-pro|ine-pro|*ḱr̥h₂-s-r-o/en-|gloss=hornet|lit=the one with
+  horns (antennae)}}, from {{m|ine-pro|*ḱerh₂-||horn}},
+  {{suf|gem-pro||*-utaz|alt2=*-utō}}. Cognate with
+  {{cog|itc-pro|*krāzrō||hornet}} ({{cog|la|crābrō}}).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxurz.nu.tɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[hornet]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*hurslō}}, {{l|gem-pro|*hurzulǭ}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|hurnitu|hyrnetu|hyrnet|hyrnette|hyrnytt}}
+
+  ** {{desc|enm|hernet}}
+
+  *** {{desc|sco|hornet}}
+
+  *** {{desc|en|hornet}}
+
+  * {{desc|ofs|-}}
+
+  ** {{desc|fy|hoarnbij}}
+
+  * {{desc|osx|*horneta|hurnut}}
+
+  ** {{desc|gml|hornte|hornente|horntse}}
+
+  *** {{desc|nds-de|Hörntje}}
+
+  *** {{desc|nds-de|Hoornk}}
+
+  * {{desc|odt|*horneta}}
+
+  ** {{desc|dum|hornete|hornte|hornet}}
+
+  *** {{desc|nl|hoorntje|hoorn|hoornaar}}
+
+  * {{desc|goh|hornaz|hornuz|hurniz|*hornezza|*hornizzo|*horneiz|*hornuh}}
+
+  ** {{desc|gmh|hornuz|horniz|harniz|harliz}}
+
+  *** {{desc|de|Hornisse|Hornissel}}
+
+
+  [[Category:gem-pro:Insects]]

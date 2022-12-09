@@ -1,0 +1,112 @@
+pageid: 2860425
+ns: 118
+title: Reconstruction:Proto-Germanic/saltaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*sh₂ld-}}, from {{der|gem-pro|ine-pro|*seh₂l-}}
+  with *-d- extension. Cognate with {{cog|la|sallō||to salt}},
+  {{cog|sga|saillid}}.<ref>{{R:gem:EDPG}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsɑl.tɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[salt]], [[pickle]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=7c|salt|sezalt|sezalt|salt}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*saltą}}
+
+  * {{l|gem-pro|*saltaz}}
+
+  * {{l|gem-pro|*saltijaną}}
+
+  * {{l|gem-pro|*sultijaz}}
+
+  * {{l|gem-pro|*sultijō}}
+
+
+  ====Descendants====
+
+  Most descendants preserve this as a weak verb, presumably based on an
+  innovated form {{m|gem-pro||*saltijaną}} or {{m|gem-pro||*saltōną}}, derived
+  from the noun or adjective.
+
+
+  * {{desc|ang|sealtan}}; {{l|ang|sealten|pos=ppl}}
+
+  ** {{desc|enm|salten}}; {{l|enm|salten}}
+
+  *** {{desc|en|salt}}; {{l|en|salten}}
+
+  * {{desc|ofs|*salta}}; {{l|ofs|*salten|pos=ppl}}
+
+  ** {{desc|stq|soalten|pos=adj}}
+
+  * {{desc|osx|*saltan}}; {{l|osx|*gisaltan}}
+
+  ** {{desc|gml|solten}}; {{l|gml|solten|pos=ppl}}
+
+  *** {{desc|nds-de|solten}}; {{l|nds-de|solten|pos=ppl}}
+
+  *** {{desc|pdt|solten}}
+
+  * {{desc|odt|*saltan}}
+
+  ** {{desc|dum|souten}}
+
+  *** {{desc|nl|zouten}} (weak, but with a strong participle)
+
+  **** {{desc|af|sout}}
+
+  * {{desc|goh|salzan}}
+
+  ** {{desc|gmh|salzen}}
+
+  *** {{desc|de|salzen}} (weak, but with a strong participle)
+
+  *** {{desc|lb|salzen}}
+
+  * {{desc|non|salta}}
+
+  ** {{desc|is|salta}}
+
+  ** {{desc|fo|salta}}
+
+  ** {{desc|sv|salta}}
+
+  ** {{desc|gmq-oda|saltæ}}
+
+  *** {{desc|da|salte}}
+
+  ** {{desc|gmq-gut|salte|salt'}}
+
+  ** Smalandian: [[salta]]
+
+  ** {{desc|gmq-bot|saalt}}
+
+  * {{desc|got|𐍃𐌰𐌻𐍄𐌰𐌽}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,29 @@
+pageid: 7400496
+ns: 118
+title: Reconstruction:Proto-Germanic/aiþastabaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*aiþaz|*stabaz|t1=oath|t2=a staff, stick}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑi̯.θɑ.ˌstɑ.βɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:HGE|*aiþa-stabaz|10}}</ref>
+
+  # [[oath]], [[oath]]-[[making]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*aiþastab}}
+  * {{desc|non|eiðstafr}}
+
+  ===References===
+  <references/>
+
+  [[Category:gem-pro:Directives]]

@@ -1,0 +1,75 @@
+pageid: 7490203
+ns: 118
+title: Reconstruction:Proto-Germanic/hawāną
+wikitext: >-
+  {{reconstruction}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑ.wɑː.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  From {{der|gem-pro|ine-pro|*kew-}}.<ref name="Kroonen 1"></ref> Cognate
+  {{cog|lt|kuvḗtis|t=to be ashamed}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref name="Kroonen 1">{{R:gem:EDPG|head=*hawēn-1|page=217}}</ref>
+
+
+  # To [[mock]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk3|haw}}
+
+
+  =====Descendants=====
+
+  * {{desc|non|há}}
+
+  ** {{desc|is|há}}
+
+  ** {{desc|no|hå}}
+
+
+  ===Etymology 2===
+
+  The verb could also be reconstructed as {{m|gem-pro||*hēwijaną}}, but in view
+  of {{cog|lv|kavêt|t=to prevent}}, {{m|gem-pro||*hawāną}} is more likely.<ref
+  name="Kroonen 2"/> Also cognate with {{cog|la|caveo|t=to take care, beware}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref name="Kroonen
+  2">{{R:gem:EDPG|head=*hawēn-2|page=217/218}}</ref>
+
+
+  # To [[observe]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk3|haw}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*hawēn}}
+
+  * {{desc|non|*há}}
+
+  ** {{desc|no|hå}}
+
+
+  ===References===
+
+  <references/>

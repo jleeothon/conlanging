@@ -1,0 +1,30 @@
+pageid: 3977133
+ns: 118
+title: Reconstruction:Proto-Germanic/wīsijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weyd-}}
+  From {{affix|gem-pro|*wīsaz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwiː.si.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to make wise, knowing; to [[show]], [[instruct]]
+
+  ====Inflection====
+  {{gem-conj-wk1|wīs|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wīsōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wīsijan}}
+  * {{desc|got|*𐍅𐌴𐌹𐍃𐌾𐌰𐌽}}
+  ** {{desc|got|𐍆𐌿𐌻𐌻𐌰𐍅𐌴𐌹𐍃𐌾𐌰𐌽|der=1}}
+  * {{desc|fi|vihjata|bor=1}}

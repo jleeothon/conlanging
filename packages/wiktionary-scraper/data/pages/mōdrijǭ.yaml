@@ -1,0 +1,64 @@
+pageid: 3872248
+ns: 118
+title: Reconstruction:Proto-Germanic/mōdrijǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{m|gem-pro|*mōdrijaz||of a mother, maternal|pos=adj}}, and/or
+  {{m|ine-pro|*méh₂treh₂||mother's sister}}, from
+  {{der|gem-pro|ine-pro|*méh₂tēr}}.
+
+
+  Cognate with {{cog|kw|modrep||maternal aunt}}, {{cog|cy|modryb||maternal
+  aunt}}, {{cog|grc|μήτριος||motherly, maternal}}, {{cog|sq|motër||sister}}.
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[mother|mother’s]] [[sister]]; [[maternal aunt]]
+
+  #: {{syn|gem-pro|*mōijǭ}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*mōdēr}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*mōdrijā}}
+
+  ** {{desc|ang|mōdrie|mōdriġe}}
+
+  *** {{desc|enm|moddrie}}
+
+  ** {{desc|ofs|mōdrie}}
+
+  *** {{desc|frr|medder}}
+
+  ** {{desc|osx|*mōdria|*mōdira}}
+
+  *** {{desc|gml|möddere|meddere|mödder|medder}}
+
+  ** {{desc|odt|*muodria|*muodira}}
+
+  *** {{desc|dum|moeddere|moddere|modder}}
+
+  ** {{desc|goh|muotera}}
+
+
+  {{topics|gem-pro|Family}}

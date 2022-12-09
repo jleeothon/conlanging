@@ -1,0 +1,62 @@
+pageid: 2730786
+ns: 118
+title: Reconstruction:Proto-Germanic/geldaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*gʰeldʰ-}}
+
+  Akin to {{cog|sla-pro|*želsti}} (attested only in {{cog|cu|жлѣсти}} and
+  {{cog|orv|желести}}). If not an early borrowing from Germanic, these may be
+  from common {{inh|gem-pro|ine-pro|*gʰeldʰ-}}.<ref>{{R:ine:LIV}}</ref>
+  {{cog|sga|gell||pledge}} may also continue the same root.<ref
+  name='Kroonen'>{{R:gem:EDPG|*geldan-|173-174}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣel.dɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref
+  name='Kroonen'></ref><ref>{{R:gem:HGE|*ʒelđanan|130-131}}</ref>
+
+
+  # to [[pay]]
+
+  # to have/give [[value]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=3|geld|gald|guld|guld}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*frageldaną}}
+
+  * {{l|gem-pro|*geldą}}
+
+  * {{l|gem-pro|*gelstrą}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*geldan}}
+
+  * {{desctree|non|gjalda}}
+
+  * {{desc|got|*𐌲𐌹𐌻𐌳𐌰𐌽}} {{q|in derivatives}}
+
+
+  ===References===
+
+  <references/>

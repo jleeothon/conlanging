@@ -1,0 +1,32 @@
+pageid: 4600004
+ns: 118
+title: Reconstruction:Proto-Germanic/ūtlandijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*ūt|*landijaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈuːt.ˌlɑn.di.jɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[foreign]], [[outlandish]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|ūtland|j=ij}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*aljalandijaz}}
+  * {{l|gem-pro|*uzlandijaz}}
+  * {{l|gem-pro|*ūtlandiskaz}}
+
+  ====Descendants====
+  * {{desc|ang|ūtlende}}
+  * {{desc|goh|ūzlenti}}
+  * {{desc|non|útlendr}}
+  ** {{desc|is|útlendur}}
+  ** {{desc|fo|útlendur}}

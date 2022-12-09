@@ -1,0 +1,24 @@
+pageid: 6421307
+ns: 118
+title: Reconstruction:Proto-Germanic/biskīnaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*bi|*skīnaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/bi.ˈskiː.nɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[shine]] upon or about
+
+  ====Inflection====
+  {{gem-conj-st|class=1|biskīn|biskain|biskin|biskin}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*biskīnan}}
+  * {{desc|got|𐌱𐌹𐍃𐌺𐌴𐌹𐌽𐌰𐌽}}

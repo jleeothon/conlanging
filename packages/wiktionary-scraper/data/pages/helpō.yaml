@@ -1,0 +1,59 @@
+pageid: 6013016
+ns: 118
+title: Reconstruction:Proto-Germanic/helpō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*helpaną||to help}}.
+
+  ===Pronunciation===
+  {{IPA|gem-pro|/ˈxel.pɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[help]], [[aid]], [[assistance]]
+  #: {{syn|gem-pro|*hulpiz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*helpōlausaz}}
+
+  ====Descendants====
+  * {{desctree|ang|help}}
+  * {{desc|ofs|helpe}}
+  ** {{desc|stq|Hälpe}}
+  ** {{desc|fy|help}}
+  * {{desctree|osx|helpa}}
+  * {{desc|odt|helpa}}
+  ** {{desc|dum|helpe}}
+  * {{desc|goh|helfa|hilfa}}
+  ** {{desc|gmh|helfe|hilfa}}
+  *** {{desc|bar|Hülf}}
+  ***: {{desc|cim|hölfe}}
+  ***: {{desc|mhn|hilf}}
+  *** {{desc|de|Hilfe}}
+  *** {{desc|hrx|Hellef}}
+  *** {{desc|lb|Hëllef}}
+  *** {{desc|wym|hyłf}}
+  *** {{desc|yi|הילף}}
+  * {{desc|non|hjǫlp}}
+  ** {{desc|is|hjálp}}
+  ** {{desc|fo|hjálp}}
+  ** {{desc|ovd|jåp}}
+  ** {{desc|gmq-bot|hjalp}}
+  ** {{desc|gmq-osw|hiælp}}
+  *** {{desc|sv|hjälp}}
+  ** {{desc|da|hjælp}}
+  *** {{desc|nb|hjelp}}
+  ** {{desc|gmq-gut|hjälp}}
+  * {{desc|fiu-fin-pro|*helppo|bor=1}}
+  ** {{desc|et|hõlp}}
+  ** {{desc|fi|helppo}}
+  ** {{desc|izh|helppo}}
+  ** {{desc|krl|helppo}}
+  ** {{desc|vot|helppo}}

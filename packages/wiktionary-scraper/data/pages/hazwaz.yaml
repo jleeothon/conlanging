@@ -1,0 +1,30 @@
+pageid: 4995227
+ns: 118
+title: Reconstruction:Proto-Germanic/hazwaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*harwaz}}
+
+  ===Etymology===
+  {{unk|gem-pro}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑz.wɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topic|gem-pro|Malpighiales order plants}} [[flax]]
+  #: {{syn|gem-pro|*flahsą}}
+  # {{topic|gem-pro|Fibers|Textiles}} [[linen]]
+  #: {{syn|gem-pro|*līną}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*haʀu}}
+  * {{desctree|non|hǫrr}}

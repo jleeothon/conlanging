@@ -1,0 +1,31 @@
+pageid: 8086582
+ns: 118
+title: Reconstruction:Proto-Germanic/skaiþōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*skaiþiz|*-ōną|t1=sheath}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskɑi̯.θɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*skaiþōjanan|332}}</ref>
+
+  # to [[sheath]]
+
+  ====Inflection====
+  {{gem-conj-wk2|skaiþ}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skaiþōn}}
+  ** {{desc|ang|*sċēaþian}}
+  *** {{desc|enm|shethen}}
+  **** {{desc|en|sheath}}
+  * {{desc|non|skeiða}}
+  ** {{desc|is|skeiða}}
+
+  ===References===
+  <references/>

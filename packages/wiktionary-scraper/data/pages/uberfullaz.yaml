@@ -1,0 +1,37 @@
+pageid: 4579445
+ns: 118
+title: Reconstruction:Proto-Germanic/uberfullaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*pleh₁-}}
+  From {{compound|gem-pro|*uber|*fullaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈu.βer.ˌɸul.lɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # overly [[full]], full to [[overflowing]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|uberfull}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*uberfullį̄}}
+  * {{l|gem-pro|*uberfullijaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*obarfull}}
+  ** {{desc|ang|oferfull}}
+  *** {{desc|en|overfull}}
+  ** {{desc|odt|}}
+  *** {{desc|dum|overvol}}
+  **** {{desc|nl|overvol}}
+  ** {{desc|goh|ubarfol}}
+  *** {{desc|gmh|}}
+  **** ({{desc|de|übervoll}})
+  * {{desc|got|𐌿𐍆𐌰𐍂𐍆𐌿𐌻𐌻𐍃}}

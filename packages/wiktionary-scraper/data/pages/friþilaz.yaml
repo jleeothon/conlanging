@@ -1,0 +1,62 @@
+pageid: 6382228
+ns: 118
+title: Reconstruction:Proto-Germanic/friþilaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*fridilaz}}
+
+
+  ===Etymology===
+
+  From {{suf|gem-pro|*friþuz|*-ilaz|id2=agent noun}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸri.ði.lɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[loved one]]; [[beloved]]; [[friend]]; [[lover]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*frijōdilaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*friþil}}
+
+  ** {{desc|goh|ᚠᚱᛁᚠᚱᛁᛞᛁᛚ|tr=frifridil}}
+
+  *** {{desc|goh|fridil}}
+
+  **** {{desc|gmh|vriedel}} {{i|merged with descendant of
+  {{l|gem-pro|*frijōdilaz}}}}
+
+  ***** {{desc|de|Friedel}}
+
+  * {{desc|gmq-pro|}}
+
+  ** {{desc|non|friðill}}
+
+  *** {{desc|is|friðill}}
+
+  *** {{desctree|der=1|non|friðla|frilla|g2=f}}

@@ -1,0 +1,41 @@
+pageid: 4680752
+ns: 118
+title: Reconstruction:Proto-Germanic/graftuz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*grabaną|t1=to dig|*þuz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣrɑɸ.tuz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[digging]], [[carving]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  The West Germanic languages remodeled the word as a ti-stem.
+  * {{desc|ang|græft}}
+  ** {{desc|enm|græf|graf|grave}} {{q|partially}}
+  * {{desc|ofs|greft}}
+  ** {{desc|stq|Grääft}}
+  ** {{desc|fy|grêft}}
+  * {{desc|osx|*graft}}
+  ** {{desc|gml|graft|gracht}}
+  *** {{desc|nds-de|Gracht}}
+  * {{desc|odt|*graft}} {{q|in placenames}}
+  ** {{desc|dum|gracht|graft|grecht|greft}}
+  *** {{desc|nl|gracht}}
+  **** {{desc|de|Gracht|bor=1}}
+  * {{desc|goh|graft}}
+  ** {{desc|gmh|graft}}; {{q|northwestern}} {{l|gmh|graht}}, {{l|gmh||*greht}}
+  *** {{desc|de|Graft}} {{q|archaic}}
+  *** {{desc|lb|Griecht|Gruecht}}
+  * {{desc|non|grǫptr|grǫftr}}
+  ** {{desc|is|gröftur}}

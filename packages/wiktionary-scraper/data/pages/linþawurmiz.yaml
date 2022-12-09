@@ -1,0 +1,79 @@
+pageid: 8729863
+ns: 118
+title: Reconstruction:Proto-Germanic/linþawurmiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|alt=*linþawurmaz}}<ref name="HGE"/> {{q|''a''-stem}}
+
+
+  ===Etymology===
+
+  <!--{{PIE word|gem-pro|wŕ̥mis}}-->
+
+  From {{compound|gem-pro|*linþaz|t1=flexible, flimsy|*wurmiz|t2=worm,
+  serpent}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈlin.θɑˌwur.miz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|head=*lenþa-wurmaz|page=241}}</ref>
+
+
+  # {{topics|gem-pro|Snakes}} [[serpent]], [[snake]]
+
+  #: {{syn|gem-pro|*agiz|*linþaz|*nadraz|*nadrǭ|*slangô|*snakô|*wurmiz}}
+
+  # {{lb|gem-pro|North Germanic}}{{topics|gem-pro|Mythological creatures}}
+  [[dragon]] {{gloss|mythical large serpentine creature}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*linþawurmi}}
+
+  ** {{desc|osx|*lindwurm}}
+
+  *** {{desc|gml|lindeworm}}
+
+  **** {{desc|nds-de|Lindworm}}
+
+  ** {{desc|odt|*lindwurm}}
+
+  *** {{desc|dum|lindeworm}}
+
+  **** {{desc|nl|lindeworm}}
+
+  ** {{desc|goh|lindwurm}}
+
+  *** {{desc|gmh|lintwurm}}
+
+  **** {{desc|de|Lindwurm}}
+
+  * {{desc|non|linnormr}}
+
+  ** {{desc|da|lindorm}}
+
+  ** {{desc|no|lindorm}}
+
+  ** {{desc|en|lindworm|bor=1|unc=1}}; {{l|en|lindorm}}; {{l|en|lindwyrm}}
+
+
+  ===References===
+
+  <references/>

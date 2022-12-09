@@ -1,0 +1,28 @@
+pageid: 6873510
+ns: 118
+title: Reconstruction:Proto-Germanic/hwannō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*ḱwenHdʰ-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxʷɑn.nɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[angelica]] (genus {{m|mul|Angelica}})
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|non|hvǫnn}}
+  * {{desc|smi-pro||bor=1}}
+  ** {{desc|smj|faddnu}}
+  ** {{desc|se|faddnu}}
+
+  {{topics|gem-pro|Apiales order plants}}

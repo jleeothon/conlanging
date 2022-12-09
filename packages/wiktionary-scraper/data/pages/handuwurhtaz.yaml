@@ -1,0 +1,45 @@
+pageid: 4718665
+ns: 118
+title: Reconstruction:Proto-Germanic/handuwurhtaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*werǵ-}}
+
+  From {{compound|gem-pro|*handuz|t1=hand|*wurhtaz|t2=worked|pos2=past
+  participle of {{m|gem-pro|*wurkijaną||to work}}}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑn.du.ˌwurx.tɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # made by hand, [[handwrought]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|handuwurht}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|handworht}}
+
+  ** {{desc|en|handwrought}}
+
+  * {{desc|got|𐌷𐌰𐌽𐌳𐌿𐍅𐌰𐌿𐍂𐌷𐍄𐍃}}
+
+
+  {{cln|gem-pro|compound terms}}

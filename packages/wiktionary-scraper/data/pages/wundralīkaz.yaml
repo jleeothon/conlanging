@@ -1,0 +1,47 @@
+pageid: 7689989
+ns: 118
+title: Reconstruction:Proto-Germanic/wundralīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*wundrą|*-līkaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwun.drɑ.ˌliː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[wondrous]], [[marvellous]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|wundralīk}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*wundralīk}}
+  ** {{desc|ang|wundorlīc|wundorlīċ}}
+  *** {{desc|enm|wunderlic|wunnderrlik|wonderlich|wonderly}}
+  **** {{desc|en|wonderly}}
+  **** {{desc|sco|wondirlie|wounderlie|wonderlie}}
+  ** {{desc|ofs|wunderlik}}
+  *** {{desc|stq|wunderelk|wunnerelk}}
+  *** {{desc|fy|wûnderlik}}
+  ** {{desc|osx|wundarlīk}}
+  *** {{desc|gml|wunderlîk}}
+  **** {{desc|nds-de|wunnerlik}}
+  ** {{desc|odt|wundarlīk|wunderlīc}}
+  *** {{desc|dum|wundirlik|wonderlec|wonderlijc}}
+  **** {{desc|nl|wonderlijk}}
+  ***** {{desc|af|wonderlik}}
+  ** {{desc|goh|wuntarlīh}}
+  *** {{desc|gmh|wunderlich|wonderlich}}
+  **** {{desc|de|wunderlich}}
+  **** {{desc|yi|וווּנדערלעך}}
+  * {{desc|non|undrligr}}
+  ** {{desc|is|undarlegur}}
+  ** {{desc|fo|undarligur}}
+  ** {{desc|sv|underlig}}
+  ** {{desc|no|underlig}}
+  ** {{desc|da|underlig}}

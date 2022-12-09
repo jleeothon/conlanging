@@ -1,0 +1,104 @@
+pageid: 2594767
+ns: 118
+title: Reconstruction:Proto-Germanic/miskijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{l|gem-pro|*miskaną}}<ref>{{R:gem:EDPG|*miskan-|page=370}}</ref>
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*meyḱ-}}
+
+  From earlier {{m|gem-pro||*mihsk-}},  from
+  {{inh|gem-pro|ine-pro||*miḱ-sḱé-|pos=''*sḱé-'' inchoative present}} (whence
+  {{cog|la|misceō||mix}}, {{cog|grc|μίσγω||mix}}), from {{m|ine-pro|*meyǵ-}},
+  {{m|ine-pro|*meyḱ-||to mix, knead}}. Cognate with {{m|gem-pro|*maiskaz}},
+  {{m|gem-pro|*maiskō||mixture}}, {{cog|sga|mescad||mix}},
+  {{cog|sa|मेक्षयति||tr=mekṣáyati|to mingle, mix}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmis.ki.jɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[mix]], [[combine]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk1|misk|j=ij}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*maiskaz}}
+
+  * {{l|gem-pro|*maiską}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*miskijan|*miskōn}}
+
+  ** {{desc|ang|*mixian|miscian}}
+
+  *** {{desc|enm|mixen}} (attested in {{m|enm|myxyd|pos=past participle}})
+
+  **** {{desc|sco|mix}}
+
+  **** {{desc|en|mix}}
+
+  ***** {{desc|eo|miksi|bor=1}}
+
+  ***** {{desc|nl|mixen|bor=1}}
+
+  ***** {{desc|de|mixen|bor=1}}
+
+  ** {{desc|ofs|*miskia}}
+
+  *** {{desc|stq|miskje}}
+
+  ** {{desc|osx|*misken|*miskōn}}
+
+  *** {{desc|gml|mischen|meschen}}
+
+  **** {{desc|nds-de|mischen|misken}}
+
+  ** {{desc|frk|*misken|*miscen}}; {{l|gmw-pro|*misklōn}};
+  {{l|gmw-pro|*misklinga}}
+
+  *** {{desctree|odt|misken}}
+
+  *** {{desc|der=1|bor=1|fro|meslinges|meslance}} (likely, due to the fossilised
+  germanic suffix appended to this word)
+
+  **** {{desc|frm|meslange|mélange}}
+
+  ***** {{desc|fr|mélange}}; {{l|fr|mélanger}}
+
+  ** {{desc|goh|miskian|misgēn|miskēn}}; {{l|goh|miscilōn}}, {{l|goh|miskilōn}},
+  {{l|goh|miskelōn}}
+
+  *** {{desc|gmh|mischen}}
+
+  **** {{desc|de|mischen}}
+
+  **** {{desc|lb|mëschen}}
+
+
+  ===References===
+
+  <references/>

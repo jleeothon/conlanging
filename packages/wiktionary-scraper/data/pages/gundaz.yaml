@@ -1,0 +1,54 @@
+pageid: 3855703
+ns: 118
+title: Reconstruction:Proto-Germanic/gundaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*gʰendʰ-||sore, ulcer, abscess, boil}}. Cognate
+  with {{cog|grc|κανθύλη|t=swelling}}. See also {{cog|pal|gwnd|ts=gund}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ɣun.dɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[sore]], [[boil]]; [[canker]]
+
+  # purulent matter, [[atter]], [[pus]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*gund}}
+
+  ** {{desc|ang|gund}}
+
+  *** {{desc|enm|gunde|gounde|gownde}}
+
+  **** {{desc|en|gound}}
+
+  ** {{desc|osx|gund}}
+
+  ** {{desc|goh|gund|kund|gunt|cunt}}
+
+  * {{desc|non|*gundr}}
+
+  ** {{desc|no|gund}} {{q|dialectal}}
+
+  * {{desc|got|𐌲𐌿𐌽𐌳}} {{q|< *gundą}}

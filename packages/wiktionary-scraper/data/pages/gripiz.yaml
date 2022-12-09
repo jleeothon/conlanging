@@ -1,0 +1,36 @@
+pageid: 6998518
+ns: 118
+title: Reconstruction:Proto-Germanic/gripiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*grīpaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣri.piz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # A [[grip]], [[grabbing]] or [[grasp]].
+  # Something that is held onto or gripped.
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desctree|ang|gripe}}
+  * {{desc|ofs|*grip}} (in {{l|ofs|bigrip}})
+  * {{desc|odt|*gripi}}
+  ** {{desc|dum|grepe}}
+  *** {{desc|nl|greep}}
+  * {{desc|goh|grif}}
+  ** {{desc|gmh|grif}}
+  *** {{desc|de|Griff}}
+  **** {{desc|pl|gryf|bor=1}}
+  ** {{desc|fro|gris}} ''pl'', {{l|fro|*griffe}} (?)
+  *** {{desc|fr|griffe}} {{q|or deverbal}}
+  * {{desc|non|gripr}}
+  ** {{desc|is|gripur}}

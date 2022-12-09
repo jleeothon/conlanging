@@ -1,0 +1,82 @@
+pageid: 2681255
+ns: 118
+title: Reconstruction:Proto-Germanic/kalbaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}. The connection with {{m+|ine-pro|*gʷelbʰ-}} is problematic
+  due to the missing labiovelar in Germanic.<ref name="EDPG"/> However,
+  ''*gʷl̥bʰus-'' or the weak stem of ''*gʷélbʰ-us ~ *gʷl̥bʰ-éws'' would yield
+  ''*kulbuz-'', from which the variant ''*kelbuz-'', also attested in Germanic,
+  could have been derived analogically as a strong stem, whose influence might
+  explain the missing labialization in ''*kalbiz-''.
+
+
+  Pokorny connects it to {{cog|la|galba||little worm, larva; small person or
+  animal}}, itself perhaps of {{cog|cel-gau|-}} origin, and proposes
+  {{der|gem-pro|ine-pro||*gel(e)b⁽ʰ⁾-}} as a labial extension of
+  {{m|ine-pro|*gel-||form into a ball;
+  ball}};<ref>{{R:ine:IEW|pages=358-359|volume=II|head=geleb(h)-}}</ref> compare
+  {{cog|ang|clyppan||to hug, embrace; to clasp}} (modern {{cog|en|clasp}}),
+  {{cog|de|Klafter||armful, fathom}}, {{cog|lv|glābt||to save}}, and
+  {{cog|la|glaeba||clod}}, {{m|la|globus||round object}}. However, such
+  irregular correspondences between {{m|gem-pro||*kalbaz}} and {{m|la||galba}}
+  would more likely point to {{der|gem-pro|qfa-sub}} origin.
+
+
+  Has been compared to {{cog|xmf|ქაბლა}}, itself of uncertain
+  origin.<ref>{{R:ccs:Klimov:1994|page=197}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkɑl.βɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}<ref name="EDPG">{{R:gem:EDPG|*kalbiz-|278}}</ref>
+
+
+  # {{topics|gem-pro|Baby animals}} [[calf]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|stem=z}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*kalbǭ||heifer}}
+
+  ** {{desc|goh|chalbā}}
+
+  *** {{desc|gmh|kalbe}}
+
+  **** {{desc|de|Kalbe}}
+
+  **** {{desc|gsw|Kalbala|der=1}}, {{l|gsw|Kalbla}}
+
+  **** {{desc|cim|khalbala|der=1}}
+
+  **** {{desc|de|Kalbele|der=1}}
+
+  ** {{desc|got|𐌺𐌰𐌻𐌱𐍉}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*kalb}}
+
+  * {{desctree|non|kalfr}}
+
+
+  ===References===
+
+  <references/>

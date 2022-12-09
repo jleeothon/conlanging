@@ -1,0 +1,32 @@
+pageid: 7469819
+ns: 118
+title: Reconstruction:Proto-Germanic/gudalausaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰewd-}}
+  From {{compound|gem-pro|*gudą|*-lausaz|t1=god}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣu.ðɑ.ˌlɑu̯.sɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*gud(a)-lausaz|145}}</ref>
+
+  # [[without]] [[god]], [[godless]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*godalaus}}
+  * {{desc|non|guðlauss}}
+  ** {{desc|is|guðlaus}}
+  ** {{desc|da|gudløse}}
+  ** {{desc|sv|gudlös}}
+  * {{desc|got|𐌲𐌿𐌳𐌰𐌻𐌰𐌿𐍃}}
+
+  ===References===
+  <references/>

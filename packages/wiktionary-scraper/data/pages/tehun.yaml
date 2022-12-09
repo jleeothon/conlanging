@@ -1,0 +1,30 @@
+pageid: 2418132
+ns: 118
+title: Reconstruction:Proto-Germanic/tehun
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From earlier {{m|gem-pro||*tehunt}}, from {{inh|gem-pro|ine-pro|*déḱm̥t}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈte.xun/}}
+
+  ===Numeral===
+  {{cardinalbox|gem-pro|9|10|11|*newun|*ainalif|ord=*tehundô|mult=*tehunfalþaz}}
+  {{gem-num}}
+
+  # [[ten]]
+
+  ====Derived terms====
+  * {{l|gem-pro|*teguz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*tahjaną}}
+  * {{l|gem-pro|*tehsmaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*tehun}}
+  * {{desctree|non|tíu}}
+  * {{desc|got|𐍄𐌰𐌹𐌷𐌿𐌽}}

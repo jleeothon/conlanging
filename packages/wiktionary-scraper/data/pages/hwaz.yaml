@@ -1,0 +1,105 @@
+pageid: 2780719
+ns: 118
+title: Reconstruction:Proto-Germanic/hwaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*kʷ-}}
+
+  From {{inh|gem-pro|ine-pro|*kʷos}}, {{m|ine-pro|*kʷis}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/xʷɑz/}}
+
+
+  ===Pronoun===
+
+  {{gem-pron}}
+
+
+  # {{lb|gem-pro|interrogative}} [[who]], [[what]]
+
+  # {{lb|gem-pro|interrogative|in genitive}} [[whose]]
+
+  # {{lb|gem-pro|interrogative|in dative}} [[whom]]
+
+  # {{lb|gem-pro|interrogative|in instrumental}} [[with]] whom, with what,
+  [[how]], in what way
+
+
+  ====Inflection====
+
+  The feminine forms were likely already rare: they do not survive anywhere
+  outside Gothic, and are obsolescent even there. They were used only when the
+  person being asked about was known to be female. For a person of unknown
+  gender, the masculine forms were used.
+
+  {{gem-decl-pron-hwaz}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*hwan}}
+
+  * {{l|gem-pro|*hwar}}
+
+  * {{l|gem-pro|*hwazuh}}
+
+  * {{l|gem-pro|*hwē}}
+
+  * {{l|gem-pro|*hwilīkaz}}
+
+  * {{l|gem-pro|*hwī}}
+
+  * {{l|gem-pro|*hwō}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*hwarjaz}}
+
+  * {{l|gem-pro|*hwaþeraz}}
+
+  * {{l|gem-pro|*sa}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*hwaʀ}}
+
+  * {{desc|non|*hver||alt2=*hvar|hverr}} {{q|paradigm merged with
+  {{m|gem-pro|*hwarjaz}}}}, {{l|non|hvat}}, {{l|non|hví}}, {{l|non|hvé}}
+
+  ** {{desc|is|hver|hvað|hví}}
+
+  ** {{desc|fo|hvør|hvat|hví}}
+
+  ** {{desc|nn|[[kven]] {{q|from the accusative}}, [[kveim]] {{q|from the
+  dative}}, [[kva]], [[kvi]], {{q|dialectal}} [[kver]], [[kvæ]]}}
+
+  ** {{desc|gmq-osw|hvar|hwar|hwo}}; {{l|gmq-osw|hvat}}
+
+  *** {{desc|sv|vem}} {{q|from the dative}}, {{l|sv|vad}}; {{l|sv|vi}},
+  {{l|sv|ho}}
+
+  ** {{desc|da|hvem}} {{q|from the dative}}, {{l|da|hvad}}, {{l|da|hvis}}
+  {{q|from the genitive}},  {{l|da|hvi}}, {{l|da|hvo}}
+
+  *** {{desc|nb|hvem}} {{q|from the dative}}, {{l|nb|hva}}, {{l|nb|hvis}}
+  {{q|from the genitive}}, {{l|nb|hvi}}, {{l|nb|hvo}}
+
+  ** {{desc|gmq-jmk|hut|hvuð|horreg}}
+
+  ** {{desc|gmq-bot|hvo|hwem|wåm|ho|hȯrä|huri|hyri}}
+
+  * {{desc|got|𐍈𐌰𐍃|𐍈𐌰|𐍈𐌴}}
+
+
+  {{cln|gem-pro|interrogative pronouns}}

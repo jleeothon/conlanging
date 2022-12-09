@@ -1,0 +1,20 @@
+pageid: 6341905
+ns: 118
+title: Reconstruction:Proto-Germanic/tuską
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[toad]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|tosca}}
+  * {{desc|non|*tusk|*tosk}}
+  ** {{desc|sv|tåssa|tossa}}
+  ** {{desc|ovd|tuosk}}

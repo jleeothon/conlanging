@@ -1,0 +1,33 @@
+pageid: 6105073
+ns: 118
+title: Reconstruction:Proto-Germanic/wezāną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*wizjaną}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*wes-|t=to remain; dwell}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwe.zɑː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[stay]]; [[linger]]; [[remain]]
+
+  ====Inflection====
+  {{gem-conj-wk3|wez}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wazōną}}
+
+  ====Descendants====
+  * {{desc|odt|weren|*weron}}
+  ** {{desc|dum|weren|t=to continue; remain}}
+  * {{desc|goh|werēn|t=to last; continue}}
+  ** {{desc|gmh|wëren}}
+  *** {{desc|de|währen}}

@@ -1,0 +1,95 @@
+pageid: 2948628
+ns: 118
+title: Reconstruction:Proto-Germanic/dreuganą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdreu̯.ɣɑ.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*dʰrewgʰ-|id=deceive}}
+
+  From {{der|gem-pro|ine-pro|*dʰrewgʰ-|t=to be deceptive; damage}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*dreugan- 1|102}}</ref><ref
+  name='Orel'>{{R:gem:HGE|*dreuganan|page=75-76}}</ref>
+
+
+  # {{senseid|gem-pro|mislead}} to [[mislead]], to [[deceive]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-st|class=2|dreug|draug|drug|drug}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*draugaz}}
+
+  * {{l|gem-pro|*drugą}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*dreugan|id=mislead}}
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*dʰrewgʰ-|id=serve}}
+
+  From {{der|gem-pro|ine-pro|*dʰrewgʰ-||to hold fast; retain; support}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*dreugan- 2|102}}</ref><ref name='Orel'></ref>
+
+
+  # {{senseid|gem-pro|serve}} to [[serve]], to be a [[retainer]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-st|class=2|nopass=1|dreug|draug|drug|drug}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*druhtiz}}
+
+  * {{l|gem-pro|*druhtinaz}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*draugą}}
+
+  * {{l|gem-pro|*draugô}}
+
+  * {{l|gem-pro|*driugijaną}}
+
+  * {{l|gem-pro|*drangijaz}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*dreugan|id=serve}}
+
+  * {{desc|got|𐌳𐍂𐌹𐌿𐌲𐌰𐌽}}
+
+
+  ===References===
+
+  <references/>

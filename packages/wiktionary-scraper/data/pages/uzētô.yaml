@@ -1,0 +1,58 @@
+pageid: 7314817
+ns: 118
+title: Reconstruction:Proto-Germanic/uzētô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{affix|gem-pro|*uz-|*etaną|t2=to eat|*-ô|id3=agent noun}}.<ref
+  name="Kroonen"></ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˌuz.ˈɛː.tɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="Kroonen">{{R:gem:EDPG|head=*uzētan-|page=563}}</ref>
+
+
+  # [[manger]], [[feed]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*uʀātō}}
+
+  ** {{desc|ang|*orǣta}}
+
+  *** {{desc|enm|orte}}
+
+  **** {{desc|en|ort}}
+
+  ** {{desc|gml|ort|orte}}
+
+  ** {{desc|dum|orete|oraete}}
+
+  *** {{desc|nl|oort}} {{q|obsolete}}
+
+  * {{desc|got|𐌿𐌶𐌴𐍄𐌰}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Containers]]

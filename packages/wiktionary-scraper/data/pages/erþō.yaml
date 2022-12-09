@@ -1,0 +1,39 @@
+pageid: 2722546
+ns: 118
+title: Reconstruction:Proto-Germanic/erþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*h₁er-||earth}}. Related to {{m|gem-pro|*erwǭ}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈer.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[earth]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*erþōbazją}}
+  * {{l|gem-pro|*erþaburgz}}
+  * {{l|gem-pro|*erþōfallaz}}
+  * {{l|gem-pro|*erþōfastuz}}
+  * {{l|gem-pro|*erþōhnuts}}
+  * {{l|gem-pro|*erþahūsą}}
+  * {{l|gem-pro|*erþō jahw upphiminaz}}
+  * {{l|gem-pro|*erþōkundaz}}
+  * {{l|gem-pro|*erþōwegaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*erþu}}
+  * {{desc|gmq-pro|*ᛖᚱᚦᚢ}}
+  ** {{desctree|non|jǫrð}}
+  * {{desc|got|𐌰𐌹𐍂𐌸𐌰}}
+
+  {{topics|gem-pro|Geography}}

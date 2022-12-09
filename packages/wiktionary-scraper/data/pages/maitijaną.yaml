@@ -1,0 +1,40 @@
+pageid: 8385964
+ns: 118
+title: Reconstruction:Proto-Germanic/maitijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*maitaną|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑi̯.ti.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|head=*maitjanan|page=256}}</ref>
+
+  # to [[cut]]
+  # to [[sculpt]]
+
+  ====Inflection====
+  {{gem-conj-wk1|mait|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*maitilaz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*maitijan}}
+  ** {{desc|ang|*mǣtan|mētan|t2=to draw, paint}}
+  *** {{desc|enm|meten|t=to paint, sculpt, design}}
+  ** {{desc|goh|*meizen}}
+  *** {{desc|goh|firmeizen|der=1|pos=wk vb}}
+  **** {{desc|gmh|vermeizen}}
+  **** {{desc|goh|abafirmeizen|der=1|pos=wk vb}}
+  * {{desc|non|meita}} (through confluence with {{m|gem-pro|*maitaną}})
+  ** {{desc|is|meita}}
+  ** {{desc|no|meita}}
+  ** {{desc|sv|meta}}
+
+  ===References===
+  <references/>

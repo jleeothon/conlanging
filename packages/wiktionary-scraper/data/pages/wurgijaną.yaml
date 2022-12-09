@@ -1,0 +1,44 @@
+pageid: 4024829
+ns: 118
+title: Reconstruction:Proto-Germanic/wurgijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*werǵʰ-}}
+  From {{der|gem-pro|ine-pro|*werǵʰ-||bind, squeeze}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwur.ɣi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[strangle]]
+
+  ====Inflection====
+  {{gem-conj-wk1|wurg|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wargijaną}}
+  * {{l|gem-pro|*werganą}}
+  * {{l|gem-pro|*wurgǭ}}
+
+  ====Descendants====
+  * {{desc|ang|wyrġan}}
+  ** {{desc|enm|werien|worien|wirwen}}
+  *** {{desc|sco|wirry|werry|worry}}
+  *** {{desc|en|worry}}
+  * {{desc|ofs|wergia|wirgia}}
+  ** {{desc|fy|wjirgje|wurgje}}
+  * {{desc|osx|*wurgian}}
+  ** {{desc|gml|wörgen|worgen}}
+  *** {{desc|nds|wörgen}}
+  * {{desc|odt|*wurgen}}
+  ** {{desc|dum|worgen|wurgen}}
+  *** {{desc|nl|wurgen}}
+  * {{desc|goh|wurgen}}
+  ** {{desc|gmh|würgen|worgen}}
+  *** {{desc|de|würgen}}
+  *** {{desc|lb|wiergen}}

@@ -1,0 +1,27 @@
+pageid: 7315184
+ns: 118
+title: Reconstruction:Proto-Germanic/durstiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*durzaną|*-þiz|t1=to dare}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdur.stiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*durstiz|79}}</ref>
+
+  # [[tribulation]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|dyrst}}
+  * {{desc|goh|kiturst|der=1}}
+
+  ===References===
+  <references/>

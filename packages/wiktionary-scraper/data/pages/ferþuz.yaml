@@ -1,0 +1,46 @@
+pageid: 2873572
+ns: 118
+title: Reconstruction:Proto-Germanic/ferþuz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*per-}}
+
+  From {{inh|gem-pro|ine-pro|*pértus}}, equivalent to
+  {{suffix|gem-pro|*feraną|t1=to cross|*þuz}}. The oblique stem
+  {{m|ine-pro||*pr̥téw-}} gave rise to {{doublet|gem-pro|*furduz|notext=1}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸer.θuz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[inlet]], [[fjord]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*furduz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmq-pro|*ᚠᛖᚱᚦᚢᛉ|*ᚠᛡᛖᚱᚦᚢᛦ|ts2=fearþuʀ}}
+
+  ** {{desctree|non|fjǫrðr}}

@@ -1,0 +1,30 @@
+pageid: 2947710
+ns: 118
+title: Reconstruction:Proto-Germanic/hlefaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*klep-}}
+  From {{der|gem-pro|ine-pro|*klep-||to steal}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxle.ɸɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[steal]]
+
+  ====Inflection====
+  {{gem-conj-st|class=5|hlef|hlaf|hlēb|hleb}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*stelaną}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hleftuz}}
+
+  ====Descendants====
+  * {{desc|got|𐌷𐌻𐌹𐍆𐌰𐌽}}

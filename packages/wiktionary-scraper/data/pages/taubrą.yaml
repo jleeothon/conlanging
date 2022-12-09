@@ -1,0 +1,97 @@
+pageid: 3688853
+ns: 118
+title: Reconstruction:Proto-Germanic/taubrą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*taufrą}}<ref name="HGE"/>
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}. Perhaps linked to {{m|gem-pro|*tawjaną||to make}}.<ref
+  name="HGE"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈtɑu̯.brɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}<ref name="HGE">{{R:gem:HGE|head=*taufran|page=402}}</ref>
+
+
+  # [[magic]], [[sorcery]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*taubrōną}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*saidaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*taubr}}
+
+  ** {{desc|ang|tēafor}}
+
+  *** {{desc|enm|teapor|*tever}}
+
+  **** {{desc|en|tiver}}
+
+  ** {{desc|ofs|taver|alt=tāver}} (> {{l|ofs|tāveria}})
+
+  *** {{desc|stq|Töäwer|Tover}}
+
+  *** ({{desc|fy|thauwerje}}), {{l|fy|staverje}}
+
+  ** {{desc|osx|*tōvar}}
+
+  *** {{desc|gml|tôver}}; {{l|gml|tôveren}}
+
+  **** {{desc|nds-de|Töver}}; {{l|nds-de|tövern}}
+
+  **** {{desc|pdt|Teewa}}
+
+  ** {{desc|odt|*tōvar|*touvar}} (> {{l|odt|toufrere}}, {{l|odt|toufere}})
+
+  *** {{desc|dum|tover}}
+
+  **** {{desc|nl|toverij}} (> {{l|nl|toveren}}); reintroduction through German
+  Zauber: {{l|nl|tover}}
+
+  ***** ({{desc|fy|toverje|bor=1}})
+
+  ** {{desc|goh|zoubar}}
+
+  *** {{desc|gmh|zouber}}
+
+  **** {{desc|de|Zauber}}
+
+  * {{desc|non|taufr|taufrar}}
+
+  ** {{desc|is|töfrar}} {{qualifier|plural}}
+
+  ** {{desc|no|tauvr|tøvr}}; {{l|no|tauvra}}, {{l|no|tøvra}}
+
+
+  ===References===
+
+  <references/>

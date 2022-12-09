@@ -1,0 +1,24 @@
+pageid: 7542107
+ns: 118
+title: Reconstruction:Proto-Germanic/uznemaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*uz|*nemaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌuz.ˈne.mɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[take out]], [[remove]]
+
+  ====Inflection====
+  {{gem-conj-st|class=4|uznem|uznam|uznēm|uznum}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*uʀneman}}
+  * {{desc|got|𐌿𐍃𐌽𐌹𐌼𐌰𐌽}}

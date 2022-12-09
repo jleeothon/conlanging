@@ -1,0 +1,36 @@
+pageid: 3825512
+ns: 118
+title: Reconstruction:Proto-Germanic/faþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*ph₂tḗr||father}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɑ.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # father's [[sister]], paternal [[aunt]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*faþǭ}}
+
+  ====Related terms====
+  * {{l|gem-pro|*fadēr}}
+
+  ====Descendants====
+  * {{desc|ang|faþu}}; {{desc|ang|faþe}} (< {{m|gem-pro|*faþǭ}})
+  ** {{desc|enm|*fathe}}
+  *** {{desc|enm|fathasunu|der=1}}
+  * {{desc|ofs|fethe}}
+  * {{desc|osx|*fatha}}
+  ** {{desc|gml|vāde}}
+
+  {{topics|gem-pro|Family}}

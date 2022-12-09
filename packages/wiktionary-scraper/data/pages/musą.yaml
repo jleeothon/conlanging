@@ -1,0 +1,58 @@
+pageid: 3477127
+ns: 118
+title: Reconstruction:Proto-Germanic/musą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*musô||North Germanic}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*mews-}}. Cognates include {{cog|la|muscus}},
+  {{cog|sla-pro|*mъxъ}}. More cognates: see there.<!-- don't list everything
+  everywhere -->
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmu.sɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # {{topics|gem-pro|Plants}} [[moss]], [[bog]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*mos}}
+
+  * {{desc|non|*mos}}; {{l|non|mosi|g=m}} (< {{l|gem-pro|*musô}})
+
+  ** {{desc|is|mosi}}
+
+  ** {{desc|fo|mosi}}
+
+  ** {{desc|da|mose}}
+
+  ** {{desc|no|mose}}
+
+  ** {{desc|gmq-osw|mosi|g=m|mosa}} (oblique cases); {{l|gmq-osw|mos|g=n}}
+
+  *** {{desc|sv|mosse|mossa}}
+
+  ** {{desc|gmq-bot|môsa|mösa|måsa|mosa}}

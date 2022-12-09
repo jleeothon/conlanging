@@ -1,0 +1,39 @@
+pageid: 7605409
+ns: 118
+title: Reconstruction:Proto-Germanic/slingwaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Possibly related to {{m|gem-pro|*slinkaną||t=to creep, crawl, slink}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsliŋʷ.ɡʷɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="Orel">{{R:gem:HGE|*slengwanan|350}}</ref>
+
+  # to [[swing]], [[sling]]
+  # to [[wind]], [[twist]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|slingw|slangw|slung|slung}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*slangwijaną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*slangô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*slingwan}}
+  * {{desc|non|slyngva|slyngja}}
+  ** {{desc|is|slyngva|slyngja}}
+  ** {{desc|no|-}}
+  *** {{desc|nb|slynge}}
+  *** {{desc|nn|slynga}}
+  ** {{desc|da|slynge}}
+
+  ===References===
+  <references/>

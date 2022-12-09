@@ -1,0 +1,47 @@
+pageid: 4542804
+ns: 118
+title: Reconstruction:Proto-Germanic/snidaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*sneyt-|t=to cut}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsni.ðɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # a [[cut]], [[slice]], [[piece]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*snidiz}}
+  * {{l|gem-pro|*stukkiją}}
+
+  ====Related terms====
+  * {{l|gem-pro|*snīþaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*snid}}
+  ** {{desc|ang|snid|g=n}}
+  *** {{desc|enm|snid}}
+  *** {{desc|ang|ġesnid|der=1}}
+  ** {{desc|osx|*snid}}
+  *** {{desc|osx|insnid|g=m}}
+  **** {{desc|gml|insnede|insnēde}}
+  ** {{desc|goh|*snit}}
+  *** {{desc|goh|insnit|g=m|der=1}}
+  **** {{desc|gmh|*īnsnit}}
+  ***** {{desc|de|Einschnitt}}
+  * {{desc|non|snið|g=n}}
+  ** {{desc|is|snið}}
+  ** {{desc|fo|snið}}
+  ** {{desc|no|-}} {{l|nb|snid}} {{q|dialectal}}
+  ** {{desc|sv|sned}} {{q|dialectal}}
+  ** {{desc|gmq-oda|snid|sned}}
+  ** {{desc|enm|snith|bor=1}}

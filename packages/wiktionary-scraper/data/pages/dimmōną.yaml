@@ -1,0 +1,33 @@
+pageid: 8108580
+ns: 118
+title: Reconstruction:Proto-Germanic/dimmōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*dimmaz|*-ōną|t1=dim, dark}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdim.mɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name='Orel'>{{R:gem:HGE|*demmōjanan|70}}</ref>
+
+  # to [[dim]], to [[darken]]
+  # to [[obscure]]
+
+  ====Inflection====
+  {{gem-conj-wk2|dimm}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*dimmōn}}
+  * {{desc|non|dimma}}
+  ** {{desc|is|dimma}}
+  ** {{desc|fo|dimma}}
+  ** {{desc|no|-}}
+  **: {{desc|nb|dimme}}
+  **: {{desc|nn|dimme}}, {{l|nn|dimma}}
+
+  ===References===
+  <references/>

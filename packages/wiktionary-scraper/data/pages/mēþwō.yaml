@@ -1,0 +1,74 @@
+pageid: 4610849
+ns: 118
+title: Reconstruction:Proto-Germanic/mēþwō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*madwō}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₂meh₁-}}
+
+  From Pre-Germanic {{m|ine-pro||*h₂méh₁tuh₂}}, {{m|ine-pro||*h₂mh₁twéh₂-}}, the
+  latter giving {{m|gem-pro||*madwō}}, from {{der|gem-pro|ine-pro|*h₂meh₁-||to
+  mow}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmɛːθ.wɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[meadow]], [[pasture]]
+
+
+  ====Inflection====
+
+  The original paradigm alternated {{m|gem-pro||*mēþw-}} against oblique
+  {{m|gem-pro||*madw-}}.
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*mēaną}}
+
+  * {{l|gem-pro|*mēþą}}
+
+
+  ====Descendants====
+
+  Anglo-Frisian shows the vowel of the nominative with the voiced Verner
+  alternant consonant from the oblique.
+
+  * {{desc|ang|mǣd}}
+
+  ** {{desc|enm|medwe}}
+
+  *** {{desc|en|meadow}}
+
+  * {{desc|ofs|mēde}}
+
+  * {{desc|odt|māda}}
+
+  ** {{desc|dum|made}}
+
+  *** {{desc|nl|made}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

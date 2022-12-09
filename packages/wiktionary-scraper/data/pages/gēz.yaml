@@ -1,0 +1,29 @@
+pageid: 7643662
+ns: 118
+title: Reconstruction:Proto-Germanic/gēz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*dʰǵʰyés}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɛːz/}}
+
+  ===Adverb===
+  {{gem-adv}}
+
+  # [[yesterday]]
+
+  ====Descendants====
+  * {{desc|gmq-pro|*gāʀ}}
+  ** {{desc|non|gær|gjár}}
+  *** {{desc|is|gær|alt=í gær}}
+  *** {{desc|fo|í gjár}}
+  *** {{desc|nb|går|alt=i går}}
+  *** {{desc|nn|går|alt=i går}}
+  *** {{desc|sv|i går}}
+  *** {{desc|da|går|alt=i går}}
+
+  {{cln|gem-pro|demonstrative adverbs}}

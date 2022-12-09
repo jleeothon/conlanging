@@ -1,0 +1,168 @@
+pageid: 5591028
+ns: 118
+title: Reconstruction:Proto-Germanic/wardaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwɑr.ðɑz/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*wert-}}
+
+  From earlier {{m|gem-pro|*warþaz}}, {{m|gem-pro|*werþaz}}, from
+  {{der|gem-pro|ine-pro|*wert-||to turn}}. Compare {{cog|la|versus}}.
+
+
+  ====Alternative forms====
+
+  * {{alt|gem-pro|*werdaz}}
+
+
+  ====Adjective====
+
+  {{gem-adj}}
+
+
+  # [[turned]]
+
+  # turned toward; [[facing]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-adj-a|ward}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*werþaną}}
+
+
+  =====Descendants=====
+
+  * {{desctree|ang|-weard}}
+
+  ** {{desctree|der=1|ang|-weardes}}
+
+  * {{desc|ofs|-ward|-werd}}
+
+  * {{desc|osx|-ward}}
+
+  ** {{desc|gml|-ward}}; {{l|gml|-wērdes}}
+
+  *** {{desc|nds|-ward|-wart}}
+
+  *** {{desc|der=1|gml|-wērdes}}
+
+  **** {{desc|nds|-warts}}
+
+  * {{desc|odt|*-ward|*-werd}}
+
+  ** {{desc|dum|-wert|-weert|-waert}}
+
+  *** {{desc|der=1|dum|-werts}}
+
+  **** {{desc|nl|-waarts}}
+
+  * {{desc|goh|-wart|-wert}}
+
+  ** {{desc|gmh|-wert}}
+
+  ** {{desc|der=1|goh|-wertes}}
+
+  *** {{desc|gmh|-wertes}}
+
+  **** {{desc|de|-wärts}}
+
+  * {{desc|non|-varðr|-verðr}}
+
+  ** {{desc|gmq-osw|-varþer}}
+
+  * {{desc|got|-𐍅𐌰𐌹𐍂𐌸𐍃}}
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*wer-|id=heed}}
+
+  From {{inh|gem-pro|ine-pro||*wor-tós}}, {{m|ine-pro||*wor-tús}}, from the root
+  {{m|ine-pro|*wer-|t=to watch, heed, guard|id=heed}}.
+
+
+  ====Alternative forms====
+
+  * {{alter|gem-pro|*warduz||Northern}}
+
+
+  ====Noun====
+
+  {{gem-noun|m}}
+
+
+  # {{senseid|gem-pro|guard}}{{topic|gem-pro|Occupations}} [[guard]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*waraz}}
+
+  * {{l|gem-pro|*wardō}}
+
+  * {{l|gem-pro|*warduz}}
+
+  * {{l|gem-pro|*wardōną}}
+
+  * {{l|gem-pro|*wardāną}}
+
+  * {{l|gem-pro|*warjaną}}
+
+  * {{l|gem-pro|*warnōną}}
+
+  * {{l|gem-pro|*warōną}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*arbjawardaz}}
+
+  * {{l|gem-pro|*Audawarduz|*Audawardaz}}
+
+  * {{l|gem-pro|*durawardaz}}
+
+  * {{l|gem-pro|*endawardaz}}
+
+  * {{l|gem-pro|*habudawardaz}}
+
+  * {{l|gem-pro|*saliwardaz}}, {{l|gem-pro|*saliwarduz}}
+
+  * {{l|gem-pro|*Sigiwarduz|*Sigiwardaz}}
+
+  * {{l|gem-pro|*wardahūsą}}
+
+  * {{l|gem-pro|*wardamann-}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*ward}}
+
+  * {{desc|non|varðr}}
+
+  * {{desc|got|*𐍅𐌰𐍂𐌳𐍃}} {{q|only in {{m|got|𐌳𐌰𐌿𐍂𐌰𐍅𐌰𐍂𐌳𐍃}}}}
+
+
+  ====References====
+
+  * {{R:gem:HGE|*warđaz II|448}}

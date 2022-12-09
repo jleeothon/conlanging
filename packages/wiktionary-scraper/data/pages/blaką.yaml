@@ -1,0 +1,47 @@
+pageid: 8169577
+ns: 118
+title: Reconstruction:Proto-Germanic/blaką
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  See {{m|gem-pro|*blakaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈblɑ.kɑz/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[blackness]], the [[colour]] black
+  # that which is [[black]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*blakaz}}
+  * {{l|gem-pro|*blakōną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*blak}}
+  ** {{desc|ang|blæc}}
+  *** {{desc|enm|blak}}
+  **** {{desc|en|black}}
+  ***** {{desc|nl|blak|bor=1}}
+  **** {{desc|sco|blac|blak}}
+  *** {{desc|non|blek|bor=1}}
+  **** {{desc|da|blæk}}
+  **** {{desc|is|blek}}
+  **** {{desc|no|blekk}}
+  **** {{desc|sv|bläck}}
+  **** {{desc|bor=1|enm|blek|bleke}}
+  ***** {{desc|en|bleck}}
+  ***** {{desc|sco|blek|bleck}}
+  ** {{desc|osx|blak}}
+  *** {{desc|gml|blak}}
+  **** {{desc|nds-de|Black}}
+  ** {{desc|goh|blah}}
+  *** {{desc|gmh|black|plack|blacke|placke}}
+  **** {{desc|de|Black}}

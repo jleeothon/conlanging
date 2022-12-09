@@ -1,0 +1,35 @@
+pageid: 4944631
+ns: 118
+title: Reconstruction:Proto-Germanic/gulaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰelh₃-}}
+  From {{der|gem-pro|ine-pro|*ǵʰelh₃-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣu.lɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # {{lb|gem-pro|North Germanic}} [[yellow]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|gul}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*gelwaz}} {{q|West Germanic}}
+
+  ====Descendants====
+  * {{desctree|non|gulr}}
+
+  ===References===
+  * {{R:ODS online|gul}}
+  * {{R:svenska.se|saob|gul}}
+  * {{R:is:Íslensk orðsifjabók|gulur}}
+
+  ====See also====
+  {{table:colors/gem-pro}}

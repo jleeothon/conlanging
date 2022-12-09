@@ -1,0 +1,29 @@
+pageid: 6414058
+ns: 118
+title: Reconstruction:Proto-Germanic/frōi
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*per-}}
+  From pre-Germanic ''*proHi''. Cognate with {{cog|grc|πρῴ}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸrɔːi̯/}}
+
+  ===Adverb===
+  {{gem-adv}}
+
+  # [[early]], [[soon]], in the morning
+
+  ====Derived terms====
+  * {{l|gem-pro|*frōjaz}}
+
+  ====Descendants====
+  * {{desc|goh|fruo}}
+  ** {{desc|gmh|vruo}}
+  *** {{desc|de|früh}}
+
+  ===References===
+  * {{R:gem:EDPG|*frōi|page=156}}

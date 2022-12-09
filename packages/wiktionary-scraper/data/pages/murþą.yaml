@@ -1,0 +1,105 @@
+pageid: 4022793
+ns: 118
+title: Reconstruction:Proto-Germanic/murþą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*mer-|id=die}}
+
+  From {{inh|gem-pro|ine-pro|*mr̥tós|t=dead}}, from {{m|ine-pro|*mer-|t=to
+  die}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmur.θɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[death]]
+
+  # [[killing]], [[slaying]], [[murder]]
+
+  # {{lb|gem-pro|especially}} a killing in secret where the body was hidden
+  (which was considered particularly shameful)
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*murþijaną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*murþrą}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*morþ}}
+
+  ** {{desc|ang|morþ}}
+
+  *** {{desc|enm|morth|murth}}
+
+  **** {{desc|sco|murth}}
+
+  **** {{desc|en|murth|murther|murder}}
+
+  ** {{desc|ofs|morth|mord}}
+
+  *** {{desc|stq|Morde|Moort}}
+
+  *** {{desc|fy|moard}}
+
+  ** {{desc|osx|morth}}
+
+  *** {{desc|gml|mōrt}}
+
+  **** {{desc|nds-de|Moord}}
+
+  **** {{desc|nds|mort}}
+
+  ** {{desctree|odt|morth}}
+
+  ** {{desc|goh|mord}}
+
+  *** {{desc|gmh|mort}}
+
+  **** {{desc|de|Mord}}
+
+  ***** {{desc|bor=1|pl|mord|morderstwo}}
+
+  **** {{desc|lb|Muerd}}
+
+  * {{desc|non|morð}}
+
+  ** {{desc|is|morð}}
+
+  ** {{desc|fo|morð}}
+
+  ** {{desc|nn|mord}}
+
+  ** {{desc|nb|mord}}
+
+  ** {{desc|gmq-osw|morþ}}
+
+  *** {{desc|sv|mord}}
+
+  ** {{desc|da|mord}}
+
+  ** {{desc|gmq-bot|mol}}

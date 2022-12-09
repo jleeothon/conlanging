@@ -1,0 +1,108 @@
+pageid: 2831530
+ns: 118
+title: Reconstruction:Proto-Germanic/wēniz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwɛː.niz/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*wenh₁-}}
+
+  Possible {{vrd|gem-pro|ger=1|nocap=1}} of unattested {{m|gem-pro||*wenaną|t=to
+  be accustomed to, expect}}, from {{inh|gem-pro|ine-pro||*wénh₁-e-ti}}, from
+  {{m|ine-pro|*wenh₁-|t=to love}}.
+
+
+  ====Adjective====
+
+  {{gem-adj}}
+
+
+  # [[likely]], to be [[expected]]
+
+  # [[promising]], [[hopeful]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-adj}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*wanaz|id=accustomed}}
+
+  * {{l|gem-pro|*wanjaną}}
+
+  * {{l|gem-pro|*weniz}}
+
+  * {{l|gem-pro|*wēnijaną}}
+
+  * {{l|gem-pro|*winiz}}
+
+  * {{l|gem-pro|*wunāną}}
+
+  * {{l|gem-pro|*wundrą}}
+
+  * {{l|gem-pro|*wunjō}}
+
+  * {{l|gem-pro|*wunskijaną}}
+
+
+  =====Descendants=====
+
+  * {{desc|gmw-pro|*wānī}}
+
+  ** {{desc|ang|*wēne}}
+
+  *** {{desc|ang|ġewēne|der=1}}
+
+  ** {{desc|gmw-pro|*anawānī|der=1}}
+
+  *** {{desc|osx|anawāni}}
+
+  *** {{desc|goh|anawāni}}
+
+  * {{desctree|non|vænn}}
+
+
+  ===Etymology 2===
+
+  Likely nominalized from the adjective.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}
+
+
+  # [[hope]], [[expectation]]
+
+  # [[belief]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*wēnijaną}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*wāni}}
+
+  * {{desctree|non|ván}}
+
+  * {{desc|got|𐍅𐌴𐌽𐍃}}

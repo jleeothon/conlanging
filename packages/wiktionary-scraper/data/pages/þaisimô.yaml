@@ -1,0 +1,23 @@
+pageid: 4532651
+ns: 118
+title: Reconstruction:Proto-Germanic/þaisimô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*teh₂-||to knead}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθɑi̯.si.mɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[yeast]], [[barm]], [[leaven]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þaisimō}}

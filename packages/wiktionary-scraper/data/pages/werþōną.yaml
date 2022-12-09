@@ -1,0 +1,40 @@
+pageid: 4688988
+ns: 118
+title: Reconstruction:Proto-Germanic/werþōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{suffix|gem-pro|*werþaz|t1=worth|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwer.θɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[estimate]], [[value]]
+
+  ====Inflection====
+  {{gem-conj-wk2|werþ}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*werþōniz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wirþijaną}}
+
+  ====Descendants====
+  * {{desc|ang|weorþian}}
+  ** {{desc|enm|wurthien|worthien}}
+  *** {{desc|en|worthy}}
+  * {{desc|ofs|werdia}}
+  * {{desc|osx|*werthon}}; {{l|osx|giwerthon}}
+  * {{desc|goh|werdōn}}
+  * {{desc|non|verða}}
+  ** {{desc|gmq-bot|wahl}}
+  * {{desc|got|𐍅𐌰𐌹𐍂𐌸𐍉𐌽}}
+
+  ===References===
+  * {{R:gem:EDPG}}

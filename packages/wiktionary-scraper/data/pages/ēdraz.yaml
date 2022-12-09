@@ -1,0 +1,38 @@
+pageid: 8160696
+ns: 118
+title: Reconstruction:Proto-Germanic/ēdraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{unk|gem-pro}}.{{rfe|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɛː.ðrɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[quick]], [[speedy]], [[prompt]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*ēdrô|pos=adverb}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*ādr|pos=adj}}; {{l|gmw-pro|*ādrō|pos=adv}}
+  ** {{desc|ang|*ǣder|*ēder|pos2=adj}}; {{l|ang|ǣdre}}, {{l|ang|ēdre|pos=adv}}
+  *** {{desc|enm|ȝedir|ȝedire|yeder|pos3=adj}}
+  ** {{desc|ofs|ēder|pos=adj}}; {{l|ofs|ēdre|pos=adv}}
+  *** {{desc|frr|äder|eder}}
+  *** {{desc|stq|edder}}
+  *** {{desc|fy|yer}}
+  ** {{desc|osx|ādro|pos=adv}}
+  ** {{desc|odt|ādro|pos=adv}}
+  ** {{desc|goh|ātar|pos=adj}}
+  * {{desc|non|áðr|pos=adv}}
+  ** {{desc|fo|áður}}
+  ** {{desc|is|áður}}

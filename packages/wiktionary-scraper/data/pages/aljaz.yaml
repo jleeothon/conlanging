@@ -1,0 +1,96 @@
+pageid: 2875066
+ns: 118
+title: Reconstruction:Proto-Germanic/aljaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*h₂élyos}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑl.jɑz/}}
+
+
+  ===Determiner===
+
+  {{gem-det}}<ref>{{R:gem:EDPG|*alja-|23}}</ref>
+
+
+  # {{cln|gem-pro|indefinite determiners}} [[other]], [[another]], [[else]]
+
+  #: {{syn|gem-pro|*anþeraz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*aljar}}
+
+
+  ====Descendants====
+
+  Among most descendants, only the genitive survives as an adverb
+  {{m|gem-pro|*aljas||other, else}}, or in other formations
+  ({{m|gem-pro|*aljǭ||but}}, {{m|gem-pro|*aljalīkô||otherwise}}) or compounds,
+  e.g., {{m|gem-pro|*aljalandijaz}} ~ {{m|gem-pro|*alilandijaz}} ~
+  {{m|gem-pro|*aljalandiją||foreign country}}.
+
+
+  * {{desctree|gmw-pro|*alljas}}
+
+
+  * {{desc|ang|ele-|el-}}
+
+  * {{desc|osx|eli-}}
+
+  * {{desc|odt|eli-|ele-}}
+
+  * {{desc|gmq-pro|ᚨᛚᛃᚨ-}}
+
+  ** {{desc|gmq-pro|ᚨᛚᛃᚨᛗᚨᚱᚲᛁᛉ|der=1}}
+
+  ** {{desc|non|ella|ellar|t=otherwise, or}} (< *''aljǭ'')
+
+  *** {{desc|is|ellar|ella|t2=otherwise, or}}
+
+  *** {{desc|fo|ella|t=or}}
+
+  *** {{desc|gmq-mno|ælle}}
+
+  **** {{desc|nn|eller|elder|;|eld’u<q:dialectal>|eld’e|elle|t5=or}}
+
+  ***** {{desc|nn|der=1|elles|t=else, otherwise}}
+
+  *** {{desc|gmq-bot|ell|hell|elläs|heller|eller|t5=or, else, otherwise}}
+
+  *** {{desc|gmq-osw|ælla|ællar|t2=or}}
+
+  **** {{desc|sv|eller|t=or|eljest|t2=else, besides}}
+
+  *** {{desc|da|eller|t=or}}
+
+  **** {{desc|nb|eller|t=or}}, {{desc|nb|nolb=1|der=1|ellers|t=else, otherwise}}
+
+  *** {{desc|gmq-gut|ella|t=or}}
+
+  ** {{desc|got|𐌰𐌻𐌾𐌹𐍃|t=other|𐌰𐌻𐌾𐌰|t2=but, except}} (< *''aljǭ'')
+
+
+  ====Further reading====
+
+  * {{R:gem:PIEPG}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,28 @@
+pageid: 4599367
+ns: 118
+title: Reconstruction:Proto-Germanic/tīdijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*tīdiz||time; period}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtiː.ði.jɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[frequent]], [[often]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|tīd|j=ij}}
+
+  ====Descendants====
+  * {{desc|non|tíðr}}
+  ** {{desc|is|tíður}}
+  ** {{desc|nn|tid}}
+
+  ===References===
+  * {{R:gem:EDPG}}

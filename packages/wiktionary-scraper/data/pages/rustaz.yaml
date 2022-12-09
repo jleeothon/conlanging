@@ -1,0 +1,95 @@
+pageid: 4027134
+ns: 118
+title: Reconstruction:Proto-Germanic/rustaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₁rewdʰ-}}
+
+  From Pre-Germanic {{m|ine-pro||*rudʰ-s-tos-}}, derived from
+  {{der|gem-pro|ine-pro|*h₁rewdʰ-||red}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈrus.tɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[rust]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*rustagaz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*raudaz}}
+
+  * {{l|gem-pro|*rudō}}
+
+  * {{l|gem-pro|*rusmô}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*rust}}
+
+  ** {{desc|ang|rust|rūst}}
+
+  *** {{desctree|enm|rust}}
+
+  ** {{desc|ofs|*rust|*rost}}
+
+  *** {{desc|stq|rust}}
+
+  *** {{desc|fy|roast}}
+
+  ** {{desc|osx|rost}}
+
+  *** {{desc|gml|rost}}
+
+  **** {{desc|nds-de|Rost}}
+
+  ** {{desc|odt|*rost|*rōst}}
+
+  *** {{desc|dum|rost|roest}}
+
+  **** {{desc|nl|roest}}
+
+  ** {{desc|goh|rost}}
+
+  *** {{desc|gmh|rost}}
+
+  **** {{desc|de|Rost}}
+
+  **** {{desc|lb|Rascht}} (''etymology 1'')
+
+  * {{desc|non|*rustr}} (possibly borrowed)
+
+  ** {{desc|no|rust|ryst}} (dialectal)
+
+  ** {{desc|sv|rost}}
+
+  ** {{desc|da|rust}}
+
+  * {{desc|got|*𐍂𐌿𐍃-}} {{q|suggested Gothic form of the element ''Ros-''
+  found in some Latinized Gothic names}}
+
+  * {{desc|fiu-fin-pro|*roostek|bor=1}} {{see desc}}

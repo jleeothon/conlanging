@@ -1,0 +1,32 @@
+pageid: 4588242
+ns: 118
+title: Reconstruction:Proto-Germanic/innganganą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰengʰ-}}
+  From {{compound|gem-pro|*inn|*ganganą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌinː.ˈɣɑŋ.ɡɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[go into]], to [[enter]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7c|nopass=1|inngang|inngegang|inngegang|inngang}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*inngangaz}}
+
+  ====Descendants====
+  * {{desc|ang|ingangan}}
+  ** {{desc|enm|ingangen}}
+  * {{desc|goh|ingangan}}
+  * ({{desc|non|ganga inn}})
+  ** {{desc|gmq-osw|inganga}}
+  * {{desc|got|𐌹𐌽𐌽𐌲𐌰𐌲𐌲𐌰𐌽}}

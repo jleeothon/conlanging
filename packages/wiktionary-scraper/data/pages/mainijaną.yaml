@@ -1,0 +1,93 @@
+pageid: 3648470
+ns: 118
+title: Reconstruction:Proto-Germanic/mainijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmɑi̯.ni.jɑ.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  From {{der|gem-pro|ine-pro|*meyno-|t=intent, mindset, opinion}}, from
+  {{der|gem-pro|ine-pro|*mey-|t=to change, exchange, swap, switch, share in
+  common}}. Cognate with {{cog|sga|mían||wish; desire}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:HGE|*mainjanan
+  II|255}}</ref><ref>{{R:gem:EDPG|*mainjan-|348}}</ref>
+
+
+  # to [[mean]], [[think]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk1|main|j=ij}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*mainō}}
+
+  * {{l|gem-pro|*mainiz}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*mainijan}}
+
+  * {{desc|fiu-fin-pro|*mainit'ak|bor=1}}
+
+  ** {{desc|fi|mainita}}
+
+  *** {{desc|et|mainima|bor=1}}
+
+  ** {{desc|izh|-}} {{q|Ala-Laukaa}} {{l|izh|mainia}} {{q|Soikkola}}
+  {{l|izh|mainita}}
+
+  ** {{desc|krl|mainita}}
+
+  ** {{desc|vot|mainia}}
+
+
+  ===Etymology 2===
+
+  Likely from {{affix|gem-pro|*mainaz|t1=damaging, untrue, deceiving|*-janą}} or
+  {{affix|gem-pro|*mainą|t1=damage, unjustice|*-janą}}
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:HGE|*mainjanan I|255}}</ref>
+
+
+  # to [[demean]]
+
+  # to [[defile]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk1|main|j=ij}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*framainijan|der=1}}
+
+  * {{desctree|non|meina|id=harm}}
+
+  * {{desc|got|𐌲𐌰𐌼𐌰𐌹𐌽𐌾𐌰𐌽|der=1}}
+
+
+  ===References===
+
+  <references/>

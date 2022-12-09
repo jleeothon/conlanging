@@ -1,0 +1,24 @@
+pageid: 7475333
+ns: 118
+title: Reconstruction:Proto-Germanic/gawitāną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weyd-}}
+  From {{af|gem-pro|*ga-|*witāną}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to become [[wise]]
+  # to be [[able]]
+
+  ====Inflection====
+  {{gem-conj-wk3|gawit}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*gawitēn}}
+  ** {{desc|goh|giwizzēn}}
+  * {{desc|got|𐌲𐌰𐍅𐌹𐍄𐌰𐌽|tr=gawitān}}

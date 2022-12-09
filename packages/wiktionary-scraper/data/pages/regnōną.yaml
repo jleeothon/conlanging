@@ -1,0 +1,50 @@
+pageid: 6397190
+ns: 118
+title: Reconstruction:Proto-Germanic/regnōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*regną|t1=rain|*-ōną}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{lb|gem-pro|impersonal}} to [[rain]]
+
+  ====Inflection====
+  {{gem-conj-wk2|regn}}
+
+  ====Related terms====
+  * {{l|gem-pro|*rignijaną}}
+
+  ====Descendants====
+  * {{desc|ang|reġnian}}
+  ** {{desc|enm|reinen}}
+  *** {{desc|en|rain}}
+  *** {{desc|sco|raine|rain|rayn}} {{l|sco|rayne}}, {{l|sco|rane}}
+  * {{desc|ofs|reinia}}
+  ** {{desc|stq|reine}}
+  ** {{desc|fy|reine}}
+  * {{desc|osx|*reganōn}}
+  ** {{desc|gml|rēgenen}}
+  *** {{desc|nds-de|regen|rägen}}
+  *** {{desc|pdt|räajnen}}
+  * {{desctree|odt|*reganon}}
+  * {{desc|goh|reganōn}}
+  ** {{desc|gmh|regenen}}
+  *** {{desc|cim|règhenan|alts=1}}
+  *** {{desc|de|regnen}}
+  *** {{desc|lb|reenen}}
+  *** {{desc|yi|רעגענען}}
+  * {{desc|non|regna}}
+  ** {{desc|is|regna}}
+  ** {{desc|fo|regna}}
+  ** {{desc|nb|regne}}
+  ** {{desc|nn|regne|regna}}
+  ** {{desc|sv|regna}}
+  ** {{desc|da|regne}}
+  ** {{desc|ovd|raingen}}
+  ** {{desc|gmq-gut|regne|regn'|regna}}
+  ** {{desc|gmq-bot|rägn|rängän|raingen|regen}}

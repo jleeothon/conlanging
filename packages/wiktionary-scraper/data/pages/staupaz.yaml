@@ -1,0 +1,36 @@
+pageid: 5027067
+ns: 118
+title: Reconstruction:Proto-Germanic/staupaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)tewb-||to thrust; hit; butt; stump}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɑu̯.pɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[high]]
+  # [[steep]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|staup}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*staupijaną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*staupą}}
+
+  ====Descendants====
+  * {{desc|ang|stēap}}
+  ** {{desc|enm|stæp|steap|stepe|steep}}
+  *** {{desc|sco|stepe|steip}}
+  *** {{desc|en|steep}}
+  * {{desc|ofs|stāp}}
+  * {{desc|goh|*stouf}}; {{l|goh|stoufi}}
+  ** {{desc|gmh|stief}}

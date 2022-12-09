@@ -1,0 +1,38 @@
+pageid: 4687599
+ns: 118
+title: Reconstruction:Proto-Germanic/straumijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*straumaz|t1=stream, current|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstrɑu̯.mi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[stream]], [[flow]]
+
+  ====Inflection====
+  {{gem-conj-wk1|straum|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|*strīeman}}
+  ** {{desc|enm|stremen}}
+  *** {{desc|en|stream}}
+  * {{desc|ofs|}}
+  ** {{desc|fy|streame}}
+  * {{desc|odt|*strōmen}}
+  ** {{desc|dum|strômen}}
+  *** {{desc|nl|stromen}}
+  * {{desc|goh|*stroumen}}
+  ** {{desc|gmh|strömen|strümen}}
+  *** {{desc|de|strömen}}
+  * {{desc|non|streyma}}
+  ** {{desc|is|streyma}}
+  ** {{desc|fo|stroyma}}
+  ** {{desc|sv|strömma}}
+  ** {{desc|da|strømme}}

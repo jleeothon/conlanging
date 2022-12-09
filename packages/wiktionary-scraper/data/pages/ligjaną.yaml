@@ -1,0 +1,29 @@
+pageid: 2300244
+ns: 118
+title: Reconstruction:Proto-Germanic/ligjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*legʰ-}}
+  From {{inh|gem-pro|ine-pro|*légʰyeti}}, from {{m|ine-pro|*legʰ-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈliɣ.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[lie]], to [[rest]] (on a surface)
+
+  ====Inflection====
+  {{gem-conj-st-j|class=5|nopass=1|lig|lag|lēg|leg|j=j}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*lagjaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*liggjan}}
+  * {{desctree|non|liggja}}
+  * {{desc|got|𐌻𐌹𐌲𐌰𐌽}}

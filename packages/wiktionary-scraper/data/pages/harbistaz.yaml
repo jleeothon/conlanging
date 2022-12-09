@@ -1,0 +1,69 @@
+pageid: 2664227
+ns: 118
+title: Reconstruction:Proto-Germanic/harbistaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*harbustaz}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*kerp-}}
+
+  From {{m|gem-pro|*harbaz}}, from {{der|gem-pro|ine-pro|*kerp-||to pluck}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑr.βis.tɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+  # [[harvest]]
+
+  # [[autumn]], [[fall]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*azaniz}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*harbistamēnōþs}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*harbijaną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*harbist}}
+
+  * {{desc|non|haustr|haust}} (< {{m|gem-pro|*harbustaz}})
+  {{desctree|non|haust|noparent=1}}
+
+
+  {{topics|gem-pro|Seasons}}
+
+
+  ===See also===
+
+  {{table:seasons/gem-pro}}

@@ -1,0 +1,93 @@
+pageid: 4474741
+ns: 118
+title: Reconstruction:Proto-Germanic/reudaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈreu̯.ðɑ.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*h₁rewdʰ-}}
+
+  From {{der|gem-pro|ine-pro|*h₁rewdʰ-}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*reudan- 1|410|s.v. ‘to make red’}}</ref><ref
+  name='Orel'>{{R:gem:HGE|*reuđanan|page=302}}</ref>
+
+
+  # {{senseid|gem-pro|redden}} to [[redden]], make [[red]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-st|class=2|reud|raud|rud|rud}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*raudaz}}
+
+  * {{l|gem-pro|*reudaz}}
+
+  * {{l|gem-pro|*rudāną}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*reudan|id=redden}}
+
+  * {{desc|non|rjóða}}
+
+  ** {{desc|is|rjóða}}
+
+
+  ===Etymology 2===
+
+  From {{der|gem-pro|ine-pro|*Hrewdʰ-}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*reudan- 2|410|s.v. ‘to clear, remove,
+  eradicate’}}</ref><ref name='Orel'></ref>
+
+
+  # {{senseid|gem-pro|clear}} to [[clear]], [[eradicate]], [[remove]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-st|class=2|reud|raud|rud|rud}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*reudrą}}
+
+  * {{l|gem-pro|*rudą}}
+
+  * {{l|gem-pro|*rudōną}}/{{l|gem-pro|*ruddōną}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*reudan|id=clear}}
+
+  * {{desc|non|rjóða}}
+
+  ** {{desc|is|rjóða}}
+
+
+  ===References===
+
+  <references/>

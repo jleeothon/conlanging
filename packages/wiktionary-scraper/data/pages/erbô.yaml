@@ -1,0 +1,59 @@
+pageid: 6075513
+ns: 118
+title: Reconstruction:Proto-Germanic/erbô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Perhaps connected to {{cog|gem-pro|*erpaz||light brown}} or to
+  {{cog|grc|ἔριφος||young goat}}, or perhaps connected to {{cog|no|jarva||gnaw,
+  chew}}.<ref>{{R:gem:EDPG|p=118}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈer.βɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{lb|gem-pro|North Germanic}} [[wolverine]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Descendants====
+
+  * {{desc|gmq-pro|ᛖᚱᚨᚠᚨᛉ}}
+
+  ** {{desc|non|jarfr|jerfr}}
+
+  *** {{desc|is|jarfi|jerfur}}
+
+  *** {{desc|fo|jarvur}}
+
+  *** {{desc|no|jerv|jarv|erv}}
+
+  **** {{desc|da|jærv|bor=1}}
+
+  *** {{desc|gmq-osw|iärver}}
+
+  **** {{desc|sv|järv}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Mustelids}}

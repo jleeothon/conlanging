@@ -1,0 +1,28 @@
+pageid: 6628918
+ns: 118
+title: Reconstruction:Proto-Germanic/gildiz
+wikitext: |-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gʰeldʰ-||to pay for, repay}}.
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[valuable]], [[wholesome]], [[precious]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|ang|*ġilde}}
+  ** {{desc|enm|*yeld}}
+  *** {{desc|en|yauld}}
+  *** {{desc|sco|yauld}}
+  * {{desc|non|gildr}}
+  ** {{desc|is|gildur}}
+  ** {{desc|sv|gild}}
+  ** {{desc|da|gild}}

@@ -1,0 +1,33 @@
+pageid: 7533315
+ns: 118
+title: Reconstruction:Proto-Germanic/hatāną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ḱeh₂d-}}
+  From {{suffix|gem-pro|*hataz|*-āną}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[hate]]
+
+  ====Inflection====
+  {{gem-conj-wk3|hat}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hatēn}}
+  * {{desc|non|hata}}
+  ** {{desc|is|hata}}
+  ** {{desc|fo|hata}}
+  ** {{desc|nrn|hada}}
+  ** {{desc|nb|hate}}
+  ** {{desc|nn|hate}}
+  ** {{desc|gmq-osw|hata}}
+  *** {{desc|sv|hata}}
+  ** Middle Danish: hadhe
+  *** {{desc|da|hade}}
+  ** {{desc|gmq-gut|hate|hat'|hata}}
+  * {{desc|got|𐌷𐌰𐍄𐌰𐌽|tr=hatān}}

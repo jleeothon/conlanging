@@ -1,0 +1,27 @@
+pageid: 7874534
+ns: 118
+title: Reconstruction:Proto-Germanic/blautijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*blautaz|*-janą|t1=naked, weak, soft}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈblɑu̯.ti.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to make [[naked]], to make [[bare]]
+  # to [[weaken]], to make [[soft]]
+
+  ====Inflection====
+  {{gem-conj-wk1|blaut|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*blautijan}}
+  * {{desc|non|bleyta}}
+  ** {{desc|is|bleyta}}
+  ** {{desc|sv|blöta}}

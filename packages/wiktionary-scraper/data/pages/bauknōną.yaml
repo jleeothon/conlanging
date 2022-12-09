@@ -1,0 +1,30 @@
+pageid: 6893418
+ns: 118
+title: Reconstruction:Proto-Germanic/bauknōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*baukną|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑu̯k.nɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[signal]]
+  # to [[beacon]]
+  # To [[wave]]
+
+  ====Inflection====
+  {{gem-conj-wk2|baukn}}
+
+  ====Descendants====
+  * {{desc|ang|bēacnian|bēcnian}}
+  ** {{desc|enm|beknien}}
+  *** {{desc|en|beckon}}
+  * {{desc|non|bákna}}
+  ** {{desc|fo|bákna}}
+  ** {{desc|is|bákna}}

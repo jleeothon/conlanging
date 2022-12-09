@@ -1,0 +1,41 @@
+pageid: 4503454
+ns: 118
+title: Reconstruction:Proto-Germanic/þrautōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*trewd-}}
+  An o-grade iterative to {{m|gem-pro|*þreutaną||to harass}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθrɑu̯.tɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[push]]
+  # to [[threat]]
+  # to [[threaten]]
+
+  ====Inflection====
+  {{gem-conj-wk2|þraut}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*gaþrautōną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*þrautą}}
+  * {{l|gem-pro|*þrautijaną}}
+
+  ====Descendants====
+  * {{desc|ang|þrēatian}}
+  ** {{desc|enm|threten|threaten}}
+  *** {{desc|sco|threte|thret|threit}}
+  *** {{desc|en|threat}}
+  * {{desc|osx|*thrōtōn}}
+  ** {{desc|gml|droten|drōten|drôten}}
+  * {{desc|odt|*throuton|*thrōton}}
+  ** {{desc|dum|droten}}
+  *** {{desc|nl|droten}}

@@ -1,0 +1,35 @@
+pageid: 3632211
+ns: 118
+title: Reconstruction:Proto-Germanic/smīlijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*(s)mey-}}
+  From {{der|gem-pro|ine-pro|*smey-||to laugh; be glad}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsmiː.li.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[smile]]
+
+  ====Inflection====
+  {{gem-conj-wk1|smīl|j=j}}
+
+  ====Descendants====
+  * {{desc|nl|smuilen}}
+  * {{desc|non|*smíla}}
+  ** {{desc|fo|smíla}}
+  ** {{desc|no|smile}}
+  ** {{desc|sv|smila}}
+  ** {{desc|da|smile}}
+  *** {{desc|gml|smilen|bor=1}}
+  **** {{desc|nds|smielen}}
+  ***** {{desc|stq|smielje|bor=1}}
+  ** {{desc|enm|smilen|bor=1}}
+  *** {{desc|sco|smil|smyl}}
+  *** {{desc|en|smile}}

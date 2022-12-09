@@ -1,0 +1,35 @@
+pageid: 6500287
+ns: 118
+title: Reconstruction:Proto-Germanic/snaiwahwītaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*snaiwaz|*hwītaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsnɑi̯.wɑ.ˌxʷiː.tɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[snow-white]]
+
+  ====Declension====
+  {{gem-decl-adj-a|snaiwahwīt}}
+
+  ====Descendants====
+  * {{desc|ang|snāwhwīt}}
+  ** {{desc|enm|snow whit|snawhwit|snouwite|snouwhite}}
+  *** {{desc|en|snow-white}}
+  * {{desc|osx|*snēwīt}}
+  ** {{desc|gml|snêwit}}
+  * {{desc|odt|*snēwīt}}
+  ** {{desc|dum|sneewit}}
+  *** {{desc|nl|sneeuwwit}}
+  * {{desc|goh|*snēwīz}}
+  ** {{desc|gmh|snēwīz}}
+  *** {{desc|de|schneeweiß}}
+  * {{desc|non|snæhvítr}}
+  ** {{desc|is|snæhvítur|snjóhvítur|snjáhvítur}}

@@ -1,0 +1,73 @@
+pageid: 4995936
+ns: 118
+title: Reconstruction:Proto-Germanic/awjōlandą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{compound|gem-pro|*awjō|*landą}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑu̯.jɔː.ˌlɑn.dɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[island]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*auwjuland}}
+
+  ** {{desc|ang|ealand|alt=ēaland|iegland|alt2=īeġland|igland|alt3=īġland}}
+
+  *** {{desc|enm|ylond|yland|iland}}
+
+  **** {{desc|sco|iland|yland}}
+
+  **** {{desc|en|iland}}, {{l|en|island}} (with spelling changed to include
+  ''-s-'' through false association with French {{l|fr|isle}}, cf.
+  {{noncog|en|isle}} < Middle English {{m|enm|ile}})
+
+  ** {{desc|ofs|alond|aland|alt2=āland|eiland}}
+
+  *** {{desc|frr|eilun|Ailun|Eelun|ailönj}}
+
+  *** {{desc|stq|Ailound|Oailound}}
+
+  *** {{desc|fy|eilân}}
+
+  *** {{desc|bor=1|osx|eiland|eilant}}
+
+  **** {{desc|gml|eilant|eiglant|eylant}}
+
+  ***** {{desc|nds|Eiland}}
+
+  ***** {{desc|de|Eiland|bor=1}} {{q|literary}}
+
+  *** {{desc|odt|eilant|bor=1}}
+
+  **** {{desc|dum|eilant}}
+
+  ***** {{desctree|nl|eiland}}
+
+  * {{desc|non|eyland}}
+
+  ** {{desc|is|eyland}}
+
+  ** {{desc|da|øland}}

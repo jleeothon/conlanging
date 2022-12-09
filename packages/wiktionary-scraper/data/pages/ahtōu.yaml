@@ -1,0 +1,27 @@
+pageid: 2418122
+ns: 118
+title: Reconstruction:Proto-Germanic/ahtōu
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*oḱtṓw}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑx.tɔːu̯/}}
+
+  ===Numeral===
+  {{cardinalbox|gem-pro|7|8|9|*sebun|*newun|ord=*ahtudô|mult=*ahtōufalþaz}}
+  {{gem-num}}<ref>{{R:gem:EDPG|*ahtau|6}}</ref>
+  # [[eight]]
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*ahtō}}
+  * {{desctree|non|átta}}
+  * East Germanic
+  ** {{desc|got|𐌰𐌷𐍄𐌰𐌿}}
+  ** {{desc|gme-cgo|athe}}
+
+  ===References===
+  <references/>

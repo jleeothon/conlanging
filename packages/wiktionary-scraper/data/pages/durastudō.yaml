@@ -1,0 +1,27 @@
+pageid: 7315165
+ns: 118
+title: Reconstruction:Proto-Germanic/durastudō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*durz|*stuþs|t1=door|t2=post}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdu.rɑ.ˌstu.ðɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*dura-studō|79}}</ref>
+
+  # [[doorpost]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|dūrustod}}
+  * {{desc|non|durastoð|dyrastoð}}
+
+  ===References===
+  <references/>

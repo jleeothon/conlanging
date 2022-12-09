@@ -1,0 +1,53 @@
+pageid: 6453106
+ns: 118
+title: Reconstruction:Proto-Germanic/hneudaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Compare {{m|gem-pro|*knudaną||to rivet, knead}}, source of {{cog|non|hnoða||to
+  rivet}}.  Also compared to {{cog|grc|κνύθος||small thorn}}, but Kroonen finds
+  this semantically unconvincing.<ref
+  name=kroonen>{{R:gem:EDPG|hneudan|235}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxneu̯.ðɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref
+  name=kroonen>{{R:gem:EDPG|hneudan|235}}</ref><ref>{{R:gem:HGE|*xneuđanan|page=179-180}}</ref>
+
+
+  # to [[hammer]], to [[pound]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=2|hneud|mutstem=hniud|hnaud|hnud|hnud}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*hnudōną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*hneudan}}
+
+  * {{desc|non|hnjóða}}
+
+  ** {{desc|is|hnjóða}}
+
+
+  ===References===
+
+  <references/>

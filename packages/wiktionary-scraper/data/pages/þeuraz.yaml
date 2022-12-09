@@ -1,0 +1,47 @@
+pageid: 2732131
+ns: 118
+title: Reconstruction:Proto-Germanic/þeuraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*táwros}}. The synonym {{m|gem-pro|*steuraz}}
+  derives from the same base, but with an added [[s-mobile]].
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈθeu̯.rɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[bull]]
+
+  #: {{syn|gem-pro|*bulô|*steuraz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|nl|deur|duur}} (dialectal)
+
+  * {{desctree|non|þjórr}}
+
+  * {{desc|fi|teuras|bor=1}}
+
+
+  {{topics|gem-pro|Agriculture}}
+
+  [[Category:gem-pro:Bovines]]

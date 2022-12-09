@@ -1,0 +1,35 @@
+pageid: 3994469
+ns: 118
+title: Reconstruction:Proto-Germanic/gudjô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰewd-}}
+  From {{affix|gem-pro|*gudą|t1=god; deity|*-jô}}.
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*guda-|193}}</ref>
+
+  # (pagan) [[priest]] (responsible for sacrifices and temple custodian)
+
+  ====Inflection====
+  {{gem-decl-noun-n-m|gud|j=j}}
+
+  ====Descendants====
+  * {{desc|ang|Gydda}} ''(personal name)''
+  * {{desc|gmq-pro|ᚷᚢᛞᛁᛃᚨ}}
+  ** {{desc|non|goði}}, {{desc|non|gyðja}} (← ''*gudjǭ'')
+  *** {{desc|is|goði}}
+  *** {{desc|fo|goði}}
+  *** {{desc|no|gode}} (male), {{l|no|gydje}} (female)
+  *** {{desc|da|gode}} (male), {{l|da|gydje}} (female)
+  *** {{desc|bor=1|en|godi|gothi}} (male), {{l|en|gythja}} (female)
+  * {{desc|got|𐌲𐌿𐌳𐌾𐌰}}
+
+  ====Further reading====
+  * {{R:Íslensk orðsifjabók 1989}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,25 @@
+pageid: 5416534
+ns: 118
+title: Reconstruction:Proto-Germanic/firhwijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*ferhwą|t=body, life}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸir.xʷi.jɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|People}} [[men]], [[people]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*firhwijō}}
+  * {{desc|non|fírar}}
+  * {{desc|gme-cgo|fers}}

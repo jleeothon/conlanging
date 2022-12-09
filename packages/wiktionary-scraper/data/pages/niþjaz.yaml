@@ -1,0 +1,29 @@
+pageid: 2948197
+ns: 118
+title: Reconstruction:Proto-Germanic/niþjaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*nítyos||(one's) own}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈniθ.jɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[relative]]
+  # [[kinsman]], [[cousin]]
+  # [[descendant]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|*niþe|*niþþe|niþþas|niþas}} (plural)
+  * {{desctree|non|niðr|id=kinsman}}
+  * {{desc|got|𐌽𐌹𐌸𐌾𐌹𐍃}}
+
+  {{topics|gem-pro|Family}}

@@ -1,0 +1,30 @@
+pageid: 2629400
+ns: 118
+title: Reconstruction:Proto-Germanic/hawwaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*kewh₂-}}
+  From {{der|gem-pro|ine-pro|*kewh₂-||to beat, hew, forge}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑw.wɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[hew]], to [[chop]]
+  # to [[forge]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7b|haww|hehau(w)|hehaww|haww}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hawwǭ}}
+  ** {{desc|gmw-pro|*hauwā}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hauwan}}
+  * {{desctree|non|hǫggva}}

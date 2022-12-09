@@ -1,0 +1,70 @@
+pageid: 5370965
+ns: 118
+title: Reconstruction:Proto-Germanic/wurþiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From pre-Germanic {{m|ine-pro||*h₂wŕ̥tis}}, from
+  {{inh|gem-pro|ine-pro|*h₂wer-||to raise}}. Cognate with
+  {{cog|grc|ἄρσις||raising}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwur.θiz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[raising]], [[elevation]]
+
+  # [[mound]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ofs|wurth}}
+
+  * {{desc|odt|*wurth|*wuorth}} (?)
+
+  ** {{desc|dum|woert}} {{q|or from Frisian?}}
+
+  *** {{desc|nl|woerd}}
+
+  * {{desc|osx|wurth}}
+
+  ** {{desc|gml|wurt}}
+
+  *** {{desc|de|Wurt|bor=1}}
+
+  * {{desc|non|urð}}
+
+  ** {{desc|is|urð}}
+
+  ** {{desc|fo|urð}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nn|ur|urd}}
+
+  **** {{desc|da|ur|bor=1}} 
+
+  *** {{desc|nb|ur}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG|page=601|*wurþiz}}

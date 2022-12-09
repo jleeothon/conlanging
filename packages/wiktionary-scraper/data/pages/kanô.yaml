@@ -1,0 +1,43 @@
+pageid: 4589674
+ns: 118
+title: Reconstruction:Proto-Germanic/kanô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gan-}}, {{m|ine-pro|*gandʰ-|t=container, vessel}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkɑ.nɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[vessel]], [[vat]], [[tub]]
+  # [[boat]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*kannǭ}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*kanō}}
+  ** {{desc|osx|*kano}}
+  *** {{desc|gml|kāne}}
+  **** {{desc|nds-de|Kahn|t=prison}}
+  **** {{desc|nds|Kane}}
+  **** {{desc|fro|cane|bor=1}}
+  ***** {{desc|fr|canard}}
+  ****** {{desc|en|canard|bor=1}}
+  ** {{desc|goh|*kano}}
+  *** {{desc|gmh|kane|kan}}
+  **** {{desc|de|Kahn}}
+  ***** {{desc|nl|kaan|bor=1}}
+  * {{desc|non|kani}}; ({{l|non|kǿna}})
+  ** ({{desc|is|kæna}})
+  ** {{desc|no|kane}}
+  ** {{desc|sv|kana}}
+  ** {{desc|da|kane}}

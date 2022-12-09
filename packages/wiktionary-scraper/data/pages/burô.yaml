@@ -1,0 +1,31 @@
+pageid: 6018922
+ns: 118
+title: Reconstruction:Proto-Germanic/burô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰer-}}
+  Derived from the zero-grade of {{af|gem-pro|*beraną|*-ô|id2=agent noun}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbu.rɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[bearer]]; one who carries or brings
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*borō}}
+  ** {{desc|ang|bora|qq=|more frequent in compounds}}
+  ** {{desc|ofs|bora}}
+  ** {{desc|odt|*boro}}
+  *** {{desc|dum|bore}}
+  **** {{desc|nl|boor}}
+  ** {{desc|goh|muntboro|der=1}}
+  * {{desc|non|Buri}}

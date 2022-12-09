@@ -1,0 +1,63 @@
+pageid: 4695009
+ns: 118
+title: Reconstruction:Proto-Germanic/gruppōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*gʰr̥bʰnéh₂-}}, with remodeling based on its
+  strong verb, an iterative formation to {{m|gem-pro|*grabaną||to dig}}. Related
+  to {{cog|sa|गृभ्णाति||to seize, lay hold of}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣrup.pɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[dig]], [[scrape]], [[groove]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|grupp}}
+
+
+  ====Descendants====
+
+  The original paradigm of singular {{m|gem-pro||*grupp-}} against non-singular
+  {{m|gem-pro||*grub-}}, allowed for different leveling among the daughter
+  languages.
+
+  * {{desc|enm|grubben|gropen}}
+
+  ** {{desc|en|grub|groop}}
+
+  * {{desc|gml|gropen}}
+
+  * {{desc|odt|-}}
+
+  ** {{desc|dum|grobben}}
+
+  *** {{desc|nl|grobbelen|der=1}} {{i|frequentative}}
+
+  * {{desc|de|groppen}} {{i|dialectal}}
+
+  * {{desc|no|gropa}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

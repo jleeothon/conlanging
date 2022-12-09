@@ -1,0 +1,29 @@
+pageid: 2947661
+ns: 118
+title: Reconstruction:Proto-Germanic/bandī
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰendʰ-}}
+  From {{m|gem-pro|*bindaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑn.diː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[fetter]], [[bond]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*bandiz}}
+  * {{l|gem-pro|*bindaną}}
+
+  ====Derived terms====
+  * {{desctree|gmw-pro|*bandi}}
+  * {{desc|got|𐌱𐌰𐌽𐌳𐌹}}

@@ -1,0 +1,46 @@
+pageid: 2780818
+ns: 118
+title: Reconstruction:Proto-Germanic/hwarjaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From earlier *kʷoryos, from {{inh|gem-pro|ine-pro|*kʷ-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxʷɑr.jɑz/}}
+
+  ===Determiner===
+  {{gem-det}}
+
+  # {{lb|gem-pro|interrogative}} [[which]], [[what]] {{gloss|of many}}
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hwarjazuh}}
+
+  ====Related terms====
+  {{rel2|gem-pro
+  |*hwaz
+  |*hwaþeraz
+  }}
+
+  ====Descendants====
+  * {{desc|non|hverr}} (paradigm merged with {{m|gem-pro|*hwaz}})
+  ** {{desc|is|hver}}
+  ** {{desc|fo|hvør}}
+  ** {{desc|nn|kvar|kven}}
+  ** {{desc|gmq-osw|hvar}} (acc. fem. ''hvaria'')
+  *** {{desc|sv|varje}} ({{l|sv|var}})
+  ** {{desc|da|hver}}
+  *** {{desc|nb|hver}}
+  ** {{desc|gmq-bot|hvor}}
+  * {{desc|got|𐍈𐌰𐍂𐌾𐌹𐍃}}
+
+  ====Further reading====
+  * {{R:gem:PIEPG}}
+
+  {{cln|gem-pro|interrogative determiners}}

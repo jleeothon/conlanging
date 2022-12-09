@@ -1,0 +1,72 @@
+pageid: 3619026
+ns: 118
+title: Reconstruction:Proto-Germanic/gīslaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*gʰeydʰ-}}
+
+  Borrowed from {{bor|gem-pro|cel-pro|*gēstlos||hostage, pledge}} (compare
+  {{cog|sga|gíall}}, {{cog|cy|gwystl}}), perhaps from
+  {{der|gem-pro|ine-pro|*gʰeydʰ-||to desire, wait for}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣiːs.lɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[hostage]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*gīslōną}}
+
+  * {{l|gem-pro|*gīslungō}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*gīsl}}
+
+  * {{desc|gmq-pro|*ᚷᛁᛊᛚᚨᛉ}}
+
+  ** {{desc|gmq-pro|ᚨᛊᚢᚷᛁᛊᚨᛚᚨᛊ|ts=ą̄sugīsᵃlas|der=1}}
+
+  ** {{desc|non|gísl}}
+
+  *** {{desc|is|gísl}}
+
+  *** {{desc|fo|gísli}}
+
+  *** {{desc|nn|gissel|gisl}}
+
+  *** {{desc|nb|gissel}}
+
+  *** {{desc|gmq-osw|gisl|alt=gīsl}}
+
+  **** {{desc|gmq-osw|gislan|der=1}}
+
+  ***** {{desc|sv|gisslan}}
+
+  *** {{desc|da|gidsel}}
+
+  * {{desc|xvn|*gīsl-}}
+
+  * {{desc|fiu-fin-pro|*kihla|bor=1}} {{see desc}}

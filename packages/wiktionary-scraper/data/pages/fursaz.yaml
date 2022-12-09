@@ -1,0 +1,72 @@
+pageid: 4385460
+ns: 118
+title: Reconstruction:Proto-Germanic/fursaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*pŕ̥sos}}, from
+  {{der|gem-pro|ine-pro|*pers-||to spray, splash}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸur.sɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[waterfall]], [[torrent]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*fursōną}}
+
+
+  ====Descendants====
+
+  * {{desc|non|fors|foss}}
+
+  ** {{desc|is|fors|foss}}
+
+  *** {{desc|en|foss|bor=1}}
+
+  ** {{desc|fo|fossur}}
+
+  ** {{desc|nrn|fors}}
+
+  ** {{desc|no|foss}}
+
+  ** {{desc|gmq-osw|fors}}
+
+  *** {{desc|sv|fors}}
+
+  ** Middle Danish: [[fors]]
+
+  *** {{desc|da|fors|fos}} {{i|influenced by Norwegian}}
+
+  ** {{desc|bor=1|enm|fors|force}}
+
+  *** {{desc|en|force}} (in the sense of a [[waterfall]]) {{q|Northern England}}
+
+  ** {{desc|gml|vorsch|bor=1}}
+
+  * {{desc|fiu-fin-pro|*purha|bor=1}} {{see desc}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

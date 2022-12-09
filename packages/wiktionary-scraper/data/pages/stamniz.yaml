@@ -1,0 +1,74 @@
+pageid: 6895700
+ns: 118
+title: Reconstruction:Proto-Germanic/stamniz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*steh₂-}}
+
+  From pre-Germanic {{m|ine-pro||*sth₂-mn-ís}}, from
+  {{der|gem-pro|ine-pro|*stéh₂mn̥||that which stands}} (compare
+  {{m|gem-pro|*stōmô||stature}}), deverbal noun from the root
+  {{m|ine-pro|*steh₂-||to stand, stay}} (whence {{m|gem-pro|*stāną}}).
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|*stamnaz~stamniz|371}}</ref>
+
+
+  # [[stem]], tree [[stalk]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*stamni}}
+
+  ** {{desc|ang|stemn|stefn}}
+
+  *** {{desc|enm|stem|stemme|stempne|stevin}}
+
+  **** {{desc|en|stem}}
+
+  ** {{desc|ofs|stevene}}
+
+  ** {{desc|osx|stamn}}
+
+  *** {{desc|gml|stam|stamme}}
+
+  **** {{desc|nds-de|Stamm}}
+
+  **** {{desc|stq|Stam|bor=1}}
+
+  ** {{desc|odt|*stam}}
+
+  *** {{desc|dum|stam}}
+
+  **** {{desc|nl|stam}}
+
+  ***** {{desc|fy|stam|bor=1}}
+
+  ** {{desc|goh|stam}}
+
+  *** {{desc|gmh|stam}}
+
+  **** {{desc|de|Stamm}}
+
+  **** {{desc|lb|Stamm}}
+
+  * {{desc|non|stafn}}
+
+
+  ===References===
+
+  <references/>

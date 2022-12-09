@@ -1,0 +1,28 @@
+pageid: 2412629
+ns: 118
+title: Reconstruction:Proto-Germanic/izweraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Genitive form of {{m|gem-pro|*jūz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈiz.we.rɑz/}}
+
+  ===Determiner===
+  {{gem-det}}
+
+  # [[your]]; 2nd person plural possessive
+
+  ====Inflection====
+  {{gem-decl-adj}}
+  {{gem-decl-ppron}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*iuwar}}
+  * {{desc|non|yðvarr|yðarr}} {{desctree|non|yðvarr|noparent=1}}
+  * {{desc|got|𐌹𐌶𐍅𐌰𐍂}}
+
+  {{cln|gem-pro|possessive determiners}}

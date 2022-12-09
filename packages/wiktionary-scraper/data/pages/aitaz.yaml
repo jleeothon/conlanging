@@ -1,0 +1,83 @@
+pageid: 7085104
+ns: 118
+title: Reconstruction:Proto-Germanic/aitaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₂eyd-}}
+
+  From {{inh|gem-pro|ine-pro||*h₂óydos}}, whence also possibly
+  {{cog|sla-pro|*ě̑dъ}}, {{m|sla-pro|*jadъ||poison, malice}} ({{cog|cu|ядъ}},
+  {{cog|cs|jed}}, {{cog|pl|jad}}, {{cog|ru|яд}}, {{cog|sh|ȉjed}},
+  {{m|sh|jȁd}}),{{ref|group=note|For the Slavic, Derksen prefers a derivation
+  from {{m|ine-pro|*h₁ed-||to eat}} (which Kroonen also notes as a possibility)
+  involving a {{glossary|euphemism|euphemistic}} semantic shift ''“food” >
+  “poison”''.<ref>{{R:sla:EDSIL|head=*ě̑dъ|page=150}}</ref>}} from the root
+  {{m|ine-pro|*h₂eyd-||to swell}}. Cognate with {{cog|xcl|այտնում||to swell}}
+  (aorist {{m|xcl|այտեայ}}), {{m|xcl|այտ||cheek}}, {{cog|grc|οἰδέω||to swell}},
+  {{m|grc|Οἰδίπους|*οἰδί-|swollen}}, {{cog|la|aemidus||swollen}},
+  {{cog|fa|استیم|tr=astim|t=pus}}.<ref name="Kroonen"/>
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="Kroonen">{{R:gem:EDPG|*aita-|14}}</ref>
+
+
+  # [[ulcer]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun-a-m|ait}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*aitilaz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*aistô}}
+
+  * {{l|gem-pro|*aitrą}}
+
+  * {{l|gem-pro|*aitǭ||swelling, gland, nodule}}
+
+  ** {{desc|ang|āte}}
+
+  *** {{desctree|enm|ote}}
+
+  * {{l|gem-pro|*aitijǭ}}
+
+
+  ====Descendants====
+
+  * {{desc|odt|*ēt}}
+
+  ** {{desc|dum|*êet}}
+
+  *** {{desc|nl|eet}}
+
+  * {{desc|goh|eiz}}
+
+  ** {{desc|gmh|eiz}}
+
+
+  ===Notes===
+
+  {{reflist|group=note}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Pathology]]

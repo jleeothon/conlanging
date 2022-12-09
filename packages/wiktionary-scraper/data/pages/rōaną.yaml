@@ -1,0 +1,43 @@
+pageid: 2629392
+ns: 118
+title: Reconstruction:Proto-Germanic/rōaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₁reh₁-|id=row}}
+  From {{der|gem-pro|ine-pro|*h₁reh₁-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈrɔː.ɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[row]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7e|nopass=1|rō|rerō|rerō|rō}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*rōþrą}}
+
+  ====Descendants====
+  * {{desc|ang|rōwan}}
+  ** {{desc|enm|rowen}}
+  *** {{desc|sco|row}}
+  *** {{desc|en|row}}
+  * {{desc|ofs|*rōia}}
+  ** {{desc|stq|roie}}
+  ** {{desc|fy|roeie}}
+  * {{desc|osx|*rōian}}
+  ** {{desc|gml|rōen|rōien|rōjen}}
+  * {{desc|odt|*ruoien}}
+  ** {{desc|dum|roeyen}}
+  *** {{desc|nl|roeien}}
+  **** {{desc|af|roei}}
+  * {{desc|goh|*ruojan}}
+  ** {{desc|gmh|rüejen|rüegen|ruogen}}
+  *** {{desc|de|rojen}}
+  * {{desctree|non|róa}}

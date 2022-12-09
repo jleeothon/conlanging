@@ -1,0 +1,36 @@
+pageid: 8497817
+ns: 118
+title: Reconstruction:Proto-Germanic/regnawatōr
+wikitext: |-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Compound of {{compound|gem-pro|*regną|*watōr|t1=rain|t2=water}}.
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[rainwater]]
+
+  ====Descendants====
+  * {{desc|gmw-pro|*regnawatar}}
+  ** {{desctree|ang|reġnwæter}}
+  ** Old Frisian: *reinweter
+  *** {{desc|fy|reinwetter}}
+  ** {{desc|osx|*reganwater}}
+  *** {{desc|gml|*regenwāter}}
+  **** {{desc|pdt|Räajenwota}}
+  ** Old Dutch: *reganwatar
+  *** {{desc|dum|regenwater}}
+  **** {{desc|nl|regenwater}}
+  ** {{desc|goh|reganwazar}}
+  *** {{desc|gmh|rëgenwaȥȥer}}
+  **** {{desc|de|Regenwasser}}
+  **** {{desc|yi|רעגן־וואַסער}}
+  * {{desc|non|regnvatn}}
+  ** {{desc|is|regnvatn}}
+  ** {{desc|no|regnvann}}
+  ** {{desc|sv|regnvatten}}
+  ** {{desc|da|regnvand}}

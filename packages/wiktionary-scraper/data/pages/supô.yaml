@@ -1,0 +1,134 @@
+pageid: 3620153
+ns: 118
+title: Reconstruction:Proto-Germanic/supô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*suppô}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*sū-}}, {{m|ine-pro|*sewH-||wetness, moisture,
+  rain; juice, flow}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsu.pɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[soup]], [[broth]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*supōną}}/{{l|gem-pro|*suppōną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*suflą}}
+
+  * {{l|gem-pro|*sūkaną}}/{{l|gem-pro|*sūganą}}
+
+  * {{l|gem-pro|*sūpaną}}
+
+  * {{l|gem-pro|*supiz}}
+
+  * {{l|gem-pro|*suppǭ}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|sopa}}
+
+  ** {{desc|enm|sope|soppe|sop}}
+
+  *** {{desc|en|sop}}
+
+  *** {{desc|sco|sope}}
+
+  * {{desc|osx|*sopo}}
+
+  ** {{desc|gml|sope}}
+
+  *** {{desc|de|Suppe|bor=1}} {{q|with influence from {{m+|fro|supe}}}} {{see
+  desc}}
+
+  *** {{desc|non|soppa|bor=1}}
+
+  **** {{desc|is|súpa|bor=1}}
+
+  **** {{desc|fo|súpan|bor=1}}
+
+  **** {{desc|no|-|bor=1}} {{l|nb|suppe}}
+
+  **** {{desctree|sv|soppa|bor=1}}
+
+  **** {{desc|da|suppe|bor=1}}
+
+  * {{desc|odt|*sopo}}
+
+  ** {{desc|dum|sope|soop}}
+
+  *** {{desc|der=1|nl|zoopje|zopie}} {{q|diminutiva tanta}}
+
+  * {{desc|non|sopi}}
+
+  ** {{desc|is|sopi}}
+
+  ** {{desc|fo|sopi}}
+
+  ** {{desc|nn|sope}}
+
+  ** {{desc|gmq-osw|supi|sopi}}
+
+  * {{desc|la|suppa}} (also possibly from {{m|gem-pro|*suppǭ}})
+
+  ** {{desc|lmo|süpa}}
+
+  ** Italo-Dalmatian
+
+  *** {{desc|it|zuppa}}
+
+  *** {{desc|scn|suppa|zuppa}}
+
+  ** {{desc|fro|supe}} {{see desc}}
+
+  ** {{desc|pro}}
+
+  *** {{desc|ca|sopa}}
+
+  *** {{desc|oc|sopa}}
+
+  ** West Iberian
+
+  *** {{desc|an|sopa}}
+
+  *** {{desc|ast|sopa}}
+
+  *** {{desc|roa-opt}}
+
+  **** {{desc|gl|sopa}}
+
+  **** {{desc|pt|sopa}}
+
+  *** {{desc|es|sopa}}
+
+  **** {{desc|eu|zopa|bor=1}}

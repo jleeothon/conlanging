@@ -1,0 +1,86 @@
+pageid: 4090753
+ns: 118
+title: Reconstruction:Proto-Germanic/melkaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₂melǵ-}}
+
+  From {{der|gem-pro|ine-pro|*h₂melǵ-}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmel.kɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*mel(u)kan-|364-365}}</ref><ref>{{R:gem:HGE|*melkanan|266-267}}</ref>
+
+
+  # to [[milk]] {{gloss|get milk from an animal}}
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=3|melk|malk|mulk|mulk}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*meluks}}
+
+  * {{l|gem-pro|*mulkiz}}
+
+  * {{l|gem-pro|*mulknaz}}
+
+  * {{l|gem-pro|*mulkōną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*melukōną}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|meolcan}}
+
+  * {{desc|ofs|melka}}
+
+  ** {{desc|frr|molke}}
+
+  ** {{desc|stq|meelke}}
+
+  ** {{desc|fy|melke}}
+
+  * {{desc|osx|*melkan}}
+
+  ** {{desc|gml|melken|pos=weak verb}}
+
+  *** ({{desc|nds|melken}})
+
+  * {{desc|odt|*melkan}}
+
+  ** {{desc|dum|melken}}
+
+  *** {{desc|nl|melken}}
+
+  * {{desc|goh|melkan|melchan}}
+
+  ** {{desc|gmh|mëlken|mëlchen}}
+
+  *** {{desc|de|melken}} (regular; see lemma)
+
+  **** {{desc|eo|melki|bor=1}}
+
+
+  ===References===
+
+  <references/>

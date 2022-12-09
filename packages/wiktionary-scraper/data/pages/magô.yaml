@@ -1,0 +1,28 @@
+pageid: 2855946
+ns: 118
+title: Reconstruction:Proto-Germanic/magô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*mak-}}, {{m|ine-pro|*maks-||bag, bellows, belly}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑ.ɣɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Body parts}} [[stomach]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*magō}}
+  * {{desctree|non|magi}}
+  * East Germanic:
+  ** {{desc|gl|maga|bor=1}}
+  * {{desc|fi|maha|bor=1|unc=1}}
+  * {{desc|fiu-fin-pro|*mako|bor=1}}  {{see desc}}

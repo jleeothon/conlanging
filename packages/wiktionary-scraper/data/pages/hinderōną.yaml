@@ -1,0 +1,47 @@
+pageid: 3769094
+ns: 118
+title: Reconstruction:Proto-Germanic/hinderōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*hinder|t1=behind|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxin.de.rɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[hinder]]
+
+  ====Inflection====
+  {{gem-conj-wk2|hinder}}
+
+  ====Descendants====
+  * {{desc|ang|hindrian}}
+  ** {{desc|enm|hindren}}
+  *** {{desc|sco|hinder|hynder}}
+  *** {{desc|en|hinder}}
+  * {{desc|ofs|hinderia}}
+  ** {{desc|stq|hinderje}}
+  ** {{desc|fy|hinderje}}
+  * {{desc|osx|*hindaron}}
+  ** {{desc|gml|hinderen}}
+  *** {{desc|pdt|behindren|vehindren}}
+  * {{desc|odt|*hindaron}}
+  ** {{desc|dum|hinderen|hinder}}
+  *** {{desc|nl|hinderen|hinder}}
+  * {{desc|goh|hintarōn|hinderōn}}
+  ** {{desc|gmh|hindern}}
+  *** {{desc|de|hindern|behindern}}
+  *** {{desc|lb|hënneren|behënneren}}
+  * {{desc|non|hindra}}
+  ** {{desc|is|hindra}}
+  ** {{desc|fo|hindra}}
+  ** {{desc|no|hindre}}
+  ** {{desc|gmq-osw|hindra}}
+  *** {{desc|sv|hindra}}
+  ** {{desc|da|hindre}}
+  ** {{desc|gmq-gut|hindre}}

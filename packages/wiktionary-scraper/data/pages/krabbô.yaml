@@ -1,0 +1,62 @@
+pageid: 4698075
+ns: 118
+title: Reconstruction:Proto-Germanic/krabbô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gerbʰ-||to crawl; scratch}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkrɑb.bɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Crustaceans}} [[crab]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*krabbōną}}
+  * {{l|gem-pro|*krabitaz}}
+  * {{l|gem-pro|*krabblōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*krabbō}}
+  * {{desc|non|krabbi}}
+  ** {{desc|is|krabbi}}
+  ** {{desc|fo|krabbi}}
+  ** {{desc|nrn|krabbi}}
+  ** {{desc|no|krabbe}}
+  ** {{desc|gmq-osw|krabbe}}
+  *** {{desc|sv|krabba}}
+  ** {{desc|da|krabbe}}
+  ** {{desc|fro|crabe|bor=1}}
+  *** {{desc|frm|crabe}}
+  **** {{desc|fr|crabe}}
+  **** {{desc|nrf|crabe}} {{i|Jèrriais}}
+  **** {{desc|ro|crab|bor=1}}
+  * others:
+  ** {{desc|bor=1|lv|krabis}}
+  ** {{desc|bor=1|lt|krabas}}
+  ** {{desc|bor=1|be|краб}}
+  ** {{desc|bor=1|ru|краб}}
+  ** {{desc|bor=1|uk|краб}}
+  ** {{desc|bor=1|sh|-}}
+  **: {{desc|sclb=1|sh|кра̏ба}}
+  **: {{desc|sclb=1|sh|krȁba}}
+  ** {{desc|bor=1|mk|крабар}}
+  ** {{desc|bor=1|cs|krab}}
+  ** {{desc|bor=1|csb|krab|kraba}}
+  ** {{desc|bor=1|pl|krab}}
+  ** {{desc|bor=1|sk|krab}}
+  ** {{desc|bor=1|dsb|kraba}}
+  ** {{desc|bor=1|hsb|kraba}}
+  ** {{desc|bor=1|fiu-fin-pro|-}}
+  *** {{desc|et|krabi}}
+  *** {{desc|fi|rapu}}
+  *** {{desc|izh|krapu}}
+  *** {{desc|vot|krapu}}

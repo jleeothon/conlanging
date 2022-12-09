@@ -1,0 +1,46 @@
+pageid: 2947290
+ns: 118
+title: Reconstruction:Proto-Germanic/buhtiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰewgʰ-}}
+  From {{suffix|gem-pro|*beuganą|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbux.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[bend]], [[curve]], [[arch]], [[angle]]; [[corner]]
+  # a bend in a body of water, [[bay]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|byht}}
+  ** {{desc|enm|bight|byȝt|biȝt|bought|bouȝt}}
+  *** {{desc|sco|bicht|becht}}; {{l|sco|bucht}}, {{l|sco|boucht}}
+  *** {{desc|en|bight}}; {{l|en|bought}}, {{l|en|bowt}}, {{l|en|bout}}
+  * {{desc|ofs|*buht}}
+  ** {{desc|stq|Bucht}}
+  * {{desc|osx|*buht}}
+  ** {{desc|gml|bucht|bocht}}
+  *** {{desc|nds|Bucht}}
+  *** {{desc|is|bugt|bor=1}}
+  *** {{desc|fo|bukt|bor=1}}
+  *** {{desc|nb|bukt|bor=1}}
+  *** {{desc|nn|bukt|bor=1}}
+  *** {{desc|sv|bukt|bor=1}}
+  *** {{desc|da|bugt|bor=1}}
+  *** {{desc|de|Bucht|bor=1}}
+  * {{desc|odt|*buht}}
+  ** {{desc|dum|bucht|bocht}}
+  *** {{desc|nl|bucht|bocht}}
+  **** {{desc|af|bocht}}
+  * {{desc|non|bót}}
+  ** {{desc|is|bót}}

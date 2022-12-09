@@ -1,0 +1,79 @@
+pageid: 4418872
+ns: 118
+title: Reconstruction:Proto-Germanic/trumaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈtru.mɑz/}}
+
+
+  ===Etymology 1===
+
+  Continues {{inh|gem-pro|ine-pro||*drumos}}, from {{m|ine-pro|*deru-}},
+  {{m|ine-pro|*drew-||tree}}. Compare {{cog|sa|द्रुम||tree}},
+  {{cog|grc|δρυμός||copse, thicket}}, {{cog|xcl|տրամ||solid, firm}}.
+
+
+  ====Noun====
+
+  {{gem-noun|m}}
+
+
+  # [[root]] (of a plant)
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|*trum|wyrttrum|wyrttruma}} (< {{m|gem-pro||*trumô}})
+
+
+  ===Etymology 2===
+
+  Related to or derived from the above. For the semantic development, compare
+  {{cog|gem-pro|*trewą}} and {{m|gem-pro|*triwwiz}}.
+
+
+  ====Adjective====
+
+  {{gem-adj}}
+
+
+  # [[firm]], [[strong]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-adj-a|trum}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*trumiþō}}
+
+  * {{l|gem-pro|*trumjaną}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|trum}}
+
+  ** {{desc|enm|trum}} (in compounds: {{l|enm|mistrum}}; {{l|enm|untrum}})
+
+  *** {{desc|sco|trim}}
+
+  *** {{desc|en|trim}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

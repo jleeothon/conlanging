@@ -1,0 +1,28 @@
+pageid: 7400505
+ns: 118
+title: Reconstruction:Proto-Germanic/aiwiþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suf|gem-pro|*aiwaz|*-iþō|t1=eternity}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑi̯.wi.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:HGE|*aiwiþō|11}}</ref>
+
+  # [[eternity]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*aiwiþu}}
+  * {{desc|non|*æð}}
+  ** {{desc|non|langæð|der=1}}
+
+  ===References===
+  <references/>

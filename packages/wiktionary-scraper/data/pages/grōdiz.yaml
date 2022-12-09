@@ -1,0 +1,39 @@
+pageid: 7454772
+ns: 118
+title: Reconstruction:Proto-Germanic/grōdiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*grōduz}}
+
+  ===Etymology===
+  From {{suffix|gem-pro|*grōaną|*-þiz|t1=to grow}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣrɔː.ðiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*grōdiz-grōduz|143}}</ref>
+
+  # [[growth]] (of plants)
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*grōdi}}
+  ** {{desc|ofs|grēd}}
+  ** {{desc|osx|*grōd}}
+  *** {{desc|gml|grōde}}
+  ** {{desc|goh|*gruot}}
+  *** {{desc|gmh|gruot|gruote}}
+  * {{desc|non|gróðr|gróði}}
+  ** {{desc|is|gróður|gróði}}
+  ** {{desc|fo|grøði}}
+  ** {{desc|da|grøde}}
+  ** {{desc|sv|gröda}}
+
+  ===References===
+  <references/>

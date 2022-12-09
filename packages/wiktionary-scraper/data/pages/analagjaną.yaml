@@ -1,0 +1,40 @@
+pageid: 4759774
+ns: 118
+title: Reconstruction:Proto-Germanic/analagjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*legʰ-}}
+  From {{prefix|gem-pro|*ana|*lagjaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɑ.nɑ.ˈlɑɣ.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # [[lay]] upon, lay on
+
+  ====Inflection====
+  {{gem-conj-wk1|analag|j=j}}
+
+  ====Descendants====
+  * {{desc|ang|*onlecgan|onlecgende}}
+  ** {{desc|enm|onleien|onleggen}}
+  *** {{desc|en|onlay}}
+  *** {{desc|sco|onlay}}
+  * {{desc|ofs|onledza}}
+  * {{desc|dum|aneleggen|aenleggen}}
+  ** {{desc|nl|aanleggen}}
+  * {{desc|goh|*analeggen}}
+  ** {{desc|gmh|anelegen}}
+  *** {{desc|cim|leng å}}
+  *** {{desc|de|anlegen}}
+  *** {{desc|lb|uleeën}}
+  * {{desc|non|leggja á}}
+  ** {{desc|is|leggja á}}
+  ** {{desc|gmq-osw|ālæggia}}
+  *** {{desc|sv|ålägga}}
+  * {{desc|got|𐌰𐌽𐌰𐌻𐌰𐌲𐌾𐌰𐌽}}

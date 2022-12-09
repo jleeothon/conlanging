@@ -1,0 +1,77 @@
+pageid: 6094222
+ns: 118
+title: Reconstruction:Proto-Germanic/frumjaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*per-}}
+
+  From {{m|gem-pro|*fram||from}}, from {{inh|gem-pro|ine-pro|*pr-}},
+  {{m|ine-pro|*pro-}}, {{m|ine-pro|*perəm-}}, {{m|ine-pro|*prom-|t=forth,
+  forward}}, from {{m|ine-pro|*por-|t=forward, through}}, {{m|ine-pro|*per-}},
+  with suffix {{m|gem-pro|*-janą}}.<ref>{{R:American Heritage
+  Dictionary}}</ref><ref>{{R:es:Roberts:2014}}</ref><ref>{{R:OED}}</ref>  More
+  at {{cog|en|furnish}}, {{m|en|from}}.
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[perform]], [[promote]]
+
+  # to [[accomplish]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk1|frum|j=j}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*framjaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*frummjan}}
+
+  ** {{desc|osx|frummian}}
+
+  *** {{desc|gml|vromen}}
+
+  ** {{desc|goh|frummen}}
+
+  *** {{desc|gmh|vrümen}}, {{l|goh|vrumen}}, {{l|goh|vromen}}
+
+  **** {{desc|de|frommen}}
+
+  ** {{desc|ca|fornir|bor=1}}
+
+  ** {{desc|bor=1|fro|fornir|furnir}}; /{{l|fro|parfornir}}, {{l|fro|parfurnir}}
+
+  *** {{desctree|fr|fournir}}
+
+  *** {{desc|enm|furnysshen|bor=1}}; {{l|enm|performen}}, {{l|enm|parfournen}}
+
+  **** {{desc|en|furnish}}; {{l|en|perform}}
+
+  ** {{desc|it|fornire|bor=1}}
+
+  ** {{desc|pms|fornì|bor=1}}
+
+  * {{desc|got|*𐍆𐍂𐌿𐌼𐌾𐌰𐌽}}
+
+  ** {{desc|la-vul|frummiare|bor=1}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,92 @@
+pageid: 2863923
+ns: 118
+title: Reconstruction:Proto-Germanic/aljaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑl.jɑ.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  From {{der|gem-pro|ine-pro|*h₂el-||to grow, nourish}}. Alternative etymology
+  derives from {{m|gem-pro|*h₁elh₂-||to spur, drive}}. If so, then related to
+  {{m|gem-pro|*lanō||lane}}.
+
+
+  ====Noun====
+
+  {{gem-noun|n}}<ref>{{R:gem:EDPG|*aljana-|23}}</ref>
+
+
+  # [[zeal]], [[eagerness]]
+
+  # [[strength]], [[courage]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*aljanōną}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*aljô|gloss=rival}}
+
+  * {{l|gem-pro|*aljǭ|gloss=zeal}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*alljan}}
+
+  * {{desc|gmq-pro|}}
+
+  ** {{desc|non|eljan}}
+
+  *** {{desc|is|elja}}
+
+  * {{desc|got|𐌰𐌻𐌾𐌰𐌽}}
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*h₂el-|id=grow}}
+
+  From {{affix|gem-pro|*alaną|*-janą|id2=causative}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*aljan-|23}}</ref>
+
+
+  # to cause to [[grow]] and [[mature]], to [[fatten]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk1|al|j=j}}
+
+
+  =====Descendants=====
+
+  * {{desc|got|𐌰𐌻𐌾𐌰𐌽}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Emotions]]

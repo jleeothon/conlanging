@@ -1,0 +1,32 @@
+pageid: 4673054
+ns: 118
+title: Reconstruction:Proto-Germanic/friþōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*preyH-}}
+  Derived from {{suffix|gem-pro|*friþuz|t1=peace|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸri.θɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[make peace]], [[pacify]], [[keep]] the peace
+
+  ====Inflection====
+  {{gem-conj-wk2|friþ}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*friþōniz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*friþōn}}
+  * {{desc|non|friða}}
+  ** {{desc|is|friða}}
+  ** {{desc|gmq-osw|friþa}}
+  *** {{desc|sv|freda}}
+  * {{desc|got|*𐍆𐍂𐌹𐌸𐍉𐌽|𐌲𐌰𐍆𐍂𐌹𐌸𐍉𐌽}}

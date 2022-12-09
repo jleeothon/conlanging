@@ -1,0 +1,32 @@
+pageid: 5561982
+ns: 118
+title: Reconstruction:Proto-Germanic/Uzdagaizaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*uzdaz|t1=sharp point|*gaizaz|t2=spear}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈuz.dɑ.ˌɣɑi̯.zɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|ang|Ordgār}}
+  * {{desc|non|Oddgeirr}}
+  ** {{desc|is|Oddgeir}}
+  ** {{desc|fo|Oddgeir}}
+  ** {{desc|no|Oddgeir}}
+  ** {{desc|gmq-osw|Uddger}}
+  ** {{desc|gmq-oda|Oddger}}
+
+  ===References===
+  * {{R:non:Nordiskt runnamnslexikon|UddgæiRR}}

@@ -1,0 +1,50 @@
+pageid: 6379784
+ns: 118
+title: Reconstruction:Proto-Germanic/prikjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*prikiz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈprik.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[stick]]; [[prick]]
+
+  ====Inflection====
+  {{gem-conj-wk1|prik|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*prekōna}}/{{l|gem-pro|*prikōna}}
+  * {{l|gem-pro|*prikilaz}}
+  * {{l|gem-pro|*prikō}}
+  * {{l|gem-pro|*prikô}}
+
+  ====Descendants====
+  * {{desc|ang|priċċan}}
+  ** {{desc|enm|pricchen}}
+  *** {{desc|en|pritch}}
+  *** {{desc|sco|prich|prych}}
+  * {{desc|ofs|*prikka}}
+  ** {{desc|stq|prikkelje}} {{i|from Low German ?}}
+  ** {{desc|fy|prikke}}
+  * {{desc|osx|*prikkian}}
+  ** {{desc|gml|prikken|pricken}}
+  *** {{desc|nds|pricken}}
+  *** {{desc|de|pricken|bor=1}}
+  *** {{desc|der=1|gml|prickelen|prikelen|preckelen}}
+  **** {{desc|nds-de|prickeln}}
+  *** {{desc|da|prikke|bor=1}}
+  *** {{desc|sv|pricka|bor=1}}
+  * {{desc|odt|*prikken}}
+  ** {{desc|dum|pricken}}
+  *** {{desc|nl|prikken}}
+  * {{desc|goh|*pfrichen|*pfricken}}
+  ** {{desc|gmh|pfrecken}}? {{i|possibly from {{m|gem-pro|*prekōną}}}}
+  ** {{desc|der=1|gmh|prickelen|prickeln}} {{q|likely from Low German}}
+  *** {{desc|de|prickeln}}

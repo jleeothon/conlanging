@@ -1,0 +1,23 @@
+pageid: 7508409
+ns: 118
+title: Reconstruction:Proto-Germanic/hwassijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*hwassaz|*-janą}}.
+
+  ===Pronunciation===
+  {{IPA|gem-pro|/ˈxʷas.si.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to make [[sharp]]
+
+  ====Inflection====
+  {{gem-conj-wk1|hwass|j=ij}}
+
+  ====Descendants====
+  * {{desctree|non|hvessa}}

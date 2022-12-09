@@ -1,0 +1,72 @@
+pageid: 4032655
+ns: 118
+title: Reconstruction:Proto-Germanic/frustaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*prews-}}
+
+  From {{inh|gem-pro|ine-pro|*prustós||frost}}. Cognate with
+  {{cog|la|pruīna||hoarfrost, frost}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸrus.tɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[cold]]; [[frost]]; freezing weather
+
+  # {{q|possibly}} [[frost]]; [[rime]] {{gloss|minute ice crystals}}
+
+  #: {{syn|gem-pro|*hrīmaz|*hrīpô}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*frustāną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*freusaną}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|forst}}
+
+  * {{desc|ofs|frost|forst}}
+
+  ** {{desc|stq|Froast|alts=1}}
+
+  ** {{desc|fy|froast}}
+
+  * {{desc|osx|frost}}
+
+  ** {{desc|gml|vrost}}
+
+  *** {{desc|nds-de|Fröst}}
+
+  * {{desc|odt|*frost|forst}}
+
+  ** {{desctree|dum|vorst}}
+
+  * {{desctree|goh|frost}}
+
+  * {{desctree|non|frost}}

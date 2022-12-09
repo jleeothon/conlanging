@@ -1,0 +1,120 @@
+pageid: 2401578
+ns: 118
+title: Reconstruction:Proto-Germanic/tēkaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  *
+  {{alt|gem-pro|*takaną||North-West}}<ref>{{R:gem:HGE|head=*takanan|page=400}}</ref>
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*teh₂g-|id=touch}}
+
+  From an apparent {{der|gem-pro|ine-pro|*deh₁g-|t=to touch}}, with the only
+  formal cognate being {{cog|txb|täk-||to touch, feel (with the hand); to
+  fetch}}, {{m|txb|ceśäṃ||touches; takes|pos=3sg.pres.}}.<ref
+  name="DTB">{{R:txb:Adams:2013|head=täk-|pages=305–306}}</ref> Ringe suggests
+  that either pre-Germanic or pre-Tocharian borrowed the word from the
+  other.<ref>{{cite-journal|last=Ringe|first=Don|authorlink=Donald
+  Ringe|year_published=1991|title=Evidence for the Position of Tocharian in the
+  Indo-European
+  Family?|page=105-15|journal=Sprache|volume=34|year=1988–1990|pages=59–123}}</ref>
+
+
+  Several authors have noted the similarity of this root to
+  {{cog|ine-pro|*teh₂g-|id=touch|t=to touch, take (by the hand)}} (whence
+  {{m|gem-pro|*þakwōną|*þakkōną|to touch lightly, tap}}, {{cog|la|tangō||I
+  touch}}, {{cog|grc|τεταγών||having seized|pos=ptcp.}}), but the two cannot be
+  reconciled by traditional means, as the "[[w:Grimm's law|unshifted]]" Germanic
+  {{m|gem-pro||*t}} is not expected to come from PIE {{m|ine-pro||*t}} in this
+  phonetic environment, nor should Germanic {{m|gem-pro||*ē}} (as in the
+  {{cog|got|-}} descendant only) have developed from PIE {{m|ine-pro||*eh₂}},
+  and Tocharian short {{m|ine-toc-pro||*ä}} cannot continue PIE
+  {{m|ine-pro||*eh₂}} under normal conditions. However, the stop consonant in
+  Germanic can be explained if it developed from a cluster {{m|ine-pro||*dg}}
+  with voicing assimilation from earlier {{m|ine-pro||*tg}}.<ref name="DTB"/>
+  According to the hypothesis by Mottausch, the reduplicated form
+  {{m|ine-pro||*te-th₂g-}} (as in {{m+|la|tetigī||have touched}},
+  {{m+|grc|τεταγών}}) regularly lost its laryngeal in pre-Germanic, and so the
+  resulting {{m|ine-pro||*te-tg-}} would have required voicing assimilation to
+  {{m|ine-pro||*te-dg-}}, which was subsequently back-formed to
+  {{m|ine-pro||*de-dg-}} to restore the normal pattern of reduplication,
+  resulting in the unshifted Germanic
+  /t/.<ref>{{cite-journal|last=Mottausch|first=Karl-Heinz|year=1993|title=Zwei
+  verkannte germanisch-italische Isoglossen|journal=Historische
+  Sprachforschung|volume=106|pages=148–175}}</ref> Additionally, the pre-form
+  {{m|ine-pro||*deh₁g-}} that resulted in the long vowel in Germanic can be
+  maintained, if it is assumed that the second stop in this pre-Germanic
+  {{m|ine-pro||*dedg-}} underwent dissimilation to glottalic {{m|ine-pro||*h₁}}
+  = [ʔ].<ref name="Kortlandt">{{cite-journal|last=Kortlandt|first=Frederik
+  H.H.|authorlink=Frederik Kortlandt|year=2000|title=Old Norse ''taka'', Gothic
+  ''tekan'', Greek ''τεταγών''|journal=North-Western European Language
+  Evolution|volume=36|pages=59–65|titleurl=https://www.academia.edu/47644248/Old_Norse_taka_Gothic_tekan_Greek_τεταγών}}</ref>
+  Kroonen upholds this derivation, though he notes its great difficulties. For a
+  partial alternative, he suggests a back-formation of {{m|gem-pro||*tēkaną}}
+  from iterative {{m|gem-pro|*þakwōną|*þakkōną}} (cf. his similar derivation of
+  {{m|gem-pro|*slēpaną}} from {{m|gem-pro|*slappōną|*slapp/bōną}}).<ref
+  name="EDPG">{{R:gem:EDPG|head=*takan- ~ *tēkan-|page=507|passage=The Germanic
+  strong verb is clearly derived from PIE *''teh₂g-'', but the development of
+  this root into *''takan-'' and *''tēkan-'' is not straightforward. […]}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈtɛː.kɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name="EDPG"/><ref
+  name="HGE">{{R:gem:HGE|head=*tēkanan|page=406}}</ref>
+
+
+  # to [[touch]]
+
+  # to [[grasp]]; to [[take]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=7d|tēk|tetōk|tetōk|tēk}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*takô||hold, seizure}}
+
+
+  ====Descendants====
+
+  The North and West Germanic descendants have a class 6 strong verb, while
+  Gothic has a class 7 verb. This is presumably a result of the vowel change in
+  the past, combined with the change of ē to ā in those languages. This gave the
+  ablaut pattern ā-ō-ā which could easily be changed into the a-ō-a of the 6th
+  class.
+
+  *{{desc|gmw-pro|*takan}}
+
+  ** {{desc|osx|*takan}}
+
+  *** {{desc|gml|tacken}} (= {{l|gml|tācken}}?, otherwise secondarily geminated)
+
+  ** {{desc|odt|*takan}}
+
+  *** {{desctree|dum|tāken}}
+
+  * {{desctree|non|taka}}
+
+  * {{desc|got|𐍄𐌴𐌺𐌰𐌽}}
+
+
+  ===References===
+
+  <references/>

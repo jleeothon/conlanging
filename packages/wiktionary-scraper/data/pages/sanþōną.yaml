@@ -1,0 +1,28 @@
+pageid: 4685435
+ns: 118
+title: Reconstruction:Proto-Germanic/sanþōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₁es-}}
+  Derived from {{suffix|gem-pro|*sanþaz|t1=true|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑn.θɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[prove]] true, [[show]] to be true
+
+  ====Inflection====
+  {{gem-conj-wk2|sanþ}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*sanþōniz}}
+
+  ====Descendants====
+  * {{desctree|ang|sōþian}}
+  * {{desctree|non|sanna}}

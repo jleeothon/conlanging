@@ -1,0 +1,37 @@
+pageid: 8088483
+ns: 118
+title: Reconstruction:Proto-Germanic/mēlōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Related to {{suffix|gem-pro|*mēlą|*-ōną|t1=stain, mark, spot}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɛː.lɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:EDPG|*mēla- 2|182|*mēlōjan-}}</ref>
+
+  # to [[stain]]
+  # to [[paint]]
+
+  ====Inflection====
+  {{gem-conj-wk2|mēl}}
+
+  ====Alternative reconstructions====
+  * {{l|gem-pro|*mēlāną}}<ref>{{R:gem:HGE|*mēljanan ~ *mēlēnan|270}}</ref>
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*mālōn}}
+  * {{desctree|non|mála}}
+  ** {{desc|is|mála}}
+  ** {{desc|fo|mála}}
+  ** {{desc|nn|måla|måle}}
+  ** {{desc|nb|male}}
+  ** {{desc|sv|måla}}
+  ** {{desc|da|male}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,40 @@
+pageid: 4723730
+ns: 118
+title: Reconstruction:Proto-Germanic/andijōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂ent-}}
+  From {{affix|gem-pro|*andijaz|t1=end|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑn.di.jɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[end]], [[bring]] to an end, [[finish]]
+
+  ====Inflection====
+  {{gem-conj-wk2|andij}}
+
+  ====Descendants====
+  * {{desctree|ang|endian}}
+  * {{desctree|ofs|endia}}
+  * {{desctree|osx|endōn}}
+  * {{desc|odt|*endon}}
+  ** {{desc|dum|enden|einden}}
+  * {{desc|goh|enteōn|entōn}}
+  ** {{desc|gmh|enden}}
+  *** {{desc|de|enden}}
+  * {{desc|non|enda}}
+  ** {{desc|is|enda}}
+  ** {{desc|fo|enda}}
+  ** {{desc|gmq-osw|ænda}}
+  *** {{desc|gmq-osw|ända}}
+  ** {{desc|no|-}}
+  *** {{desc|nb|ende}}
+  *** {{desc|nn|enda|ende}}
+  ** {{desc|da|ende}}

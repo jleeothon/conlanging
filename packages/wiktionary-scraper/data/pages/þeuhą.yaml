@@ -1,0 +1,27 @@
+pageid: 2928399
+ns: 118
+title: Reconstruction:Proto-Germanic/þeuhą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*tewk-}}
+  From {{der|gem-pro|ine-pro|*tewk-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθeu̯.xɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{topics|gem-pro|Body parts}} [[thigh]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þeuh}}
+  * {{desctree|non|þjó}}
+
+  [[fr:Annexe:proto-germanique/*þeuhan]]

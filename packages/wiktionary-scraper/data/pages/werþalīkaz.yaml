@@ -1,0 +1,36 @@
+pageid: 6529766
+ns: 118
+title: Reconstruction:Proto-Germanic/werþalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*werþą|*-līkaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwer.ðɑ.ˌliː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # Of great [[worth]]; [[valuable]]; [[important]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|werþalīk}}
+
+  ====Descendants====
+  * {{desc|ang|weorþlīċ}}
+  ** {{desc|enm|wurthlich|worthely}}
+  *** {{desc|en|worthly}}
+  * {{desc|ofs|*werthlik|werdelik}}
+  * {{desc|osx|*werthlīk}}
+  ** {{desc|gml|wērdelîk}}
+  ** {{desc|osx|werthlīko|der=1}}
+  * {{desc|odt|*werthlīk}}
+  ** {{desc|dum|werdelik|werdelijk}}
+  *** {{desc|nl|waardelijk}}
+  * {{desc|goh|werdlīh}}
+  ** {{desc|gmh|wërtlich}}
+  * {{desc|non|verðligr}}
+  ** {{desc|is|verðlegur}} {{i|in combinations}}

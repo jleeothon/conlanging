@@ -1,0 +1,24 @@
+pageid: 6094227
+ns: 118
+title: Reconstruction:Proto-Germanic/glaidijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*glīdaną|*janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣlai̯.ði.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to cause to [[slip]]
+
+  ====Inflection====
+  {{gem-conj-wk1|glaid|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|glǣdan}}
+  * {{desc|osx|glēdian}}

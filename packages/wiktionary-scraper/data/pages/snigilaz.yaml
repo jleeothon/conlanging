@@ -1,0 +1,49 @@
+pageid: 3630609
+ns: 118
+title: Reconstruction:Proto-Germanic/snigilaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Has been compared to {{der|gem-pro|ine-pro|*sneg-|t=to crawl; a creeping
+  thing}} (compare {{cog|sa|नाग||snake}}), whence also {{m|gem-pro|*snakô}}, but
+  the [[unshifted]] *g is unexpected. {{rfv-etym|gem-pro}}
+
+  {{cln|gem-pro|terms suffixed with *-ilaz (agent noun)}}
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsni.ɣi.lɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{lb|gem-pro|North Germanic}}{{topics|gem-pro|Mollusks}} [[snail]]
+  ({{alternative form of|gem-pro|*snagilaz|nocap=1}})
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*sneggô}}
+
+  * {{l|gem-pro|*snagilaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|non|snigill}}
+
+  ** {{desc|gmq-gut|snegel|snigull}}

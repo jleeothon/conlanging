@@ -1,0 +1,48 @@
+pageid: 8721223
+ns: 118
+title: Reconstruction:Proto-Germanic/glidǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Ultimately from {{der|gem-pro|ine-pro|*ǵʰleydʰ-|t=to glide}}; compare
+  {{m|gem-pro|*glīdaną}}.
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[kite]] {{gloss|[[bird of
+  prey]]}}<ref>{{R:gem:HGE|head=*ʒliđōn|page=136}}</ref>
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*glidā}}
+
+  * {{desc|non|gleða}}
+
+  ** {{desc|is|gleða}}
+
+  ** {{desc|da|glæde|gleje}} {{q|dialectal}}
+
+  ** {{desc|sv|glada}}
+
+
+  ====References====
+
+  <references/>
+
+
+  [[Category:gem-pro:Birds of prey]]

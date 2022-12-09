@@ -1,0 +1,24 @@
+pageid: 6500208
+ns: 118
+title: Reconstruction:Proto-Germanic/matibalgiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*matiz|*balgiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑ.ti.ˌbɑl.ɣiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Bags}} [[food]]-[[bag]], bag for food
+
+  ====Inflection====
+  {{gem-decl-noun-i-mf|matibalg|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|metebielġ}}
+  * {{desc|got|𐌼𐌰𐍄𐌹𐌱𐌰𐌻𐌲𐍃}}

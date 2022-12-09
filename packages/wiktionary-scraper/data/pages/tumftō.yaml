@@ -1,0 +1,69 @@
+pageid: 5985599
+ns: 118
+title: Reconstruction:Proto-Germanic/tumftō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|alt1=*tumftiz|alt2=*tumfetiz}}<ref
+  name="EDPG">{{R:gem:EDPG|head=tumfeti-|pages=525–526}}</ref><ref>{{R:EDG|head=δάπεδον|pages=302–303}}</ref><ref>{{R:gem:HGE|head=*tum-f(e)tiz|page=412}}</ref>
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*dem-}}
+
+  From a compound of {{der|gem-pro|ine-pro|*dem-|*dm̥-|to build}} and
+  {{m|ine-pro|*ped-|gloss=to walk, to step}}, assuming a relationship with at
+  least {{cog|grc|δάπεδον||floor}}. However, this word may simply be equivalent
+  to {{m|gem-pro|*tumþiz|*tumþiz ~ *tumþō}};<ref name="EDPG"/> see there.
+
+
+  ===Pronunciation===
+
+  {{IPA|gem-pro|/ˈtum.ɸtɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[ground]] [[around]] a [[building]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|non|*tóft|tomt|topt|tupt|tuft}}
+
+  ** {{desc|is|topt|tuft}}
+
+  ** {{desc|fo|toft}}
+
+  ** {{desc|nn|tuft|tomt|;|toft<q:dialectal>}}
+
+  ** {{desc|nb|tomt}}, {{l|no|tuft}}
+
+  ** {{desc|gmq-bot|tomt}}
+
+  ** {{desc|gmq-osw|topt|toft|tompt}}
+
+  *** {{desc|sv|tomt}}
+
+  ** {{desc|gmq-scy|tøvt}}
+
+  ** {{desc|da|toft}}
+
+
+  ===References===
+
+  <references/>

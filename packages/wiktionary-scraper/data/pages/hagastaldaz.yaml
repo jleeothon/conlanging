@@ -1,0 +1,26 @@
+pageid: 5376102
+ns: 118
+title: Reconstruction:Proto-Germanic/hagastaldaz
+wikitext: |-
+  {{rfd|gem-pro|duplicate of {{m|gem-pro|*hagustaldaz}}}}
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # unmarried man, [[bachelor]]
+  # young [[warrior]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|hæġsteald|hagulstead|hagosteald}}
+  ** {{desc|ang|Hagustealdesēa|der=1}}
+  *** {{desc|ang|Hagustealdeshām|der=1}}
+  **** {{desc|en|Hexham}}
+  ** {{desc|enm|hassel|haselle}}
+  * {{desc|osx|hagalstad}}
+  * {{desc|goh|hagalstalt|hagastolt}}
+  * {{desc|non|haukstalda}}

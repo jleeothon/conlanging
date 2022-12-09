@@ -1,0 +1,30 @@
+pageid: 4220247
+ns: 118
+title: Reconstruction:Proto-Germanic/bērō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰer-}}
+  {{af|gem-pro|*bēriz|*-ō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɛː.rɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # that which bears or carries; [[stretcher]], [[bier]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*barō}}
+  * {{l|gem-pro|*barwijǭ}}
+  * {{l|gem-pro|*beraną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bāru}}
+  * {{desctree|non|bár|bára}}

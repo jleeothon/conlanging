@@ -1,0 +1,44 @@
+pageid: 3609228
+ns: 118
+title: Reconstruction:Proto-Germanic/graljaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro||*grellaną}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gʰer-|t=to make a noise, rattle, mumble, murmur}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣrɑl.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # To [[cry out]] loudly and sharply; [[shout]]
+
+  ====Inflection====
+  {{gem-conj-wk1|gral|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*grellaz}}
+  * {{l|gem-pro|*gruljaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*gralljan}}
+  ** {{desc|ang|griellan|grillan}}
+  *** {{desc|enm|grillen}}
+  **** {{desc|sco|grill}}; {{l|sco|gril}}, {{l|sco|girl}}; {{l|sco|garl}}
+  **** {{desc|en|grill}}
+  ** {{desc|osx|*grellian}}
+  *** {{desc|gml|grellen}}
+  **** {{desc|nds-de|vergrellt}}
+  **** {{desc|nds|vergrellen}}
+  ** {{desc|odt|*grellen}}
+  *** {{desc|dum|grillen}}
+  **** ({{desc|nl|grillen}} ?)
+  ** {{desc|goh|*grellen}}
+  *** {{desc|gmh|grellen}}
+  **** {{desc|de|grellen}}

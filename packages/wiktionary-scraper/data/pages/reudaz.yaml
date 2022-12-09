@@ -1,0 +1,36 @@
+pageid: 7591078
+ns: 118
+title: Reconstruction:Proto-Germanic/reudaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*h₁rewdʰós}}, from {{m|ine-pro|*h₁rewdʰ-|t=red}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈreu̯.ðɑz/}}
+
+  ===Adjective===
+  {{gem-adj|*reudōzô|*reudōstaz}}
+
+  # {{topics|gem-pro|Colors}} [[red]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Related terms====
+  * {{l|gem-pro|*reudaną}}
+  * {{l|gem-pro|*rudāną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*reud}}
+  ** {{desc|ang|rēod}}
+  * {{desc|non|rjóðr}}
+  * {{desc|got|*𐍂𐌹𐌿𐌸𐍃}}
+  ** {{desc|got|𐌲𐌰𐍂𐌹𐌿𐌸𐍃|der=1}}
+
+  ====See also====
+  {{table:colors/gem-pro}}
+
+  [[fr:Annexe:proto-germanique/*reudaz]]

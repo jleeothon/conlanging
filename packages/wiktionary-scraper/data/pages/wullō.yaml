@@ -1,0 +1,37 @@
+pageid: 2823765
+ns: 118
+title: Reconstruction:Proto-Germanic/wullō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂welh₁-|id=wool}}
+  From {{inh|gem-pro|ine-pro|*h₂wĺ̥h₁neh₂}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwul.lɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{topic|gem-pro|Fabrics|Fibers|Hair}} [[wool]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*wullīnaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wullu}}
+  * {{desc|non|ull}}
+  ** {{desc|is|ull}}
+  ** {{desc|fo|ull}}
+  ** {{desc|nb|ull}}
+  ** {{desc|nn|ull}}
+  ** {{desc|gmq-osw|ul|ull}}
+  *** {{desc|sv|ull}}
+  ** {{desc|da|uld}}
+  * {{desc|got|𐍅𐌿𐌻𐌻𐌰}}
+  * {{desc|smi-pro|*ullō|bor=1}} {{see desc}}

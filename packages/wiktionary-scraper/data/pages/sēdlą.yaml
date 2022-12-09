@@ -1,0 +1,51 @@
+pageid: 7322515
+ns: 118
+title: Reconstruction:Proto-Germanic/sēdlą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  An instrumental noun from the Proto-Indo-European root
+  {{der|gem-pro|ine-pro|*seh₁-}}, via a byform ''*seh₁tlóm''.<ref
+  name="EDPG">{{R:gem:EDPG|page=430}}</ref>
+
+
+  ===Noun===
+
+  {{gem-noun|n}} <ref name="EDPG" />
+
+
+  # {{lb|gem-pro|North Germanic}} [[sieve]]
+
+  #: {{syn|gem-pro|*hrīdrǭ}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|non|sáld}}
+
+  ** {{desc|da|sold}}
+
+  ** {{desc|ovd|såld}}
+
+  ** {{desc|is|sáld}}
+
+  ** {{desc|no|såld}}
+
+  ** {{desc|sv|såll}}
+
+  * {{desc|fiu-fin-pro|*sekla|bor=1}} {{see desc}}
+
+
+  ===References===
+
+  <references />

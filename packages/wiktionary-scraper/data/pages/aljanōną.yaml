@@ -1,0 +1,26 @@
+pageid: 2863924
+ns: 118
+title: Reconstruction:Proto-Germanic/aljanōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*aljaną|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑl.jɑ.nɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to be [[zealous]] for, to [[strive]] for
+
+  ====Inflection====
+  {{gem-conj-wk2|aljan}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*alljanōn}}
+  * {{desc|non|elna}}
+  ** {{desc|is|elna}}
+  * {{desc|got|𐌰𐌻𐌾𐌰𐌽𐍉𐌽}}

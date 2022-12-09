@@ -1,0 +1,42 @@
+pageid: 4576535
+ns: 118
+title: Reconstruction:Proto-Germanic/fetą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ped-}}
+  From {{inh|gem-pro|ine-pro|*pedóm}}, from {{m|ine-pro|*ped-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸe.tɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[step]]; [[stride]]; [[pace]]; [[gait]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*fetaną}}
+  * {{l|gem-pro|*feturaz}}
+  * {{l|gem-pro|*fōts}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*fet}}
+  ** {{desc|ang|*fæt}}
+  *** {{desc|ang|fæthengest|der=1}}
+  *** {{desc|ang|sīþfæt|der=1}}
+  * {{desc|non|fet|*fjat}}
+  ** {{desc|is|fet}}
+  ** {{desc|fo|fet|g=n|feti|g2=m}}
+  ** {{desc|no|fet}}
+  ** {{desc|gmq-osw|fiæt|fæt}}
+  *** {{desc|sv|fjät}}
+  ** {{desc|gmq-oda|fiat}}
+  *** Middle Danish: [[fieth]], [[fiæth]]
+  **** {{desc|da|fjed}}
+  ** {{desc|gmq-bot|fet|fett}}

@@ -1,0 +1,69 @@
+pageid: 4557255
+ns: 118
+title: Reconstruction:Proto-Germanic/beudaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰewdʰ-}}
+
+  From {{der|gem-pro|ine-pro|*bʰewdʰ-||to be awake; be alert; be aware}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbeu̯.ðɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # That on which something is offered;  [[table]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*beudaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*beud}}
+
+  ** {{desc|ang|bēod}}
+
+  *** {{desc|enm|beod|bied}}
+
+  ** {{desc|osx|biod}}
+
+  ** {{desc|goh|piot|biot}}
+
+  *** {{desc|gmh|biet}}
+
+  **** {{desc|gsw|Biet|g=n}}
+
+  **** {{desc|bar|Biete|g=f}}
+
+  ** {{desc|bor=1|LL.|beodus|beodis|beudus|beotus|obeodus|ibodus}}
+
+  * {{desc|non|bjóðr}}
+
+  * {{desc|got|𐌱𐌹𐌿𐌸𐍃}}
+
+  * {{desc|fiu-fin-pro|*peütä|bor=1}}
+
+  ** {{desc|fi|pöytä}}
+
+  * {{desc|sla-pro|*bľudo|bor=1}} {{see desc}}, probably via
+  {{cog|got|𐌱𐌹𐌿𐌸𐍃}}

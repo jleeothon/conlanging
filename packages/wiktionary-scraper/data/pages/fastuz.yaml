@@ -1,0 +1,81 @@
+pageid: 3884527
+ns: 118
+title: Reconstruction:Proto-Germanic/fastuz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*fastaz}}, {{l|gem-pro|*fastijaz}}
+
+
+  ===Etymology===
+
+  Connected with {{cog|xcl|հաստ|t=firm, steady, standing still, tough; thick,
+  dense, broad}}, possibly also {{m+|sa|पस्त्य|tr=pastyá|t=stall, stable ←
+  stable habitation|g=n}}, {{m|sa|पस्त्या|tr=pastyā́|gloss=homestead, dwelling,
+  household|g=f}}, and usually derived from
+  {{der|gem-pro|ine-pro||*pastV-|t=solid, stable}}. Kroonen separates the
+  Sanskrit and reconstructs the {{der|gem-pro|ine-pro|-}} root for Armenian and
+  Germanic as {{m|ine-pro||*pHst-}}, according to him from earlier
+  {{m|ine-pro||*ph₂ǵ-sth₂-}}, a compound of {{m|ine-pro|*peh₂ǵ-|gloss=to become
+  firm}} (compare {{cog|grc|πήγνυμι|t=to fasten, fix, make solid}}) and
+  {{m|ine-pro|*steh₂-|gloss=to stand}}.
+
+
+  However, according to Martirosyan “we are hardly dealing with a
+  Proto-Indo-European word,” rather a {{der|gem-pro|qfa-sub}} word shared by
+  Armenian, Germanic, and possibly also Indo-Aryan. See {{m|xcl|հաստ}} for more
+  on this.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸɑs.tuz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[fixed]], [[firm]], [[secure]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*fastanją}}
+
+  * {{l|gem-pro|*fastāną}}
+
+  * {{l|gem-pro|*fastijaną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*fast}}
+
+  * {{desctree|gmw-pro|*fastī}}
+
+  * {{desctree|non|fastr}}
+
+  * {{desc|got|*𐍆𐌰𐍃𐍄𐍃}} {{qualifier|in derivatives}}
+
+  * {{desc|xvn|*fast-}}
+
+
+  ===References===
+
+  * {{R:ine:EIEC|204b}}
+
+  * {{R:xcl:Martirosyan|hast|page=390}}
+
+  * {{R:gem:EDPG|*fastu-|page=138}}

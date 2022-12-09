@@ -1,0 +1,61 @@
+pageid: 2926729
+ns: 118
+title: Reconstruction:Proto-Germanic/knēaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ǵneh₃-}}
+
+  Likely from {{der|gem-pro|ine-pro|*ǵneh₃-||to know}}, the same root as
+  {{m|gem-pro|*kunnaną}}, but the exact mode of derivation is unclear. It may
+  reflect a back-formation from an older {{m|gem-pro||*knō-}}, which could be an
+  original perfective or stative formation.<ref name="EDPG"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈknɛː.ɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name="EDPG">{{R:gem:EDPG|*knēan-|295}}</ref>
+
+
+  # to [[know]], [[recognise]], [[understand]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=7d|knē|keknō|keknō|knē}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*kannijaną}}
+
+  * {{l|gem-pro|*knēdiz}}
+
+  * {{l|gem-pro|*knēiz}}
+
+  * {{l|gem-pro|*kunnaną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*knāan}}
+
+  * {{desc|non|kná|pos=present indicative form}} {{i|a defective verb; present
+  infinitive {{l|non|*knega}} is unattested}}
+
+  ** {{desc|is|knega}}
+
+
+  ===References===
+
+  <references/>

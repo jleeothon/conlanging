@@ -1,0 +1,31 @@
+pageid: 3646148
+ns: 118
+title: Reconstruction:Proto-Germanic/handlōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*handuz|*lōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑnd.lɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to take or hold in the hand, [[seize]], [[grip]]
+
+  ====Inflection====
+  {{gem-conj-wk2|handl}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*handulōn}}
+  * {{desc|non|handla|hǫndla}}
+  ** {{desc|is|höndla}}
+  ** {{desc|nrn|hanjdla}}
+  ** {{desc|fo|handla}}
+  ** {{desc|no|handle}}
+  ** {{desc|gmq-osw|handla}}
+  *** {{desc|sv|handla}}
+  ** {{desc|da|handle}}

@@ -1,0 +1,95 @@
+pageid: 2398735
+ns: 118
+title: Reconstruction:Proto-Germanic/alu
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*h₂elut-}}. Cognate with {{cog|sla-pro|*olъ}},
+  {{cog|xcl|օղի|աւղի}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑ.lu/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}<ref>{{R:gem:EDPG|*aluþ-|23}}</ref>
+
+
+  # {{topics|gem-pro|Alcoholic beverages}} [[beer]], [[ale]]
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*beuzą}}
+
+
+  ====Inflection====
+
+  The nominative singular lacks the final consonant of the stem. This preserves
+  an old sound change from late PIE, where word-final ''*-t'' becomes ''*-d''.
+  According to Grimm's Law, ''*t'' shifted to ''*þ'', and ''*d'' shifted to
+  ''*t''. Following this, word-final ''*-t'' was lost regularly.
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*alu}}
+
+  * {{desc|gmq-pro|ᚨᛚᚢ}}
+
+  ** {{desc|non|ǫl}}
+
+  *** {{desc|is|öl}}
+
+  *** {{desc|fo|øl}}
+
+  *** {{desc|no|øl}}
+
+  *** {{desc|gmq-osw|øl}}
+
+  **** {{desc|sv|öl}}
+
+  *** {{desc|gmq-oda|øl}}
+
+  **** {{desc|da|øl}}
+
+  *** {{desc|ovd|öl}}
+
+  *** {{desc|non-ogt|öl|ööl}}
+
+  **** {{desc|gmq-gut|öl}}
+
+  * {{desc|fiu-fin-pro|*olut|bor=1|unc=1}}
+
+  ** {{desc|et|õlu}}
+
+  ** {{desc|fi|olut}}
+
+  ** {{desc|izh|olut}}
+
+  ** {{desc|krl|olut}}
+
+  ** {{desc|liv|vȯl}}
+
+  ** {{desc|vep|olud}}
+
+  ** {{desc|vot|õlud}}
+
+  * {{desc|lv|alus|bor=1|unc=1}}
+
+  * {{desc|os|ӕлутон|bor=1|unc=1}}
+
+
+  ===References===
+
+  <references/>

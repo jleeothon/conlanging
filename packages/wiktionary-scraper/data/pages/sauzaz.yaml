@@ -1,0 +1,99 @@
+pageid: 3884761
+ns: 118
+title: Reconstruction:Proto-Germanic/sauzaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*sauzijaz}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*h₂sows-|t=dry}}. Cognate with
+  {{cog|lt|sausas|t=dry}}, {{cog|ru|сухо́й|t=dry}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsɑu̯.zɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[dry]], [[parched]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|sauz}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*sauzijaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*sauʀ(ī)}}
+
+  ** {{desc|ang|sēar|sīere}}
+
+  *** {{desc|enm|sere|seer|seere}}
+
+  **** {{desc|en|sere|sear}}
+
+  ** {{desc|osx|*sōr}}
+
+  *** {{desc|gml|sôr}}
+
+  **** {{desc|nds-de|soor}}
+
+  **** {{desc|nds|soor}}
+
+  ** {{desc|odt|*sōr}}
+
+  *** {{desc|dum|sôor}}
+
+  **** {{desc|nl|zoor}}
+
+  ** {{desc|bor=1|ML.|la|alt=saurus|sōrius}}
+
+  *** {{desc|fro|sor}}; {{l|fro|sorrel}}, {{l|fro|surrel}}
+
+  **** {{desc|frm|saur}}; {{l|fro|sorel}}
+
+  ***** {{desc|fr|saur}}
+
+  **** {{desc|enm|sorel|bor=1}}
+
+  ***** {{desc|en|sorrel}}
+
+  *** {{desc|oc|sor|saur}}
+
+  *** {{desc|it|sauro}}
+
+  ** {{desc|goh|*sōr}} (attested in derivatives)
+
+  *** {{desc|gmh|sōr}}
+
+  **** {{desc|de|sohr}}
+
+  * {{desc|non|*saurr}}
+
+  ** {{desc|sv|skör|unc=1}} (with unexplained -k-; possibly an unrelated
+  borrowing from Low German)
+
+  ** {{desc|non|*sauri|g=m|der=1}}; {{l|non|seyra|g=f}}
+
+  *** {{desc|is|seyra|g=f}}
+
+  *** {{desc|no|søyr|g=m}}

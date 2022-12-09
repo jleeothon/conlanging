@@ -1,0 +1,39 @@
+pageid: 4086804
+ns: 118
+title: Reconstruction:Proto-Germanic/stōwō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*steh₂-||to stand, place, put}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[place]], [[location]], [[site]]
+  # [[stowage]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*stōwijaną}}
+  * {{l|gem-pro|*stōwōną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*stōwu}}
+  ** {{desc|ang|stōw|-stōw}}
+  *** {{desc|enm|stowe|stow}}
+  **** {{desc|sco|stow}}
+  **** {{desc|en|stow}}
+  ** {{desc|ofs|stō}}
+  ** {{desc|odt|*stōw|*stuow}} {{i|possibly}}
+  *** {{desc|dum|stouwe|*stoe|*stouw}}
+  **** {{desc|nl|stuw|stouw}}
+  ** {{desc|goh|stuo}} (in compound: {{l|goh|stuotago}})
+  * {{desc|non|stó}}
+  ** {{desc|is|stó}}
+  ** {{desc|no|sto}}
+  ** {{desc|gmq-osw|sto|alt=stō}} (in compounds)
+  * {{desc|got|𐍃𐍄𐌰𐌿𐌰}}

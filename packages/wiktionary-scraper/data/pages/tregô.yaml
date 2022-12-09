@@ -1,0 +1,33 @@
+pageid: 7455402
+ns: 118
+title: Reconstruction:Proto-Germanic/tregô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*dreǵʰ-||to be unwilling, vexed}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtre.ɣɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|*tregōn|409}}</ref>
+
+  # [[grief]], [[pain]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*treganą}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*tregō}}
+  ** {{desctree|ang|treġa}}
+  ** {{desc|odt|trego}}
+  * {{desc|non|tregi}}
+  ** {{desc|is|tregi}}
+
+  ===References===
+  <references/>

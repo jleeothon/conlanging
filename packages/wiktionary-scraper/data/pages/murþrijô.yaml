@@ -1,0 +1,28 @@
+pageid: 4696750
+ns: 118
+title: Reconstruction:Proto-Germanic/murþrijô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*mer-|id=die}}
+  From {{suffix|gem-pro|*murþrijaną|t1=to murder|*-jô|alt2=*-ijô}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmur.θri.jɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[murderer]]
+  # [[homicide]]
+
+  ====Inflection====
+  {{gem-decl-noun-n-m|murþr|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*murþrijō}}
+  ** {{desc|ang|myrþra}}
+  ** {{desc|goh|murdreo|murdiro}} (possibly attested once as {{m|goh||myrdhra}})
+  * {{desc|got|*𐌼𐌰𐌿𐍂𐌸𐍂𐌾𐌰|𐌼𐌰𐌽𐌰𐌼𐌰𐌿𐍂𐌸𐍂𐌾𐌰}}

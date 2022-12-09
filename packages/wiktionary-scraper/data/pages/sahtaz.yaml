@@ -1,0 +1,37 @@
+pageid: 7476254
+ns: 118
+title: Reconstruction:Proto-Germanic/sahtaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*seh₂g-||to follow after, pursue, track, seek}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑx.tɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*saxtaz|312}}</ref>
+
+  # having [[quarreled]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sakaną}}
+  * {{l|gem-pro|*sakō}}
+  * {{l|gem-pro|*sahtiz}}
+  * {{l|gem-pro|*sōkijaną}}
+
+  ====Descendants====
+  * {{desc|non|sáttr}}
+  ** {{desc|is|sáttur}}
+  ** {{desc|gmq-osw|satter}}
+  *** {{desc|sv|såt}}
+  * {{desc|got|*𐍃𐌰𐌷𐍄𐍃}}
+  ** {{desc|got|𐌿𐌽𐍃𐌰𐌷𐍄𐌰𐌱𐌰|der=1}}
+
+  ===References===
+  <references/>

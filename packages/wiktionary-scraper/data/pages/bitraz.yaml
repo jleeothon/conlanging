@@ -1,0 +1,66 @@
+pageid: 2719484
+ns: 118
+title: Reconstruction:Proto-Germanic/bitraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰeyd-}}
+
+  From pre-Germanic {{m|ine-pro||*bʰidrós|biting, splitting}}, equivalent to
+  {{m|gem-pro|*bītaną}}
+  {{suffix|gem-pro||*raz}}.<ref>{{R:gem:EDPG|*bitra-|page=66}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbit.rɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[bitter]]
+
+  #: {{syn|gem-pro|*baitraz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|bitr}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*baitraz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*bit(t)r}}
+
+  * {{desc|non|bitr}}
+
+  ** {{desc|is|bitur}}
+
+  ** {{desc|fo|bitur}}
+
+  ** {{desc|gmq-osw|biter|bitter|beter}}
+
+  *** {{desc|sv|bitter}} (under Low German influence)
+
+  ** {{desc|da|biderhvas}} (compound with {{m|gem-pro|*hwassaz}})
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Taste}}

@@ -1,0 +1,28 @@
+pageid: 4991474
+ns: 118
+title: Reconstruction:Proto-Germanic/airō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Possibly from {{der|gem-pro|ine-pro|*h₃eyH-||pole}}.<ref name="EDPG"/>
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="EDPG">{{R:gem:EDPG|*airō-|13}}</ref>
+
+  # [[oar]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*airu|id=oar}}
+  * {{desctree|non|ár}}
+  * {{desc|fiu-fin-pro|*airo|bor=1}} {{see desc}}
+  * {{desc|smi-pro|*ājrō|bor=1}} {{see desc}}
+
+  ===References===
+  <references/>
+
+  [[Category:gem-pro:Rowing]]

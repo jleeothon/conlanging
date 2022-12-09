@@ -1,0 +1,30 @@
+pageid: 6024977
+ns: 118
+title: Reconstruction:Proto-Germanic/ungalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*un|*galīkaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈun.ɣɑ.liː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[different]], [[unlike]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|ungalīk}}
+
+  ====Descendants====
+  * {{desctree|ang|unġelīċ}}
+  * {{desc|odt|ungilīk}}
+  ** {{desc|dum|ongelijc}}
+  *** {{desc|nl|ongelijk}}
+  * {{desc|goh|ungilīh}}
+  ** {{desc|gmh|ungelīch}}
+  *** {{desc|de|ungleich}}
+  * {{desctree|non|úlíkr}}

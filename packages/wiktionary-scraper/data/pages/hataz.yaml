@@ -1,0 +1,36 @@
+pageid: 2862570
+ns: 118
+title: Reconstruction:Proto-Germanic/hataz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ḱeh₂d-}}
+  From {{der|gem-pro|ine-pro|*ḱeh₂d-||strong emotion}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑ.tɑz/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[hate]]
+
+  ====Inflection====
+  {{gem-decl-noun|stem=z}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hatāną}}
+  * {{l|gem-pro|*hatjaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hati|g=m}}
+  * {{desc|non|hatr}}
+  ** {{desc|is|hatur}}
+  ** {{desc|fo|hatur}}
+  ** {{desc|no|hat}}
+  ** {{desc|gmq-osw|hat}}
+  *** {{desc|sv|hat}}
+  ** {{desc|da|had}}
+  * {{desc|got|𐌷𐌰𐍄𐌹𐍃}}

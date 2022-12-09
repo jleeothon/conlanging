@@ -1,0 +1,26 @@
+pageid: 2635025
+ns: 118
+title: Reconstruction:Proto-Germanic/wagjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weǵʰ-}}
+  From {{affix|gem-pro|*weganą|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑɣ.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[move]] around, to [[shake]]
+  # to [[agitate]], to [[stir]] up
+
+  ====Inflection====
+  {{gem-conj-wk1|wag|j=j}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*waggjan}}
+  * {{desc|got|𐍅𐌰𐌲𐌾𐌰𐌽}}

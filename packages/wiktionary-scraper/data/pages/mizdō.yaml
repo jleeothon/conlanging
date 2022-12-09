@@ -1,0 +1,24 @@
+pageid: 2948220
+ns: 118
+title: Reconstruction:Proto-Germanic/mizdō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*misdʰós|*misdʰéh₂|t=reward}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmiz.dɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[reward]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*miʀdu}}
+  * {{desc|got|𐌼𐌹𐌶𐌳𐍉}}

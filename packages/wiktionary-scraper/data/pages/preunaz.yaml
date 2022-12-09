@@ -1,0 +1,89 @@
+pageid: 6858159
+ns: 118
+title: Reconstruction:Proto-Germanic/preunaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Possibly from earlier {{m|gem-pro|*preuhmō}}, genitive
+  {{m|gem-pro|*preuhnaz}}, from {{m|gem-pro|*bréuk-mōn}},
+  {{m|gem-pro|*bréuk-(m)n-os}}, from {{der|gem-pro|ine-pro|*bʰruḱ-}}, related to
+  {{cog|bg|бръсна||to shave}}, {{cog|lt|brukti||to
+  prod}}.<ref>{{R:gem:EDPG|preuna(n)-|399}}</ref>
+
+
+  Alternatively, from {{cog|ine-pro|*brewn-}}, related to
+  {{cog|lt|briaunà||edge}}, {{cog|sq|brez||belt,
+  girdle}}.<ref>{{R:sq:Orel|page=36}}</ref><ref>Vladimir Orel, ''A Handbook of
+  Germanic Etymology'' (Leiden: Brill, 2003), 293.</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈpreu̯.nɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[knitting needle]]
+
+  # [[pin]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|prēon}}
+
+  ** {{desc|enm|pren}}
+
+  *** {{desc|en|preen}}
+
+  *** {{desc|sco|preen}}
+
+  * {{desc|osx|-}}
+
+  ** {{desc|gml|-}}
+
+  *** {{desc|nds|Preem}}
+
+  * {{desc|odt|-}}
+
+  ** {{desc|dum|priem}}
+
+  *** {{desc|nl|priem}}
+
+  * {{desc|goh|-}}
+
+  ** {{desc|gmh|pfrieme}}
+
+  *** {{desc|de|Pfriem}}
+
+  * {{desc|non|prjónn}}
+
+  ** {{desc|is|prjónn}}
+
+  ** {{desc|fo|prónur}}
+
+  ** {{desc|no|prjone}}
+
+  ** {{desc|da|pryne}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Tools}}

@@ -1,0 +1,27 @@
+pageid: 4036192
+ns: 118
+title: Reconstruction:Proto-Germanic/falhuz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*felhaną|gloss=to hide, to conceal}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[pipe]], [[tube]], [[conduit]]
+  #: {{syn|gem-pro|*dulją}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|fealh}}
+  * {{desc|non|falr}}
+  ** {{desc|is|falur}}
+  ** {{desc|fo|falur}}
+  ** {{desc|no|fal}}
+  ** {{desc|gmq-osw|fal}} ''(in compounds)''
+  *** {{desc|sv|fal}}

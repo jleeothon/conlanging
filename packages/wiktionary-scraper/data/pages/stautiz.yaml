@@ -1,0 +1,37 @@
+pageid: 7544620
+ns: 118
+title: Reconstruction:Proto-Germanic/stautiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)tewd-|t=to push, to hit}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɑu̯.tiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[push]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*stautijaną}}
+  * {{l|gem-pro|*stautōną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*stautaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*stauti}}
+  * {{desc|non|steytr}}
+  ** {{desc|is|steytur}}
+  ** {{desc|fo|stoytur}}
+  ** {{desc|nn|støyt}}
+  ** {{desc|nb|støt}}
+  ** {{desc|sv|stöt}}
+  ** {{desc|da|stød}}

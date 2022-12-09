@@ -1,0 +1,29 @@
+pageid: 7420976
+ns: 118
+title: Reconstruction:Proto-Germanic/landabūwô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*landą|*būwô|t1=land|t2=dweller}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑn.dɑ.ˌbu.wɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:HGE|*landa-būwōn|235}}</ref>
+
+  # [[inhabitant]], [[countryman]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*landabūwō}}
+  ** {{desc|goh|lantbūo|lantbūwo}}
+  * {{desc|non|landbúi}}
+  ** {{desc|is|landbúi}}
+
+  ===References===
+  <references/>

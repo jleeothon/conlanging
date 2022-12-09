@@ -1,0 +1,41 @@
+pageid: 6895763
+ns: 118
+title: Reconstruction:Proto-Germanic/bibindaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰendʰ-}}
+  From {{prefix|gem-pro|*bi-|*bindaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/bi.ˈbin.dɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # To [[bind]] [[in]] or [[about]]
+  # to [[bind up]], [[bind]] [[around]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|bibind|biband|bibund|bibund}}
+
+  ====Related terms====
+  * {{l|gem-pro|*bandiz}}
+  * {{l|gem-pro|*bindō}}
+  * {{l|gem-pro|*bindǭ}}
+  * {{l|gem-pro|*andabindaną}}
+  * {{l|gem-pro|*bindaną}}
+  * {{l|gem-pro|*gabindaną}}
+
+  ====Descendants====
+  * {{desc|ang|bebindan}}
+  * {{desc|ofs|bibinda}}
+  * {{desc|odt|*bibindan}}
+  ** {{desc|dum|bebinden}}
+  *** {{desc|nl|bebinden}}
+  * {{desc|goh|bibintan}}
+  ** {{desc|gmh|bebinden}}
+  *** {{desc|de|bebinden}}
+  * {{desc|got|𐌱𐌹𐌱𐌹𐌽𐌳𐌰𐌽}}

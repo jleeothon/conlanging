@@ -1,0 +1,86 @@
+pageid: 2897703
+ns: 118
+title: Reconstruction:Proto-Germanic/-ōzô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ɔː.zɔːː/}}
+
+
+  ===Adjective===
+
+  {{gem-adj||*-ōstaz|adv=*-ōz}}
+
+
+  # [[-er]]. {{non-gloss definition|Forms the comparative of certain
+  adjectives.}}
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-anin|-ōz}}
+
+
+  ====Usage notes====
+
+  This suffix was only used for regular a-stem adjectives, which sometimes used
+  this suffix, but sometimes the related suffix {{m|gem-pro|*-izô}} without any
+  predictable rule. This suffix was never used for i-, u- and ja-stem
+  adjectives.
+
+
+  ====Derived terms====
+
+  {{derivsee|Proto-Germanic comparative adjectives}}
+
+  {{suffixsee|gem-pro}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|}}
+
+  ** {{desc|ang|-ora}}
+
+  *** {{desc|enm|}}
+
+  **** {{desc|en|-er}}
+
+  ** {{desc|ofs|-ora}}
+
+  *** {{desc|fy|-er}}
+
+  ** {{desc|osx|-oro}}
+
+  ** {{desc|odt|*-oro}}
+
+  *** {{desc|dum|-er}}
+
+  **** {{desc|nl|-er}}
+
+  ** {{desc|goh|-oro}}
+
+  *** {{desc|de|-er}}
+
+  * {{desc|gmq-pro|}}
+
+  ** {{desc|non|-ari}}
+
+  *** {{desc|is|-ari}}
+
+  *** {{desc|fo|-ari}}
+
+  *** {{desc|no|-ere}}
+
+  *** {{desc|sv|-are}}
+
+  *** {{desc|da|-ere}}
+
+  *** {{desc|gmq-bot|-ane|-änä}}
+
+  * {{desc|got|-𐍉𐌶𐌰}}

@@ -1,0 +1,81 @@
+pageid: 4719693
+ns: 118
+title: Reconstruction:Proto-Germanic/bruzdaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  A {{glossary|zero-grade}} variant of {{m|gem-pro|*brazdą|*brazdaz|edge,
+  brim}}, probably from {{der|gem-pro|ine-pro||*bʰros-dʰ(h₁)-o-}}, from the root
+  {{m|ine-pro|*bʰers-||top, point}}.<ref name="EDPG"/> Cognate with
+  {{cog|sga|brot||goad, spike}}.<ref>{{R:gem:EDPG|*brazda-|74}}</ref>
+
+
+  May be (along with related terms) from an original ''n''-stem
+  {{m|gem-pro||*brezdô ~ *burzdiniz}}, in view of the ablaut.<ref name="Kroonen
+  2011">{{R:gem:Kroonen:2011|head=*''brezdo'', *''burzdeni'' ‘edge,
+  board’|page=149|passage=*''bruzda(n)-''}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbruz.dɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="EDPG">{{R:gem:EDPG|*bruzda-|81}}</ref>
+
+
+  # [[point]], [[spike]], [[thorn]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*bruzdijaną}}
+
+  * {{l|gem-pro|*bruzdōną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*barzdą||edge, prow}}, ? {{l|gem-pro|*bardaz|*bar(z)daz|beard}}
+
+  * {{l|gem-pro|*brezdô}} ~ {{l|gem-pro|*brezdaz||edge, side}}
+
+  * {{l|gem-pro|*burdą|*bur(z)dą}}, {{l|gem-pro|*bredą||edge; board, plank}}<ref
+  name="Kroonen 2011"/>
+
+  * ? {{l|gem-pro|*burdô|*bur(z)dô}}<ref name="Kroonen 2011"/>
+
+  ** {{desc|gmw-pro|*bordō|alt=*bor(ʀ)dō}}
+
+  ** {{desc|non|borði|t=tapestry}}
+
+  *** {{desc|is|borði}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*broʀd}}
+
+  * {{desctree|non|broddr}}
+
+
+  ===References===
+
+  <references/>
+
+
+  ====Further reading====
+
+  * {{R:OED}}

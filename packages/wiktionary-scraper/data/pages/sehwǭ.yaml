@@ -1,0 +1,36 @@
+pageid: 7594232
+ns: 118
+title: Reconstruction:Proto-Germanic/sehwǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*sehwō}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*sekʷ-|t=to see, notice}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈse.xʷɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[seeing]], [[sight]]
+  # {{lb|gem-pro|anatomy}} [[eyeball]], [[pupil]]
+
+  ====Declension====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sehwaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sehwā}}
+  * {{desc|non|*sjá}}
+  ** {{desc|non|ásjá|der=1}}
+  *** {{desc|is|ásjá}}
+  ** {{desc|non|skuggsjá|der=1}}
+  ** {{desc|non|umsjá|der=1}}
+  *** {{desc|is|umsjá}}

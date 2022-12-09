@@ -1,0 +1,31 @@
+pageid: 3630280
+ns: 118
+title: Reconstruction:Proto-Germanic/nabōgaizaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₃nebʰ-}}
+  From {{compound|gem-pro|*nabō|t1=nave|*gaizaz|t2=spear}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈnɑ.βɔːˌɣɑi̯.zɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Tools}} [[auger]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*nabugaiʀ}}
+  * {{desc|gmq-pro|*ᚾᚨᛒᛟᚷᚨᛁᛉᚨᛉ}}
+  ** {{desctree|non|nafarr}}
+  ** → Finnic:
+  *** {{desc|fi|napakaira}}
+
+  ====Further reading====
+  * {{R:sla:Pronk-Tiethoff 2013}}

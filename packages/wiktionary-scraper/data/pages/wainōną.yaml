@@ -1,0 +1,52 @@
+pageid: 2658567
+ns: 118
+title: Reconstruction:Proto-Germanic/wainōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*wai|*inōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑi̯.nɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[cry]], to [[lament]], to [[grieve]]
+
+  ====Inflection====
+  {{gem-conj-wk2|wain}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*kwainōną}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*wainōniz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wai}}
+  * {{l|gem-pro|*wainagaz}}
+
+  ====Descendants====
+  * {{desc|ang|wānian}}
+  ** {{desc|enm|wanien|weinen|wonien}}
+  *** {{desc|sco|ween}}
+  *** {{desc|en|ween}} (Northern England)
+  * {{desc|ofs|wēnia|wainia|weinia}}
+  ** {{desc|frr|weynen}}
+  ** {{desc|fy|weine}}
+  * {{desc|osx|wēnon|weinōn}}
+  ** {{desc|gml|wēnen|weinen}}
+  *** {{desc|nds-de|wenen}}
+  *** {{desc|nds|weynen}}
+  * {{desctree|odt|wēnon}}
+  * {{desc|goh|weinōn}}
+  ** {{desc|gmh|weinen}}
+  *** {{desc|de|weinen}}
+  * {{desc|non|veina}}
+  ** {{desc|is|veina}}
+  ** {{desc|gmq-osw|vēna}}
+
+  {{topics|gem-pro|Emotions}}

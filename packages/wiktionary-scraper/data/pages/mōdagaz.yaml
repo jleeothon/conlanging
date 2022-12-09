@@ -1,0 +1,32 @@
+pageid: 7020643
+ns: 118
+title: Reconstruction:Proto-Germanic/mōdagaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*mōdaz|t1=mind; courage; zeal|*gaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɔː.ðɑ.ɣɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[brave]]; [[courageous]]
+  # [[bold]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|mōdag}}
+
+  ====Related terms====
+  * {{l|gem-pro|*mōdaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*mōdag}}
+  * {{desc|non|móðigr|móðugr}}
+  ** {{desc|da|modig}}
+  ** {{desc|no|modig}}
+  ** {{desc|sv|modig}}
+  * {{desc|got|𐌼𐍉𐌳𐌰𐌲𐍃}}

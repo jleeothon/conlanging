@@ -1,0 +1,35 @@
+pageid: 7169736
+ns: 118
+title: Reconstruction:Proto-Germanic/gasōkijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*seh₂g-}}
+  From {{af|gem-pro|*ga-|*sōkijaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɣɑ.ˈsɔː.ki.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[seek]] thoroughly for; [[quest]] for; [[seek out]]
+  # to [[research]]; [[try]]; [[test]]; [[prove]]
+  # to [[expect]]; [[demand]]
+  # to [[get]]; [[obtain]]; [[acquire]]
+
+  ====Inflection====
+  {{gem-conj-wk1-j|gasōk|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|ġesœ̄ċan|ġesēċan}}
+  ** {{desc|enm|ȝesechen|isechen}}
+  * {{desc|osx|gisōkian}}
+  * {{desc|odt|*gisuoken|*gisōken}}
+  ** {{desc|dum|gesoeken}}
+  * {{desc|goh|gisuohhen|gisuochen}}
+  ** {{desc|gmh|gesuochen}}
+  *** {{desc|de|gesuchen}}
+  * {{desc|got|𐌲𐌰𐍃𐍉𐌺𐌾𐌰𐌽}}

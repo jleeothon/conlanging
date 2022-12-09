@@ -1,0 +1,36 @@
+pageid: 4710975
+ns: 118
+title: Reconstruction:Proto-Germanic/abahandijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*aba|*handuz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑ.βɑ.ˌxɑn.di.jɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # out of one's hand, [[lost]] to one
+
+  ====Inflection====
+  {{gem-decl-adj-a|abahand|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*abahandī}}
+  ** {{desc|ang|ofhende}}
+  *** {{desc|enm|*ofhende|*ofhande}}
+  **** {{desc|en|offhand}}
+  **** {{desc|sco|affhand}}
+  ** {{desc|goh|*abahendi}}
+  *** {{desc|goh|*abahendīg|der=1}}
+  **** {{desc|gmh|abehendic|abhendic}}
+  ***** ({{desc|de|abhanden}})
+  * {{desc|non|afhendr}}
+  ** {{desc|is|afhendur}}
+  ** {{desc|gmq-osw|afhænda|unc=1}}
+  *** {{desc|sv|avhända}}
+  ** {{desc|fo|avhending|der=1|unc=1}}

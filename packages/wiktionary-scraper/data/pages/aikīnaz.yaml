@@ -1,0 +1,27 @@
+pageid: 4071608
+ns: 118
+title: Reconstruction:Proto-Germanic/aikīnaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*aiks|*īnaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɑi̯.kiː.nɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[oaken]], made of [[oak]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|aikīn}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*aikīn}}
+  * {{desc|non|eikinn}}
+  ** {{desc|is|eikinn}}
+  ** {{desc|fo|eikin}}
+  ** {{desc|sv|eken}}

@@ -1,0 +1,75 @@
+pageid: 3862691
+ns: 118
+title: Reconstruction:Proto-Germanic/frastandaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*farstandaną}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*steh₂-}}
+
+  From {{prefix|gem-pro|*fra|*standaną|pos=verb}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˌɸrɑ.ˈstɑn.dɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[oppose]]
+
+  # to [[understand]]
+
+
+  ====Inflection====
+
+  Present tense with n-infix. The past tense forms are shared with the
+  synonymous suppletive verb {{m|gem-pro|*frastāną}}.
+
+  {{gem-conj-st|class=6|frastand|frastōþ|frastōd|frastad}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*fraþjaną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*frastāną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*frastandan}}
+
+  ** {{desc|ang|forstandan}}
+
+  *** {{desc|enm|forstanden}}
+
+  **** {{desc|sco|forstand}}
+
+  **** {{desc|en|forstand}}
+
+  ** {{desc|ofs|forstanda|forstonda}}
+
+  *** {{desc|stq|ferstounde}}
+
+  ** {{desc|osx|farstandan}}
+
+  *** {{desc|gml|vörstenden}}
+
+  ** {{desc|goh|firstantan}}

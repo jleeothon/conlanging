@@ -1,0 +1,48 @@
+pageid: 6507276
+ns: 118
+title: Reconstruction:Proto-Germanic/fun-
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*pen-|t=bog, mire}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸun-/}}
+
+  ===Noun===
+  {{gem-noun|?}}
+
+  # {{non-gloss definition|Stem meaning [[moisture]], [[mould]], [[mildew]]}}
+
+  ====Related terms====
+  * {{l|gem-pro|*fanją}}
+
+  ====Descendants====
+  * {{desc|ang|fyne}} (< {{m|gem-pro|*funiz}}?)
+  ** {{desc|enm|*fine}} {{q|Kentish {{m|enm|*vene}}}}
+  *** {{desc|en|fen}}; {{l|en|finew}}
+  ** {{desc|ang|fyniġ|der=1}}
+  *** {{desc|enm|*finy|*viny}}
+  **** {{desc|en|vinny}}; {{l|en|vinney}}
+  ** {{desc|ang|fynegian|der=1}}
+  *** {{desc|enm|*fenowen|*vinewen|vynyen}}
+  **** {{desc|enm|yvyned|der=1}}
+  ***** {{desc|en|fenowed}} {{q|obsolete}}
+  ** {{desc|ang|fyniht|der=1}}
+  * {{desc|ofs|*fene|*fune}}
+  ** {{desc|fy|vunsterig|der=1}}
+  * {{desc|osx|*funi}}
+  ** {{desc|osx|*funisk|der=1}}
+  *** {{desc|gml|*vunsch}}
+  **** {{desc|nds|vunsch}}
+  * {{desc|odt|*funi}}
+  ** {{desc|odt|*funisk|der=1}}
+  *** {{desc|dum|vunsc|vunsch|vuyns}}
+  **** {{desc|nl|vuns}}
+  ***** {{desc|nl|vunzig|der=1}}
+  ** {{desc|dum|vunst|der=1}}
+  *** {{desc|dum|vunstich|der=1}}
+  * {{desc|non|fúna|der=1|pos=verb}}
+  ** {{desc|is|fúna}}

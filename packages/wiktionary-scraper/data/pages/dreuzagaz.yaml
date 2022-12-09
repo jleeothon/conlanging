@@ -1,0 +1,72 @@
+pageid: 5217453
+ns: 118
+title: Reconstruction:Proto-Germanic/dreuzagaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*dreuzaz|t1=liquid; blood|*gaz}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdreu̯.zɑ.ɣɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[bloody]]; [[gory]]
+
+  # [[sad]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|dreuzag}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*drauzijaną||to throw down; bleed}}
+
+  * {{l|gem-pro|*drūsijaną||to look down; mourn}}
+
+
+  ====Descendants====
+
+  This root appears to have become crossed with descendants of
+  {{m|gem-pro|*drūsijaną|t=to look down; mourn}}.
+
+
+  * {{desctree|ang|drēoriġ}}
+
+  * {{desc|osx|drōrag|unc=1}}
+
+  * {{desc|goh|trūrag|trūreg}}; ({{l|goh|*trourig}}?)
+
+  ** {{desc|gmh|trūrec}}; ({{l|gmh|trōric}}?)
+
+  *** {{desc|de|traurig}}
+
+  *** {{desc|yi|טרויעריק}}
+
+  *** {{desc|bor=1|dum|truerich}}
+
+  **** {{desc|nl|treurig}}
+
+  *** {{desc|bor=1|gml|trūrich}}
+
+  **** {{desc|nds-de|trürig}}
+
+  **** {{desc|bor=1|stq|truurich}}
+
+  * {{desc|non|dreyrigr|dreyrugr}}
+
+  ** {{desc|is|dreyrugur}}

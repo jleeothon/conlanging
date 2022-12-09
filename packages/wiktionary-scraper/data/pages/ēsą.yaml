@@ -1,0 +1,83 @@
+pageid: 2947700
+ns: 118
+title: Reconstruction:Proto-Germanic/ēsą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*ēsaz}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₁ed-}}
+
+  From {{der|gem-pro|ine-pro|*h₁ēdsto-||eaten}}. Related to
+  {{m|gem-pro|*etaną}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɛː.sɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[food]], [[carrion]]
+
+  # [[prey]]; [[bait]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|ǣs}}
+
+  ** {{desc|enm|ēs|hes}}
+
+  *** {{desc|en|yess|iss|easse}}; {{l|en|eaceworm}}
+
+  * {{desc|ofs|ēs}}
+
+  ** {{desc|stq|Oas}}; {{l|stq|Äise}}
+
+  ** {{desc|fy|ies}}
+
+  * {{desc|osx|ās}} (found in {{l|osx|angulās}})
+
+  ** {{desc|gml|âs}}
+
+  *** {{desc|nds-de|Aas}}
+
+  *** {{desc|da|ås|bor=1}}
+
+  *** {{desc|sv|as|bor=1}}
+
+  * {{desc|odt|*ās}}
+
+  ** {{desc|dum|aes}}
+
+  *** {{desc|nl|aas}}
+
+  **** {{desc|af|aas}}
+
+  **** {{desc|fy|aas|bor=1}}
+
+  * {{desc|goh|ās}}
+
+  ** {{desc|gmh|ās}}
+
+  *** {{desc|de|Aas}} (merged with {{m+|gmh|āz}}, from {{m+|gem-pro|*ētą}})
+
+  *** {{desc|hrx|Ooz}}

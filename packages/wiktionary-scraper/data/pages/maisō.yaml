@@ -1,0 +1,54 @@
+pageid: 8999760
+ns: 118
+title: Reconstruction:Proto-Germanic/maisō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*maijō|*maisijō}}
+
+  * {{alt|gem-pro|*maisaz||m}}
+
+
+  ===Etymology===
+
+  {{unk|gem-pro|title=Uncertain}}. Possibly from {{m|gem-pro|*maisaz|t=sheepskin
+  sheath}}, from {{der|gem-pro|ine-pro|*moysós|t=sheep, sheepskin, fleece,
+  hose}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmai̯.sɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # fleece [[satchel]] or [[backpack]]
+
+  # [[container]], [[vessel]], [[basket]], [[crate]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun-o-f|mais}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*maisu}}
+
+  * {{desc|non|meiss|g=m}} (< {{m|gem-pro|*maisaz}})
+
+  ** {{desc|fo|meis}}
+
+  ** {{desc|no|meis}}
+
+  *** {{desc|sco|mesgar|der=1|bor=1}}

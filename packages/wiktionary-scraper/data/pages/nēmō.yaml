@@ -1,0 +1,71 @@
+pageid: 6017043
+ns: 118
+title: Reconstruction:Proto-Germanic/nēmō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*nem-}}
+
+  The functional o-grade ō-stem derived from {{m|gem-pro|*nemaną}}. ''**namō''
+  would normally be expected, but class 4 and 5 strong verbs show some tendency
+  to use -ē- in places where o-grade -a- is expected.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈnɛː.mɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[taking]], [[acceptance]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*nēmą}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|nǣm}}; {{l|ang|nām}} {{i|''nām'' possibly influenced by or
+  borrowed from Old Norse}}
+
+  ** {{desc|enm|nam|naam}}
+
+  *** {{desc|en|naam}}
+
+  * {{desc|ofs|nōme}}
+
+  ** {{desc|ofs|ofnōme|der=1}}
+
+  * {{desc|osx|*nāma}}
+
+  ** {{desc|gml|nâme}}
+
+  *** {{desc|gml|innâme|der=1}}
+
+  *** {{desc|gml|ervenâme|der=1}}
+
+  * {{desc|goh|nāma}}
+
+  ** {{desc|gmh|nāme|nām}}
+
+  *** {{desc|de|Nahme}} {{q|archaic}}
+
+  *** {{desc|der=1|gmh|innāme|īnnāme}}
+
+  **** {{desc|de|Einnahme}}

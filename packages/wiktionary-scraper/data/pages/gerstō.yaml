@@ -1,0 +1,63 @@
+pageid: 7704064
+ns: 118
+title: Reconstruction:Proto-Germanic/gerstō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ǵʰersd-}}
+
+  From virtual {{der|gem-pro|ine-pro||*gʰersd-eh₂}}, from
+  {{m|ine-pro|*ǵʰersd-}}. Cognate with {{cog|la|hordeum|t=barley}},
+  {{cog|grc|κριθή|t=barley}}, {{cog|hy|գարի|t=wheat}}, {{cog|sq|drithë|t=cereal,
+  grain}}.<ref
+  name="EDPG">{{R:gem:EDPG|*gerstō-|306}}</ref><ref>{{R:EWddS|ed=22|hw=Gerste|260|passage=*gerstō}}</ref>
+  However, given the irregular sound correspondences (especially the Greek,
+  which requires a root of the shape {{m|ine-pro||*ǵʰreydʰ-}}), probably of
+  non-Indo-European {{der|gem-pro|qfa-sub}}<ref name="EDPG"/> or
+  {{glossary|Wanderwort}}<ref>{{R:sq:Demiraj|head=drithë|page=145}}</ref><ref>{{R:grc:EDG|779|κριθή}}</ref>
+  origin. If indeed Indo-European in origin, the root would seem to be
+  {{m|ine-pro|*ǵʰers-||to be stiff}} (compare {{cog|sa|हर्षति|tr=hárṣati||to
+  bristle}}) with some extension {{m|ine-pro||*-D-}}. For the semantics, compare
+  the synonym {{m|gem-pro|*baraz||barley”; originally “spiky leaves”, “awn}},
+  apparently from {{m|ine-pro|*bʰers-||sharp point, tip, top}}. Contrast
+  {{m|gem-pro|*hirsijô||millet}} ({{noncog|non|hirsi}}, {{noncog|goh|hirso}}).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣer.stɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # {{topics|gem-pro|Agriculture|Hordeeae tribe grasses|Grains}} [[barley]]
+
+  #: {{syn|gem-pro|*baraz|*barizaz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*gurstaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*gerstu}}
+
+
+  ===References===
+
+  <references/>

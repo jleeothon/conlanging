@@ -1,0 +1,94 @@
+pageid: 2602963
+ns: 118
+title: Reconstruction:Proto-Germanic/armaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑr.mɑz/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*h₂er-}}
+
+  From {{inh|gem-pro|ine-pro|*h₂érmos}}, {{m|ine-pro||*h₂ŕ̥mos}}, from the root
+  {{m|ine-pro|*h₂er-}}.
+
+
+  ====Noun====
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*arma- 1|35}}</ref>
+
+
+  # {{senseid|gem-pro|arm}} {{topics|gem-pro|Body parts}} [[arm]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*arm|id=arm}}
+
+  * {{desctree|non|armr|id=arm}}
+
+  * {{desc|got|𐌰𐍂𐌼𐍃}}
+
+
+  ===Etymology 2===
+
+  From {{inh|gem-pro|ine-pro|*h₁erm-||poor, ill}}. Cognate with
+  {{cog|hit|𒅕𒈠𒀭||sickness|tr=erman}}. Alternatively<ref name="EDPG 2"/>, from
+  Pre-Germanic {{m|ine-pro||*h₃orbʰmos}}, with loss of -b- before -m-, from
+  {{der|gem-pro|ine-pro|*h₃erbʰ-}}, whence English {{m|en|orphan}}. Compare the
+  Norse variant {{m|non|aumr}}, as from {{m|gem-pro||*arbmaz}} with no loss of
+  -b-, which mirrors the dissimilation of {{cog|non|haustr}} from
+  {{m|gem-pro|*harbistaz}}.
+
+
+  ====Adjective====
+
+  {{gem-adj|*armōzô|*armōstaz}}<ref name="EDPG 2">{{R:gem:EDPG|*arma-
+  2|35}}</ref>
+
+
+  # {{senseid|gem-pro|poor}} [[poor]], [[miserable]]
+
+  # [[pitiful]], [[pitiable]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-adj-a|arm}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*armāną}}
+
+  * {{l|gem-pro|*armijaną}}
+
+  * {{l|gem-pro|*armōdiją}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*arm|id=poor}}
+
+  * {{desctree|non|armr|id=poor}}
+
+  * {{desc|got|𐌰𐍂𐌼𐍃}}
+
+  * {{desc|bor=1|fiu-fin-pro|*armas|*armo}}
+
+
+  ===References===
+
+  <references/>

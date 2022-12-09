@@ -1,0 +1,27 @@
+pageid: 6899859
+ns: 118
+title: Reconstruction:Proto-Germanic/Eutalandą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{compound|gem-pro|*eutaz|*landą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈeu̯.tɑ.lɑn.dɑ̃/}}
+
+  ===Proper noun===
+  {{gem-noun|n}}
+
+  # {{place|gem-pro|peninsula|in northwestern|cont/Europe|t=Jutland}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Eutaland}}
+  ** {{desc|ang|Ēotaland}}
+  * {{desctree|non|Jótland}}
+  ** {{desc|nl|Jutland|bor=1}}
+  ** {{desc|en|Jutland|bor=1}}
+  ** {{desc|de|Jütland|bor=1}}
+  ** {{desc|nds|Jötlann|bor=1}}
+  ** {{desc|nds-de|Jüütland|bor=1}}

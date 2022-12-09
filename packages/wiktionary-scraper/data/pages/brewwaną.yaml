@@ -1,0 +1,74 @@
+pageid: 2618848
+ns: 118
+title: Reconstruction:Proto-Germanic/brewwaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰrewh₁-}}
+
+  From {{der|gem-pro|ine-pro|*bʰrewh₁-}}, related to
+  {{cog|grc|ἀπέφρυσεν||brewed}}.<ref
+  name='Kroonen'>{{R:gem:EDPG|*brewwan-|76}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbrew.wɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref
+  name='Kroonen'></ref><ref>{{R:gem:HGE|*brewwanan|page=56}}</ref>
+
+
+  # to [[brew]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=2|breww|brau(w)|bruw|bruw}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*bruþą}}
+
+  * {{l|gem-pro|*braudą}} {{q|possibly}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*breuwan}}
+
+  * {{desc|non|*bryggja|pos=strong verb}} (attested in {{l|non|brugginn|pos=past
+  participle}}); {{l|non|brugga|pos=weak verb}}
+
+  ** {{desc|is|brugga}}
+
+  ** {{desc|fo|bryggja}}
+
+  ** {{desctree|gmq-mno|bryggja}}
+
+  ** {{desc|gmq-osw|bryggia}}
+
+  *** {{desc|sv|brygga}}
+
+  ** {{desc|da|brygge}}
+
+  *** {{desc|nb|brygge}}
+
+  ** {{desc|gmq-bot|bryyidj|bruuidj|breeidj}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Food and drink}}

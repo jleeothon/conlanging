@@ -1,0 +1,99 @@
+pageid: 2825240
+ns: 118
+title: Reconstruction:Proto-Germanic/karō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkɑ.rɔː/}}
+
+
+  ===Etymology 1===
+
+  From Pre-Germanic {{m|ine-pro||*ǵh̥₂reh₂}} or {{m|ine-pro||*ǵeh₂réh₂}},
+  {{m|ine-pro||*ǵoh₂réh₂}} with pretonic shortening, according to
+  Kroonen<ref>{{R:gem:EDPG}}</ref>; from {{der|gem-pro|ine-pro|*ǵeh₂r-||voice,
+  exclamation}}. Cognate with {{cog|la|garriō||to prate, chatter}},
+  {{cog|grc|γῆρυς||voice, call, sound}}.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}
+
+
+  # [[complaint]], [[lament]], [[grievance]], [[moan]]
+
+  # [[worry]], [[sorrow]]
+
+  # [[care]], [[concern]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*karagaz}}
+
+  * {{l|gem-pro|*karōną}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*karu}}
+
+  * {{desc|non|kǫr}}
+
+  ** {{desc|is|kör}}
+
+  ** {{desc|no|kor}}
+
+  * {{desc|got|𐌺𐌰𐍂𐌰}}
+
+
+  ===Etymology 2===
+
+  From {{der|gem-pro|ine-pro|*ger-|t=to scrape}}.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}
+
+
+  # [[shavings]], [[scrapings]], [[litter]]
+
+
+  =====Declension=====
+
+  {{gem-decl-noun}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*karjaną}}
+
+
+  =====Descendants=====
+
+  * {{desc|goh|*kara|*chara}}
+
+  ** {{desc|der=1|goh|ubarkara|ubarchara}}
+
+  * {{desc|non|*kara|der=1}}
+
+  ** {{desc|is|kar|g=n|der=1|t=dirt, filth, waste litter}}
+
+  ** {{desc|no|kara|karra|t2=to scrape, sweep}}
+
+
+  ====References====
+
+  <references/>

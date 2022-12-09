@@ -1,0 +1,29 @@
+pageid: 4995946
+ns: 118
+title: Reconstruction:Proto-Germanic/aimuzjǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₁ews-}}
+  From {{compound|gem-pro|*aimaz|*uzjǭ}}.
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*aima-uzjōn-|11}}</ref>
+
+  # [[ember]], hot [[ash]]
+  # [[pyre]]
+
+  ====Inflection====
+  {{gem-decl-noun-n-f|aimuzj}}
+
+  ====Alternative reconstructions====
+  * {{l|gmw-pro|*aimurjǭ}}<ref>{{R:ang:DOE|253|PNWGmc *aimurjōn-}}</ref>
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*aimuʀjā}}
+  * {{desctree|non|eimyrja}}
+
+  ===References===
+  <references/>

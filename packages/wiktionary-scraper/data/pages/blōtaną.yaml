@@ -1,0 +1,38 @@
+pageid: 2783144
+ns: 118
+title: Reconstruction:Proto-Germanic/blōtaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gmw-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈblɔː.tɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[sacrifice]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7e|blōt|beblōt|beblōt|blōt}}
+
+  ====Related terms====
+  * {{l|gem-pro|*blōstrą}}
+  * {{l|gem-pro|*blōtą}}
+  * {{l|gem-pro|*blōtiz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*blōtan}}
+  * {{desc|non|blóta}}
+  ** {{desc|is|blóta}}
+  ** {{desc|fo|blóta}}
+  ** {{desc|nn|blóta}}
+  ** {{desc|gmq-osw|blota|alt=blōta}}
+  *** {{desc|sv|blota}}
+  ** {{desc|da|blote|bor=1}}
+  * {{desc|got|𐌱𐌻𐍉𐍄𐌰𐌽}}
+
+  {{topics|gem-pro|Religion}}

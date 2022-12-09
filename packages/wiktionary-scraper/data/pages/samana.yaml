@@ -1,0 +1,100 @@
+pageid: 4991958
+ns: 118
+title: Reconstruction:Proto-Germanic/samana
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*saman}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*sem-|t=one, same}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsɑ.mɑ.nɑ/}}
+
+
+  ===Adverb===
+
+  {{gem-adv}}
+
+
+  # [[at one]]; [[together]]
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*samanōną}} > {{l|gem-pro|*samnōną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*samaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*saman}}
+
+  ** {{desc|ang|samen|somen}}; {{l|ang|tōsamne}}, {{l|ang|tōsomne}}
+
+  *** {{desc|enm|samen|samenn}}; {{l|enm|samen-|pos=prefix}}
+
+  **** {{desc|sco|samen|samin}}
+
+  **** {{desc|en|sam}} {{qualifier|obsolete}}; {{l|en|same}}
+  {{qualifier|dialectal}}
+
+  ** {{desc|ofs|samin|semin}}; {{l|ofs|tō samene}}, {{l|ofs|tō semine}}
+
+  *** {{desc|stq|tousommen}}
+
+  ** {{desc|osx|saman}}; {{l|osx|te samne}}, {{l|osx|tesamna}}
+
+  *** {{desc|gml|samen}}
+
+  **** {{desc|nds-de|tosamen}}
+
+  ** {{desc|odt|saman|samon}}; {{l|odt|te saman}}
+
+  *** {{desc|dum|te samen|tesamen}}
+
+  **** {{desc|nl|tsamen|samen|saam|tezamen}}
+
+  ***** {{desc|af|saam}}
+
+  ** {{desc|goh|saman}}; {{l|goh|zi samane}}, {{l|goh|zisamane}}
+
+  *** {{desc|gmh|samen}}; {{l|gmh|ze samene}}, {{l|gmh|ze samen}}
+
+  **** {{desc|de|sammen}}; {{l|de|zusammen}}
+
+  **** {{desc|lb|zesummen}}
+
+  * {{desc|non|saman}}; {{l|non|til samans}}
+
+  ** {{desc|is|saman}}; {{l|is|til samans}}
+
+  ** {{desc|fo|saman}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nn|saman}}
+
+  *** {{desc|nb|sammen}}
+
+  ** {{desc|gmq-osw|saman}}; {{l|gmq-osw|til saman}}, {{l|gmq-osw|til samans}}
+
+  *** {{desc|sv|samman}}; {{l|sv|tillsamman}}, {{l|sv|tillsammans}}
+
+  ** {{desc|da|sammen}}
+
+  * {{desc|got|𐍃𐌰𐌼𐌰𐌽𐌰}}

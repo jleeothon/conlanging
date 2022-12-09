@@ -1,0 +1,42 @@
+pageid: 3558210
+ns: 118
+title: Reconstruction:Proto-Germanic/fraiwą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)per-}}, {{m|ine-pro|*(s)prey-||to strew, sow}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈfrɑi̯.wɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[seed]], [[semen]]
+  # [[gender]]
+  # [[offspring]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*fraiwijaz}}
+
+  ====Descendants====
+  * {{desc|non|frjó|fræ}}
+  ** {{desc|is|frjó|fræ}}
+  ** {{desc|fo|fræ}}
+  ** {{desc|no|frø}}
+  ** Dalian: {{l|ovd|fri}}, {{l|ovd|fre}}
+  ** {{desc|gmq-bot|fre}}
+  ** Angermannic: [[fre]]
+  ** {{desc|gmq-osw|frö}}
+  *** {{desc|sv|frö}}
+  ** {{desc|gmq-oda|frø}}
+  *** {{desc|da|frø}}
+  ** {{desc|enm|fry|bor=1}}
+  *** {{desc|sco|fry|frie}}
+  *** {{desc|en|fry}}
+  * {{desc|got|𐍆𐍂𐌰𐌹𐍅}}

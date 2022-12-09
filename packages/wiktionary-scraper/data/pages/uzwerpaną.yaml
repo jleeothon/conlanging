@@ -1,0 +1,25 @@
+pageid: 7479977
+ns: 118
+title: Reconstruction:Proto-Germanic/uzwerpaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*uz-|*werpaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌuzˈwer.pɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{lb|gem-pro|transitive}} to [[throw]] out
+  # {{lb|gem-pro|transitive}} to [[expel]], [[reject]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|nopass=1|uzwerp|uzwarp|uzwurp|uzwurp}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*uʀwerpan}}
+  * {{desc|got|𐌿𐍃𐍅𐌰𐌹𐍂𐍀𐌰𐌽}}

@@ -1,0 +1,52 @@
+pageid: 5452478
+ns: 118
+title: Reconstruction:Proto-Germanic/mują
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*muwją}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*mū-||fly, mosquito}}. Cognate with
+  {{cog|la|musca}}.
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[fly]] {{gloss|insect}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*mugjǭ}}
+
+
+  ====Descendants====
+
+  * {{desc|non|mý}}; {{l|non|myg|g=n}} (< {{m|gem-pro|*muwją}}?)
+
+  ** {{desc|is|mý}}
+
+  ** {{desc|fo|mý}}; {{l|fo|mýggj}}
+
+  ** {{desc|gmq-osw|myg}}
+
+  *** {{desc|sv|mygg}}
+
+
+  [[Category:gem-pro:Insects]]

@@ -1,0 +1,163 @@
+pageid: 3839988
+ns: 118
+title: Reconstruction:Proto-Germanic/rakō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈrɑ.kɔː/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*h₃reǵ-}}
+
+  From {{der|gem-pro|ine-pro|*h₃reǵ-||to straighten, direct}}.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}
+
+
+  # [[direction]], [[course]], [[path]], [[track]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*rakōną}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*rakaz}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|racu}}
+
+  ** {{desc|enm|rake}}; {{l|enm|raike}}, {{l|enm|rayke}} (through confluence
+  with {{cog|non|-}} {{l|non|reik}})
+
+  *** {{desc|sco|rak|rack|raik}}
+
+  *** {{desc|en|rake|rack}} {{gloss|path, track, furrow}}
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*h₃reǵ-}}
+
+  From {{m|gem-pro|*rakaz||straight, direct}}, from
+  {{der|gem-pro|ine-pro|*h₃reǵ-||to straighten, direct}}.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}
+
+
+  # an [[unwinding]], [[unravelling]], an [[unfolding]]
+
+  # a [[narrative]], [[account]], [[tale]], [[story]]
+
+  # [[argument]], [[reasoning]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*rakaz}}
+
+  * {{l|gem-pro|*rakjaną}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|racu}}; {{l|ang|reahtiġan}}
+
+  ** {{desc|enm|rake}}
+
+  *** {{desc|en|rake}}
+
+  * {{desc|osx|raka}}
+
+  * {{desc|goh|rahha|racha}}
+
+  ** {{desc|gmh|rache}}
+
+  * {{desc|gmq-pro|*ᚱᚨᚲᚢ}}
+
+  ** {{desc|non|rǫk}}
+
+  *** {{desc|is|rök}}
+
+  * {{desc|got|*𐍂𐌰𐌺-}} {{qualifier|uncertain lemma; possibly attested in
+  given names}}
+
+
+  ===Etymology 3===
+
+  From {{der|gem-pro|ine-pro|*h₃reǵ-||to straighten, direct}}.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}
+
+
+  # [[rake]] (implement)
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|racu}}; ({{l|ang|raca}}; {{l|ang|ræce}})
+
+  ** {{desc|enm|rake}}
+
+  *** {{desc|sco|rak}}
+
+  *** {{desc|en|rake}}
+
+  * {{desc|osx|raka|reka}} (possibly through interference with
+  {{l|gem-pro|*rekô}})
+
+  ** {{desc|gml|rāke}}
+
+  *** {{desc|nds-de|Raak}}
+
+  *** {{desc|nds|raak}}
+
+  * {{desc|odt|*raka}}
+
+  ** {{desc|dum|rake|alt=rāke}}
+
+  *** {{desc|nl|rake|raak}}; > {{l|nl|rakelen}}; > {{l|nl|rakel}}
+
+  * {{desc|non|raka}}; {{l|non|reka}} (possibly through interference with
+  {{l|gem-pro|*rekô}})
+
+  ** {{desc|is|raka}}; {{l|is|reka}}
+
+  ** {{desc|sv|raka|räka}} (dialectal)
+
+  ** {{desc|da|rage}}

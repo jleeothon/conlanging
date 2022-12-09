@@ -1,0 +1,31 @@
+pageid: 3627449
+ns: 118
+title: Reconstruction:Proto-Germanic/nadrǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alt|gem-pro|*nēdrǭ}}
+
+  ===Etymology===
+  From {{af|gem-pro|*nadraz|*-ǭ}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈnɑð.rɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{topics|gem-pro|Snakes}} [[adder]]
+  #: {{syn|gem-pro|*nadraz}}
+  # [[snake]] in general
+  #: {{syn|gem-pro|*agiz|*linþaz|*nadraz|*slangô|*snakô|*wurmiz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*nadrā}}
+  * {{desc|non|naðra}}
+  ** {{desc|is|naðra}}

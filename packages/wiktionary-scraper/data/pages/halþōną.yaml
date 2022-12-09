@@ -1,0 +1,29 @@
+pageid: 7526808
+ns: 118
+title: Reconstruction:Proto-Germanic/halþōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*halþaz|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑl.θɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:EDPG|head=*halþa-|page=205|passage=*halþōn-}}</ref>
+
+  # to make [[incline]], [[tilt]], [[incline]]
+
+  ====Inflection====
+  {{gem-conj-wk2|halþ}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*halþōn}}
+  ** {{desc|goh|haldōn}}
+  * {{desc|non|halla}}
+  ** {{desc|is|halla}}
+
+  ===References===
+  <references/>

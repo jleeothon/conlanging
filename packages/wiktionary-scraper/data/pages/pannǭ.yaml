@@ -1,0 +1,30 @@
+pageid: 4996947
+ns: 118
+title: Reconstruction:Proto-Germanic/pannǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{bor|gem-pro|la|panna}}, {{m|la|patina}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[pan]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*pannā}}
+  * {{desc|non|panna}}
+  ** {{desc|is|panna}}
+  ** {{desc|fo|panna}}
+  ** {{desc|nrn|pannja}}
+  ** {{desc|no|panna|panne}}
+  ** {{desc|gmq-osw|panna}}
+  *** {{desc|sv|panna}}
+  ** {{desc|da|pande}}
+  ** {{desc|ovd|panna}}
+  ** {{desc|gmq-gut|panne}}

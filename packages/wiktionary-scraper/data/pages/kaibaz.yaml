@@ -1,0 +1,33 @@
+pageid: 7515083
+ns: 118
+title: Reconstruction:Proto-Germanic/kaibaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*geybʰ-|t=to quarrel, dispute}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkɑi̯.βɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:EDPG|*kaiba-|277}}</ref>
+
+  # [[fierce]], [[lively]], [[active]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Related terms====
+  * {{l|gem-pro|*kībaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*kaib}}
+  ** {{desctree|ang|cāf}}
+  * {{desc|non}}
+  ** {{desc|no|keiv}}
+  ** {{desc|da|ked}}
+
+  ===References===
+  <references/>

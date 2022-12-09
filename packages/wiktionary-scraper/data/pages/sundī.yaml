@@ -1,0 +1,110 @@
+pageid: 3535525
+ns: 118
+title: Reconstruction:Proto-Germanic/sundī
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*sundijō}}
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro||*h₁s-ónt-ih₂}}, the feminine form of
+  {{m|ine-pro|*h₁sónts||being, true}}, itself the present participle of
+  {{m|ine-pro|*h₁es-||to be}}, from which the present tense forms of Germanic
+  {{m|gem-pro|*wesaną}} also descend. The sense would have originally implied a
+  verdict of "truly guilty" against an accusation or charge.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsun.diː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # {{topic|gem-pro|Crime}}something that should not be; [[sin]], [[crime]]
+
+  #: {{syn|gem-pro|*mainą}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*sundīgaz}}
+
+  * {{l|gem-pro|*sundīlausaz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*sanþaz}}
+
+
+  ====Descendants====
+
+  * {{desc|ofs|sunde|sunde|sende}}
+
+  ** {{desc|stq|Sände|alts=1}}
+
+  ** {{desc|fy|sûnde}}
+
+  * {{desc|osx|sundia}}
+
+  ** {{desc|gml|sunde}}
+
+  *** {{desc|nds-de|Sünde|Sünd|Sünne|Sünn}}
+
+  *** {{desc|pdt|Sind}}
+
+  * {{desc|odt|sunda}}
+
+  ** {{desc|dum|sonde|sunde}}
+
+  *** {{desc|nl|zonde}}
+
+  **** {{desc|af|sonde}}
+
+  * {{desc|goh|suntea|sunta}}
+
+  ** {{desc|gmh|sunde|sünde}}
+
+  *** {{desc|de|Sünde}}
+
+  *** {{desc|hrx|Sind}}
+
+  *** {{desc|lb|Sënd}}
+
+  *** {{desc|wym|zynd}}
+
+  *** {{desc|yi|זינד}}
+
+  * {{desc|non|synd}}
+
+  ** {{desc|is|synd}}
+
+  ** {{desc|fo|synd}}
+
+  ** {{desc|no|synd}}
+
+  ** {{desc|gmq-osw|synd}}
+
+  *** {{desc|sv|synd}}
+
+  **** {{desc|fi|synti|bor=1}}
+
+  ** {{desc|da|synd}}
+
+  ** {{desc|gmq-bot|sönn}}

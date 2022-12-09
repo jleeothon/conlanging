@@ -1,0 +1,98 @@
+pageid: 5591059
+ns: 118
+title: Reconstruction:Proto-Germanic/slimbaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Uncertain, but possibly from {{inh|gem-pro|ine-pro|*(s)lembʰ-}},
+  {{m|ine-pro|*(s)lemb-||to droop; sag; hang loosely}}. Compare
+  {{cog|lv|slìps||slanting}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈslim.bɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[aslant]]; [[sloping]]
+
+  # [[askew]]; [[crooked]]; [[wrong]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|slimb}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*slimbį̄}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*slimpaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*slimb}}
+
+  ** {{desc|ofs|*slimb|*slimm}}
+
+  *** {{desc|stq|slim}}
+
+  *** {{desc|fy|slim}}
+
+  ** {{desc|osx|*slimb|*slimm}}
+
+  *** {{desc|gml|slim}}
+
+  **** {{desc|nds-de|slimm}}
+
+  **** {{desc|da|slem|bor=1}}
+
+  **** {{desc|no|slem|bor=1}}
+
+  ** {{desc|odt|*slimb|*slemb}}
+
+  *** {{desc|dum|slimp|slemp|slim|slem}}; {{l|dum|slom|t=bent, crooked,
+  twisted}}
+
+  **** {{desc|nl|slim}}
+
+  ***** {{desc|sco|slim|bor=1}}
+
+  ***** {{desc|en|slim|bor=1}}
+
+  ** {{desc|goh|slimb}}
+
+  *** {{desc|gmh|slimp|slim}}
+
+  **** {{desc|de|schlimm}}
+
+  **** {{desc|hrx|schlimm}}
+
+  **** {{desc|lb|schlamm}}
+
+  * {{desc|got|*𐍃𐌻𐌹𐌼𐌱𐍃}}
+
+  ** {{desc|bor=1|VL.|*slembus|*sclembus|*slemus|*sclemus}}
+
+  *** {{desc|it|sghembo}}
+
+  *** {{desc|fro|esclame}}
+
+  *** {{desc|ONF.|esclem}}
+
+  *** {{desc|scn|schimmenti}} {{i|possibly}}

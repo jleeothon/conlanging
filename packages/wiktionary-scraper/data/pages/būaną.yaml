@@ -1,0 +1,52 @@
+pageid: 2294784
+ns: 118
+title: Reconstruction:Proto-Germanic/būaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alt|gem-pro|*būwaną}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰuH-}}
+  From {{inh|gem-pro|ine-pro|*bʰúHt}}, from {{m|ine-pro|*bʰuH-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbu.wɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[dwell]], [[reside]]
+
+  ====Inflection====
+  {{gem-conj-wk-nosuff|bū}}
+
+  ====Related terms====
+  * {{l|gem-pro|*bōþlą}}
+  * {{l|gem-pro|*būą}}
+  * {{l|gem-pro|*būiz}}
+  * {{l|gem-pro|*būô}}
+  * {{l|gem-pro|*būraz}}
+  * {{l|gem-pro|*būraz}}
+  * {{l|gem-pro|*būwijaną}}
+  * {{l|gem-pro|*gabūrô}}
+  * {{l|gem-pro|*nēhwagabūrô}}
+
+  ====Descendants====
+  * {{desc|ang|būan|alts=1}}
+  ** {{desc|der=1|ang|ġebūan}}
+  *** {{desc|enm|ȝebuen|ibuen|iboen}}
+  * {{desctree|osx|būan}}
+  * {{desc|odt|*būan|buuuan|buwan}}
+  ** {{desctree|dum|bouwen}}
+  * {{desctree|goh|būan}}
+  * {{desctree|non|búa}}
+  ** {{desc|der=1|non|búinn}} {{q|past participle}}
+  *** {{desc|is|búinn}}
+  *** {{desc|nn|buen}}
+  *** {{desc|bor=1|enm|bun|bune|boun}}
+  **** {{desc|sco|boun}}
+  **** {{desc|en|boun}}
+  * {{desc|got|𐌱𐌰𐌿𐌰𐌽}}

@@ -1,0 +1,31 @@
+pageid: 3703031
+ns: 118
+title: Reconstruction:Proto-Germanic/niitjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*ne|t1=no, not|*itjaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈni.it.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[say]] ‘no’, [[deny]], [[refuse]]
+
+  ====Inflection====
+  {{gem-conj-wk1-j|niit|j=j}}
+
+  ====Antonyms====
+  * {{l|gem-pro|*jahatjaną}}
+
+  ====Descendants====
+  * ({{desc|ang|nǣtan}})
+  * {{desc|non|níta}}; {{l|non|neita}}
+  ** {{desc|is|neita}}
+  ** {{desc|enm|niten|bor=1}}; {{l|enm|naiten}}
+  *** {{desc|sco|nyte|nite}}
+  *** {{desc|en|nait}}

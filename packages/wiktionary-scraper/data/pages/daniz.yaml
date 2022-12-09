@@ -1,0 +1,78 @@
+pageid: 2863936
+ns: 118
+title: Reconstruction:Proto-Germanic/daniz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Possibly from {{der|gem-pro|ine-pro|*dʰenh₂-||run, flow}}. Or possibly from
+  the same root as [[den]] (i.e. "lowland").
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdɑ.niz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # a [[Dane]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*daniskaz}}
+
+  * {{l|gem-pro|*Halbadaniz||Half-Dane}}
+
+
+  ====Descendants====
+
+  The first mention of the Danes by name is in the 6th century by
+  [[w:Jordanes|Jordanes]]. It's not certain whether the Danes existed as a group
+  long before that time, and so whether the name was used to refer to a tribe in
+  Proto-Germanic. But in any case, historically the name does go back to this
+  form.
+
+
+  * {{desc|gmw-pro|*Danī|g=p}}
+
+  ** {{desctree|ang|Dene|g=p}}
+
+  ** {{desc|osx|*Deni}}
+
+  *** {{desc|gml|dēne|denne}}
+
+  **** {{desc|nds|Dään}}
+
+  ** {{desc|odt|*Deni}}
+
+  *** {{desc|dum|Dene}}
+
+  **** {{desctree|nl|Deen}}
+
+  ** {{desc|goh|*Teni}}
+
+  *** {{desc|gmh|Tene}}
+
+  **** {{desc|de|Däne}} {{q|with ''d'' restored by analogy with the name in
+  other languages}}
+
+  * {{desctree|non|danir|g=p}}
+
+  * {{desc|la|Dānī|g=p|bor=1}}
+
+
+  {{topics|gem-pro|Nationalities}}

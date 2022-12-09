@@ -1,0 +1,33 @@
+pageid: 3747010
+ns: 118
+title: Reconstruction:Proto-Germanic/burþį̄
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰer-}}
+  From {{der|gem-pro|ine-pro|*bʰer-||to carry, bear}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbur.θĩː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[burden]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*burþī}}
+  * {{desc|non|byrðr}}
+  ** {{desc|is|byrður}}, {{l|is|byrði}}
+  ** {{desc|fo|byrði}}
+  ** {{desc|no|-}} {{l|nb|byrde}}
+  ** {{desctree|gmq-osw|byrþ}}
+  ** {{desc|gmq-oda|byrþi|byrthæ}}
+  *** {{desc|da|byrde}}
+  ** {{desc|gmq-bot|böl|bål}}
+  * {{desc|got|𐌱𐌰𐌿𐍂𐌸𐌴𐌹}}

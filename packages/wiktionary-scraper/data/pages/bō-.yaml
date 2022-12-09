@@ -1,0 +1,192 @@
+pageid: 3636415
+ns: 118
+title: Reconstruction:Proto-Germanic/bō-
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*ba-}}
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*bʰā-}}, {{m|ine-pro|*bʰāt-||father, (elder)
+  brother}}. Cognate with {{cog|lt|batis||father, dad, friend}},
+  {{cog|ru|ба́тько||dad}}.
+
+
+  ===Noun===
+
+  {{gem-noun|head=*bō-, *bōbō-, *bōl-, *bōj-|m}}
+
+
+  # A stem meaning ''[[father]], [[brother]], close male [[relation]]''.
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*babô}} {{q|reduplicated}}
+
+  ** {{desc|ang|*baba}}
+
+  *** {{desc|enm|babe}}
+
+  **** {{desc|en|babe}}
+
+  **** {{desc|sco|babe}}
+
+  *** {{desc|enm|babee|der=1}}, {{l|enm|babi}}
+
+  **** {{desc|en|baby}}
+
+  **** {{desc|sco|babie}}
+
+  ** {{desc|goh|*babo}} (attested as {{l|osx|Babo|pos=male given name}})
+
+
+  * {{l|gem-pro|*bōbô}} {{q|reduplicated}}
+
+  ** {{desc|ang|*bōba}}, {{l|ang|*bōfa}} (attested as {{l|ang|Bōba}},
+  {{l|ang|Bōfa|pos=male given names}})
+
+  ** {{desc|ofs|*bōba|*bōfa}}
+
+  *** {{desc|stq|Boube}}
+
+  ** {{desc|osx|*bōvo}} (attested as {{l|osx|Bōvo|pos=male given name}})
+
+  *** {{desc|osx|bôve}}
+
+  **** {{desc|nds-de|Boov}}
+
+  ** {{desc|frk|*buobo}}; {{l|gmw-pro|*Buobo|pos=male forename}}
+
+  *** {{desc|odt|*buovo}}
+
+  **** {{desc|dum|boef}}, {{l|dum|boeve}}, {{l|dum|bouve}}
+
+  ***** {{desc|nl|boef}}
+
+  ** {{desc|goh|*buobo}} (attested as {{l|osx|Bubō|pos=male given name}})
+
+  *** {{desc|gmh|buobe|puobe}}
+
+  **** {{desc|gsw|Bueb}}
+
+  **** {{desc|de|Bube}}
+
+  **** {{desc|hrx|Bub}}
+
+  **** {{desc|pdc|Bub}}
+
+  ***** {{desc|en|bub|bor=1}}
+
+  ** {{desc|non|bófi}}
+
+  *** {{desc|is|bófi}}
+
+
+  * {{l|gem-pro|*bōlô}} {{q|diminutive}}
+
+  ** {{desc|ang|*bōla}} (attested as {{l|ang|Bōla}}, {{l|ang|Bōlla|pos=male
+  given name}})
+
+  ** {{desc|ofs|bōla}}
+
+  ** {{desc|osx|*bōlo}}
+
+  *** {{desc|gml|bôle}}
+
+  ** {{desc|frk|*buolo}}
+
+  *** {{desc|odt|*buolo}}
+
+  **** {{desc|dum|boel}}, {{l|dum|boele}}
+
+  ***** {{desc|nl|boel}}
+
+  ****** {{desc|en|bully|der=1|bor=1}}
+
+  ** {{desc|goh|*buolo}}, {{l|goh|*puole}}, {{l|goh|*buola}}
+
+  *** {{desc|gmh|buole}}, {{l|gmh|puole}}
+
+  **** {{desc|de|Buhle}}
+
+  **** {{desc|wym|buwła}}
+
+
+  * {{l|gem-pro|*bōjô}} {{q|diminutive}}
+
+  ** {{desc|ang|*bōia}} (attested as {{l|ang|Bōia|pos=male given name}})
+
+  *** {{desc|enm|boye}}, {{l|enm|boy}}, {{l|enm|boi}}
+
+  **** {{desc|en|boy}}
+
+  **** {{desc|sco|boy}}
+
+  ** {{desc|ofs|boy}}, {{l|ofs|boi}}; {{l|ofs|Boio|pos=male given name}}
+
+  *** {{desc|fy|boai}}
+
+  ** {{desc|osx|*bōjo}}, (attested as {{l|osx|Bōjo|pos=male given name}})
+
+  *** {{desc|gml|*boie}}
+
+  **** {{desc|nds-de|Boi}}
+
+  ** {{desc|frk|*buoi}}
+
+  *** {{desc|odt|*buoi}}
+
+  **** {{desc|dum|boi}}
+
+  *** {{desc|fro|boi|bor=1}}, {{l|fro|boy}}
+
+  ** {{desc|got|*𐌱𐍉𐌹𐍉|pos=male given name}}
+
+
+  * Unsorted:
+
+  ** {{desc|ofs|bobba}}
+
+  *** {{desc|stq|Baabe}}
+
+  *** {{desc|fy|bobbe}}
+
+  **** {{desc|fy|bobbert|der=1}}
+
+  ** {{desc|ofs}}
+
+  *** {{desc|fy|boef}}
+
+  ** {{desc|ofs|Bavo|pos=male forename}}
+
+  ** {{desc|lng|*bōbo}} (attested as {{l|goh|Bōbo|pos=male forename}})
+
+  ** {{desc|goh|*buo|unc=1}}
+
+  *** {{desc|gmh|*buo|*bue}}
+
+  **** {{desc|bar|Bua}}
+
+  **** {{desc|cim|pua}}
+
+  **** {{desc|mhn|pua}}
+
+  **** {{desc|pdc|Buh}}, {{l|pdc|Bu}}
+
+  ** {{desc|non|*bóa}}
+
+  *** {{desc|no|boa}} {{q|dialectal}}
+
+  ** {{desc|non}}
+
+  *** {{desc|fo|babba}}
+
+  *** {{desc|sv|babbe}}; {{l|sv|bobbe}} {{q|dialectal}}

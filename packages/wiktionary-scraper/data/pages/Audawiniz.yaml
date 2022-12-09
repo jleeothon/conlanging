@@ -1,0 +1,39 @@
+pageid: 5543052
+ns: 118
+title: Reconstruction:Proto-Germanic/Audawiniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{com|gem-pro|*audaz|t1=wealth, riches|*winiz|t2=friend}}.
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Related terms====
+  * {{l|gem-pro|*Audawakraz}}
+  * {{l|gem-pro|*Audawarduz}}
+  * {{l|gem-pro|*Audawulfaz}}
+  * {{l|gem-pro|*Balþawiniz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Audawini}}
+  ** {{desc|ang|Ēadwine}}
+  *** {{desc|en|Edwin}}
+  **** {{desc|nb|Edvin|bor=1}}
+  **** {{desc|nn|Edvin|bor=1}}
+  **** {{desc|sv|Edvin|bor=1}}
+  **** {{desc|da|Edvin|bor=1}}
+  ** {{desc|goh|Audowin|*Ōtwini}}
+  * {{desc|gmq-pro|}}
+  ** {{desc|non|Auðunn}} (perhaps < earlier *Auðvin)
+  *** {{desc|is|Auðunn}}
+  *** {{desc|fo|Eyðun}}
+  *** {{desc|nb|Audun}}
+  *** {{desc|nn|Audun}}

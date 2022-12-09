@@ -1,0 +1,33 @@
+pageid: 7119567
+ns: 118
+title: Reconstruction:Proto-Germanic/skapą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*skapjaną|t=to make, to create}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskɑ.pɑ̃/}}
+
+  ===Noun===
+  {{head|gem-pro|noun}}
+
+  # [[shape]]
+
+  ====Declension====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*skapōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skap}}
+  * {{desc|non|skap}}
+  ** {{desc|is|skap}}
+  ** {{desc|gmq-bot|skäp}}
+
+  ====Further reading====
+  * {{R:Duden|Schaff_Gefaesz_Regal_Schrank|w=Schaff}}
+  * {{R:svenska.se|saob|skåp}}

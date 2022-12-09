@@ -1,0 +1,67 @@
+pageid: 8008205
+ns: 118
+title: Reconstruction:Proto-Germanic/hnippōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{l|gem-pro|*hnippijaną}}<ref>{{R:gem:HGE|*xnippjanan|180}}</ref>
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro||*knibʰ-néh₂-ti}}, an iterative verb from
+  {{der|gem-pro|ine-pro|*kneybʰ-||to pinch, to squeeze}} which also gave rise to
+  the strong verb {{m|gem-pro|*hnīpaną}}<ref
+  name='Kroonen'>{{R:gem:EDPG|*hnippōn-|236}}</ref>. Compare {{cog|lt|kniẽbti}}
+  and {{cog|lv|kniêbt|t=to pinch}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxnip.pɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name='Kroonen'></ref>
+
+
+  # to [[pinch]], to [[squeeze]]
+
+  # to [[prod]], to [[poke]]
+
+  # to [[nip]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|hnipp}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*knīpaną}}
+
+  * {{l|gem-pro|*knippōną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*hnippōn}}
+
+  * {{desc|non|hnippa}}
+
+  ** {{desc|is|hnippa}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

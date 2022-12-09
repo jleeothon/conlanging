@@ -1,0 +1,39 @@
+pageid: 6017311
+ns: 118
+title: Reconstruction:Proto-Germanic/seuhslō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*sūhslō}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*sewg-|t=grievous; sorrowful; ill}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈseu̯x.slɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[pain]]; [[torment]]; [[affliction]]; [[suffering]]; [[agony]]
+  # [[addiction]]; [[obsession]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*seuhslagaz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*seukaz}}
+  * {{l|gem-pro|*suhtiz}}
+
+  ====Descendants====
+  * {{desc|ang|sūsl|g=f}}; {{l|ang|sūsl|g=n}}
+  * {{desc|non|sýsla|g=f}}; {{l|non|sýsl|g=f}}
+  ** {{desc|is|sýsla}}
+  ** ({{desc|no|sysle|pos=verb}})
+  ** {{desc|gmq-osw|sysla|alt=sȳsla}}
+  *** {{desc|sv|syssla}}

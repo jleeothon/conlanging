@@ -1,0 +1,72 @@
+pageid: 7606999
+ns: 118
+title: Reconstruction:Proto-Germanic/straupijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*streupaną|*-janą|t1=to touch|id2=causative}}.
+
+
+  ===Pronunciation===
+
+  {{IPA|gem-pro|/ˈstrɑu̯.pi.jɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref
+  name="Kroonen">{{R:gem:EDPG|head=*straupjan|page=483-484}}</ref><ref
+  name="Orel">{{R:gem:HGE|*straupjanan|page=381}}</ref>
+
+
+  # to [[strip]], [[wipe]], [[pluck]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk1|straup|j=ij}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*straupijan}}
+
+  ** {{desc|ang|*strīepan}}
+
+  *** {{desc|ang|bestrīepan|der=1}}
+
+  *** {{desc|enm|stripen}}
+
+  **** {{desc|en|strip}}
+
+  ***** {{desc|nl|strippen|bor=1}}
+
+  ** {{desc|osx|*strōpian}}
+
+  *** {{desc|gml|strôpen}}
+
+  ** {{desc|odt|*strōpen}}
+
+  *** {{desc|dum|strôpen}}
+
+  **** {{desc|nl|stropen}}
+
+  ** {{desc|goh|stroufen}}
+
+  *** {{desc|gmh|ströufen}}
+
+  * {{desc|non|*streypa}}
+
+  ** {{desc|no|strøypa}}
+
+  ** {{desc|sv|strypa}}
+
+
+  ===References===
+
+  <references/>

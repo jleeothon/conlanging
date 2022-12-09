@@ -1,0 +1,112 @@
+pageid: 4764384
+ns: 118
+title: Reconstruction:Proto-Germanic/stultaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*stel-|t=to place, stand}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstul.tɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[proud]]
+
+  # [[stately]]
+
+  # [[stiff]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|stult}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*stultijaną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|*stolt}} (found in derivative {{l|ang|styltan}})
+
+  * {{desc|ofs|stult|stolt}}
+
+  ** {{desc|frr|stolt}}
+
+  ** {{desc|stq|stolt}}
+
+  * {{desc|osx|*stolt}}
+
+  ** {{desc|gml|stolt}}
+
+  *** {{desc|nds|stolt}}
+
+  * {{desc|frk|*stult|*stolt}}; {{l|frk|*stultatjan}}
+
+  ** {{desc|odt|*stolt}}
+
+  *** {{desc|dum|stolt|stout}}
+
+  **** {{desc|nl|stout}}
+
+  ***** {{desc|da|stovt|bor=1}}
+
+  ** {{desc|bor=1|fro|estolt|estout|estot|estut}}; {{l|fro|estoutie}},
+  {{l|fro|estutie}}, {{l|fro|estotie}}; {{l|fro|estoutoier}}, {{l|fro|estotier}}
+
+  *** {{desc|frm|estout}}
+
+  **** {{desc|fr|stout}} {{qualifier|dialectal}}
+
+  *** {{desc|enm|stout|bor=1}}; {{l|enm|stoteye}}; {{l|enm|stotaien}},
+  {{l|enm|stotayen}}
+
+  **** {{desc|en|stout}}; {{l|en|stoteye}}; {{l|en|stotay}}
+
+  ***** {{desc|fr|stout|bor=1}}
+
+  ** {{desc|bor=1|pro|estolt|estout}}
+
+  *** {{desc|oc|estout}}
+
+  * {{desc|goh|stolz}}
+
+  ** {{desc|gmh|stolz}}
+
+  *** {{desc|de|stolz}}
+
+  *** {{desc|hrx|stols}}
+
+  *** {{desc|wym|śtułc}}
+
+  *** {{desc|yi|שטאָלץ}}
+
+  * {{desc|non|stoltr}}
+
+  ** {{desc|is|stoltur}}
+
+  ** {{desc|fo|stoltur}}
+
+  ** {{desc|nb|stolt}}
+
+  ** {{desc|nn|stolt}}
+
+  ** {{desc|gmq-osw|stolter}}
+
+  *** {{desc|sv|stolt}}
+
+  ** {{desc|da|stolt}}

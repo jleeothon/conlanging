@@ -1,0 +1,29 @@
+pageid: 6899186
+ns: 118
+title: Reconstruction:Proto-Germanic/stōmô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*stéh₂mn̥||that which stands, stature}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɔː.mɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[stature]]
+  # [[substantial]] [[grounds]], just [[cause]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|non|}}
+  ** {{desc|gmq-osw|stomme}}
+  *** {{desc|sv|stomme}}
+  ** {{desc|gmq-oda|}}
+  *** {{desc|da|stomme|alt=stom(me)|pos=dialect}}
+  * {{desc|got|𐍃𐍄𐍉𐌼𐌰}}

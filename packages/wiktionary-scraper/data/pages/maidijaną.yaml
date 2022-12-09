@@ -1,0 +1,30 @@
+pageid: 7228688
+ns: 118
+title: Reconstruction:Proto-Germanic/maidijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*meytH-}}
+  From {{der|gem-pro|ine-pro|*meytH-||to change, exchange}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑi.ði.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[exchange]], [[change]]
+
+  ====Inflection====
+  {{gem-conj-wk1|maid|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*mizdō}}
+
+  ====Descendants====
+  * {{desc|non|meiða}}
+  ** {{desc|is|meiða}}
+  ** {{desc|fo|meiðsla}}
+  * {{desc|got|𐌼𐌰𐌹𐌳𐌾𐌰𐌽}}

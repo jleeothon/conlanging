@@ -1,0 +1,27 @@
+pageid: 7316866
+ns: 118
+title: Reconstruction:Proto-Germanic/handulamaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*handuz|*lamaz|t1=hand|t2=lame}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑn.du.ˌlɑ.mɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*xandu-lamaz|159}}</ref>
+
+  # [[lame]]; [[defective]]; not [[skilled]] with [[hand]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|goh|hantlam}}
+  * {{desc|non|handlami}}
+
+  ===References===
+  <references/>

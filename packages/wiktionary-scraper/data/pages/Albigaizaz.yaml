@@ -1,0 +1,33 @@
+pageid: 5562000
+ns: 118
+title: Reconstruction:Proto-Germanic/Albigaizaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*albiz|t1=elf|*gaizaz|t2=spear}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑl.βi.ˌɣɑi̯.zɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Albigaiʀ}}
+  ** {{desc|ang|Ælfgār}}
+  *** {{desc|en|Elgar}}
+  * {{desc|non|Álfgeirr}}
+  ** {{desc|is|Álfgeir}}
+  ** {{desc|fo|Álvgeir}}
+  ** {{desc|no|Alvgeir}}
+  ** {{desc|gmq-oda|Alger}} (uncertain derivation)
+
+  ===References===
+  * {{R:non:Nordiskt runnamnslexikon|AlfgæiRR}}

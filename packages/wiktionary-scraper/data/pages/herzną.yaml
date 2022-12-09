@@ -1,0 +1,52 @@
+pageid: 4455124
+ns: 118
+title: Reconstruction:Proto-Germanic/herzną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*ḱersnó-}}, from
+  {{der|gem-pro|ine-pro|*ḱers-}}. Indo-European cognates include
+  {{cog|sla-pro|*sernъ}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxerz.nɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # {{lb|gem-pro|North Germanic}}{{topic|gem-pro|Ice|Snow|Winter}} frozen
+  [[snow]], snow [[crust]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*herzuz}} (> {{m+|non|*hjǫrr}} > dialectal {{m+|no|jorr}})
+
+
+  ====Descendants====
+
+  * {{desc|non|hjarn}}
+
+  ** {{desc|is|hjarn}}
+
+  ** {{desc|no|hjårn}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

@@ -1,0 +1,31 @@
+pageid: 3531003
+ns: 118
+title: Reconstruction:Proto-Germanic/lībą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Likely derived from {{m|gem-pro|*lībaną||to remain}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈliː.βɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[body]]
+  #: {{syn|gem-pro|*būkaz|*ferhwō|*ferhuz|*līką|*kruppaz}}
+  #: {{hypo|gem-pro|*līkahamô}}
+  # [[life]]
+  #: {{syn|gem-pro|*ferhwō|*ferhuz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*libjaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*līb}}
+  * {{desctree|non|líf}}

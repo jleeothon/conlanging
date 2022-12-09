@@ -1,0 +1,31 @@
+pageid: 5555440
+ns: 118
+title: Reconstruction:Proto-Germanic/Albiharjaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*albiz|t1=elf|*harjaz|t2=warrior}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑl.βi.ˌxɑr.jɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Albihari}}
+  ** {{desc|ang|Ælfhere}}
+  ** {{desc|osx|Alfheri}}
+  * {{desc|non|Álfarr}}
+  ** {{desc|is|Álfar}}
+  ** {{desc|no|Alvar}}
+  ** {{desc|sv|Alvar}}
+  * {{desc|la|Alvarus|bor=1|unc=1}}
+  ** {{desc|es|Álvaro}}

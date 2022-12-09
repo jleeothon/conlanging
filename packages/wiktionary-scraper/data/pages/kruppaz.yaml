@@ -1,0 +1,115 @@
+pageid: 3619728
+ns: 118
+title: Reconstruction:Proto-Germanic/kruppaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*grewb-||to curve, bend, crawl}}, from
+  {{der|gem-pro|ine-pro|*ger-||to turn, wind}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkrup.pɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # a [[body]]; [[mass]]
+
+  # a compressed, round mass; [[lump]]; [[ball]]
+
+  # a [[group]]; [[bunch]]; [[collection]]
+
+  # {{lb|gem-pro|of harvest, fruit, plant, corn}} a [[crop]]; [[bunch]];
+  [[cluster]]; [[head]] (of grain)
+
+  # {{lb|gem-pro|of a bird}} a [[crop]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*krupp|*kropp}}
+
+  ** {{desctree|ang|cropp}}
+
+  ** {{desc|ofs|*krop}}
+
+  *** {{desc|stq|Krop}}
+
+  *** {{desc|fy|krop}}
+
+  ** {{desc|osx|kropp|krop}}
+
+  *** {{desc|gml|krop}}
+
+  **** Westphalian:
+
+  ****: Ravensbergisch-Lippisch: {{l|nds-de|Krop}}, {{l|nds-de|Krip}}
+
+  ****: Suerländer-Märkisch: {{l|nds-de|Kropp}}
+
+  ****: Westmünsterländisch: {{l|nds-de|Kropp}}
+
+  **** {{desc|pdt|Kropp}}
+
+  ** {{desc|odt|*kropp|crop}}
+
+  *** {{desc|dum|crop}}
+
+  **** {{desctree|nl|krop}}
+
+  ** {{desc|VL.|*cruppo|bor=1}}
+
+  *** {{desc|it|gruppo|groppo}} {{see desc}}
+
+  *** {{desc|scn|gruppu}}
+
+  ** {{desc|goh|kropf|kroph}}
+
+  *** {{desc|gmh|kropf|kroph}}
+
+  **** {{desc|gmw-cfr|-}}
+
+  ****: {{desc|hrx|Kropp}}
+
+  ****: {{desc|lb|Krapp}}
+
+  **** {{desc|de|Kropf}}
+
+  **** {{desc|gmw-rfr|Kropp|Krupp}}
+
+  ****: Frankfurterisch: IPA [kʀopʃ]
+
+  **** {{desc|wym|kröp}}
+
+  * {{desc|non|kroppr}}
+
+  ** {{desc|is|kroppur}}
+
+  ** {{desc|fo|kroppur}}
+
+  ** {{desc|nb|kropp}}
+
+  ** {{desc|nn|kropp}}
+
+  ** {{desc|gmq-bot|krópp}}
+
+  ** {{desctree|gmq-osw|kropper}}
+
+  ** {{desc|da|krop}}
+
+  ** {{desctree|fro|crope|bor=1}}

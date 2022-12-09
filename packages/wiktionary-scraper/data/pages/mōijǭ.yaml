@@ -1,0 +1,71 @@
+pageid: 8939258
+ns: 118
+title: Reconstruction:Proto-Germanic/mōijǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{af|gem-pro|*mō|alt1=*mō-|t1=mother|*-ijǭ|pos2=feminine diminutive
+  ending}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmɔː.i.jɔ̃ː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[aunt]] {{gl|mother's sister}}
+
+  #: {{syn|gem-pro|*mōdrijǭ|*mōmǭ}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*mōdēr}}
+
+  * {{l|gem-pro|*mōdrijǭ}}
+
+  * {{l|gem-pro|*mōmǭ}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*mōijā}}
+
+  ** {{desc|ofs|mōie}}
+
+  *** {{desc|stq|Möie}}
+
+  *** {{desc|fy|muoike|der=1}}
+
+  ** {{desc|osx|*mōja}}
+
+  *** {{desc|gml|mö̂ie|mö̂ye|moige|mö̂ge}}
+
+  **** {{desc|nds-de|Möh}}
+
+  ** {{desc|odt|*muoja}}
+
+  *** {{desc|dum|muje|moye|moie}}
+
+  **** {{desc|nl|moei}}
+
+  ** {{desc|goh|*muoja|*mouwa}}
+
+  *** {{desc|goh|holzmuoja|holzmouwa|holzmūwa|der=1}}
+
+  **** {{desc|gmh|holzmuoje|holzmuowe}}

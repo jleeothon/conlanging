@@ -1,0 +1,120 @@
+pageid: 4710348
+ns: 118
+title: Reconstruction:Proto-Germanic/fukkōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸuk.kɔː.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  From Pre-Germanic {{m|ine-pro||*pugnéh₂-}}. Likely related to
+  {{cog|lv|puga|t=gust of wind}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}
+
+
+  # to [[blow]], [[gust]]
+
+
+  =====Inflection=====
+
+  The original paradigm consisted of two stem variants, singular
+  {{m|gem-pro||*fukk-}} against non-singular {{m|gem-pro||*fuk-}}.
+
+  {{gem-conj-wk2|fukk}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*faukijaną}}
+
+  * {{l|gem-pro|*feukaną}}/{{l|gem-pro|*fūkaną}}
+
+
+  =====Descendants=====
+
+  * {{desc|gml|vucken}}
+
+  * {{desc|dum|vocken}}
+
+  * {{desc|gmh|fochen}}
+
+  * {{desc|non|*fokka}}
+
+  ** {{desc|is|fokka}}
+
+
+  ====Further reading====
+
+  * {{R:gem:EDPG}}
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*pewǵ-}}
+
+  From Pre-Germanic {{m|ine-pro||*pugnéh₂-}}, likely a zero-grade iterative from
+  {{der|gem-pro|ine-pro|*pug-}}, {{m|ine-pro|*pewǵ-|t=to strike, assail}}.
+  Related to {{cog|la|pugnus|t=fist}}, {{cog|grc|πυγμή|t=fist}}, possibly also
+  {{cog|ru|пуга́ть|t=to frighten, scare}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}
+
+
+  # to [[strike]], [[assail]]
+
+  # {{topics|gem-pro|Sex}} to [[copulate]]
+
+
+  =====Inflection=====
+
+  The original paradigm consisted of two stem variants, singular
+  {{m|gem-pro||*fukk-}} against non-singular {{m|gem-pro||*fuk-}}.
+
+  {{gem-conj-wk2|fukk}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*faukōną}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|*fuccian}}
+
+  ** {{desctree|enm|*fukken|bor=1}}
+
+  * {{desc|ofs|*fokkia}}
+
+  ** {{desc|fy|fokje}}
+
+  * {{desc|odt|*fokken|*fukken}}
+
+  ** {{desc|dum|fokken|feucken}}
+
+  *** {{desc|nl|fokken}}
+
+  * {{desc|goh|fitafuhhōn|unc=1|qq=with uncertain initial component}}
+
+  * {{desc|non|*fukka}}
+
+  ** {{desc|no|fukka|qq=dialectal}}
+
+  ** {{desc|sv|fokka|qq=Bohuslän}}
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

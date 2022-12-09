@@ -1,0 +1,37 @@
+pageid: 2323325
+ns: 118
+title: Reconstruction:Proto-Germanic/ek
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*eka|*ik}}
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*éǵh₂}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ek/}}
+
+  ===Pronoun===
+  {{gem-pron}}
+
+  # [[I]]
+
+  ====Inflection====
+  {{gem-decl-ppron}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*ik}}
+  * {{desctree|gmq-pro|ᛖᚲ}}
+  * {{desc|got|𐌹𐌺}}
+  * {{desc|gme-cgo|ich}}
+
+  ===References===
+  <references/>
+
+  {{cln|gem-pro|personal pronouns}}
+
+  [[fr:Annexe:proto-germanique/*ek]]
+  [[nds:Anhang:Proto-Germaansch/ek]]

@@ -1,0 +1,28 @@
+pageid: 4719707
+ns: 118
+title: Reconstruction:Proto-Germanic/bruzdōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{suffix|gem-pro|*bruzdaz|t1=point, spike, thorn|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbruz.dɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[prick]] (as with a point)
+
+  ====Inflection====
+  {{gem-conj-wk2|bruzd}}
+
+  ====Related terms====
+  * {{l|gem-pro|*bruzdijaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*broʀdōn}}
+  * {{desc|non|brodda}}
+  * {{desc|got|*𐌱𐍂𐌿𐌶𐌳𐍉𐌽}} {{see desc}}

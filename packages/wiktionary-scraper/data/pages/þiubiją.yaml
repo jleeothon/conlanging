@@ -1,0 +1,26 @@
+pageid: 7476989
+ns: 118
+title: Reconstruction:Proto-Germanic/þiubiją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*þeubaz|t1=thief|*-ją}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθiu̯.βi.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[theft]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*þiubī}}
+  ** {{desc|ang|þīefefeoh|der=1}}
+  * {{desc|non|þýfi}}
+  * {{desc|got|𐌸𐌹𐌿𐌱𐌹}}

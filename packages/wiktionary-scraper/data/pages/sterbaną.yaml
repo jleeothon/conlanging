@@ -1,0 +1,59 @@
+pageid: 2895914
+ns: 118
+title: Reconstruction:Proto-Germanic/sterbaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*(s)terp-||to lose force; lose sensibility, become
+  numb; be dead, be motionless}}. Cognate with {{cog|la|torpēre}}. Or from
+  {{der|gem-pro|ine-pro|*sterbʰ-||to be stiff, become stiff}}, cognate with
+  {{cog|grc|στέρφνιος||hard, firm, tight}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈster.βɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to become [[stiff]]
+
+  # to [[die]], become [[lifeless]]
+
+  #: {{syn|gem-pro|*dawjaną}}
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=3|nopass=1|sterb|starb|sturb|sturb}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*starbijaną}}
+
+  * {{l|gem-pro|*starfą||labor}} {{q|North Germanic}}
+
+  * {{l|gem-pro|*sterbô}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*sterban}}
+
+  * {{desc|non|styrfinn|stirfinn}} {{qualifier|past participle adjective}}
+
+  ** {{desc|is|stirfinn}}
+
+  ** {{desc|fo|stirvin}}
+
+  ** {{desc|gmq-bot|stärv|staarv}}

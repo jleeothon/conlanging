@@ -1,0 +1,28 @@
+pageid: 3617905
+ns: 118
+title: Reconstruction:Proto-Germanic/staggijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+  ===Etymology===
+  See the variant {{m|gem-pro|*staggijô}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[stag]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  *{{l|gem-pro|*staggijô}}
+
+  ====Descendants====
+  * {{desc|non|steggr}}
+  ** {{desc|is|steggur}}
+  ** {{desc|enm|stegge|bor=1}}
+  *** {{desc|sco|steg}}
+  *** {{desc|en|steg}} {{qualifier|dialectal}}
+
+  {{topics|gem-pro|Cervids}}

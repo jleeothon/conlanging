@@ -1,0 +1,79 @@
+pageid: 4434175
+ns: 118
+title: Reconstruction:Proto-Germanic/drabaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  An s-stem possibly derived from {{der|gem-pro|ine-pro||*dʰrobʰ-}}, o-grade of
+  {{m|ine-pro|*dʰrebʰ-}}. Cognate with {{cog|sla-pro|*droba||sediment}} and
+  possibly related to {{cog|grc|τρέφω||to thicken, curdle}}.
+
+
+  Given the lack of certain cognates, M. Philippa suspects non-IE
+  {{der|gem-pro|qfa-sub|-}} origin.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdrɑ.βɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[dregs]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|stem=z}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*drōbuz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|*dræf}}
+
+  ** {{desc|enm|draf}}
+
+  *** {{desc|en|draff}}
+
+  * {{desc|odt|draf}}
+
+  ** {{desc|dum|draf}}
+
+  *** {{desc|nl|draf}}
+
+  * {{desc|goh|*trab|trebir}} (pl.)
+
+  ** {{desc|gmh|treber}}
+
+  *** {{desc|de|Treber}}
+
+  * {{desc|non|draf}}
+
+  ** {{desc|is|draf}}
+
+  ** {{desc|fo|drav}}
+
+  ** {{desc|gmq-osw|draf}}
+
+  *** {{desc|sv|drav}}
+
+  * {{desc|fiu-fin-pro|*rapa|bor=1}} {{see desc}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

@@ -1,0 +1,108 @@
+pageid: 2774828
+ns: 118
+title: Reconstruction:Proto-Germanic/hringaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxriŋ.ɡɑz/}}
+
+
+  ===Etymology 1===
+
+  From earlier {{m|ine-pro|*hrengaz}} (compare the {{cog|fiu-fin-pro|-}}
+  loanword {{m|fiu-fin-pro|*rengas}}), from {{inh|gem-pro|ine-pro|*(s)krengʰ-}},
+  extended nasalized form of {{der|gem-pro|ine-pro|*(s)ker-||to turn, bend}}.
+  Cognates with {{cog|sla-pro|*krǫgъ}}.
+
+
+  ====Noun====
+
+  {{gem-noun|m}}
+
+
+  # {{senseid|gem-pro|circle}}{{topic|gem-pro|Jewelry|Shapes}}[[ring]],
+  [[circle]]
+
+  # [[curve]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*hringijaną}}
+
+  * {{l|gem-pro|*hringijǭ}}
+
+  * {{l|gem-pro|*hringōną}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*hring}}
+
+  * {{desctree|non|hringr}}
+
+  * {{desc|got|*𐌷𐍂𐌹𐌲𐌲𐍃}}
+
+  ** {{desc|bor=1|it|aringo|arringo}}
+
+  *** {{desc|it|aringa|arringa}}
+
+  *** {{desc|bor=1|fro|harangue}}
+
+  **** {{desc|fr|harangue}}
+
+  **** {{desc|bor=1|en|harangue}}
+
+  **** {{desc|bor=1|oc|arengua}}
+
+  **** {{desc|bor=1|es|arenga}}
+
+  **** {{desc|bor=1|pt|arenga}}
+
+  **** {{desc|bor=1|la|harenga}}
+
+  * {{desc|gme-cgo|ringo}}
+
+  * {{desc|fiu-fin-pro|*rengas|bor=1}} {{q|< {{l|gem-pro||*hrengaz}}}} {{see
+  desc}}
+
+
+  ===Etymology 2===
+
+  From {{der|gem-pro|ine-pro|*(s)kreg-}}, {{m|ine-pro|*(s)kArg-}},
+  {{m|ine-pro|*(s)kArk-||to caw, crow, croak, pipe, shout}}. Cognate with
+  {{cog|lt|krañkti||to caw, cough, croak}}.
+
+
+  ====Noun====
+
+  {{gem-noun|m}}
+
+
+  # {{senseid|gem-pro|sound}}{{lb|gem-pro|West
+  Germanic}}{{topics|gem-pro|Sound}} [[sound]], [[ring]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*hringijaną}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*hring|id=sound}}

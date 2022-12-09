@@ -1,0 +1,30 @@
+pageid: 7459621
+ns: 118
+title: Reconstruction:Proto-Germanic/gawinnaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*ga-|*winnaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɣɑˈwin.nɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[labour]], [[toil]]
+  # to [[acquire]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|nopass=1|gawinn|gawann|gawunn|gawunn}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*gawinnan}}
+  ** {{desctree|ang|ġewinnan}}
+  ** {{desc|ofs|gewinna}}
+  ** {{desctree|osx|giwinnan}}
+  ** {{desctree|odt|giwinnan}}
+  ** {{desctree|goh|giwinnan}}
+  * {{desc|got|𐌲𐌰𐍅𐌹𐌽𐌽𐌰𐌽}}

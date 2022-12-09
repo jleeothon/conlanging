@@ -1,0 +1,27 @@
+pageid: 6285269
+ns: 118
+title: Reconstruction:Proto-Germanic/krīskaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*grey-||to shout}}; see {{m|gem-pro|*krītaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkriːskɑnɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[scream]], [[shout]], [[screech]]
+
+  ====Inflection====
+  {{gem-conj-st|class=1|krīsk|kraisk|krisk|krisk}}
+
+  ====Related terms====
+  * {{l|gem-pro|*krītaną}}
+  * {{l|gem-pro|*krīstaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*krīskan}}

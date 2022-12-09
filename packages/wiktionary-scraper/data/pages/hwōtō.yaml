@@ -1,0 +1,34 @@
+pageid: 7317039
+ns: 118
+title: Reconstruction:Proto-Germanic/hwōtō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Verbal noun of {{m|gem-pro|*hwētaną||to attack, stab}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxʷɔː.tɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*hwōtō|202}}</ref>
+
+  # [[threat]]
+  # [[reprimand]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hwōtijaną}}
+
+  ====Descendants====
+  * {{desc|non|hót|g=p-n}}
+  ** {{desc|sv|hot|g=n}}
+  ** {{desc|non|der=1|hóta|pos=v}}
+  *** {{desc|sv|hota|pos=v}}
+  * {{desc|got|𐍈𐍉𐍄𐌰}}
+
+  ===References===
+  <references/>

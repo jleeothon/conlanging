@@ -1,0 +1,49 @@
+pageid: 2948637
+ns: 118
+title: Reconstruction:Proto-Germanic/suhtiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*seukaną|t1=to be sick|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsux.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[sickness]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*suhti}}
+  ** {{desc|ang|suht}}
+  *** {{desc|enm|suht|souȝt|soght}}; {{l|enm|golsouȝt}}; {{l|enm|lungessouth}}
+  **** {{desc|sco|gulsoch}}; {{l|sco|lungasüte}}
+  ** {{desc|ofs|sechte|*siochte}}
+  *** {{desc|stq|Sucht}}
+  *** {{desc|fy|sjochte}}
+  ** {{desc|osx|suht}}
+  *** {{desc|gml|sucht}}
+  **** {{desc|nds-de|Sücht}}
+  ** {{desc|odt|suhti}}
+  *** {{desc|dum|suchte}}
+  **** {{desc|nl|zucht}}
+  ** {{desc|goh|suht}}
+  *** {{desc|gmh|suht}}
+  **** {{desc|de|Sucht}}
+  **** {{desc|lb|Sucht}}
+  * {{desc|non|sótt}}
+  ** {{desc|is|sótt}}
+  ** {{desc|fo|sótt}}
+  ** {{desc|da|sot}}
+  ** {{desc|no|sott}}
+  ** {{desc|gmq-osw|sot|alt=sōt}}
+  *** {{desc|sv|sot}}
+  * {{desc|got|𐍃𐌰𐌿𐌷𐍄𐍃}}
+
+  {{topics|gem-pro|Health}}

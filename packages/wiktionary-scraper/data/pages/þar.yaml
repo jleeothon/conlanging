@@ -1,0 +1,28 @@
+pageid: 2780762
+ns: 118
+title: Reconstruction:Proto-Germanic/þar
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*sa|alt1=*þa-|*r}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/θɑr/}}
+
+  ===Adverb===
+  {{gem-adv}}
+
+  # {{lb|gem-pro|demonstrative}} [[there]], in that place
+
+  ====Related terms====
+  * {{l|gem-pro|*hē₂r}}
+  * {{l|gem-pro|*hwar}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þār}}
+  * {{desctree|gmq-pro|ᚦᚨᚱ}}
+  * {{desc|got|𐌸𐌰𐍂}}
+
+  {{cln|gem-pro|demonstrative adverbs}}

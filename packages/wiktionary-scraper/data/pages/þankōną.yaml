@@ -1,0 +1,34 @@
+pageid: 2542328
+ns: 118
+title: Reconstruction:Proto-Germanic/þankōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*teng-|id=think}}
+  From {{suffix|gem-pro|*þankaz|t1=gratitude|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθɑŋ.kɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[thank]]
+
+  ====Inflection====
+  {{gem-conj-wk2|þank}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*þankōniz}}
+
+  ====Descendants====
+  * {{desctree|ang|þancian}}
+  * {{desc|ofs|thankia|thonkia}}
+  ** {{desc|stq|tonkje}}
+  ** {{desc|fy|taensjen|tankje|tanke}}
+  * {{desctree|osx|thankōn}}
+  * {{desctree|odt|thancon}}
+  * {{desctree|goh|dankōn}}
+  * {{desctree|non|þakka}}

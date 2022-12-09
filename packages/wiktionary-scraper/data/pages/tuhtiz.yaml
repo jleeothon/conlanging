@@ -1,0 +1,50 @@
+pageid: 4425215
+ns: 118
+title: Reconstruction:Proto-Germanic/tuhtiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dewk-}}
+  From {{suffix|gem-pro|*teuhaną|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtux.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[pulling]]
+  # [[discipline]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|tyht}}; {{l|ang|tohte}}
+  ** {{desc|enm|tuht|alt=tüht|tuhtle}}
+  * {{desc|ofs|tuchte|tucht|tochte|tocht}}
+  ** {{desc|stq|Tucht}}
+  ** {{desc|fy|tocht}}
+  * {{desc|osx|tuht}}
+  ** {{desc|gml|tucht}}
+  *** {{desc|nds-de|Tocht}}
+  *** {{desc|non|tykt|bor=1}}
+  **** {{desc|is|tykt}}
+  **** {{desc|da|tugt}}
+  **** {{desc|no|tukt}}
+  **** {{desc|sv|tukt}}
+  **** {{desc|gmq-bot|takt}} (in {{l|gmq-bot|otaktu}})
+  * {{desc|odt|*tuht}}
+  ** {{desc|dum|tocht|tucht}}
+  *** {{desc|nl|tocht|tucht}}
+  **** {{desc|da|togt|bor=1}}
+  **** {{desc|nn|tokt|bor=1}}
+  * {{desc|goh|zuht}}
+  ** {{desc|gmh|zuht}}
+  *** {{desc|de|Zucht}}
+  * {{desc|got|*𐍄𐌰𐌿𐌷𐍄𐍃|𐌿𐍃𐍄𐌰𐌿𐌷𐍄𐍃}}
+
+  ===References===
+  * {{R:gem:EDPG}}

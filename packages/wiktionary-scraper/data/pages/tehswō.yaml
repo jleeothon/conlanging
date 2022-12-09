@@ -1,0 +1,28 @@
+pageid: 7466383
+ns: 118
+title: Reconstruction:Proto-Germanic/tehswō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*deḱs-}}
+  From {{der|gem-pro|ine-pro|*deḱs-||right}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtexs.wɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*tehswō(n)|403}}</ref>
+
+  # [[right]] [[hand]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*tehsu}}
+  * {{desc|got|𐍄𐌰𐌹𐌷𐍃𐍅𐌰}}
+
+  ===References===
+  <references/>

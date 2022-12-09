@@ -1,0 +1,97 @@
+pageid: 4162359
+ns: 118
+title: Reconstruction:Proto-Germanic/sumpaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Compare {{m|gem-pro|*swammaz|t=sponge, fungus}}.<ref>{{R:Kluge
+  1891|Sumpf}}</ref><ref>{{R:ine:IEW|1052}}</ref> It is unclear whether both
+  words are of Indo-European origin or
+  wanderworts.<ref>{{R:nl:Etymologiebank|zomp2}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsum.pɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topics|gem-pro|Fungi}} [[fungus]], [[sponge]]
+
+  #: {{syn|gem-pro|*swammaz|alt1=*swambaz}}
+
+  # {{topics|gem-pro|Geography|Landforms|Water}} [[swamp]], [[marsh]]
+
+  #: {{syn|gem-pro|*fanją|*sīką|*strōduz|*swambaz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*swambaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*sump}}
+
+  ** {{desc|ang|*sump}}
+
+  *** {{desc|enm|sumpe}} {{i|possibly, attested 1240}}
+
+  ** {{desc|ofs|*sump}}
+
+  *** {{desc|stq|Sump}}
+
+  *** {{desc|fy|sompe|somp}}
+
+  ** {{desc|osx|*sump}}
+
+  *** {{desc|gml|sump}}
+
+  **** {{desc|nds-de|Sump}}
+
+  **** {{desc|pdt|Somp}}
+
+  **** {{desc|bor=1|no|sump}}
+
+  ** {{desc|odt|*sump}}
+
+  *** {{desc|dum|sump|somp}}
+
+  **** {{desc|nl|zomp}}
+
+  **** {{desc|bor=1|enm|-}} (or from Middle Low German) {{l|enm|sompe}};
+  {{l|enm|swamp}} (a blend of ''sompe'' and {{m|enm|swam}})
+
+  ***** {{desc|en|sump}}; {{l|en|swamp}} {{see desc}}
+
+  ** {{desc|goh|*sumpf}}
+
+  *** {{desc|gmh|sumpf}}
+
+  **** {{desc|cs|žumpa}}
+
+  **** {{desc|de|Sumpf}}
+
+  **** {{desc|pl|żąp}}
+
+  * {{desc|non|-}} ({{l|non|soppr}})
+
+
+  ===References===
+
+  <references/>

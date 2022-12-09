@@ -1,0 +1,30 @@
+pageid: 3927925
+ns: 118
+title: Reconstruction:Proto-Germanic/blōþijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative reconstructions===
+  * {{l|gem-pro|*blōdijaną}}<ref name="HGE">{{R:gem:HGE|*blōđjanan|50}}</ref>
+
+  ===Etymology===
+  From {{affix|gem-pro|*blōþą|t1=blood|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈblɔː.θi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[bleed]]
+
+  ====Inflection====
+  {{gem-conj-wk1|blōþ|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*blōdijan}}
+  * {{desctree|non|blǿða}}
+
+  ===References===
+  <references/>

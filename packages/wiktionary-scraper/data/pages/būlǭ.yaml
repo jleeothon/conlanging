@@ -1,0 +1,45 @@
+pageid: 5021753
+ns: 118
+title: Reconstruction:Proto-Germanic/būlǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*bulǭ}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*bū-}}, {{m|ine-pro|*bew-||to blow; swell}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbuː.lɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[swelling]]; [[bump]]; [[boil]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*būlijǭ}}
+  ** {{desc|ang|bȳl}}, {{l|ang|bȳle}}
+  *** {{desc|enm|beel}}, {{l|enm|bele}}
+  **** {{desc|en|beal}}
+  *** {{desc|enm|bile}}, {{l|enm|bule|büle}}
+  **** {{desc|en|boil}}
+  **** {{desc|sco|bile}}, {{l|sco|beil}}
+  ** {{desc|goh|būilla}}, {{l|goh|būlla}}, {{l|goh|būla}}, {{l|goh|bulla}}
+  *** {{desc|gmh|biule}}
+  **** {{desc|de|Beule}}
+
+  ====Related terms====
+  * {{l|gem-pro|*būlō}}
+
+  ====Descendants====
+  * {{desc|ofs|*būle}}
+  ** {{desc|stq|Buule}}
+  * {{desc|odt|būla}}
+  ** {{desc|dum|bule}}
+  *** {{desc|nl|buil}}

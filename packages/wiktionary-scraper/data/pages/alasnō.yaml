@@ -1,0 +1,32 @@
+pageid: 6304977
+ns: 118
+title: Reconstruction:Proto-Germanic/alasnō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alt|gem-pro|*alisnō}}
+
+  ===Etymology===
+  From {{suffix|gem-pro|*alaz|*-snō}}.<ref name="EDPG"/>
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑ.lɑs.nɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="EDPG">{{R:gem:EDPG|*alasnō-|20}}</ref>
+
+  # [[awl]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*alasnu|*alisnu}}
+  * {{desc|got|*𐌰𐌻𐌹𐍃𐌽𐌰}} {{q|unattested; possibly loaned into Romance}}
+
+  ===References===
+  <references/>
+
+  [[Category:gem-pro:Tools]]

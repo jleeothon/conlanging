@@ -1,0 +1,41 @@
+pageid: 6384071
+ns: 118
+title: Reconstruction:Proto-Germanic/manōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*men-|t=to think}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑ.nɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[bring to mind]]; [[remind]]
+  # to [[admonish]]; [[warn]]
+  # to [[urge]]
+
+  ====Inflection====
+  {{gem-conj-wk2|man}}
+
+  ====Related terms====
+  * {{l|gem-pro|*mainijaną}}
+  * {{l|gem-pro|*manjaną}}
+
+  ====Descendants====
+  * {{desc|ang|manian|monian}}
+  ** {{desc|enm|*monien|monihen}}
+  * {{desc|ofs|mania|monia}}
+  ** {{desc|stq|moonje}}
+  ** {{desc|fy|moanje}}
+  * {{desc|osx|manōn}}
+  ** {{desc|gml|mānen}}
+  *** {{desc|nds-de|mahnen}}
+  *** {{desc|da|bor=1|mane}}
+  * {{desctree|odt|manon}}
+  * {{desc|goh|manōn}}
+  ** {{desc|gmh|manen}}
+  *** {{desc|de|mahnen}}

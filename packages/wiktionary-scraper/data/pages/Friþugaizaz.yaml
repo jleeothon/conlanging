@@ -1,0 +1,35 @@
+pageid: 3539437
+ns: 118
+title: Reconstruction:Proto-Germanic/Friþugaizaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*preyH-}}
+  From {{compound|gem-pro|*friþuz|t1=peace|*gaizaz|t2=spear}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸri.θu.ˌɣɑi̯.zɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Related terms====
+  * {{l|gem-pro|*Hrōþigaizaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*Friþugaiʀ}}
+  * {{desc|non|Friðgeirr}}
+  ** {{desc|is|Friðgeir}}
+  ** {{desc|no|Fridgeir|Fredgeir}}
+  ** {{desc|gmq-osw|Fridhger}}
+  ** {{desc|gmq-oda|Frithger}}
+
+  ===References===
+  * {{R:non:Nordiskt runnamnslexikon|FriðgæiRR}}

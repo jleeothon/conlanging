@@ -1,0 +1,28 @@
+pageid: 7703323
+ns: 118
+title: Reconstruction:Proto-Germanic/duljaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*dulaz|t1=confused|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdul.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[mislead]]
+
+  ====Inflection====
+  {{gem-conj-wk1|dul|j=j}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bidulljan|der=1}}
+  * {{desc|non|dylja}}
+  ** {{desc|is|dylja}}
+  ** {{desc|nn|dølje}}
+  ** {{desc|sv|dölja}}
+  ** {{desc|da|dølge}}

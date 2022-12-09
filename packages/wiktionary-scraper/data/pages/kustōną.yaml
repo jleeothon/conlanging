@@ -1,0 +1,32 @@
+pageid: 3696665
+ns: 118
+title: Reconstruction:Proto-Germanic/kustōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵews-}}
+  From {{m|gem-pro|*kustuz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkus.tɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[try]]
+  # to [[taste]]
+
+  ====Inflection====
+  {{gem-conj-wk2|kust}}
+
+  ====Related terms====
+  * {{l|gem-pro|*keusaną}}
+  * {{l|gem-pro|*kustuz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*kostōn}}
+  * {{desc|non|kosta}}
+  ** {{desc|is|kosta}}
+  ** {{desc|sv|kosta}}

@@ -1,0 +1,46 @@
+pageid: 6241921
+ns: 118
+title: Reconstruction:Proto-Germanic/waiwô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*wēwô}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*wai}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[woe]], [[grief]], [[misery]]
+  # [[evil]], [[wickedness]], [[malice]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wai}}
+  * {{l|gem-pro|*wainagaz}}
+  * {{l|gem-pro|*wainōną}}
+  * {{l|gem-pro|*waiwō}}
+
+  ====Descendants====
+  * {{desctree|ang|wēa}}
+  * {{desc|osx|*wēwo}}
+  ** {{desc|gml|wēwe}}
+  * {{desc|frk|*waiwo}}
+  ** {{desc|odt|*wēwo}}
+  *** {{desc|dum|weewe}}
+  **** {{desc|nl|wee}}
+  ** {{desc|bor=1|VL.|*waius|*guaius}}
+  *** {{desc|it|guaio}}
+  *** {{desc|pt|guaya}}
+  *** {{desc|osp|guaya}}
+  **** {{desc|es|guaya}}
+  **** {{desc|lad|guaya}}
+  * {{desctree|goh|wēwo}}
+  * {{desc|non|vá|vó|vo}} {{q|< {{l|gem-pro|*waiwō}}}}
+  ** {{desc|is|vá|vó}}
+  * {{desc|fiu-fin-pro|*vaiva|bor=1}} {{see desc}} {{q|< {{l|gem-pro|*waiwō}}}}

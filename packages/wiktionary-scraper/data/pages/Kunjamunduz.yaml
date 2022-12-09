@@ -1,0 +1,30 @@
+pageid: 5559163
+ns: 118
+title: Reconstruction:Proto-Germanic/Kunjamunduz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*kunją|t1=kin, family|*mundō|t2=protection}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkun.jɑ.ˌmun.duz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Related terms====
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Kunimundu}}
+  ** {{desc|ang|Cynemund}}
+  ** {{desc|goh|Chunimunt}}
+  * {{desc|gmq-pro|ᚲᚢᚾᛁᛗᚢᛞᛁᚢ|ts=Kunimundiu}} {{q|dative}}
+  ** {{desc|non|ᚴᚢᚿᛙᚢᚿᛐᛆᛧ}} {{q|plural}}
+  * {{desc|la|Cunimundus|bor=1}} {{qualifier|from an East-Germanic language}}

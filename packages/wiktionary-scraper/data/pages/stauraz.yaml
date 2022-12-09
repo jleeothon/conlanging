@@ -1,0 +1,82 @@
+pageid: 5078678
+ns: 118
+title: Reconstruction:Proto-Germanic/stauraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology 1===
+
+  From {{m|gem-pro|*stu-}}, ultimately from {{der|gem-pro|ine-pro|*steh₂-|t=to
+  stand}}.
+
+
+  ====Pronunciation====
+
+  * {{IPA|gem-pro|/ˈstɑu̯.rɑz/}}
+
+
+  ====Noun====
+
+  {{gem-noun|m}}
+
+
+  # {{senseid|gem-pro|stake}} [[stake]]
+
+  #: {{syn|gem-pro|*furkaz|*stakô}}
+
+  # [[rod]], [[pole]]
+
+  #:
+  {{syn|gem-pro|*furkaz|*galgô|*mastaz|*rōdō|*skaftaz|*spaluz|*spīrǭ|*tainaz}}
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desc|gmw-pro|}}
+
+  ** {{desc|gml|stūr}}
+
+  * {{desctree|non|staurr}}
+
+  * {{desc|fiu-fin-pro|*sapra|bor=1}}  {{see desc}}
+
+
+  ===Etymology 2===
+
+  {{root|gmw-pro|ine-pro|*(s)twerH-}}
+
+  From {{inh|gmw-pro|ine-pro||*(s)towr-o-s}}, from {{m|ine-pro||*(s)tewrH-}},
+  {{m|ine-pro|*(s)twerH-|t=to stir up, agitate}}.
+
+
+  ====Noun====
+
+  {{head|gem-pro|noun|g=m}}
+
+
+  # {{senseid|gem-pro|destruction}}{{lb|gem-pro|West Germanic}} [[destruction]]
+
+  # {{lb|gem-pro|West Germanic}} [[disturbance]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*staur}}
+
+
+  ===Further reading===
+
+  * {{R:gem:EDPG|*staurjan-|476|passage=*staura-}}

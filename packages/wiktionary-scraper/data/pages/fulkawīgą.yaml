@@ -1,0 +1,31 @@
+pageid: 7315764
+ns: 118
+title: Reconstruction:Proto-Germanic/fulkawīgą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*fulką|*wīgą|t1=folk|t2=battle}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸul.kɑ.ˌwiː.ɣɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref name="HGE">{{R:gem:HGE|*fulka-wīgan|118}}</ref>
+
+  # [[warfare]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ofs|folwīch}}
+  * {{desc|osx|*folkwīg}}
+  ** {{desc|gml|volkwîch|volkwîg}}
+  * {{desctree|goh|folkwīg}}
+  * {{desc|non|folkvíg|fólkvíg}}
+  ** {{desc|is|fólkvíg}}
+
+  ===References===
+  <references/>

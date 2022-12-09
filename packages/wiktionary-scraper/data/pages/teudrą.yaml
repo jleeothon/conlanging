@@ -1,0 +1,114 @@
+pageid: 5892332
+ns: 118
+title: Reconstruction:Proto-Germanic/teudrą
+wikitext: >-
+  {{also|Reconstruction:Proto-Germanic/tūdrą}}
+
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+  <!--note: not alternative reconstructions-->
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*tūdrą}}<ref name="Kroonen"/>
+
+
+  ===Etymology===
+
+  {{unk|gem-pro|Uncertain}}. Probably from {{der|gem-pro|ine-pro|*dewk-||to
+  pull}} or {{m|ine-pro|*dewh₂-||to tie to, secure}} suffixed with
+  {{m|ine-pro|*-trom|-tróm}} or {{m|ine-pro|*-dʰrom}}, but Kroonen prefers an
+  alternative relationship to {{m|ine-pro|*deh₁-}}.
+
+  {{cln|gem-pro|terms suffixed with *-þrą}}
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈteu̯.ðrɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}<ref name="Kroonen">{{R:gem:EDPG|head=''*teudra- ~
+  *tūdra-''|pages=514–515}}</ref>
+
+
+  # That which is [[tug]]ged or [[pull]]ed on, [[tether]]
+
+  # A [[drawbar]]; [[shaft]]
+
+  # A [[cord]]; [[rope]]; [[line]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*tawwą}}
+
+  * {{l|gem-pro|*teuhaną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|*tēoder}}; {{l|ang|tūdor}}, {{l|ang|tuddor}}
+
+  ** {{desc|enm|teder|tether}} (possibly merged with Old Norse)
+
+  *** {{desc|sco|tedder|tether}}
+
+  *** {{desc|en|tether}}
+
+  *** {{desc|gd|teadhair|bor=1}}
+
+  * {{desc|ofs|tiāder|tiēder}}
+
+  ** {{desc|frr|tjodder|tjudder}}
+
+  * {{desc|osx|*tiothar}}; {{l|osx|*tūdar}}
+
+  ** {{desc|gml|tûder|tudder}}
+
+  *** {{desc|nds|Tüder|Töder|Tider|Tier}}
+
+  * {{desc|odt|*tūdar}}
+
+  ** {{desc|dum|tuder|tudder|tuyer}}; {{l|dum|tuyderen}}, {{l|dum|tuyeren}}
+
+  *** {{desc|nl|tui}}; {{l|nl|tuien}}
+
+  * {{desc|goh|ziotar}}
+
+  ** {{desc|gmh|zieter}}
+
+  *** {{desc|de|Zieter}}
+
+  * {{desc|non|tjóðr}}
+
+  ** {{desc|is|tjóður}}
+
+  ** ({{desc|fo|tjóðra}})
+
+  ** {{desc|no|tjore}}
+
+  ** {{desc|gmq-osw|tiuþer|alt=tiūþer}}
+
+  *** {{desc|sv|tjuder}}
+
+  ** {{desc|da|tøjr}}
+
+  ** {{desc|gmq-bot|tjur}}
+
+  ** {{desc|gmq-jmk|tjøðr}}
+
+
+  ===References===
+
+  <references/>

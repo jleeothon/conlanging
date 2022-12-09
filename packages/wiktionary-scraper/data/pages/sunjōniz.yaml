@@ -1,0 +1,29 @@
+pageid: 4688670
+ns: 118
+title: Reconstruction:Proto-Germanic/sunjōniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*sunjōną||to put right, deny a charge}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsun.jɔː.niz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[defense]], [[answer]], setting oneself right
+  # [[denial]], [[refusal]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|non|synjan}}
+  ** {{desc|is|synjun|synjan}}
+  ** {{desc|fo|synjan}}
+  * {{desc|got|𐍃𐌿𐌽𐌾𐍉𐌽𐍃}}
+
+  {{cln|gem-pro|terms suffixed with *-ōniz}}

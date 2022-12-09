@@ -1,0 +1,32 @@
+pageid: 7314850
+ns: 118
+title: Reconstruction:Proto-Germanic/seukadōmaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*seukaz|*-dōmaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈseu̯.kɑ.dɔː.maz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|*seukadōmaz|326}}</ref>
+
+  # [[illness]], [[sickness]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|osx|*siokdōm}}
+  ** {{desc|gml|sēkedōm}}
+  * {{desc|odt|siokduom}}
+  * {{desc|goh|siohtuom}}
+  ** {{desc|gmh|siechtuom}}
+  *** {{desc|de|Siechtum}}
+  * {{desctree|non|sjúkdómr}}
+
+  ===References===
+  <references/>

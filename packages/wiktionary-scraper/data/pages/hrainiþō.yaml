@@ -1,0 +1,28 @@
+pageid: 7316936
+ns: 118
+title: Reconstruction:Proto-Germanic/hrainiþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*hrainiz|*-iþō|t1=clean, not dirty, pure}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxrɑi̯.ni.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*xrainiþō|183}}</ref>
+
+  # [[purification]], [[cleansing]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|goh|hreinida|reinida}}
+  ** {{desc|gmh|reinde}}
+  * {{desc|got|𐌿𐌽𐌷𐍂𐌰𐌹𐌽𐌹𐌸𐌰|der=1}}
+
+  ===References===
+  <references/>

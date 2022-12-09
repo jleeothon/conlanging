@@ -1,0 +1,30 @@
+pageid: 2948629
+ns: 118
+title: Reconstruction:Proto-Germanic/druhtiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dʰrewgʰ-|id=serve}}
+  From {{suffix|gem-pro|*dreuganą|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdrux.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # band of [[retainers]], [[troop]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*druhtinaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*druhti}}
+  * {{desc|non|drótt}}
+  ** {{desc|is|drótt}}
+  * {{desc|got|*𐌳𐍂𐌰𐌿𐌷𐍄𐍃}} (in {{l|got|𐌲𐌰𐌳𐍂𐌰𐌿𐌷𐍄𐍃}})

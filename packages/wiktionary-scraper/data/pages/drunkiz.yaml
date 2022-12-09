@@ -1,0 +1,36 @@
+pageid: 4582624
+ns: 118
+title: Reconstruction:Proto-Germanic/drunkiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*drinkaną||to drink}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdruŋ.kiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[drink]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|ang|drynċ}}
+  * {{desc|osx|*drunk}}
+  ** {{desc|gml|drunk}}
+  *** {{desc|nds-de|Drunk}}
+  * {{desc|odt|*drunc|*drunk}}
+  ** {{desc|dum|dronc}}
+  *** {{desc|nl|dronk}}
+  * {{desc|goh|trunk}}
+  ** {{desc|gmh|trunc}}
+  *** {{desctree|de|Trunk}}
+  * {{desctree|non|drykkr}}
+
+  ===References===
+  * {{R:gem:EDPG}}

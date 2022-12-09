@@ -1,0 +1,31 @@
+pageid: 7638584
+ns: 118
+title: Reconstruction:Proto-Germanic/furaisagjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*furai|*sagjaną}}.
+
+  ===Verb===
+  {{head|gem-pro|verb}}
+
+  # to [[say]] [[beforehand]]
+  # to [[predict]]
+
+  ====Inflection====
+  {{gem-conj-wk3-j|furaisag|j=j}}
+
+  ====Descendants====
+  * {{desctree|ang|foreseċġan}}
+  * {{desc|osx|foraseggian}}
+  ** {{desc|gml|vōreseggen}}
+  * {{desc|odt|foraseggen|forasagon}}
+  ** {{desc|dum|vōreseggen}}
+  *** {{desc|nl|voorzeggen}}
+  * {{desc|goh|forasagēn}}
+  ** {{desc|gmh|voresagen}}
+  *** {{desc|de|vorsagen}}
+  * {{desc|non|fyrirsegja}}
+  ** {{desc|is|fyrirsegja}}

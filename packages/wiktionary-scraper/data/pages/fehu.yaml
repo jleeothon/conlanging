@@ -1,0 +1,41 @@
+pageid: 2398569
+ns: 118
+title: Reconstruction:Proto-Germanic/fehu
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*peḱ-|id=livestock}}
+  From early {{m|ine-pro||*péku}}, from {{inh|gem-pro|ine-pro|*péḱu}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸe.xu/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{topics|gem-pro|Cattle|Livestock}}[[livestock]], [[cattle]]
+  # [[property]], {{topic|gem-pro|Money}} [[wealth]]
+  # {{lb|gem-pro|Runic alphabet}} name of the F-rune ([[ᚠ]])
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*fehufrekaz}}
+  * {{l|gem-pro|*fehufangą}}
+  * {{l|gem-pro|*fehugernaz}}
+  * {{l|gem-pro|*fehuhūsą}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*fehu}}
+  * {{desctree|non|fé}}
+  * {{desc|got|𐍆𐌰𐌹𐌷𐌿|alts=1}}
+
+  ===References===
+  <references />
+
+  {{topics|gem-pro|Agriculture}}
+  {{topics|gem-pro|Mammals}}
+  {{topics|gem-pro|Runic letter names|sort=F}}

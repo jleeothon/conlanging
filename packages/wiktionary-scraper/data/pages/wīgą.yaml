@@ -1,0 +1,48 @@
+pageid: 4999071
+ns: 118
+title: Reconstruction:Proto-Germanic/wīgą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*wīgaz}}, {{l|gem-pro|*wīgiją}}
+
+  ===Etymology===
+  From {{m|gem-pro|*wiganą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwiː.ɣɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[fight]], [[battle]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*haþuz}}
+  * {{l|gem-pro|*hildiz}}
+  * {{l|gem-pro|*gunþiz}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*Haþuwīgą||[[Hedwig]]}}
+  * {{l|gem-pro|*Audawīgą||[[w:Eadwig|Eadwig]]}}
+  * {{l|gem-pro|*wīgalīkaz||martial, militant}}
+  * {{l|gem-pro|*wīgamann-||warrior, champion}}
+  * {{l|gem-pro|*ainawīgiją||single combat}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wīgô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wīg|g=m}}
+  * {{desc|non|víg}}
+  ** {{desc|is|víg}}
+  ** {{desc|fo|víggj|víg}}
+  ** {{desc|gmq-osw|vigh|alt=vīgh}}
+  * {{desc|got|𐍅𐌹𐌲𐌰𐌽|*𐍅𐌴𐌹𐌲𐍃|*𐍅𐌹𐌲𐍃}}  {{q|in [[proper noun]]s}}
+
+  {{topics|gem-pro|War}}

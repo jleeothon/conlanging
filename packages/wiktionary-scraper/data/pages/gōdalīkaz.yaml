@@ -1,0 +1,38 @@
+pageid: 4047252
+ns: 118
+title: Reconstruction:Proto-Germanic/gōdalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*gōdaz|*līkaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣɔː.ðɑ.ˌliː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[good]]; [[goodly]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|gōdalīk}}
+
+  ====Descendants====
+  * {{desc|ang|gōdlīc|gōdlīċ}}
+  ** {{desc|enm|goodlich|goodly}}
+  *** {{desc|sco|gudely|gudly|guidly}}
+  *** {{desc|en|goodly}}
+  * {{desc|ofs|gōdlīk}}
+  * {{desc|osx|gōdlīk}}
+  ** {{desc|gml|gōtlīk}}
+  *** {{desc|nds|göödlich}}
+  * {{desc|odt|*guodlīk}}
+  ** {{desc|dum|goedelijck}}
+  *** {{desc|nl|goedelijk}}
+  * {{desc|goh|guotlīh|kuotilīh|guollīh}}
+  ** {{desc|gmh|guotlīch|güetlīch}}
+  *** {{desc|de|gütlich}}
+  * {{desc|non|góðligr}}
+  ** {{desc|is|góðlegur}}

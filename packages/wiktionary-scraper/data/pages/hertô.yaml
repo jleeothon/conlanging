@@ -1,0 +1,30 @@
+pageid: 2900412
+ns: 118
+title: Reconstruction:Proto-Germanic/hertô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ḱerd-}}
+  From {{inh|gem-pro|ine-pro|*ḱḗr||heart}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxer.tɔːː/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{topics|gem-pro|Body parts}} [[heart]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=n}}
+
+  ====Related terms====
+  * {{l|gem-pro|*hartą}}
+  * {{l|gem-pro|*herþrą}} {{q|possibly}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hertā}}
+  * {{desctree|non|hjarta}}
+  * {{desc|got|𐌷𐌰𐌹𐍂𐍄𐍉}}

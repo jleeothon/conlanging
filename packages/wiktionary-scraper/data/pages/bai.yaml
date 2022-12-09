@@ -1,0 +1,95 @@
+pageid: 7096006
+ns: 118
+title: Reconstruction:Proto-Germanic/bai
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Compare {{cog|lt|abu|t=both}}, {{cog|sla-pro|*oba}}, {{cog|sa|उभय}},
+  {{cog|la|ambo|(am)bō}}; from a common {{der|gem-pro|ine-pro|*bʰoh₁}},
+  reflected in the neuter form {{m|gem-pro|*bō}}.<ref
+  name=kroonen>{{R:gem:EDPG|*ba-|46}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/bɑi̯/}}
+
+
+  ===Determiner===
+
+  {{gem-det}}<ref name=kroonen>{{R:gem:EDPG|*ba-|46}}</ref>
+
+
+  # [[both]]
+
+
+  ====Inflection====
+
+  {{gem-decl-bai}}
+
+
+  The inflection of *bai resembles that found at {{m|gem-pro|*twai}}.
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro}}
+
+  ** {{desc|ang|bœ̄ġen|bēġen|bēġġen}} (< {{m+|gmw-pro|*bōjain}}, a compound
+  formed from {{m|gmw-pro|*bō}} + {{m|gmw-pro|*jain}})
+
+  *** {{desc|enm|beȝenn|beigene|beine|beie|beye|bey}}
+
+  * {{desctree|non|beggja|pos=genitive}}
+
+  * {{desc|got|𐌱𐌰𐌹}}
+
+
+  Most languages have this word in a compound with the demonstrative
+  {{m|gem-pro|*sa}}:
+
+  * {{desc|gmw-pro}}
+
+  ** {{desc|ang|bā þā}}
+
+  *** {{desc|enm|baþe|boþe|bayth|bothe}}
+
+  **** {{desc|en|both}}
+
+  **** {{desc|sco|bathe|baith}}
+
+  ** {{desc|ofs|bēthe}}
+
+  *** {{desc|stq|bee}}
+
+  *** {{desc|fy|beide}}
+
+  ** {{desc|osx|bēthia}}
+
+  *** {{desc|gml|bêde|beide|beyde}}
+
+  **** {{desc|nds-de|beide|beid}}
+
+  ** {{desc|odt|beithe}}
+
+  *** {{desc|dum|beide}}
+
+  **** {{desc|nl|beide}}
+
+  ** {{desc|goh|beidē}}
+
+  *** {{desc|gmh|beide|bēde}}
+
+  **** {{desc|de|beide}}
+
+  * {{desctree|non|báðir}}
+
+
+  ===References===
+
+  <references/>

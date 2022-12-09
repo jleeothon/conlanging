@@ -1,0 +1,26 @@
+pageid: 7710036
+ns: 118
+title: Reconstruction:Proto-Germanic/spanjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*spananą|*-janą|id2=causative}}.
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*spanjanan|page=362}}</ref>
+
+  # to [[attract]], to [[allure]]
+
+  ====Inflection====
+  {{gem-conj-wk1|span|j=j}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*spannjan}}
+  ** {{desc|ang|spennan}}
+  ** {{desc|goh|spennen}}
+  * {{desc|non|spenja}}
+
+  ===References===
+  <references/>

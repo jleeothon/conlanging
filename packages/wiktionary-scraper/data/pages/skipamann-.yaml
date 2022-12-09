@@ -1,0 +1,25 @@
+pageid: 7387997
+ns: 118
+title: Reconstruction:Proto-Germanic/skipamann-
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*skipą|*mann-}}.
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:HGE|*skipa-mannz|340}}</ref>
+
+  # [[sailor]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skipamann}}
+  * {{desc|non|skipmaðr}}
+  ** {{desc|is|skipmaður|skipamaður}}
+
+  ===References===
+  <references/>

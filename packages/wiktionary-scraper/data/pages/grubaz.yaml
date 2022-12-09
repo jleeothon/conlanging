@@ -1,0 +1,102 @@
+pageid: 4574530
+ns: 118
+title: Reconstruction:Proto-Germanic/grubaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*gahrubaz}}
+
+
+  ===Etymology===
+
+  Origin {{unk|gem-pro|title=uncertain}}. Possibly from Pre-Germanic
+  {{m|ine-pro||*gʰrubʰos}}, from {{der|gem-pro|ine-pro|*gʰrewbʰ-}}. Related to
+  {{cog|lt|grubus||rough}}, {{cog|sh|grȗb|t=rough, coarse}}.
+
+
+  Alternatively from {{af|gem-pro|*ga-|*hrubaz}}, related to
+  {{cog|gem-pro|*hreubaz|t=scabby, rough}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣru.βɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[coarse]], [[rough]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|grub}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*greubô}}
+
+  * {{l|gem-pro|*greupaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*grob|*gahrob}}
+
+  ** {{desc|ofs|*grof}}
+
+  *** {{desc|stq|groaf}}
+
+  *** {{desc|fy|grof}}
+
+  ** {{desc|osx|*grof}}
+
+  *** {{desc|gml|grof|grōv-}}
+
+  **** {{desc|nds|groff}}
+
+  **** {{desc|pdt|groff}}
+
+  **** {{desc|bor=1|non|grófr}} (descendants may reflect other forms)
+
+  ***** {{desc|no|-}} {{l|nb|grov}}
+
+  ***** {{desc|da|grov}}
+
+  ***** {{desc|gmq-osw|grōver}}
+
+  ****** {{desc|sv|grov}}
+
+  ***** {{desc|gmq-bot|grop}}
+
+  ** {{desc|odt|*grof}}
+
+  *** {{desctree|dum|grof}}
+
+  ** {{desc|goh|grob|girob}}
+
+  *** {{desc|gmh|grop|grob}}
+
+  **** {{desc|de|grob}}
+
+  *** {{desc|der=1|goh|griobo|pos=n}} (< {{l|gem-pro|*greubô}})
+
+  **** {{desc|gmh|griebe}}
+
+  ***** {{desc|gsw|Grüübi}}
+
+  ***** {{desc|de|Griebe}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

@@ -1,0 +1,21 @@
+pageid: 7638574
+ns: 118
+title: Reconstruction:Proto-Germanic/firigrīpaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*firi-|*grīpaną}}.
+
+  ===Verb===
+  {{head|gem-pro|verb}}
+
+  # to [[grasp]], to [[take hold]] of
+
+  ====Inflection====
+  {{gem-conj-st|class=1|firigrīp|firigraip|firigrip|firigrip}}
+
+  ====Descendants====
+  * {{desc|ang|forgrīpan}}
+  * {{desc|got|𐍆𐌰𐌹𐍂𐌲𐍂𐌴𐌹𐍀𐌰𐌽}}

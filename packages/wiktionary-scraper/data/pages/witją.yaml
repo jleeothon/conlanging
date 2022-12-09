@@ -1,0 +1,33 @@
+pageid: 4921249
+ns: 118
+title: Reconstruction:Proto-Germanic/witją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weyd-}}
+  From {{der|gem-pro|ine-pro|*weyd-||to know}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwit.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[knowledge]]
+  # [[reason]]; [[sense]]; [[understanding]]
+  # [[wit]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*witaną}}
+  * {{l|gem-pro|*witą}}
+  * {{l|gem-pro|*witāną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*witi}}
+  * {{desc|got|*𐍅𐌹𐍄𐌹}} (attested in {{l|got|𐌿𐌽𐍅𐌹𐍄𐌹}})
+  * {{desc|xvn|*wit|*witV-}}

@@ -1,0 +1,47 @@
+pageid: 2730308
+ns: 118
+title: Reconstruction:Proto-Germanic/hwalaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*(s)kʷálos|t=large fish, sheatfish}}. Compare
+  {{cog|la|squalus}}, {{cog|prg|kalis}}, {{cog|grc|ἀσπαλιεύς|t=fisherman}},
+  {{cog|ae|𐬐𐬀𐬭𐬀||kind of fish}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxʷɑ.lɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topics|gem-pro|Cetaceans}} [[whale]]
+
+  # [[sheatfish]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*hwal}}
+
+  * {{desctree|non|hvalr}}
+
+  * {{desctree|smi-pro|*fālēs|bor=1}}
+
+  ** {{desc|se|fális}}
+
+  ** {{desc|sma|faelies}}

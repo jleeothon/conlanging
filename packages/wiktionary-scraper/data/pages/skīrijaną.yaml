@@ -1,0 +1,33 @@
+pageid: 5024039
+ns: 118
+title: Reconstruction:Proto-Germanic/skīrijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*skīriz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskiː.ri.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[make]] [[clear]], make [[pure]]
+  # to make [[orderly]], [[arrange]]
+
+  ====Inflection====
+  {{gem-conj-wk1|skīr|j=ij}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*skīrīniz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skīrijan}}
+  * {{desc|non|skíra}}
+  ** {{desc|is|skíra}}
+  ** {{desc|fo|skíra}}
+  ** {{desc|gmq-osw|skira|alt=skīra}}
+  *** {{desc|sv|skira}}
+  * {{desc|got|*𐍃𐌺𐌴𐌹𐍂𐌾𐌰𐌽|𐌲𐌰𐍃𐌺𐌴𐌹𐍂𐌾𐌰𐌽}}

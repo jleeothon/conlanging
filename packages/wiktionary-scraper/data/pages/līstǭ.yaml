@@ -1,0 +1,120 @@
+pageid: 5559427
+ns: 118
+title: Reconstruction:Proto-Germanic/līstǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*leyzd-||edge; seam; band}}, from
+  {{inh|gem-pro|ine-pro|*leys-||track; groove; furrow}}; or perhaps from
+  {{inh|gem-pro|ine-pro|*leytstā-}}, related to {{m+|la|lītus||shore; coast}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈliːs.tɔ̃ː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[strip]]; [[band]]; [[hem]]; [[selvage]]; [[list]]
+
+  # [[edge]]
+
+  # [[ledge]]
+
+  # [[border]]; [[rim]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*līstā}}
+
+  ** {{desc|ang|līste}}
+
+  *** {{desc|enm|liste|lyste}}; {{l|en|list}} (through confluence with Old
+  French form)
+
+  **** {{desc|sco|liste|lyst|list}}
+
+  **** {{desc|en|list}}
+
+  ***** {{desc|ga|liosta|bor=1}}
+
+  ** {{desc|ofs|*līste|*lēste}}
+
+  *** {{desc|stq|Lieste}}; {{l|stq|Läiste}}
+
+  *** {{desc|fy|list}}
+
+  ** {{desc|osx|*līsta}}
+
+  *** {{desc|gml|lîste}}
+
+  **** {{desc|nds-nl|lieste|liest}}
+
+  **** {{desc|nds-de|Liest}}
+
+  **** {{desc|non|lísta|bor=1}}
+
+  ***** {{desc|is|lista}}; {{l|is|listi}}
+
+  ***** {{desc|fo|listi}}
+
+  ***** {{desc|no|liste}}
+
+  ***** {{desc|sv|lista}}; {{l|sv|list}}
+
+  ***** {{desc|da|liste}}; {{l|da|list}}
+
+  ** {{desc|frk|*līsta}}
+
+  *** {{desc|odt|*līsta}}
+
+  **** {{desc|dum|lijste|lijst}}
+
+  ***** {{desc|nl|lijst|t=frame}}
+
+  *** {{desc|la-vul|*lista|bor=1}} (also possibly from Langobardic)
+
+  **** {{desc|fro|liste}}
+
+  ***** {{desc|frm|liste}}
+
+  ****** {{desc|fr|liste}}
+
+  **** {{desc|it|lista}}
+
+  ***** {{desc|nl|lijst|bor=1|t=list}} {{q|likely in part through French}}
+
+  ***** {{desc|de|Liste|bor=1}}
+
+  ****** {{desc|lb|Lëscht|bor=1}}
+
+  **** {{desc|es|lista}}
+
+  **** {{desc|pt|lista}}
+
+  **** {{desc|gl|lista}}
+
+  ** {{desc|goh|līsta}}
+
+  *** {{desc|gmh|līste}}
+
+  **** {{desc|de|Leiste}}
+
+  **** {{desc|hrx|Leist}}
+
+  **** {{desc|lb|Läischt}}

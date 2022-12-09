@@ -1,0 +1,73 @@
+pageid: 2629260
+ns: 118
+title: Reconstruction:Proto-Germanic/temaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*dem-}}
+
+  From {{der|gem-pro|ine-pro|*dem-||to put together}}. Cognate with
+  {{cog|grc|δέμω||to build}}.<ref>{{R:gem:EDPG}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈte.mɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[fit]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=4|tem|tam|tēm|tum}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*tēmiz}}
+
+  * {{l|gem-pro|*tumþiz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|*teman}}; ({{l|ang|temian}}); {{l|ang|*tēme}}, {{l|ang|*tȳme}}
+  (in {{l|ang|luftȳme}}, {{l|ang|wiþertȳme}})
+
+  ** {{desc|enm|temen}}; {{l|enm|*betemen}}
+
+  *** {{desc|en|teem}}; {{l|en|beteem}}
+
+  * {{desc|ofs|tima}}; {{l|ofs|timia}}
+
+  ** {{desc|stq|täämelk}}
+
+  ** {{desc|fy|tiemje}}; {{l|fy|betame}}, {{l|fy|betamje}}
+
+  * {{desc|osx|teman}}
+
+  ** {{desc|gml|temen}}; {{l|gml|tēmelik}}, {{l|gml|tâmelik}}
+
+  *** {{desc|nds|temen|tamen}}
+
+  * {{desctree|odt|teman}}
+
+  * {{desctree|goh|zeman}}
+
+  * {{desc|got|𐌲𐌰𐍄𐌹𐌼𐌰𐌽|der=1}}
+
+
+  ===References===
+
+  <references/>

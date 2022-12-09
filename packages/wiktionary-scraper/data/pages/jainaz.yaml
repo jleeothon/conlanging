@@ -1,0 +1,95 @@
+pageid: 2732138
+ns: 118
+title: Reconstruction:Proto-Germanic/jainaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From the pronominal {{der|gem-pro|ine-pro|*ís}}; related to
+  {{cog|cu|онъ||he}}, {{cog|lt|ans||he}}, {{cog|la|idem||the same}}, and
+  {{cog|sa|एना||that; he}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈjɑi̯.nɑz/}}
+
+
+  ===Determiner===
+
+  {{gem-det}}
+
+
+  # [[that]] over there, [[yon]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*jainar}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*jain}}
+
+  ** {{desctree|ang|ġeon}}
+
+  ** {{desc|ofs|jen|jena}}
+
+  *** {{desc|stq|juns}}
+
+  *** {{desc|fy|jinge}}; {{l|fy|itjinge}}
+
+  ** ({{desc|osx|ginuwar}}, {{l|osx|genower}}; {{l|osx|gendro}})
+
+  *** ({{desc|gml|ginder}}, {{l|gml|gender}})
+
+  **** ({{desc|nds-de|günt}}, {{l|nds-de|günners}}, {{l|nds-de|günnert}}, etc.)
+
+  ** {{desc|odt|*gēn}}
+
+  *** {{desc|dum|gene|ghene}}
+
+  **** {{desc|nl|ginds|geen|gene}}
+
+  ** {{desctree|goh|jenēr}}
+
+  * {{desc|non|enn|inn|hinn|-inn}}
+
+  ** {{desc|is|enn|inn|hinn|-inn}}
+
+  ** {{desc|fo|-in|hin}}
+
+  ** {{desc|nn|-en|hin}}
+
+  ** {{desc|nb|-en}}
+
+  ** ({{desc|gmq-bot|än}}) {{l|gmq-bot|-än}}, {{l|gmq-bot|-en}},
+  {{l|gmq-bot|-in}}, {{l|gmq-bot|-jen}}
+
+  ** {{desc|sv|-en}}
+
+  ** {{desc|da|-en|hin}}
+
+  *** {{desc|nb|hin}}
+
+  * {{desc|got|𐌾𐌰𐌹𐌽𐍃}}
+
+
+  ===References===
+
+  * ''The Indo-European Languages'' (2015, {{ISBN|113492187X}}, page 401: In
+  addition we have *''jainaz'' > Goth. ''jains'', OEng. ''geon'' (> Eng.
+  ''yon''), OHG ''jener'' (= Ger.) 'that man'.
+
+
+  {{cln|gem-pro|demonstrative determiners}}

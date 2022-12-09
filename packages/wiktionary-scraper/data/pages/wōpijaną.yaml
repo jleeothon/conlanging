@@ -1,0 +1,65 @@
+pageid: 2629474
+ns: 118
+title: Reconstruction:Proto-Germanic/wōpijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*weh₂b-||to call, shout, complain}}. Cognate with
+  {{cog|sla-pro|*vabiti||to lure}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwɔː.pi.jɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[cry out]], to [[lament]]
+
+
+  ====Inflection====
+
+  The evolution of this verb's conjugation is unusual and controversial. Unlike
+  usual expectations, it is weak in Gothic and strong class 7 with a
+  reduplicated preterite in Old English. Orel and Ringe disagree on how this
+  situation arose.
+
+  * Orel believes that there were two separate, but related homophonous verbs in
+  Proto-Germanic, with the weak verb being the {{m|gem-pro|*-janą}} derivative
+  of the strong one.
+
+  * Ringe believes that independently, Old Norse and Gothic made the strong verb
+  weak due to analogy.
+
+  * Kroonen makes no comment about this verb's paradigm, and in fact the verb is
+  not mentioned at all in his ''Etymological Dictionary of Proto-Germanic''.
+
+  {{gem-conj-st-j|class=7|nopass=1|wōp|wewōp|wewōp|wōp|j=ij}}
+
+  {{gem-conj-wk1|wōp|j=ij}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*wōpaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*wōpijan}}
+
+  * {{desctree|non|ǿpa}}
+
+  * {{desc|got|𐍅𐍉𐍀𐌾𐌰𐌽}}
+
+
+  {{topics|gem-pro|Emotions}}

@@ -1,0 +1,32 @@
+pageid: 2899069
+ns: 118
+title: Reconstruction:Proto-Germanic/managį̄
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*managaz|*į̄}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑ.nɑ.ɣĩː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[multitude]], [[variety]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*managiþō}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*managī}}
+  * {{desc|non|mengi|g=n}}
+  ** {{desc|is|mengi|g=n}}
+  ** {{desc|fo|meingi|g=n}}
+  ** {{desc|sv|mänge}} (dialectal)
+  ** {{desc|da|mænge|g=c}} (dialectal)
+  * {{desc|got|𐌼𐌰𐌽𐌰𐌲𐌴𐌹}}

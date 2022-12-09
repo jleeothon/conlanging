@@ -1,0 +1,27 @@
+pageid: 7461543
+ns: 118
+title: Reconstruction:Proto-Germanic/starablindaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*staraz|*blindaz|t1=stiff|t2=blind}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɑ.rɑˌblin.dɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*starablendaz|372}}</ref>
+
+  # completely [[blind]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*starablind}}
+  * Old East Scandinavian: {{l|non|starblinder}}
+
+  ===References===
+  <references/>

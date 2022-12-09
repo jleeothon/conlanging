@@ -1,0 +1,82 @@
+pageid: 6462137
+ns: 118
+title: Reconstruction:Proto-Germanic/spannaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Originally a strong verb of the seventh class, the long ''-n-'' comes from an
+  earlier form {{m|gem-pro|*spanwaną-}}. Ultimately an ablautive form from the
+  same source as {{m|gem-pro|*spinnaną|t=to
+  spin}}.<ref>{{R:Etymologiebank|spannen1}}</ref>
+
+  <!--Kroonen's etymology is not very clear, there's no -ne- suffix in PIE}}-->
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈspɑn.nɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name="EDPG">{{R:gem:EDPG|*spannan-|465}}</ref>
+
+
+  # to [[stretch]], [[span]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=7c|spann|spespann|spespann|spann}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*spannijaną}}
+
+  * {{l|gem-pro|*spanstiz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|spannan}}
+
+  ** {{desc|enm|spannen}}
+
+  *** {{desc|en|span}}
+
+  *** {{desc|sco|span}}
+
+  * {{desc|ofs|spanna|sponna}}
+
+  ** {{desc|stq|sponne}}
+
+  ** {{desc|fy|spanne}}
+
+  * {{desc|osx|spannan}}
+
+  ** {{desc|gml|spannen}}
+
+  *** {{desc|nds-de|spannen}}
+
+  * {{desc|odt|*spannan}}
+
+  ** {{desc|dum|spannen}}
+
+  *** {{desc|nl|spannen}}
+
+  * {{desc|goh|spannan}}
+
+  ** {{desc|gmh|spannen}}
+
+  *** {{desc|de|spannen}}
+
+
+  ===References===
+
+  <references/>

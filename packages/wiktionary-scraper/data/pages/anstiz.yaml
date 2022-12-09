@@ -1,0 +1,39 @@
+pageid: 2614923
+ns: 118
+title: Reconstruction:Proto-Germanic/anstiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₃neh₂-}}
+  From {{suffix|gem-pro|*unnaną|*stiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑns.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*ansti-|30}}</ref>
+
+  # [[favour]], [[affection]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*anstijaną}}
+  * {{l|gem-pro|*anstīgaz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*undiz}}
+  * {{l|gem-pro|*unnaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*ansti}}
+  * {{desctree|non|ást}}
+  * {{desc|got|𐌰𐌽𐍃𐍄𐍃}}
+
+  ===References===
+  <references/>
+
+  [[Category:gem-pro:Emotions]]

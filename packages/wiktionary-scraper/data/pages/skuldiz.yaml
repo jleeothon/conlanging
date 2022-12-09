@@ -1,0 +1,106 @@
+pageid: 3586221
+ns: 118
+title: Reconstruction:Proto-Germanic/skuldiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*skulþiz}}
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈskul.diz/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*skel-}}
+
+  From {{der|gem-pro|ine-pro||*skéltis}}, from {{der|gem-pro|ine-pro|*skel-||to
+  be obliged, be beholden to, owe, be guilty}}, equivalent to Proto-Germanic
+  {{suffix|gem-pro|*skulaną|t1=to be obligated, owe|*þiz}}. Cognate with
+  {{cog|lt|kaltė||guilt}}.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}
+
+
+  # [[obligation]]
+
+  # [[debt]]
+
+  # [[fault]], [[blame]], [[guilt]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Synonyms=====
+
+  * {{l|gem-pro|*skuldaz}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*skuldīgaz}}
+
+  * {{l|gem-pro|*skuldigōną}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*skuldi}}
+
+  * {{desc|non|skuld|Skuld|skyld}}
+
+  ** {{desc|is|skuld}}
+
+  ** {{desc|fo|skuld}}
+
+  ** {{desc|no|skuld|skyld}}
+
+  ** {{desc|gmq-osw|skuld|skyld}}
+
+  *** {{desc|sv|skuld|skull}}
+
+  ** {{desc|da|skyld}}
+
+  ** {{desc|bor=1|sco|skuld|sculd|skyld}}
+
+
+  ===Etymology 2===
+
+  Derived from {{m|gem-pro|*skulaną||to owe}}.
+
+
+  ====Adjective====
+
+  {{gem-adj}}
+
+
+  # [[bound]], [[obliged]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-adj}}
+
+
+  =====Descendants=====
+
+  * {{desc|non|skyldr}}
+
+  ** {{desc|is|skyldur}}
+
+  ** {{desc|gmq-osw|skylder}}
+
+  ** {{desc|gmq-bot|skyll|skylt|sjilld}}

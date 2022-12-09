@@ -1,0 +1,44 @@
+pageid: 2948201
+ns: 118
+title: Reconstruction:Proto-Germanic/swehuraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*swéḱuros||father-in-law}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈswe.xu.rɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Family members}} [[father-in-law]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  *{{l|gem-pro|*swēgraz}}
+
+  ====Descendants====
+  * {{desc|ang|swēor}}
+  ** {{desc|enm|sweor}}
+  * {{desc|ofs|swire|*swiār}}
+  ** {{desc|ofs|swiāring|der=1}}
+  * {{desc|osx|swiri}}
+  ** {{desc|gml|swēher|schwēher|swēger}}
+  *** {{desc|nds-de|Sweger}}
+  *** {{desc|stq|Sweeger|bor=1}}
+  * {{desc|odt|*sweor|*swēr}}
+  ** {{desc|dum|sweer}}
+  *** {{desc|nl|zweer}}
+  * {{desc|goh|swehur}}
+  ** {{desc|gmh|sweher|swēr|swæher|sweger}}
+  *** {{desc|de|Schwäher}} {{q|obsolete}}
+  *** {{desc|yi|שווער}}
+  * {{desc|non|*svær}}
+  ** {{desc|gmq-osw|svær}}
+  *** {{desc|sv|svär-}}
+  * {{desc|got|𐍃𐍅𐌰𐌹𐌷𐍂𐌰}}

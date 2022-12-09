@@ -1,0 +1,31 @@
+pageid: 7456830
+ns: 118
+title: Reconstruction:Proto-Germanic/gasitjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*sed-}}
+  From {{af|gem-pro|*ga-|*sitjaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɣɑˈsit.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[sit]] down, take a [[seat]]
+
+  ====Inflection====
+  {{gem-conj-st-j|class=5|nopass=1|gasit|gasat|gasēt|gaset|j=j}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*gasittjan}}
+  ** {{desc|ang|gesittan}}
+  *** {{desc|enm|isitten}}
+  ** {{desc|osx|gisittian}}
+  ** {{desc|goh|gisizzen}}
+  *** {{desc|gmh|gesitzen}}
+  **** {{desc|de|gesitzen|pos=''archaic''}}
+  * {{desc|got|𐌲𐌰𐍃𐌹𐍄𐌰𐌽}}

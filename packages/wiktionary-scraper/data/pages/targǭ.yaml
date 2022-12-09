@@ -1,0 +1,75 @@
+pageid: 3996283
+ns: 118
+title: Reconstruction:Proto-Germanic/targǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*derǵʰ-||fenced lot}}, or from
+  {{der|gem-pro|ine-pro|*dergʰ-||to catch, grasp}}. Cognate with
+  {{cog|lt|daržas||border, halo, inclosure, garden}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈtɑr.ɣɔ̃ː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[edge]], [[rim]], [[border]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|targe}}; {{l|ang|targa|g=m}} (< {{l|gem-pro|*targô}})
+
+  ** {{desc|enm|targe|terge}}; {{l|enm|targette}}, {{l|enm|target}}
+
+  *** {{desc|sco|targ|targe|tairge}}; {{l|sco|target}}
+
+  *** {{desc|en|targe}}; {{l|en|target}}
+
+  * {{desc|frk|*targa}}
+
+  ** {{desc|odt|*targa}}
+
+  *** {{desc|dum|targe|taerge}}
+
+  ** {{desc|bor=1|fro|targue|tarque|targe}}; {{l|fro|*targuette}}
+
+  *** {{desc|frm|targe}}
+
+  **** {{desc|fr|targe}}
+
+  *** {{desc|ML.|targa|bor=1}}; {{l|la|tarcheta}}
+
+  **** {{desc|it|targa|bor=1}}; {{l|it|targhetta}}
+
+  **** {{desc|es|tarja|bor=1}}; {{l|es|tarjeta}}
+
+  **** {{desc|pt|tarja|bor=1}}
+
+  **** {{desc|gl|targa|bor=1}}
+
+  * {{desc|goh|zarga}}
+
+  ** {{desc|gmh|zarge}}
+
+  *** {{desc|de|Zarge}}
+
+  * {{desc|non|targa}}
+
+  ** {{desc|is|targa}}

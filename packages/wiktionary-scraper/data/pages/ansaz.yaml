@@ -1,0 +1,62 @@
+pageid: 7093769
+ns: 118
+title: Reconstruction:Proto-Germanic/ansaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Of unclear origin. Connections to {{m|gem-pro|*amsaz|t=shoulder}},
+  {{cog|la|onus|t=load}}, and {{cog|la|asser|t=beam}} are deemed problematic by
+  Kroonen.
+
+
+  ===Pronunciation===
+
+  {{IPA|gem-pro|/ˈɑn.sɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*ansa-|30}}</ref>
+
+
+  # [[beam]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun-a-m|ans}}
+
+
+  ====Descendants====
+
+  * {{desc|goh|}}
+
+  ** {{desc|gmh|ansboum|der=1}}
+
+  * {{desc|non|áss}}
+
+  ** {{desc|fo|ásur}}
+
+  ** {{desc|no|ås}}
+
+  ** {{desc|gmq-osw|as|alt=ās}}
+
+  *** {{desc|sv|ås}}
+
+  ** {{desc|ovd|guovą̊s|der=1}}
+
+  ** {{desc|gmq-bot|aas}}
+
+  * {{desc|got|𐌰𐌽𐍃}}
+
+  * {{desc|fi|ansas|bor=1}}
+
+
+  ===References===
+
+  <references/>

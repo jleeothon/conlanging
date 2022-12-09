@@ -1,0 +1,25 @@
+pageid: 7501898
+ns: 118
+title: Reconstruction:Proto-Germanic/uzganganą
+wikitext: |-
+  {{reconstruction}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰengʰ-}}
+  From {{af|gem-pro|*uz-|*ganganą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌuzˈɣɑŋ.ɡɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[go]] [[out]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7c|nopass=1|uzgang|uzgegang|uzgegang|uzgang}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*uʀgangan}}
+  * {{desc|got|𐌿𐍃𐌲𐌰𐌲𐌲𐌰𐌽}}

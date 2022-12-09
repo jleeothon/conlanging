@@ -1,0 +1,67 @@
+pageid: 4540992
+ns: 118
+title: Reconstruction:Proto-Germanic/sadulaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*sed-|*-dʰlom}}
+
+  Possibly from {{inh|gem-pro|ine-pro|*sod-dʰlo-}}, from {{m|ine-pro|*sed-|t=to
+  sit}} + {{m|ine-pro|*-dʰlom}} (a variant of
+  {{m|ine-pro|*-trom|pos={{glossary|suffix}} forming {{glossary|noun}}s denoting
+  instruments or tools}}). Cognate with {{cog|la|sella|t=saddle}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsɑ.ðu.lɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topics|gem-pro|Horse tack}} [[saddle]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*sadulōną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*sadul}}
+
+  * {{desc|non|sǫðull}}
+
+  ** {{desc|is|söðull}}
+
+  ** {{desc|fo|saðil}}
+
+  ** {{desc|nrn|sedel}}
+
+  ** {{desc|no|sadel}}
+
+  ** {{desc|gmq-osw|saþul}}
+
+  *** {{desc|sv|sadel}}
+
+  ** {{desc|da|sadel}}
+
+  ** {{desc|gmq-gut|sadel|sadl|sal|sadul}}
+
+  * {{desc|fiu-fin-pro|*satula|bor=1}} {{see desc}}
+
+  * {{desc|sla-pro|*sedъlo|bor=1}}

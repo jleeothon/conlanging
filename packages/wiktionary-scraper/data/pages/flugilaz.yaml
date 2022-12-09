@@ -1,0 +1,36 @@
+pageid: 6311937
+ns: 118
+title: Reconstruction:Proto-Germanic/flugilaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*fleuganą|*ilaz|id2=agent noun}}.
+
+  ===Pronunciation===
+  {{IPA|gem-pro|/ˈɸlu.ɣi.lɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[wing]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|osx|*flugil}}
+  ** {{desc|gml|vlȫgel}}
+  * {{desc|odt|*flugil}}
+  ** {{desc|dum|vlōghel|vleughel}}
+  *** {{desc|nl|vleugel}}
+  **** {{desc|af|vleuel}}
+  **** {{desc|fy|bor=1|fleugel}}
+  *** {{desc|li|vläögel|vleugel}}
+  * {{desc|goh|*flugil}}
+  ** {{desc|gmh|vlügel}}
+  *** {{desc|de|Flügel}}
+  *** {{desc|lb|Fligel}}
+  *** {{desc|wym|fłygel}}
+  *** {{desc|yi|פֿליגל}}

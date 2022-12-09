@@ -1,0 +1,101 @@
+pageid: 3588210
+ns: 118
+title: Reconstruction:Proto-Germanic/dulaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Zero-grade form of {{m|gem-pro|*dwalaz}}. Related to {{cog|sga|dall||blind}},
+  {{cog|lv|dulls||crazy, furious}}.<ref>{{R:gem:EDPG}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdu.lɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[confused]], [[stunned]]
+
+  # [[foolish]], [[misled]], [[mad]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|dul}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*duljaną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*dwelaną}}
+
+  * {{l|gem-pro|*dwalaz}}
+
+
+  ====Descendants====
+
+  Probably because of the phonetic influence of the preceding -w- and the
+  similarity in meaning, descendants from this term are not always
+  distinguishable from those of {{m|gem-pro|*dwalaz}}. The following lists
+  descendants that do not have -w-.
+
+
+  * {{desc|ang|dol}}
+
+  ** {{desc|enm|dul|dull|dulle}}
+
+  *** {{desc|sco|dull|dul|doll}}
+
+  *** {{desc|en|dull}}
+
+  * {{desc|ofs|dol|dul|doll|dull}}
+
+  ** {{desc|frr|dol|doll|dull}}
+
+  ** {{desc|stq|dul}}
+
+  * {{desc|osx|dol}}
+
+  ** {{desc|gml|dol}}
+
+  *** {{desc|nds|dol|dul}}
+
+  **** {{desc|de|doll|bor=1}}
+
+  * {{desc|odt|*dol}}
+
+  ** {{desc|dum|dul|dol|dolle}}
+
+  *** {{desctree|nl|dol}}
+
+  * {{desc|goh|tol}}
+
+  ** {{desc|gmh|tol}}
+
+  *** {{desc|de|toll}}
+
+  * {{desc|non|dulr}}
+
+  ** {{desc|is|dulur}}
+
+  ** {{desc|fo|dulur}}
+
+  ** {{desc|gmq-osw|dol|dul}}
+
+
+  ===References===
+
+  <references/>

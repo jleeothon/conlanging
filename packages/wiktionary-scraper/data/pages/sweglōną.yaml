@@ -1,0 +1,26 @@
+pageid: 2863920
+ns: 118
+title: Reconstruction:Proto-Germanic/sweglōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*sweglō|t1=flute|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsweɣ.lɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[play]] the [[flute]]
+
+  ====Inflection====
+  {{gem-conj-wk2|nopass=1|swegl}}
+
+  ====Descendants====
+  * {{desc|ang|swegalōn}}
+  * {{desc|goh|*swegalon}}
+  ** {{desc|gmh|swëgelen}}
+  * {{desc|got|𐍃𐍅𐌹𐌲𐌻𐍉𐌽}}

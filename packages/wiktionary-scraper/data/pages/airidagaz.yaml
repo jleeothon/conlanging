@@ -1,0 +1,31 @@
+pageid: 7400490
+ns: 118
+title: Reconstruction:Proto-Germanic/airidagaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*airi|*dagaz|t1=early|t2=day}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑi̯ri.ˌdɑ.ɣɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:HGE|*airi-dagaz|9}}</ref>
+
+  # [[days of yore]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*airidag}}
+  ** {{desc|ang|ǣrdagas|g=p}}
+  ** {{desc|osx|ērdagos|g=p}}
+  ** {{desc|goh|ērtagīg|t=of yesterday, before dawn|pos=adjective}}
+  *** {{desc|gmh|ērtegec|pos=adjective}}
+  * {{desc|non|árdagar|g=p}}
+
+  ===References===
+  <references/>

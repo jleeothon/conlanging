@@ -1,0 +1,34 @@
+pageid: 3934199
+ns: 118
+title: Reconstruction:Proto-Germanic/dīkiją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*dīkaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdiː.ki.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[dike]], [[trench]], [[ditch]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|non|díki}}; ({{l|non|dík}}?)
+  ** {{desc|is|díki}}; ({{l|is|dík}}?)
+  ** {{desc|no|dike}}
+  ** {{desc|gmq-osw|dike|alt=dīke}}
+  *** {{desc|sv|dike}}
+  ** {{desc|da|dige}}
+  ** {{desc|ovd|daitje}}
+  ** {{desc|gmq-bot|díkj’|dík’}}
+  ** {{desc|fro|dike|bor=1}} (also possibly from Middle Dutch)
+  *** {{desc|frm|digue}}
+  **** {{desc|fr|digue}}
+  ***** {{desc|en|digue|bor=1}}

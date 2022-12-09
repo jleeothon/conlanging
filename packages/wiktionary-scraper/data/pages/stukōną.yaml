@@ -1,0 +1,25 @@
+pageid: 6553042
+ns: 118
+title: Reconstruction:Proto-Germanic/stukōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)tewg-||to beat, push}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[push]], to [[thrust]]
+
+  ====Inflection====
+  {{gem-conj-wk2|stuk}}
+
+  ====Related terms====
+  * {{l|gem-pro|*stukjaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*stokōn}}
+  * {{desc|non|*stoka}}
+  ** {{desc|nn|stauka}}

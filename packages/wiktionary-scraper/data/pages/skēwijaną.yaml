@@ -1,0 +1,29 @@
+pageid: 7511538
+ns: 118
+title: Reconstruction:Proto-Germanic/skēwijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Probably related to {{m|gem-pro|*skehaną|t=to spring up, emerge}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskɛː.wi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="EDPG">{{R:gem:EDPG|*skēwjan-|445}}</ref>
+
+  # to [[go]]
+  # to [[walk]]
+
+  ====Inflection====
+  {{gem-conj-wk1|skēw|j=ij}}
+
+  ====Descendants====
+  * {{desc|non|skæva}}
+  * {{desc|got|𐍃𐌺𐌴𐍅𐌾𐌰𐌽}}
+  * {{desc|fiu-fin-pro|*käüdäk|bor=1}} {{see desc}}
+
+  ===References===
+  <references/>

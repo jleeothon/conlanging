@@ -1,0 +1,33 @@
+pageid: 5550149
+ns: 118
+title: Reconstruction:Proto-Germanic/kuningadōmaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*kuningaz|*-dōmaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈku.niŋ.ɡɑ.ðɔː.mɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[realm]], [[kingdom]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*kuningarīkiją}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*kuningadōm}}
+  * {{desc|non|konungdómr}}
+  ** {{desc|is|konungdómur}}
+  ** {{desc|no|kongedømme|kongedøme}}
+  ** {{desc|sv|kungadöme|konungadöme}}
+  ** {{desc|da|kongedømme}}
+  ** {{desc|fo|kongadømi|kongsdømi}}
+  ** {{desc|nrn|konungdum}}

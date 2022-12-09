@@ -1,0 +1,42 @@
+pageid: 7757482
+ns: 118
+title: Reconstruction:Proto-Germanic/haginjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative reconstructions===
+  * {{l|gem-pro|*hagnijaną}}
+
+  ===Etymology===
+  From {{affix|gem-pro|*haginaz|t1=fence, hedge|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑ.ɣin.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|head=*xaʒ(i)njanan|page=150}}</ref>
+
+  # To [[hedge]] or [[fence]] [[in]], to [[hain]]
+
+  ====Inflection====
+  {{gem-conj-wk1|hagin|j=j}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*haginijan}}
+  ** {{desc|osx|*heginian}}
+  *** {{desc|gml|hēgenen}}
+  ** {{desc|odt|*hegenen}}
+  *** {{desc|dum|heinen|hēgenen}}
+  **** {{desc|nl|heinen}}
+  ***** {{desc|nl|omheinen|der=1}}
+  * {{desc|non|hegna}}
+  ** {{desc|is|hegna}}
+  ** {{desc|nn|hegna}}
+  ** {{desc|sv|hägna}},
+  ** {{desc|da|hegne}},
+  ** {{desc|bor=1|enm|heynen|haynen}}
+  *** {{desc|en|hain}}
+
+  ===References===
+  <references/>

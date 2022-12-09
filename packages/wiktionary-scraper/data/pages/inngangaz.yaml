@@ -1,0 +1,94 @@
+pageid: 4588246
+ns: 118
+title: Reconstruction:Proto-Germanic/inngangaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ǵʰengʰ-}}
+
+  Derived from {{m|gem-pro|*innganganą}}; equivalent to
+  {{compound|gem-pro|*inn|*gangaz}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈinː.ˌɣɑŋ.ɡɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # a going in, [[entry]], [[entrance]]
+
+  #: {{ant|gem-pro|*ūtgangaz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|ingang}}
+
+  ** {{desc|enm|ingang}}
+
+  *** {{desc|en|ingang}}
+
+  * {{desc|ofs|ingang|ingong}}
+
+  ** {{desc|stq|Iengoang}}
+
+  ** {{desc|fy|yngong}}
+
+  * {{desc|osx|ingang}}
+
+  ** {{desc|gml|inganc}}
+
+  *** {{desc|nds-de|Ingang}}
+
+  *** {{desc|pdt|Engank}}
+
+  * {{desc|odt|*ingang}}
+
+  ** {{desc|dum|ingang}}
+
+  *** {{desc|nl|ingang}}
+
+  **** {{desc|af|ingang}}
+
+  * {{desc|goh|ingang}}
+
+  ** {{desc|gmh|īnganc}}
+
+  *** {{desc|de|Eingang}}
+
+  *** {{desc|lb|Agang|Agank}}
+
+  * {{desc|non|inngangr}}
+
+  ** {{desc|is|inngangur}}
+
+  ** {{desc|fo|inngangur|inngongd}}
+
+  ** {{desc|nrn|inngeng}}
+
+  ** {{desc|no|inngang}}
+
+  ** {{desc|gmq-osw|inganger}}
+
+  *** {{desc|sv|ingång}}
+
+  ** {{desc|da|indgang}}
+
+  ** {{desc|ovd|ingaungg}}
+
+  ** {{desc|gmq-gut|ingangg}}

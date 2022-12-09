@@ -1,0 +1,31 @@
+pageid: 4899077
+ns: 118
+title: Reconstruction:Proto-Germanic/lōmaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From Pre-Germanic {{m|ine-pro||*loh₁umos}}, related to {{m|gem-pro|*lēwą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɔː.mɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[betrayal]], [[deceit]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*lumāną}}
+
+  ====Descendants====
+  * {{desc|non|*lómr}}, in compound {{l|non|lómbragð}}
+  ** {{desc|is|lómur}}
+  ** {{desc|no|lom}}
+
+  ===References===
+  * {{R:gem:EDPG}}, page 341

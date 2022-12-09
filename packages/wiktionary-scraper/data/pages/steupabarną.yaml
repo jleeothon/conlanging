@@ -1,0 +1,32 @@
+pageid: 6297192
+ns: 118
+title: Reconstruction:Proto-Germanic/steupabarną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*steupa|*barną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsteu̯.pɑˌbɑr.nɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[stepchild]]
+
+  ====Inflection====
+  {{gem-decl-noun|steupabarn}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*steupabarn}}
+  ** {{desctree|ang|stēopbearn}}
+  ** {{desc|goh|stiofbarn}}
+  * {{desc|non|stjúpbarn}}
+  ** {{desc|is|stjúpbarn}}
+  ** {{desc|fo|stjúkbarn}}
+  ** {{desc|sv|styvbarn}}
+  ** {{desc|gmq-bot|stjubån}}
+
+  {{C|gem-pro|Family}}

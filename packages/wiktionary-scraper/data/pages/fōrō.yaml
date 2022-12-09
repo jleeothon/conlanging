@@ -1,0 +1,32 @@
+pageid: 6001523
+ns: 118
+title: Reconstruction:Proto-Germanic/fōrō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*per-}}
+  Functional o-grade ō-stem derived from {{m|gem-pro|*faraną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɔː.rɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[going]], [[traveling]], [[journey]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*fōrijaną}}
+
+  ====Descendants====
+  * {{desc|ang|fōr}}
+  ** {{desc|enm|fore|foore}}
+  * {{desc|goh|fuora}}
+  ** {{desc|gmh|vuore}}
+  *** {{desc|de|Fuhre}}
+  *** {{desc|lb|Fouer}}

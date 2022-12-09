@@ -1,0 +1,95 @@
+pageid: 7225517
+ns: 118
+title: Reconstruction:Proto-Germanic/skipōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*skeyb-|t=to cut, divide; ship}}. More at
+  {{cog|gem-pro|*skipą|t=ship}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈski.pɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[arrange]], [[set up]]
+
+  # to [[ship]], [[embark]]
+
+
+  ====Conjugation====
+
+  {{gem-conj-wk2|skip}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*skipą}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|sċipian}}
+
+  ** {{desc|enm|schipen|schepen|schippen}}
+
+  *** {{desc|en|ship}}
+
+  *** {{desc|sco|schip}}
+
+  * {{desc|ofs|skipia}}
+
+  ** {{desc|stq|schiepje}}
+
+  ** {{desc|fy|skipje}}
+
+  * {{desc|osx|*skipōn}}
+
+  ** {{desc|gml|scepen|schēpen|scheppen}}
+
+  * {{desc|frk|*skipōn}}
+
+  ** {{desc|odt|*skipon|*scipon}}
+
+  *** {{desc|dum|schepen}}
+
+  **** {{desc|nl|schepen}}
+
+  ** {{desc|bor=1|fro|eschiper|esquiper}}
+
+  *** {{desc|frm|esquiper}}
+
+  **** {{desc|fr|équiper}}
+
+  ***** {{desc|en|equip|bor=1}}
+
+  * {{desc|goh|*skipfōn|*skiphōn}}
+
+  ** {{desc|gmh|schipfen|schiffen}}
+
+  *** {{desc|de|schiffen}}
+
+  * {{desc|non|skipa}}
+
+  ** {{desc|is|skipa}}
+
+  ** {{desc|fo|skipa}}
+
+  ** {{desc|nn|skipa}}
+
+  ** {{desc|nb|skipe}}
+
+  ** {{desc|sv|skeppa}}
+
+  ** {{desc|da|skibe}}

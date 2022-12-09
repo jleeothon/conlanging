@@ -1,0 +1,33 @@
+pageid: 2299154
+ns: 118
+title: Reconstruction:Proto-Germanic/sehwaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*sekʷ-|id=see}}
+  From {{der|gem-pro|ine-pro|*sekʷ-|t=to see, notice}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈse.xʷɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{topics|gem-pro|Vision}} to [[see]]
+
+  ====Inflection====
+  Note: Voiced Verner alternant gw becomes w, but g next to u.
+  {{gem-conj-st|class=5|sehw|sahw|past_indc_stem=sēg|sēw|sew}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*bisehwaną}}
+  * {{l|gem-pro|*gasehwaną}}
+  * {{l|gem-pro|*siuniz}}
+  * {{l|gem-pro|*uzsehwaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sehwan}}
+  * {{desctree|non|sjá}}
+  * {{desc|got|𐍃𐌰𐌹𐍈𐌰𐌽}}

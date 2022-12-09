@@ -1,0 +1,33 @@
+pageid: 6026898
+ns: 118
+title: Reconstruction:Proto-Germanic/kultaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gel-|t=to amass; swell; ball up}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkul.tɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # A thick, plump [[mass]] or [[object]]; [[lump]]
+  # A [[bundle]]
+  # A [[chit]]; [[offspring]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|colt}}
+  ** {{desc|enm|colt}}
+  *** {{desc|sco|colt|cout|cowt}}
+  *** {{desc|en|colt}}
+  *** {{desc|yol|caule}}
+  * {{desc|non|*kultr}}
+  ** {{desc|no|kult}}
+  ** {{desc|sv|kult}}
+  ** {{desc|da|kuld}}

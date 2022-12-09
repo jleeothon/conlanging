@@ -1,0 +1,37 @@
+pageid: 6628462
+ns: 118
+title: Reconstruction:Proto-Germanic/habīniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*keh₂p-}}
+  From {{af|gem-pro|*habjaną|t1=to have, hold|*-īniz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑ.βiː.niz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # the state of holding, having
+  # something held or had
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*habnō}}
+
+  ====Descendants====
+  * {{desc|ang|hæfen|t=property, possession}}
+  * {{desc|non|hǫfn|t=holding, possession, tenure; foetus; pasture; coat}}
+  ** {{desc|is|höfn|t=possession; pasture; foetus}}
+  ** {{desc|fo|høvn|t=pasture}} (in place names)
+  ** {{desc|nn|hamn}} / {{l|no|homn||pasture; foetus}}
+  ** {{desc|nb|havn|t=pasture}}
+  ** {{desc|sv|hamn|t=pasture}}
+
+  ===References===
+  * {{R:is:Íslensk orðsifjabók|höfn}}

@@ -1,0 +1,39 @@
+pageid: 6893498
+ns: 118
+title: Reconstruction:Proto-Germanic/-jô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Alternative forms===
+  * {{l|gem-pro|*-ô}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/jɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[-er]]. {{non-gloss definition|Forms agent nouns from verbs.}}
+
+  ====Inflection====
+  {{gem-decl-noun-n-m|-|j=j}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*-ārijaz}}
+  * {{l|gem-pro|*-ndz}}
+
+  ====Derived terms====
+  {{suffixsee|gem-pro}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*-jō}}
+  * {{desc|gmq-pro|}}
+  ** {{desc|non|-i}}
+  *** {{desc|is|-i}}
+  *** {{desc|fo|-i}}
+  *** {{desc|gmq-osw|-e}}
+  * {{desc|got|-𐌾𐌰}}

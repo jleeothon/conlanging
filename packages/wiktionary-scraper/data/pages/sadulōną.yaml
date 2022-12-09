@@ -1,0 +1,31 @@
+pageid: 4685449
+ns: 118
+title: Reconstruction:Proto-Germanic/sadulōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*sed-}}
+  From {{suffix|gem-pro|*sadulaz|*-ōną|t1=saddle}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑ.ðu.lɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[saddle]]
+
+  ====Inflection====
+  {{gem-conj-wk2|sadul}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sadulōn}}
+  * {{desc|non|sǫðla}}
+  ** {{desc|is|söðla}}
+  ** {{desc|no|sale}}
+  ** {{desc|gmq-osw|saþla}}
+  *** {{desc|sv|sadla}}
+  ** {{desc|da|sadle}}
+  ** {{desc|gmq-gut|sadle|salle|sall'|sal'|salla}}

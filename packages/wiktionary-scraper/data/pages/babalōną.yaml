@@ -1,0 +1,103 @@
+pageid: 3707889
+ns: 118
+title: Reconstruction:Proto-Germanic/babalōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰeh₂-|id=speak}}
+
+  From {{suffix|gem-pro|*baba-|*lōną}}, from {{der|gem-pro|ine-pro|*bʰa-bʰa-}},
+  perhaps a reduplication of {{der|gem-pro|ine-pro|*bʰeh₂-|*bʰā-|to
+  say|id=speak}}, or a variant of {{onomatopoeic|gem-pro|nocap=1}}
+  {{m|ine-pro||*baba-|to talk vaguely, mumble}}, or a merger of the two.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɑ.βɑ.lɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[chatter]], [[babble]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|babal}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*babalōn|*bablōn|*wablōn}}
+
+  ** {{desc|ang|*bablian|*bæblian|*bæflian|wæflian}}
+
+  *** {{desc|enm|bablen|babelen}}; {{l|enm|*waffelen}}
+
+  **** {{desc|sco|bable|babil}}
+
+  **** {{desc|en|babble|waffle}}
+
+  ** {{desc|ofs|*babelia}}
+
+  *** {{desc|stq|babbelje|baale}}
+
+  *** {{desc|fy|babbelje}}
+
+  ** {{desc|osx|*bablōn}}
+
+  *** {{desc|gml|babbelen}}; {{l|gml|brabbelen}}, {{l|gml|brabbeln}}
+
+  **** {{desc|nds|babbeln}}
+
+  **** {{desc|pdt|baublen}}
+
+  **** {{desc|de|brabbeln|bor=1}}
+
+  ** {{desc|odt|*bablon}}
+
+  *** {{desc|dum|babbelen}}
+
+  **** {{desc|nl|babbelen}}
+
+  ***** {{desc|af|babbel}}
+
+  ** {{desc|fro|babiller|bor=1}}
+
+  *** {{desc|frm|babiller}}
+
+  **** {{desc|fr|babiller}}
+
+  *** {{desc|la|babellare|bor=1}}
+
+  ** {{desc|goh|*papalōn|*babalōn}}; {{l|goh|blabazzen}}
+
+  *** {{desc|gmh|*papelen|*babelen}}; {{l|gmh|blabezen}}, {{l|gmh|blebezen}},
+  {{l|gmh|blebzen}}
+
+  **** {{desc|de|pappeln|bappeln|babbeln}}; {{l|de|plappern}}
+
+  * {{desc|non|babbla}}
+
+  ** {{desc|is|babla}}
+
+  ** {{desc|fo|babla}}
+
+  ** {{desc|no|bable}}
+
+  ** {{desc|sv|babbla}}
+
+  ** {{desc|da|bable|bavle}}
+
+  ** {{desc|gmq-gut|båbble|babble}}
+
+  ** {{desc|gmq-scy|bebla}}

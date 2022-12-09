@@ -1,0 +1,42 @@
+pageid: 2949493
+ns: 118
+title: Reconstruction:Proto-Germanic/nēaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*(s)neh₁-}}
+  From {{der|gem-pro|ine-pro|*(s)neh₁-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈnɛː.ɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[sew]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7d|nē|nenō|nenō|nē}}
+
+  ====Related terms====
+  * {{l|gem-pro|*nēdiz}}
+  * {{l|gem-pro|*nēþlō}}
+
+  ====Descendants====
+  * {{desc|ofs|*nāja}}
+  ** {{desc|fy|naaie}} {{i|possibly borrowed from Dutch}}
+  * {{desc|osx|*nāian}}
+  ** {{desc|gml|neien}}
+  *** {{desc|nds-de|naihen}}
+  * {{desc|odt|*nāien}}
+  ** {{desc|dum|nâyen}}
+  *** {{desc|nl|naaien}}
+  * {{desc|goh|nāian|nāen}}
+  ** {{desc|gmh|nǣjen|nǣn}}
+  *** {{desc|de|nähen}}
+  *** {{desc|hrx|nehe}}
+  *** {{desc|lb|néien}}
+  *** {{desc|wym|nyn}}
+  *** {{desc|yi|נייען}}

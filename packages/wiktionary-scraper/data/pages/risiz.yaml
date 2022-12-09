@@ -1,0 +1,75 @@
+pageid: 5715411
+ns: 118
+title: Reconstruction:Proto-Germanic/risiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{alter|gem-pro|alt=*wrisiz}}<ref name="EWN" />
+
+  * {{alter|gem-pro|alt=*wrisjaz}}<ref
+  name="EWddS">{{R:EWddS|ed=22|hw=Riese¹|600}}</ref>
+
+  * {{alter|gem-pro|alt=*wrisjǭ}}<ref>{{R:gem:HGE|*wrisjōn}}</ref>
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}<ref name="EWddS" />. Possibly a zero-grade derivative of
+  {{m|gem-pro|*rīsaną}}.<ref name="EWN"/>
+
+
+  On the basis of {{m+|odt|wrisil||hero}} and {{m+|osx|wrisilīk||gigantic}},
+  this form is sometimes reconstructed as {{m|gem-pro||*wrisi-}}, and then
+  either from {{der|gem-pro|ine-pro|*wreyh₁-}} (thus related to
+  {{cog|grc|ῥίον|t=peak, summit}}, and perhaps {{cog|xto|ri}},
+  {{cog|txb|rye|t=city, town}}, {{cog|txh|βρία|t=city,
+  wall}})<ref>{{R:grc:Frisk|ῥίον|page=658|vol=I}}</ref>, or from
+  {{der|gem-pro|ine-pro|*wers-|t=hill,
+  top}}<ref>{{R:ine:IEW|vol=III|head=u̯er-s-|page=1151}}</ref> (perhaps whence
+  {{cog|la|verrūca|t=wart; hillock}}, {{cog|sa|वर्स्मन्|tr=vársman|t=height,
+  top}}, {{cog|sla-pro|*vьrxъ|t=top}}). However, this derivation is problematic
+  as there is no sign of an initial cluster ''wr-'' in any of the descendants
+  that otherwise preserve it (northern West Germanic and Old East Norse).<ref
+  name="EWN"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈri.siz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="EWN">{{R:nl:EWN|reus}}</ref>
+
+
+  # {{topics|gem-pro|Mythological creatures}} a [[giant]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*etunaz}}
+
+  * {{l|gem-pro|*þurisaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*risi}}
+
+  * {{desctree|non|risi}}
+
+
+  ===References===
+
+  <references />

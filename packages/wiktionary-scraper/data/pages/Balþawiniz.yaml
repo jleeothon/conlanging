@@ -1,0 +1,48 @@
+pageid: 6106980
+ns: 118
+title: Reconstruction:Proto-Germanic/Balþawiniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*balþaz||bold}} + {{m|gem-pro|*winiz||friend}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑl.θɑ.ˌwi.niz/}}
+
+  ===Noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Balþawini}}
+  ** {{desc|ang|Bealdwine}}
+  *** {{desc|enm|Balduin|Baldwin}}
+  **** {{desc|en|Baldwin}}
+  ** {{desc|odt|*Baldawin}}
+  *** {{desc|dum|Baltwin|Boudewijn}}
+  **** {{desc|nl|Boudewijn}}
+  ** {{desc|goh|Baltwin|Baldavin}}
+  *** {{desc|gmh|Balduin}}
+  **** {{desc|de|Balduin}}
+  *** {{desc|bor=1|sh|Балдовин|Baldovin}}
+  **** {{desc|ro|Baldovin|bor=1}}
+  ** {{desc|la|Balduīnus|bor=1}}
+  *** {{desc|ca|Balduí}}
+  *** {{desc|fro|Baudouin}}
+  **** {{desc|fr|Baudouin|Beaudoin}}
+  *** {{desc|it|Baldovino}}
+  *** {{desc|es|Balduino}}
+  * {{desc|gmq-pro|}}
+  ** {{desc|non|Baldvin}}
+  *** {{desc|is|Baldvin}}
+  *** {{desc|fo|Baldvin}}
+  *** {{desc|nb|Baldvin}}
+  *** {{desc|nn|Baldvin}}
+  *** {{desc|sv|Baldvin}}
+  *** {{desc|da|Baldvin}}

@@ -1,0 +1,50 @@
+pageid: 4699772
+ns: 118
+title: Reconstruction:Proto-Germanic/glaumaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*gʰlowmos}}, a mo-stem noun from
+  {{der|gem-pro|ine-pro|*gʰlew-||to be merry}}. Related to
+  {{cog|grc|χλεύη||joke, jest}}, {{cog|xcl|ձաղ|gloss=derision, mockery}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣlɑu̯.mɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[jubilation]], joyous noise
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|glēam}}
+
+  ** {{desc|enm|glam}}
+
+  *** {{desc|sco|glamer}}
+
+  * {{desc|non|glaumr}}
+
+  ** {{desc|is|glaumur}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

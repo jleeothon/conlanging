@@ -1,0 +1,31 @@
+pageid: 4553641
+ns: 118
+title: Reconstruction:Proto-Germanic/furaiganganą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*preh₂-|*ǵʰengʰ-}}
+  From {{prefix|gem-pro|*furai|*ganganą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɸu.rɑi̯.ˈɣɑŋ.ɡɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[go]] before, in front; to [[precede]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7c|nopass=1|furaigang|furaigegang|furaigegang|furaigang}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*furaigangijô}}
+
+  ====Descendants====
+  * {{desc|ang|foregangan}}
+  * {{desc|osx|foragangan}}
+  ** {{desc|gml|vöregān|vörgangend}}
+  * {{desc|goh|foragangan}}
+  * {{desc|got|𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐌲𐌲𐌰𐌽}}

@@ -1,0 +1,22 @@
+pageid: 3484765
+ns: 118
+title: Reconstruction:Proto-Germanic/askô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{lb|gem-pro|West Germanic}}{{topics|gem-pro|Fish}} a kind of [[fish]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|goh|asko}}
+  ** {{desc|gmh|asche}}
+  *** {{desc|de|Asche}}

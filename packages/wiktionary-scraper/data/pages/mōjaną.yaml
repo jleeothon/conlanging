@@ -1,0 +1,44 @@
+pageid: 5362596
+ns: 118
+title: Reconstruction:Proto-Germanic/mōjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*meh₃-||to cause toil, be a burden}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɔː.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to {{l|en|tire}}
+
+  ====Inflection====
+  {{gem-conj-wk1|mō|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*mōþuz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*mōjan}}
+  ** {{desc|ofs|mōia}}
+  *** {{desc|stq|möie}}
+  *** {{desc|fy|muoie}}
+  ** {{desc|osx|*mōian}}
+  *** {{desc|gml|mōien|möien}}
+  **** {{desc|nds-de|möjen}}
+  ** {{desc|odt|*muojan}}
+  *** {{desc|dum|moeyen}}
+  **** {{desc|nl|moeien}}
+  **** {{desc|dum|moeyte|der=1}}
+  ***** {{desc|nl|moeite}}
+  ** {{desc|goh|muojan|muoen}}
+  *** {{desc|gmh|muon|müen|müewen|müejen}}
+  **** {{desc|de|mühen}}
+  * {{desc|got|*𐌼𐍉𐌾𐌰𐌽}} (in derivatives: {{l|got|𐌰𐍆𐌼𐍉𐌾𐌰𐌽}})
+
+  ===References===
+  * {{R:gem:EDPG}}

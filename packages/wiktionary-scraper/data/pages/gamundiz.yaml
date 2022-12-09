@@ -1,0 +1,28 @@
+pageid: 2899593
+ns: 118
+title: Reconstruction:Proto-Germanic/gamundiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*men-|id=think}}
+  From {{prefix|gem-pro|*ga|*mundiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑ.ˈmun.diz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[remembrance]], [[memory]]
+  # [[commemoration]], [[memorial]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*gamundi}}
+  * {{desc|got|𐌲𐌰𐌼𐌿𐌽𐌳𐍃}}
+
+  {{topics|gem-pro|Thinking}}

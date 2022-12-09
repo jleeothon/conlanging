@@ -1,0 +1,36 @@
+pageid: 5673124
+ns: 118
+title: Reconstruction:Proto-Germanic/lugiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*lewgʰ-}}
+  A deverbal noun derived from {{m|gem-pro|*leuganą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlu.ɣiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[lie]], [[falsehood]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*luginō}}
+  ** {{desc|gmw-pro|*luginu}} {{see desc}}
+
+  ====Related terms====
+  * {{l|gem-pro|*lugjaz}}
+
+  ====Descendants====
+  * {{desc|ang|lyġe}}
+  ** {{desc|enm|leghe|leye}}
+  *** {{desc|en|lie}}
+  * {{desc|goh|lug}}
+  ** {{desc|gmh|luc}}
+  *** {{desc|de|Lug}}

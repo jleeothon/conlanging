@@ -1,0 +1,28 @@
+pageid: 6030448
+ns: 118
+title: Reconstruction:Proto-Germanic/gailijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*gailaz|t1=merry|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣɑi̯.li.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*ʒailjanan ~ *ʒailēnan|page=122-123}}</ref>
+
+  # to make [[glad]], [[merry]], [[cheerful]]
+
+  ====Inflection====
+  {{gem-conj-wk1|gail|j=ij}}
+
+  ====Descendants====
+  * {{desc|non|gilja}}
+  ** {{desc|sv|gilja}}
+  * {{desc|got|𐌲𐌰𐌹𐌻𐌾𐌰𐌽}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,33 @@
+pageid: 2616974
+ns: 118
+title: Reconstruction:Proto-Germanic/aplaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alt|gem-pro|*apluz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*h₂ébōl|t=apple, apple tree}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑp.lɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*apla-|31}}</ref>
+
+  # {{topics|gem-pro|Pome fruits|Fruits}} [[apple]], [[fruit]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*apaliją}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*applu}}
+  * {{desc|gme-cgo|apel}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,26 @@
+pageid: 3982047
+ns: 118
+title: Reconstruction:Proto-Germanic/mērijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*mēraz|t1=renowned, famous|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɛː.ri.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[praise]], [[proclaim]], [[celebrate]]
+
+  ====Inflection====
+  {{gem-conj-wk1|mēr|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*mārijan}}
+  * {{desc|non|mæra}}
+  ** {{desc|is|mæra}}
+  * {{desc|got|𐌼𐌴𐍂𐌾𐌰𐌽}}

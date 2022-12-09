@@ -1,0 +1,101 @@
+pageid: 4922986
+ns: 118
+title: Reconstruction:Proto-Germanic/gurą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*gʷʰer-|t=warm; hot}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣu.rɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # half-digested stomach contents
+
+  # [[manure]]; [[dung]]; [[feces]]
+
+  # [[filth]]; [[muck]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*gurwijō||mud, marshes}}
+
+  * {{l|gem-pro|*gurwijaz|pos=adjective}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*gor}}
+
+  ** {{desc|ang|gor}}; ({{l|ang|gyr}}, {{l|ang|gyre}}, {{l|ang|gyra}},
+  {{l|ang|gyru}})
+
+  *** {{desc|enm|gor|gorre|gore}}; ({{l|enm|gure|güre}}, {{l|enm|girre}},
+  {{l|enm|gire}})
+
+  **** {{desc|sco|goor|gure}}
+
+  **** {{desc|en|gore}}
+
+  ** ({{desc|ofs|gēre}}, {{l|ofs|iēre}}, {{l|ofs|jēre}})
+
+  *** ({{desc|stq|Jirre}})
+
+  *** ({{desc|fy|jarre}})
+
+  ** {{desc|osx|*gor}}; ({{l|osx|*goru}})
+
+  *** {{desc|gml|gore}}; {{l|gml|gore}}, {{l|gml|gorre}}
+
+  ** {{desc|odt|gor}} (in placenames); ({{l|odt|*gori|pos=adjective}})
+
+  *** {{desc|dum|ghoor|goor}}; ({{l|dum|goor}}, {{l|dum|gore}}; {{l|dum|gier}},
+  {{l|dum|ghier|pos=adjective}})
+
+  **** ({{desc|nl|goor}}); ({{l|nl|gier}})
+
+  ***** {{desc|af|goor}}
+
+  ** {{desc|goh|gor}}; ({{l|goh|gurigabala}})
+
+  *** {{desc|gmh|gor}}
+
+  **** {{desc|de|Gur|Guhr}} {{qualifier|archaic, dialectal}}
+
+  * {{desc|non|gor}}; ({{l|non|gjǫr}})
+
+  ** {{desc|is|gor}}; {{l|is|gjör}}
+
+  ** {{desc|fo|gor}}
+
+  ** {{desc|no|gor}}
+
+  ** {{desc|sv|gorr|går}}
+
+  *** Gothenburghian {{l|sv|gör}}
+
+  ** {{desc|gmq-oda|gor}}
+
+  * {{desc|fiu-fin-pro|*kura|t=dirt, mud|bor=1}}
+
+  ** {{desc|et|kura}}
+
+  ** {{desc|fi|kura}}

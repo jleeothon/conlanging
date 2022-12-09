@@ -1,0 +1,29 @@
+pageid: 5076486
+ns: 118
+title: Reconstruction:Proto-Germanic/spiką
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*spikką|*spikuz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*spēy-||to stretch; thrive; succeed}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈspi.kɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[bacon]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*spik}}
+  * {{desc|non|spik}}
+  ** {{desc|is|spik}}
+  ** {{desc|fo|spik}}

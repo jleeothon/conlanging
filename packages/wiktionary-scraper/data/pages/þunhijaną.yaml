@@ -1,0 +1,28 @@
+pageid: 7611642
+ns: 118
+title: Reconstruction:Proto-Germanic/þunhijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  A zero-grade ye-present related to {{m|gem-pro|*þwinhaną|t=to force, press}}.
+
+  ===Pronunciation===
+  {{IPA|gem-pro|/ˈθuŋ.xi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="Kroonen">{{R:gem:EDPG|head=*þunhjan-|page=551}}</ref>
+
+  # to [[press]]
+
+  ====Inflection====
+  {{gem-conj-wk1|þunh|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þų̄hijan}}
+  * {{desc|non|þyggja}}
+  ** {{desc|fo|tyggja}}
+
+  ===References===
+  <references/>

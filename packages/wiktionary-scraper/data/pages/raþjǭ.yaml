@@ -1,0 +1,34 @@
+pageid: 7212981
+ns: 118
+title: Reconstruction:Proto-Germanic/raþjǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂reh₁-}}
+  From {{der|gem-pro|ine-pro|*h₂reh₁-||to think, reason}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈrɑ.θjɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="Kroonen">{{R:gem:EDPG|head=*raþjōn-|page=405}}</ref>
+
+  # [[account]], [[reasoning]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ofs|rethia}}
+  * {{desc|osx|rethia}}
+  * {{desc|dum|rēde}}
+  ** {{desc|nl|rede}}
+  * {{desc|goh|redea|reda|redia}}
+  ** {{desc|gmh|rede}}
+  *** {{desc|de|Rede}}
+  * {{desc|got|𐍂𐌰𐌸𐌾𐍉}}
+
+  ===References===
+  <references/>

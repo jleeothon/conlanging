@@ -1,0 +1,43 @@
+pageid: 3946140
+ns: 118
+title: Reconstruction:Proto-Germanic/falisaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*felzaz}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*pels-}}, {{m|ine-pro|*pelis-||rock, cliff}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸɑ.li.sɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[rock]], [[cliff]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*falis}}
+
+  * {{desc|non|fell|fjall}} (possibly < {{l|gem-pro|*felzaz}})
+  {{desctree|non|fjall|noparent=1}}

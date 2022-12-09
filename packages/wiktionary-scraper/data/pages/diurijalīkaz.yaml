@@ -1,0 +1,30 @@
+pageid: 7315143
+ns: 118
+title: Reconstruction:Proto-Germanic/diurijalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*diurijaz|*-līkaz|t1=dear}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdiu̯.ri.jɑ.liː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*deurja-līkaz|71}}</ref>
+
+  # [[glorious]]
+  # [[valuable]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|osx|diurilīk}}
+  * {{desc|goh|tiurilīh}}
+  * {{desc|non|dýrligr}}
+  ** {{desc|is|dýrlegur}}
+
+  ===References===
+  <references/>

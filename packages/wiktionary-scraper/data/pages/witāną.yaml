@@ -1,0 +1,71 @@
+pageid: 7457791
+ns: 118
+title: Reconstruction:Proto-Germanic/witāną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*weyd-}}
+
+  From {{suffix|gem-pro|*witaną|*-āną}}.
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name="HGE">{{R:gem:HGE|*witēnan|463}}</ref>
+
+
+  # to [[know]]
+
+  # to [[see]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk3|wit}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*gawitāną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*witēn}}
+
+  ** {{desc|ang|*witian}}
+
+  *** {{desc|ang|biwitian|der=1}}
+
+  ** {{desc|goh|*wizzēn}}
+
+  *** {{desc|goh|intwizzēn|irwizzēn|unwizzēn}}
+
+  * {{desc|non|vita}}
+
+  ** {{desc|da|vide}} 
+
+  ** {{desc|fo|vita}}
+
+  ** {{desc|is|vita}}
+
+  ** {{desc|nb|vite}}
+
+  ** {{desc|nn|vita|vite}}
+
+  ** {{desc|sv|veta}}{{attention|non|Lehmann lists this as an Old Icelandic
+  cognate of the Gothic term below, and Köbler notes a weak verb vita as well,
+  so it apparently exists, though we have no entry for the weak verb in Old
+  Norse yet}}
+
+  * {{desc|got|𐍅𐌹𐍄𐌰𐌽|tr=witān}}
+
+
+  ===References===
+
+  <references/>

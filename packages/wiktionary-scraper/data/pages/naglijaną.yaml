@@ -1,0 +1,80 @@
+pageid: 7745025
+ns: 118
+title: Reconstruction:Proto-Germanic/naglijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{affix|gem-pro|*naglaz|t1=nail|*-janą}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈnɑɣ.li.jɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|head=*nagl-|passage=*nagljan-|page=381}}</ref><ref>{{R:gem:HGE|head=*naʒljanan|page=279}}</ref>
+
+
+  # To [[nail]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk1|nagl|j=ij}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*naglijan}}; {{l|gmw-pro|*naglōn}}
+
+  ** {{desc|ang|næġlan}}; {{l|ang|næġlian}}
+
+  *** {{desc|enm|nailen}}
+
+  **** {{desc|en|nail}}
+
+  **** {{desc|sco|nail}}
+
+  ** {{desc|ofs|*neila|*nīla}}; {{l|ofs|*neilia}}, {{l|ofs|*nīlja}}
+
+  *** {{desc|stq|nailje}}
+
+  *** {{desc|fy|nagelje}}
+
+  ** {{desc|osx|neglian}}
+
+  *** {{desc|gml|nēgelen|neglen|nāgelen}}
+
+  **** {{desc|nds-de|nageln}}
+
+  ** {{desc|odt|*neglen}}
+
+  *** {{desc|dum|nēgelen|neglen|nāgelen}}
+
+  **** {{desc|nl|nagelen}}
+
+  ** {{desc|goh|negilen|nagalen}}
+
+  *** {{desc|gmh|negelen|nagelen|nageln}}
+
+  **** {{desc|de|nageln}}
+
+  * {{desc|non|negla}}
+
+  ** {{desc|is|negla}}
+
+  ** {{desc|sv|nagla}}
+
+  * {{desc|got|𐌲𐌰𐌽𐌰𐌲𐌻𐌾𐌰𐌽|der=1}}
+
+
+  ===References===
+
+  <references/>

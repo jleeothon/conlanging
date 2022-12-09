@@ -1,0 +1,27 @@
+pageid: 4720281
+ns: 118
+title: Reconstruction:Proto-Germanic/wadjōniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*wedʰ-}}
+  Derived from {{m|gem-pro|*wadjōną||to pledge, promise}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑð.jɔː.niz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[pledging]], [[promising]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|non|veðjan}}
+  ** {{desc|is|veðjan|veðjun}}
+  ** {{desc|sv|vädjan}} (?)
+  {{cln|gem-pro|terms suffixed with *-ōniz}}

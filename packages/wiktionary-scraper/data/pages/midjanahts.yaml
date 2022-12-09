@@ -1,0 +1,41 @@
+pageid: 7424888
+ns: 118
+title: Reconstruction:Proto-Germanic/midjanahts
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*midjaz|*nahts|t1=middle|t2=night}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmið.jɑ.ˌnɑxts/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[midnight]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|ang|midniht}}
+  * {{desc|ofs|*middnacht}}
+  ** {{desc|stq|Midnoacht}}
+  * {{desc|osx|*middinaht}}
+  ** {{desc|gml|middernacht}}
+  * {{desc|odt|*middnaht}}
+  ** {{desc|dum|*middernacht}}
+  *** {{desc|nl|middernacht}}
+  * {{desc|goh|mittinaht}}
+  ** {{desc|gmh|mitternaht}}
+  *** {{desc|de|Mitternacht}}
+  * {{desc|non|miðnætti}}
+  ** {{desc|is|miðnætti}}
+  ** {{desc|fo|midnátt}}
+  ** {{desc|da|midnat}}
+  ** {{desc|no|midnatt}}
+  ** {{desc|sv|midnatt}}
+
+  {{topics|gem-pro|Times of day}}

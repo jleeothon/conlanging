@@ -1,0 +1,47 @@
+pageid: 7085101
+ns: 118
+title: Reconstruction:Proto-Germanic/aistô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₂eyd-}}
+
+  From {{der|gem-pro|ine-pro||*h₂oyd-sth₂-o-}}, from the root
+  {{m|ine-pro|*h₂eyd-||to swell}} (see {{m|gem-pro|*aitaz}},
+  {{m|gem-pro|*aitrą}}) with a suffixed root {{m|ine-pro|*steh₂-|*-sth₂-}}, a
+  formation common also to {{cog|ine-bsl|-}}: {{cog|lt|ìnkstas||testicle,
+  kidney}}, {{cog|cu|исто||testicle, (pl.) kidneys, guts}}. Compare also
+  {{cog|sq|eshke}}, {{m|sq|veshkë||kidney}}.<ref name="Kroonen"/>
+
+
+  ===Noun===
+
+  {{gem-noun|n}}<ref name="Kroonen">{{R:gem:EDPG|*aistōn-|14}}</ref>
+
+
+  # {{topics|gem-pro|Body parts}} [[testicle]]
+
+  #: {{syn|gem-pro|*neurô|*balluz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun-n-n|aist}}
+
+
+  ====Descendants====
+
+  * {{desctree|non|eista}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{c|gem-pro|Organs}}

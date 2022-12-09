@@ -1,0 +1,37 @@
+pageid: 2953518
+ns: 118
+title: Reconstruction:Proto-Germanic/baitaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alt|gem-pro|*baitą||North Germanic}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰeyd-}}
+  From {{der|gem-pro|ine-pro|*bʰeyd-||to break, split}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑi̯.tɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*baita-|48}}</ref>
+
+  # {{topics|gem-pro|Watercraft}} [[boat]], [[ship]]
+  #: {{syn|gem-pro|*skipą}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*baitō}}
+  * {{l|gem-pro|*bītaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bait}}
+  * {{desc|non|beit}}
+  ** {{desc|is|beit}}
+
+  ===References===
+  <references/>

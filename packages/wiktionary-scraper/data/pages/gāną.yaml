@@ -1,0 +1,72 @@
+pageid: 2648214
+ns: 118
+title: Reconstruction:Proto-Germanic/gāną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*gēną}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ǵʰeh₁-}}
+
+  From {{der|gem-pro|ine-pro|*ǵʰeh₁-}}. [[suppletive|Suppletive]] past tense is
+  from {{der|gem-pro|ine-pro|*h₁ey-}}, although all modern Germanic languages
+  have eliminated this stem by further suppletion or innovation.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣɑː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[go]], [[walk]]
+
+  #: {{syn|gem-pro|*ganganą|*līþaną}}
+
+
+  ====Inflection====
+
+  Irregular; the present is similar to verbs of weak class 3-ā. The past is
+  suppletive and is formed with a stem *''ijj-''.
+
+  {{gem-conj-irreg|gāną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*gān}}
+
+  * {{desc|non|gá}}
+
+  ** {{desc|is|gá}}
+
+  ** {{desc|fo|gá}}
+
+  ** {{desc|no|-}} {{l|nb|gå}}
+
+  ** {{desc|ovd|gą̊}}
+
+  ** {{desc|gmq-bot|ga|alts=1}}
+
+  ** {{desc|gmq-osw|gā}}
+
+  *** {{desc|sv|gå}}
+
+  ** {{desc|da|gå}}
+
+  * {{desc|got|𐌲𐌰𐌲𐌲𐌰𐌽}} {{q|only the past tense forms, e.g.
+  {{m|got|𐌹𐌳𐌳𐌾𐌰}}}}
+
+  * {{desc|gme-cgo|geen}} {{q|infinitive only}}

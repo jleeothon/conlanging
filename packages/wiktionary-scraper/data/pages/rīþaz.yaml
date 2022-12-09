@@ -1,0 +1,31 @@
+pageid: 6930774
+ns: 118
+title: Reconstruction:Proto-Germanic/rīþaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*h₃reyH-|t=to boil, churn}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈriːθɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|*rīþaz|306}}</ref>
+
+  # {{topics|gem-pro|Landforms|Water}} [[river]]
+  #: {{syn|gem-pro|*albī|*fleutą|*flōduz|*straumaz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*rinnaną}}
+  * {{l|gem-pro|*runsiz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*rīþ}}
+
+  ===References===
+  <references/>

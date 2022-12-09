@@ -1,0 +1,33 @@
+pageid: 7423872
+ns: 118
+title: Reconstruction:Proto-Germanic/wīnafatą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*wīną|*fatą|t1=wine|t2=vessel}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwiː.nɑ.ˌɸɑ.tɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref>{{R:gem:HGE|*wīna-fatan|467}}</ref>
+
+  # a vessel for containing wine; [[wine]]-[[cask]], [[wine]]-[[jug]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|wīnfæt}}
+  * {{desc|osx|*wīnfat}}
+  ** {{desc|gml|wīnfat}}
+  * {{desc|goh|wīnfaz}}
+  ** {{desc|gmh|wīnvaz}}
+  *** {{desc|de|Weinfass}}
+  * {{desc|non|vínfat}}
+  ** {{desc|is|vínfat}}
+
+  ===References===
+  <references/>

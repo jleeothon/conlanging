@@ -1,0 +1,61 @@
+pageid: 4594184
+ns: 118
+title: Reconstruction:Proto-Germanic/hnits
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*-níd-||nit, louse egg}}. Cognate with
+  {{cog|grc|κονίς||nit, insect egg}}, {{cog|sga|sned||nit}}.
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[nit]], louse egg
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|der=1|gmw-pro|*hnitu}}
+
+  ** {{desc|ang|hnitu}}
+
+  *** {{desc|en|nit}}
+
+  ** {{desc|osx|*hnitu}}
+
+  *** {{desc|gml|nete}}
+
+  ** {{desc|odt|*nitu}}
+
+  *** {{desc|dum|nete}}
+
+  **** {{desc|nl|neet}}
+
+  ** {{desc|goh|niz|hniz}}
+
+  *** {{desc|gmh|niz|nizze}}
+
+  **** {{desc|de|Nisse}}
+
+  * {{desc|non|gnit}}
+
+  ** {{desc|is|gnit|nit}}
+
+  ** {{desc|ovd|gnit}}
+
+  ** {{desc|fo|nitrur}}
+
+  ** {{desc|gmq-bot|gnjet}}

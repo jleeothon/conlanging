@@ -1,0 +1,30 @@
+pageid: 4005329
+ns: 118
+title: Reconstruction:Proto-Germanic/Alarīks
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂el-|*h₃reǵ-|id1=other}}
+  From {{compound|gem-pro|*allaz|t1=all|*rīks|t2=king}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑ.lɑ.ˌriːks/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Alarīk}}
+  ** {{desc|ang|Alrīc}}
+  * {{desc|non|Alrekr|Alríkr}}
+  * {{desc|got|*𐌰𐌻𐌰𐍂𐌴𐌹𐌺𐍃}}
+  ** {{desc|la|Alaricus|bor=1}}
+  *** {{desc|en|Alaric|bor=1}}
+  *** {{desc|it|Alarico|bor=1}}

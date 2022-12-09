@@ -1,0 +1,108 @@
+pageid: 2773266
+ns: 118
+title: Reconstruction:Proto-Germanic/haiduz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*(s)keyt-}}, {{m|ine-pro|*(s)keydʰ-||clear, bright,
+  shining}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑi̯.ðuz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[manner]], [[way]]
+
+  # [[personality]], [[character]]
+
+  # [[appearance]]
+
+  # [[rank]], [[degree]], [[status]]
+
+  # [[state]], [[condition]]
+
+  # [[kind]]
+
+  # {{lb|gem-pro|in compounds}} [[-hood]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|hād|-hād}}; {{l|ang|*hǣd}}, {{l|ang|*-hǣd}}, {{l|ang|*-hǣdu}}
+
+  ** {{desc|enm|had|hod|hode|hede}}; {{l|enm|-had}}, {{l|enm|-hod}},
+  {{l|enm|-hed}}, {{l|enm|-hede}}
+
+  *** {{desc|sco|had|hade|haid|-heid}}
+
+  *** {{desc|en|hade|hede|hode|-hood}}; {{l|en|-head}}
+
+  * {{desc|ofs|-hēd}}
+
+  ** {{desc|stq|-haid|-gaid}}
+
+  ** {{desc|fy|-heid}}
+
+  * {{desc|osx|-hēd}}
+
+  ** {{desc|gml|-heit}}
+
+  *** {{desc|nds-de|[[-heid]] {{q|East Frisian}}, [[-heit]]
+  {{q|Mecklenburgisch-Vorpommerisch, Paderbornisch}}, [[-heet]], [[-het]]}}
+
+  *** {{desc|nb|-het|bor=1}}
+
+  *** {{desc|sv|-het|bor=1}}
+
+  *** {{desc|da|-hed|bor=1}}
+
+  *** {{desc|is|-heit|bor=1}}
+
+  * {{desc|odt|*-hēd|*-heid}}
+
+  ** {{desc|dum|-heit}}
+
+  *** {{desctree|nl|-heid}}
+
+  * {{desc|goh|-heit}}
+
+  ** {{desc|gmh|-heit}}
+
+  *** {{desc|de|-heit|-keit}}
+
+  *** {{desc|yi|־הייט|־קייט}}
+
+  * {{desc|non|heiðr}}
+
+  ** {{desc|is|heiður}}
+
+  ** {{desc|fo|heiður}}
+
+  ** {{desc|nb|heder}}
+
+  ** {{desc|nn|heider}}
+
+  ** {{desc|gmq-osw|hēþer}}
+
+  *** {{desc|sv|heder}}
+
+  ** {{desc|da|hæder}}
+
+  * {{desc|got|𐌷𐌰𐌹𐌳𐌿𐍃}}

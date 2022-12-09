@@ -1,0 +1,32 @@
+pageid: 2663655
+ns: 118
+title: Reconstruction:Proto-Germanic/fuhǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Related to {{m|gem-pro|*fuhsaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸu.xɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[vixen]], female [[fox]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*fuhsaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*fuhā}}
+  * {{desc|non|fóa|fúa}}
+  ** {{desc|is|fóa|fúa}}
+  ** {{desc|nrn|fúa}}
+  * {{desc|got|𐍆𐌰𐌿𐌷𐍉}}
+
+  {{topics|gem-pro|Carnivores}}

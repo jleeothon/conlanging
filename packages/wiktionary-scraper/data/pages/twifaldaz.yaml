@@ -1,0 +1,42 @@
+pageid: 6520504
+ns: 118
+title: Reconstruction:Proto-Germanic/twifaldaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*twi-|*-falþaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtwi.ˌɸɑl.ðɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[twofold]]; [[double]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|twifald}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*twifald}}
+  ** {{desc|ang|twifeald}}
+  *** {{desc|enm|twifald|twifold}}
+  **** {{desc|en|twifold}}
+  ** {{desc|ofs|twifald}}
+  *** {{desc|der=1|ofs|twifaldich|twifaldech}}
+  ** {{desc|osx|*twifald}}
+  *** {{desc|osx|*twifaldig|der=1}}
+  **** {{desc|gml|twēvaldich|twēvēldich|twēvōldich}}
+  ** {{desc|odt|twifald}}
+  *** {{desc|dum|twevout}}
+  **** {{desc|nl|tweevoud}}
+  ** {{desc|goh|zwifalt}}
+  *** {{desc|gmh|zwifalt|zwivalt}}
+  **** {{desc|de|zwiefalt}}
+  *** {{desc|goh|unzwifalt|der=1}}
+  *** {{desc|goh|zwifaltlīh|der=1}}
+  * {{desc|non|tvífaldr}}
+  ** {{desc|is|tvífaldur}}, {{l|is|tvöfaldur}}
+  ** {{desc|sv|tvåfaldig|der=1}}

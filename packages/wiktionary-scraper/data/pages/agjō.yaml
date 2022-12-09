@@ -1,0 +1,78 @@
+pageid: 2799719
+ns: 118
+title: Reconstruction:Proto-Germanic/agjō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₂eḱ-}}
+
+  Ultimately from {{inh|gem-pro|ine-pro|*h₂eḱ-||sharp}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑɣ.jɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*agjō-|4}}</ref>
+
+
+  # [[edge]], [[corner]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*agjōną||to harrow}}
+
+  * {{l|gem-pro|*Agjōberhtaz}}
+
+  ** {{desc|ang|Ecgberht}}
+
+  *** {{desc|en|Egbert}}
+
+  ** {{desc|goh|Ekkebert}}
+
+  *** {{desc|de|Eckbert}}
+
+  * {{l|gem-pro|*Agjōharduz}}
+
+  ** {{desc|ang|Ecgheard}}
+
+  ** {{desc|goh|Ekkehard}}
+
+  *** {{desc|de|Eckard}}
+
+  ** {{desc|ONF.|Achard|bor=1}}
+
+  *** {{desc|nrf|Achard}}
+
+  * {{l|gem-pro|*agjōstainaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*aggju}}
+
+  * {{desctree|non|egg|id=edge}} {{see desc}}<!-- until |id= is made to work on
+  desctree -->
+
+  * {{desc|fiu-fin-pro|*akja|bor=1}}
+
+  * {{desc|se|ávju|bor=1}}
+
+
+  ===References===
+
+  <references/>

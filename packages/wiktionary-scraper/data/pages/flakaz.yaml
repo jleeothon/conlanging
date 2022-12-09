@@ -1,0 +1,89 @@
+pageid: 3630388
+ns: 118
+title: Reconstruction:Proto-Germanic/flakaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro|Uncertain}}, though resembling other {{cog|ine|-}} words meaning
+  “flat”. If from pre-Germanic {{m|ine-pro||*plog-}} or {{m|ine-pro||*pleh₂g-}},
+  or from earlier {{m|gem-pro||*flakkaz}} from {{m|ine-pro||*plog-n-}} or
+  {{m|ine-pro||*pleh₂k-n-}}, the origin could be an extended form of
+  {{der|gem-pro|ine-pro|*pel-||broad, wide, flat}}; compare the synonymous
+  {{cog|gem-pro|*flataz}}, possibly from {{m|ine-pro|*pleth₂-|*pleth₂-n-}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸlɑ.kɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[flat]]
+
+  #: {{syn|gem-pro|*flataz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|flak}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|flōc|t=flatfish}}
+
+  ** {{desc|enm|flok}}
+
+  *** {{desc|en|fluke}}
+
+  * {{desc|osx|flak}}
+
+  ** {{desc|gml|vlak}}
+
+  *** {{desc|sv|flack|bor=1}}
+
+  *** {{desc|da|flak|bor=1}}
+
+  * {{desc|odt|*flak}}
+
+  ** {{desc|dum|vlak}}
+
+  *** {{desc|nl|vlak}}
+
+  **** {{desc|af|vlak}}
+
+  *** {{desc|li|vlaak}}
+
+  * {{desc|goh|flah}}
+
+  ** {{desc|gmh|vlach}}
+
+  *** {{desc|de|flach}}
+
+  *** {{desc|lb|flaach}}
+
+  *** {{desc|wym|fłaoch}}
+
+  *** {{desc|yi|פֿלאַך}}
+
+  * {{desc|fiu-fin-pro|*lakja|bor=1}} (< {{l|gem-pro|*flakją}})
+
+  ** {{desc|fi|laaja}}
+
+  ** {{desc|et|lai}}
+
+  ** {{desc|liv|laiga}}
+
+  * {{desc|fiu-fin-pro|*lakeda|bor=1}} {{q|nativized with
+  {{m|fiu-fin-pro|*-eda}}}}
+
+  ** {{desc|fi|lakea}}

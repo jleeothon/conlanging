@@ -1,0 +1,76 @@
+pageid: 4423633
+ns: 118
+title: Reconstruction:Proto-Germanic/fuldō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*pleth₂-}}
+
+  From Pre-Germanic {{m|ine-pro||*pl̥th₂éh₂}}, feminine form of the adjective
+  "flat", from {{der|gem-pro|ine-pro|*pleth₂-||flat}}. In view of the
+  Indo-Iranian cognates, Kroonen suggests it was used with the word for "land"
+  in a sacral context.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸul.dɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[earth]], [[ground]]
+
+  # [[field]]
+
+  # the [[world]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*felþą}}
+
+  * {{l|gem-pro|*flataz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|foldu|folde}} (< {{m|gem-pro||*fuldǭ}}),
+
+  ** {{desc|enm|folde|fold}}
+
+  *** {{desc|en|fold}}
+
+  *** {{desc|sco|fold}}
+
+  * {{desc|osx|folda}}
+
+  ** ({{desc|gml|velt}})
+
+  * {{desc|goh|*fulta}} (in placenames: {{l|goh|Fuldaha}})
+
+  * {{desc|non|fold}}
+
+  ** {{desc|is|fold}}
+
+  ** {{desc|fo|fold}}
+
+  ** {{desc|no|fold|foll}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

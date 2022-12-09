@@ -1,0 +1,56 @@
+pageid: 9044284
+ns: 118
+title: Reconstruction:Proto-Germanic/slautijǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{alter|gem-pro|*slautô}}<ref
+  name="Orel">{{R:gem:HGE|head=*slautōn|page=349}}</ref>
+
+
+  ===Etymology===
+
+  {{unk|gem-pro|Unclear}}; compare {{cog|gmw-pro|*slaut|t=puddle}} and
+  {{cog|sla-pro|*sludъ|t=rime}}.<ref name="Orel"/>
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[hail]], [[rime]]
+
+  # [[slush]], [[sleet]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*slautijā}}
+
+  * {{desc|gmq-pro}}
+
+  ** {{desc|non-ogt|sloita}}
+
+  *** {{desc|gmq-gut|sloyta}}<ref>{{cite-book|year=1940|title=Gutamålet: En
+  Historisk-Deskriptiv Översikt|volume=I|series=Svenska Landsmål och Svenskt
+  Folkliv|seriesvolume=42|last=Gustavson|first=Herbert|page=232|entry=sloyta|publisher=P.
+  A. Norstedt & Söner|location={{w|Stockholm}}}}.</ref>
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Weather]]

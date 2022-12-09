@@ -1,0 +1,26 @@
+pageid: 5897608
+ns: 118
+title: Reconstruction:Proto-Germanic/knukilaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*knukô|*ilaz|id2=diminutive}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈknu.ki.lɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topic|gem-pro|Bones}}[[knuckle]], small [[bone]]
+  # [[knot]], [[bump]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*knukil}}
+  * {{desc|non|knykill}}
+  ** {{desc|ovd|kniųokel}}

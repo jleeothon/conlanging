@@ -1,0 +1,32 @@
+pageid: 3849125
+ns: 118
+title: Reconstruction:Proto-Germanic/wētijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*wed-}}
+  From {{affix|gem-pro|*wētaz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɛː.ti.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[wet]]; make wet
+
+  ====Inflection====
+  {{gem-conj-wk1|wēt|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wātijan}}
+  * {{desc|non|væta}}
+  ** {{desc|is|væta}}
+  ** {{desc|fo|væta}}
+  ** {{desc|no|væte}}
+  ** {{desc|gmq-osw|væta|alt=vǣta}}
+  *** {{desc|sv|väta}}
+  ** {{desc|gmq-oda|wætæ}}
+  *** {{desc|da|væde}}

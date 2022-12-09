@@ -1,0 +1,29 @@
+pageid: 4689484
+ns: 118
+title: Reconstruction:Proto-Germanic/ambahtijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂eǵ-}}
+  From {{affix|gem-pro|*ambahtaz|t1=servant|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑm.bɑx.ti.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[serve]], [[minister]]
+
+  ====Inflection====
+  {{gem-conj-wk1|ambaht|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*ambahtijan}}
+  * {{desc|gmq-pro|}}
+  ** {{desc|non|embætta}}
+  *** {{desc|is|embætta}}
+  *** {{desc|fo|ambæta}}
+  * {{desc|got|𐌰𐌽𐌳𐌱𐌰𐌷𐍄𐌾𐌰𐌽}}

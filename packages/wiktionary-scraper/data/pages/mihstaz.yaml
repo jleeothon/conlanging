@@ -1,0 +1,82 @@
+pageid: 3924754
+ns: 118
+title: Reconstruction:Proto-Germanic/mihstaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₃meygʰ-}}
+
+  From {{m|gem-pro|*mig-||light rain, drizzle}}, from
+  {{der|gem-pro|ine-pro|*migʰ-}}, {{m|ine-pro|*migʰ-lo-||drizzle, fog}}, from
+  {{der|gem-pro|ine-pro|*meygʰ-}}, {{m|ine-pro|*h₃meygʰ-||to flicker, blink, be
+  dark; cloud, mist}}. Cognate with {{cog|lt|miglà||fog}}, {{cog|ru|мгла||fog,
+  haze}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmix.stɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[cloud]], [[mist]], [[fog]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*miglōną}}
+
+  * {{l|gem-pro|*mihsaz}}/{{l|gem-pro|*mihsą}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|mist}}
+
+  ** {{desc|enm|mist}}
+
+  *** {{desc|sco|mist}}
+
+  *** {{desc|en|mist}}
+
+  * {{desc|ofs|*mist}}
+
+  ** {{desc|fy|mist}}
+
+  * {{desc|osx|*mist}}
+
+  ** {{desc|gml|mist}}
+
+  *** {{desc|nds-de|Mist}}
+
+  * {{desc|odt|*mist}}
+
+  ** {{desc|dum|mist|mest}}
+
+  *** {{desc|nl|mist}}
+
+  * {{desc|non|mistr}}
+
+  ** {{desc|is|mistur}}
+
+  ** {{desc|nrn|most}} (?)
+
+  ** {{desc|no|mist}}
+
+  ** {{desc|sv|mist}}
+
+  ** {{desc|da|mist}}

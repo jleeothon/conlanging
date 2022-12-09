@@ -1,0 +1,46 @@
+pageid: 4921043
+ns: 118
+title: Reconstruction:Proto-Germanic/stuldiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*stelaną|*þiz}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstul.diz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[stealing]], [[theft]]
+
+  # [[stealth]], going stealthily
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  The Old Norse reflex is masculine, but like {{m|gem-pro|*burþiz}} was probably
+  originally feminine.
+
+  * {{desc|non|stuldr}}
+
+  ** {{desc|is|stuldur}}
+
+  ** {{desc|gmq-osw|styld|g=f}}
+
+  *** {{desc|sv|stöld}}

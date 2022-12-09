@@ -1,0 +1,28 @@
+pageid: 7330268
+ns: 118
+title: Reconstruction:Proto-Germanic/rūnô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*rūnō|t=secret, mystery}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈruː.nɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|*rūnōn|310}}</ref>
+
+  # [[counselor]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*rūnō}}
+  ** {{desctree|gmw-pro|*garūnō|der=1}}
+  * {{desc|non|rúni|Rúni}}
+
+  ===References===
+  <references/>

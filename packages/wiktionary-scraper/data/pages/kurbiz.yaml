@@ -1,0 +1,45 @@
+pageid: 6369068
+ns: 118
+title: Reconstruction:Proto-Germanic/kurbiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gerbʰ-|t=to scratch}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkur.βiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # a [[cut]]
+  # a [[score]]; [[notch]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*karbiz}}
+  * {{l|gem-pro|*kerbaną}}
+  * {{l|gem-pro|*kerbaz}}
+  * {{l|gem-pro|*kerbǭ}}
+  * {{l|gem-pro|*kurbōną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*kurbi}}
+  ** {{desc|ang|cyrf}}
+  *** {{desc|enm|kyrf|kirf|kerf}}
+  **** {{desc|en|kerf}}
+  **** {{desc|sco|kerf}}
+  ** {{desc|ofs|kerf}}; {{l|ofs|kerve}}, {{l|ofs|kere}}
+  *** {{desc|stq|Käärwe}}
+  *** {{desc|fy|kern}}
+  * {{desc|non|kurfr}}
+  ** {{desc|is|kurfur}}
+  ** {{desc|nn|kurv|;|korv<q:dialectal>|kørv}}
+  ** {{desc|gmq-osw|korver}}
+  *** {{desc|sv|korv}}
+  **** {{desc|nb|korv|bor=1}}
+  ** {{desc|gmq-bot|köörv|kåårv}}

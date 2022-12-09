@@ -1,0 +1,44 @@
+pageid: 3628086
+ns: 118
+title: Reconstruction:Proto-Germanic/stabaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*stebʰ-}}
+  From {{der|gem-pro|ine-pro|*stebʰ-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɑ.βɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[staff]], [[stick]]
+  #: {{syn|gem-pro|*waluz}}
+  # a [[letter]] of the ({{w|Runes|runic}}) [[alphabet]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*bōkastabaz}}
+  * {{l|gem-pro|*stabōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*stab}}
+  * {{desc|gmq-pro|ᛋᛏᛡᛒᛡ|*ᛊᛏᚨᛒᚨᛉ}}
+  ** {{desc|non|stafr}}
+  *** {{desc|is|stafur}}
+  *** {{desc|fo|stavur}}
+  *** {{desc|nb|stav}}
+  *** {{desc|gmq-osw|staver}}
+  **** {{desc|sv|stav}}
+  *** {{desc|gmq-oda|staf}}
+  **** {{desc|da|stav}}
+  *** {{desc|gmq-gut|stav}}
+  *** {{desc|gmq-bot|stȧf|stæv|stav}}
+  * {{desc|got|𐍃𐍄𐌰𐍆𐍃}} {{qualifier|i-stem}}
+  * {{desc|smi-pro|bor=1}}
+  ** {{desc|se|stáhpi}}

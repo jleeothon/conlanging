@@ -1,0 +1,47 @@
+pageid: 6318001
+ns: 118
+title: Reconstruction:Proto-Germanic/dragjō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro||*dʰragʰ-yeh₂}}, from {{m|ine-pro|*dʰrā́ks}}.<ref
+  name="Kroonen" />
+
+
+  ===Noun===
+
+  {{gem-noun|f}}<ref
+  name="Kroonen">{{R:gem:EDPG|head=*dragjō-|page=99|passage=*dʰragʰ-ieh₂-}}</ref>
+
+
+  # {{lb|gem-pro|North Germanic}} [[dregs]], [[sediment]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|non|dregg}}
+
+  ** {{desc|is|dregg}}
+
+  ** {{desc|sv|drägg}}
+
+  ** {{desc|enm|dregges|pos=plural|bor=1}}
+
+  *** {{desc|en|dregs}}
+
+  * {{desc|fiu-fin-pro|*rahka|t=quark, curds|bor=1|unc=1}} {{see desc}}
+
+
+  ====References====
+
+  <references/>

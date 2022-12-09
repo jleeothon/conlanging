@@ -1,0 +1,32 @@
+pageid: 6026934
+ns: 118
+title: Reconstruction:Proto-Germanic/pundą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Borrowed from {{bor|gem-pro|la|pondō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈpun.dɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{topics|gem-pro|Units of measure}} [[pound]] (weight)
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*pund}}
+  * {{desc|non|pund}}
+  ** {{desc|fo|pund}}
+  ** {{desc|is|pund}}
+  ** {{desc|fo|pund}}
+  ** {{desc|no|pund}}
+  ** {{desc|gmq-osw|pund}}
+  *** {{desc|sv|pund}}
+  ** {{desc|da|pund}}
+  * {{desc|got|𐍀𐌿𐌽𐌳}}

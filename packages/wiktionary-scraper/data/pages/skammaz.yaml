@@ -1,0 +1,42 @@
+pageid: 6519642
+ns: 118
+title: Reconstruction:Proto-Germanic/skammaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)ḱem-|t=mutilated, hornless}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskɑm.mɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[short]]; [[blunt]]; [[stunted]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|skamm}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*skammatjaną}}
+  * {{l|gem-pro|*skammį̄}}
+  * {{l|gem-pro|*skammijaną}}
+  * {{l|gem-pro|*skammijǭ}}
+
+  ====Descendants====
+  * {{desc|ang|*sċamm}}
+  ** {{desc|der=1|ang|sċōmhylt|sċoomhylti}} {{i|possibly}}
+  * {{desc|goh|skam|scam}}
+  * {{desc|non|skammr}}
+  ** {{desc|is|skammur}}
+  ** {{desc|fo|skammur}}
+  ** {{desc|gmq-osw|skamber}}
+  *** {{desc|sv|skam}} {{q|obsolete}}
+  ** {{desc|no|skam}} {{q|obsolete}}
+  ** {{desc|gmq-oda|skam}}
+  ** {{desc|non|skamt|der=1}}
+  *** {{desc|enm|scant|bor=1}}
+  **** {{desc|en|scant}}
+  **** {{desc|sco|skant|scant}}

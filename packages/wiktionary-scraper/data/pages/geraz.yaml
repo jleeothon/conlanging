@@ -1,0 +1,42 @@
+pageid: 4069504
+ns: 118
+title: Reconstruction:Proto-Germanic/geraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰer-|id=yearn}}
+  {{rfe|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣe.rɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[greedy]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|ger}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*girį̄}}
+  * {{l|gem-pro|*gīrǭ}}
+  ** {{desc|got|*𐌲𐌴𐌹𐍂𐍉}} in {{l|got|𐍆𐌰𐌹𐌷𐌿𐌲𐌴𐌹𐍂𐍉}}
+
+  ====Related terms====
+  * {{l|gem-pro|*gernaz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*ger}}
+  ** {{desc|goh|ger|giri}}
+  * {{desc|non|gerr}}
+  ** {{desc|is|ger}}
+  ** {{desc|nn|gjer}}
+  * {{desc|non|Geri|der=1}}
+  ** {{desc|is|Geri|bor=1}}
+  ** {{desc|fo|Geri|bor=1}}
+  ** {{desc|no|-|bor=1}} {{desc|nn|Gjere|nolb=1}}
+  ** {{desc|sv|Gere|bor=1}}
+  ** {{desc|da|Gere|bor=1}}

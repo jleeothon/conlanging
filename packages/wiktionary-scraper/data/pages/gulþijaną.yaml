@@ -1,0 +1,29 @@
+pageid: 6027490
+ns: 118
+title: Reconstruction:Proto-Germanic/gulþijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*gulþą|t1=gold|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣul.θi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*ʒulþjanan|page=146}}</ref>
+
+  # to [[gild]], cover with gold
+
+  ====Inflection====
+  {{gem-conj-wk1|gulþ|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*gulþijan}}
+  * {{desc|non|gylla}}
+  ** {{desc|is|gylla}}
+  ** {{desc|fo|gylla}}
+
+  ===References===
+  <references/>

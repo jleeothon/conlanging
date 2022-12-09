@@ -1,0 +1,77 @@
+pageid: 3077104
+ns: 118
+title: Reconstruction:Proto-Germanic/hairaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*(s)ḱeh₃-}}
+
+  From {{der|gem-pro|ine-pro|*(s)ḱeh₃-||grey, dark}}. Cognate with
+  {{cog|sga|ciar|cīar|dark}}, probably {{cog|sla-pro|*śěrъ||gray}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑi̯.rɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}<ref>{{R:gem:EDPG|*haira-|201}}</ref>
+
+
+  # [[grey]]
+
+  # {{lb|gem-pro|figurative}} [[aged]]; [[old]]; [[lofty]]; [[distinguished]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|hair}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|hār}}
+
+  * {{desc|ofs|hār}}
+
+  * {{desc|odt|hēr}}
+
+  ** {{desc|dum|heer}}
+
+  *** {{desc|dum|herlic|der=1}}
+
+  **** {{desc|nl|heerlijk}}
+
+  * {{desctree|goh|hēr}}
+
+  ** {{desc|goh|hērro|der=1|pos=comparative}} {{see desc}}
+
+  * {{desc|non|hárr|hǽrr}}
+
+  ** {{desc|is|hár}}
+
+  ** {{desc|da|hǫr}}
+
+  ** {{desc|fro|haraz|bor=1|unc=1}} {{see desc}}
+
+  * {{desc|roa-opt|herru|bor=1}}
+
+
+  ===References===
+
+  <references />
+
+
+  {{topics|gem-pro|Colors}}
+
+
+  ====See also====
+
+  {{table:colors/gem-pro}}

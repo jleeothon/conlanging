@@ -1,0 +1,29 @@
+pageid: 7314989
+ns: 118
+title: Reconstruction:Proto-Germanic/berhtalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*berhtaz|*-līkaz|t1=bright}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈberx.tɑ.liː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*berxta-līkaz|42}}</ref>
+
+  # [[clear]], [[bright]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|ang|beorhtlīċ}}
+  * {{desc|osx|berhtlīk}}
+  * {{desc|non|bjartligr}}
+  ** {{desc|is|bjartlegur}}
+
+  ===References===
+  <references/>

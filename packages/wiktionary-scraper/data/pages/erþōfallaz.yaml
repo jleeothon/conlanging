@@ -1,0 +1,53 @@
+pageid: 7393952
+ns: 118
+title: Reconstruction:Proto-Germanic/erþōfallaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{compound|gem-pro|*erþō|*fallaz}}, with the latter derived from
+  {{m|gem-pro|*fallaną|t=to fall}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈer.θɔː.ˌɸɑl.lɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref>{{R:gem:HGE|*erþafallaz|85}}</ref>
+
+
+  # a [[fall]] to the [[ground]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ofs|erthfall}}
+
+  * {{desc|osx}}
+
+  ** {{desc|gml|erdfal|ērdval|ērtval|erdfal}}
+
+  * {{desc|goh|erdfal}}
+
+  ** {{desc|gmh|ertval}}
+
+  *** {{desc|de|Erdfall}}
+
+  * {{desc|non|jarðfall}}
+
+
+  ===References===
+
+  <references/>

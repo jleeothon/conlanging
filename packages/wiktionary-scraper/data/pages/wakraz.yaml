@@ -1,0 +1,45 @@
+pageid: 3652715
+ns: 118
+title: Reconstruction:Proto-Germanic/wakraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weǵ-}}
+  From {{suffix|gem-pro|*wakaną|*raz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑk.rɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[awake]]
+  # [[watchful]], [[alert]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|wakr}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*airiwakraz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wakāną}}
+  * {{l|gem-pro|*wakjaną}}
+  * {{l|gem-pro|*waknaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wak(k)r}}
+  * {{desc|gmq-pro|ᚹᚨᚲᚱᚨᛉ}}
+  ** {{desc|non|vakr}}
+  *** {{desc|is|vakur}}
+  *** {{desc|fo|vakur}}
+  *** {{desc|nrn|våker}}
+  *** {{desc|no|-}}
+  **** {{desc|nb|vakker}}
+  **** {{desc|nn|vakker}}
+  *** {{desc|gmq-osw|vaker|vakker}}
+  **** {{desc|sv|vacker}}
+  *** {{desc|gmq-gut|vakkar|vakka|vakur}}
+  *** {{desc|gmq-bot|vɑk|väk}}

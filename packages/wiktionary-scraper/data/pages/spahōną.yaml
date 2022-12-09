@@ -1,0 +1,32 @@
+pageid: 7879036
+ns: 118
+title: Reconstruction:Proto-Germanic/spahōną
+wikitext: |-
+  {{reconstruction}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*speḱ-}}
+  From {{der|gem-pro|ine-pro|*speḱ-|t=to see, to look, to observe}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈspɑ.xɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="Orel">{{R:gem:HGE|*spexōjanan~*spaxōjanan|363}}</ref>
+
+  # {{lb|gem-pro|North Germanic}} to [[observe]]
+
+  ====Inflection====
+  {{gem-conj-wk2|spah}}
+
+  ====Related terms====
+  * {{l|gem-pro|*spehōną}}
+  * {{l|gem-pro|*spahō}}
+
+  ====Descendants====
+  * {{desctree|non|spá|id=verb}}
+  **
+
+  ===References===
+  <references/>

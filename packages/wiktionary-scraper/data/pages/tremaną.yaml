@@ -1,0 +1,30 @@
+pageid: 4570590
+ns: 118
+title: Reconstruction:Proto-Germanic/tremaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*drem-||to run}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtre.mɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[wander]], [[waver]]
+
+  ====Inflection====
+  {{gem-conj-st|class=4|trem|tram|trēm|trum}}
+
+  ====Related terms====
+  * {{l|gem-pro|*tremą}}
+
+  ====Descendants====
+  * {{desc|goh|*treman}}
+  ** {{desc|gmh|tremen}}
+
+  ===References===
+  * {{R:gem:EDPG}}

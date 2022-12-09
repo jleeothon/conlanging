@@ -1,0 +1,31 @@
+pageid: 3831707
+ns: 118
+title: Reconstruction:Proto-Germanic/uzrēdaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*Hreh₁dʰ-}}
+  From {{prefix|gem-pro|*uz|*rēdaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌuzˈrɛː.ðɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[guess]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7d|uzrēd|uzrerōd|uzrerōd|uzrēd}}
+
+  ====Descendants====
+  * {{desc|ang|ārǣdan}}
+  ** {{desc|enm|areden}}
+  *** {{desc|en|aread|arread}}
+  * {{desc|goh|urrātan|arrātan}}
+  ** {{desc|gmh|erraten}}
+  *** {{desc|de|erraten}}
+  *** {{desc|lb|erroden}}
+  * Gothic: *usrēdan > {{l|got|𐌿𐍂𐍂𐌴𐌳𐌰𐌽}}

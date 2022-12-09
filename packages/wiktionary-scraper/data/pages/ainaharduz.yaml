@@ -1,0 +1,29 @@
+pageid: 7398566
+ns: 118
+title: Reconstruction:Proto-Germanic/ainaharduz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*ainaz|*harduz|t1=one|t2=hard}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑi̯.nɑ.ˌxɑr.ðuz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:HGE|*aina-xarduz|8}}</ref>
+
+  # [[courageous]], [[constant]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*ainahardu}}
+  ** {{desc|osx|ēnhard}}
+  ** {{desc|goh|einharti}}
+  * {{desc|non|einharðr}}
+
+  ===References===
+  <references/>

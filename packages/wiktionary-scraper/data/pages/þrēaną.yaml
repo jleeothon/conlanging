@@ -1,0 +1,26 @@
+pageid: 2719160
+ns: 118
+title: Reconstruction:Proto-Germanic/þrēaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*terh₁-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθrɛː.ɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[twist]], to [[turn]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7d|þrē|þeþrō|þeþrō|þrē}}
+
+  ====Related terms====
+  * {{l|gem-pro|*þrēduz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þrāan}}

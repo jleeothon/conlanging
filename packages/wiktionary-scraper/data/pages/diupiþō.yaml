@@ -1,0 +1,38 @@
+pageid: 3607025
+ns: 118
+title: Reconstruction:Proto-Germanic/diupiþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dʰewb-}}
+  From {{af|gem-pro|*deupaz|*-iþō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdiu̯.pi.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[deepness]], [[depth]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*diupīn|*diupį̄}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*diupiþu}}
+  * {{desc|non|dýpð|dýpt}}<!--
+  NB: Danish dybde is not directly from ON dýpð, but formed ca. 1700.
+  -->
+  ** {{desc|fo|dýpd}}
+  ** {{desc|is|dýpt}}
+  ** {{desc|nrn|djup}}
+  ** {{desc|nn|dypt|djupt}} {{q|influenced by {{l|nn|djup}}}}
+  ** {{desc|sv|djupen}}<!--
+  ** {{desc|da|dybde}}
+  *** {{desc|nb|dybde}}-->
+  * {{desc|got|𐌳𐌹𐌿𐍀𐌹𐌸𐌰}}

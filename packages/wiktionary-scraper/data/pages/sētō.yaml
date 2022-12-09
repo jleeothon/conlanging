@@ -1,0 +1,35 @@
+pageid: 7753246
+ns: 118
+title: Reconstruction:Proto-Germanic/sētō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*sed-|t=to sit}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɛː.tɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[place]], [[position]]
+  # [[lying in wait]], [[ambush]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*sātu}}
+  ** {{desc|ang|sǣt}}
+  ** {{desc|osx|*sāta}}
+  *** {{desc|gml|sâte|sât}}
+  ** {{desc|goh|sāza|unc=1}}
+  *** {{desc|gmh|sāze}}
+  **** {{desc|de|Saße}}
+  * {{desc|non|sát}}
+  ** {{desc|non|forsát|der=1}}
+  *** {{desc|is|fyrirsát}}
+  *** {{desc|sv|försåt}}
+  * {{desc|fiu-fin-pro|*hätä|bor=1}}  {{see desc}}

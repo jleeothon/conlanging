@@ -1,0 +1,39 @@
+pageid: 4709924
+ns: 118
+title: Reconstruction:Proto-Germanic/snaidō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*snīþaną||to cut}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsnɑi̯.ðɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[cut]], [[cutting]], something cut off
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*snittōną}}
+
+  ====Descendants====
+  * {{desc|ang|*snād}}
+  ** {{desc|enm|snode}}
+  * {{desc|ofs|snēthe}}
+  * {{desc|odt|snetha|snethe|snede}}
+  ** {{desc|dum|snede}}
+  *** {{desc|nl|snede|snee}}
+  * {{desc|goh|*sneita}}
+  ** {{desc|gmh|sneite}}
+  * {{desc|non|sneið}}
+  ** {{desc|is|sneið}}
+  ** {{desc|fo|sneið}}
+
+  ===References===
+  * {{R:gem:EDPG}}

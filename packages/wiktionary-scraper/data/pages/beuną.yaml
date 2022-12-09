@@ -1,0 +1,82 @@
+pageid: 2608004
+ns: 118
+title: Reconstruction:Proto-Germanic/beuną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰuH-}}
+
+  From {{der|gem-pro|ine-pro||*bʰéwH-ti}}, ''e''-grade of {{m|ine-pro|*bʰuH-||to
+  grow, become, come into being, appear}}. Cognate with {{cog|la|fuī||have
+  been|pos=verb}}, {{cog|la|futūrus||becoming, imminent, future}},
+  {{cog|sa|भवति|tr=bhávati}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbeu̯.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[be]]
+
+  #: {{syn|gem-pro|*wesaną}}
+
+  # to [[become]]
+
+
+  ====Inflection====
+
+  This verb is suppletive. The past is conjugated with the strong class 5 stem
+  ''wes-'', the remainder with an irregular stem ''beu-''.
+
+  {{gem-conj-irreg|beuną}}
+
+
+  ====Descendants====
+
+  For past tense and participle forms, see the identical forms at
+  {{l|gem-pro|*wesaną}}.
+
+  * {{l|gem-pro||*beuną|pos=infinitive}}
+
+  ** {{desctree|ang|bēon}}
+
+  * {{l|gem-pro|*biumi|pos=1st person singular present}} {{see desc}}
+
+  * {{l|gem-pro|*biusi|pos=2nd person singular present}} {{see desc}}
+
+  * {{l|gem-pro||*biuþi|pos=3rd person singular present}}
+
+  ** {{desctree|ang|biþ}}
+
+  * {{l|gem-pro||*biunþi|pos=3rd person plural present}}
+
+  ** {{desc|ang|bēoþ}}
+
+  *** {{desc|enm|beth}}
+
+  * {{l|gem-pro||*beu|pos=2nd person singular imperative}}
+
+  ** {{desc|ang|bēo}}
+
+  *** {{desc|enm|be}}
+
+  **** {{desc|en|be}}
+
+  **** {{desc|sco|be}}
+
+  * {{l|gem-pro||*beuþ|pos=2nd person plural imperative}}
+
+  ** {{desc|ang|bēoþ}}
+
+  *** {{desc|enm|beth}}

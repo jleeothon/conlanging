@@ -1,0 +1,40 @@
+pageid: 3627463
+ns: 118
+title: Reconstruction:Proto-Germanic/wīsadōmaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weyd-}}
+  From {{suffix|gem-pro|*wīsaz|*dōmaz}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # wise judgement, [[wisdom]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|wīsdōm}}
+  ** {{desc|enm|wisdom}}
+  *** {{desc|sco|wisdom|wysdome}}
+  *** {{desc|en|wisdom}}
+  * {{desc|ofs|wīsdōm}}
+  ** {{desc|fy|wiisdom}}
+  * {{desc|osx|wīsdōm}}
+  ** {{desc|gml|wiisdoem}}
+  * {{desc|odt|*wīsduom}}
+  ** {{desc|dum|wijsdom}}
+  *** {{desc|nl|wijsdom}}
+  * {{desc|goh|wīstuom}}
+  ** {{desc|gmh|wīstuom}}
+  *** {{desc|de|Weistum}}
+  * {{desc|non|vísdómr}}
+  ** {{desc|is|vísdómur}}
+  ** {{desc|no|visdom}}
+  ** {{desc|gmq-osw|visdomber|alt=vīsdōmber}}
+  *** {{desc|sv|visdom}}
+  ** {{desc|da|visdom}}

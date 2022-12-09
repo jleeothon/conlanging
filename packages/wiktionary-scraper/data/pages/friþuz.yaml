@@ -1,0 +1,41 @@
+pageid: 2399183
+ns: 118
+title: Reconstruction:Proto-Germanic/friþuz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*preyH-}}
+  From {{af|gem-pro|*frijaz|*-þuz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸri.θuz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[love]], [[friendship]]
+  # [[peace]], [[tranquility]]
+  # [[sanctuary]], [[refuge]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*friþilaz}}
+  * {{l|gem-pro|*friþōną}}
+  * {{l|gem-pro|*friþulandą}}
+  * {{l|gem-pro|*friþusamaz}}
+  * {{l|gem-pro|*Friþugaizaz}}
+  * {{l|gem-pro|*Friþurīks}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*friþu}}
+  * {{desc|gmq-pro|}}
+  ** {{desctree|non|friðr}}
+  * {{desc|got|*𐍆𐍂𐌹𐌸𐌿𐍃}}
+  * {{desc|xvn|*friðV-}}
+
+  ===References===
+  <references />

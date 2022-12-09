@@ -1,0 +1,47 @@
+pageid: 6015278
+ns: 118
+title: Reconstruction:Proto-Germanic/batizōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*batizô|*ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑ.ti.zɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # To make [[better]]; [[improve]]
+
+  ====Inflection====
+  {{gem-conj-wk2|batiz}}
+
+  ====Descendants====
+  * {{desc|ang|beterian|betrian}}
+  ** {{desc|enm|betren|bettren}}
+  *** {{desc|sco|beter|better}}
+  *** {{desc|en|better}}
+  * {{desc|ofs|beteria}}
+  ** {{desc|stq|bäterje}}
+  ** {{desc|fy|betterje}}
+  * {{desc|osx|betirōn|betorōn}}
+  ** {{desc|gml|bēteren}}
+  *** {{desc|nds-de|betern}}
+  * {{desc|odt|*betiron|*beteron}}
+  ** {{desc|dum|beteren}}
+  *** {{desc|nl|beteren}}
+  * {{desc|goh|bezzirōn}}
+  ** {{desc|gmh|bezzeren|bezzern|pezzern}}
+  *** {{desc|de|bessern}}
+  * {{desc|non|betra}}
+  ** {{desc|is|betra}}
+  ** {{desc|fo|betra}}
+  ** {{desc|no|-}}
+  *** {{desc|nn|betra|betre}}
+  *** {{desc|nb|bedre}}
+  ** {{desc|sv|bättra}}
+  ** {{desc|da|bedre}}
+  ** {{desc|gmq-gut|bättre|bättra}}

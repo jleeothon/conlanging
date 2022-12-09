@@ -1,0 +1,60 @@
+pageid: 6020777
+ns: 118
+title: Reconstruction:Proto-Germanic/strōduz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}. According to one hypothesis, from
+  {{der|gem-pro|ine-pro|*sterh₃-|t=to spread; strew}}. {{etystub|gem-pro}}
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstrɔː.ðuz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # {{lb|gem-pro|West Germanic}}{{topics|gem-pro|Geography|Water}} [[swamp]],
+  [[marsh]]
+
+  #: {{syn|gem-pro|*fanją|*sīką|*sumpaz|*swambaz}}
+
+  # {{lb|gem-pro|West Germanic}}{{topic|gem-pro|Landforms}} [[marshland]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|strōd|g=n}}
+
+  ** {{desc|en|Strood}} {{qualifier|placename in Kent}}
+
+  * {{desc|osx|*strōd}}
+
+  ** {{desc|gml|strôt|g=m}}
+
+  * {{desc|odt|*struod|*strōd}}
+
+  ** {{desc|dum|stroet}}
+
+  *** {{desc|nl|stroet}} {{qualifier|in placenames}}, {{l|nl|Stroet}}
+  {{qualifier|village in North-Holland}}
+
+  * {{desc|goh|struot|g=f}}
+
+  ** {{desc|gmh|struot}}
+
+  *** {{desc|de|Struth}} {{qualifier|archaic}}

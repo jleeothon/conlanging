@@ -1,0 +1,82 @@
+pageid: 6354119
+ns: 118
+title: Reconstruction:Proto-Germanic/raubijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*Hrewp-}}
+
+  From {{der|gem-pro|ine-pro|*Hrewp-||to snatch}}.
+
+  According to Kroonen the verb is a merger of:<ref
+  name="Kroonen">{{R:gem:EDPG|*raubjan-|406}}</ref>
+
+  * An intensive formation equivalent to {{suffix|gem-pro|*reufaną|t1=to
+  tear|*-janą}}.
+
+  * A denominal formation equivalent to
+  {{suffix|gem-pro|*raubaz|t1=robbery|*-janą}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈrɑu̯.βi.jɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name="Kroonen"></ref>
+
+
+  # to [[rob]], [[steal]], [[plunder]]
+
+  # to [[break]], [[tear]] off
+
+
+  ====Inflection====
+
+  {{gem-conj-wk1|raub|j=ij}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*raubō}}
+
+  * {{l|gem-pro|*raubōną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|*rīefan}}
+
+  ** {{desc|der=1|ang|berīefan|berȳfan}}
+
+  *** {{desc|enm|bireven}} {{i|merged with {{m|ang|berēafian}}}}
+
+  **** {{desc|en|bereave}}
+
+  **** {{desc|sco|bereve|bereif}}
+
+  * {{desc|non|reyfa}}
+
+  ** {{desc|is|reyfa}}
+
+  ** {{desc|da|røve}}
+
+  *** {{desc|nb|røve}}
+
+  *** {{desc|fo|røva|bor=1}}
+
+  *** {{desc|nn|røva|bor=1}}
+
+  ** {{desc|sv|röva}}
+
+
+  ===References===
+
+  <references/>

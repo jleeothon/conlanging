@@ -1,0 +1,123 @@
+pageid: 4425330
+ns: 118
+title: Reconstruction:Proto-Germanic/arwaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑr.wɑz/}}
+
+
+  ===Etymology 1===
+
+  From Pre-Germanic {{m|ine-pro||*Herwos}}, which could come from either
+  {{der|gem-pro|ine-pro|*h₂er-||to order, arrange, fit}} or
+  {{m|ine-pro|*h₃er-||to set in motion}}.
+
+
+  ====Adjective====
+
+  {{gem-adj}}<ref>{{R:gem:EDPG|*arwa-|37}}</ref>
+
+
+  # [[ready]], [[fast]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-adj-a|arw}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*garwaz}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|earu}}
+
+  * {{desc|osx|aru}}
+
+  * {{desc|non|ǫrr}}
+
+  ** {{desc|is|ör}}
+
+  * {{desc|got|𐌰𐍂𐍅𐌾𐍉}} {{qualifier|related adverb, not a direct
+  descendant}}
+
+
+  ===Etymology 2===
+
+  An old s-stem continuing {{der|gem-pro|ine-pro|*Hérus}}. Compare
+  {{cog|sa|अरुस्||wound}}. Probably cognate to
+  {{noncog|gem-pro|*reufaną}}.<ref>{{R:Bjorvand & Lindeman 2007}}</ref>
+
+
+  ====Noun====
+
+  {{gem-noun|n}}<ref>{{R:gem:EDPG|*arwiz-|37}}</ref>
+
+
+  # [[scar]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun|stem=z}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*garwaz}}
+
+
+  =====Descendants=====
+
+  In the West Germanic forms, the word was remodeled as an n-stem and picked up
+  initial n- by metanalysis.
+
+  * {{desc|osx|*narwo}}; {{l|osx|*narwa}}
+
+  ** {{desc|gml|narwe|nare}}
+
+  * {{desc|odt|*narwo}}; {{l|odt|*narwa}}
+
+  ** {{desc|dum|*narwe|nerwe}}
+
+  *** {{desc|nl|nerf}}
+
+  * {{desc|goh|narwo}}; {{l|goh|narwa}}, {{l|goh|narawa}}
+
+  ** {{desc|gmh|narwe|nare|nar}}
+
+  *** {{desc|de|Narbe}}
+
+  *** {{desc|lb|Naarb}}
+
+  * {{desc|non|ǫrr|ǫr|ørr|ør|ęr|*ęrr}}
+
+  ** {{desc|is|ör}}
+
+  ** {{desc|fo|arr|err|ør}}
+
+  ** {{desc|gmq-bot|ér}}
+
+  ** {{desc|da|ar}}
+
+  ** {{desc|gmq-osw|ær|ar}}
+
+  *** {{desc|sv|ärr}}
+
+  ** {{desc|sco|aur}}
+
+  * {{desc|fiu-fin-pro|*arpi|bor=1}}
+
+
+  ===References===
+
+  <references/>

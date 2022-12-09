@@ -1,0 +1,33 @@
+pageid: 7428039
+ns: 118
+title: Reconstruction:Proto-Germanic/gahauzijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*ga-|*hauzijaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɣɑˈxɑu̯.zi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[listen]], [[hear]]
+
+  ====Inflection====
+  {{gem-conj-wk1|gahauz|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*gahauʀijan}}
+  ** {{desctree|ang|ġehīeran}}
+  ** {{desc|osx|gihōrian}}
+  *** {{desc|gml|gehoren}}
+  ** {{desc|odt|gihōren}}
+  *** {{desc|dum|gehoren}}
+  ** {{desc|goh|gihōrian}}
+  *** {{desc|gmh|gehœren}}
+  **** {{desc|de|gehören}}
+  **** {{desc|yi|געהערן}}
+  * {{desc|got|𐌲𐌰𐌷𐌰𐌿𐍃𐌾𐌰𐌽}}

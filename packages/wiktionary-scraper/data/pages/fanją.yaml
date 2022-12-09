@@ -1,0 +1,89 @@
+pageid: 2729886
+ns: 118
+title: Reconstruction:Proto-Germanic/fanją
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*ponyo-||swamp}}, from {{m|ine-pro|*pen-||moist;
+  wet; mud; swamp; water}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸɑn.jɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # {{topics|gem-pro|Geography|Landforms|Water}} [[fen]], [[marsh]], [[swamp]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{sense|marsh}} {{l|gem-pro|*sīką}}, {{l|gem-pro|*strōduz}},
+  {{l|gem-pro|*sumpaz}}, {{l|gem-pro|*swammaz|*swambaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*fani}}
+
+  ** {{desctree|ang|fenn}}
+
+  ** {{desc|ofs|fene|fenne|fane}}
+
+  *** {{desc|frr|fenn}}
+
+  *** {{desc|stq|Foan}}
+
+  *** {{desc|fy|fean}}
+
+  ** {{desc|osx|feni|fenni}}
+
+  *** {{desc|gml|venne|vēn|ven}}
+
+  **** {{desc|nds-de|Fenne}}
+
+  ** {{desc|frk|*fani}}
+
+  *** {{desctree|odt|*feni}}
+
+  *** {{desc|fro|*fagne|bor=1}} {{i|from the plural}}
+
+  **** {{desc|wa|fanie|fagne}}
+
+  ***** {{desc|fr|fagne|bor=1}}
+
+  ** {{desc|goh|fenni}}
+
+  *** {{desc|gmh|venne}} {{i|rare; northern}}
+
+  **** {{desc|de|Fenn|Venn}} {{i|chiefly based on Low German}}
+
+  * {{desc|non|fen}}
+
+  ** {{desc|is|fen}}
+
+  ** {{desc|fo|fen}}
+
+  ** {{desc|no|fen}}
+
+  ** {{desc|da|fen}}
+
+  * {{desc|got|𐍆𐌰𐌽𐌹}}
+
+
+  {{topics|gem-pro|Geography}}

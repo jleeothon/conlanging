@@ -1,0 +1,32 @@
+pageid: 4538837
+ns: 118
+title: Reconstruction:Proto-Germanic/kampô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*kampōną}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[fighter]]; [[warrior]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*kampijô}}
+
+  ====Descendants====
+  * {{desc|ofs|kampa}}
+  * {{desc|osx|*kampo}}
+  ** {{desc|gml|kampe}}
+  * {{desc|odt|*kampo}}
+  ** {{desc|dum|campe}}
+  * {{desc|non|kappi}}
+  ** {{desc|is|kappi}}
+  ** {{desc|fo|kappi}}
+  ** {{desc|sv|kappe}} (reborrowed)
+  ** {{desc|da|kappe}} (reborrowed)

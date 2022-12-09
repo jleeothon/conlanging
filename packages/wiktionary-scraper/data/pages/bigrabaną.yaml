@@ -1,0 +1,36 @@
+pageid: 6405641
+ns: 118
+title: Reconstruction:Proto-Germanic/bigrabaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{pre|gem-pro|*bi|*grabaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌbi.ˈɣrɑ.βɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[bury]], [[inter]], [[engrave]]
+
+  ====Inflection====
+  {{gem-conj-st|class=6|bigrab|bigrōb|bigrōb|bigrab}}
+
+  ====Descendants====
+  * {{desctree|ang|begrafan}}
+  * {{desc|ofs|begreva}}
+  ** {{desc|stq|begreeuwe}}
+  ** {{desc|fy|begrave}}
+  * {{desctree|osx|bigravan}}
+  * {{desctree|odt|bigravan}}
+  * {{desc|goh|bigraban}}
+  ** {{desc|gmh|begraben}}
+  *** {{desc|cim|bograaban}}
+  *** {{desc|de|begraben}}
+  *** {{desc|lb|begruewen}}
+  *** {{desc|wym|bygrōwa}}
+  *** {{desc|yi|באַגראָבן}}
+  * {{desc|got|𐌱𐌹𐌲𐍂𐌰𐌱𐌰𐌽}}

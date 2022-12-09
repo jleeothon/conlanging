@@ -1,0 +1,29 @@
+pageid: 6076758
+ns: 118
+title: Reconstruction:Proto-Germanic/frakweþaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*gʷet-}}
+  From {{prefix|gem-pro|*fra|*kweþaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɸrɑ.ˈkʷe.θɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[speak]] against, [[rebuke]], [[reproach]]
+
+  ====Inflection====
+  {{gem-conj-st|class=5|frakweþ|frakwaþ|frakwēd|frakwed}}
+
+  ====Descendants====
+  * {{desc|ang|forcweþan}}
+  ** {{desc|enm|forquethen}}
+  * {{desc|goh|firquedan}}
+  * {{desc|non|fyrkveða|fyrirkveða}}
+  ** {{desc|is|fyrirkveða}}
+  * {{desc|got|𐍆𐍂𐌰𐌵𐌹𐌸𐌰𐌽}}

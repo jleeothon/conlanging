@@ -1,0 +1,58 @@
+pageid: 6339870
+ns: 118
+title: Reconstruction:Proto-Germanic/aigin
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{alter|gem-pro|*aiginą}}<ref>Vladimir Orel, ''A Handbook of Germanic
+  Etymology'', s.v. "*aigenan" (Leiden, Netherlands: Brill, 2003), 6.</ref>
+
+
+  ===Etymology===
+
+  Probably from {{inh|gem-pro|ine-pro|*h₂eyként-|g=n|pos=part.}}, but no known
+  parallels outside Germanic.<ref name="EDPG"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑi̯.ɣin/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}<ref name="EDPG">{{R:gem:EDPG|*aiginþ-|9}}</ref>
+
+
+  # [[shoot]], [[barb]]
+
+
+  ====Inflection====
+
+  The nominative singular lacks the final consonant of the stem. This preserves
+  an old sound change from late PIE, where word-final ''*-t'' becomes ''*-d''.
+  According to Grimm's Law, ''*t'' shifted to ''*þ'', and ''*d'' shifted to
+  ''*t''. Following this, word-final ''*-t'' was lost regularly.
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|osx|-}}
+
+  ** {{desc|gml|ine}}
+
+  * {{desc|non|eigin}}
+
+  ** {{desc|fo|egi}}
+
+
+  ===References===
+
+  <references/>

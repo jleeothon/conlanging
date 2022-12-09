@@ -1,0 +1,24 @@
+pageid: 7500119
+ns: 118
+title: Reconstruction:Proto-Germanic/hlūdą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Substantivization of {{m|gem-pro|*hlūdaz|t=loud, famous}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxluː.ðɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[sound]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hlūd|id=sound}}
+  * {{desc|non|hljóð}}

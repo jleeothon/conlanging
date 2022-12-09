@@ -1,0 +1,43 @@
+pageid: 7403513
+ns: 118
+title: Reconstruction:Proto-Germanic/dubilaz
+wikitext: >-
+  {{reconstructed}}
+
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Probably from {{m|gem-pro|*dubjaną}} + {{m|gem-pro|*-ilaz}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[peg]]; [[dowel]]
+
+
+  ====Descendants====
+
+  * {{desc|osx|*dubil}}
+
+  ** {{desc|gml|dövel}}
+
+  *** {{desc|en|dowel|bor=1}} {{q|perhaps}}
+
+  * {{desc|odt|*duvil}}
+
+  ** {{desc|dum|*duevel}} (attested in the verb {{m|dum|develen|develen,
+  *duevelen}})
+
+  *** {{desc|nl|deuvel}}
+
+  * {{desc|goh|tubil}}
+
+  ** {{desc|gmh|tübel}}
+
+  *** {{desctree|de|Dübel}}

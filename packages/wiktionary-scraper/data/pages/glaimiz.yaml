@@ -1,0 +1,24 @@
+pageid: 3619613
+ns: 118
+title: Reconstruction:Proto-Germanic/glaimiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰley-}}
+  From {{der|gem-pro|ine-pro|*ǵʰley-|t=to shine}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[brightness]], [[splendour]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|glǣm}}
+  ** {{desc|enm|gleme}}
+  *** {{desc|en|gleam}}
+  * {{desc|goh|gleimo}}

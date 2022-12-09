@@ -1,0 +1,28 @@
+pageid: 4916475
+ns: 118
+title: Reconstruction:Proto-Germanic/gadraganą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*ga|*draganą|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑ.ˈdrɑ.ɣɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[draw]] together, [[bring]] together; to [[accumulate]]
+  # to [[bear]], [[carry]], give birth
+
+  ====Inflection====
+  {{gem-conj-st|class=6|gadrag|gadrōg|gadrōg|gadrag}}
+
+  ====Descendants====
+  * {{desc|osx|gidragan}}
+  ** {{desc|gml|gedregen}}
+  * {{desc|goh|*gitragan}}
+  ** {{desc|gmh|getragen}}
+  * {{desc|got|𐌲𐌰𐌳𐍂𐌰𐌲𐌰𐌽}}

@@ -1,0 +1,33 @@
+pageid: 7047298
+ns: 118
+title: Reconstruction:Proto-Germanic/hainō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*ḱeh₃i-|t=to sharpen}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑi̯.nɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[whetstone]]
+
+  ====Declension====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hainijaną}}
+
+  ====Descendants====
+  * {{desc|ang|hān}}
+  ** {{desctree|enm|hone}}
+  * {{desc|nds|Hän|Heenk|Hant|Hänke}} {{q|?}}
+  * {{desc|nl|heen}} {{q|?}}
+  * {{desc|non|hein}}
+  ** {{desc|is|hein}}
+  ** {{desc|no|hein|hen}}
+  ** {{desc|sv|hein|hen}} {{q|dialectal}}

@@ -1,0 +1,29 @@
+pageid: 7882203
+ns: 118
+title: Reconstruction:Proto-Germanic/snaisijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*snaisō|t1=skewer, spit|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsnɑi̯.si.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|head=*snaisjanan|page=356}}</ref>
+
+  # to [[skewer]], to [[spit]], to [[impale]]
+  # to [[line up]]
+
+  ====Inflection====
+  {{gem-conj-wk1|snais|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*snaisijan}}
+  * {{desc|non|sneisa}}
+  ** {{desc|is|sneisa}}
+
+  ===References===
+  <references/>

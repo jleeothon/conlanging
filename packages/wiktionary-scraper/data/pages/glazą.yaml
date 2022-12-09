@@ -1,0 +1,23 @@
+pageid: 5645110
+ns: 118
+title: Reconstruction:Proto-Germanic/glazą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣlɑ.zɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{alternative form of|gem-pro|*glasą}}
+
+  ====Descendants====
+  * {{desc|ang|glær|g=n}}
+  * {{desc|non|gler|g=n}}
+  ** {{desc|is|gler}}
+  ** {{desc|fo|gler}}
+  ** {{desc|gmq-osw|glar}}
+  ** {{desc|gmq-oda|glar|glaar}}
+  *** {{desc|da|glar}}

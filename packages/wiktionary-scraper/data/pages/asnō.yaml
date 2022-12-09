@@ -1,0 +1,31 @@
+pageid: 7314133
+ns: 118
+title: Reconstruction:Proto-Germanic/asnō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)h₁es-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑs.nɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*az(a)niz ~ *asaniz|31}}</ref>
+
+  # [[harvest]], [[earning]], [[wage]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*asnijaz}}
+
+  ====Descendants====
+  * {{desc|ofs|esna|t=wage|g=m}}
+  * {{desc|osx|asna|t=wage, tax, interest}}
+  ** {{desc|gml|asne|asnen}}
+
+  ===References===
+  <references />

@@ -1,0 +1,25 @@
+pageid: 4688862
+ns: 118
+title: Reconstruction:Proto-Germanic/fillīnaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*pel-|id=skin}}
+  From {{suffix|gem-pro|*fellą|t1=skin|*īnaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸil.liː.nɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # made of skin, [[leathern]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|fillīn}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*fillīn}}
+  * {{desc|got|𐍆𐌹𐌻𐌻𐌴𐌹𐌽𐍃}}

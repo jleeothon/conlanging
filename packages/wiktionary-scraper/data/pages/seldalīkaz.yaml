@@ -1,0 +1,30 @@
+pageid: 6029092
+ns: 118
+title: Reconstruction:Proto-Germanic/seldalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*seldaz|*-līkaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsel.dɑ.liː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[unusual|Unusual]], [[uncommon]]; [[strange]]
+  # [[extraordinary|Extraordinary]]; [[wonderful]]; [[miraculous]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|seldalīk}}
+
+  ====Descendants====
+  * {{desc|ang|seldlīċ|sellīċ}}
+  ** {{desc|enm|selly|sellich|selli}}
+  *** {{desc|sco|selly}}
+  *** {{desc|en|selly}}
+  * {{desc|osx|seldlīk}}
+  * {{desc|goh|*seltlīh}}
+  * {{desc|got|𐍃𐌹𐌻𐌳𐌰𐌻𐌴𐌹𐌺𐍃}}

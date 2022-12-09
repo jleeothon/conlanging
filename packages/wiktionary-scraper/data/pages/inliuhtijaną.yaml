@@ -1,0 +1,38 @@
+pageid: 4915979
+ns: 118
+title: Reconstruction:Proto-Germanic/inliuhtijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*lewk-}}
+  From {{compound|gem-pro|*in|*liuhtijaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌin.ˈliu̯x.ti.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[enlighten]], [[illumine]]
+
+  ====Inflection====
+  {{gem-conj-wk1|inliuht|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|inlīhtan|onlīhtan|enlīhtan}}
+  ** {{desc|enm|inlightnen|enlightenen}} {{l|enm|inlighten}}
+  *** {{desc|en|enlight|inlight}}; {{l|en|inlighten}} (archaic)
+  * {{desc|ofs|*inliuchta}}
+  ** {{desc|fy|inljochtsje}}
+  * {{desc|osx|*inliuhtian}}
+  ** {{desc|gml|inlüchten}}
+  *** {{desc|nds|inlüchten}}
+  * {{desc|odt|*inliuhten}}
+  ** {{desc|dum|inluchten|inlichten}}
+  *** {{desc|nl|inlichten}}
+  * {{desc|goh|inliuhten}}
+  ** {{desc|gmh|īnliuhten}}
+  *** {{desc|de|einleuchten}}
+  * {{desc|got|𐌹𐌽𐌻𐌹𐌿𐌷𐍄𐌾𐌰𐌽}}

@@ -1,0 +1,38 @@
+pageid: 4228565
+ns: 118
+title: Reconstruction:Proto-Germanic/būą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰuH-}}
+  From or related to {{m|gem-pro|*būaną||to dwell}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbuː.ɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[building]], [[dwelling]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*būaną}}
+  * {{l|gem-pro|*būwijaną}}
+  * {{l|gem-pro|*būwô}}
+
+  ====Descendants====
+  * {{desc|ang|bū}}
+  ** {{desc|enm|bi|by}}
+  * {{desc|osx|bū}}
+  * {{desc|non|bú}}
+  ** {{desc|da|bo}}
+  ** {{desc|is|bú}}
+  ** {{desc|fo|bú|búgv}}
+  ** {{desc|gmq-osw|bo|alt=bō}}
+  *** {{desc|sv|bo}}
+  ** {{desc|gmq-bot|bu|bo}}

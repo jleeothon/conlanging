@@ -1,0 +1,38 @@
+pageid: 4575524
+ns: 118
+title: Reconstruction:Proto-Germanic/krangijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*kringaną|t1=to fall|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkrɑŋ.ɡi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to make [[turn]], [[fall]]
+
+  ====Inflection====
+  {{gem-conj-wk1|krang|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|*crenġan|*crenċġan|*crenċan}}
+  ** {{desc|enm|crengen|crenchen|*crinchen}}
+  *** {{desc|sco|crenge|creinge}}
+  *** {{desc|en|cringe|crinch}}
+  * {{desc|osx|*krengian}}
+  ** {{desc|gml|*krengen}}
+  *** {{desc|nds-de|krengen}}
+  * {{desc|odt|*krengen}}
+  ** {{desc|dum|crengen}}
+  *** {{desc|nl|krengen}}
+  * {{desc|goh|*krengen}}
+  ** {{desc|gmh|*krengen}}
+  *** {{desc|de|krängen}}
+
+  ===References===
+  * {{R:gem:EDPG}}

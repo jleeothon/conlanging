@@ -1,0 +1,38 @@
+pageid: 4262067
+ns: 118
+title: Reconstruction:Proto-Germanic/lōgą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*legʰ-}}
+  From {{der|gem-pro|ine-pro|*legʰ-||to be situated, lie}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɔː.ɣɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # a [[place]], [[position]], [[camp]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*legrą}}
+  * {{l|gem-pro|*ligjaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*lōg}}
+  ** {{desc|ang|lōh|lōg}}
+  *** {{desc|enm|loȝ|loogh|lough}}
+  ** {{desc|ofs|lōch}}
+  *** {{desc|stq|Louch|Loge|Loage}}
+  *** {{desc|bor=1|gml|lôg|lôch|loech}}
+  **** {{desc|nds-de|Loog}}
+  ** {{desc|goh|luog}}
+  *** {{desc|gmh|luoc}}
+  **** {{desc|de|Lug}}
+  * {{desc|non|lóg}}

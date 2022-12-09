@@ -1,0 +1,32 @@
+pageid: 7315841
+ns: 118
+title: Reconstruction:Proto-Germanic/girnį̄
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰer-|id=yearn}}
+  From {{suffix|gem-pro|*gernaz|*-į̄|t1=eager, willing}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣir.nĩː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*gernīn|132}}</ref>
+
+  # [[desire]], [[ambition]], [[longing]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|goh|gernī}}
+  ** {{desc|gmh|*gerne}}
+  *** {{desc|de|Gerne}}
+  * {{desc|non|ágirni|der=1}}
+  ** {{desc|is|ágirni}}
+  * {{desc|got|𐌲𐌰𐌹𐍂𐌽𐌴𐌹}}
+
+  ===References===
+  <references/>

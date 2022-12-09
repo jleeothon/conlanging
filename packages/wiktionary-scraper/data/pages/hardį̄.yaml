@@ -1,0 +1,28 @@
+pageid: 7316880
+ns: 118
+title: Reconstruction:Proto-Germanic/hardį̄
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*harduz|*-į̄|t1=hard}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑr.ðĩː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*xardīn|161}}</ref>
+
+  # [[hardihood]], [[rigidity]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hardī}}
+  * {{desc|non|herði}}
+  ** {{desc|is|herði}}
+
+  ===References===
+  <references/>

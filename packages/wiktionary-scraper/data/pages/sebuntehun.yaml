@@ -1,0 +1,54 @@
+pageid: 2420725
+ns: 118
+title: Reconstruction:Proto-Germanic/sebuntehun
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Compound of {{com|gem-pro|*sebun|*tehun}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈse.βun.te.xun/}}
+
+  ===Numeral===
+  {{enum|gem-pro|*sehstehun|*ahtōutehun|cardinal number|17}}
+  {{gem-num|*sebundatehundô}}
+
+  # [[seventeen]]
+
+  ====Descendants====
+  * {{desc|ang|seofontīene}}
+  ** {{desc|enm|seventene}}
+  *** {{desc|en|seventeen}}
+  * {{desc|ofs|*siguntīne}}
+  ** {{desc|stq|soogentien}}
+  ** {{desc|fy|santjin}}
+  * {{desc|osx|*siƀuntein}}
+  ** {{desc|gml|siventein}}
+  *** {{desc|nds-de|söventeihn}}
+  *** {{desc|pdt|säwentieen}}
+  * {{desc|odt|*sivontian}}
+  ** {{desc|dum|seventien}}
+  *** {{desc|nl|zeventien}}
+  **** {{desc|af|sewentien}}
+  *** {{desc|li|zeventien}}
+  * {{desc|goh|sibunzehan}}
+  ** {{desc|gmh|sibenzehen}}
+  *** {{desc|cim|zibantzane|alts=1}}
+  *** {{desc|de|siebzehn}}
+  *** {{desc|lb|siwwenzéng}}
+  *** {{desc|yi|זיבעצן}}
+  * {{desc|non|sjaután}}
+  ** {{desc|is|sautján|seytján}}
+  ** {{desc|fo|seytjan}}
+  ** {{desc|no|sytten}}
+  ** {{desc|gmq-osw|siutan|siuttān}}
+  *** {{desc|sv|sjutton}}
+  **** {{desc|gmq-bot|sjuttan|bor=1}}
+  ** {{desc|da|sytten}}
+  ** {{desc|gmq-bot|syttan}}
+  ** {{desc|ovd|sjuttjǫ}}
+  ** {{desc|gmq-gut|sjuttn|syttn|sjuttan}}
+
+  {{c|gem-pro|Seven}}

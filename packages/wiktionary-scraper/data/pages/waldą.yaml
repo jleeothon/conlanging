@@ -1,0 +1,43 @@
+pageid: 4024046
+ns: 118
+title: Reconstruction:Proto-Germanic/waldą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂welh₁-|id=rule}}
+  From {{m|gem-pro|*waldaną||to rule}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑl.dɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[might]], [[power]], [[authority]], [[force]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*waldaz||wielder}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*gawaldą}}
+  ** {{desc|gmw-pro|*gawald}}
+  * {{l|gem-pro|*Waldaharjaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wald}}
+  * {{desc|non|vald}}
+  ** {{desc|is|vald}}
+  ** {{desc|fo|vald}}
+  ** {{desc|nn|vald}}
+  ** {{desc|gmq-bot|vall|vål}}
+  ** {{desc|gmq-osw|vald}}
+  *** {{desc|sv|våld}}
+  ** {{desc|da|vold}}
+  *** {{desc|nb|vold}}
+  * {{desc|got|𐍅𐌰𐌻𐌳𐌿𐍆𐌽𐌹|der=1}}
+  * {{desc|fiu-fin-pro|*valta|bor=1}} {{see desc}}

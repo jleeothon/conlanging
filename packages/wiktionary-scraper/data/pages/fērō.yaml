@@ -1,0 +1,97 @@
+pageid: 4813526
+ns: 118
+title: Reconstruction:Proto-Germanic/fērō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*per-|id=risk}}
+
+  From otherwise unattested {{m|gem-pro||*fēriz|t=risky, dangerous}},
+  {{vrd|gem-pro|ger=1|nocap=1|nocat=1}} of unattested {{m|gem-pro||*feraną|t=to
+  risk}}, from {{der|gem-pro|ine-pro|*per-|id=risk}}, {{suf|gem-pro||*ō}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸɛː.rɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[danger]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*fērą}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*fērijaną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|fǣr|g=m}}; ({{l|ang|ġefǣr}})
+
+  ** {{desc|enm|fer|fere|feer}}
+
+  *** {{desc|sco|fere|feir|fear}}
+
+  *** {{desc|en|fear}}
+
+  * {{desc|ofs|*fēr}} (in {{l|ofs|fernesse}})
+
+  * {{desc|osx|*fāra|g=f}}; {{l|osx|fār|g=m}}
+
+  ** {{desc|gml|vâre}}; {{l|gml|vâr}}; {{l|gml|gevâr}}; {{l|gml|gevêr}},
+  {{l|gml|gevêre}}
+
+  *** {{desc|nds-de|Gefahr}}
+
+  *** {{desc|da|fare|bor=1|g=c}}
+
+  *** {{desc|sv|fara|bor=1|g=f}}
+
+  **** {{desc|fi|vaara|bor=1}}
+
+  *** {{desc|no|fare|bor=1|g=m}}
+
+  * {{desc|odt|*fāra}}; {{l|odt|*fār}}
+
+  ** {{desc|dum|vāre|vaer}}
+
+  * {{desc|goh|fāra|g=f}}; {{l|goh|*fār|g=m}}
+
+  ** {{desc|gmh|vāre|g=f}}; {{l|goh|vār|g=m}}; {{l|gmh|gevāre}}
+
+  *** {{desc|de|Fahr}}; {{l|de|Gefahr}}
+
+  **** {{desc|nl|gevaar|bor=1}}
+
+  ***** {{desc|fy|gefaar|bor=1}}
+
+  **** {{desc|nds-de|Gefahr|bor=1}}
+
+  **** {{desc|stq|Gefoar|bor=1}}
+
+  **** {{desc|yi|gefer|bor=1}}
+
+  *** {{desc|lb|Gefor}}
+
+
+  * {{desc|got|𐍆𐌴𐍂𐌾𐌰|der=1}}

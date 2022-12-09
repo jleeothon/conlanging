@@ -1,0 +1,86 @@
+pageid: 4588361
+ns: 118
+title: Reconstruction:Proto-Germanic/umbigangaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ǵʰengʰ-}}
+
+  Derived from {{m|gem-pro|*umbiganganą}}; equivalent to
+  {{compound|gem-pro|*umbi|*gangaz}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈum.bi.ˌɣɑŋ.ɡɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # a [[going]] around, going about, [[circuit]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*umbigang}}
+
+  ** {{desc|ang|ymbgang}}
+
+  *** {{desc|enm|umgang|umbegang}}
+
+  **** {{desc|en|umgang|umgong}}
+
+  **** {{desc|sco|umgang}}
+
+  ** {{desc|ofs|umbegang|umbegung}}
+
+  *** {{desc|stq|Uumgong}}
+
+  *** {{desc|fy|omgong}}
+
+  ** {{desc|osx|*umbigang}}
+
+  *** {{desc|gml|umbganc|ümmeganc|umganc}}
+
+  **** {{desc|nds|Ümgang}}
+
+  **** {{desc|nds-de|Umgang}}
+
+  ** {{desc|odt|*umbigang}}
+
+  *** {{desc|dum|ommegang}}
+
+  **** {{desctree|nl|omgang}}
+
+  ** {{desc|goh|umbigang}}
+
+  *** {{desc|gmh|umbeganc}}
+
+  **** {{desc|de|Umgang}}
+
+  **** {{desc|lb|Ëmgang}}
+
+  * {{desc|non|umgangr}}
+
+  ** {{desc|is|umgangur}}
+
+  ** {{desc|no|omgang}}
+
+  ** {{desc|gmq-osw|umganger}}
+
+  *** {{desc|sv|omgång}}
+
+  ** {{desc|da|omgang}}

@@ -1,0 +1,37 @@
+pageid: 7506853
+ns: 118
+title: Reconstruction:Proto-Germanic/fralustiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*fra-|*lustiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɸrɑˈlus.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[loss]]
+  # [[ruin]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  {{rel4|gem-pro
+  |*lausaz
+  |*lusą
+  |*leusaną
+  |*lusnaną
+  |*lusnōną
+  |*luzaz
+  |*luziz
+  |*fraleusaną
+  }}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*fralusti}}
+  * {{desc|got|𐍆𐍂𐌰𐌻𐌿𐍃𐍄𐍃}}

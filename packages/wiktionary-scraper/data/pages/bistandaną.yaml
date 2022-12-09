@@ -1,0 +1,38 @@
+pageid: 6421237
+ns: 118
+title: Reconstruction:Proto-Germanic/bistandaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*bistāną}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*steh₂-}}
+  From {{prefix|gem-pro|*bi|*standaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/bi.ˈstɑn.dɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[stand]] by or near
+  # to stand around, [[surround]]
+
+  ====Inflection====
+  {{gem-conj-st|class=6|nopass=1|bistand|bistōþ|bistōd|bistad}}
+
+  ====Descendants====
+  * {{desc|ang|bestandan}}
+  ** {{desc|enm|bestanden|bistanden}}
+  *** {{desc|en|bestand}}
+  * {{desc|osx|*bistandan}}
+  ** {{desc|gml|bestanden}}
+  * {{desc|odt|*bistandan}}
+  ** {{desc|dum|bestanden}}
+  * {{desc|goh|bistantan}}
+  ** {{desc|gmh|bestanden|pos=ppt/adj}}
+  *** {{desc|de|bestanden|pos=ppt/adj}}
+  * {{desc|got|𐌱𐌹𐍃𐍄𐌰𐌽𐌳𐌰𐌽}}

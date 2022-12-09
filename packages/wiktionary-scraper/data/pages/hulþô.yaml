@@ -1,0 +1,25 @@
+pageid: 5098599
+ns: 118
+title: Reconstruction:Proto-Germanic/hulþô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Substantivised form of {{m|gem-pro|*hulþaz}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[friend]], [[trustee]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|ofs|holda}}
+  * {{desc|odt|-}}
+  ** {{desc|dum|houde}}
+  *** {{desc|nl|houd}}
+  * {{desc|goh|holdo}}
+  ** {{desc|de|Holde}}

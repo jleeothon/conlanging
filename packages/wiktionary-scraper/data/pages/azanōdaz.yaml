@@ -1,0 +1,36 @@
+pageid: 7314085
+ns: 118
+title: Reconstruction:Proto-Germanic/azanōdaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative reconstructions===
+  * {{l|gem-pro|*aznōduz}}
+
+  ===Etymology===
+  From the past participle of {{m|gem-pro|*azanōną|t=to harvest, reap, labor}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑzɑ.nɔː.ðɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[harvest]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|dum|arnde|arnede|ernde|ernede}}
+  ** {{desc|nl|arent}}
+  * {{desc|osx|*arnōd}}
+  ** {{desc|gml|arnde}}
+  *** {{desc|nds-de|Arnt}}, {{l|nds|Ärnte}}
+  * {{desc|goh|arnōt|g=m}}
+  ** {{desc|gmh|ernde|g=f|der=1}} {{q|merged with {{m|gmh|erne|g=f}}}}
+  *** {{desc|de|Ernte|g=f}}
+  * {{desc|non|*ǫnnadr}}
+  ** {{desc|gmq-osw|and}}
+  *** {{desc|sv|and}}

@@ -1,0 +1,27 @@
+pageid: 7542126
+ns: 118
+title: Reconstruction:Proto-Germanic/numþiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*nem-}}
+  From {{suffix|gem-pro|*nemaną|*-þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈnum.θiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[taking]], [[acceptance]]
+  #: {{syn|gem-pro|*nēmō}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*numþi}}
+  * {{desc|got|*𐌽𐌿𐌼𐍄𐍃}}
+  ** {{desc|got|𐌰𐌽𐌳𐌰𐌽𐌿𐌼𐍄𐍃|der=1}}

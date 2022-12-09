@@ -1,0 +1,25 @@
+pageid: 4024416
+ns: 118
+title: Reconstruction:Proto-Germanic/binemaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*nem-}}
+  From {{prefix|gem-pro|*bi|*nemaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌbi.ˈne.mɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[take away]], [[benim]]
+
+  ====Inflection====
+  {{gem-conj-st|class=4|binem|binam|binēm|binum}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bineman}}
+  * {{desc|got|𐌱𐌹𐌽𐌹𐌼𐌰𐌽}}

@@ -1,0 +1,28 @@
+pageid: 4592579
+ns: 118
+title: Reconstruction:Proto-Germanic/nurþanē
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*nurþraz|*anē}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/nur.θɑ.nɛː/}}
+
+  ===Adverb===
+  {{gem-adv}}
+
+  # from the [[north]]
+
+  ====See also====
+  * {{l|gem-pro|*austanē}}
+  * {{l|gem-pro|*sunþanē}}
+  * {{l|gem-pro|*westanē}}
+
+  ====Descendants====
+  * {{desc|ang|norþan}}
+  * {{desc|goh|nordana}}
+  ** {{desc|gmh|nordane|norden}}
+  * {{desctree|non|norðan}}

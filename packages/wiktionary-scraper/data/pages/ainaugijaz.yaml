@@ -1,0 +1,34 @@
+pageid: 7398564
+ns: 118
+title: Reconstruction:Proto-Germanic/ainaugijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*ainaz|*augô|t1=one|t2=eye}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑi̯.nɑu̯.ɣi.jaz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:HGE|*aina-augjaz|8}}</ref>
+
+  # [[one-eyed]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*ainaugī}}
+  ** {{desc|ang|ānīeġe}}
+  ** {{desc|osx|*einōga}}
+  *** {{desc|gml|einōge|ēnōge}}
+  ** {{desc|goh|einougi}}
+  *** {{desc|gmh|einöuge}}
+  **** {{desc|de|einäugig}}
+  * {{desc|non|eineygr}}
+  ** {{desc|is|eineygur}}
+
+  ===References===
+  <references/>

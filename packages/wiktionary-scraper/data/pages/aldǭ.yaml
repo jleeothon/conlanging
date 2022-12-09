@@ -1,0 +1,77 @@
+pageid: 4441464
+ns: 118
+title: Reconstruction:Proto-Germanic/aldǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro|*Holdʰō(n)}}, variant formation of
+  {{der|gem-pro|ine-pro|*Holdʰu-||trough, (dugout) canoe}}. See also
+  {{cog|ang|ealdoþ||trough}}, {{cog|sla-pro|*oldi||boat}}.
+
+
+  ===Noun===
+
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*aldō(n)-|21}}</ref>
+
+
+  # {{lb|gem-pro|North Germanic}} {{topics|gem-pro|Trees}} trough, hollow (of a
+  tree)
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|non|alda}}
+
+  ** {{desc|is|alda}}
+
+  ** {{desc|fo|alda}}
+
+  ** {{desc|non|olda}} {{i|dialectal}}
+
+  ** {{desc|sv|ålle|ålla}} {{i|dialectal}}
+
+  ** {{desc|gmq-oda|aalde|olde}}
+
+  * {{desc|bor=1|fiu-fin-pro|*aldas|t=trough|*alto|t2=wave}}
+
+  ** {{desc|fi|allas|aalto}}
+
+
+  ====Further reading====
+
+  * {{cite-book| last = Mallroy
+   | first = James
+   | authorlink = http://books.google.com/books?id=tzU3RIV2BWIC Google Books
+   | coauthors = Adams, D.Q. et. al.
+   | year = 1997
+   | title = Encyclopedia of Indo-European Culture
+   | publisher = Fitzroy Dearborn Publishers
+   | location = London
+   |isbn= 978-1-884964-98-5
+  }}
+
+  * {{cite-book| last = Orel
+   | first = Vladimir
+   | authorlink = http://books.google.com/books/about/A_Handbook_of_Germanic_Etymology.html?id=LY1iAAAAMAAJ
+   | coauthors =
+   | year = 2003
+   | title = A Handbook of Germanic Etymology
+   | publisher = Brill Academic Publishers
+   | location = Boston
+   |isbn= 978-9-004128-75-0
+  }}
+
+
+  ===References===
+
+  <references/>

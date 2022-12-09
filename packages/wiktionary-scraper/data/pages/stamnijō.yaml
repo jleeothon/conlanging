@@ -1,0 +1,100 @@
+pageid: 2643962
+ns: 118
+title: Reconstruction:Proto-Germanic/stamnijō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*stebnō}}
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|gem-pro||*stom(m)n-}}, from
+  {{der|gem-pro|ine-pro|*stem-||mouth, muzzle}}.<ref>{{R:gem:EDPG}}</ref>
+  Cognate with {{cog|grc|στόμα||mouth, muzzle}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstɑm.ni.jɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # {{topics|gem-pro|Talking|Vocalizations}}[[voice]]
+
+  # {{topic|gem-pro|Sound}}[[sound]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*razdō}}
+
+  * {{l|gem-pro|*stebnō}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*stimnōną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|stemn}}
+
+  ** {{desc|enm|stemne|stempne}}
+
+  *** {{desc|en|stempne}} {{qualifier|obsolete, dialectal}}
+
+  * {{desc|ofs|stemme}}
+
+  ** {{desc|frr|stemm}}
+
+  ** {{desc|fy|stim}}
+
+  * {{desc|osx|stemna}}
+
+  ** {{desc|gml|stemne|stempne|stemme}}
+
+  *** {{desc|nds-de|Stemme|Stimme|Stemm|Stimm}}
+
+  *** {{desc|pdt|Stemm}}
+
+  *** {{desc|is|stemna|bor=1}}
+
+  *** {{desc|no|stemme|bor=1}}
+
+  *** {{desc|sv|stämma|bor=1}}
+
+  *** {{desc|da|stemme|bor=1}}
+
+  * {{desc|odt|*stemma}}
+
+  ** {{desc|dum|stemme}}
+
+  *** {{desc|nl|stem}}
+
+  **** {{desc|af|stem}}
+
+  * {{desc|goh|stemma|stemna}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Talking}}

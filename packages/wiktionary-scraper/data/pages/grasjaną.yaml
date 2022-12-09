@@ -1,0 +1,34 @@
+pageid: 5987412
+ns: 118
+title: Reconstruction:Proto-Germanic/grasjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*grasą|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣrɑs.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[feed]] on [[grass]]; [[graze]]
+
+  ====Inflection====
+  {{gem-conj-wk1|gras|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*grasōną}}
+
+  ====Descendants====
+  * {{desc|ang|*gressan}}
+  ** {{desc|enm|*gressen|gresen}}
+  *** {{desc|sco|gres|gress}}
+  *** {{desc|en|gress}} {{qualifier|dialectal}}
+  * {{desc|non|gresja}}
+  ** {{desc|is|gresja}}
+  ** {{desc|fo|gresja}}
+  ** {{desc|sv|gräsa}}
+  ** {{desc|da|græsse}}

@@ -1,0 +1,30 @@
+pageid: 3876437
+ns: 118
+title: Reconstruction:Proto-Germanic/wammijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*wammaz|t1=spot, stain|*-janą}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[stain]]
+
+  ====Inflection====
+  {{gem-conj-wk1|wamm|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wēmaz}}
+  * {{l|gem-pro|*wēmōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wammijan}}
+  * {{desc|non|*vemja}}
+  ** {{desc|da|væmmes}}
+  ** {{desc|gmq-osw|væmia}}
+  *** {{desc|sv|vämjas}}
+  * {{desc|got|*𐍅𐌰𐌼𐌼𐌾𐌰𐌽}} 
+  ** {{desc|got|𐌰𐌽𐌰𐍅𐌰𐌼𐌼𐌾𐌰𐌽|der=1}}

@@ -1,0 +1,104 @@
+pageid: 3854988
+ns: 118
+title: Reconstruction:Proto-Germanic/þankaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*teng-|id=think}}
+
+  From {{inh|gem-pro|ine-pro||*tóng-o-s}}, from {{m|ine-pro|*teng-||to think,
+  feel, perceive, know|id=think}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[thought]]; [[mind]]; [[consideration]]
+
+  # [[remembrance]]
+
+  # [[gratitude]]; [[thanks]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  {{der3|gem-pro|*gaþankaz|*þankiz|*þankiþō|*þankijaną|*þankōną}}
+
+
+  ====Descendants====
+
+  {{top3}}
+
+  * {{desc|ang|þanc|þonc}}
+
+  ** {{desc|enm|thank|thonk}}
+
+  *** {{desc|sco|thank}}
+
+  *** {{desc|en|thank|thanks}}
+
+  *  {{desc|ofs|thank|thonk}}
+
+  ** {{desc|stq|Tonk}}
+
+  ** {{desc|fy|tanck|tank}}
+
+  * {{desc|osx|thanc|thank}}
+
+  ** {{desc|gml|dank|danke}}
+
+  *** {{desc|nds|Dank}}
+
+  * {{desc|odt|*thanc|thank}}
+
+  ** {{desc|dum|danc}}
+
+  *** {{desc|nl|dank}}
+
+  **** {{desc|af|dankie}}
+
+  *  {{desc|goh|danc}}
+
+  ** {{desc|gmh|danc}}
+
+  *** {{desc|de|Dank}}
+
+  *** {{desc|yi|דאַנק}}
+
+  * {{desc|non|þǫkk}} {{q|from {{l|gem-pro|*þankō}}}}
+
+  ** {{desc|is|þökk}}
+
+  ** {{desc|fo|tøkk}}
+
+  ** {{desc|no|takk}}
+
+  ** {{desc|ovd|tokk}}
+
+  ** {{desc|gmq-osw|þak}}
+
+  *** {{desc|sv|tack}}
+
+  ** {{desc|da|tak}}
+
+  *** {{desc|fo|takk|bor=1}}
+
+  *** {{desc|is|takk|bor=1}}
+
+  * {{desc|got|𐌸𐌰𐌲𐌺𐍃}}
+
+  {{bottom}}
+
+  * {{desc|xvn|*þank-}}

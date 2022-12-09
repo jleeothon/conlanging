@@ -1,0 +1,31 @@
+pageid: 6455493
+ns: 118
+title: Reconstruction:Proto-Germanic/tiunijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*teuną|t1=ruin, lack, damage|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtiu̯.ni.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[torture]], [[torment]], [[vex]]
+  # to [[claim]], [[use]], [[appropriate]]
+
+  ====Inflection====
+  {{gem-conj-wk1|tiun|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*tiunijan}}
+  * {{desc|non|týna}}
+  ** {{desc|is|týna}}
+  ** {{desc|fo|týna}}
+  ** {{desc|nn|tyne}}
+  ** {{desc|nb|tyne}}
+  ** {{desc|sv|tyna}}
+  ** {{desc|da|tyne}}

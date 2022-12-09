@@ -1,0 +1,73 @@
+pageid: 4708548
+ns: 118
+title: Reconstruction:Proto-Germanic/swippōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From pre-Germanic ''*swip-néh₂-ti'', zero-grade iterative of
+  {{m|gem-pro|*swībaną}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈswip.pɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[sway]], [[move]] swiftly, [[swerve]]
+
+
+  ====Inflection====
+
+  The original paradigm consisted of two stem variants, singular
+  {{m|gem-pro||*swipp-}} against non-singular {{m|gem-pro||*swib-}}.
+
+  {{gem-conj-wk2|swipp}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*swaipaną}}
+
+  * {{l|gem-pro|*swipatjaną}} {{q|+ {{l|gem-pro|*-atjaną}}}}
+
+  ** {{desc|non|svipta}}, {{l|non|svypta||to move quickly, fling, gather,
+  deprive}}
+
+  * {{l|gem-pro|*swipraz}}
+
+  ** {{desc|gem-pro|*gaswipraz|der=1|nolb=1}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|swipian|sweopian|swippan}}
+
+  ** {{desc|enm|swippen|swipen}}
+
+  *** {{desc|enm|swipe}}, {{q|obsolete}} {{l|en|swip}}
+
+  * {{desc|de|schwippen}}
+
+  * {{desc|non|svipa}}
+
+  ** {{desc|da|svippe}}
+
+  ** {{desc|is|svipa}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

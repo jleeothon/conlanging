@@ -1,0 +1,70 @@
+pageid: 3900701
+ns: 118
+title: Reconstruction:Proto-Germanic/barwaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*baruz}}
+
+
+  ===Etymology===
+
+  This word only has cognates in Slavic. Kroonen states that the reconstructed
+  proto-form would reflect *bʰorwos, and states that it is a Germanic-Slavic
+  isogloss.<ref>{{R:gem:EDPG}}</ref> See {{bor|gem-pro|sla-pro|*borъ|t=pine
+  tree}}. Orr considers the possibility that it is a loan, in particular the
+  ŭ-declension being copied. In this case the Germanic meaning would be more
+  derived, with a shift from the Slavic sense “pine grove” to “forest (in
+  general)" for which compare {{m+|sla-pro|*dǫbrava|t=oak grove; forest in
+  general}}.<ref>{{R:gem:Orr:2003|pages=50, 56}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɑr.wɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[coniferous]] [[forest]]; [[pinewood]]
+
+  # [[wood]]; [[grove]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{desc|nolb=1|gem-pro|*barō|unc=1|der=1}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*baru}}
+
+  ** {{desctree|ang|bearu}}
+
+  ** {{desc|osx|*baro}}; {{l|osx|bere}} (< {{m|gem-pro|*baruz}}?)
+
+  ** {{desc|goh|baro}}
+
+  * {{desc|non|bǫrr|t=a kind of tree}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Forests}}

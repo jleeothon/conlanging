@@ -1,0 +1,41 @@
+pageid: 2716702
+ns: 118
+title: Reconstruction:Proto-Germanic/sōwulō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*sōwilō}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*sóh₂wl̥|t=sun}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɔː.wu.lɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[sun]]; the [[Sun]]
+  # {{lb|gem-pro|Runic alphabet}} name of the S-rune ([[ᛊ]])
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sōwulą}}, {{l|gem-pro|*sugilaz}}, {{l|gem-pro|*swagilaz}}
+
+  ====Descendants====
+  * {{desc|non|sól}}
+  ** {{desc|is|sól}}
+  ** {{desc|fo|sól}}
+  ** {{desc|nrn|sul}}
+  ** {{desc|no|sol}}
+  ** {{desc|gmq-osw|sol|alt=sōl}}
+  *** {{desc|sv|sol}}
+  ** {{desc|da|sol}}
+  ** {{desc|gmq-gut|sol|soli}}
+  ** {{desc|bor=1|sco|sul|sool}}
+
+  {{topics|gem-pro|Celestial bodies|Runic letter names}}

@@ -1,0 +1,28 @@
+pageid: 8139552
+ns: 118
+title: Reconstruction:Proto-Germanic/atgaizaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*at|*gaizaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑt.ɣɑi̯.zɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Weapons}} [[spear]], [[pike]], [[javelin]]
+  # {{lb|gem-pro|North Germanic}} [[halberd]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*atgaiziją}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*atgaiʀ}}
+  * {{desctree|non|atgeirr}}

@@ -1,0 +1,28 @@
+pageid: 5562033
+ns: 118
+title: Reconstruction:Proto-Germanic/Uzdawulfaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*uzdaz|*wulfaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈuz.dɑˌwul.ɸɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|ang|Ordwulf}}
+  * {{desc|non|Oddulfr}} (attested only in East Norse runic inscriptions)
+  ** {{desc|gmq-osw|Oddolf|Uddolf}}
+
+  ===References===
+  * {{R:non:Nordiskt runnamnslexikon|UddulfR}}

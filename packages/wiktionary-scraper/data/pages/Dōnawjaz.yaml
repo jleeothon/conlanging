@@ -1,0 +1,93 @@
+pageid: 4624505
+ns: 118
+title: Reconstruction:Proto-Germanic/Dōnawjaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Borrowed from {{bor|gem-pro|cel-pro|*Dānowyos}}, an extended form of the
+  river-name {{m|cel-pro|*Dānu}}, from {{der|gem-pro|ine-pro|*déh₂nu||river
+  goddess}}, akin to {{m|ine-pro|*dʰenh₂-||to set in motion; to flow}}. The
+  Celtic name is also the source of {{cog|la|Dānuvius}}, {{m|la|Dānubius}} and
+  {{cog|grc|Δανούιος}} and {{m|grc|Δανούβιος}}. {{m|gem-pro||*Dōnawjaz}} was
+  reinterpreted as a feminine jō-stem in West Germanic (Schumacher 2007: 181).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdɔː.ˌnɑu̯.jɑz/}}
+
+
+  ===Proper noun===
+
+  {{gem-proper noun|m}}
+
+
+  # the river [[Danube]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|nopl=1}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|}}
+
+  ** {{desc|ang|Dōnua}} (hapax att. c. 890, possibly actually from [[Old
+  Cornish]] or [[Old Saxon]])
+
+  *** {{desc|non|Dónua|bor=1}} (?)
+
+  ** {{desc|goh|Tuonouwa|Duonowa|Tuonouwe}}
+
+  *** {{desc|gmh|Tuonouwe|Tuonowe}}
+
+  **** {{desc|gmh|Tuonawe|der=1}} (perhaps under Slavic influence)
+
+  ***** {{desc|gmh|Tunaw}}
+
+  ***** {{desc|de|Tonaw|der=1}} (perhaps under Low German influence)
+
+  ****** {{desc|de|Tonau}}
+
+  ****** {{desc|de|Donaw|der=1}} (under Low German influence)
+
+  ******* {{desctree|de|Donau}}
+
+  ** {{desc|osx}}
+
+  *** {{desc|gml|Dônouw|Dônouwe|Dunouw|Dunouwe}}
+
+  ** {{desc|odt}}
+
+  *** {{desc|dum|Denouwe}}
+
+  * {{desc|got|*𐌳𐍉𐌽𐌰𐍅𐌹}}
+
+  ** {{desc|grc|Δούναβις|bor=1}}
+
+  ** {{desc|sla-pro|*Dunavь|bor=1}} {{see desc}}
+
+
+  {{topics|gem-pro|Rivers}}
+
+
+  ===References===
+
+  * Stefan Schumacher (2007), ‘Die Deutschen und die Nachbarstämme: Lexikalische
+  und strukturelle Sprachkontaktphänomene entlang der keltisch-germanischen
+  Übergangszone’
+  ([https://www.academia.edu/30483136/Die_Deutschen_und_die_Nachbarstämme_Lexikalische_und_strukturelle_Sprachkontaktphänomene_entlang_der_keltisch-germanischen_Übergangszone._Keltische_Forschungen_2_2007]),
+  Keltische Forschungen 2, pp. 181-182, Praesens Verlag, Vienna.
+
+  * David Stifter (2009), ‘The Proto-Germanic shift *ā>*ō and early Germanic
+  linguistic contacts’ ([http://mural.maynoothuniversity.ie/4645/1/DS_Proto.pdf
+  pdf]), Historische Sprachforschung / Historical Linguistics, Bd. 122, p. 277.
+
+  * {{R:cel:EPCW|*Dānu, *Dānowyos|283}}

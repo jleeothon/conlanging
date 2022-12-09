@@ -1,0 +1,45 @@
+pageid: 5075457
+ns: 118
+title: Reconstruction:Proto-Germanic/skitiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*skītaz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*skeyd-||to part, divide}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈski.tiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[excrement]]; [[feces]]; [[shit]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*skitjǭ}}
+
+  ====Related terms====
+  * {{l|gem-pro|*skītaną}}
+
+  ====See also====
+  * {{l|gem-pro|*skarną}}
+  * {{l|gem-pro|*turdą}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skiti}}
+  * {{desc|non|skítr}} (< {{l|gem-pro|*skītaz}})
+  ** {{desc|is|skítur}}
+  ** {{desc|fo|skítur}}
+  ** {{desc|nn|skit}}
+  ** {{desc|sv|skit}}
+  ** {{desc|da|skid}}
+  ** {{desc|bor=1|enm|skyt|skytte|skytt}}
+  *** {{desc|en|skite}}
+  *** {{desc|sco|skyte|skite}}

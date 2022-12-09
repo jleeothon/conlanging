@@ -1,0 +1,27 @@
+pageid: 6076761
+ns: 118
+title: Reconstruction:Proto-Germanic/frakwemaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*gʷem-}}
+  From {{prefix|gem-pro|*fra|*kwemaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɸrɑ.ˈkʷe.mɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[come]] against, [[overcome]], [[destroy]]
+
+  ====Inflection====
+  {{gem-conj-st|class=4|frakwem|frakwam|frakwēm|frakum}}
+
+  ====Descendants====
+  * {{desc|ang|forcuman}}
+  * {{desc|osx|farkuman}}
+  ** {{desc|gml|vorkomen}}
+  * {{desc|got|𐍆𐍂𐌰𐌵𐌹𐌼𐌰𐌽}}

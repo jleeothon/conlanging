@@ -1,0 +1,79 @@
+pageid: 3929141
+ns: 118
+title: Reconstruction:Proto-Germanic/sundrōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*senH-}}
+
+  From {{af|gem-pro|*sundraz|*-ōną}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsun.drɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[sunder]], to [[separate]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|sundr}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*sundrijaną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|sundrian}}
+
+  ** {{desc|enm|sundren}}
+
+  *** {{desc|en|sunder}}
+
+  *** {{desc|sco|sunder|sinder}}
+
+  * {{desc|ofs|*sundria}}
+
+  ** {{desc|stq|sunnerje}}
+
+  ** {{desc|fy|sûnderje}}
+
+  * {{desc|osx|*sundrōn}}
+
+  ** {{desc|gml|sunderen|sönderen|sünderen}} (merged with descendant of
+  {{cog|gem-pro|*sundrijaną}})
+
+  *** {{desc|nds-de|sünnern}}
+
+  *** {{desc|pdt|sondren}}
+
+  * {{desc|odt|*sundron}}
+
+  ** {{desc|dum|sonderen}}
+
+  *** {{desc|nl|zonderen}}
+
+  * {{desc|goh|suntarōn}}
+
+  ** {{desc|gmh|sundern}}
+
+  *** {{desc|de|sondern}}
+
+  * {{desc|non|sundra}}
+
+  ** {{desc|is|sundra}}

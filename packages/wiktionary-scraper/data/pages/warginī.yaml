@@ -1,0 +1,24 @@
+pageid: 7580588
+ns: 118
+title: Reconstruction:Proto-Germanic/warginī
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*wargaz|*-inī}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[female]] [[criminal]]
+  # [[female]] [[wolf]]
+
+  ====Inflection====
+  Stem {{m|gem-pro||*wargunjō-}}.
+  {{rfinfl|gem-pro|noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wargini}}
+  * {{desc|non|vargynja}}
+  ** {{desc|non|vargynja}}

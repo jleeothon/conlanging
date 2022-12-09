@@ -1,0 +1,26 @@
+pageid: 3996563
+ns: 118
+title: Reconstruction:Proto-Germanic/tilaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*ad-||to secure, establish, order}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈti.lɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[fitting]], [[meet]], [[suitable]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|til}}
+
+  ====Descendants====
+  * {{desc|ang|til}}
+  * {{desc|ofs|til}}
+  * {{desc|osx|til}}
+  * {{desc|got|𐌲𐌰𐍄𐌹𐌻𐍃}} (note also {{m|got|𐍄𐌹𐌻}})

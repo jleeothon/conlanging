@@ -1,0 +1,29 @@
+pageid: 4987780
+ns: 118
+title: Reconstruction:Proto-Germanic/wīnabasją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*wīnabazją}}
+
+  ===Etymology===
+  From {{compound|gem-pro|*wīną|t1=wine|*bazją|t2=berry}}.
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[grape]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wīnabaʀi}}
+  * {{desc|non|vínber}}
+  ** {{desc|is|vínber}}
+  ** {{desc|fo|vínber}}
+  ** {{desc|gmq-osw|vīnbær}}
+  *** {{desc|sv|vinbär}}
+  * {{desc|got|𐍅𐌴𐌹𐌽𐌰𐌱𐌰𐍃𐌹}}

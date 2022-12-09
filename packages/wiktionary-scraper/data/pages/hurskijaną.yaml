@@ -1,0 +1,34 @@
+pageid: 4901617
+ns: 118
+title: Reconstruction:Proto-Germanic/hurskijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*hurskaz|t1=fast|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxur.ski.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to be [[quick]]; [[rush]]; [[drive]]
+
+  ====Inflection====
+  {{gem-conj-wk1|hursk|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*hurskijan}}
+  ** {{desc|ang|*hyrsċan|hrysċan}}
+  *** {{desc|enm|hourshen|ruschen|russhen}}
+  **** {{desc|sco|rusch}}
+  **** {{desc|en|rush}}
+  **** {{desc|enm|horsinge|der=1}}
+  ** {{desc|goh|hurscen|hursken|hursgen}}
+  *** ({{desc|gmh|hurren}})
+  *** {{desc|goh|gihursken|der=1}}
+  *** {{desc|goh|irhursken|der=1}}
+  * {{desc|got|*𐌷𐍂𐌿𐍃𐌺𐌰𐌽}} {{q|< *hurskāną?}}
+  ** {{desc|got|𐌰𐌽𐌳𐌷𐍂𐌿𐍃𐌺𐌰𐌽|der=1}}

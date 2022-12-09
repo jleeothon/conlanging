@@ -1,0 +1,45 @@
+pageid: 3534502
+ns: 118
+title: Reconstruction:Proto-Germanic/Hrōþigaizaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*hrōþiz|t1=fame|*gaizaz|t2=spear}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxrɔː.θi.ˌɣɑi̯.zɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Related terms====
+  * {{l|gem-pro|*Hrōþiberhtaz}}
+  * {{l|gem-pro|*Hrōþiwulfaz}}
+
+  ====Descendants====
+  * {{desc|ang|Hrōþgār|Hrōðgār}}
+  * {{desc|frk|*Hrōthigeir}}
+  ** {{desc|la|Rogerius|bor=1}}
+  *** {{desc|fro|Rogier}}
+  *** {{desc|ca|Roger}}
+  *** {{desc|es|Rogelio}}
+  *** {{desc|fr|Roger}}
+  *** {{desc|bor=1|en|Roger|Rodger}}
+  *** {{desc|it|Ruggero}}
+  *** {{desc|dum|Rogier|bor=1}}
+  **** {{desc|nl|Rogier}}
+  * {{desc|goh|Ruodigēr|Ruodgēr}}
+  ** {{desc|gmh|Rüedeger|Rüedger}}
+  *** {{desc|de|Rüdiger|Rütger}}
+  **** {{desc|nl|Rutger|bor=1}}
+  * {{desc|non|Hróðgeirr|Hróarr}}
+  ** {{desc|is|Hróðgeir}}
+  ** {{desc|fo|Róar}}
+  ** {{desc|no|Rodgeir}}

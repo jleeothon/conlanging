@@ -1,0 +1,189 @@
+pageid: 2771450
+ns: 118
+title: Reconstruction:Proto-Germanic/-janą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/(i).jɑ.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  From a merger of several {{der|gem-pro|ine-pro|-}} suffixes, which had become
+  alike because of the combination of [[w:Sievers' law|Sievers' law]] (j/ij) and
+  i-mutation:
+
+
+  * {{m|ine-pro|*-yéti|pos=denominative suffix}} attached to athematic stems.
+  Cognates include Ancient Greek denominatives with -y- metathesis, verbs in
+  {{m|grc|-ίω}} and {{m|grc|-ύω}}, Sanskrit denominative verbs in
+  {{m|sa|-यति|tr=-yáti}}.
+
+  * {{m|ine-pro|*-eyéti}}, a compound suffix of {{m|ine-pro|*-e-|pos=noun
+  thematic vowel}} + the above suffix. Cognates include most {{cog|la|-īre}}
+  (fourth conjugation) verbs, some {{m|la|-ēre}} (second conjugation) verbs,
+  most {{cog|grc|-έω}} contracted verbs, Sanskrit denominative verbs in
+  {{m|sa|-अयति|tr=-ayáti}}.
+
+
+  ====Suffix====
+
+  {{head|gem-pro|suffix|cat2=verb-forming suffixes|head=*-(i)janą}}
+
+
+  # {{non-gloss definition|Derives [[denominative]]s from nouns and
+  [[factitive]]s from adjectives.}}
+
+
+  =====Inflection=====
+
+  Following a short stem, which consists of a short vowel followed by a single
+  consonant, the suffix is *''-janą''.
+
+  {{gem-conj-wk1|-|j=j}}
+
+
+  Following a long stem, which has either a long vowel or diphthong, or a short
+  vowel followed by several consonants, the suffix is *''-ijaną''.
+
+  {{gem-conj-wk1|-|j=ij}}
+
+
+  =====Derived terms=====
+
+  {{suffixsee|gem-pro}}
+
+
+  =====Descendants=====
+
+  This suffix remained productive only in Gothic. It was preserved in Old Norse
+  but was no longer productive in that language, its function having been taken
+  over by {{m|gem-pro|*-ōną}}. In West Germanic, it had already almost
+  disappeared in most languages except after -r-, and was no longer productive
+  in those that retained it.
+
+
+  * {{desctree|gmw-pro|*-jan|id=denominative}}
+
+  * {{desc|gmq-pro|}}
+
+  ** {{desc|non|-ja}} (only after short stems)
+
+  *** {{desc|is|-ja}}
+
+  *** {{desc|fo|-ja}}
+
+  *** {{desc|sv|-ja}}
+
+  * {{desc|got|-𐌾𐌰𐌽}}
+
+
+  ===Etymology 2===
+
+  From {{inh|gem-pro|ine-pro|*-éyeti|pos=causative suffix}}.
+
+
+  ====Suffix====
+
+  {{head|gem-pro|suffix|cat2=verb-forming suffixes|head=*-(i)janą}}
+
+
+  # {{senseid|gem-pro|causative}}{{non-gloss definition|Derives [[causative]]s
+  from basic strong verbs, with a sense of 'cause to do (the action of the
+  verb)'. The stem vowel of the derived verb becomes that of the singular past
+  tense, and the final consonant becomes the voiced Verner alternant.}}
+
+
+  =====Inflection=====
+
+  Following a short stem, which consists of a short vowel followed by a single
+  consonant, the suffix is *''-janą''.
+
+  {{gem-conj-wk1|-|j=j}}
+
+
+  Following a long stem, which has either a long vowel or diphthong, or a short
+  vowel followed by several consonants, the suffix is *''-ijaną''.
+
+  {{gem-conj-wk1|-|j=ij}}
+
+
+  =====Derived terms=====
+
+  {{suffixsee|gem-pro|id=causative}}
+
+
+  ===Etymology 3===
+
+  From {{inh|gem-pro|ine-pro|*-h₁yéti}}, an innovated compound suffix from
+  {{m|ine-pro|*-éh₁ti|pos=stative verb suffix}} which was originally athematic,
+  but later extended with the thematic present suffix {{m|ine-pro|*-yéti}} based
+  on the past participle.<ref>{{R:gem:PIEPG}}</ref> Cognate with Latin stative
+  verbs in {{m|la|-ēre}} (second conjugation).
+
+
+  ====Suffix====
+
+  {{head|gem-pro|suffix|cat2=verb-forming suffixes|head=*-(i)janą}}
+
+
+  # {{non-gloss definition|Creates [[stative]] verbs either directly from roots
+  or from other verbs.}}
+
+
+  =====Inflection=====
+
+  Following a short stem, which consists of a short vowel followed by a single
+  consonant, the suffix is *''-janą''.
+
+  {{gem-conj-wk3-j|-|j=j}}
+
+
+  Following a long stem, which has either a long vowel or diphthong, or a short
+  vowel followed by several consonants, the suffix is *''-ijaną''.
+
+  {{gem-conj-wk3-j|-|j=ij}}
+
+
+  =====Derived terms=====
+
+  {{derivsee|Proto-Germanic class 3 weak j-present verbs}}
+
+
+  =====Descendants=====
+
+  This suffix was no longer productive in any of the daughter languages, and in
+  West Germanic it quickly became a relic class and mostly merged with the
+  second weak class, except in Old High German where it was preserved longer. In
+  Old High German and Gothic, the class of verbs formed by this suffix merged
+  with those derived with {{m|gem-pro|*-āną}}, creating a single unified third
+  weak class.
+
+
+  * {{desc|gmw-pro|}}
+
+  ** {{desc|goh|-ēn}}
+
+  *** {{desc|gmh|-en}} (merged with all other verbs)
+
+  **** {{desc|de|-en}}
+
+  * {{desc|gmq-pro|}}
+
+  ** {{desc|non|-ja}} (only after short stems)
+
+  *** {{desc|is|-ja}}
+
+  *** {{desc|fo|-ja}}
+
+  * {{desc|got|-𐌰𐌽}}
+
+
+  ===References===
+
+  <references/>

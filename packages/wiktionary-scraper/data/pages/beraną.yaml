@@ -1,0 +1,40 @@
+pageid: 2228406
+ns: 118
+title: Reconstruction:Proto-Germanic/beraną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰer-}}
+  From {{inh|gem-pro|ine-pro|*bʰéreti}}, from {{m|ine-pro|*bʰer-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbe.rɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[carry]], to [[bear]]
+
+  ====Inflection====
+  {{gem-conj-st|class=4|ber|bar|bēr|bur}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*atberaną}}
+  * {{l|gem-pro|*fraberaną}}
+  * {{l|gem-pro|*gaberaną}}
+  * {{l|gem-pro|*uzberaną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*barną}}
+  * {{l|gem-pro|*bēriz}}
+  * {{l|gem-pro|*burdiz}}, {{l|gem-pro|*burþiz}}
+  * {{l|gem-pro|*burjaną}}
+  * {{l|gem-pro|*burjô}}
+  * {{l|gem-pro|*burô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*beran}}
+  * {{desctree|non|bera}}
+  * {{desc|got|𐌱𐌰𐌹𐍂𐌰𐌽}}

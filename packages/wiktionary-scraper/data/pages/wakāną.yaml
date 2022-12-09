@@ -1,0 +1,43 @@
+pageid: 7551735
+ns: 118
+title: Reconstruction:Proto-Germanic/wakāną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*weǵ-}}.
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*wakēnan|441/442}}</ref>
+
+  # {{lb|gem-pro|intransitive}} to [[wake]], to be [[awake]]
+
+  ====Inflection====
+  {{gem-conj-wk3|wak}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wakjaną}}
+  * {{l|gem-pro|*waknaną}}
+  * {{l|gem-pro|*wakraz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wakēn}}
+  * {{desc|non|vaka}}
+  ** {{desc|is|vaka}}
+  ** {{desc|fo|vaka}}
+  ** {{desc|nrn|våga}}
+  ** {{desc|no|-}}
+  *** {{desc|nb|våke|vake}}
+  *** {{desc|nn|vake|vaka}}
+  ** {{desc|gmq-osw|vaka}}
+  *** {{desc|sv|vaka}}
+  ** {{desc|gmq-oda|wakæ}}
+  *** {{desc|da|våge}}
+  ** {{desc|gmq-bot|vaka|våka}}
+  ** {{desc|ovd|wåkå}}
+  ** {{desc|gmq-gut|vake}}
+  ** {{desc|gmq-scy|vaga}}
+
+  ===References===
+  <references/>

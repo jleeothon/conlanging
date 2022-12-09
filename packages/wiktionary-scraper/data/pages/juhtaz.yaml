@@ -1,0 +1,28 @@
+pageid: 5691694
+ns: 118
+title: Reconstruction:Proto-Germanic/juhtaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*yugtós}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈjux.tɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[yoked]], [[joined]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|juht}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*gajuhtaz}}
+
+  ====Descendants====
+  * {{desc|ang|ġeiht}}
+  * {{desc|goh|*joht|gijoht}}
+  * {{desc|fi|juhta|bor=1}}

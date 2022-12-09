@@ -1,0 +1,96 @@
+pageid: 2606449
+ns: 118
+title: Reconstruction:Proto-Germanic/akaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑ.kɑ.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  From {{inh|gem-pro|ine-pro|*h₂éǵeti}}, from {{m|ine-pro|*h₂eǵ-||to drive}}.
+  Cognate with {{cog|la|agō||drive}}, {{cog|grc|ἄγω||direct, drive, lead, draw,
+  go}}, {{cog|sa|अजति||tr=ájati|he drives}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*akan- 1|18}}</ref>
+
+
+  # to [[drive]], [[sail]], [[navigate]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-st|class=6|ak|ōk|ōk|ak}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*ēkaną}}
+
+
+  =====Descendants=====
+
+  * {{desctree|non|aka}}
+
+
+  ===Etymology 2===
+
+  From {{der|gem-pro|ine-pro|*h₂eg-||sin, crime}}. Cognate with
+  {{cog|grc|ἄγος||curse, blood-guilt, penance}},
+  {{cog|sa|आगस्||tr=ā́gas|offence, injury, sin, fault}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*akan- 2|18}}</ref>
+
+
+  # {{senseid|gem-pro|ache}} to [[ache]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-st|class=6|nopass=1|ak|ōk|ōk|ak}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*akiz}}
+
+  * {{l|gem-pro|*aklaz}}
+
+
+  =====Descendants=====
+
+  * {{desctree|ang|acan}}
+
+  * {{desc|ofs|*aka}}
+
+  ** {{desc|stq|ääke|eeke}}?
+
+  * {{desc|osx|*akan}}
+
+  ** {{desc|gml|aken}}
+
+  *** {{desc|nds|aken|äken|achen}}
+
+  * {{desc|odt|*akan}}
+
+  **
+  {{desc|dum|ākel|der=1}}<ref>[http://www.etymologiebank.nl/trefwoord/akelig]</ref>
+
+  *** {{desc|nl|akelig|der=1}}
+
+
+  ===References===
+
+  <references/>

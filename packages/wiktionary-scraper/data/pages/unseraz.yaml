@@ -1,0 +1,28 @@
+pageid: 2412620
+ns: 118
+title: Reconstruction:Proto-Germanic/unseraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Genitive form of {{m|gem-pro|*wīz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈun.se.rɑz/}}
+
+  ===Determiner===
+  {{gem-det}}
+
+  # [[our]], [[ours]]; 1st person plural possessive
+
+  ====Inflection====
+  {{gem-decl-adj}}
+  {{gem-decl-ppron}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*unsar}}
+  * {{desctree|non|várr}}
+  * {{desc|got|𐌿𐌽𐍃𐌰𐍂}}
+
+  {{cln|gem-pro|possessive determiners}}

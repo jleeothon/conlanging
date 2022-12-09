@@ -1,0 +1,107 @@
+pageid: 5951555
+ns: 118
+title: Reconstruction:Proto-Germanic/-ungō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*-ingō|*-engō}}
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}, but possibly from an earlier ''*-ōngō'', equivalent to
+  {{af|gem-pro|*-ōną|*-gō}}. No certain cognates outside of Germanic and not
+  found in Gothic, which has instead similar verbal nouns without -g-.
+
+  Perhaps cognate with Latin suffixes {{m|la|-undus}} {{q|forms the gerund}} or
+  from {{inh|gem-pro|ine-pro|*-n̥kʷos}} as in {{m|grc|ἀλλοδαπός}},
+  {{m|grc|ποδαπός}}, and possibly {{m|la|propinquus}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/uŋ.ɡɔː/}}
+
+
+  ===Suffix===
+
+  {{gem-noun|f}}
+
+
+  # [[-ing]], [[-ion]]. ''Forms gerund nouns from verbs.''
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Usage notes====
+
+  * ''*-ungō'' was originally used with weak class 2 verbs (verbs ending in
+  {{m|gem-pro|*-ōną}}) and ''*-ingō'' was used with weak class 1 verbs (verbs
+  ending in {{m|gem-pro|*-janą}}) which eventually extended to all other verbs,
+  possibly absorbing other verbal suffixes in the process (e.g. ''*-āngō'',
+  ''*-angō'', ''*-engō'', etc.). Over time, the distinction between ''*-ungō''
+  and ''*-ingō'' in the daughter languages became blurred and the suffixes were
+  eventually merged in modern times.
+
+
+  ====Derived terms====
+
+  {{suffixsee|gem-pro}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*-ingaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*-ungu|*-ingu}}
+
+  ** {{desc|ang|-ung|-ing}}
+
+  *** {{desc|enm|-ung|-ing|-yng}}
+
+  **** {{desc|en|-ing}}
+
+  **** {{desc|sco|-ing}}
+
+  ** {{desc|ofs|-unge|-inge}}
+
+  *** {{desc|stq|-enge}}
+
+  *** {{desc|fy|-ing}}
+
+  ** {{desc|osx|-unga}}
+
+  *** {{desc|gml|-inge|-ung}}
+
+  **** {{desc|nds|-unge}}; {{l|nds|-ung}}
+
+  ** {{desc|odt|-unga|-onga}}
+
+  *** {{desc|dum|-inge}}
+
+  **** {{desc|nl|-ing}}
+
+  ** {{desc|goh|-unga}}
+
+  *** {{desc|gmh|-unge}}
+
+  **** {{desc|de|-ung}}
+
+  **** Silesian: {{l|gmw-ecg|-ung}}
+
+  **** {{desc|yi|־ונג}}
+
+  **** {{desc|pl|-unek|bor=1}}
+
+  * {{desctree|non|-ing}}

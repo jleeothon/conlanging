@@ -1,0 +1,38 @@
+pageid: 4600712
+ns: 118
+title: Reconstruction:Proto-Germanic/stammaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  An o-grade adjective derived from a lost strong verb {{m|gem-pro||*stimmaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɑm.mɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[stammering]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|stamm}}
+
+  ====Related terms====
+  * {{l|gem-pro|*stammāną}}
+  * {{l|gem-pro|*stammijaną}}
+  * {{l|gem-pro|*stummaz}}
+  * {{l|gem-pro|*stamrōną}}
+
+  ====Descendants====
+  * {{desc|ang|stamm|stam}}
+  * {{desc|goh|stam}}
+  * {{desc|non|stammr|stamr}}
+  ** {{desc|is|stamr}}
+  ** {{desc|gmq-osw|stamber}}
+  ** {{desc|gmq-bot|stamm|stamn}}
+  * {{desc|got|𐍃𐍄𐌰𐌼𐌼𐍃}}
+
+  ===References===
+  * {{R:gem:EDPG}}

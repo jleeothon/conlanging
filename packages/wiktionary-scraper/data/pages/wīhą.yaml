@@ -1,0 +1,27 @@
+pageid: 7427988
+ns: 118
+title: Reconstruction:Proto-Germanic/wīhą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Substantivization of {{m|gem-pro|*wīhaz|t=holy, sacred}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwiː.xɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref name="HGE">{{R:gem:HGE|*wīxan|465}}</ref>
+
+  # [[sacred]] [[area]], [[sanctuary]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wīh|id=sacred object}}
+  * {{desctree|non|vé}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,46 @@
+pageid: 3484770
+ns: 118
+title: Reconstruction:Proto-Germanic/muskiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{m|gem-pro|*muskaz||moisture}}, from {{der|gem-pro|ine-pro|*mews-}},
+  {{m|ine-pro|*mūs-||moist, damp; swamp, moss, mildew}}.
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[mildew]], [[mould]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  <!-- I can't find any reference to this word with the given meaning, they mean
+  'sparrow' as far as I can tell
+
+  * {{desc|odt|*musk}}
+
+  ** {{desc|dum|musche|musch|mosch|mussce|mossche}}-->
+
+  * {{desc|odt|*muski|*musk}}
+
+  ** {{desc|dum|mosch|mosse}}
+
+  * {{desc|non|*muskr}}
+
+  ** {{desc|no|musk}}
+
+  ** {{desc|da|musk}}

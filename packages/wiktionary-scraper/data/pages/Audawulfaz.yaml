@@ -1,0 +1,35 @@
+pageid: 6084221
+ns: 118
+title: Reconstruction:Proto-Germanic/Audawulfaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*audaz|t1=wealth, riches|*wulfaz|t2=wolf}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑu̯.ðɑ.ˌwul.ɸɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Related terms====
+  * {{l|gem-pro|*Audawakraz}}
+  * {{l|gem-pro|*Audawarduz}}
+  * {{l|gem-pro|*Audawiniz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Audawulf}}
+  ** {{desc|ang|Ēadwulf}}
+  ** {{desc|goh|Odolf|*Ōtwolf}}
+  *** {{desc|bor=1|no|Odolf|Odolv}}
+  *** {{desc|sv|Odolf|bor=1}}
+  * {{desc|non|Auðulfr|Auðúlfr|Auðólfr}}
+  ** {{desc|is|Auðólfur}}
+  ** {{desc|fo|Eyðolvur}}

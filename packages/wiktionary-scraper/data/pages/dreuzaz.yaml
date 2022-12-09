@@ -1,0 +1,63 @@
+pageid: 5233566
+ns: 118
+title: Reconstruction:Proto-Germanic/dreuzaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*drauzaz}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*dʰrews-||to break apart}}, from
+  {{m|ine-pro|*dʰrew-||to break off}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdreu̯.zɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[liquid]]
+
+  # [[blood]]; [[gore]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*dreuzagaz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*drauzijô}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|drēor|g=m}}
+
+  * {{desc|osx|drōr|g=m}} (< {{m|gem-pro|*drauzaz}})
+
+  * {{desc|goh|trōr|g=m}} (< {{m|gem-pro|*drauzaz}})
+
+  ** {{desc|gmh|trōr|g=m,n}}
+
+  * {{desc|non|dreyri}} (< {{m|gem-pro|*drauzijô|g=m}})
+
+  ** {{desc|is|dreyri}}

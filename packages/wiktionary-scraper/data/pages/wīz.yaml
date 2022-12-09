@@ -1,0 +1,31 @@
+pageid: 2323857
+ns: 118
+title: Reconstruction:Proto-Germanic/wīz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*wéy}}, plural of {{m|ine-pro|*éǵh₂}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/wiːz/}}
+
+  ===Pronoun===
+  {{gem-pron}}
+
+  # [[we]]
+
+  ====Inflection====
+  {{gem-decl-ppron}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wiʀ}}
+  * {{desc|gmq-pro|*ᚹᛁᛉ}}
+  ** {{desctree|non-own|vér}}
+  ** {{desctree|non-oen|*wīʀ|noalts=1}}
+  ** {{desc|non-ogt|wir}}
+  *** {{desc|gmq-gut|výr}}
+  * {{desc|got|𐍅𐌴𐌹𐍃}}
+
+  {{cln|gem-pro|personal pronouns}}

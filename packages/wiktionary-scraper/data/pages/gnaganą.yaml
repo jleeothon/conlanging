@@ -1,0 +1,72 @@
+pageid: 3653695
+ns: 118
+title: Reconstruction:Proto-Germanic/gnaganą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*knaganą}}
+
+
+  ===Etymology===
+
+  Probably {{onomatopoeic|gem-pro|title=onomatopoeic}}; or from
+  {{der|gem-pro|ine-pro|*gʰnēgʰ-||to gnaw, scratch}}, from
+  {{der|gem-pro|ine-pro|*gʰen-||to gnaw, grate, scrate, whit}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣnɑ.ɣɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[gnaw]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=6|gnag|gnōg|gnōg|gnag}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*gnagan}}
+
+  * {{desc|non|gnaga|naga}}
+
+  ** {{desc|is|naga}}
+
+  ** {{desc|fo|gnaga|naga}}
+
+  ** {{desc|nrn|nava}} (borrowed?)
+
+  ** {{desc|nn|gnaga|knaga|;|naga<q:dialectal>|gnågå}}
+
+  ** {{desc|nb|gnage}}
+
+  *** {{desc|bor=1|sco|nag|knag|kneggum}}
+
+  ** {{desc|gmq-bot|gnega|gnaga}}
+
+  ** {{desc|gmq-osw|gnagha}}
+
+  *** {{desc|sv|gnaga}}
+
+  ** {{desc|da|gnave|nage}}
+
+  ** {{desc|ovd|gnågå}}
+
+  ** {{desc|gmq-gut|gnage}}
+
+  ** {{desc|bor=1|enm|*gnagen|*gnaggen|*naggen}}
+
+  *** {{desc|bor=1|en|gnag|knag}} {{q|dialectal}}, {{l|en|nag}}

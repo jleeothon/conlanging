@@ -1,0 +1,32 @@
+pageid: 4471064
+ns: 118
+title: Reconstruction:Proto-Germanic/laikaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*leyg-|id=jump}}
+  From {{der|gem-pro|ine-pro|*leyg-|t=to jump around}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑi̯.kɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[jump]], [[play]], [[move]], [[swing]] about
+
+  ====Inflection====
+  {{gem-conj-st|class=7a|laik|lelaik|lelaik|laik}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*laikijaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*laikan}}
+  * {{desctree|non|leika}}
+  * {{desc|got|𐌻𐌰𐌹𐌺𐌰𐌽}}
+
+  ====Further reading====
+  * {{R:gem:EDPG|*laikan-|323}}

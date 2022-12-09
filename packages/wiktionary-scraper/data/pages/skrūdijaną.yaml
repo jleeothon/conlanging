@@ -1,0 +1,30 @@
+pageid: 7747423
+ns: 118
+title: Reconstruction:Proto-Germanic/skrūdijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*skrūdą|t1=clothes, attire, dress|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskruː.ði.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|head=*skrūdjanan|page=345}}</ref>
+
+  # To [[clothe]], to [[dress]], to [[adorn]]
+
+  ====Inflection====
+  {{gem-conj-wk1|skrūd|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*skrūdijan}}
+  ** {{desc|ang|sċrȳdan}}
+  *** {{desc|enm|shriden}}
+  * {{desc|non|skrýða}}
+  ** {{desc|is|skrýða}}
+
+  ===References===
+  <references/>

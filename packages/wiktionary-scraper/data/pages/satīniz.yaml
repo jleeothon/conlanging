@@ -1,0 +1,32 @@
+pageid: 4717908
+ns: 118
+title: Reconstruction:Proto-Germanic/satīniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*sed-}}
+  From {{af|gem-pro|*satjaną|t1=to set, cause to sit|*-īniz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑ.tiː.niz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[setting]], [[placing]], [[position]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|seten}}
+  ** {{desc|enm|sete|set}}
+  *** {{desc|en|set}}
+  * {{desc|ofs|setten}}
+  * {{desc|goh|sezzī}}
+  ** {{desc|gmh|setze}} {{q|possibly, irregular}}
+  * {{desc|got|*𐍃𐌰𐍄𐌴𐌹𐌽𐍃}} {{qualifier|in compounds}}
+  ** {{desc|got|𐌰𐍆𐍃𐌰𐍄𐌴𐌹𐌽𐍃}}
+  ** {{desc|got|𐌲𐌰𐍃𐌰𐍄𐌴𐌹𐌽𐍃}}

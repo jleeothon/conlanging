@@ -1,0 +1,31 @@
+pageid: 7403280
+ns: 118
+title: Reconstruction:Proto-Germanic/snillį̄
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*snellaz|*-į̄}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsnil.lĩː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:HGE|*snellīn|357}}</ref>
+
+  # [[mobility]], [[braveness]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|goh|snellī}}
+  ** {{desc|gmh|snëlle}}
+  *** {{desc|de|Schnelle}}
+  * {{desc|non|snelli|t=prowess, skill, eloquence}}
+  ** {{desc|da|snilde}}
+  ** {{desc|sv|snille}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,28 @@
+pageid: 6210940
+ns: 118
+title: Reconstruction:Proto-Germanic/jedaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{unk|gem-pro}}.
+
+  ===Pronunciation===
+  {{IPA|gem-pro|/ˈje.ðɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[weed]]
+
+  ====Inflection====
+  {{gem-conj-st|class=5|jed|jad|jēd|jed}}
+
+  ====Descendants====
+  * {{desc|osx|gedan}}
+  ** {{desc|gml|jēden}}
+  * {{desctree|odt|gedan}}
+  * {{desc|goh|getan|jetan}}
+  ** {{desc|gmh|geten|jëten}}
+  *** {{desc|de|jäten}}

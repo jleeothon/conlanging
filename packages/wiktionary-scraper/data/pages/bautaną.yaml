@@ -1,0 +1,32 @@
+pageid: 2621583
+ns: 118
+title: Reconstruction:Proto-Germanic/bautaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰewd-}}
+  From {{der|gem-pro|ine-pro|*bʰewd-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑu̯.tɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[beat]], [[knock]], [[bump]], [[push]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7b|baut|bebaut|bebaut|baut}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*bautijaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bautan}}
+  * {{desc|non|bauta}}
+  ** {{desc|is|bauta}}
+  * {{desctree|got|*𐌱𐌰𐌿𐍄𐌰𐌽}}
+
+  {{topics|gem-pro|Violence}}

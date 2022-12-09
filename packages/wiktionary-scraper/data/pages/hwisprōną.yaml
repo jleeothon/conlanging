@@ -1,0 +1,56 @@
+pageid: 5581094
+ns: 118
+title: Reconstruction:Proto-Germanic/hwisprōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ḱwey-}}
+
+  From {{m|gem-pro|*hwis-||to hiss}}, from {{der|gem-pro|ine-pro|*ḱweys-}},
+  {{m|ine-pro|*ḱwey-||to hiss, whistle, whisper}}. Cognate with
+  {{cog|la|quiritō||scream, screech, shriek, squall}}.
+
+  {{cln|gem-pro|terms suffixed with *-rōną}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[whistle]], [[hiss]], [[whisper]]
+
+  #: {{syn|gem-pro|*hwīskrōną|*hwisplōną}}
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|hwispr}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*hwisprōn}}
+
+  ** {{desc|ang|hwisprian}}
+
+  *** {{desc|enm|whisperen}}
+
+  **** {{desc|en|whisper}}
+
+  **** {{desc|sco|whisper}}
+
+  ** {{desc|odt|*wispron|*wisparon}}
+
+  *** {{desc|dum|wisperen}}
+
+  **** {{desc|nl|wisperen}}
+
+  **** {{desc|de|wispern|bor=1|unc=1}}
+
+  **** {{desc|li|wiesperen}}

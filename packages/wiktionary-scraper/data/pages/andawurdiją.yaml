@@ -1,0 +1,32 @@
+pageid: 3883390
+ns: 118
+title: Reconstruction:Proto-Germanic/andawurdiją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*anda|*wurdiją|pos=noun}}, from {{m|gem-pro|*wurdą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑn.dɑ.ˌwur.di.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[answer]], [[reply]]
+  #: {{syn|gem-pro|*andaswarō}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*andawurdijaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*andawurdī}}
+  * {{desc|non|andyrði}}
+  ** {{desc|is|andyrði}}
+  * {{desc|got|𐌰𐌽𐌳𐌰𐍅𐌰𐌿𐍂𐌳𐌹}}
+
+  [[Category:gem-pro:Communication]]

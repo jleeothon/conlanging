@@ -1,0 +1,66 @@
+pageid: 4430002
+ns: 118
+title: Reconstruction:Proto-Germanic/dangijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{l|gem-pro|*dangwijaną}}<ref
+  name="Orel">{{R:gem:HGE|*đanʒwjanan|page=68}}</ref>
+
+
+  ===Etymology===
+
+  From {{affix|gem-pro|*dingwaną|*-janą|id2=causative}}; apparently with
+  delabialization of -gw- caused by following what was originally a round vowel
+  and coming before the suffix -j-.<ref
+  name="Kroonen">{{R:gem:EDPG|head=dangjan-|page=88}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdɑŋ.ɡi.jɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name="Kroonen"></ref>
+
+
+  # to [[beat]], [[hit]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk1|dang|j=ij}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*dangalaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*dangijan}}
+
+  * {{desc|non|dengja}}
+
+  ** {{desc|is|dengja}}
+
+  ** {{desc|fo|deingja}}
+
+  ** {{desc|gmq-osw|dængia}}
+
+  *** {{desc|sv|dänga}}
+
+  ** {{desc|ovd|daindja}}
+
+
+  ===References===
+
+  <references/>

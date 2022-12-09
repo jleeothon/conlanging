@@ -1,0 +1,71 @@
+pageid: 3628227
+ns: 118
+title: Reconstruction:Proto-Germanic/skattaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*skatn-}}, {{m|ine-pro|*skat-|t=to jump, skip,
+  splash out}}. Cognate with {{cog|la|scateō|t=pour out, gush forth}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/skɑt.tɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topic|gem-pro|Cattle}}[[cattle]], [[kine]]
+
+  # {{lb|gem-pro|by extension}} [[owndom]], [[wealth]], [[goods]]
+
+  # {{topic|gem-pro|Money}}[[hoard]], [[treasure]], [[money]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{sense|all senses}} {{l|gem-pro|*fehu}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*skatt}}
+
+  * {{desc|non|skattr}}
+
+  ** {{desc|is|skattur}}
+
+  ** {{desc|fo|skattur}}
+
+  ** {{desc|no|skatt}}
+
+  ** {{desc|gmq-osw|skatter}}
+
+  *** {{desc|sv|skatt}}
+
+  ** {{desc|da|skat}}
+
+  ** {{desc|bor=1|enm|scat|skatte}}
+
+  *** {{desc|sco|scatt|skatt|skait}}
+
+  *** {{desc|en|scat}}
+
+  * {{desc|got|𐍃𐌺𐌰𐍄𐍄𐍃}}
+
+  ** {{desc|cu|скотъ|bor=1}}
+
+  ** {{desc|ru|скот|bor=1}}

@@ -1,0 +1,86 @@
+pageid: 2658576
+ns: 118
+title: Reconstruction:Proto-Germanic/an
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*ana}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₂en-}}
+
+  From {{der|gem-pro|ine-pro|*h₂en-|*h₂én|up, on high}}, but the exact formation
+  is disputed due to the final vowel in descendants that reflect
+  {{m|gem-pro|*ana}}. According to Kroonen, who derives both {{m|gem-pro||*an}}
+  and {{m|gem-pro||*ana}} from a pre-Germanic {{m|ine-pro||*h₂enh̥₂}}, the final
+  vowel was lost by regular sound change but remained in compound forms, whence
+  it was restored in some of the daughter languages.<ref name="EDPG"/>
+  Alternative explanations for the final vowel include a fossilized suffix
+  {{m|ine-pro|*-o}}/{{m|ine-pro|*-ó}} of uncertain (allative?) function, as in
+  {{m|gem-pro|*anda-|*anda}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑn/}}
+
+
+  ===Preposition===
+
+  {{gem-prep}}<ref name="EDPG">{{R:gem:EDPG|*ana|26}}</ref>
+
+
+  # [[on]], [[upon]] {{+obj|gem-pro|dat}}
+
+  # [[onto]] {{+obj|gem-pro|acc}}
+
+
+  ===Adverb===
+
+  {{gem-adv}}<ref name="EDPG"/>
+
+
+  # [[on]], [[onto]]
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*an|*ana}}
+
+  ** {{desc|ang|an}}, {{desctree|ang|on|notext=1|noalts=1}}
+
+  ** {{desc|ofs|on|an}}
+
+  *** {{desc|frr|a}}
+
+  *** {{desc|stq|an|oun}}
+
+  *** {{desc|fy|oan}}
+
+  ** {{desc|osx|ana|an}}
+
+  *** {{desc|gml|an}}
+
+  **** {{desc|nds|an}}
+
+  ** {{desc|odt|ana|an|in}}
+
+  *** {{desctree|dum|āne}}
+
+  ** {{desctree|goh|ana|id=on}}
+
+  * {{desctree|gmq-pro|ᚨᚾ}}
+
+  * {{desc|got|𐌰𐌽𐌰}}
+
+
+  ===References===
+
+  <references/>

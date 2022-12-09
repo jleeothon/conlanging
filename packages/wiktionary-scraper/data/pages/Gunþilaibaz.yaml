@@ -1,0 +1,31 @@
+pageid: 5555443
+ns: 118
+title: Reconstruction:Proto-Germanic/Gunþilaibaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*gunþiz|t1=battle|*laibō|t2=remnant}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣun.θi.ˌlɑi̯.βaz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Related terms====
+  * {{l|gem-pro|*Ansulaibaz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Gunþilaib}}
+  ** {{desc|ang|Gūþlāf}}
+  ** {{desc|goh|Gundleip}}
+  * {{desc|non|Gunnleifr}}
+  ** {{desc|is|Gunnleifur}} {{qualifier|reintroduced}}
+  ** {{desc|fo|Gunnleivur}}

@@ -1,0 +1,103 @@
+pageid: 8167512
+ns: 118
+title: Reconstruction:Proto-Germanic/staluz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*steluz||early Proto-Norse}}
+
+  * {{alter|gem-pro|*stalô|*stelô||early Proto-West Germanic (?)}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*stel-|t=to put, place; be stiff; post, trunk}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstɑ.luz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[post]], [[stake]], [[stud]]
+
+  # [[staff]], [[rod]]
+
+  # [[trunk]], [[stalk]]
+
+  # [[stump]], [[tail]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*stalukaz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*stallaz}}
+
+  * {{l|gem-pro|*stullô}}
+
+  * {{l|gem-pro|*stultaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*stalu}} ({{l|gmw-pro|*stalō}}, {{l|gmw-pro|*stelō}} ?)
+
+  ** {{desc|ang|stalu}}; {{l|ang|stæla}}, {{l|ang|steola}}, {{l|ang|stela}}
+
+  *** {{desc|enm|stale}}; {{l|enm|stele}}
+
+  **** {{desc|en|stale|t=post, rung, handle}}; {{l|en|stele}},
+  {{l|en|steal|t=stalk}}
+
+  **** {{desc|sco|stale}}; {{l|sco|steel}}, {{l|sco|steil}}, {{l|sco|stiel}}
+
+  ** {{desc|ofs|*stala|*stela}}
+
+  *** {{desc|stq|Steel}}
+
+  *** {{desc|fy|stâle}}
+
+  ** {{desc|osx|*stalu}}; {{l|osx|*stala}}; {{l|osx|*stelo}}
+
+  *** {{desc|gml|stāle|stāl}}; {{l|gml|stel}}, {{l|gml|stēl}}
+
+  **** {{desc|nds-de|Steel}}
+
+  ** {{desc|odt|*stalo}}; {{l|odt|*stelo}}
+
+  *** {{desc|dum|stael}}; {{l|dum|stēle}}
+
+  **** {{desc|nl|staal}}; {{l|nl|steel}}
+
+  ** {{desc|bor=1|ML.|stalo|stallo}}
+
+  *** {{desc|fro|estal|estel}}
+
+  **** {{desc|fro|estalon|der=1}}
+
+  ***** {{desc|frm|étalon}}
+
+  ****** {{desc|fr|étalon}}
+
+  * {{desc|non|stjǫlr}}
+
+  ** {{desc|nn|stjøl|styl}}

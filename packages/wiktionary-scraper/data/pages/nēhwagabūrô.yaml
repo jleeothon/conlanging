@@ -1,0 +1,91 @@
+pageid: 4040234
+ns: 118
+title: Reconstruction:Proto-Germanic/nēhwagabūrô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*nēhwabūrô}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰuH-}}
+
+  From {{af|gem-pro|*nēhwaz|t1=nigh, close by|*gabūrô|t2=dweller}} (see
+  {{m|gem-pro|*būraz}}).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈnɛː.xʷɑ.ɣɑ.ˌbuː.rɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[neighbour]]
+
+  #: {{syn|gem-pro|*garaznô}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*nāhwagabūrō}}
+
+  ** {{desctree|ang|nēahġebūr}}
+
+  ** {{desc|ofs|*nābūr}}
+
+  *** {{desc|frr|näiber}}
+
+  *** {{desc|stq|Noaber}}
+
+  ** {{desc|osx|*nāgibūr|nāhbūr|nābūr}}
+
+  *** {{desc|gml|nabûr|nabuwer|nahber|nâber}}
+
+  **** {{desc|nds|Nahwer|alts=1}}
+
+  **** {{desc|bor=1|et|naaber}}
+
+  **** {{desc|bor=1|gmq-osw|nabor}}
+
+  ***** {{desc|bor=1|fi|naapuri}}
+
+  ** {{desc|odt|*nāgibūr|*nābūr}}
+
+  ***
+  {{desc|dum|nagebuur|alt=nāgebuur|nāghebuur|nabuer|alt3=nābuer|nabuur|alt4=nābuur}}
+
+  **** {{desc|nl|nagebuur|nabuur}}
+
+  ** {{desc|goh|nāhgibūro}}; {{l|goh|nāhgibūr}}
+
+  *** {{desc|gmh|nāchgebūre}}; {{l|gmh|nāchgebūr}}
+
+  **** {{desc|gsw|Naachpuur}}, {{desc|gsw|Nochbär|nolb=1}},
+  {{desc|gsw|Nochber|nolb=1}}
+
+  **** {{desc|bar|Nochbar|Nåchbår}}
+
+  **** {{desc|de|Nachbar|Nachbauer|Nachgebaur}}
+
+  **** {{desc|gmw-cfr|Nohber}}
+
+  **** {{desc|lb|Noper}}
+
+  **** {{desc|pdc|Nochber}}
+
+  * {{desctree|non|nábúi}}

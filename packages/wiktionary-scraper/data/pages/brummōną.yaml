@@ -1,0 +1,74 @@
+pageid: 4693956
+ns: 118
+title: Reconstruction:Proto-Germanic/brummōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰrem-}}
+
+  From Pre-Germanic {{m|ine-pro||*bʰrmnéh₂-}}, an iterative formation to
+  {{m|gem-pro|*bremaną||to drone}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbrum.mɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[drone]], [[hum]], [[growl]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|brumm}}
+
+
+  ====Descendants====
+
+  * {{desc|ofs|*brumma|*bromma}}
+
+  ** ({{desc|stq|brumje}})
+
+  ** {{desc|fy|bromme}}
+
+  * {{desc|osx|*brummōn}}
+
+  ** {{desc|gml|brummen}}
+
+  *** {{desc|pdt|brommen}}
+
+  *** {{desc|no|brumme|bor=1}}
+
+  *** {{desc|sv|brumma|bor=1}}
+
+  *** {{desc|da|brumme|bor=1}}
+
+  * {{desc|odt|*brummon}}
+
+  ** {{desc|dum|brummen}}
+
+  *** {{desc|nl|brommen}}
+
+  * {{desc|goh|*brummōn}}
+
+  ** {{desc|gmh|brummen}}
+
+  *** {{desc|de|brummen}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

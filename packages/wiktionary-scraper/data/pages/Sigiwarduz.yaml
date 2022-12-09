@@ -1,0 +1,33 @@
+pageid: 4991575
+ns: 118
+title: Reconstruction:Proto-Germanic/Sigiwarduz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|[[*segaz|*sigiz]]|t1=victory|*warduz|t2=guard}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsi.ɣi.ˌwɑr.ðuz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Sigiwardu}}
+  ** {{desc|ang|Siġeweard}}
+  *** {{desc|en|Siward}}
+  ** {{desc|ofs}}
+  *** {{desc|fy|Sieuwerd}}
+  ** {{desc|goh|Sigiwart}}
+  *** {{desc|de|Siegwart}}
+  ** {{desc|VL.|*Sigivardus|bor=1}}
+  *** {{desc|es|Sigivardo}}
+  *** {{desc|pt|Sigurdo}}
+  * {{desctree|non|Sigurðr}}

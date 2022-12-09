@@ -1,0 +1,145 @@
+pageid: 2629251
+ns: 118
+title: Reconstruction:Proto-Germanic/teraną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*der-}}
+
+  From {{der|gem-pro|ine-pro|*der-||to flay, split, cleave, crack}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈte.rɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[tear]]; [[snatch]] or [[pull off]] (from); [[tug]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=4|ter|tar|tēr|tur}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*tarjaną}}
+
+  * {{l|gem-pro|*tartaz}}
+
+  * {{l|gem-pro|*turþiz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*tardaz}}
+
+  * {{l|gem-pro|*turnaną}}
+
+  * {{l|gem-pro|*turnaz}}
+
+  * {{l|gem-pro|*turdą}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|teran}}
+
+  ** {{desc|enm|teren}}
+
+  *** {{desc|sco|tere|teir|tair}}
+
+  *** {{desc|en|tear}}
+
+  * {{desc|ofs|tera}}
+
+  ** {{desc|stq|teere}}
+
+  ** {{desc|fy|tarre}}
+
+  * {{desc|osx|teran}}
+
+  ** ({{desc|gml|teren}}) {{q|merged with {{m|gem-pro||*tarjaną}}}}
+
+  *** ({{desc|nds-de|tehren}})
+
+  *** ({{desc|da|tære|bor=1}})
+
+  *** ({{desc|sv|tära|bor=1}})
+
+  *** ({{desc|no|tære|bor=1}})
+
+  *** ({{desc|is|tæra|bor=1}})
+
+  * {{desc|goh|zeran}}
+
+  ** ({{desc|gmh|zern}}, {{l|gmh|zeren}}) {{q|merged with
+  {{m|gem-pro||*tarjaną}}, a strong participle {{m|gmh|zerzorn}} is attested}}
+
+  *** ({{desc|de|zehren}})
+
+  *** ({{desc|lb|zieren}})
+
+  * {{desc|got|*𐍄𐌰𐌹𐍂𐌰𐌽}} (in {{l|got|𐌳𐌹𐍃𐍄𐌰𐌹𐍂𐌰𐌽}},
+  {{l|got|𐌲𐌰𐍄𐌰𐌹𐍂𐌰𐌽}})
+
+  * {{desc|VL.|bor=1|*tīrō}}
+
+  ** {{desc|ast|tirar}}
+
+  ** {{desc|fur|tirâ}}
+
+  ** {{desc|it|tirare}}
+
+  ** {{desc|fro|tirer|retirer}}
+
+  *** {{desc|frm|tirer|retirer}}
+
+  **** {{desc|fr|tirer|retirer}}
+
+  *** {{desc|bor=1|enm|tiren|retiren}}
+
+  **** {{desc|en|tire}} {{gloss|to draw, pull}}, {{l|en|retire}}
+
+  *** {{desc|fro|trier|der=1|unc=1}} {{q|via metathesis}}
+
+  **** {{desc|frm|trier}}
+
+  ***** {{desc|fr|trier}}
+
+  **** {{desc|oc|triar|bor=1}}
+
+  **** {{desc|enm|trien|bor=1}}
+
+  ***** {{desc|en|try}}
+
+  ** {{desc|roa-opt|tirar}}
+
+  *** {{desc|gl|tirar}}
+
+  *** {{desc|pt|tirar}}
+
+  ** {{desc|pro|-|bor=1}}
+
+  *** {{desc|ca|tirar}}
+
+  *** {{desc|oc|tirar}}
+
+  ** {{desc|osp|tirar}}
+
+  *** {{desc|es|tirar}}
+
+  ** {{desc|scn|tirari}}
+
+  ** {{desc|vec|tirar}}

@@ -1,0 +1,27 @@
+pageid: 8200254
+ns: 118
+title: Reconstruction:Proto-Germanic/lauþrijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*lauþrą|t1=soap|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑʊ̯.θri.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[soap]]
+  # to [[wash]], to [[clean]]
+
+  ====Inflection====
+  {{gem-conj-wk1|lauþr|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*lauþrijan}}
+  * {{desc|non|leyðra}}
+  ** {{desc|is|leyðra}}
+  ** {{desc|sv|löddra|loddra}}

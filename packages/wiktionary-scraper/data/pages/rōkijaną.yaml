@@ -1,0 +1,33 @@
+pageid: 7086265
+ns: 118
+title: Reconstruction:Proto-Germanic/rōkijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*reǵ-|t=straight, right, just}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈrɔː.ki.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[care]], [[care for]], [[take care of]]
+  # to [[mind]], [[heed]], [[attend to]]
+
+  ====Conjugation====
+  {{gem-conj-wk1|rōk|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*rōkatjaną}}
+  * {{l|gem-pro|*rōkijaz}}
+  * {{l|gem-pro|*rōkiþō}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*rōkijan}}
+  * {{desc|non|rœkja}}
+  ** {{desc|is|rækja}}
+  ** {{desc|bor=1|enm|reken|rekken}}
+  *** {{desc|en|reck}}

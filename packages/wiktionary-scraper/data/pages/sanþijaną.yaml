@@ -1,0 +1,28 @@
+pageid: 7471254
+ns: 118
+title: Reconstruction:Proto-Germanic/sanþijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*sanþaz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑn.θi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*sanþjanan|318}}</ref>
+
+  # to make [[true]]
+
+  ====Inflection====
+  {{gem-conj-wk1|sanþ|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sanþijan}}
+  * {{desc|non|senna}}
+  ** {{desc|is|senna}}
+
+  ===References===
+  <references/>

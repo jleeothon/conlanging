@@ -1,0 +1,45 @@
+pageid: 8936240
+ns: 118
+title: Reconstruction:Proto-Germanic/leubō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*lewbʰ-|id=love}}
+  From {{der|gem-pro|ine-pro|*lewbʰ-|t=to love, care for, desire}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈleu̯.βɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{topics|gem-pro|Love}} [[love]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  {{rel4|gem-pro
+  |*leubą
+  |*leubaz
+  |*liubiþō
+  |*lubją
+  |*lubą
+  |*lubō
+  |*lubōną
+  }}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*leubu}}
+  ** {{desc|ofs|liāve}}
+  *** {{desc|stq|Ljoowe}}
+  ** {{desc|osx|*liova}}
+  *** {{desc|gml|lêve|lîve}}
+  **** {{desc|nds-de|Leev}}
+  ** {{desc|odt|*liova|*lieva}}
+  *** {{desc|dum|lieve}}
+  ** {{desc|goh|lioba}}
+  *** {{desc|gmh|liebe}}
+  **** {{desc|de|Liebe}}

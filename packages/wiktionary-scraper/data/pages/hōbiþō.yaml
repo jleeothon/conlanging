@@ -1,0 +1,30 @@
+pageid: 7316926
+ns: 118
+title: Reconstruction:Proto-Germanic/hōbiþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*hōbiz|*-iþō|t1=fit, proper}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɔː.βi.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*xōbiþō|181}}</ref>
+
+  # [[propriety]], [[decency]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|goh|*hōbiþu}}
+  ** {{desc|goh|*hōfte}}
+  *** {{desc|goh|hehōfte|der=1}}
+  * {{desc|non|*hœfð}}
+  ** {{desc|non|óhœfð|der=1}}
+
+  ===References===
+  <references/>

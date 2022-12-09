@@ -1,0 +1,37 @@
+pageid: 5189304
+ns: 118
+title: Reconstruction:Proto-Germanic/lunganjō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*lungumnijō}}, {{l|gem-pro|*lungunjō}}
+
+  ===Etymology===
+  From {{m|gem-pro|*lungô}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈluŋ.ɡɑn.jɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{lb|gem-pro|anatomy}} [[lung]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|lungen|g=f}}
+  ** {{desc|enm|lunge|longe}}
+  *** {{desc|sco|lung|long|loung}}
+  *** {{desc|en|lung}}
+  * {{desc|ofs|lungene|lungen|g2=f}}
+  ** {{desc|stq|Lunge}}
+  ** {{desc|fy|longe|long}}
+  * {{desc|osx|lungannia}}
+  ** {{desc|gml|lungene}}
+  * {{desc|odt|*lunganna}}
+  ** {{desc|dum|lungene|longene}}
+  * {{desc|goh|lunganna|lungunna|lunginna|lungina|lungun}}

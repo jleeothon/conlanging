@@ -1,0 +1,26 @@
+pageid: 6018947
+ns: 118
+title: Reconstruction:Proto-Germanic/farô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*per-}}
+  Derived from {{m|gem-pro|*faraną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɑ.rɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[farer]], [[traveler]]; he who fares
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|ang|*fara|ġefara|niwfara}}
+  * {{desc|non|-fari}} ''(as in e.g. "[[jórsalafari]]")''
+  ** {{desc|gmq-osw|-fari}}

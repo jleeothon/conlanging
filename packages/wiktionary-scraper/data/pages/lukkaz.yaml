@@ -1,0 +1,90 @@
+pageid: 6695354
+ns: 118
+title: Reconstruction:Proto-Germanic/lukkaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*lugnó-}}, from {{der|gem-pro|ine-pro|*lewg-|t=to
+  bend}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈluk.kɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[lock]] {{q|of hair}}
+
+  # [[curl]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|locc|loc}}
+
+  ** {{desc|enm|lok|lokke}}
+
+  *** {{desc|en|lock}}
+
+  *** {{desc|sco|lok}}
+
+  * {{desc|ofs|lokk|lok}}
+
+  ** {{desc|fy|lok|lokke}}
+
+  * {{desc|osx|lokk|lok}}
+
+  ** {{desc|gml|locke}}
+
+  *** {{desc|nds-de|Locke|Lock}}
+
+  * {{desc|frk|*lokk}}
+
+  ** {{desc|odt|lock}}
+
+  *** {{desc|dum|loc|locke}}
+
+  **** {{desc|nl|lok}}
+
+  ** {{desc|bor=1|fro|lok|loc}}
+
+  *** {{desc|frm|loque}} {{i|influenced by Middle Dutch}}
+
+  **** {{desc|fr|loque}}
+
+  * {{desc|goh|lok|loc}}
+
+  ** {{desc|gmh|loc}}
+
+  *** {{desc|gsw|-}}
+
+  ***: Italian Walser: {{l|gsw|lokha}}
+
+  *** {{desc|de|Locke}}
+
+  * {{desc|non|lokkr}}
+
+  ** {{desc|is|lokkur}}
+
+  ** {{desc|fo|lokkur}}
+
+  ** {{desc|no|lokk}}
+
+  ** {{desc|sv|lock}}
+
+  ** {{desc|da|lok}}

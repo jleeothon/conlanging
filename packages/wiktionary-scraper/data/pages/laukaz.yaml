@@ -1,0 +1,29 @@
+pageid: 3630472
+ns: 118
+title: Reconstruction:Proto-Germanic/laukaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*lauką}}
+
+  ===Etymology===
+  {{unk|gem-pro}}. Possibly from {{der|gem-pro|ine-pro|*lewg-||to bend}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑu̯.kɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Asparagales order plants}} [[leek]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*lauk}}
+  * {{desctree|gmq-pro|ᛚᚨᚢᚲᚨᛉ}}
+  * {{desc|sla-pro|*lukъ|bor=1}} {{see desc}}
+  * {{desc|fiu-fin-pro|*laukka|bor=1}} {{see desc}}

@@ -1,0 +1,47 @@
+pageid: 6082493
+ns: 118
+title: Reconstruction:Proto-Germanic/frijōndlīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*frijōndz|*līkaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸri.jɔːnd.liːkɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[friendlike]]; [[friendly]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|frijōndlīk}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*frijōndlīk}}
+  ** {{desc|ang|frēondlīċ}}
+  *** {{desc|enm|frendlich|freendly|frendly}}
+  **** {{desc|en|friendly}}
+  **** {{desc|sco|freindly}}
+  **  {{desc|ofs|friōndlik|friūndlik|frūndlik}}
+  *** {{desc|stq|früntelk|fjuntelk}}
+  *** {{desc|fy|freonlik}}
+  ** {{desc|osx|friundlīk}}
+  *** {{desc|gml|vrüntlîk|vröntlîk|vrentelîk}}
+  **** {{desc|nds-de|früntelk|frünnelk|fründelk}}
+  **** {{desc|sv|fryntlig|bor=1}}
+  **** {{desc|fo|fryntligur|bor=1}}
+  ** {{desc|odt|*friuntlik|*friuntlik}}
+  *** {{desc|dum|vrintlec|vriendelijc}}
+  **** {{desc|nl|vriendelijk}}
+  ** {{desc|goh|friuntlīh}}
+  *** {{desc|gmh|vriuntlich|vrūntlich|friuntlich}}
+  **** {{desc|de|freundlich}}
+  **** {{desc|yi|פֿרײַנדלעך}}
+  * {{desc|gmq-pro|}}
+  ** {{desc|non|frýnligr|frýniligr}}
+  *** {{desc|da|frændelig}}
+  *** {{desc|is|frýnilegur}}
+  *** {{desc|no|frendelig}}

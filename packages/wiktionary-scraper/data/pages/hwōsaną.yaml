@@ -1,0 +1,31 @@
+pageid: 2629385
+ns: 118
+title: Reconstruction:Proto-Germanic/hwōsaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*kʷeh₂s-}}
+  From {{der|gem-pro|ine-pro|*kʷeh₂s-||to cough}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxʷɔː.sɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[cough]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7e|nopass=1|hwōs|hwehwōs|hwehwōz|hwōz}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hwōstô}}
+
+  ====Descendants====
+  * {{desc|ang|hwōsan}}
+  ** {{desc|enm|hwosen}}
+
+  ===References===
+  * {{R:gem:EDPG}}

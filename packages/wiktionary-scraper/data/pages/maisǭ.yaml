@@ -1,0 +1,76 @@
+pageid: 5790353
+ns: 118
+title: Reconstruction:Proto-Germanic/maisǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}; compared to {{cog|cel-pro|*mesal-(s)kā||blackbird}}, from
+  {{der|gem-pro|ine-pro|*h₂mes-l-}} ({{cog|la|merula}}).  Or, possibly related
+  to {{cog|nn|meis||weak}} and Flemish {{m|nl|mijzen||shatter}}, possibly
+  related to {{cog|gem-pro|*maisa-||small}}, or possibly related to
+  {{cog|nl|miezerig||small, measly}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmɑi̯.sɔ̃ː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[titmouse]], [[chickadee]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*maisingō}}
+
+  ** {{desc|gmw-pro|*maisingu}}
+
+  *** {{desc|odt|*mēsinga}}
+
+  **** {{desc|dum|mēsink}}
+
+  ***** {{desc|nl|mezing}}
+
+  ** {{desc|non|meisingr}}
+
+  ** {{desc|ML.|misinga|bor=1}}, {{l|la|mesenga}}, {{l|la|masance}},
+  {{l|la|*mesengra}} {{defdate|10th c.}} {{q|possibly < Old Norse
+  {{l|non|meisingr}}}}
+
+  *** {{desctree|fro|mesenge}} {{q|12th c.}}
+
+  *** {{desc|pro|mesenga}}
+
+  **** {{desc|ca|mallerenga}}
+
+  **** {{desc|oc|mesenga}}
+
+  *** {{desc|gl|meixengra}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*maisā}}
+
+
+  ===References===
+
+  * [http://www.etymologiebank.nl/trefwoord/mees Etymologie Bank - "mees"]
+
+
+  {{topics|gem-pro|Tits}}

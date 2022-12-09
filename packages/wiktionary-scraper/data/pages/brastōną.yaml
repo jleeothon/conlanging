@@ -1,0 +1,28 @@
+pageid: 7473127
+ns: 118
+title: Reconstruction:Proto-Germanic/brastōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*brestaną|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbrɑs.tɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*brastōjanan|54}}</ref>
+
+  # to make [[burst]], [[crack]]
+
+  ====Inflection====
+  {{gem-conj-wk2|brast|j=ō}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*brastōn}}
+  * {{desc|non|brasta}}
+  ** {{desc|is|brasta}}
+
+  ===References===
+  <references/>

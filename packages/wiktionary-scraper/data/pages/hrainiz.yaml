@@ -1,0 +1,39 @@
+pageid: 2575882
+ns: 118
+title: Reconstruction:Proto-Germanic/hrainiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*krey-}}
+  From {{der|gem-pro|ine-pro|*krey-||to strip, touch}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxrɑi̯.niz/}}
+
+  ===Adjective===
+  {{gem-adj|*hrainizô|*hrainistaz}}
+
+  # [[clean]], not [[dirty]]
+  # [[pure]]
+  # [[innocent]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hrainihertaz}}
+  * {{l|gem-pro|*hrainijaną}}
+  * {{l|gem-pro|*hrainį̄}}
+  * {{l|gem-pro|*hrainisōną}}
+  * {{l|gem-pro|*hrainiþō}}
+  * {{l|gem-pro|*unhrainiz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hrainī}}
+  * {{desctree|non|hreinn|id=clean}}
+  * {{desc|got|𐌷𐍂𐌰𐌹𐌽𐍃}}
+  * {{desc|smi-pro|bor=1}}
+  ** {{desc|se|ráinnas}}
+  ** {{desc|sma|raajnes}}

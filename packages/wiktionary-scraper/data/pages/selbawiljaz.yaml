@@ -1,0 +1,29 @@
+pageid: 4585184
+ns: 118
+title: Reconstruction:Proto-Germanic/selbawiljaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*welh₁-}}
+  From {{compound|gem-pro|*selbaz|*wiljaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsel.βɑ.ˌwil.jɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[self-willed]], [[voluntary]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|selbawil|j=j}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*selbawiljandz}}
+
+  ====Descendants====
+  * {{desc|ang|selfwille}}
+  ** {{desc|enm|selfwill}}
+  * {{desc|got|𐍃𐌹𐌻𐌱𐌰𐍅𐌹𐌻𐌾𐌹𐍃}}

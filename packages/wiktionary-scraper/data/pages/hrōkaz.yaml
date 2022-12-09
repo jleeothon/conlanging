@@ -1,0 +1,53 @@
+pageid: 3906122
+ns: 118
+title: Reconstruction:Proto-Germanic/hrōkaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*kreg-}}, {{m|ine-pro|*krek-}},
+  {{m|ine-pro|*kerk-|t=to crow, croak}}, from {{der|gem-pro|ine-pro|*ker-}},
+  {{m|ine-pro|*kor-|t=to crow}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxrɔː.kɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topics|gem-pro|Corvids}} [[rook]], [[crow]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*hrōk}}
+
+  * {{desc|non|hrókr}}
+
+  ** {{desc|is|hrókur}}
+
+  ** {{desc|fo|rókur}}
+
+  ** {{desc|no|rok}}
+
+  ** {{desc|gmq-osw|roker|roka}}
+
+  *** {{desc|sv|råka}}
+
+  ** {{desc|da|råge}}
+
+  * {{desc|gem-bur|hrōks}} {{q|in personal names}}

@@ -1,0 +1,31 @@
+pageid: 6571080
+ns: 118
+title: Reconstruction:Proto-Germanic/-ukaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*-ikaz}}
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/u.kɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{non-gloss definition|Forms diminutive nouns.}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  {{suffixsee|gem-pro}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*-uk}}
+  * {{desc|got|*-𐌿𐌺𐍃}}
+  * {{desc|non|*-kr}}

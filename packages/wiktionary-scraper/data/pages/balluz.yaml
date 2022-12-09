@@ -1,0 +1,112 @@
+pageid: 3900729
+ns: 118
+title: Reconstruction:Proto-Germanic/balluz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰel-|id1=blow}}
+
+  From {{der|gem-pro|ine-pro||*bʰoln-|t=round thing, bubble}}, from
+  {{m|ine-pro|*bʰel-|t=to blow, inflate, swell}}. Cognate with
+  {{cog|la|follis|t=windbag, balloon}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɑl.luz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # round object, [[ball]]
+
+  # {{lb|gem-pro|anatomy}} ball of the hand, foot, etc.
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*ballô}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|*beall}}
+
+  * {{desc|ofs|*bal}}
+
+  ** {{desc|stq|Baal}}
+
+  ** {{desc|fy|bal}}
+
+  * {{desc|osx|ball|bal}}
+
+  ** {{desc|gml|bal}}
+
+  *** {{desc|nds-de|Ball}}
+
+  *** {{desc|pdt|Baul}}
+
+  * {{desc|frk|*ball|*bal}}
+
+  ** {{desc|odt|*bal}}
+
+  *** {{desctree|dum|bal}}
+
+  ** {{desc|bor=1|ML.|balla|palla|bala}}
+
+  *** {{desc|it|palla|unc=1}}
+
+  *** {{desc|fro|balle}}
+
+  **** {{desctree|frm|balle}}
+
+  **** {{desc|it|balla|unc=1|bor=1}}
+
+  *** {{desc|oc|bala}}
+
+  **** {{desctree|it|pallone|der=1}}
+
+  *** {{desc|pt|bala}}
+
+  *** {{desc|scn|baḍḍa}}
+
+  *** {{desc|es|bala}}
+
+  *** {{desc|vec|bala}}
+
+  **** {{desc|vec|balin|der=1}}
+
+  ***** {{desc|cim|baliin|bor=1}}
+
+  * {{desc|goh|bal}}
+
+  ** {{desc|gmh|bal|ball}}
+
+  *** {{desc|gmw-cfr|Bal|Ball}}
+
+  *** {{desc|de|Ball}}
+
+  *** {{desc|lb|Ball}}
+
+  * {{desctree|non|bǫllr}}
+
+  * {{desc|fiu-fin-pro|bor=1}}
+
+  ** {{desc|fi|pallo}}
+
+  ** {{desc|izh|pallo}}
+
+  ** {{desc|smi-pro|*pāllō|bor=1}} {{see desc}}

@@ -1,0 +1,33 @@
+pageid: 7085097
+ns: 118
+title: Reconstruction:Proto-Germanic/aisǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*aisōn-|14}}</ref>
+
+  # [[fireplace]]
+
+  ====Inflection====
+  {{gem-decl-noun-n-f|ais}}
+
+  ====Related terms====
+  * {{l|gem-pro|*aistaz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*aisā}}
+  ** {{desc|osx|*ēsa}}
+  *** {{desc|gml|êse}}00
+  * {{desc|non|eisa}}
+  ** {{desc|is|eisa}}
+  ** {{desc|no|eise}}
+
+  ===References===
+  <references/>
+
+  [[Category:gem-pro:Fire]]

@@ -1,0 +1,27 @@
+pageid: 5555473
+ns: 118
+title: Reconstruction:Proto-Germanic/Harjamōdaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*harjaz|t1=army|*mōdaz|t2=mind, courage, anger}}.
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Related terms====
+  * {{l|gem-pro|*Harjawaldaz}}
+
+  ====Descendants====
+  * {{desc|ang|Heremod|alt=Heremōd}}
+  * {{desc|goh|Herimuot}}
+  * {{desc|non|Hermóðr}}
+  ** {{desc|is|Hermóður}}
+  ** {{desc|fo|Hermóður}}

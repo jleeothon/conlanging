@@ -1,0 +1,38 @@
+pageid: 5653641
+ns: 118
+title: Reconstruction:Proto-Germanic/staigō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*stóygʰos||path; climb; ascent}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɑi̯.ɣɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[way]]; [[path]]; [[trail]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*stīganą}}
+  * {{l|gem-pro|*stigaz}}
+  * {{l|gem-pro|*stigō}}
+  * {{l|gem-pro|*stigǭ}}
+  * {{l|gem-pro|*stiguz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|}}
+  ** {{desc|unc=1|odt|*steiga|steyga}}
+  ** {{desc|goh|steiga}}
+  *** {{desc|gmh|steige}}
+  **** {{desc|cim|staige}}
+  **** {{desc|de|Steige}}
+  * {{desc|gmq-pro|}}
+  ** {{desc|non|steig}} {{i|placenames}}
+  * {{desc|got|𐍃𐍄𐌰𐌹𐌲𐌰}}

@@ -1,0 +1,49 @@
+pageid: 4440634
+ns: 118
+title: Reconstruction:Proto-Germanic/-ją
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/(i).jɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|head=-(i)ją|n}}
+
+
+  # {{non-gloss definition|Forms neuter collective nouns from other nouns, often
+  accompanied with the collective prefix {{m|gem-pro|*ga-}}.}}
+
+
+  ====Inflection====
+
+  ''(For more information on the following alternation see
+  {{w|Sievers's_law#Sievers's_law_in_Germanic|Sievers's law}})''.
+
+
+  Following a short stem, which consists of a short vowel followed by a single
+  consonant:
+
+  {{gem-decl-noun}}
+
+
+  Following a long stem, which has either a long vowel or diphthong, or a short
+  vowel followed by several consonants:
+
+  {{gem-decl-noun|stem=a|g=n|-ij}}
+
+
+  ====Derived terms====
+
+  {{suffixsee|gem-pro}}
+
+
+  ====Descendants====
+
+  * {{desc|got|-𐌹}}

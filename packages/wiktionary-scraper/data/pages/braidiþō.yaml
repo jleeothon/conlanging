@@ -1,0 +1,80 @@
+pageid: 6637518
+ns: 118
+title: Reconstruction:Proto-Germanic/braidiþō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*braidaz|*iþō}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbrɑi̯.ði.θɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[breadth]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*braidį̄}}
+
+
+  ====Descendants====
+
+  Note: The West Germanic forms listed are late and may be analogical formations
+  based on descendants of {{m|gem-pro|*langiþō}}, {{m|gem-pro|*hauhiþō}}, etc.;
+  West Germanic languages (including Old English and Old Dutch) otherwise use
+  reflexes of {{m|gem-pro|*braidį̄}} instead.
+
+
+  * {{desc|ang|}}
+
+  ** {{desc|enm|bredthe|qq=late}}
+
+  *** {{desc|en|breadth}}
+
+  *** {{desc|sco|breedth|breeth}}
+
+  * {{desc|osx|*brēditha}}
+
+  ** {{desc|gml|}}
+
+  *** {{desc|nds|Breddt|Breddte}}
+
+  * {{desc|odt|*brēditha}}
+
+  ** {{desc|dum|brêedte}}
+
+  *** {{desc|nl|breedte}}
+
+  * {{desc|non|breidd}}
+
+  ** {{desc|is|breidd}}
+
+  ** {{desc|nn|breidd|breidde}} {{q|influenced by Danish and Bokmål}}
+
+  ** {{desc|gmq-osw|bred|alt=brēd}}
+
+  *** {{desc|sv|bredd}}
+
+  ** {{desc|da|bredde}}
+
+  *** {{desc|no|bredde}}
+
+  ** {{desc|gmq-bot|brägd|breidd|bräjd|braid}}

@@ -1,0 +1,27 @@
+pageid: 7651627
+ns: 118
+title: Reconstruction:Proto-Germanic/sebunstirniją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*sebun|*sternǭ|*-ją}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈse.βunˌstir.ni.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{lb|gem-pro|astronomy}} [[Pleiades]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sebunstirnī}}
+  * {{desc|non|sjaustirni}}
+  ** {{desc|is|sjöstirni}}
+
+  {{c|gem-pro|Seven}}

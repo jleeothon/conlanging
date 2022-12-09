@@ -1,0 +1,26 @@
+pageid: 9036976
+ns: 118
+title: Reconstruction:Proto-Germanic/hringijǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*hringaz|*-ijǭ|pos2=diminutive suffix}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxriŋ.ɡi.jɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[ringlet]], [[loop]]
+  # [[brooch]], [[clasp]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hringijā}}
+  * {{desc|gmq-pro|}}
+  ** {{desctree|non|hringja}}

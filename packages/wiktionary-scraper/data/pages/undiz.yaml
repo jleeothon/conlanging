@@ -1,0 +1,33 @@
+pageid: 2615168
+ns: 118
+title: Reconstruction:Proto-Germanic/undiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₃neh₂-}}
+  From {{suffix|gem-pro|*unnaną|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈun.diz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[favour]]
+  # {{topics|gem-pro|Emotions}} [[affection]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*abundiz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*anstiz}}
+  * {{l|gem-pro|*unnaną}}
+
+  ====Descendants====
+  Remodeled as a sti-stem in West Germanic.
+  * {{desctree|gmw-pro|*unsti|id=favour}}

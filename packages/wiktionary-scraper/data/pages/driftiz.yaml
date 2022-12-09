@@ -1,0 +1,29 @@
+pageid: 2948632
+ns: 118
+title: Reconstruction:Proto-Germanic/driftiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*drībaną|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdriɸ.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # (act of) [[driving]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*drifti}}
+  * {{desc|non|dript}}
+  ** {{desc|is|drift}}
+  ** {{desc|fo|drift}}
+  ** {{desc|no|drift}}
+  ** {{desc|sv|drift}}
+  ** {{desc|da|drift}}

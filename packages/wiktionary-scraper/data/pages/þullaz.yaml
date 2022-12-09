@@ -1,0 +1,59 @@
+pageid: 6877059
+ns: 118
+title: Reconstruction:Proto-Germanic/þullaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}. Comparisons to {{cog|grc|τύλος|t=callus; knot; knob;
+  trenail}}, {{m|grc|τύλη|t=callus; hump; pad, cushion}}, {{cog|sla-pro|*tylъ}},
+  {{cog|lt|tulis|t=axle nail}} are prone to coincidence. Looking particularly on
+  {{cog|sa|तूल|t=tuft of grass or reeds}} to which those words are put one would
+  like to see a relation with {{cog|de|Tolle}}, {{m|de|Dolle|t=tuft of hair}}
+  and the related {{m|de|Dolde|t=corymb}} understanding {{cog|en|rowlock}} as
+  not from {{m|en|lock|t=closing implement}} but {{m|en|lock|t=tuft of hair}}
+  but this is likewise easily coincidental.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈθul.lɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topics|gem-pro|Ship parts}} [[thole]], [[rowlock]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*þoll}}
+
+  * {{desc|non|þollr}}
+
+  ** {{desc|is|þollur}}
+
+  ** {{desc|da|toll}}
+
+  ** {{desc|sv|tull}}
+
+  ** {{desc|no|toll}}
+
+
+  ===Further reading===
+
+  * {{R:DWDS|Dolle}}
+
+  * {{R:TLFi|tolet}}

@@ -1,0 +1,28 @@
+pageid: 7316844
+ns: 118
+title: Reconstruction:Proto-Germanic/handumaginą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*handuz|*maginą|t1=hand|t2=strength}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑn.du.ˌmɑ.ɣi.nɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref name="HGE">{{R:gem:HGE|*xandu-maginan|159}}</ref>
+
+  # [[strength]] of the [[hand]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|handmægen}}
+  * {{desc|osx|handmagan}}
+  * {{desc|non|handmegin}}
+
+  ===References===
+  <references/>

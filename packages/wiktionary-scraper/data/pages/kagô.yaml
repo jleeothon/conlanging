@@ -1,0 +1,41 @@
+pageid: 9072176
+ns: 118
+title: Reconstruction:Proto-Germanic/kagô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{unk|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkɑ.ɡɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[bush]]
+  # [[stalk]], [[stem]]
+  # [[treestump]]
+
+  ====Inflection====
+  {{gem-decl-noun-n-m|kag}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*kagō}}
+  ** {{desc|ang|*ċeaga}}
+  *** {{desc|ang|ċeacga|der=1}}
+  **** {{desc|enm|*chagge}}
+  ***** {{desc|en|chag}}
+  ** {{desc|goh|*kago}}
+  *** {{desc|gmh|*kage|*kag}}
+  **** {{desc|de|Kag}}
+  **** {{desc|bar|Kag}}
+  * {{desc|non|*kagi}}
+  ** {{desc|nn|kage}} {{gl|dialectal}}
+  ** {{desc|sv|kage}} {{gl|dialectal}}
+  ** {{desc|non|*kaggi|der=1|pos=diminutive}}
+  *** {{desc|nn|kagge}}
+  *** {{desc|enm|*kagge|*kag|bor=1}}
+  **** {{desc|en|cag|kag|t2=stump of a branch, knob}}
+  ** {{desctree|non|kaggi|der=1|unc=1|t=cask, keg|lit=little stump|noalts=1}}

@@ -1,0 +1,69 @@
+pageid: 3342496
+ns: 118
+title: Reconstruction:Proto-Germanic/hundaradą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{compound|gem-pro|*hundą|t1=hundred|*radą|t2=count}}, a neuter variant
+  of {{m|gem-pro|*radō||row, line, series}}.<ref
+  name="Kroonen">{{R:gem:EDPG|head=*radō|page=401}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxun.dɑ.ˌrɑ.ðɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+  {{cln|gem-pro|cardinal numbers}}
+
+
+  # {{lb|gem-pro|+genitive}} a [[great hundred]] (120)
+
+  # {{lb|gem-pro|+genitive}} a [[hundred]] (100)
+
+
+  ====Usage notes====
+
+  The words {{m|gem-pro|*hundą}} and {{m|gem-pro||*hundaradą}} may have
+  originally lacked a specific definition and been used as general words for any
+  fairly large number. This usage continued in many daughter languages, but
+  eventually its value was fixed at 100, as was its Latin cognate,
+  {{m|la|centum}}.
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|hundred}}
+
+  * {{desc|ofs|hundred|hunderd}}
+
+  ** {{desc|stq|hundert|alts=1}}
+
+  ** {{desc|fy|hûndert}}
+
+  * {{desctree|osx|hunderod}}
+
+  * {{desc|odt|*hundert|*hunderd}}
+
+  ** {{desctree|dum|hondert}}
+
+  * {{desctree|non|hundrað}}
+
+
+  ===References===
+
+  <references/>

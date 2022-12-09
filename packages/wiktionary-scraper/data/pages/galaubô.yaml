@@ -1,0 +1,21 @@
+pageid: 6038331
+ns: 118
+title: Reconstruction:Proto-Germanic/galaubô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*lewbʰ-|id=love}}
+  From {{affix|gem-pro|*ga-|*laubō|t2=permission}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[belief]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*galaubō}}

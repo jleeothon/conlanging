@@ -1,0 +1,26 @@
+pageid: 2875080
+ns: 118
+title: Reconstruction:Proto-Germanic/aljar
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*aljaz|*r|t2=locative ending}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑl.jɑr/}}
+
+  ===Adverb===
+  {{gem-adv}}
+
+  # [[elsewhere]]
+
+  ====Related terms====
+  * {{l|gem-pro|*aljaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*alljar}}
+  * {{desc|got|𐌰𐌻𐌾𐌰𐍂}}
+
+  {{cln|gem-pro|indefinite adverbs}}

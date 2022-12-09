@@ -1,0 +1,22 @@
+pageid: 9033107
+ns: 118
+title: Reconstruction:Proto-Germanic/bautô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*bautaną}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # that which beats, bumps, or pushes
+
+  ====Declension====
+  {{gem-decl-noun-n-m|baut}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bautō}}
+  * {{desc|non|*bauti}}
+  ** {{desc|non|Fárbauti|der=1}}

@@ -1,0 +1,36 @@
+pageid: 2612288
+ns: 118
+title: Reconstruction:Proto-Germanic/ahwō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*h₂ékʷeh₂}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑ.xʷɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*ahwō-|7}}</ref>
+
+  # {{topics|gem-pro|Water}} [[water]]
+  #: {{syn|gem-pro|*watōr|*auraz}}
+  # {{topics|gem-pro|Landforms}} [[stream]], [[river]]
+  #: {{syn|gem-pro|*albī|*flaumaz|*fleutą|*flōduz|*rīþaz|*straumaz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*awjō}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*ahu}}
+  * {{desctree|non|á}}
+  * {{desc|got|𐌰𐍈𐌰}}
+
+  ===References===
+  <references/>
+
+  [[Category:gem-pro:Water]]

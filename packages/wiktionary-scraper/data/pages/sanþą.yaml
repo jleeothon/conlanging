@@ -1,0 +1,28 @@
+pageid: 7471149
+ns: 118
+title: Reconstruction:Proto-Germanic/sanþą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Substantivization of {{m|gem-pro|*sanþaz|t=true}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑn.θɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref name="HGE">{{R:gem:HGE|sanþaz~sanþan|318}}</ref>
+
+  # [[truth]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sanþ|id=truth}}
+  * {{desc|non|sannr|saðr}}
+  ** {{desc|is|sannur}}
+
+  ===References===
+  <references/>

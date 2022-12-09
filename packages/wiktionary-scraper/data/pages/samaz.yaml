@@ -1,0 +1,82 @@
+pageid: 2902395
+ns: 118
+title: Reconstruction:Proto-Germanic/samaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*sem-}}
+
+  From {{inh|gem-pro|ine-pro|*somHós}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsɑ.mɑz/}}
+
+
+  ===Determiner===
+
+  {{gem-det}}
+
+
+  # [[same]], [[alike]]
+
+
+  ====Inflection====
+
+  As with {{m|gem-pro|*selbaz}}, only the weak declension is used in Gothic. It
+  is not known what the Proto-Germanic usage was.
+
+  {{gem-decl-adj-a|sam}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*samjaną}}
+
+  * {{l|gem-pro|*samawistiz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*sōmiz}}
+
+  * {{l|gem-pro|*sumaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*sam}}
+
+  ** {{desc|gmw-pro|*samō|der=1|pos=adverb}}
+
+  *** {{desc|ang|sama|same|some}}
+
+  **** {{desc|enm|same}}
+
+  ***** {{desc|sco|same}}
+
+  ***** {{desc|en|same}}
+
+  *** {{desc|ofs|*sam}}
+
+  **** {{desc|ofs|samhēd|der=1}}
+
+  **** {{desc|ofs|samlik|der=1}}
+
+  *** {{desctree|osx|sama}}
+
+  *** {{desc|goh|samo}}
+
+  **** {{desc|gmh|same|sam}}
+
+  * {{desctree|non|samr}}
+
+  * {{desc|got|𐍃𐌰𐌼𐌰}}
+
+  * {{desc|fiu-fin-pro|*sama|bor=1}}  {{see desc}}

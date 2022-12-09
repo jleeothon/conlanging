@@ -1,0 +1,26 @@
+pageid: 3265383
+ns: 118
+title: Reconstruction:Proto-Germanic/rōþrą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₁reh₁-|id=row}}
+  From {{suffix|gem-pro|*rōaną|t1=to row|*þrą|t2=tool, instrument}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈrɔːθ.rɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[oar]]
+  # [[rudder]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*rōþr}}
+  * {{desctree|non|róðr}}

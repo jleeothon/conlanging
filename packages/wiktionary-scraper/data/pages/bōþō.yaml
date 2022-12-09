@@ -1,0 +1,113 @@
+pageid: 7217141
+ns: 118
+title: Reconstruction:Proto-Germanic/bōþō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*bōþǭ}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*bʰuH-|t=to become, grow, appear}}.
+
+
+  {{etystub|gem-pro}}
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɔː.θɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[building]], [[hut]]
+
+  # [[dwelling]]
+
+
+  ====Declension====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*būwą}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*bōdilaz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*būaną}}
+
+
+  ====Descendants====
+
+  * {{desc|osx|*bōtha}}
+
+  ** {{desc|gml|bôde}}
+
+  *** {{desc|nds-de|Boo}}
+
+  * {{desc|odt|*buotha}}
+
+  ** {{desc|dum|boede}}
+
+  *** {{desc|nl|boede}}; {{l|nl|boet}}, {{l|nl|boe}}, {{l|nl|boeie}}
+  {{q|dialectal}}
+
+  * {{desc|goh|*buoda}}
+
+  ** {{desc|gmh|buode}}
+
+  *** {{desc|de|Bude}}
+
+  **** {{desc|bor=1|nds-de|Bude|Buud}}
+
+  *** {{desc|zlw-ocs|buda|bor=1}}
+
+  **** {{desc|cs|bouda}}
+
+  ***** {{desc|de|Baude|bor=1}}
+
+  * {{desc|non-own|búð}}
+
+  ** {{desc|is|búð}}
+
+  ** {{desc|fo|búð}}
+
+  ** {{desc|nn|bu|bud}}
+
+  *** {{desc|nb|bu|bor=1}}
+
+  * {{desc|non-oen|bóð}}
+
+  ** {{desc|gmq-osw|bōþ}}
+
+  *** {{desc|sv|bod}}
+
+  ** {{desc|gmq-oda|bōð}}
+
+  *** {{desc|da|bod}}
+
+  **** {{desc|nb|bod}}
+
+  ** {{desc|enm|bothe|bor=1}}
+
+  *** {{desc|sco|buth}}
+
+  *** {{desc|en|booth}}

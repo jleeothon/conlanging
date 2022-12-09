@@ -1,0 +1,29 @@
+pageid: 5973296
+ns: 118
+title: Reconstruction:Proto-Germanic/sudiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Zero-grade i-stem noun derived from {{m|gem-pro|*seuþaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsu.ðiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[seething]], [[boiling]]; [[decoction]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sudą}}
+
+  ====Descendants====
+  * {{desc|ang|syde|g=m}}
+  * {{desc|goh|sutī|g=f}}
+  ** {{desc|gmh|sute|g=f}}; {{l|gmh|sut|g=m}}
+  *** {{desc|de|Sud|g=m}}; {{l|de|Absud}}

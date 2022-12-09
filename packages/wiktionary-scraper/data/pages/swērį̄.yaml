@@ -1,0 +1,28 @@
+pageid: 7440411
+ns: 118
+title: Reconstruction:Proto-Germanic/swērį̄
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*swēraz|*-į̄|t1=heavy}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈswɛː.rĩː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*swērīn|396}}</ref>
+
+  # [[heaviness]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*swārī}}
+  * {{desc|got|*𐍃𐍅𐌴𐍂𐌴𐌹}}
+  ** {{desc|got|𐌿𐌽𐍃𐍅𐌴𐍂𐌴𐌹|der=1}}
+
+  ===References===
+  <references/>

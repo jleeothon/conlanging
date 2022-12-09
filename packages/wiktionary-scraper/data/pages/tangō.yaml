@@ -1,0 +1,33 @@
+pageid: 6162015
+ns: 118
+title: Reconstruction:Proto-Germanic/tangō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*denḱ-|t=to bite}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtɑŋ.ɡɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[tongs]]
+  # [[pliers]]
+
+  ====Declension====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*tangijaną}}
+  * {{l|gem-pro|*tangǭ}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*tangu}}
+  * {{desctree|non|tǫng}}
+
+  ===References===
+  * {{R:gem:HGE|*tanʒō|401}}
+  * {{R:gem:EDPG|*tangō-|509}}

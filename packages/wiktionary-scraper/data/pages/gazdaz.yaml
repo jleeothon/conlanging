@@ -1,0 +1,81 @@
+pageid: 6276809
+ns: 118
+title: Reconstruction:Proto-Germanic/gazdaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Compare {{cog|la|hasta|t=shaft; spear}}. Traditionally derived from
+  {{der|gem-pro|ine-pro||*ǵʰazdʰ-}} ~ {{m|ine-pro||*ǵʰast-|t=rod, pole, bar,
+  switch}}, but, given the irregular phonetic variation and limited
+  distribution, these are probably of non-Indo-European {{der|gem-pro|qfa-sub}}
+  origin.<ref>{{R:gem:EDPG|head=*gazda-|page=172}}</ref><ref>{{cite-journal|last=Lubotsky|first=Alexander|authorlink=Alexander
+  Lubotsky|title=Avestan ''siiazd-'', Sanskrit ''sedh-'', Latin
+  ''cēdere''|year=2004|editors=Hyllested, Adam, Anders Jørgensen, Jenny Larsson
+  and Thomas Olander|journal=Per Aspera ad Asteriscos: Studia indogermanica in
+  honorem Jens Elmegård Rasmussen sexagenarii Idibus Martiis anno
+  MMIV|location=Innsbruck|publisher=Innsbrucker Beiträge zur
+  Sprachwissenschaft|pages=323–332|page=329/330|titleurl=https://www.academia.edu/431914/Avestan_siiazd_Sanskrit_sedh_Latin_c%C4%93dere_to_flinch_}}</ref><ref
+  name="EDL">{{R:itc:EDL|head=hasta|page=280}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣɑz.dɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[goad]]; [[spike]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*gaidō}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*gazdī}} ~ {{l|gem-pro|*gazdiz}}
+
+  ** {{l|gmw-pro|*gaʀdi||rod}} {{see desc}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*gaʀd}}
+
+  * {{desc|non|gaddr}}
+
+  ** {{desc|is|gaddur}}
+
+  ** {{desc|gmq-osw|gadder}}
+
+  *** {{desc|sv|gadd}}
+
+  ** {{desc|bor=1|enm|gadde|gad}}
+
+  *** {{desc|en|gad}}
+
+  **** {{desc|en|gadfly|der=1}}
+
+  *** {{desc|sco|gaud}}
+
+  * {{desc|got|𐌲𐌰𐌶𐌳𐍃}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,33 @@
+pageid: 5356877
+ns: 118
+title: Reconstruction:Proto-Germanic/wastmaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*wahstmaz|*wahsmaz}}
+
+  ===Etymology===
+  From earlier {{m|gem-pro|*wahsmaz}}, from {{m|gem-pro|*wahsijaną|t=to grow}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑst.mɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[growth]]
+  # [[fruit]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wahsmô}}
+  * {{l|gem-pro|*wahstuz}}
+
+  ====Descendants====
+  * {{desc|ang|wæstm|westm}}
+  ** {{desc|enm|wæstm|wastme|wastom}}
+  * {{desc|osx|wastum}}

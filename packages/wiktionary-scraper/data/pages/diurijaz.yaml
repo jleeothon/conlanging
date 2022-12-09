@@ -1,0 +1,101 @@
+pageid: 3617921
+ns: 118
+title: Reconstruction:Proto-Germanic/diurijaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}.<ref name="Kroonen" /><ref
+  name="Wissen">[http://www.wissen.de/wortherkunft/teuer?keyword=teuer
+  www.wissen.de: ''teuer'']</ref>
+
+
+  One suggested derivation is from {{inh|gem-pro|ine-pro|*dʰegʷʰ-||to burn}},
+  which assumes a semantic shift of “to heat up” > “warming” > “dear,
+  cherished”.<ref name="Wissen" /> However, the semantic variation among
+  descendants (see more at {{m|gem-pro|*diuriþō}}) may point to the original
+  meaning having been “rare, scarce”. Alternatively, Guus Kroonen notes that
+  this adjective is similar to Proto–West Germanic {{m|gmw-pro|*dūrēn||to
+  grieve, regret, suffer}} (whence {{cog|de|dauern}}, {{cog|enm|douren}}),
+  ultimately a loan from {{cog|la|durus|dūrus|tough, hard}},<ref group=note>Or
+  instead, Kroonen suggests, possibly related to {{m|gmw-pro|*drūrēn||to
+  mourn}}, perhaps by dissimilation of the first *r.</ref> and may be a
+  [[vṛddhi]]-[[gerundive]] thereof.<ref name="Kroonen" />
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈdiu̯.ri.jɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}<ref name="Kroonen">{{R:gem:EDPG|*deurja-|94}}</ref>
+
+
+  # [[dear]], [[precious]]
+
+  # [[expensive]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|diuri|j=j}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*diuriþō}}
+
+  * {{l|gem-pro|*diurijalīkaz}}
+
+  * {{l|gem-pro|*diurijalingaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*diurī}}
+
+  * {{desc|non|dýrr}}
+
+  ** {{desc|is|dýr}}
+
+  ** {{desc|fo|dýrur}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nb|dyr}}
+
+  *** {{desc|nn|dyr}}
+
+  ** {{desc|gmq-osw|dyr|alt=dȳr}}
+
+  *** {{desc|sv|dyr}}
+
+  ** {{desc|da|dyr}}
+
+  ** {{desc|gmq-bot|dyr|dir|döyr}}
+
+  * {{desc|fiu-fin-pro||bor=1}}
+
+  ** {{desc|fi|tyyris}}
+
+  * {{desc|smi-pro|*tiwrē|bor=1}}
+
+  ** {{desc|se|divrras}}
+
+  ** {{desc|sma|dovres}}
+
+
+  ===Notes===
+
+  {{reflist|group=note}}
+
+
+  ===References===
+
+  <references/>

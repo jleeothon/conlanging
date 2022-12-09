@@ -1,0 +1,67 @@
+pageid: 3628079
+ns: 118
+title: Reconstruction:Proto-Germanic/stapulaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*stebʰ-||stem, post}}. Related to
+  {{m|gem-pro|*stabaz||staff, stick}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[pillar]], [[post]]
+
+  # [[basis]], [[foundation]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*stapul}}
+
+  * {{desc|non|stǫpull}}
+
+  ** {{desc|is|stöpull}}
+
+  ** {{desc|fo|støpul}}
+
+  ** {{desc|nn|stopul}}
+
+  ** {{desc|gmq-osw|stapul}}
+
+  *** {{desctree|sv|stapel}}
+
+  ** {{desc|gmq-oda|stapæl}}
+
+  *** {{desc|da|stabel|stapel|stavl}}
+
+  **** {{desc|nb|stabel}}
+
+  **** {{desc|nn|stabel|bor=1}}
+
+  **** {{desc|is|stafli|bor=1}}
+
+  ** {{desc|gmq-scy|stabel}}
+
+  ** {{desc|gmq-bot|stapahl|stöpoḷ}} (< {{l|non|stǫpull}}),
+  {{l|gmq-bot|stapehl}} (< {{l|gem-pro||*stapl-}}) ({{l|gmq-bot|stöppäl}},
+  {{l|gmq-bot|stippel}} v. < {{l|non||*støpla}} ? < {{l|gem-pro||*stapulijaną}}
+  ?)
+
+
+  ====Further reading====
+
+  * {{R:OED}}

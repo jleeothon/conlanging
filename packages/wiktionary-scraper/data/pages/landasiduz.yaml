@@ -1,0 +1,34 @@
+pageid: 7420957
+ns: 118
+title: Reconstruction:Proto-Germanic/landasiduz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*landą|*siduz|t1=land|t2=culture}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑn.dɑ.ˌsi.ðuz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:HGE|*landa-seduz|235}}</ref>
+
+  # [[custom]] of the [[land]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*landasidu}}
+  ** {{desc|ang|landsidu}}
+  ** {{desc|osx|landsidu}}
+  *** {{desc|gml|lantsede}}
+  ** {{desc|goh|*lantsitu}}
+  *** {{desc|gmh|lantsite}}
+  **** {{desc|de|Landessitte}} (''genitive compound'')
+  * {{desc|non|landsiðr}}
+  ** {{desc|is|landsiður|landssiður}}
+
+  ===References===
+  <references/>

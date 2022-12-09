@@ -1,0 +1,73 @@
+pageid: 3637763
+ns: 118
+title: Reconstruction:Proto-Germanic/wēraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*wērijaz}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*weh₁-}}
+
+  From {{inh|gem-pro|ine-pro|*weh₁ros||true}}, from {{m|ine-pro|*weh₁-}}.
+  Cognate with {{cog|la|vērus||true}}, {{cog|ga|fíor||true}},
+  {{cog|sla-pro|*vě̀ra||faith/belief}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwɛː.rɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[true]]; [[reliable]]
+
+  # [[friendly]]; [[kind]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|wēr}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*wērą}}
+
+  * {{l|gem-pro|*wērijaną}}
+
+  * {{l|gem-pro|*wērō}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*wār}}
+
+  * {{desc|non|værr}} {{l|non|Vár}}; {{l|non|alværð}}; {{l|non|alvara}}
+  {{i|possibly borrowed}}
+
+  ** {{desc|is|alvara}}
+
+  ** {{desc|fo|álvarsamur}}
+
+  ** {{desc|sv|allvar}}
+
+  ** {{desc|no|alvor}}
+
+  ** {{desc|gmq-oda|allvar}}
+
+  *** {{desc|da|alvor}}
+
+  * {{desc|got|*𐍅𐌴𐍂𐍃}} or {{l|got|*𐍅𐌴𐍂𐌴𐌹𐍃}}, in derivates such as
+  {{l|got|𐌰𐌻𐌻𐌰𐍅𐌴𐍂𐌴𐌹}}

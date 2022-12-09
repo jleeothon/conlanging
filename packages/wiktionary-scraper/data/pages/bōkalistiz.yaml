@@ -1,0 +1,28 @@
+pageid: 7315059
+ns: 118
+title: Reconstruction:Proto-Germanic/bōkalistiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*bōks|*listiz|t1=book|t2=art, craft}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɔːkɑ.ˌlis.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*bōka-listiz|51}}</ref>
+
+  # [[book-learning]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|goh|buohliste}} {{q|plural}}
+  * {{desc|non|bóklist}}
+  ** {{desc|is|bóklist}}
+
+  ===References===
+  <references/>

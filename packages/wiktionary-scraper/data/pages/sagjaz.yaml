@@ -1,0 +1,79 @@
+pageid: 2948559
+ns: 118
+title: Reconstruction:Proto-Germanic/sagjaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsɑɣ.jɑz/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*sekʷ-|id=follow}}
+
+  From {{der|gem-pro|ine-pro|*sekʷ-||to accompany, to follow}}. Cognate with
+  {{cog|la|socius||sharing, associated}}.
+
+
+  ====Noun====
+
+  {{gem-noun|m}}
+
+
+  # {{senseid|gem-pro|retainer}} [[retainer]], [[warrior]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*sagi|id=retainer}}
+
+  * {{desc|non|seggr}}
+
+  ** {{desc|is|seggur}}
+
+  ** {{desc|fo|seggur}}
+
+  ** {{desc|nn|segg}}
+
+  * {{desc|got|*𐍃𐌰𐌲-}} {{qualifier|uncertain lemma; possibly attested in
+  given names}}
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*sek-}}
+
+  From {{der|gem-pro|ine-pro|*sek-||to cut}} or
+  {{der|gem-pro|ine-pro|*sak-||marsh plant}}, possibly with the latter derived
+  from the former.
+
+
+  ====Noun====
+
+  {{gem-noun|m}}
+
+
+  # [[sedge]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*sagi|id=sedge}}
+
+
+  {{topics|gem-pro|Sedges}}

@@ -1,0 +1,33 @@
+pageid: 6307119
+ns: 118
+title: Reconstruction:Proto-Germanic/-snō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*-isnō|*-usnō|*-asnjō}}
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*-sneh₂}}.
+
+  ===Suffix===
+  {{gem-noun|f}}<ref name="Kroonen">{{R:gem:EDPG|head=*alansō-|page=20}}</ref>
+
+  # {{non-gloss definition|Forms nouns denoting a [[tool]] or [[instrument]].}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*-þrą}}
+
+  ====Derived terms====
+  {{suffixsee|gem-pro}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*-snu}}
+  * {{desc|got|-𐌰𐍃𐌽𐌰|-𐍃𐌽𐌰}}
+
+  ===References===
+  <references />

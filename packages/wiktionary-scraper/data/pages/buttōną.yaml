@@ -1,0 +1,53 @@
+pageid: 4903629
+ns: 118
+title: Reconstruction:Proto-Germanic/buttōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|gem-pro||*bu(t/dʰ)néh₂-}}, a zero-grade iterative to
+  {{m|gem-pro|*bautaną||to beat}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbut.tɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[shove]], [[hit]]
+
+
+  ====Inflection====
+
+  The original Germanic paradigm consisted of two stem variants, singular
+  {{m|gem-pro||*butt-}} against non-singular {{m|gem-pro||*bud-}}.
+
+  {{gem-conj-wk2|butt}}
+
+
+  ====Descendants====
+
+  * {{desc|dum|botten}}
+
+  * Alsatian: {{l|de|butzen}}
+
+  ** {{desc|bar|herbutzen}} (beat up)
+
+  * {{desc|no|butta}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG|page=86}}
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

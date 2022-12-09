@@ -1,0 +1,43 @@
+pageid: 2663648
+ns: 118
+title: Reconstruction:Proto-Germanic/fawaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*fahwaz}}, {{l|gem-pro|*fauhaz}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*peh₂w-}}
+  From {{der|gem-pro|ine-pro|*peh₂w-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɑ.wɑz/}}
+
+  ===Adjective===
+  {{gem-adj|*fawizô|*fawistaz}}
+
+  # [[few]]
+  # [[little]] {{gloss|small amount of}}
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Antonyms====
+  * {{l|gem-pro|*managaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*fau}}
+  * {{desc|non|fár}}
+  ** {{desc|is|fár}}
+  ** {{desc|fo|fáur}}
+  ** {{desc|no|få}}
+  ** {{desc|gmq-osw|far|alt=fār}}
+  *** {{desc|sv|få}}
+  ** {{desc|da|få}}
+  ** {{desc|gmq-bot|få|fått}}
+  * {{desc|got|𐍆𐌰𐌿𐍃}}
+
+  ===References===
+  <references/>

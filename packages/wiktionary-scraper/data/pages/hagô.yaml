@@ -1,0 +1,26 @@
+pageid: 5365228
+ns: 118
+title: Reconstruction:Proto-Germanic/hagô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*kagʰ-|*kágʰn̥ ~ *kagʰéns}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[enclosure]], [[yard]]
+  # [[pasture]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*hagjō}}
+  * {{l|gem-pro|*hagnaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hagō}}
+  * {{desctree|non|hagi}}

@@ -1,0 +1,29 @@
+pageid: 7604157
+ns: 118
+title: Reconstruction:Proto-Germanic/dauganą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{unk|gem-pro|Uncertain}}.
+
+  {{rfe|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdɑu̯.ɣɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{lb|gem-pro|West Germanic}} to [[conceal]], [[hide]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7b|nopass=1|daug|dedaug|dedaug|daug}}
+
+  ====Related terms====
+  * {{l|gem-pro|*daugō}}
+
+  ====Descendants====
+  * {{desc|ang||alt=*dēagan}}, only attested in 3sg pret. {{m|ang|dēog}}
+  * {{desc|goh||alt=*tougan}}, only attested in the pp. {{m|goh|tougan}}

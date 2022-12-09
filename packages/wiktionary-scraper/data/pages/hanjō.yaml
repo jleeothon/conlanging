@@ -1,0 +1,30 @@
+pageid: 3424527
+ns: 118
+title: Reconstruction:Proto-Germanic/hanjō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*keh₂n-}}
+  From {{der|gem-pro|ine-pro|*keh₂n-||to sing}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑ.njɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{topics|gem-pro|Chickens}} [[hen]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*hanô}}
+  * {{l|gem-pro|*hōną}}
+  * {{l|gem-pro|*hōnijǭ}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hannju}}
+  * {{desc|gme-cgo|hano}}

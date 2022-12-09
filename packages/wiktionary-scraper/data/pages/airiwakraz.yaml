@@ -1,0 +1,29 @@
+pageid: 7400491
+ns: 118
+title: Reconstruction:Proto-Germanic/airiwakraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*airi|*wakraz|t1=early|t2=awake, watchful}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑi̯ri.ˌwɑk.rɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:HGE|*airi-wakraz|9}}</ref>
+
+  # [[early]]-[[awake]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*airiwak(k)r}}
+  ** {{desc|goh|ērwackar}}
+  * {{desc|non|árvakr}}
+  ** {{desc|is|árvakur}}
+
+  ===References===
+  <references/>

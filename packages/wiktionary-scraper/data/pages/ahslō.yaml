@@ -1,0 +1,39 @@
+pageid: 3593494
+ns: 118
+title: Reconstruction:Proto-Germanic/ahslō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*h₂eḱs-|t=axis}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑx.slɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*ahslō-|6}}</ref>
+
+  # {{topics|gem-pro|Body parts}} [[shoulder]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*ahslu}}
+  * {{desc|non|ǫxl}}
+  ** {{desc|is|öxl}}
+  ** {{desc|fo|øksl}}
+  ** {{desc|nrn|akkel}}
+  ** {{desc|gmq-osw|axl}}
+  *** {{desc|sv|axel}}
+  **** {{desc|ovd|aksel|bor=1}}
+  ** {{desc|gmq-oda|axæl}}
+  *** {{desc|da|aksel}}
+  ** {{desc|no|aksel}}
+  ** {{desc|ovd|aksul}}
+  ** {{desc|gmq-gut|axl}}
+  ** {{desc|gmq-scy|áğsel}}
+
+  ===References===
+  <references/>

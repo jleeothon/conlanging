@@ -1,0 +1,37 @@
+pageid: 6067639
+ns: 118
+title: Reconstruction:Proto-Germanic/bikjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative reconstructions===
+  * {{l|gem-pro|*bikwijaną}}<ref>{{R:gem:HGE|head=*bekwjanan|page=41}}</ref>
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰeg-|id=break}}
+  From {{der|gem-pro|ine-pro|*bʰeg-||to smash, break}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbik.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[attack]], [[stab]], [[hack]], [[thrust]]
+
+  ====Inflection====
+  {{gem-conj-wk1|bik|j=j}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*bikjǭ}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*bikkjan}}
+  * {{desc|non|bikkja}}
+  ** {{desc|is|bikkja}}
+  ** {{desc|nb|bikke}}
+  ** {{desc|nn|bikke}}
+
+  ===References===
+  <references/>

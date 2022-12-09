@@ -1,0 +1,27 @@
+pageid: 7420943
+ns: 118
+title: Reconstruction:Proto-Germanic/lamiþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*lamaz|*-iþō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑ.mi.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:HGE|*lamiþō|234}}</ref>
+
+  # [[lameness]], [[paralysis]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*lamiþu}}
+  * {{desc|non|lemd}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,37 @@
+pageid: 2924278
+ns: 118
+title: Reconstruction:Proto-Germanic/jainar
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*jainaz|*r}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈjɑi̯.nɑr/}}
+
+  ===Adverb===
+  {{gem-adv}}
+
+  # [[over there]], [[yonder]]
+
+  ====Related terms====
+  * {{l|gem-pro|*jainaz}}
+
+  ====Descendants====
+  * {{desc|ang|ġeonre}}
+  ** {{desc|enm|ȝendre|ȝondre}}
+  *** {{desc|en|yonder}}
+  *** {{desc|sco|ȝondir}}
+  * {{desc|ofs|*jenre|*jener}}
+  ** {{desc|stq|junner}}
+  * {{desc|osx|ginuwar|genower}}; {{l|osx|gendro}}
+  ** {{desc|gml|ginder|gender}}
+  *** {{desc|nds-de|günner|günners|günnert}}
+  * {{desc|odt|*gendro|*gindro}}
+  ** {{desc|dum|ginder}}
+  *** {{desc|nl|ginder}}
+  * {{desc|got|𐌾𐌰𐌹𐌽𐌰𐍂}}
+
+  {{cln|gem-pro|demonstrative adverbs}}

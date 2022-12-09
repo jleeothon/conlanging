@@ -1,0 +1,56 @@
+pageid: 2823772
+ns: 118
+title: Reconstruction:Proto-Germanic/rīkijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₃reǵ-}}
+  From {{m|gem-pro|*rīks}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈriː.ki.jɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[kingly]], [[royal]], [[noble]]
+  # [[mighty]], [[powerful]]
+  # [[rich]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|rīk|j=ij}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*rīkijadōmaz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*rīkiją}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*rīkī|id=mighty}}
+  * {{desc|non|ríkr}}
+  ** {{desc|is|ríkur}}
+  ** {{desc|fo|ríkur}}
+  ** {{desc|no|rik}}
+  ** {{desc|gmq-osw|riker|alt=rīker}}
+  *** {{desc|sv|rik}}
+  ** {{desc|da|rig}}
+  ** {{desc|ovd|raik}}
+  ** {{desc|gmq-gut|reikar|reikur}}
+  ** {{desc|enm|bor=1|rike}}
+  *** {{desc|sco|rik}}
+  *** {{desc|en|rike}}
+  * {{desc|got|𐍂𐌴𐌹𐌺𐌴𐌹𐍃}}
+  ** {{desc|la-vul|*riccus|bor=1}}
+  *** {{desc|fur|ric}}
+  *** {{desc|it|ricco}}
+  *** {{desc|scn|riccu}}
+  *** {{desc|vec|rico}}
+  *** {{desc|oc|ric}}
+  *** {{desc|ca|ric}}
+  *** {{desc|es|rico}}
+  *** {{desc|pt|rico}}
+  * {{desc|fiu-fin-pro|*rik'as|bor=1}} {{see desc}}
+  * {{desc|lt|rikis|bor=1}}

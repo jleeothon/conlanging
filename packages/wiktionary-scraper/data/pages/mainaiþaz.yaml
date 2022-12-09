@@ -1,0 +1,42 @@
+pageid: 4021244
+ns: 118
+title: Reconstruction:Proto-Germanic/mainaiþaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*mainaz|*aiþaz}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topic|gem-pro|Crime}} [[perjury]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*mainaiþ}}
+  ** {{desc|ang|mānāþ}}
+  *** {{desc|enm|monoth|manath|manwaþ|maineath}}
+  **** {{desc|sco|mane-atht}}
+  ** {{desc|ofs|mēnēth}}
+  *** {{desc|stq|Meeneed}}
+  *** {{desc|fy|meineed}}
+  ** {{desc|osx|mēnēth}}
+  *** {{desc|gml|mênêt|meineit}}
+  **** {{desc|nds-de|Meeneed}}
+  ** {{desc|odt|*meinēth|*meinēd}}
+  *** {{desc|dum|meynede|meeneet}}
+  **** {{desc|nl|meineed}}
+  **** {{desc|li|meineid}}
+  ** {{desc|goh|meineid}}
+  *** {{desc|gmh|meineit}}
+  **** {{desc|de|Meineid}}
+  * {{desc|non|meineiðr}}
+  ** {{desc|is|meineiður}}
+  ** {{desc|no|mened}}
+  ** {{desc|gmq-osw|meneþer|alt=mēnēþer}}
+  *** {{desc|sv|mened}}
+  ** {{desc|da|mened}}

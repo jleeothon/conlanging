@@ -1,0 +1,54 @@
+pageid: 2420657
+ns: 118
+title: Reconstruction:Proto-Germanic/fedurtehun
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Compound of {{m|gem-pro|*fedwōr}} + {{m|gem-pro|*tehun}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸe.ður.te.xun/}}
+
+  ===Numeral===
+  {{enum|gem-pro|*þritehun|*fimftehun|cardinal number|14}}
+  {{gem-num|*fedurþatehundô}}
+
+  # [[fourteen]]
+
+  ====Descendants====
+  * {{desc|ang|fēowertīene|fēowertēne|fēowertyne}}
+  ** {{desc|enm|fourtene}}
+  *** {{desc|en|fourteen}}
+  *** {{desc|sco|fowerteen}}
+  *** {{desc|yol|vourteen}}
+  * {{desc|ofs|fiūwertīne}}
+  ** {{desc|frr|fjouertäin}}
+  ** {{desc|stq|fjautien}}
+  ** {{desc|fy|fjirtjin}}
+  * {{desc|osx|fiuwartein}}
+  ** {{desc|gml|vêrtein}}
+  *** {{desc|nds|veerteihn}}
+  *** {{desc|pdt|vieetieen}}
+  * {{desc|odt|*fiortian}}
+  ** {{desc|dum|viertien|veertien}}
+  *** {{desc|nl|veertien}}
+  **** {{desc|af|veertien}}
+  * {{desc|goh|fiorzehan}}
+  ** {{desc|gmh|vierzehen}}
+  *** {{desc|cim|viartzane}}
+  *** {{desc|de|vierzehn}}
+  *** {{desc|lb|véierzéng}}
+  *** {{desc|yi|פֿערצן}}
+  * {{desc|non|fjórtán|fjugurtán|fjugrtán}}
+  ** {{desc|is|fjórtán}}
+  ** {{desc|fo|fjúrtan}}
+  ** {{desc|no|fjorten}}
+  ** {{desc|gmq-osw|fiughurtan|fiughertān}}
+  *** {{desc|sv|fjorton}}
+  ** {{desc|da|fjorten}}
+  ** {{desc|ovd|fiuortǫ}}
+  ** {{desc|gmq-gut|feurtan}}
+  ** {{desc|gmq-bot|fjohttan}}
+  * {{desc|got|𐍆𐌹𐌳𐍅𐍉𐍂𐍄𐌰𐌹𐌷𐌿𐌽|der=1}}

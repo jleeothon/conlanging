@@ -1,0 +1,75 @@
+pageid: 6959695
+ns: 118
+title: Reconstruction:Proto-Germanic/takkô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*deǵ-|t=to rip, tear}} or alternatively from
+  {{der|gem-pro|ine-pro|*deHgʰ-n-}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈtɑk.kɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[spike]], [[thorn]], [[prickle]]
+
+
+  ====Declension====
+
+  {{gem-decl-noun-n-m|takk}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*taggǭ}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*takkō}}
+
+  ** {{desc|ofs|*takka}}
+
+  *** {{desc|stq|Takke}}
+
+  ** {{desc|ofs|takel|der=1}}
+
+  *** {{desc|fy|takkel|takke}}
+
+  ** {{desc|osx|*takko}}
+
+  *** {{desc|gml|tacke}}
+
+  **** {{desc|nds-de|Tacke|Tack}}
+
+  **** {{desc|da|bor=1|tak}}
+
+  ** {{desc|odt|*takko}}
+
+  *** {{desc|dum|tacke|tac}}
+
+  **** {{desc|nl|tak}}
+
+  ** {{desc|ONF.|taque|bor=1}}
+
+  *** {{desctree|enm|tak|bor=1}}
+
+  **** → Anglo-Latin: {{l|la|taccum}}
+
+  ** {{desc|goh|*zacho}}; {{l|goh|*tacha}}, {{l|goh|*zacha}}
+
+  *** {{desc|gmh|tacke|zacke}}
+
+  **** {{desc|de|Zacke}}

@@ -1,0 +1,34 @@
+pageid: 7398551
+ns: 118
+title: Reconstruction:Proto-Germanic/aiginōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂eyḱ-}}
+  From {{suffix|gem-pro|*aiginaz|*-ōną|t1=own}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑi̯.ɣi.nɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*aiginōjanan|6}}</ref>
+
+  # to [[appropriate]]
+
+  ====Inflection====
+  {{gem-conj-wk2|aigin}}
+
+  ====Descendants====
+  * {{desc|odt|*eiginon}}
+  ** {{desc|dum|eigenen}}
+  *** {{desc|nl|eigenen}}
+  * {{desc|non|eigna}}
+  ** {{desc|is|eigna}}
+  ** {{desc|nn|eigna}}
+  * {{desc|got|*𐌰𐌹𐌲𐌹𐌽𐍉𐌽}}
+  ** {{desc|got|𐌲𐌰𐌰𐌹𐌲𐌹𐌽𐍉𐌽|der=1}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,31 @@
+pageid: 2616749
+ns: 118
+title: Reconstruction:Proto-Germanic/sabjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*sep-}}
+  From {{der|gem-pro|ine-pro|*sep-||to taste, try out}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑβ.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[know]]
+  # to [[taste]]; [[sense]]; [[perceive]]
+  # to [[notice]]
+
+  ====Inflection====
+  {{gem-conj-st-j|class=6|sab|sōf|sōb|sab|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sebô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sabbjan}}
+
+  {{topics|gem-pro|Thinking}}

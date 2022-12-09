@@ -1,0 +1,75 @@
+pageid: 4396734
+ns: 118
+title: Reconstruction:Proto-Germanic/hwelbaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{l|gem-pro|*hwelfaną}}<ref>{{R:gem:EDPG|*hwelfan-|265}}</ref>
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*kʷelp-||to bend}}, with -b- instead of -f- due to
+  influence from either the adjective or causative.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxʷel.βɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref>{{R:gem:HGE|*xwelbanan|200}}</ref>
+
+
+  # to [[curve]], [[vault]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=3|hwelb|hwalb|hulb|hulb}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*hwalbaz}}
+
+  * {{l|gem-pro|*hwalbijaną}}
+
+  * {{l|gem-pro|*hwalbô}}
+
+  * {{l|gem-pro|*hwalfą}}
+
+
+  ====Descendants====
+
+  Due to the effects of umlaut, present-tense descendants of this verb are often
+  indistinguishable from those of the weak causative {{m|gem-pro|*hwalbijaną}}.
+  This is probably what led to the strong verb's disappearance as well.
+
+
+  * {{desc|odt|*welvan}}
+
+  ** {{desctree|dum|welven}}
+
+  * {{desc|goh|*welban}}
+
+  ** {{desc|gmh|*welben}} (only the past singular {{m|gmh|walb}} is attested)
+
+  *** {{desc|de|wölben}}
+
+  * {{desc|non|*hvelfa}} (only the past participle {{m|non|holfinn}} is
+  attested)
+
+  ** {{desc|no|kvelva}}
+
+
+  ===References===
+
+  <references/>

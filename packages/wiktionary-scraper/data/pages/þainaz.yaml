@@ -1,0 +1,36 @@
+pageid: 4600072
+ns: 118
+title: Reconstruction:Proto-Germanic/þainaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*teh₂-||to melt, flow}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθɑi̯.nɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[wet]]; [[damp]]; [[moist]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|þain}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*þainijaną}}
+  * {{l|gem-pro|*þainōną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*þawjaną}}
+  * {{l|gem-pro|*þawōną}}
+  * {{l|gem-pro|*þīdijaną}}
+  * {{l|gem-pro|*þīnaną}}
+
+  ====Descendants====
+  * {{desc|ang|þān}}
+  ** {{desc|enm|*than|*thon}}
+  *** {{desc|sco|thane|thain}}
+  *** {{desc|en|thone|thoan}}

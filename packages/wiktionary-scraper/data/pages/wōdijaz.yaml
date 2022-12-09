@@ -1,0 +1,29 @@
+pageid: 3693192
+ns: 118
+title: Reconstruction:Proto-Germanic/wōdijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weh₂dʰ-}}
+  From {{m|gem-pro|*wadaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɔː.ði.jɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[wadable]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|wōd|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wadaną}}
+  * {{l|gem-pro|*wadą}}
+
+  ====Descendants====
+  * {{desc|non|œðr}}
+  ** {{desc|is|væður}} (v- reintroduced from {{l|is|vaða}})

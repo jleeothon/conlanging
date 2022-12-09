@@ -1,0 +1,31 @@
+pageid: 8173682
+ns: 118
+title: Reconstruction:Proto-Germanic/nastijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Likely from {{der|gem-pro|ine-pro|*ned-||to turn, twist, knot}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈnɑs.ti.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[bind]], [[tie]], [[sew]]
+
+  ====Inflection====
+  {{gem-conj-wk1|nast|j=ij}}
+
+  ====Alternative reconstructions====
+  * {{l|gem-pro|*nistijaną}}<ref>{{R:gem:HGE|*nestjanan|284}}</ref>
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*nastijan}}
+  * {{desc|non|nesta|nista}}
+  ** {{desc|sv|nästa}}
+
+  ===References===
+  <references/>

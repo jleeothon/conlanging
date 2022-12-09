@@ -1,0 +1,36 @@
+pageid: 2860403
+ns: 118
+title: Reconstruction:Proto-Germanic/sankwijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*sengʷ-}}
+  From {{affix|gem-pro|*sinkwaną|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑŋʷ.kʷi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to cause to [[sink]]
+
+  ====Inflection====
+  {{gem-conj-wk1|sankw|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sankwijan}}
+  * {{desc|non-own|søkkva}}
+  ** {{desc|is|sökkva}}
+  ** {{desc|fo|søkkja}}
+  ** {{desc|nn|søkkja}}
+  * {{desc|non-oen|*sænkja}}
+  ** {{desc|gmq-osw|sænkia}}
+  *** {{desc|sv|sänka}}
+  ** {{desc|da|sænke}}
+  *** {{desc|nb|senke}}
+  **** {{desc|nn|senka|bor="1"}}
+  ** {{desc|gmq-bot|sönkj}}
+  * {{desc|got|𐍃𐌰𐌲𐌲𐌵𐌾𐌰𐌽}}

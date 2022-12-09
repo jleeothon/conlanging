@@ -1,0 +1,29 @@
+pageid: 4915189
+ns: 118
+title: Reconstruction:Proto-Germanic/brumþiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰrem-}}
+  From {{suffix|gem-pro|*bremaną|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbrum.θiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[roaring]], making [[noise]]
+  # being [[in heat]], [[estrus]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|goh|*brumft}}
+  ** {{desc|gmh|brunft}}
+  *** {{desc|de|Brunft}}
+  * {{desc|non|*brund|brundtíð}}
+  ** {{desc|is|brund|brundtíð}}

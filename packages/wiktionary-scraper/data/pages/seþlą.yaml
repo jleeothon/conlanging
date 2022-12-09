@@ -1,0 +1,49 @@
+pageid: 8740116
+ns: 118
+title: Reconstruction:Proto-Germanic/seþlą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From pre-Germanic ''*sét-lom'', probably continuing earlier ''*sét-ōl'';
+  compare ''*sadulaz'', which seems to point to an earlier ''*sót-l̥'',
+  ''*s(o)t-né-''. Ultimately from {{inh|gem-pro|ine-pro|*set-||to be stable}},
+  cognate with {{cog|grc|ἐτάζω}}, {{cog|grc|ἐτεός}}. Despite the appealing
+  semantics, this cannot represent ''*sed-tlom'', as that would have given
+  ''*seslą'', just as ''*sed-tos'' gave ''*sessaz''.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈseθ.lɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[seat]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*sadulaz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|seþl}} (merged(?) with the reflex of ''*setlaz'')
+
+  * {{desc|osx|sethal}}
+
+  * {{desc|goh|sedal}}

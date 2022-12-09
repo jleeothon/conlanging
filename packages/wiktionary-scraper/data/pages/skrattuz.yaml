@@ -1,0 +1,73 @@
+pageid: 4542317
+ns: 118
+title: Reconstruction:Proto-Germanic/skrattuz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*(s)ker-|t=to shrink, wither, dry out, crinkle,
+  wrimple}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈskrɑt.tuz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topics|gem-pro|Mythological creatures}} forest [[monster]]; [[goblin]];
+  [[troll]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  The original paradigm of {{m|gem-pro||*skrad-}}, {{m|gem-pro||*skratt-}}
+  allowed for different leveling among the daughter languages.
+
+  * {{desc|ang|*scrætt|scrætte}}; {{l|ang|scritta}}
+
+  ** {{desc|enm|scrat|skratt|scratte}}
+
+  *** {{desc|en|scrat}}
+
+  **** {{desc|en|der=1|Old Scratch}}
+
+  *** {{desc|sco|scrat|skratt}}
+
+  * {{desc|odt|*scrat}}; {{l|odt|*scrado}}
+
+  ** {{desc|dum|schrat|schrad}}
+
+  * {{desc|goh|scraz|scrāz|scraaz}}; {{l|goh|scrato}}
+
+  ** {{desc|cs|skřet|bor=1}}
+
+  ** {{desc|gmh|schraz|schrāz|schrez}}; {{l|gmh|schrazze}}; {{l|gmh|schrate}},
+  {{l|gmh|schrat}}
+
+  *** {{desc|de|Schrätz}}; {{l|de|Schrat}}; {{l|de|scharren}}; {{l|de|kratzen}}
+
+  ** {{desc|pl|skrzat|bor=1}}
+
+  ** {{desc|sl|škrat|bor=1}}
+
+  * {{desc|non|*skrettr}}; {{l|non|skratti}}
+
+  ** {{desc|is|skratti}}
+
+  ** {{desc|sv|skret}}; {{l|sv|skratte}}, {{l|sv|skrate}}, {{l|sv|skrat}}
+
+  ** {{desc|en|skratte|bor=1}}

@@ -1,0 +1,45 @@
+pageid: 9015986
+ns: 118
+title: Reconstruction:Proto-Germanic/flakurōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alt|gem-pro|*flakkurōną}}
+
+  ===Etymology===
+  From {{suf|gem-pro|*flakuraz|*-ōną}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[beat]] repeatedly
+  # to [[flutter]]
+
+  ====Inflection====
+  {{gem-conj-wk2|flakur}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*flakurōn|*flakkurōn}}
+  ** {{desc|ang|*flacorian}}
+  *** {{desc|enm|flakeren}}
+  **** {{desc|en|flacker}}
+  **** {{desc|sco|flecker}}
+  ** {{desc|ofs|*flakeria}}
+  *** {{desc|stq|flakkerje}}
+  *** {{desc|fy|flakkerje}}
+  ** {{desc|osx|*flakarōn}}
+  *** {{desc|gml|*vlakeren|*vlackeren}}
+  **** {{desc|nds-de|flackern}}
+  ** {{desc|odt|*flakkuron}}
+  *** {{desc|dum|vlackeren}}
+  **** {{desc|nl|flakkeren}}
+  ** {{desc|goh|*flakkarōn|*flackarōn}}
+  *** {{desc|gmh|flackeren|vlackeren|vlackern}}
+  **** {{desc|de|flackern}}
+  **** {{desc|de|flacken}}
+  * {{desc|non|flǫkra}}
+  ** {{desc|is|flökra|flögra}}
+  ** {{desc|no|flakre}}
+  ** {{desc|da|flagre}}

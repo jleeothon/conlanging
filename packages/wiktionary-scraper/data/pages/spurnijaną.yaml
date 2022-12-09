@@ -1,0 +1,29 @@
+pageid: 8386200
+ns: 118
+title: Reconstruction:Proto-Germanic/spurnijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Closely related to the strong verb {{m|gem-pro|*spurnaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈspur.ni.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[spur]]; [[push]]; [[kick]]
+
+  ====Inflection====
+  {{gem-conj-wk1|spurn|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*spurōną}}
+  * {{l|gem-pro|*spurô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*spurnijan}}
+  * {{desc|non|spyrna}}
+  ** {{desc|is|spyrna}}

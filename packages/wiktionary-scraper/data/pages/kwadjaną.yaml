@@ -1,0 +1,33 @@
+pageid: 4576231
+ns: 118
+title: Reconstruction:Proto-Germanic/kwadjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*gʷet-}}
+  From {{affix|gem-pro|*kweþaną|t1=to speak|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkʷɑð.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[greet]]
+
+  ====Inflection====
+  {{gem-conj-wk1|kwad|j=j}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*kwadīniz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*kwaddjan}}
+  * {{desc|non|kveðja}}
+  ** {{desc|is|kveðja}}
+  ** {{desc|fo|kvøðja}}
+
+  ====Further reading====
+  * {{R:gem:EDPG}}

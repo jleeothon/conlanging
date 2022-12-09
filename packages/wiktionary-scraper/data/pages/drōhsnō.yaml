@@ -1,0 +1,25 @@
+pageid: 6316608
+ns: 118
+title: Reconstruction:Proto-Germanic/drōhsnō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*drōhs|*-snō}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[dregs]], [[sediment]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*dragjō}}
+  * {{l|gem-pro|*drōhs}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*drōsnu}}
+  * {{desc|got|𐌳𐍂𐌰𐌿𐌷𐍃𐌽𐌰}} {{q|< zero-grade {{l|gem-pro||*druhsnō}}}}

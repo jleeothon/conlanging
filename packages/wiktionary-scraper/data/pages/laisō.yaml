@@ -1,0 +1,37 @@
+pageid: 4697903
+ns: 118
+title: Reconstruction:Proto-Germanic/laisō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*leys-}}
+  From {{inh|gem-pro|ine-pro|*lóyseh₂}}. Cognate with {{cog|la|līra||furrow}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑi̯.sɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{lb|gem-pro|West Germanic}} [[track]], [[trail]]
+  #: {{syn|gem-pro|*banō|*laistaz|*rakō|*spurą|*tradō|*trudą|*trudō}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*laistaz}}
+  * {{l|gem-pro|*laistiz}}
+  * {{l|gem-pro|*laizijaną}}
+  * {{l|gem-pro|*laizīniz}}
+  * {{l|gem-pro|*līsaz}}
+  * {{l|gem-pro|*listiz}}
+  * {{l|gem-pro|*lizaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*laisu}}
+
+  ===References===
+  * {{R:gem:EDPG}}

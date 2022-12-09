@@ -1,0 +1,53 @@
+pageid: 4699228
+ns: 118
+title: Reconstruction:Proto-Germanic/grappōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*gʰrobʰneh₂-}}, apparently an iterative to
+  {{m|gem-pro|*grabaną||to dig}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣrɑp.pɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[grapple]], [[grab]]
+
+
+  ====Inflection====
+
+  The original paradigm contrasted singular {{m|gem-pro||*grapp-}} against
+  non-singular {{m|gem-pro||*grab-}}.
+
+  {{gem-conj-wk2|grapp}}
+
+
+  ====Descendants====
+
+  * {{desc|en|grab}}, also cf. {{l|en|grapple}}
+
+  * {{desc|gml|grabben}}
+
+  * {{desc|dum|grapen|grabben}}
+
+  ** ({{desc|nl|grabbelen}})
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

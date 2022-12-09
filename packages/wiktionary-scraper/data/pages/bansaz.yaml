@@ -1,0 +1,104 @@
+pageid: 4955732
+ns: 118
+title: Reconstruction:Proto-Germanic/bansaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰendʰ-}}
+
+  From earlier {{m|gem-pro|*bandstaz}}, from {{der|gem-pro|ine-pro|*bʰendʰ-||to
+  tie; bind}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɑn.sɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[crib]]; [[cradle]]
+
+  # [[stall]] (for animals)
+
+  # [[barn]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*bansijaną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*bandstiz}}
+
+  * {{l|gem-pro|*bandstuz}}
+
+  * {{l|gem-pro|*bindaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*bans}}
+
+  ** {{desc|ang|*bōs}}
+
+  *** {{desc|enm|bose|boose}}
+
+  **** {{desc|sco|buse|buise|boose}}
+
+  **** {{desc|en|boose}}
+
+  *** {{desc|ang|bōsig|bōsih|der=1}}
+
+  **** {{desc|enm|*boosie|*boosy}}
+
+  ***** {{desc|en|boosy|boosey}}
+
+  ** {{desc|ofs|bōs|boes}} (in compounds)
+
+  *** {{desc|stq|Buus}}
+
+  *** {{desc|fy|bús}}
+
+  ** {{desc|osx|*bansa|*bōs|g2=f}}
+
+  *** {{desc|gml|banse|bôs|bôss}}
+
+  **** {{desc|nds-de|Banse}}
+
+  ***** {{desc|nds-de|Bansige|der=1}}
+
+  **** {{desc|nl|boes|bor=1}}
+
+  ** {{desc|goh|*bansa|g=f}}
+
+  *** {{desc|gmh|banse}}
+
+  **** {{desc|de|Banse}}
+
+  * {{desc|non|báss}}
+
+  ** {{desc|is|bás}}
+
+  ** {{desc|gmq-osw|bas|alt=bās|g=m}}
+
+  *** {{desc|sv|bås|g=n}}
+
+  ** {{desc|da|bås}}
+
+  ** {{desc|ovd|bą̊s}}

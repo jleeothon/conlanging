@@ -1,0 +1,41 @@
+pageid: 7228987
+ns: 118
+title: Reconstruction:Proto-Germanic/garihtiją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*ga-|*rihtiją}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑ.ˈrix.ti.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[justness]], [[justice]], [[fairness]], [[equity]]
+
+  ====Declension====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*rehtaz}}
+
+  ====Descendants====
+  * {{desc|ang|ġerihte|ġeriht}}
+  ** {{desc|enm|ȝerihte|irihte}}
+  *** {{desc|en|right}} {{q|partially}}
+  * {{desc|ofs|*geriūhte|alt=*(g)eriūhte}}
+  ** {{desc|stq|Gjucht}} {{q|possibly borrowed from Middle Low German}}
+  * {{desc|osx|*girihti}}
+  ** {{desc|gml|gerichte|gerechte}}
+  *** {{desc|nds-de|Gericht}}
+  * {{desc|odt|*gerihti}}
+  ** {{desc|dum|gerichte|gericht|gerechte}}
+  *** {{desc|nl|gerecht}}
+  * {{desc|goh|girihti}}
+  ** {{desc|gmh|gerihte|geriht|gerehte|gereht}}
+  *** {{desc|cim|garìcht}}
+  *** {{desc|de|Gericht}}
+  * {{desc|non|rétti}}

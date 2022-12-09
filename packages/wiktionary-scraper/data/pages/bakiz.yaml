@@ -1,0 +1,81 @@
+pageid: 3630407
+ns: 118
+title: Reconstruction:Proto-Germanic/bakiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro||*bʰog-i-s}}, from
+  {{m|ine-pro|*bʰeg-|*bʰog-|flowing water, brook, stream}}. Cognate with
+  {{cog|sla-pro|*bagnò||swamp, bog, marsh}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɑ.kiz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*bakja-|48}}</ref>
+
+
+  # {{topics|gem-pro|Landforms|Water}} [[brook]], [[stream]]
+
+  #: {{syn|gem-pro|*lōkiz|*sīką|*straumaz}}
+
+  # [[beach]], [[strand]]
+
+  #: {{syn|gem-pro|*strandō}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Alternative reconstructions====
+
+  * {{alt|gem-pro|*bakkiz|*bakjaz||due to Old Norse}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*baki}}
+
+  * {{desc|non|bekkr}}
+
+  ** {{desc|is|bekkur}}
+
+  ** {{desc|nb|bekk}}
+
+  ** {{desc|nn|bekk}}
+
+  ** {{desc|gmq-osw|bækker}}
+
+  *** {{desc|sv|bäck}}
+
+  ** {{desc|da|bæk}}
+
+  *** {{desc|da|bæk}}
+
+  ** {{desc|bor=1|ang|bæc|becc}} {{q|mostly in placenames}}
+
+  *** {{desc|enm|bec|becc}}
+
+  **** {{desc|sco|bek|bekk}}
+
+  **** {{desc|en|beck}}
+
+  ** {{desc|fro|*bec}}
+
+  *** {{desc|nrf|-bec|Bec}} {{q|in placenames}}
+
+
+  ===References===
+
+  <references/>

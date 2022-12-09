@@ -1,0 +1,35 @@
+pageid: 7319060
+ns: 118
+title: Reconstruction:Proto-Germanic/stintaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)tewd-|t=to push, bump}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstin.tɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to make [[short]], [[shorten]], make [[blunt]]
+  # to be [[short]]
+
+  ====Conjugation====
+  {{gem-conj-st|class=3|nopass=1|stint|stant|stunt|stunt}}
+
+  ====Related terms====
+  * {{l|gem-pro|*stuntaz}}
+  * {{l|gem-pro|*stuntijaną}}
+
+  ====Descendants====
+  * {{desc|ang|*stintan}}
+  ** {{desc|enm|stinten}} {{q|partially}}
+  *** {{desc|en|stint}}
+  *** {{desc|sco|stint}}
+  ** {{desc|ang|āstintan|der=1}}
+  *** {{desc|enm|astinten}}
+  * {{desc|non|*stinta}} (?)
+  ** {{desc|no|stinta}} {{q|dialectal}}

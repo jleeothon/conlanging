@@ -1,0 +1,23 @@
+pageid: 7545459
+ns: 118
+title: Reconstruction:Proto-Germanic/waiþiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*weyh₁-|t=to desire; move toward; pursue}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[catch]]
+  # [[hunt]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|non|veiði}}
+  ** {{desc|is|veiði}}
+  ** {{desc|nn|veide}}

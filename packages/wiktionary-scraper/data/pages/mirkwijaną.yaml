@@ -1,0 +1,28 @@
+pageid: 7493076
+ns: 118
+title: Reconstruction:Proto-Germanic/mirkwijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*merkuz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmir.kʷi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[darken]]
+
+  ====Inflection====
+  {{gem-conj-wk1|mirkw|j=ij}}
+
+  ====Descendants====
+  * {{desc|non|myrkja|myrkva}}
+  ** {{desc|is|myrkja|myrkva}}
+  ** {{desc|fo|myrkja}}
+  ** {{desc|enm|mirken|bor=1}}
+  *** {{desc|en|mirk}}
+  *** {{desc|sco|myrk|mirk}}

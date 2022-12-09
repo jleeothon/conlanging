@@ -1,0 +1,37 @@
+pageid: 5563245
+ns: 118
+title: Reconstruction:Proto-Germanic/aldrą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*h₂el-|t=to grow, nourish}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑl.drɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref>{{R:gem:EDPG|*aldra-|21}}</ref>
+
+  # [[life]]
+  # [[lifetime]], [[age]]
+  #: {{syn|gem-pro|*aldiz}}
+  #: {{syn|gem-pro|*aldraz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*alaną}}
+  * {{l|gem-pro|*aldaz}}
+  * {{l|gem-pro|*aldiz}}
+  * {{l|gem-pro|*aljaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*aldr}}
+  * {{desctree|non|aldr|g=m}}
+  * {{desc|got|𐍆𐍂𐌰𐌼𐌰𐌻𐌳𐍂𐍃|der=1}}
+
+  ===References===
+  <references/>

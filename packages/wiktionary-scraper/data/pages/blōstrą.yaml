@@ -1,0 +1,30 @@
+pageid: 4690661
+ns: 118
+title: Reconstruction:Proto-Germanic/blōstrą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{suf|gem-pro|*blōtaną|alt1=*blōt-|t1=to sacrifice|*-þrą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈblɔːs.trɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[sacrifice]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*blōstrijaz}}
+
+  ====Descendants====
+  * {{desc|goh|bluostar}}
+  * {{desc|got|der=1|𐌲𐌿𐌳𐌱𐌻𐍉𐍃𐍄𐍂𐌴𐌹𐍃}}
+
+  ===References===
+  * {{R:gem:EDPG}}

@@ -1,0 +1,26 @@
+pageid: 8088710
+ns: 118
+title: Reconstruction:Proto-Germanic/īsāną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*īsą|*-āną|t1=ice}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈī.sɑː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[become]] covered with [[ice]], to [[freeze over]]
+
+  ====Inflection====
+  {{gem-conj-wk3|īs}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*īsēn}}
+  * {{desc|non|ísa}}
+  ** {{desc|fo|ísa}}
+  ** {{desc|is|ísa}}

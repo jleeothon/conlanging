@@ -1,0 +1,79 @@
+pageid: 3630655
+ns: 118
+title: Reconstruction:Proto-Germanic/muldō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*melh₂-|t=to grind,
+  crush}}<ref>{{R:nl:Etymologiebank|moude}}</ref>
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[mould]]
+
+  # [[soil]], [[dirt]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*muldijaną}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|molde}}
+
+  * {{desc|odt|*molda}}
+
+  ** {{desc|dum|moude}}
+
+  *** {{desc|nl|moude}}
+
+  * {{desc|goh|molta}}
+
+  ** {{desc|gmh|molte|g=f|molt|g2=m}}
+
+  *** {{desc|de|Molte|alts=1}} {{q|obsolete or dialectal}}
+
+  * {{desc|non|mold}}
+
+  ** {{desc|is|mold}}
+
+  ** {{desc|fo|mold}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nb|mold|muld}}
+
+  *** {{desc|nn|mold}}
+
+  ** {{desc|gmq-osw|muld}}
+
+  *** {{desc|sv|mull}}
+
+  ** {{desc|gmq-oda|muld}}
+
+  *** {{desc|da|muld}} (earlier also {{l|da|mold}})
+
+  * {{desc|got|𐌼𐌿𐌻𐌳𐌰}}
+
+  * {{desc|fiu-fin-pro|*multa|bor=1}}
+
+
+  ===References===
+
+  <references/>

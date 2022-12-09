@@ -1,0 +1,42 @@
+pageid: 2862606
+ns: 118
+title: Reconstruction:Proto-Germanic/lausijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*lausaz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑu̯.si.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to make [[loose]]
+  # to [[release]], to set [[free]]
+
+  ====Inflection====
+  {{gem-conj-wk1|laus|j=ij}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*lausīniz}}
+  * {{l|gem-pro|*uzlausijaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*lausijan}}
+  * {{desc|non|leysa}}
+  ** {{desc|is|leysa}}
+  ** {{desc|fo|loysa}}
+  ** {{desc|nn|løysa}}
+  ** {{desc|gmq-osw|løsa|alt=lø̄sa}}
+  *** {{desc|sv|lösa}}
+  ** {{desc|gmq-oda|løsæ}}
+  *** {{desc|da|løse}}
+  **** {{desc|nb|løse}}
+  ** {{desc|fi|löysä|bor=1}}
+  ** {{desc|gmq-gut|lausa}}
+  ** {{desc|gmq-bot|lööjs}}
+  ** Ostrobothnian: [[löis’]]
+  * {{desc|got|𐌻𐌰𐌿𐍃𐌾𐌰𐌽}}

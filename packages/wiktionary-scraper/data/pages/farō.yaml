@@ -1,0 +1,28 @@
+pageid: 4696802
+ns: 118
+title: Reconstruction:Proto-Germanic/farō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*per-}}
+  Derived from {{m|gem-pro|*faraną||to go, travel}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɑ.rɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[going]], [[journey]], [[trip]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*faru|id=journey}}
+  * {{desc|non|fǫr}}
+  ** {{desc|is|för}}
+  ** {{desc|gmq-osw|far}}
+  * {{desc|smi-pro|*fārō|bor=1}} {{see desc}}

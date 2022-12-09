@@ -1,0 +1,50 @@
+pageid: 2398444
+ns: 118
+title: Reconstruction:Proto-Germanic/ga-
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*ḱóm|t=with, near, by, along}}. Cognate with
+  {{cog|la|cum|t=with}}.
+
+
+  ===Prefix===
+
+  {{gem-prefix}}
+
+
+  # {{n-g|Indicates association or togetherness}}; [[co-]].
+
+  # {{n-g|Indicates completeness or wholeness. In verbs, also indicates
+  perfectivity (a finished action).}}
+
+
+  ====Derived terms====
+
+  {{prefixsee|gem-pro}}
+
+  * {{l|gem-pro|*gagana}}
+
+  * {{l|gem-pro|*gaganą}}
+
+
+  ====Descendants====
+
+  In Old Norse, ''*ga-'' only survives as a fossil in a few words. Its semantic
+  function was, however, retained perfectly by the particle {{m|non|of}}.
+
+  * {{desctree|gmw-pro|*ga-}}
+
+  * {{desc|non|g-|qq=non-productive}}
+
+  ** {{desc|non|der=1|gnógr}}, {{l|non|glíkr}}, {{l|non|greiðr}},
+  {{l|non|greiða}}, {{l|non|granni}}
+
+  * {{desc|got|𐌲𐌰-}}
+
+  * {{desc|xvn|*ga-}}

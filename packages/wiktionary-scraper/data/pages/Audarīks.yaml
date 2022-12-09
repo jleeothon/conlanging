@@ -1,0 +1,24 @@
+pageid: 4673213
+ns: 118
+title: Reconstruction:Proto-Germanic/Audarīks
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*audaz|t1=wealth, riches|*rīks|t2=king, ruler}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑu̯.ðɑ.ˌriːks/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*Audarīk}}
+  * {{desc|non|Auðríkr}}

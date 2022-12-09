@@ -1,0 +1,97 @@
+pageid: 4014305
+ns: 118
+title: Reconstruction:Proto-Germanic/kwernō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*gʷreh₂-}}
+
+  From Pre-Germanic {{m|ine-pro||*gʷérh₂nus}}, from
+  {{inh|gem-pro|ine-pro|*gʷréh₂wō|t=heavy stone}}, from
+  {{m|ine-pro|*gʷréh₂us|t=heavy}}. Cognate with {{cog|lt|girna||grindstone,
+  millstone}}, {{cog|ru|жёрнов||grindstone, millstone}},
+  {{cog|sga|bró||millstone, handmill}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkʷer.nɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[millstone]]
+
+  # [[handmill]]; [[quern]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*kwernuz}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|cweorn}}
+
+  * {{desc|ofs|quern}}
+
+  ** {{desc|frr|quern}}
+
+  * {{desc|osx|querna}}; ({{l|osx|kwern}}, {{l|osx|quern}})
+
+  ** {{desc|gml|querne}}; ({{l|gml|quern}})
+
+  * {{desc|odt|*kwerna}}
+
+  ** {{desc|dum|querne|queerne|quaerne}}
+
+  *** {{desc|nl|kweern}}
+
+  * {{desc|goh|chwirna}}; ({{l|goh|kwirn}}, {{l|goh|quirn}}, {{l|goh|kurn}},
+  {{l|goh|churn}})
+
+  ** {{desc|gmh|churne|kürne}}; ({{l|gmh|kurn}}, {{l|gmh|kürn}})
+
+  * {{desc|non|kvern}}
+
+  ** {{desc|is|kvern|kvörn}}
+
+  ** {{desc|fo|kvørn}}
+
+  ** {{desc|no|kvern}}
+
+  ** {{desc|gmq-osw|kværn}}, {{l|gmq-oda|kvarn}}
+
+  *** {{desc|sv|kvarn}}
+
+  ** {{desc|gmq-oda|kwærn}}
+
+  *** {{desc|da|kværn}}
+
+  ** {{desc|gmq-bot|qwarn}}
+
+  ** {{desc|ovd|kwenn}}
+
+  ** {{desc|gmq-jmk|kvæðn}}
+
+  ** {{desc|gmq-gut|kvänn}}
+
+  ** {{desc|gmq-scy|kværn}}
+
+  * {{desc|smi-pro|bor=1}}
+
+  ** {{desc|se|giertnas}}

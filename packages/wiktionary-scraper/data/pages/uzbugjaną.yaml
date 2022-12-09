@@ -1,0 +1,23 @@
+pageid: 6628830
+ns: 118
+title: Reconstruction:Proto-Germanic/uzbugjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*uz|*bugjaną}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[pay]] [[for]]
+
+  ====Inflection====
+  {{gem-conj-wk1-j|uzbug|j=j}}
+
+  ====Descendants====
+  * {{desc|ang|ābyċġan}}
+  ** {{desc|enm|abyen}}
+  *** {{desc|en|aby}}
+  * {{desc|got|𐌿𐍃𐌱𐌿𐌲𐌾𐌰𐌽}}

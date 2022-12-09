@@ -1,0 +1,29 @@
+pageid: 2959477
+ns: 118
+title: Reconstruction:Proto-Germanic/frawerþaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*wert-}}
+  From {{prefix|gem-pro|*fra|*werþaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɸrɑˈwer.θɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[perish]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|nopass=1|frawerþ|frawarþ|frawurd|frawurd}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*frawardijaną}}
+  * {{l|gem-pro|*frawurdiz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*frawerþan}}
+  * {{desc|got|𐍆𐍂𐌰𐍅𐌰𐌹𐍂𐌸𐌰𐌽}}

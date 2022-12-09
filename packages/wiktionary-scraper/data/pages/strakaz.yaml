@@ -1,0 +1,26 @@
+pageid: 4019160
+ns: 118
+title: Reconstruction:Proto-Germanic/strakaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*strakkaz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)treg-||rigid, stiff}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstrɑ.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[stretched]], [[straight]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|strak}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*strak}}

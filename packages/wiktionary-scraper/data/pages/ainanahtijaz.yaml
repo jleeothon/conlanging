@@ -1,0 +1,30 @@
+pageid: 4600292
+ns: 118
+title: Reconstruction:Proto-Germanic/ainanahtijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*ainaz|*nahts}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑi̯.nɑ.ˌnɑx.ti.jɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # one night [[old]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|ainanaht|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*ainanahtī}}
+  ** {{desc|ang|ānnihte}}
+  ** {{desc|goh|*einnehti}}
+  *** {{desc|gmh|einnehte}}
+  * {{desc|non|einnættr}}
+  ** {{desc|is|einnættur}}
+
+  {{top|gem-pro|One|Night|Age}}

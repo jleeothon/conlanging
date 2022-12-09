@@ -1,0 +1,29 @@
+pageid: 2959431
+ns: 118
+title: Reconstruction:Proto-Germanic/swabjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*swep-}}
+  From {{affix|gem-pro|*swefaną|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈswɑβ.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to put to [[sleep]]
+
+  ====Inflection====
+  {{gem-conj-wk1|swab|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*swefnaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*swabbjan}}
+  * {{desc|non|svefja}}
+  ** {{desc|is|svefja}}

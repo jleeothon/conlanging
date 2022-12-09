@@ -1,0 +1,31 @@
+pageid: 2542560
+ns: 118
+title: Reconstruction:Proto-Germanic/fiskaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*peysḱ-}}
+  From {{der|gem-pro|ine-pro|*peysḱ-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸis.kɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Fish}} [[fish]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*fiskārijaz}}
+  * {{l|gem-pro|*fiskōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*fisk}}
+  * {{desctree|non|fiskr}}
+  * {{desc|got|𐍆𐌹𐍃𐌺𐍃}}
+  * {{desc|gme-cgo|fisct}}

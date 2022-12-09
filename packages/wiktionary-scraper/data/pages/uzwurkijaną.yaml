@@ -1,0 +1,27 @@
+pageid: 6026944
+ns: 118
+title: Reconstruction:Proto-Germanic/uzwurkijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*uz-|*wurkijaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/uz.ˈwur.ki.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[do]], [[effect]] or [[achieve]] by labor
+
+  ====Inflection====
+  {{gem-conj-wk1-j|uzwurk|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|āwyrċan}}
+  * {{desc|goh|irwurken|irwurhen}}
+  ** {{desc|gmh|erwirken}}
+  *** {{desc|de|erwirken}}
+  * {{desc|got|𐌿𐍃𐍅𐌰𐌿𐍂𐌺𐌾𐌰𐌽}}

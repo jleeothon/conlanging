@@ -1,0 +1,62 @@
+pageid: 2612425
+ns: 118
+title: Reconstruction:Proto-Germanic/aiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*h₂éyos}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ɑi̯z/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}<ref>{{R:gem:EDPG|*aiza-|16}}</ref>
+
+
+  # {{topics|gem-pro|Metals}} [[copper]], [[bronze]]
+
+  # [[ore]]
+
+
+  ====Inflection====
+
+  Was originally a regular z-stem, but the older nominative singular alternant
+  *''ajaz'' > *''āz'' was levelled out in favour of the oblique stem *''aiz''.
+  This made it indistinguishable from a neuter consonant stem.
+
+  {{gem-decl-noun|stem=cons|g=n|nopl=1}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*aiʀ}}
+
+  * {{desc|non|eir}}
+
+  ** {{desc|is|eir}}
+
+  ** {{desc|der=1|fo|eirdómur|eirgingin|eirgrønur|eiring}}
+
+  ** {{desc|no|-}} {{l|nb|eir}}, {{l|nn|irr}}
+
+  ** {{desc|gmq-osw|ēr}}
+
+  *** {{desc|sv|ärg}}
+
+  ** {{desc|da|er|ir}}
+
+  * {{desc|got|𐌰𐌹𐌶}}
+
+
+  ===References===
+
+  <references/>

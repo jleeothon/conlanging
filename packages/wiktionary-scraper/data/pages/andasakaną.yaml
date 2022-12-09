@@ -1,0 +1,24 @@
+pageid: 6410724
+ns: 118
+title: Reconstruction:Proto-Germanic/andasakaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*anda|*sakaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɑn.dɑ.ˈsɑ.kɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[speak]] against, [[refute]]
+
+  ====Inflection====
+  {{gem-conj-st|class=6|andasak|andasōk|andasōk|andasak}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*andasakan}}
+  * {{desc|got|𐌰𐌽𐌳𐍃𐌰𐌺𐌰𐌽}}

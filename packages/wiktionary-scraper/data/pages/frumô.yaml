@@ -1,0 +1,102 @@
+pageid: 2420740
+ns: 118
+title: Reconstruction:Proto-Germanic/frumô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*per-}}
+
+  From {{m|gem-pro|*fr-||for, forward}} {{suffix|gem-pro||*umô|t2=superlative}},
+  from {{der|gem-pro|ine-pro|*pr-||before, formerly; through, throughout}} (see
+  {{m|ine-pro|*per-}}) + Pre-Germanic {{m|ine-pro||*-m̥Hon-}}, from
+  {{der|gem-pro|ine-pro|*-tm̥mós|*-mHo-}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸru.mɔːː/}}
+
+
+  ===Adjective===
+
+  {{ordinalbox|gem-pro||1|2||*anþeraz|card=*ainaz|mult=*ainafalþaz|adv=*ainas}}
+
+  {{gem-adj}}
+
+
+  # [[first]]
+
+  {{syn|gem-pro|*frumistaz|*furistaz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-anin|frum}}
+
+
+  ====Derived terms====
+
+  ''Adjectival forms:''
+
+  * {{desc|gmw-pro}}
+
+  ** {{desc|ang|forma}}
+
+  *** {{desc|enm|forme}}
+
+  **** {{desc|der=1|enm|former|pos=comparative}}
+
+  ***** {{desc|en|former}}
+
+  ***** {{desc|sco|formar}}
+
+  * {{desc|non||alt=*frum-}}
+
+  ** {{desc|is|frum-}}
+
+  ** {{desc|fo|frum-}}
+
+  * {{desc|got|𐍆𐍂𐌿𐌼𐌰}}
+
+
+  ''Noun forms:''
+
+  * {{desc|gmw-pro}}
+
+  ** {{desc|ang|fruma|t=beginning; prince; originator}}
+
+  *** {{desc|enm|frume}}, {{l|enm|frome||origin, source}}
+
+  ** {{desc|ofs|froma|t=use, benefit}}
+
+  ** {{desc|osx|fruma|t=use, benefit}}
+
+  *** {{desc|gml|vrōme|t=use, benefit}}
+
+  **** {{desc|gml|der=1|vrōme|t=righteous}}
+
+  ***** {{desc|no|from|bor=1|t=pious}}
+
+  ***** {{desc|gmq-osw|fromber|bor=1|t=pious}}
+
+  ****** {{desc|sv|from|t=pious}}
+
+  ***** {{desc|da|from|bor=1|t=pious}}
+
+  ** {{desc|odt|*fruma}}
+
+  *** {{desc|dum|vrome|t=use, benefit}}
+
+  **** {{desc|der=1|dum|vrome|t=firm, upright|pos=adjective}}
+
+  ***** {{desc|nl|vroom|t=pious}}
+
+  ** {{desctree|goh|fruma|noalts=1|t=use, benefit}}
+
+
+  {{cln|gem-pro|ordinal numbers}}

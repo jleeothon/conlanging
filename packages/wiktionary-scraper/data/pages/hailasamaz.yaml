@@ -1,0 +1,45 @@
+pageid: 8906981
+ns: 118
+title: Reconstruction:Proto-Germanic/hailasamaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alt|gem-pro|*hailisamaz}}
+
+  ===Etymology===
+  From {{af|gem-pro|*hailaz|*-samaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑi̯.lɑ.ˌsɑ.mɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[wholesome]], [[sound]], [[healthy]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|hailasam}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*hailasam|*hailisam}}
+  ** {{desc|ang|*hālsum|*hǣlsum}}
+  *** {{desc|enm|holsom|hoolsom|holsome|halesome}}
+  **** {{desc|en|holesome|wholesome}}
+  **** {{desc|sco|halsum|hailsome}}
+  ** {{desc|ofs|hālsum}}
+  *** {{desc|stq|heelsoam}}
+  *** {{desc|fy|heilsum}}
+  ** {{desc|osx|hēlsam}}
+  *** {{desc|gml|hêlsam|heilsam}}
+  **** {{desc|nds-de|heelsaam}}
+  ** {{desc|odt|*heilsam}}
+  *** {{desc|dum|heilsam|heilsom}}
+  **** {{desc|nl|heelzaam|heilzaam}}
+  ** {{desc|goh|heilsam|heilisam}}
+  *** {{desc|gmh|heilsam}}
+  **** {{desc|de|heilsam}}
+  * {{desc|non|heilsamr}}
+  ** {{desc|is|heilsamur}}
+  ** {{desc|gmq-oda|helsam|helsom}}

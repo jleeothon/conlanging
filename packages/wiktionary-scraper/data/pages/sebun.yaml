@@ -1,0 +1,73 @@
+pageid: 2418115
+ns: 118
+title: Reconstruction:Proto-Germanic/sebun
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From earlier {{m|gem-pro||*sebunt}}, from Pre-Germanic {{m|gem-pro||*sepḿ̥t}},
+  a metathetic alteration of {{inh|gem-pro|ine-pro|*septḿ̥}}, with ''-t''
+  positioned through influence of {{m|gem-pro|*newun||nine}} and
+  {{m|gem-pro|*tehun||ten}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈse.βun/}}
+
+
+  ===Numeral===
+
+  {{cardinalbox|gem-pro|6|7|8|*sehs|*ahtōu|ord=*sebundô|mult=*sebunfalþaz}}
+
+  {{gem-num}}
+
+
+  # [[seven]]
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*sebunstirniją}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*sebun}}
+
+  * {{desc|non|sjau}} (< earlier {{l|non|*sjafu}})
+
+  ** {{desc|is|sjö}}
+
+  ** {{desc|fo|sjey}}
+
+  ** {{desc|nrn|sju}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nb|sju}}
+
+  *** {{desc|nn|sju}}
+
+  ** {{desc|gmq-osw|siu|alt=siū|syū}}
+
+  *** {{desc|sv|sju}}
+
+  ** {{desc|gmq-oda|siu}}
+
+  *** {{desc|da|syv}}
+
+  **** {{desc|nb|syv|bor=1}}
+
+  ** {{desc|ovd|sju}}
+
+  ** {{desc|gmq-gut|sjau|sjavv}}
+
+  * {{desc|got|𐍃𐌹𐌱𐌿𐌽}}
+
+
+  {{c|gem-pro|Seven}}

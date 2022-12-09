@@ -1,0 +1,105 @@
+pageid: 4812906
+ns: 118
+title: Reconstruction:Proto-Germanic/samnōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*samanōną}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*sem-}}
+
+  From {{m|gem-pro|*samanai||together}}, from
+  {{der|gem-pro|ine-pro|*sem-||one}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsɑm.nɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to bring [[together]]; [[gather]]; [[collect]]; [[assemble]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|samn}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*samnungō}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*samaþa}}
+
+  * {{l|gem-pro|*samaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*samnōn}}
+
+  ** {{desc|ang|samnian|somnian}}; ({{l|ang|somniġean}})
+
+  *** {{desc|enm|samnen|sammen|somnien|sumnien}}
+
+  **** {{desc|sco|sammer}}
+
+  **** {{desc|en|sam}}
+
+  ** {{desc|ofs|samenia|samnia|somnia|samena}}; ({{l|ofs|sogenia}} (<
+  {{l|ofs|*somnigia}}))
+
+  *** ({{desc|stq|sammelje}})
+
+  *** ({{desc|fy|sammelje}})
+
+  ** {{desc|osx|samnoian|samnōn}}
+
+  *** {{desc|gml|samenen|samnen}}; ({{l|gml|sāmelen}})
+
+  **** ({{desc|nds-de|sammeln}})
+
+  **** ({{desc|da|samle|bor=1}})
+
+  **** ({{desc|sv|samla|bor=1}})
+
+  **** ({{desc|no|samle|bor=1}})
+
+  **** ({{desc|gmq-bot|sambäl|bor=1}})
+
+  ** {{desc|odt|samnon}} (attested in {{l|odt|samnunga}})
+
+  *** {{desc|dum|samenen|zamenen}}; ({{l|dum|samelen}} (attested in
+  {{l|dum|sāmelinghe}}))
+
+  **** ({{desc|nl|zamelen}})
+
+  ** {{desc|goh|samanōn}}
+
+  *** {{desc|gmh|samenen|samnen|samen}}; ({{l|gmh|samelen}})
+
+  **** ({{desc|de|sammeln}})
+
+  * {{desc|non|samna|safna}}
+
+  ** {{desc|is|samna|safna}}
+
+  ** {{desc|fo|savna}}
+
+  ** {{desc|gmq-osw|samna}}

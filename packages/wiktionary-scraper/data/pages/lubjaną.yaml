@@ -1,0 +1,27 @@
+pageid: 8690121
+ns: 118
+title: Reconstruction:Proto-Germanic/lubjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*lubją|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlub.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[apply]] a [[herb]] or [[potion]]
+  # to [[heal]]
+  # to [[poison]]
+
+  ====Conjugation====
+  {{gem-conj-wk1|lub|j=j}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*lubbjan}}
+  * {{desc|non|lyfja}}
+  ** {{desc|is|lyfja}}

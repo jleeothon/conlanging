@@ -1,0 +1,30 @@
+pageid: 6943632
+ns: 118
+title: Reconstruction:Proto-Germanic/halô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*kel-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑ.lɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{lb|gem-pro|anatomy}} [[tail]]; [[appendage]]
+
+  ====Declension====
+  {{gem-decl-noun-n-m|hal}}
+
+  ====Descendants====
+  * {{desc|non|hali}}
+  ** {{desc|is|hali}}
+  ** {{desc|fo|hali}}
+  ** {{desc|nb|hale}}
+  ** {{desc|nn|hale}}
+  ** {{desc|da|hale}}
+  ** {{desc|bor=1|sco|halin|halen}}
+  ** {{desc|sco|haalie|bor=1}}

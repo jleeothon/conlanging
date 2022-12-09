@@ -1,0 +1,86 @@
+pageid: 5073500
+ns: 118
+title: Reconstruction:Proto-Germanic/angulaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₂enk-}}
+
+  From {{der|gem-pro|ine-pro|*h₂enk-||to bend; crook}}, equivalent to
+  Proto-Germanic {{suffix|gem-pro|*angô|*ulaz|id2=diminutive|pos2=diminutive
+  suffix}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑŋ.ɡu.lɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*angula-|28}}</ref>
+
+
+  # [[hook]]
+
+  # [[prickle]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*angô}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*angul}}
+
+  ** {{desc|ang|angol|angul|ongul|angel|ongel}}
+
+  *** {{desc|enm|angel|angell}}
+
+  **** {{desc|sco|angell|angel}}
+
+  **** {{desc|en|angle}}
+
+  ** {{desctree|ofs|*angel}}
+
+  ** {{desc|osx|angul}}
+
+  *** {{desc|gml|angel}}
+
+  **** {{desc|nds-de|Angel}}
+
+  ** {{desc|odt|*angul}}
+
+  *** {{desc|dum|angel}}
+
+  **** {{desc|nl|angel}}
+
+  ** {{desctree|goh|angul}}
+
+  * {{desc|non|ǫngull}}
+
+  ** {{desc|is|öngull}}
+
+  ** {{desc|sv|angel}}
+
+  ** {{desc|gmq-gut|anggel|anggul}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Fishing]]

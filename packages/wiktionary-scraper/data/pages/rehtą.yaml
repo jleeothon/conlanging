@@ -1,0 +1,30 @@
+pageid: 6914029
+ns: 118
+title: Reconstruction:Proto-Germanic/rehtą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*rehtaz||right, straight}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈrex.tɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[right]], [[privilege]]
+  # [[legal]] or [[moral]] [[entitlement]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*rehtuz}}, {{l|gem-pro|*garehtuz}}
+  * {{l|gem-pro|*garihtiją}}
+  * {{l|gem-pro|*rihtijaną}}
+  * {{l|gem-pro|*unrehtaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*reht|id=right}}

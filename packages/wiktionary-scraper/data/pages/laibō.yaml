@@ -1,0 +1,33 @@
+pageid: 4697889
+ns: 118
+title: Reconstruction:Proto-Germanic/laibō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*leyp-}}
+  Derived from {{m|gem-pro|*lībaną||to stay}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑi̯.βɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # what is left, [[remainder]], [[remnant]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*laibu}}
+  * {{desc|non|leif}}
+  ** {{desc|is|leif}}
+  ** {{desc|nn|leiv}}, ({{l|nn|leivd}})
+  ** ({{desc|fo|leivd}})
+  ** {{desc|gmq-osw|lef|alt=lēf}}
+  * {{desc|got|𐌻𐌰𐌹𐌱𐌰}}
+
+  ===References===
+  * {{R:gem:EDPG}}

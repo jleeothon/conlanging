@@ -1,0 +1,30 @@
+pageid: 3875216
+ns: 118
+title: Reconstruction:Proto-Germanic/duntiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*dʰen-||to strike, hit}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdun.tiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[shock]], [[impact]], [[blow]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|dynt}}
+  ** {{desc|enm|dunt|alt=dünt|dent|dint}}
+  *** {{desc|sco|dunt|dont|dynt|dint|dent}}
+  *** {{desc|en|dunt|dint|dent}}
+  * {{desc|non|dyntr|dyttr}}
+  ** {{desc|is|dyntur|dynta|dyttur}}
+  ** {{desc|sv|dunt}} {{qualifier|dialectal}}
+  ** {{desc|gmq-bot|dönt}}

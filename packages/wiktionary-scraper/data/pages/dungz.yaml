@@ -1,0 +1,33 @@
+pageid: 4942502
+ns: 118
+title: Reconstruction:Proto-Germanic/dungz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dʰengʰ-}}
+  From {{der|gem-pro|ine-pro|*dʰengʰ-||to cover, hide, conceal}}.
+
+  ===Noun===
+  {{gem-noun|m|g2=f}}<ref>{{R:gem:EDPG|dunga-}}</ref>
+
+  # [[cellar]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*dung}}
+  ** {{desctree|ang|dung|id=dungeon}}
+  ** {{desc|osx|dung}}
+  *** {{desc|gml|dunk|dunc}}
+  ** {{desc|odt|*dung|dunk}} (in placenames)
+  *** {{desc|dum|donc}}
+  **** {{desc|nl|donk}}
+  ** {{desc|goh|tunc|tung}}
+  *** {{desc|gmh|tunc}}
+  **** {{desc|de|Tunk}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,32 @@
+pageid: 5600576
+ns: 118
+title: Reconstruction:Proto-Germanic/mauraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*mowro-}}, {{m|ine-pro|*morwi-}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[ant]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*miurijǭ}}
+
+  ====Descendants====
+  * {{desc|non|maurr}}
+  ** {{desc|is|maur}}
+  ** {{desc|fo|meyra}}
+  ** {{desc|no|maur}}
+  ** {{desc|gmq-osw|*mør}} (in {{l|gmq-osw|mørastakker}})
+  ** {{desc|gmq-jmk|mour}}
+  ** {{desc|gmq-bot|möur}}
+  ** {{desc|enm|mowre|bor=1}}
+
+  [[Category:gem-pro:Ants]]

@@ -1,0 +1,33 @@
+pageid: 2947708
+ns: 118
+title: Reconstruction:Proto-Germanic/hanhaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ḱenk-}}
+  From {{der|gem-pro|ine-pro|*ḱenk-|t=to hang}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑ̃ː.xɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{lb|gem-pro|intransitive}} to [[hang]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7c|hanh|hehanh|hehang|hang}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hangāną}}
+  * {{l|gem-pro|*hangijaną}}
+  * {{l|gem-pro|*hangōną}}
+  * {{l|gem-pro|*hankōną}}
+  * {{l|gem-pro|*hunkōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hą̄han}}
+  * {{desctree|non|hanga}}
+  * {{desc|got|𐌷𐌰𐌷𐌰𐌽|tr=hāhan}}

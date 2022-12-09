@@ -1,0 +1,55 @@
+pageid: 7085091
+ns: 118
+title: Reconstruction:Proto-Germanic/ainijaz
+wikitext: >-
+  {{reconstructed}}
+
+  {{rfd|gem-pro}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{alter|gem-pro|*jainijaz}}<ref>{{R:gem:HGE|head=*jainjaz|page=205}}</ref>
+
+
+  ===Etymology===
+
+  The details of the derivation and those of the supposed cognates are
+  {{unk|gem-pro|uncertain}}, but seemingly related to the beginning element of
+  {{cog|la|iūniperus||juniper}}, as well as perhaps to
+  {{cog|hit|𒂊𒅀𒀭|tr=e-i̯a-an|ts=ei̯an-|t=(a kind of) evergreen tree (yew?)}},
+  in which case they may be from a {{inh|gem-pro|ine-pro|-}} acrostatic
+  ''n''-stem noun {{m|ine-pro||*h₁óy-n- ~ *h₁éy-n-s}}. The Germanic form points
+  to {{m|ine-pro||*h₁oy-n-yo-}}; also, it probably began as a collective
+  formation.<ref name="Kroonen"/>
+
+
+  Compare also {{m|gem-pro|*īhwaz}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="Kroonen">{{R:gem:EDPG|*ainja-|12}}</ref>
+
+
+  # [[juniper]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|non|einir}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Conifers]]

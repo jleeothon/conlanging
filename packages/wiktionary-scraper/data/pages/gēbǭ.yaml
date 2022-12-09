@@ -1,0 +1,36 @@
+pageid: 3722083
+ns: 118
+title: Reconstruction:Proto-Germanic/gēbǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*gʰebʰ-}}
+  From {{af|gem-pro|*gēbiz|*-ǭ}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣɛː.βɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[gift]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*gebō}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*gābā}}
+  * {{desc|non|gáfa}} {{q|late|possibly borrowed from Middle Low German}}
+  ** {{desc|is|gáfa}}
+  ** {{desc|fo|gáva}}
+  ** {{desc|no|-}}
+  *** {{desc|nb|gave}}
+  *** {{desc|nn|gåve}}
+  ** {{desc|sv|gava|alt=gāva}}
+  *** {{desc|sv|gåva}}
+  ** {{desc|da|gave}} {{q|likely borrowed or influenced by Middle Low German}}

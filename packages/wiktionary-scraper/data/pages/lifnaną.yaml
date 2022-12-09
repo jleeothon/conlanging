@@ -1,0 +1,39 @@
+pageid: 7778000
+ns: 118
+title: Reconstruction:Proto-Germanic/lifnaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*lībaną|t1=to remain|*-naną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈliɸ.nɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*lifnōjanan|page=245}}</ref>
+
+  # to [[remain]], to [[be]] [[left]]
+
+  ====Inflection====
+  {{gem-conj-wk4|lifn}}
+
+  ====Related terms====
+  * {{l|gem-pro|*laibijaną}}
+  * {{l|gem-pro|*libjaną}}
+
+  ====Descendants====
+  * {{desc|non|lifna}}
+  ** {{desc|non|lifna}}
+  *** {{desc|is|lifna}}
+  *** {{desc|gmq-osw|limna|lifna}}
+  **** {{desc|sv|lemna}} {{q|original spelling, now superseded}}, {{l|sv|lämna}}
+  *** {{desc|gmq-oda|leffnæ}}
+  **** {{desc|da|levne}}
+  ***** {{desc|nb|levne|bor=1}}
+  * {{desc|got|*𐌻𐌹𐍆𐌽𐌰𐌽}}
+  ** {{desc|got|𐌰𐍆𐌻𐌹𐍆𐌽𐌰𐌽|der=1}}
+
+  ===References===
+  <references/>

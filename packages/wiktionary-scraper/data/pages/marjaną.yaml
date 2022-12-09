@@ -1,0 +1,31 @@
+pageid: 6546495
+ns: 118
+title: Reconstruction:Proto-Germanic/marjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*mer-|t=to rub, grab, steal}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑr.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[pound]]; [[crush]]; [[grind]]
+
+  ====Inflection====
+  {{gem-conj-wk1|mar|j=j}}
+
+  ====Descendants====
+  * {{desc|ang|merian}}
+  ** {{desc|enm|meren}}
+  * {{desc|osx|*merian}}
+  ** {{desc|gml|mēren}}
+  * {{desc|goh|*meren}}
+  ** {{desc|gmh|meren|mern}}
+  * {{desc|non|merja}}
+  ** {{desc|fo|merja}}
+  ** {{desc|is|merja}}

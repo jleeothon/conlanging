@@ -1,0 +1,74 @@
+pageid: 3401247
+ns: 118
+title: Reconstruction:Proto-Germanic/barkuz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Possibly from {{inh|gem-pro|ine-pro|*bʰerHǵós}} (source of {{cog|lt|béržas}},
+  {{cog|cs|bříza}}, {{cog|os|бӕрз}}).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɑr.kuz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[bark]] of a tree
+
+  #: {{syn|gem-pro|*rindǭ}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*barką}}
+
+  * {{l|gem-pro|*berkō}}
+
+  * {{l|gem-pro|*birkijǭ}}
+
+  * {{l|gem-pro|*burkō}}
+
+
+  ====Descendants====
+
+  * {{desc|ofs|*bark}}
+
+  ** {{desc|stq|Boark}}
+
+  * {{desc|osx|*barku}}
+
+  ** {{desc|gml|barke|borke}}
+
+  *** {{desc|nds-de|Borke}}
+
+  **** {{desc|pdt|Boakj}}
+
+  *** {{desc|de|Borke|bor=1}}
+
+  *** {{desc|stq|Boarke|bor=1}}
+
+  * {{desc|odt|*bark|*berk}}
+
+  ** {{desc|dum|barc|berc}}
+
+  *** {{desc|nl|bark}}
+
+  * {{desctree|non|bǫrkr}}
+
+
+  {{topics|gem-pro|Trees}}

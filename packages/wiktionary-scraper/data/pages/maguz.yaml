@@ -1,0 +1,65 @@
+pageid: 2900395
+ns: 118
+title: Reconstruction:Proto-Germanic/maguz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*mogʰus||boy}}. Cognate with
+  {{cog|cel-pro|*mogus||boy, servant}}, {{cog|sga|mug}},
+  {{cog|kw|maw||servant}}.<ref>{{R:gem:EDPG|*magu-}}</ref> Unrelated to
+  {{ncog|cel-pro|*makʷos||son}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmɑ.ɣuz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[boy]]
+
+
+  ====Inflection====
+
+  The stem was originally *''magw-'' alternating with *''mag-'' next to *''u''
+  as per the [[w:boukólos rule|boukólos rule]], but after the change *''gw'' >
+  *''w'' would have had an alternation between *''mag-'' and *''maw-'' depending
+  on the ending. This alternation is not preserved in any daughter language and
+  presumably had been levelled in Proto-Germanic as well, but the derived noun
+  still shows the second alternant.
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*magaþs}}
+
+  * {{l|gem-pro|*mawī|gloss=girl}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*magu}}
+
+  * {{desc|gmq-pro|ᛗᚨᚷᚢ|pos=acc.sg.|ᛗᚨᚷᛟᛉ|pos2=gen.sg.}}
+
+  ** {{desc|non|mǫgr}}
+
+  *** {{desc|is|mögur}}
+
+  * {{desc|got|𐌼𐌰𐌲𐌿𐍃}}
+
+
+  ===References===
+
+  <references/>

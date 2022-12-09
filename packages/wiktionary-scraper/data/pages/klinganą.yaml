@@ -1,0 +1,149 @@
+pageid: 4984460
+ns: 118
+title: Reconstruction:Proto-Germanic/klinganą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology 1===
+
+  From Pre-Germanic {{m|ine-pro||*glengʰ-|sound}}, perhaps from
+  {{der|gem-pro|ine-pro|*gal-}}, {{m|ine-pro|*gelH-||to call, sound}} (compare
+  {{m|ine-pro||*golH-s-|voice, cry}}), the root whence also
+  {{m|gem-pro|*kalzōną}}, and/or ultimately {{onomatopoeic|gem-pro|nocap=1}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|head=*klingan- ~ *klinkan-|page=293}}</ref>
+
+
+  # {{topics|gem-pro|Sound}} to [[sound]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-st|class=3|kling|klang|klung|klung}}
+
+
+  =====Derived terms=====
+
+  * {{desc|nolb=1|unc=1|gem-pro||alt=*klinkō}}
+
+  ** {{desc|gmw-pro|*klinku}} {{see desc}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|clynnan}}
+
+  ** {{desc|enm|clinken}}
+
+  *** {{desc|en|clink}}
+
+  * {{desc|ofs|klinga}}
+
+  ** {{desc|frr|klinke}}
+
+  ** {{desc|stq|klinge}}
+
+  ** {{desc|fy|klinke}}
+
+  * {{desc|osx|klingen}}
+
+  ** {{desc|gml|klingen|clingen}}
+
+  *** {{desc|nds|-}}
+
+  **** {{desc|nds-de|klingen}}
+
+  **** Westphalian:
+
+  ****: Münsterländer: {{l|nds|klingen}} {{q|Westmünsterländisch}}
+
+  ****: East Westphalian: {{l|nds|klingen}} {{q|Ravensberger}}
+
+  *** {{desc|pdt|kjlinjen}}
+
+  *** {{desc|gmq-osw|klinga|bor=1}}
+
+  **** {{desc|sv|klinga}}
+
+  * {{desctree|odt|*clingan}}
+
+  * {{desc|goh|klingan}}
+
+  ** {{desc|gmh|klingen}}
+
+  *** {{desc|de|klingen}}
+
+  *** {{desc|lb|kléngen}}
+
+  *** {{desc|yi|קלינגען}}
+
+  * {{desc|non|klingja}}
+
+  ** {{desc|is|klingja}}
+
+  ** {{desc|da|klinge}}
+
+
+  ===Etymology 2===
+
+  From {{der|gem-pro|ine-pro|*gley-|t=to glue, stick together}}. Originally
+  regular verb assimilated into strong verb class 3.
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|head=*klingan-|page=293}}</ref><ref>{{R:gem:HGE|*klenʒanan|page=216}}</ref>
+
+
+  # {{senseid|gem-pro|adhere}}to [[adhere]] to, cling to
+
+
+  =====Inflection=====
+
+  {{gem-conj-st|class=3|kling|klang|klung|klung}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*klajjaz}}
+
+  * {{l|gem-pro|*klibāną}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*klangijaną}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|clingan}}
+
+  ** {{desc|enm|clingen}}
+
+  *** {{desc|en|cling}}
+
+  * {{desc|nds-de|klingen|klinken}}
+
+  * {{desc|odt|*clingan}}
+
+  ** {{desc|dum|clingen|clinken}}
+
+  *** {{desc|nl|klingen|klinken}}
+
+  * {{desc|goh|klingan}}
+
+  ** {{desc|gmh|klingen}}
+
+  * {{desc|da|klinke}}
+
+
+  ===References===
+
+  <references/>

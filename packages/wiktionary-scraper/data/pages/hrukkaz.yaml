@@ -1,0 +1,87 @@
+pageid: 5924582
+ns: 118
+title: Reconstruction:Proto-Germanic/hrukkaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Perhaps from {{der|gem-pro|ine-pro|*kreḱ-||to weave}}, and/or
+  {{der|gem-pro|ine-pro|*rukn-}}, {{m|ine-pro|*ruk-}}, {{m|ine-pro|*rug-}},
+  {{m|ine-pro|*ruǵ-||to spin}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxruk.kɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{alternative form of|gem-pro|*rukkaz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  Only forms which explicitly reflect initial ''h-'' are shown here. The
+  remainder is at {{m|gem-pro|*rukkaz}}.
+
+
+  * {{desc|ofs|hrock}}
+
+  ** {{desc|stq|Rok}}
+
+  ** {{desc|fy|rôk|rok}}
+
+  * {{desc|frk|*hroc|*hrokk}}
+
+  ** {{desc|odt|*rokk|*rok}}
+
+  *** {{desc|dum|roc}}
+
+  **** {{desc|nl|rok}}
+
+  ***** {{desc|af|rok}}
+
+  ** {{desc|bor=1|ML.|hrocus|roccus|rocus}}
+
+  *** {{desc|bor=1|fro|froc|rochet|roquet}}
+
+  **** {{desc|fr|froc|rochet}}
+
+  **** {{desc|bor=1|en|frock|rochet|rocket}} {{qualifier|dialectal}}
+
+  ***** {{desc|fr|frac|bor=1}}
+
+  ****** {{desc|nl|frak|bor=1}} {{qualifier|dialectal}}
+
+  ****** {{desc|de|Frack|bor=1}}
+
+  ****** {{desc|sv|frack|bor=1}}
+
+  ****** {{desc|da|frakke|bor=1}}
+
+  ******* {{desc|fo|frakki|bor=1}}
+
+  ***** {{desc|es|roquete|bor=1}}
+
+  ***** {{desc|pt|roquete|bor=1}}
+
+  ***** {{desc|bor=1|it|rocchetto|roccetto}}
+
+  * {{desc|goh|hroch|hrok}}
+
+  ** {{desc|gmh|roc}}
+
+  *** {{desc|de|Rock}}

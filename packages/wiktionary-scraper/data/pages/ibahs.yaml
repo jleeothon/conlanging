@@ -1,0 +1,36 @@
+pageid: 6592344
+ns: 118
+title: Reconstruction:Proto-Germanic/ibahs
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*(h₁)ebʰ-}}
+
+  From {{der|gem-pro|ine-pro|*(h₁)ebʰ-}}. Cognate with {{cog|cel-pro|*eburos}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Apiales order plants}} [[ivy]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*ibah|*ibag|*ibig}}
+  ** {{desctree|ang|īfiġ}}
+  ** {{desc|gml|īflōf|ifflōf}}
+  *** {{desc|nds-de|Eiloov|Ieloof}}
+  ** {{desc|vls|iefte}}
+  ** {{desc|goh|ebah}}
+  *** {{desc|gmh|ebich}}
+  **** {{desc|gmh|ebichpaum|der=1}} {{desc|gmh|epaum|der=1|nolb=1}}
+  ***** {{desc|cim|éapóom}}
+  *** {{desc|goh|ebhouwi|der=1}} {{q|conflated with {{l|goh|houwi||hay}}}}
+  **** {{desc|gmh|ephöu}}
+  ***** {{desc|gmw-cfr|Effche}} {{q|Ripuarian}}
+  ***** {{desc|de|Epheu|Efeu}}
+  ***** {{desc|no|eføy|bor=1}}
+  ***** {{desc|da|efeu|bor=1}}

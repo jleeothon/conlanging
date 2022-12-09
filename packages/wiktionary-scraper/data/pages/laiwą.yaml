@@ -1,0 +1,35 @@
+pageid: 7508522
+ns: 118
+title: Reconstruction:Proto-Germanic/laiwą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*leyh₂-|t=to die, disapear}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑi̯.wɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[damage]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*laiw}}
+  ** {{desc|ang|*lǣw}}
+  *** {{desc|ang|*bedlǣwere|der=1}}
+  **** {{desc|enm|bedlawere|bedlaure}}
+  *** {{desc|ang|limlǣw|der=1}}
+  *** {{desc|ang|synlǣw|der=1}}
+  ** {{desc|osx|lēs|pos=''interjection''}}
+  ** {{desc|goh|lēwes|lē}}
+  *** {{desc|gmh|lēwes|lē}}
+  ** {{desc|gmw-pro|*laiwī|der=1}}
+  *** {{desc|ang|*lǣwe}}
+  **** {{desc|enm|lew|lewe|t2=weak, frail}}
+  * {{desc|non|læ}}

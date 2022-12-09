@@ -1,0 +1,45 @@
+pageid: 3415186
+ns: 118
+title: Reconstruction:Proto-Germanic/skillingaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*skiljaną|*lingaz}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topic|gem-pro|Money}}[[shilling]] {{gloss|coin}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|sċilling}}
+  ** {{desc|enm|shilling}}
+  *** {{desc|sco|schilling}}
+  *** {{desc|en|shilling}}
+  * {{desc|ofs|skilling}}
+  * {{desc|osx|skilling}}
+  ** {{desc|gml|schillink}}
+  * {{desc|odt|*skilling}}
+  ** {{desc|dum|schillinc}}
+  *** {{desc|nl|schelling}}
+  * {{desc|goh|skilling}}
+  ** {{desc|gmh|schillinc}}
+  *** {{desc|de|Schilling}}
+  **** {{desc|en|schilling|bor=1}} (former currency of Austria)
+  * {{desc|non|skillingr}}
+  ** {{desc|is|skildingur}}
+  ** {{desc|fo|skillingur}}
+  ** {{desc|gmq-osw|skillinger}}
+  *** {{desc|sv|skilling}}
+  ** {{desc|da|skilling}}
+  ** {{desc|no|-}}
+  *** {{desc|nb|skilling}}
+  *** {{desc|nn|skilling}}
+  ** {{desc|sga|scilling|bor=1}}
+  *** {{desc|ga|scilling}}
+  * {{desc|got|𐍃𐌺𐌹𐌻𐌻𐌹𐌲𐌲𐍃}}

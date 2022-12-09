@@ -1,0 +1,32 @@
+pageid: 6105072
+ns: 118
+title: Reconstruction:Proto-Germanic/wazōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*wes-|t=to stay; linger; abide; dwell}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑ.zɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[stay]]; [[abide]]
+  # to [[continue]]; [[last]]
+
+  ====Inflection====
+  {{gem-conj-wk2|waz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wezāną}}
+
+  ====Descendants====
+  * {{desc|ang|warian}}; {{l|ang|werian|t=to remain; continue; dwell}}
+  ** {{desc|enm|weren|t=to remain}}
+  * {{desc|osx|warōn}}; {{l|osx|werōn|t=to be; tarry; last; remain}}
+  ** {{desc|gml|wāren}}; {{l|gml|wēren}}
+  *** {{desc|nds-de|währen}}
+  *** {{desc|gmq-bot|varan|bor=1}} (part.)

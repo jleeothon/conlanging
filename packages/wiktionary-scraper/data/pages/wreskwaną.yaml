@@ -1,0 +1,32 @@
+pageid: 4506146
+ns: 118
+title: Reconstruction:Proto-Germanic/wreskwaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{unk|gem-pro|Uncertain}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwres.kʷɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[mature]], [[grow]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|wreskw|wraskw|wrusk|wruskw}}
+
+  ====Related terms====
+  * {{l|gem-pro|*wraskwaz}}
+  * {{l|gem-pro|*wruskwaz}}
+
+  ====Descendants====
+  * {{desc|non|roskinn}} (attested only by the past participle)
+  ** {{desc|is|roskinn}}
+  * {{desc|got|*𐍅𐍂𐌹𐍃𐌵𐌰𐌽}} (in {{l|got|𐌲𐌰𐍅𐍂𐌹𐍃𐌵𐌰𐌽}})
+
+  ===References===
+  * {{R:gem:EDPG}}

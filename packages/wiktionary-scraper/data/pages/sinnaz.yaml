@@ -1,0 +1,29 @@
+pageid: 2623305
+ns: 118
+title: Reconstruction:Proto-Germanic/sinnaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*sent-|id=feel}}
+  From {{inh|gem-pro|ine-pro||*sentnós}}, from {{m|ine-pro|*sent-||to feel}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsin.nɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[sense]], [[perception]]
+  # [[sense]], [[meaning]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sinnaną}}
+  * {{l|gem-pro|*sinþaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sinn}}

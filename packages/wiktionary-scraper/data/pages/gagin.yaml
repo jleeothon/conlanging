@@ -1,0 +1,102 @@
+pageid: 3264457
+ns: 118
+title: Reconstruction:Proto-Germanic/gagin
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}.<ref>{{R:Kluge_1891|gegen}}</ref><ref>{{R:nl:Etymologiebank|jegens}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣɑ.ɣin/}}
+
+
+  ===Preposition===
+
+  {{gem-prep}}
+
+
+  # {{lb|gem-pro|+ dative}} [[towards]], in the direction of
+
+  # {{lb|gem-pro|+ accusative}} [[against]]
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*gaginjaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*gagin}}
+
+  ** {{desctree|ang|ġeġn}}
+
+  ** {{desc|ofs|jēn|jōn}}
+
+  *** {{desc|frr|jen|jien}}
+
+  *** {{desc|fy|jin}}
+
+  ** {{desctree|osx|gegin}}
+
+  ** {{desc|odt|gegin}}
+
+  *** {{desc|dum|jegen|alts=1}}
+
+  **** {{desc|der=1|dum|tegen|tjegen}} (from {{m|dum|[[te]] jegen}})
+
+  ***** {{desctree|nl|tegen}}
+
+  **** {{desc|dum|jeghens|der=1}}
+
+  ***** {{desc|nl|jegens}}
+
+  ** {{desctree|goh|gagan}}
+
+  * {{desc|non|gegn}}
+
+  ** {{desc|is|gegn}}
+
+  ** {{desc|fo|gjøgn}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nb|gjen-}}
+
+  *** {{desc|nn|gjegn}}, {{l|nb|gjen-}}
+
+  ** {{desc|gmq-osw|gēn}}
+
+  *** {{desc|sv|gen-}}
+
+  ** {{desc|da|gen-}}
+
+  ** {{desctree|enm|gayn|bor=1}}
+
+  ** {{desc|non|gegnum|pos=dative|der=1}} {{see desc}}
+
+  ** {{desc|non|í gegn|der=1}}
+
+  *** {{desc|fo|ígjøgn}}
+
+  *** {{desc|no|-}} {{l|nb|igjen}}
+
+  *** {{desc|gmq-jmk|igjann}}
+
+  *** {{desc|gmq-osw|ī gēn}}
+
+  **** {{desc|sv|igen}}
+
+  *** {{desc|da|igen}}
+
+
+  ===References===
+
+  <references/>

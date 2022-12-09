@@ -1,0 +1,37 @@
+pageid: 4909047
+ns: 118
+title: Reconstruction:Proto-Germanic/dōg-
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*dōgaz}}, {{l|gem-pro|*dōgiz}}, {{l|gem-pro|*dōgin-}}
+
+  ===Etymology===
+  Nominalization of {{m|gem-pro|*dōgaz|t=daily, diurnal}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdɔːɣ-/}}
+
+  ===Noun===
+  {{gem-noun|-}}
+
+  # A stem meaning "[[day]]"
+
+  ====Related terms====
+  * {{l|gem-pro|*dōgaz}}
+
+  ====Descendants====
+  * {{desc|ang|dōgor|g=n}}; {{l|ang|doeg|g=m}} (?) {{q|Anglian}}
+  * {{desc|odt|*dōg}}
+  ** {{desc|dum|*doeg}}
+  *** ({{desc|nl|doeg}}, {{l|nl|doei}} ?)
+  * {{desc|non|dǿgr|g=n}}; {{l|non|dǿgn|g=n}}
+  ** {{desc|is|dægur}}
+  ** {{desc|nb|døgn}}
+  ** {{desc|nn|døgn|alts=1}}
+  ** {{desc|gmq-osw|dögher|dø̄ghn}}
+  *** {{desc|sv|dygn}}
+  ** {{desc|gmq-oda|dø̄ghær|dø̄gn}}
+  *** {{desc|da|døgn}}

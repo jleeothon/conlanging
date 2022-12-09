@@ -1,0 +1,62 @@
+pageid: 3854613
+ns: 118
+title: Reconstruction:Proto-Germanic/alhs
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Cognate with {{cog|lt|alkas}}, {{m|lt|elkas||sanctuary, grove}},
+  {{cog|lv|elks||idol}}. Pokorny (p. 32) proposes a derivation from
+  {{der|gem-pro|ine-pro||*alk-|sacred place, sanctuary; idol}} (=
+  {{m|ine-pro||*h₂elk-}}), from {{der|gem-pro|ine-pro|*h₂lek-||to defend}},
+  whence {{cog|grc|ἀλέξω||defend, ward off}}, {{cog|grc|ἀλκή||defence, help,
+  strength}}, {{cog|la|ulciscor||avenge}}. Kroonen, however, doubts this, adding
+  that “[g]iven the root noun inflection, it is conceivable that the word was
+  adopted from a [[w:Stratum (linguistics)|local non-I[ndo-]E[uropean]
+  language]] by Germanic and Baltic after their arrival in Europe” (2013:22 s.v.
+  ''*alh''-).
+
+  {{cln|gem-pro|terms derived from substrate languages}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*alh-|22}}</ref>
+
+
+  # [[shelter]]; [[building]]
+
+  # [[temple]]; [[sanctuary]]
+
+  # [[settlement]], [[residence]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*algōną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*alh}}
+
+  * {{desc|gmq-pro|ᚨᛚᚺ|ᚨᛚᚻ}} alh (runic inscription)
+
+  * {{desc|got|𐌰𐌻𐌷𐍃}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Architecture]]

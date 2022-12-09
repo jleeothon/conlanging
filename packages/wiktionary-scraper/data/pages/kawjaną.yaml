@@ -1,0 +1,32 @@
+pageid: 6594285
+ns: 118
+title: Reconstruction:Proto-Germanic/kawjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gewH-|t=to call, cry out}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkɑw.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[call]]; [[name]]
+
+  ====Inflection====
+  {{gem-conj-wk1|kaw|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*kewaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*kauwjan}}
+  * {{desc|non|*kauka|der=1}} (< {{l|gem-pro|*kaukōną}}?)
+  ** {{desc|no|kauka}} {{q|dialectal}}
+  ** {{desc|gmq-jmk|kauke}}
+  ** {{desc|gmq-bot|köuk}}
+  ** Angermannic: [[kåkä]]
+  ** Helsingian [[kåuka]]

@@ -1,0 +1,26 @@
+pageid: 4680494
+ns: 118
+title: Reconstruction:Proto-Germanic/ganistiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{confix|gem-pro|*ga|*nesaną|t2=to save|*þiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑ.ˈnis.tiz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[rescue]], [[salvation]], [[healing]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|osx|ginist}}
+  * {{desc|goh|*ginist}}
+  ** {{desc|gmh|genist}}
+  * {{desc|got|𐌲𐌰𐌽𐌹𐍃𐍄𐍃}}

@@ -1,0 +1,80 @@
+pageid: 4600823
+ns: 118
+title: Reconstruction:Proto-Germanic/wringaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro|*wrengʰ-}}. If related to
+  {{cog|grc|ῥίμφα|t=quickly, fast}}, from
+  {{der|gem-pro|ine-pro|*wrengʰ-}}.<ref>{{R:grc:Beekes|1286|ῥίμφα}}</ref>
+  Probably related to {{cog|lt|rangýti||to writhe}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwriŋ.ɡɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|head=*wringan-|page=596}}</ref><ref>{{R:gem:HGE|*wrenʒanan|page=472}}</ref>
+
+
+  # to [[squeeze]], [[twist]], [[wring]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=3|wring|wrang|wrung|wrung}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*wrangaz}}
+
+  * {{l|gem-pro|*wrankijaną}}
+
+  * {{l|gem-pro|*wrungǭ}}
+
+  * {{l|gem-pro|*wrunkōną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|wringan}}
+
+  ** {{desc|enm|wryngen|wringen}}
+
+  *** {{desc|sco|wryng|wring}}
+
+  *** {{desc|en|wring}}
+
+  * {{desctree|ofs|*wringa}}
+
+  * {{desc|osx|wringan}}
+
+  ** {{desc|gml|wringen}}
+
+  *** {{desc|nds|wringen}}
+
+  *** {{desc|de|wringen|bor=1}}
+
+  * {{desctree|odt|*wringan}}
+
+  * {{desc|goh|ringan}}
+
+  ** {{desc|gmh|ringen}}
+
+  *** {{desc|de|ringen}}
+
+  *** {{desc|lb|réngen}}
+
+
+  ===References===
+
+  <references/>

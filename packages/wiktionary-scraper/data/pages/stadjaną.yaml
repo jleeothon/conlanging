@@ -1,0 +1,25 @@
+pageid: 6027023
+ns: 118
+title: Reconstruction:Proto-Germanic/stadjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*stadaz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɑð.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to make [[stood]] or [[restive]]; to [[stop]]
+
+  ====Inflection====
+  {{gem-conj-wk1|stad|j=j}}
+
+  ====Descendants====
+  * {{desc|non|steðja}}
+  ** {{desc|gmq-osw|stæþia}}
+  *** {{desc|sv|städja|städa}}

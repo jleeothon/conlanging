@@ -1,0 +1,27 @@
+pageid: 6397183
+ns: 118
+title: Reconstruction:Proto-Germanic/rignijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*regną|t1=rain|*-janą}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{lb|gem-pro|impersonal}} to [[rain]]
+
+  ====Inflection====
+  {{gem-conj-wk1|rign|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*regnōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*rignijan}}
+  * {{desc|non|rigna}}
+  ** {{desc|is|rigna}}
+  ** {{desc|fo|rigna}}
+  * {{desc|got|𐍂𐌹𐌲𐌽𐌾𐌰𐌽}}

@@ -1,0 +1,39 @@
+pageid: 7400515
+ns: 118
+title: Reconstruction:Proto-Germanic/alawaldô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*alawaldaz}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₂welh₁-|id=rule}}
+  From {{af|gem-pro|*ala-|*waldô}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɑlɑ.ˈwɑldɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:HGE|*ala-waldaz~ala-waldōn|13}}</ref>
+
+  # [[sovereign]] [[king]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*alawaldō}}
+  ** {{desc|ang|ealwealda|eallwealda}}
+  ** {{desc|osx|alawaldo}}
+  ** {{desc|goh|*alawalto}}
+  *** {{desc|gmh|alawalte}}
+  * {{desc|non|alvaldr}} (<''*alawaldaz'')
+  ** {{desc|is|alvaldur}}
+  ** {{desc|fo|alvaldur}}
+
+  ===References===
+  <references/>
+
+  [[Category:gem-pro:Government]]

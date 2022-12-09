@@ -1,0 +1,28 @@
+pageid: 5594819
+ns: 118
+title: Reconstruction:Proto-Germanic/balwą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from the adjective {{m|gem-pro|*balwaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑl.wɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref>{{R:gem:EDPG}}</ref>
+
+  # [[evil]], [[misfortune]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*balu|id=evilness}}
+  * {{desc|non|bǫl}}
+  ** {{desc|is|böl}}
+
+  ===References===
+  <references/>

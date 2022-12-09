@@ -1,0 +1,49 @@
+pageid: 4125542
+ns: 118
+title: Reconstruction:Proto-Germanic/murgnagebō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*murginaz|*gebō|t1=morning|t2=gift}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmurɣ.nɑˌɣe.βɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[morning gift]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*morgnagebu|*morgnagēbǭ}}
+  ** {{desc|ang|morgenġiefu|morgenġifu}}
+  *** {{desc|enm|morgengive|morhȝive|marheȝive}}
+  **** {{desc|sco|morning-gift}}
+  **** {{desc|en|morning gift}}
+  ** {{desc|osx|*morgangeva|*morgangāva}}
+  *** {{desc|gml|morgengâve}}
+  **** {{desc|nds|Morgengaav}}
+  ** {{desc|odt|*morgangeva|*morgangāva}}
+  *** {{desc|dum|morgengave}}
+  **** {{desc|nl|morgengave}}
+  ** {{desc|goh|morgangeba|*morgangāba}}
+  *** {{desc|gmh|morgengābe}}
+  **** {{desc|de|Morgengabe}}
+  * {{desc|non|morgungjǫf}}
+  ** {{desc|is|morgungjöf}}
+  ** {{desc|gmq-osw|morghongiæf}}
+  * {{desc|la|morganāticus|bor=1}}
+  ** {{desc|en|morganatic|bor=1}}
+  ** {{desc|fr|morganatique|bor=1}}
+  ** {{desc|de|morganatisch|bor=1}}
+  ** {{desc|io|morganatika|bor=1}}
+  ** {{desc|it|morganatico|bor=1}}
+  ** {{desc|pt|morganático|bor=1}}
+  ** {{desc|ru|морганати́ческий|bor=1}}
+  ** {{desc|es|morganático|bor=1}}
+  ** {{desc|uk|морганати́чний|bor=1}}

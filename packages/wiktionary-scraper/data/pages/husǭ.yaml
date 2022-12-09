@@ -1,0 +1,38 @@
+pageid: 4030420
+ns: 118
+title: Reconstruction:Proto-Germanic/husǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*(s)kewH-}}
+  From {{der|gem-pro|ine-pro|*(s)kewH-|*(s)kew(H)-|to cover, bewrap}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxu.sɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # An outer [[covering]]; [[hull]]; [[shell]]; [[husk]]; [[case]]
+  # Covering for the legs; [[leggings]], [[trousers]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*husō}}
+  * {{l|gem-pro|*husô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hosā}}
+  * {{desc|non|hosa}}
+  ** {{desc|is|hosa}}
+  ** {{desc|fo|hosa}}
+  ** {{desc|no|-}} {{l|nb|hose}}
+  ** {{desctree|gmq-osw|hosa}}
+  ** {{desc|da|hose}}
+  * {{desc|got|𐌷𐌿𐍃𐌰}}
+
+  {{topics|gem-pro|Clothing}}

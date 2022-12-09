@@ -1,0 +1,51 @@
+pageid: 5932971
+ns: 118
+title: Reconstruction:Proto-Germanic/lakaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)leh₂g-||to be slack; be limp; droop; sag}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑ.kɑ.nɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[linen]]; [[cloth]]; [[sheet]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*slakaz}}
+
+  ====Descendants====
+  * {{desc|ang|*lacen|*læcen}}
+  ** {{desc|enm|lake}}
+  *** {{desc|sco|lake|laik}}
+  *** {{desc|en|lake}}
+  * {{desc|ofs|leken|letzen|lezen}}
+  ** {{desc|stq|Leeken}}
+  ** {{desc|fy|lekken}}
+  * {{desc|osx|lakan}}
+  ** {{desc|gml|lāken}}
+  *** {{desc|nds-de|Laken}}
+  **** {{desc|de|Laken|bor=1}}
+  *** {{desc|bor=1|non|lakan|lak}}
+  **** {{desc|is|lak}}
+  **** {{desc|fo|lak}}
+  **** {{desc|no|laken}}
+  **** {{desc|gmq-osw|lakan}}
+  ***** {{desc|sv|lakan}}
+  ***** {{desc|fi|lakana|bor=1}}
+  **** {{desc|da|lagen}}
+  * {{desc|odt|*lakan}}
+  ** {{desc|dum|laken}}
+  *** {{desc|nl|laken}}
+  **** {{desc|af|laken}}
+  * {{desc|goh|lahhan|lachan}}
+  ** {{desc|gmh|lachen}}
+  *** {{desc|de|Lachen}} {{qualifier|obsolete}}; {{l|de|Leilachen}}

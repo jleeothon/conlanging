@@ -1,0 +1,23 @@
+pageid: 8662177
+ns: 118
+title: Reconstruction:Proto-Germanic/laskijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*leskaną|*-janą|t1=to stop, quench|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈles.ki.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{lb|gem-pro|transitive}} to [[extinguish]], to [[quench]]
+
+  ====Inflection====
+  {{gem-conj-wk1|lask|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*laskijan}}

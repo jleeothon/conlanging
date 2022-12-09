@@ -1,0 +1,40 @@
+pageid: 4710995
+ns: 118
+title: Reconstruction:Proto-Germanic/abalagjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*legʰ-}}
+  From {{prefix|gem-pro|*aba|*lagjaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɑ.βɑ.ˈlɑɣ.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[lay]] down, [[set aside]], [[put away]]
+
+  ====Inflection====
+  {{gem-conj-wk1|abalag|j=j}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*abalagīniz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*abalaggjan}}
+  ** {{desctree|ang|ofleċġan}}
+  ** {{desc|ofs|ofledza}}
+  ** {{desc|osx|*afleggian}}
+  *** {{desc|gmh|afleggen|bor=1}}
+  ** {{desc|odt|}}
+  *** {{desc|dum|aveleggen|afleggen}}
+  **** {{desctree|nl|afleggen}}
+  ** {{desc|goh|*abaleggen}}
+  *** {{desc|gmh|abelegen}}
+  **** {{desc|de|ablegen}}
+  **** {{desc|lb|ofleeën}}
+  * {{desc|non|afleggja}} (or {{l|non|leggja af}}?)
+  * {{desc|got|𐌰𐍆𐌻𐌰𐌲𐌾𐌰𐌽}}

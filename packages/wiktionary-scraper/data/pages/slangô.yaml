@@ -1,0 +1,54 @@
+pageid: 3591712
+ns: 118
+title: Reconstruction:Proto-Germanic/slangô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*slenk-|t=to wind, twist, slink, creep}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈslɑŋ.ɡɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topic|gem-pro|Snakes}}[[snake]]
+  #: {{syn|gem-pro|*agiz|*linþaz|*nadraz|*nadrǭ|*snakô|*wurmiz}}
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*slingwaną}}
+
+  ====Descendants====
+  {{top3}}
+  * {{desc|ofs|*slanga|g=m|*slange|g2=f}}
+  ** {{desc|frr|slaang|slang|slånge}}
+  ** {{desc|stq|Sloange|alts=1}}
+  ** {{desc|fy|slange|slang}}
+  * {{desc|osx|slango}}
+  ** {{desc|gml|slange}}
+  *** {{desc|pdt|Schlang}}
+  *** {{desc|non|slangi|bor=1}}
+  * {{desctree|odt|slango}}
+  * {{desc|goh|slango}}
+  ** {{desc|gmh|schlange}}
+  *** {{desc|de|Schlange}}
+  **** {{desc|ru|шланг|t=hose|bor=1}} {{see desc}}
+  **** {{desc|szl|szlanga|bor=1}}
+  *** {{desc|hrx|Schlang}}
+  *** {{desc|lb|Schlaang}}
+  *** {{desc|yi|שלאַנג}}
+  **** {{desc|en|schlong|bor=1}}
+  * {{desc|non|slangi}}; {{l|non|slanga|g=f}}
+  ** {{desc|is|slanga}}
+  ** {{desc|fo|slanga}}
+  ** {{desc|nb|slange}}
+  ** {{desc|nn|slange}}
+  ** {{desc|da|slange}}
+  ** {{desc|gmq-gut|slangr|slang}}
+  ** {{desc|gmq-bot|slaang}}
+  {{bottom}}

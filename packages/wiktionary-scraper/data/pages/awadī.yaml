@@ -1,0 +1,31 @@
+pageid: 7095999
+ns: 118
+title: Reconstruction:Proto-Germanic/awadī
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*awadī-|44}}</ref>
+
+  # {{topics|gem-pro|Anatids}} [[eider]]
+
+  ====Inflection====
+  {{gem-decl-noun-ijo-f|awad|j=ij}}
+
+  ====Descendants====
+  * {{desc|non|æðr}}
+  ** {{desc|is|æður}}
+  *** {{desc|en|eider|bor=1}}
+  *** {{desc|nl|eider|bor=1}}
+  *** {{desc|de|Eider|bor=1}}
+  *** {{desc|sv|ejder|bor=1}}
+  ** {{desc|fo|æður}}
+  ** {{desc|no|ær}} {{q|dialectal}}, {{l|no|æd}} {{q|dialectal}}
+  ** {{desc|sv|åda}}
+
+  ===References===
+  <references/>

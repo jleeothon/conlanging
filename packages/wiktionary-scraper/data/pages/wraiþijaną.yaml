@@ -1,0 +1,32 @@
+pageid: 7614892
+ns: 118
+title: Reconstruction:Proto-Germanic/wraiþijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*wraiþaz|*-janą|t1=twisted, angry, cruel}}.
+
+  ===Pronunciation===
+  {{IPA|gem-pro|/ˈwrɑi̯.θi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="Orel">{{R:gem:HGE|*wraiþjanan|page=471}}</ref>
+
+  # to [[anger]]
+  # to [[curl]]
+
+  ====Inflection====
+  {{gem-conj-wk1|wraiþ|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*wraiþijan}}
+  ** {{desc|ang|wrǣþan}}
+  ** {{desc|osx|wrēþian}}
+  ** {{desc|goh|reiden}}
+  * {{desc|non|reiða|vreiða}}
+  ** {{desc|is|reiða}}
+
+  ===References===
+  <references/>

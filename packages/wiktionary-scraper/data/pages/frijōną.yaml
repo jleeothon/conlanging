@@ -1,0 +1,51 @@
+pageid: 2772338
+ns: 118
+title: Reconstruction:Proto-Germanic/frijōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*preyH-}}
+  From {{suffix|gem-pro|*frijaz|t1=free|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸri.jɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[love]]
+  #: {{ux|gem-pro|*Þek '''frijō'''.|I '''love''' you.}}
+  # to [[free]]
+  # to [[like]]
+
+  ====Inflection====
+  {{gem-conj-wk2|frij}}
+
+  ====Antonyms====
+  * {{l|gem-pro|*fijāną||to hate}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*frijōndz}}
+  * {{l|gem-pro|*frijōniz}}
+  * {{l|gem-pro|*frijōdilaz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*frijō}}
+  * {{l|gem-pro|*frijô}}
+  * {{l|gem-pro|*friþilaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*frijōn}}
+  * {{desc|gmq-pro|}}
+  ** {{desc|non|frjá|fría}}
+  *** {{desc|is|frjá|fría}}
+  *** {{desc|fo|fríggja}}
+  *** {{desc|no|fri}}
+  *** {{desc|sv|fria}}
+  *** {{desc|da|fri}}
+  *** {{desc|gmq-bot|frij|frei|fräi}}
+  * {{desc|got|𐍆𐍂𐌹𐌾𐍉𐌽}}
+
+  {{topics|gem-pro|Love}}

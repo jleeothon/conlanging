@@ -1,0 +1,52 @@
+pageid: 4964802
+ns: 118
+title: Reconstruction:Proto-Germanic/rībaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*rīfaz}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₁reyp-}}
+  From {{der|gem-pro|ine-pro|*h₁reyp-||to tear, rip}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈriː.bɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[generous]]; [[abundant]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|rīb}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*rībijaz}}/{{l|gem-pro|*rīfijaz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*rībaną}}/{{l|gem-pro|*rīfaną}}
+
+  ====Descendants====
+  * {{desc|ang|rīfe|rȳfe}}
+  ** {{desc|enm|rif|rife|rive}}
+  *** {{desc|sco|ryf|ryfe|rife}}
+  *** {{desc|en|rife}}
+  *** {{desc|xno|*rife|bor=1}}
+  * {{desc|ofs|*rīfe}}
+  ** {{desc|fy|rju}}
+  * {{desc|osx|*rīf}}; {{l|osx|*rīfi}}
+  ** {{desc|gml|rîve}}
+  *** {{desc|nds|rive}}
+  * {{desc|odt|*rīf|*rīfi}}
+  ** {{desc|dum|rive|rijve|rijf}}; {{l|dum|gerive}}
+  *** {{desc|nl|rijf}}; {{l|nl|grif}}
+  * {{desc|non|rífr}}; {{l|non|rífligr}}
+  ** {{desc|is|rífur}}; {{l|is|ríflegur}}
+  ** {{desc|fo|rífur}}
+  ** {{desc|no|riv}}
+  ** {{desc|gmq-osw|river|alt=rīver}}
+  ** {{desc|da|riv}}
+  * {{desc|fi|reipas|bor=1|unc=1}}

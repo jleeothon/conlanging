@@ -1,0 +1,25 @@
+pageid: 5554441
+ns: 118
+title: Reconstruction:Proto-Germanic/skandaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[buffoon]]
+  # [[wretch]]
+  # [[imposter]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|sċand}}
+  ** {{desc|enm|sconde|shond}}
+
+  {{topics|gem-pro|People}}

@@ -1,0 +1,40 @@
+pageid: 4396536
+ns: 118
+title: Reconstruction:Proto-Germanic/fōriz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*per-}}
+  {{vrd|gem-pro|*faraną|ger=1|t=to go}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɔː.riz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[able]] to go, [[passable]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Related terms====
+  * {{l|gem-pro|*fōrį̄}}
+  * {{l|gem-pro|*fōriją}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*fōri}}
+  ** {{desc|ang|fēre}}
+  *** {{desc|enm|fēre}}
+  **** {{desc|en|fere|fear}}
+  ** {{desc|goh|*fuori}}
+  *** {{desc|goh|gifuori|der=1|nolb=1}}
+  * {{desc|non|fœrr}}
+  ** {{desc|is|fær}}
+  ** {{desc|fo|førur}}
+  ** {{desc|gmq-osw|før|alt=fø̄r}}
+  *** {{desc|sv|för}}
+  ** {{desc|gmq-oda|før}}
+  *** {{desc|da|før}}

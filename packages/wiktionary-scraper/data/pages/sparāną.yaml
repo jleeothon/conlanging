@@ -1,0 +1,36 @@
+pageid: 5124206
+ns: 118
+title: Reconstruction:Proto-Germanic/sparāną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*sparōną}} {{qualifier|late}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*sper-||to be productive; earn}}.
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|*sparēnan|362}}</ref>
+
+  # to be [[thrifty]]; be [[conservative]]; be [[sparing]]
+
+  ====Inflection====
+  {{gem-conj-wk3|spar}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sparaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sparēn}}
+  * {{desc|non|spara}}
+  ** {{desc|is|spara}}
+  ** {{desc|fo|spara}}
+  ** {{desc|no|spare}}
+  ** {{desc|gmq-osw|spara}}
+  *** {{desc|sv|spara}}
+  ** {{desc|da|spare}}
+
+  ===References===
+  <references/>

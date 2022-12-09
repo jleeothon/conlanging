@@ -1,0 +1,68 @@
+pageid: 4123934
+ns: 118
+title: Reconstruction:Proto-Germanic/sweraną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*swer-|id=ache}}
+
+  From {{der|gem-pro|ine-pro|*swer-||to ache, fester}}. Possibly related to
+  {{cog|ae|𐬀𐬭𐬀𐬬𐬑||wound, hurt}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈswe.rɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[hurt]]
+
+  # to [[fester]]; [[ulcerate]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=4|swer|swar|swēr|s(w)ur}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*swerô}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*swerdą}}
+
+
+  ====Descendants====
+
+  * ({{desc|ang|swor}}; {{l|ang|swarnian}}, {{l|ang|swārnian}},
+  {{l|ang|swornian}})
+
+  * {{desc|osx|*sweran}}
+
+  ** {{desc|gml|swēren}}
+
+  * {{desc|odt|*sweran}}
+
+  ** {{desc|dum|swēren}}
+
+  *** {{desc|nl|zweren}}
+
+  * {{desc|goh|sweran}}; ({{l|goh|swero}}; {{l|goh|swerado}}, {{l|goh|swerdo}})
+
+  ** {{desc|gmh|swërn}}; ({{l|gmh|swere}}, {{l|gmh|swer}}, {{l|gmh|geswer}};
+  {{l|gmh|swerde}})
+
+  *** {{desc|de|schwären}}; ({{l|de|Geschwür}})

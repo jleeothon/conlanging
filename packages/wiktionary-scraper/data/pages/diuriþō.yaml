@@ -1,0 +1,30 @@
+pageid: 3617946
+ns: 118
+title: Reconstruction:Proto-Germanic/diuriþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*diurijaz|*iþō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdiu̯.ri.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[dearness]], [[costliness]], [[preciousness]]
+  # [[glory]], [[honour]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*diuriþu}}
+  * {{desc|non|dýrð}}
+  ** {{desc|is|dýrð}}
+  ** {{desc|fo|dýrd}}
+  ** {{desc|sv|dyrd}}
+  ** {{desc|non-ogt|dyrþ}}
+  ** {{desc|nn|dyrdestein|der=1}}

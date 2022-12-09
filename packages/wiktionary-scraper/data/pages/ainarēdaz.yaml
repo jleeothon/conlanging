@@ -1,0 +1,30 @@
+pageid: 7398583
+ns: 118
+title: Reconstruction:Proto-Germanic/ainarēdaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*ainaz|*rēdaz|t1=one|t2=advice}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑi̯.nɑ.ˌrɛː.ðɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:HGE|*aina-rēdaz|9}}</ref>
+
+  # [[self-willed]], [[unanimous]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*ainarād}}
+  ** {{desc|ang|ānrǣd}}
+  *** {{desc|enm|ānrēd}}
+  ** {{desc|goh|einrāti}}
+  * {{desc|non|einráðr}}
+
+  ===References===
+  <references/>

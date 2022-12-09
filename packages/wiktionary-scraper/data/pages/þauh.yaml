@@ -1,0 +1,22 @@
+pageid: 3837574
+ns: 118
+title: Reconstruction:Proto-Germanic/þauh
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*þau|*hw|gloss1=in that case|gloss2=and}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθɑu̯x/}}
+
+  ===Adverb===
+  {{gem-adv}}
+
+  # [[nevertheless]], [[though]]
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þauh}}
+  * {{desctree|non|þó}}
+  * {{desc|got|𐌸𐌰𐌿𐌷}}

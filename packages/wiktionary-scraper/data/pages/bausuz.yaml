@@ -1,0 +1,91 @@
+pageid: 4069496
+ns: 118
+title: Reconstruction:Proto-Germanic/bausuz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*bʰew-}}, {{m|ine-pro|*bew-||to blow, inflate,
+  swell}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɑu̯.suz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[inflated]]; [[swollen]]
+
+  # [[puffed up]]; [[proud]]; [[arrogant]]
+
+  # [[bad]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*bausahaiduz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*bausi}}
+
+  ** {{desc|ofs|*bāse|bās-}} (in compounds)
+
+  ** {{desc|osx|bōsi}}; {{l|osx|bōsa}}
+
+  *** {{desc|gml|bōse}}; {{l|gml|bosse}}, {{l|gml|bōtze}}
+
+  **** {{desc|nds-de|böös}}
+
+  **** {{desc|bor=1|de|Posse}}
+
+  **** {{desc|bor=1|ofs|bose|bōs}}
+
+  ***** {{desc|fy|boas|boase}}
+
+  ** {{desc|odt|*bōsi}}
+
+  *** {{desc|dum|bose|alt=bōse|boes}}
+
+  **** {{desc|nl|boos}}
+
+  ** {{desc|bor=1|VL.|*bausia|*bosius|alt2=*bōsia}}
+
+  *** {{desc|fro|boise|boisie}}
+
+  *** {{desc|pro|bauzia}}
+
+  **** {{desc|oc|bauze}}; {{l|oc|bauzia}}; {{l|oc|bauzar}}
+
+  ***** {{desc|bor=1|it|bugia}}; {{l|it|bugiare}}; {{l|it|bugiardo}}
+
+  ****** {{desc|bor=1|en|bugiard}}
+
+  ** {{desctree|goh|bōsi}}
+
+  * {{desc|non|*bauss|*beyss}} (?)
+
+  ** {{desc|no|baus}}; {{l|no|bos}}, {{l|no|bys}}
+
+  ** {{desc|bor=1|enm|bosten}}
+
+  *** {{desc|en|boast}}
+
+  *** {{desc|sco|bost|boist}}
+
+  ** {{desc|bor=1|fro|bost}}

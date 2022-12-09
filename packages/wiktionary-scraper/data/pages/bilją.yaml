@@ -1,0 +1,80 @@
+pageid: 5988947
+ns: 118
+title: Reconstruction:Proto-Germanic/bilją
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*bʰeyH-|t=to strike; beat}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbil.jɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # a cutting implement; [[blade]]; [[axe]]; [[sword]]
+
+  # [[spike]]; [[peg]]; [[nail]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*biþlą}}
+
+
+  ====Descendants====
+
+  Note: In some daughter languages, *''bilją'' was conflated with another
+  similar word with a long ''ī'', also meaning "axe"; see {{cog|de|Beil}} for
+  more.
+
+
+  * {{desc|ang|bill|bil|g2=n}}
+
+  ** {{desc|enm|bil|bille|bill}}
+
+  *** {{desc|sco|bill}}
+
+  *** {{desc|en|bill}}
+
+  * ({{desc|ofs|*bile}})
+
+  ** ({{desc|fy|bile}})
+
+  * {{desc|osx|bil|g=n}}; ({{l|osx|*bīhal}}; {{l|osx|*bīhala}})
+
+  ** {{desc|gml|bil|g=n}}; ({{l|gml|bīl|g=n}}; {{l|gml|bīle|g=f}})
+
+  *** ({{desc|nds-de|Biel|g=n,f}})
+
+  *** {{desc|da|bil|t=axe|bor=1}}
+
+  *** {{desc|sv|bila|t=axe|bor=1}}
+
+  * {{desc|odt|*billi}}; ({{l|odt|*bīal}}; {{l|odt|*bīala}})
+
+  ** {{desc|dum|bille}}; ({{l|dum|bīle}}, {{l|dum|bijl}})
+
+  *** {{desc|nl|bil}}, ({{l|nl|bijl}})
+
+  * {{desc|goh|billi|g=n}}; ({{l|goh|bīhal|g=n}}; {{l|goh|bīhala|g=f}})
+
+  ** {{desc|gmh|bille|bil|g2=n}}; ({{l|gmh|bīhel}}, {{l|gmh|bīel}},
+  {{l|gmh|pīel}}, {{l|gmh|bīl}}, {{l|gmh|bīle|g=n}})
+
+  *** {{desc|de|Bille|g=f}}; ({{l|de|Beil|g=n}})

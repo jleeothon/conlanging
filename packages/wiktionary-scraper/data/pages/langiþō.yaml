@@ -1,0 +1,31 @@
+pageid: 3874641
+ns: 118
+title: Reconstruction:Proto-Germanic/langiþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*langaz|*iþō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑŋ.ɡi.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[longness]], [[length]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*langiþu}}
+  * {{desc|non|lengd}}
+  ** {{desc|is|lengd}}
+  ** {{desc|fo|longd}}
+  ** {{desc|nn|lengd}}
+  ** {{desc|gmq-osw|længd}}
+  *** {{desc|sv|längd}}
+  ** {{desctree|da|længde}}
+  ** {{desc|gmq-bot|laingd|lęngd}}

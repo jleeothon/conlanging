@@ -1,0 +1,33 @@
+pageid: 7315829
+ns: 118
+title: Reconstruction:Proto-Germanic/giftijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*gʰebʰ-}}
+  From {{suffix|gem-pro|*giftiz|*-janą|t1=gift}}.
+
+  ===Pronunciation===
+  {{IPA|gem-pro|/ˈɣiɸ.ti.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="HGE">{{R:gem:HGE|*ʒeftijanan|130}}</ref>
+
+  # {{lb|gem-pro|transitive|+accusative}} to [[gift]], [[give]] (something)
+  # {{lb|gem-pro|transitive|+dative}} to [[give]] a [[gift]] to
+
+  ====Inflection====
+  {{gem-conj-wk1|gift|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*giftijan}}
+  * {{desc|non|gipta}}
+  ** {{desc|is|gifta}}
+  ** {{desc|fo|gifta}}
+  ** {{desc|sv|gifta}}
+  ** {{desc|da|gifte}}
+
+  ===References===
+  <references/>

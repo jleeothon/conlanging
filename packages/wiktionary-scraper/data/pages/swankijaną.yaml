@@ -1,0 +1,27 @@
+pageid: 8120077
+ns: 118
+title: Reconstruction:Proto-Germanic/swankijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*swinkaną|t1=to swing|*janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈswɑŋ.ki.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to cause to [[swing]], to [[waver]]
+
+  ====Inflection====
+  {{gem-conj-wk1|swank|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*swangwijaną}}
+  * {{l|gem-pro|*swinganą}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*swankijan}}

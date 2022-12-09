@@ -1,0 +1,50 @@
+pageid: 3484776
+ns: 118
+title: Reconstruction:Proto-Germanic/skuftą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*(s)kewp-||tuft, cluster, hair on the head}},
+  related to {{cog|got|𐍃𐌺𐌿𐍆𐍄||hair of the head}}, {{cog|de|Schopf||tuft}},
+  {{cog|sq|çup||without tail, maimed}}. Compare to
+  {{der|gem-pro|ine-pro|*skaubą}} and {{der|gem-pro|ine-pro|*skub-}},
+  {{m|ine-pro|*skup-}}, {{m|ine-pro|*skupn-||to curve, bow, vault}}.
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # a [[bundle]], [[hair]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|goh|skuft}}
+
+  ** {{desc|gmh|schopf}}
+
+  *** {{desc|de|Schopf|g=m}}
+
+  *** {{desc|it|ciuffo|bor=1}}
+
+  *** {{desc|lb|Schapp}}
+
+  * {{desc|non|skopt}}
+
+  ** {{desc|is|skott}}
+
+  ** {{desc|no|skoft}}
+
+  * {{desc|got|𐍃𐌺𐌿𐍆𐍄}}

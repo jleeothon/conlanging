@@ -1,0 +1,89 @@
+pageid: 3636277
+ns: 118
+title: Reconstruction:Proto-Germanic/hrōfą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*krāpo-}}, {{m|ine-pro|*ḱrapo-||roof}}, from
+  {{der|gem-pro|ine-pro|*krāwə-||to cover, heap}}.
+
+
+  Cognate with {{cog|ga|cró||pen, barn, cabin}}, {{cog|sla-pro|*stropъ}}.
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # {{topic|gem-pro|Architecture}}[[roof]]
+
+  #: {{syn|gem-pro|*hrōtą}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*hrōf}}
+
+  ** {{desc|ang|hrōf}}
+
+  *** {{desc|enm|rof|roof|ruffe}}
+
+  **** {{desc|en|roof}}
+
+  **** {{desc|sco|ruf|ruif}}
+
+  ** {{desc|ofs|hrōf}}
+
+  ** {{desc|osx|*hrōf}}
+
+  *** {{desc|gml|rôf}}
+
+  **** {{desc|nds|Roof}}
+
+  ***** {{desc|de|Roof|bor=1}}
+
+  ** {{desc|odt|*ruof}}
+
+  *** {{desc|dum|roef|rouf}}
+
+  **** {{desc|nl|roef}}
+
+  ***** {{desc|fr|rouf|bor=1}}
+
+  ***** {{desc|no|ruff|bor=1}}
+
+  ***** {{desc|sv|ruff|bor=1}}
+
+  ***** {{desc|da|ruf|bor=1}}
+
+  ****** {{desc|is|rúff|bor=1}}
+
+  ****** {{desc|fo|ruff|bor=1}}
+
+  ** {{desc|goh|ruof}}
+
+  * {{desc|non|hróf}}
+
+  ** {{desc|is|hróf}}
+
+  ** {{desc|fo|rógv}} {{q|possibly}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nn|rov|alt=rōv|t=collapsed building}} {{i|likely merged with
+  {{m|gem-pro|*rubą}}}}
+
+  ** {{desc|gmq-osw|rogh|alt=rōgh}}
+
+  *** {{desc|sv|ro}} {{q|dialectal}}

@@ -1,0 +1,21 @@
+pageid: 3484771
+ns: 118
+title: Reconstruction:Proto-Germanic/naskiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[skin]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|næsc}}
+  * {{desc|fiu-fin-pro|*nahka|bor=1}}

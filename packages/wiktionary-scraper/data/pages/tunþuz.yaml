@@ -1,0 +1,29 @@
+pageid: 8543816
+ns: 118
+title: Reconstruction:Proto-Germanic/tunþuz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*h₃dn̥t-}}, from {{m|ine-pro|*h₃dónts|t=tooth}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtun.θuz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{lb|gem-pro|anatomy}} [[tooth]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*tunþskaz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*tanþs}}
+
+  ====Descendants====
+  * {{desc|got|𐍄𐌿𐌽𐌸𐌿𐍃}}

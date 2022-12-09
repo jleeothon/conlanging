@@ -1,0 +1,51 @@
+pageid: 7343186
+ns: 118
+title: Reconstruction:Proto-Germanic/hnajjijaną
+wikitext: |-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*hnajjaną}}
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/xnɑj.ji.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[neigh]]
+
+  ====Inflection====
+  {{gem-conj-wk1|hnajj|j=ij}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*gahnajjijaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*hnaiijan|*hnaijan|*hnaigijan}}
+  ** {{desc|ang|hnǣgan}}
+  *** {{desc|enm|neighen|neyen|neȝen|neiȝen}}
+  **** {{desc|en|neigh}}
+  **** {{desc|sco|neche|nech|neich}}
+  ** {{desc|osx|*hnēgian|*hnēhian}}
+  *** {{desc|gml|nêigen|nigen|nîhen|nîhahen|nihagen|nyhan|nyhagen|nêien}}
+  **** {{desc|nds|nöjen}} {{q|Westphalian}}
+  *** {{desc|osx|tōhnēgian|der=1}}
+  ** {{desc|odt|*hneien}}
+  *** {{desc|dum|neyen|neien}}
+  **** {{desc|nl|neien}}
+  ** {{desc|goh|*neijen|*neigen}}
+  *** {{desc|gmh|*neigen|negen}}
+  * {{desc|non|hneggja}}; {{l|non|gneggja}} (< {{l|gem-pro|*gahnajjijaną}})
+  ** {{desc|is|hneggja|gneggja}}
+  ** {{desc|no|-}}
+  *** {{desc|nb|knegga}}
+  *** {{desc|nn|knegga}}
+  ** {{desc|gmq-osw|gnæggia}}
+  *** {{desc|sv|gnägga|gnäggia}}
+  ** {{desc|da|gnægge}}

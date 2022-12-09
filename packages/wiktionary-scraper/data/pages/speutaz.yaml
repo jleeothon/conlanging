@@ -1,0 +1,73 @@
+pageid: 5878429
+ns: 118
+title: Reconstruction:Proto-Germanic/speutaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{q|Northern}} {{alter|gem-pro|*speutą}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*spewd-||to press; urge; hurry}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈspeu̯.tɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{lb|gem-pro|West Germanic}}{{topics|gem-pro|Tools|Weapons}} [[spear]]
+
+  #: {{syn|gem-pro|*angô|*darōþuz|*frankô|*gaizaz|*speru}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*speut}}
+
+  ** {{desc|osx|spiot|g=m}}
+
+  *** {{desc|gml|spêt}}
+
+  ** {{desc|odt|*spiot}}
+
+  *** {{desc|dum|spiet|g=m}}
+
+  ** {{desc|goh|spioz|g=m}}
+
+  *** {{desc|gmh|spiez}}
+
+  **** {{desc|de|Spieß}}
+
+  **** {{desc|bor=1|gml|spitz|spies|spis}}
+
+  ***** {{desc|fi|peitsi|bor=1}}
+
+  **** {{desc|bor=1|dum|spietse|spiesse|spesse}}
+
+  ***** {{desc|nl|spies}}
+
+  ** {{desc|bor=1|LL.|speutum|speudum}}
+
+  *** {{desc|fro|espiet|espet|espie|espoit|espoi}} {{q|also possibly from
+  {{cog|non|spjót}}}}
+
+  **** {{desc|fr|épieu}}
+
+  **** {{desc|bor=1|it|spiedo|spiede}}

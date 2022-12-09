@@ -1,0 +1,29 @@
+pageid: 2863914
+ns: 118
+title: Reconstruction:Proto-Germanic/sweglō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsweɣ.lɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{topics|gem-pro|Musical instruments}} [[flute]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*sweglōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*sweglu}}
+  * {{desc|got|*𐍃𐍅𐌹𐌲𐌻𐌰}}
+  * {{desc|fiu-fin-pro||alt=*šuilu|bor=1|unc=1}}
+  ** {{desc|fi|huilu}}

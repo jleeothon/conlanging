@@ -1,0 +1,26 @@
+pageid: 7315339
+ns: 118
+title: Reconstruction:Proto-Germanic/raginōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*raginą|*ōną|t1=advice}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈrɑ.ɣi.nɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[advise]], give [[counsel]]
+  # to [[order]], [[rule]]
+
+  ====Inflection====
+  {{gem-conj-wk2|ragin}}
+
+  ====Descendants====
+  * {{desc|ang|reġnian|rēnian}}
+  ** {{desc|enm|rēnen}}
+  * {{desc|got|𐍂𐌰𐌲𐌹𐌽𐍉𐌽}}

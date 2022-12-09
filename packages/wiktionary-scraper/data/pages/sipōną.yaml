@@ -1,0 +1,35 @@
+pageid: 7299215
+ns: 118
+title: Reconstruction:Proto-Germanic/sipōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*seyb-|t=to pour, leak, trickle}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsi.pɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[drop]], [[fall]], [[drip]], [[trickle]]
+
+  ====Conjugation====
+  {{gem-conj-wk2|sip}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sīpaną}}
+  * {{l|gem-pro|*siprōną}}
+
+  ====Descendants====
+  * {{desc|ang|sipian|sypian}}
+  ** {{desc|enm|sippen|unc=1}}
+  *** {{desc|en|sip}}
+  *** {{desc|sco|sip}}
+  * {{desc|osx|*sipōn}}
+  ** {{desc|gml|sipen|sypen}}
+  *** {{desc|nds-de|sipen|sippen}}
+  * {{desc|goh|*sipfōn|*siffōn}}
+  ** {{desc|gmh|siffen}}

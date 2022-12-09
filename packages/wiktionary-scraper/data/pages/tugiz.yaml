@@ -1,0 +1,24 @@
+pageid: 5673117
+ns: 118
+title: Reconstruction:Proto-Germanic/tugiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dewk-}}
+  An action noun derived from {{m|gem-pro|*teuhaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtu.ɣiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # a [[drawing]], [[tug]], [[pull]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*tugi}}

@@ -1,0 +1,27 @@
+pageid: 4991836
+ns: 118
+title: Reconstruction:Proto-Germanic/aldijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*aldaz|t1=old|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑl.di.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to make [[old]]
+  # to [[delay]]
+
+  ====Inflection====
+  {{gem-conj-wk1|ald|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*aldijan}}
+  * {{desc|non|elda|eldask}}
+  ** {{desc|is|elda|eldast}}
+  ** {{desc|fo|elda|eldast}}

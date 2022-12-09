@@ -1,0 +1,48 @@
+pageid: 5956251
+ns: 118
+title: Reconstruction:Proto-Germanic/ganzô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*ǵʰh₂éns||goose}}; see {{m|gem-pro|*gans}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣɑn.zɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topics|gem-pro|Anatids}} [[gander]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*gansiz}}
+  * {{l|gem-pro|*ganatuz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*ganʀō}}
+  ** {{desc|ang|ganra|gandra}}
+  *** {{desc|enm|ganer|gandre|gandere}}
+  **** {{desc|sco|ganare|ganer|ganner}}
+  **** {{desc|en|gander}}
+  ** {{desc|ofs|*ganra|*gonra|*gandra|*gondra}}
+  *** {{desc|stq|Gant|Gont}}
+  *** {{desc|fy|goarre}}
+  ** {{desc|osx|*ganro}}
+  *** {{desc|gml|ganre}}
+  **** {{desc|nds-de|Ganner|Gander}}
+  ** {{desc|nl|gander}} (possibly borrowed from Low German or English)
+  ** {{desc|goh|ganzo|unc=1}}
+  *** {{desc|gmh|ganze|ganse}}; {{l|gmh|ganzer}}, {{l|gmh|ganser}}
+  **** {{desc|de|Ganter}}; {{l|de|Ganser}}
+  * {{desc|non|gassi|der=1}} {{i|< {{l|gem-pro|*ganssô}}}}
+  ** {{desc|is|gassi}}
+  ** {{desc|nb|gasse}}
+  ** {{desc|nn|gasse}}
+  ** {{desc|da|gase}}
+  ** {{desc|sv|gasse}}
+  ** {{desc|gmq-scy|gáse}}

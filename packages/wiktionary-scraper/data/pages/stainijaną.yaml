@@ -1,0 +1,32 @@
+pageid: 8179577
+ns: 118
+title: Reconstruction:Proto-Germanic/stainijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*stainaz|t1=stone|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɑi̯.ni.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # To [[stone]], to [[pelt]] with [[stones]]
+
+  ====Inflection====
+  {{gem-conj-wk1|stain|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*stainijan}}
+  * {{desc|non|*steina}}
+  ** {{desc|fo|steina}}
+  ** {{desc|is|steina}}
+  ** {{desc|no|-}}
+  **: {{desc|nb|steine}}, {{l|nn|stene}}
+  **: {{desc|nn|steine}}, {{l|nn|steina}}
+  ** {{desc|sv|stena}}
+  ** {{desc|da|stene}}
+  * {{desc|got|𐍃𐍄𐌰𐌹𐌽𐌾𐌰𐌽}}

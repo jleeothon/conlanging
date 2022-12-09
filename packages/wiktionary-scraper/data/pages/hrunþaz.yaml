@@ -1,0 +1,71 @@
+pageid: 5189442
+ns: 118
+title: Reconstruction:Proto-Germanic/hrunþaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*hrundaz}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ḱerh₂-}}
+
+  Zero-grade variant of {{m|gem-pro|*hrinþaz}}, from
+  {{der|gem-pro|ine-pro|*ḱerh₂-||summit; peak; top; head; horn}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxrun.θɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # A [[horned]] [[beast]], as in a [[neat]] or [[ox]] ({{alternative form
+  of|gem-pro|*hrinþaz|nocap=1}})
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|stem=z}}
+
+
+  ====Related terms====
+
+  {{rel2|gem-pro|*hersô|*herznô|*hurną|*hurznutō}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|hrūþ}}; {{l|ang|hrūþer}}, {{l|ang|hrȳþer}}
+
+  ** {{desc|enm|rither}} {{i|coalesced with descendant of
+  {{l|gem-pro|*hrinþaz}}}}; {{l|enm|rether}}, {{l|enm|reother}},
+  {{l|enm|rother}}, {{l|enm|ruther}}, {{l|enm|rodder}}, {{l|enm|rudder}}
+
+  *** {{desc|en|rother}}
+
+  * {{desc|ofs|hrēther|reder}}
+
+  ** {{desc|frr|redder}}
+
+  ** {{desc|stq|Räier}}
+
+  * {{desc|osx|*hrunth|*hrund}}
+
+  ** {{desc|gml|runt|ront}}
+
+  * {{desc|odt|*hrunth|*hrund|*rund}}
+
+  ** {{desc|dum|runt|ront}}
+
+  *** {{desc|nl|rund}}

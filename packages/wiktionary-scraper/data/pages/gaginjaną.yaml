@@ -1,0 +1,52 @@
+pageid: 7756926
+ns: 118
+title: Reconstruction:Proto-Germanic/gaginjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative reconstructions===
+  * {{l|gem-pro|*gagnijaną}}<ref>{{R:gem:HGE|head=*gagnjanan|page=122}}</ref>
+
+  ===Etymology===
+  From {{affix|gem-pro|*gagin|t1=towards, against|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣɑ.ɣin.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # To [[go]] [[against]]
+  # To [[meet]], to [[encounter]]
+
+  ====Inflection====
+  {{gem-conj-wk1|gagin|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*gaganōną}}/{{l|gem-pro|*gaginōną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*gaginijan}}
+  ** {{desc|ang|ġieġnan|ġīnan|ġȳnan}}
+  ** {{desc|osx|geginian}}
+  *** {{desc|gml|gēgenen}}
+  **** {{desc|gml|begēgenen|bejēgenen|der=1}}
+  **** {{desc|nds-de|begegen}}
+  ** {{desc|odt|*jegenen|*gegenen}}
+  *** {{desc|dum|jēgenen}}
+  **** {{desc|dum|bejēgenen|der=1}}
+  ***** {{desc|nl|bejegenen}}
+  ** {{desc|goh|geginen}}
+  *** {{desc|gmh|gegenen}}
+  *** {{desc|goh|bigaganen|der=1}}
+  **** {{desc|gmh|begegenen}}
+  ***** {{desc|de|begegnen}}
+  * {{desc|non|gegna}}
+  ** {{desc|is|gegna}}
+  ** {{desc|enm|geȝȝnen|geinen|geynen|gaynen|gainen|bor=1}}
+  *** {{desc|en|gain}}
+  *** {{desc|sco|gain|t=to be fitting or suitable}}
+
+  ===References===
+  <references/>

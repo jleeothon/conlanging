@@ -1,0 +1,33 @@
+pageid: 4486330
+ns: 118
+title: Reconstruction:Proto-Germanic/gangiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰengʰ-}}
+  A verbal adjective derived from {{m|gem-pro|*ganganą||to go}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣɑŋ.ɡiz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[passable]], [[going]], able to go
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*gangī}}
+  * {{desc|non|gengr}}
+  ** {{desc|is|gengur}}
+  ** {{desc|fo|gongdur}} (remodelled from neuter {{m|fo||gongt}})
+  ** {{desc|gmq-osw|gænger}}
+  *** {{desc|sv|gäng|gänge}} (the latter under influence from Middle Low German)
+  **** {{desc|fi|jengi|bor=1}}
+
+  ====Further reading====
+  * {{R:gem:EDPG}}

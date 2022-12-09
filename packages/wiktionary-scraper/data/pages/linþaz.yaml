@@ -1,0 +1,108 @@
+pageid: 6354101
+ns: 118
+title: Reconstruction:Proto-Germanic/linþaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From
+  {{inh|gem-pro|ine-pro|*lent-|*lént-o-s}}.<ref>{{R:ine:IEW|head=lento-|pages=667|volume=II}}</ref><ref>{{R:gem:EDPG|head=*linþa-|page=339}}</ref><ref>{{R:itc:EDL|head=lentus|page=335}}</ref>
+  Cognate with {{cog|la|lentus||flexible, sticky}}, {{cog|lt|lentà||board}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈlin.θɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[bendsome]]; [[flexible]]
+
+  # [[pliable]]; [[supple]]
+
+  # [[weak]]; [[soft]]; [[mild]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Alternative forms====
+
+  * {{alter|gem-pro|*linþijaz}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*galinþijaz}}
+
+  ** {{desc|gmw-pro|*galinþī}}
+
+  *** {{desc|osx|*gilīthi}}
+
+  **** {{desc|gml|gelinde}} {{q|possibly borrowed from High German}}
+
+  ***** {{desc|nds-de|gelinde}}
+
+  ***** {{desc|pdt|jelind}}
+
+  *** {{desc|goh|gilindi}}
+
+  **** {{desc|gmh|gelinde}}
+
+  ***** {{desc|de|gelinde}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*linþ(ī)}}
+
+  * {{desc|non|*linnr}}
+
+  ** {{desc|nn|linn}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref>{{R:gem:HGE|head=*lenþaz I|page=241}}</ref>
+
+
+  # {{senseid|gem-pro|snake}}{{topic|gem-pro|Snakes}} [[serpent]]; [[snake]]
+
+  #: {{syn|gem-pro|*agiz|*nadraz|*nadrǭ|*slangô|*snakô|*wurmiz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  *
+  {{l|gem-pro|*linþawurmiz}}<ref>{{R:gem:HGE|head=*lenþa-wurmaz|page=241}}</ref>
+
+
+  ====Descendants====
+
+  * {{desc|goh|lind}}
+
+  ** {{desc|gmh|lint}}
+
+  * {{desc|non|linnr|linni}}
+
+  ** {{desc|is|linnur}}
+
+
+  ===References===
+
+  <references />

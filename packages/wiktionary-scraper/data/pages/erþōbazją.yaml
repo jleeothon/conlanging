@@ -1,0 +1,31 @@
+pageid: 4043867
+ns: 118
+title: Reconstruction:Proto-Germanic/erþōbazją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*erþō||earth}} + {{m|gem-pro|*bazją||berry}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈer.θɔː.bɑz.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[strawberry]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*erþubaʀi}}
+  * {{desc|non|jarðber}}
+  ** {{desc|is|jarðarber}}
+  ** {{desc|fo|jarðber}}
+  ** {{desc|nn|jordber|jordbær|;|jardabær<q:dialectal>|jardbær}}
+  ** {{desc|gmq-bot|jolber}}
+  ** {{desc|sv|jordbär}} {{q|archaic}}
+  ** {{desc|da|jordbær}}
+  *** {{desc|nb|jordbær}}

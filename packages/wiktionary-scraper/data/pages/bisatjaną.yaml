@@ -1,0 +1,42 @@
+pageid: 6081004
+ns: 118
+title: Reconstruction:Proto-Germanic/bisatjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*bi|*satjaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌbi.ˈsɑt.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[occupy]], [[fill]]
+
+  ====Inflection====
+  {{gem-conj-wk1|bisat|j=j}}
+
+  ====Descendants====
+  * {{desc|ang|besettan}}
+  ** {{desc|enm|besetten|bisetten}}
+  *** {{desc|en|beset}}
+  *** {{desc|sco|besett|beset}}
+  * {{desc|ofs|bisetta}}
+  ** {{desc|stq|besätte}}
+  ** {{desc|fy|besette}}
+  * {{desc|osx|*bisettian}}
+  ** {{desc|gml|besetten}}
+  *** {{desc|nds-de|besetten}}
+  *** {{desc|da|besætte|bor=1}}
+  *** {{desc|sv|besätta|bor=1}}
+  *** {{desc|no|besette|bor=1}}
+  * {{desc|odt|bisetten}}
+  ** {{desc|dum|besetten}}
+  *** {{desc|nl|bezetten}}
+  * {{desc|goh|bisezzen}}
+  ** {{desc|gmh|besetzen}}
+  *** {{desc|de|besetzen}}
+  * {{desc|got|𐌱𐌹𐍃𐌰𐍄𐌾𐌰𐌽}}

@@ -1,0 +1,31 @@
+pageid: 6895754
+ns: 118
+title: Reconstruction:Proto-Germanic/anabūsniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰewdʰ-}}
+  From {{prefix|gem-pro|*ana|*būsniz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɑ.nɑ.ˈbuːs.niz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[commandment]]
+  # [[precept]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*anabeudaną}}
+
+  ====Descendants====
+  * {{desc|osx|ambusan}}
+  * {{desc|got|𐌰𐌽𐌰𐌱𐌿𐍃𐌽𐍃}}
+
+  [[Category:gem-pro:Directives]]

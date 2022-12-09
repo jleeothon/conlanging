@@ -1,0 +1,25 @@
+pageid: 4016300
+ns: 118
+title: Reconstruction:Proto-Germanic/dulją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*dʰel-||curvature, hollow, bend}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdul.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[tube]], [[pipe]]
+  #: {{syn|gem-pro|*falhuz}}
+  # {{topics|gem-pro|Tools}} [[nozzle]], [[spout]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*duli}}

@@ -1,0 +1,38 @@
+pageid: 4312899
+ns: 118
+title: Reconstruction:Proto-Germanic/rēsō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*h₁reh₁s-||to flow, rush}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈrɛː.sɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[running]]
+  # a [[course]]
+  # a [[rush]] (of water)
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*rēsijaną}}
+  * {{l|gem-pro|*rēsōną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*rastō}} {{q|possibly}}
+
+  ====Descendants====
+  * {{desc|ang|ræs|alt=rǣs}}
+  ** {{desc|enm|ræse|rese|resse|res}}
+  *** {{desc|sco|rese|res|reas|reace}}
+  * {{desc|osx|*rasa|alt=*rāsa}}
+  ** {{desc|gml|ras|alt=râs}}
+  * {{desc|nl|ras|t=whirlpool, eddy, vortex}}
+  * {{desctree|non|rás}}

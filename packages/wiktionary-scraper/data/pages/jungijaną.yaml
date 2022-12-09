@@ -1,0 +1,31 @@
+pageid: 8795780
+ns: 118
+title: Reconstruction:Proto-Germanic/jungijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*jungaz|*-janą|t1=young}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈjuŋ.ɡi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to make [[young]]
+  # to [[revitalize]]
+
+  ====Inflection====
+  {{gem-conj-wk1|jung|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*jungijan}}
+  * {{desc|non|*yngja}}
+  ** {{desc|is|yngja}}
+  ** {{desc|fo|yngja}}
+  ** {{desc|nn|yngja}}
+  ** {{desc|nb|ynge}}
+  ** {{desc|sv|ynga}}
+  ** {{desc|da|ynges}}, {{desc|da|forynge|der=1|nolb=1}}

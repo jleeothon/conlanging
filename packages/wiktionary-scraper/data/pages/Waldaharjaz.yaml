@@ -1,0 +1,70 @@
+pageid: 7209130
+ns: 118
+title: Reconstruction:Proto-Germanic/Waldaharjaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₂welh₁-|*ker-|id=rule}}
+
+  From {{m|gem-pro|*waldaz}} or {{compound|gem-pro|*waldą|*harjaz}}. Compare
+  {{m|gem-pro|*Harjawaldaz}}, composed of the same elements but in the reverse
+  order.
+
+
+  ===Proper noun===
+
+  {{gem-proper noun|m}}
+
+
+  # {{given name|gem-pro|male}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|nopl=1}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*Waldahari}}
+
+  ** {{desc|ang|Waldhere}}
+
+  ** {{desc|odt|*Waldheri}}
+
+  *** {{desc|dum|}}
+
+  **** {{desc|nl|Wouter}}
+
+  ** {{desc|ONF.|Waltier|bor=1}}
+
+  *** {{desc|en|Walter|bor=1}}
+
+  *** {{desc|fr|Gauthier|Gautier}}
+
+  *** {{desc|it|Gualtiero|bor=1}}
+
+  *** {{desc|es|Gutierre|bor=1}}
+
+  *** {{desc|gl|Guterre|bor=1}}
+
+  ** {{desctree|goh|Waltheri}}
+
+  * {{desc|non|Valdarr}}
+
+  ** {{desc|is|Valdar}}
+
+  ** {{desc|no|-}} {{l|nn|Valdar}}
+
+  ** {{desc|da|Valdar}}
+
+  * {{desc|la|Gualterius|bor=1}}
+
+  ** {{desc|pt|Gualtério}}
+
+  ** {{desc|es|Gualtério}}

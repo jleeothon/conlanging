@@ -1,0 +1,30 @@
+pageid: 6094240
+ns: 118
+title: Reconstruction:Proto-Germanic/biþankijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*bi|*þankijaną|pos=verb}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[think up]], [[bethink]]
+
+  ====Inflection====
+  {{gem-conj-wk1-j|biþank|nopass=1|j=ij}}
+
+  ====Descendants====
+  * {{desc|ang|beþenċan|biþenċan}}
+  ** {{desc|enm|bithenchen|bethenken}}
+  *** {{desc|en|bethink}}
+  * {{desc|ofs|bithanka}}
+  * {{desc|odt|*bithenkon|*bithenkan}}
+  ** {{desc|dum|bedenken}}
+  *** {{desc|nl|bedenken}}
+  * {{desc|goh|pidenchan}}
+  ** {{desc|gmh|bedenken}}
+  *** {{desc|de|bedenken}}
+  * {{desc|got|𐌱𐌹𐌸𐌰𐌲𐌺𐌾𐌰𐌽}}

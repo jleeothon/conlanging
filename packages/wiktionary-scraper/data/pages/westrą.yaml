@@ -1,0 +1,59 @@
+pageid: 3424506
+ns: 118
+title: Reconstruction:Proto-Germanic/westrą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*westraz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwes.trɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[west]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|ang|west}}
+  * {{desc|ofs|*west}}
+  ** {{desc|stq|Wääste}}
+  ** {{desc|fy|westen|west}}
+  * {{desc|odt|*west}}
+  ** {{desc|nl|west|westen}}
+  * {{desc|goh|west}}
+  ** {{desc|de|West|Westen}}
+  * {{desctree|non|vestr}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/wes.trɑ̃/}}
+
+  ===Adverb===
+  {{gem-adv|*westrōz|*westrōst}}
+
+  # [[west]], [[westward]]
+
+  ====See also====
+  * {{l|gem-pro|*austrą}}
+  * {{l|gem-pro|*nurþrą}}
+  * {{l|gem-pro|*sunþrą}}
+
+  ====Descendants====
+  * {{desc|ang|west}}
+  ** {{desc|en|west}}
+  * {{desc|goh|westar}}
+  ** {{desc|gmh|wester}}
+  * {{desc|non|vestr}}
+  ** {{desc|is|vestur}}
+  ** {{desc|fo|vestur}}
+  ** {{desc|no|vest}}
+  ** {{desc|da|vest}}
+  ** {{desc|gmq-osw|væster}}
+  *** {{desc|sv|väster}}
+
+  {{topics|gem-pro|Compass points}}

@@ -1,0 +1,80 @@
+pageid: 3627401
+ns: 118
+title: Reconstruction:Proto-Germanic/hwistlōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ḱwey-}}
+
+  From {{m|gem-pro|*hwis-||to hiss}}, from {{der|gem-pro|ine-pro|*ḱweys-}},
+  {{m|ine-pro|*ḱwey-||to hiss, whistle, whisper}}. Cognate with
+  {{cog|la|quiritō||scream, screech, shriek, squall}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxʷist.lɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[whistle]], [[hiss]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|nopass=1|hwistl}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*hwaistrijaną}}
+
+  * {{l|gem-pro|*hwīskrōną}}
+
+  * {{l|gem-pro|*hwisplōną}}
+
+  * {{l|gem-pro|*hwisprōną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|hwistlian}}
+
+  ** {{desc|enm|whistlen}}
+
+  *** {{desc|sco|whistle}}
+
+  *** {{desc|en|whistle}}
+
+  * {{desc|odt|*wistalon}}
+
+  ** {{desc|dum|*wistelen}}
+
+  *** {{desc|nl|wistelen}}
+
+  * {{desc|non|hvísla}}
+
+  ** {{desc|is|hvísla}}
+
+  ** {{desc|no|hvisle}}
+
+  ** {{desc|gmq-osw|hvisla|alt=hvīsla|hvizsla}}
+
+  *** {{desc|sv|vissla}}
+
+  ** {{desc|gmq-oda|hwislæ|alt=hwīslæ}}
+
+  *** {{desc|da|hvisle}}
+
+  ** {{desc|ovd|wissla}}
+
+  ** {{desc|gmq-scy|hvysla}}

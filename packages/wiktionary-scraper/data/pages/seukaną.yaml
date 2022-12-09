@@ -1,0 +1,63 @@
+pageid: 2948636
+ns: 118
+title: Reconstruction:Proto-Germanic/seukaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro|Uncertain}}. Assuming that {{m+|gem-pro||*seuk-}} is back-formed
+  from the zero-grade in {{m|gem-pro|*sukkōną|id=slow}}, Kroonen reconstructs a
+  {{pre-Germanic}} {{m|ine-pro||*sk-néh₂-}} and compares {{cog|la|sēgnis|t=lazy,
+  slow}}, {{cog|grc|ἦκα|t=quietly, slowly}}, and
+  {{cog|sga|socht|t=silence}},<ref>{{R:gem:EDPG|*suk(k)ōn-|page=491}}</ref> but
+  a precise Proto-Indo-European root for these words is lacking. 
+
+
+  Pokorny suggests {{der|gem-pro|ine-pro|*sewg-|*sewg-, *sēwg-|t=ill, grievous,
+  sad}},<ref name=pokorny>{{R:ine:IEW|915}}</ref> also adding
+  {{cog|xcl|հիւծանիմ|t=to waste away, wither}}, but Kroonen rejects comparisons
+  with the Armenian word.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈseu̯.kɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name=Kroonen>{{R:gem:EDPG|*seukan-|page=434}}</ref>
+
+
+  # {{lb|gem-pro|East Germanic}}{{topics|gem-pro|Health}} to be [[sick]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=2|nopass=1|seuk|sauk|suk|suk}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*sukkōną|*suk(k)ōną|id=slow}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*seukaz}}
+
+  * {{l|gem-pro|*suhtiz}}
+
+
+  ====Descendants====
+
+  * {{desc|got|𐍃𐌹𐌿𐌺𐌰𐌽}}
+
+
+  ===References===
+
+  <references/>

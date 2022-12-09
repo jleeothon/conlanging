@@ -1,0 +1,57 @@
+pageid: 4558083
+ns: 118
+title: Reconstruction:Proto-Germanic/drugą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dʰrewgʰ-|id=deceive}}
+  From {{m|gem-pro|*dreuganą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdru.ɣɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{lb|gem-pro|West Germanic}} [[delusion]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*bidrugą}}
+  ** {{desc|ofs|*bedroch}}
+  *** {{desc|stq|Bedroach}}
+  *** {{desc|fy|bedroch}}
+  ** {{desc|osx|bedrog}}
+  *** {{desc|gml|bedroch}}, {{l|gml|bedrêch}}
+  **** Westphalian:
+  ****: Ravensbergisch-Lippisch: {{l|nds|Bedräuch}}
+  ****: Westmünsterländisch: {{l|nds|Bedrugg}}
+  **** {{desc|pdt|Bedrach}}
+  ** {{desc|odt|*bidrog}}
+  *** {{desc|dum|bedroch}}
+  **** {{desc|nl|bedrog}}
+  ** {{desc|goh|bitrog}}, {{l|goh|bitroc}}
+  *** {{desc|gmh|betroc}}
+  **** {{desc|de|Betrug}} {{i|influenced by {{m|de|Trug}}}}
+  * {{l|gem-pro|*gadrugą}}
+  ** {{desctree|osx|gidrog}}
+  ** {{desc|odt|*gidrog}}
+  *** {{desc|dum|gedroch}}
+
+  ====Related terms====
+  * {{l|gem-pro|*draugaz}}
+
+  ====Descendants====
+  * {{desc|osx|*drog}}
+  ** {{desc|gml|droch}}
+  *** Westphalian:
+  ***: Suerländer-Märkisch: {{l|nds|Drǫg}}
+  * {{desc|odt|*drog}}
+  ** {{desc|dum|droch}}
+  *** {{desc|nl|drogreden|der=1}}
+  *** {{desc|nl|droggrond|der=1}}
+  *** {{desc|nl|droglicht|der=1}}

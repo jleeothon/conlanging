@@ -1,0 +1,25 @@
+pageid: 6018927
+ns: 118
+title: Reconstruction:Proto-Germanic/wigô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weyk-|id=contain}}
+  Derived from {{m|gem-pro|*wiganą|*wihaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwi.ɣɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[fighter]], [[warrior]]; he who fights or contends
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|ang|wiga}}
+  * {{desc|goh|widarwīgo}} (analogical if actually long)

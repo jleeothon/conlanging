@@ -1,0 +1,29 @@
+pageid: 4070544
+ns: 118
+title: Reconstruction:Proto-Germanic/westrōnijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*westraz|*ōnijaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwes.trɔː.ni.jɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[western]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|westrōn|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|}}
+  ** {{desc|ang|westerne}}
+  *** {{desc|en|western}}
+  ** {{desc|osx|westrōni}}
+  ** {{desc|goh|westrōni}}
+  * {{desc|gmq-pro|}}
+  ** {{desctree|non|vestrǿnn}}

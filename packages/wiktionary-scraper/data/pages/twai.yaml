@@ -1,0 +1,90 @@
+pageid: 3351340
+ns: 118
+title: Reconstruction:Proto-Germanic/twai
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+  {{cardinalbox|gem-pro|1|2|3|*ainaz|*þrīz|ord=*anþeraz|frac=[[*sēmi-]],
+  [[*halbaz]]|opt=Prefix|optx=[[*twi-]], [[*twiz-]]|coll=*bai|mult=*twifalþaz}}
+
+
+  ===Etymology===
+
+  Ultimately from {{inh|gem-pro|ine-pro|*dwóh₁}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/twɑi̯/}}
+
+
+  ===Numeral===
+
+  {{head|gem-pro|numeral}}
+
+
+  # [[two]]
+
+
+  ====Inflection====
+
+  {{gem-decl-num-2}}
+
+
+  The declension of this term can not be completely reconstructed. While the
+  genitive, dative, and instrumental forms agree in all descendants where
+  attested, the nominative forms found in Gothic and Old Norse do not match
+  those found in the West Germanic languages. Some of these forms may preserve
+  relics of the Indo-European dual inflection.
+
+
+  Both the Gothic and Old Norse nominative and accusative forms were re-formed
+  by adding adjective endings to a base stem.
+
+
+  In Gothic:
+
+  * Nominative: tw-ai, tw-ōs, tw-a (based on gōd-ai, gōd-ōs, gōd-a)
+
+  * Accusative: tw-ans, tw-ōs, tw-a (based on gōd-ans, gōd-ōs, gōd-a)
+
+
+  In early Old Norse (before the loss of final -u from the neuter plural):
+
+  * Nominative: *twa-(a)iʀ, *twa(i)-aʀ, *tw(a)-u (based on *gōð-(a)iʀ, *gōð-aʀ,
+  *gōð-u)
+
+  * Accusative: *twa-a, *twa(i)-aʀ, *tw(a)-u (based on *gōð-a, *gōð-aʀ, *gōð-u)
+
+
+  In West Germanic, the masculine form was extended with a suffix containing
+  ''-n-'' of an unknown origin, to which all languages except Old English have
+  added the regular masculine plural ending of adjectives. The feminine form may
+  have been *''twā'', possibly contracted from a variant *''twa-ō(z)'' to which
+  the regular feminine plural ending was added. The Old Saxon and Old High
+  German form ''twō''/''zwō'' must go back to an original *''twō(z)'', however.
+
+
+  The neuter form seems to go back to *''twai'' in all West Germanic languages,
+  except for the alternative Old English form which may have been reanalysed in
+  a similar way to Old Norse. However, as the Gothic script does not indicate
+  vowel length for ''a'', the neuter form may have also been ''twā'', in which
+  case it may descend from an earlier *''twa-ō'', which may descend from an even
+  earlier *''twajō'' in which ''-j-'' was regularly lost in late Proto-Germanic.
+  This ''-ō'' may have been added to the original *''twai'' to create a new form
+  with inflection parallel to the adjectives, which was retained in the ancestor
+  of North and East Germanic while it was lost again in West Germanic.
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*twai-}}
+
+  * {{desctree|non|tveir|g=m}}
+
+  * {{desc|got|𐍄𐍅𐌰𐌹}}
+
+
+  [[Category:Proto-Germanic numerals]]

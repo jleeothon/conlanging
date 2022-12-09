@@ -1,0 +1,62 @@
+pageid: 8290937
+ns: 118
+title: Reconstruction:Proto-Germanic/slakaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*sleg-}}
+
+  Maybe from {{inh|gem-pro|ine-pro|*slogos}}, from the root
+  {{m|ine-pro|*sleg-||to weaken}}.<ref
+  name=kroonen>{{R:gem:EDPG|head=Slaka-}}</ref><ref>{{R:gem:EWGP|head=slaka-|page=506}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈslɑ.kɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[weak]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|slæc}}
+
+  * {{desctree|non|slakr}}
+
+  * {{desctree|osx|slak|t=slack, cowardly}}
+
+  ** {{desc|gml|slak}}
+
+  *** {{desc|nds|slak}}
+
+  **** {{desc|de|schlack|bor=1}} {{q|partially}}
+
+  * {{desctree|dum|slac|t=slack, loose, slow}}
+
+  * {{desctree|goh|slach|t=slack, loose, slow}}
+
+  ** {{desc|gmh|slach}}
+
+  *** {{desc|de|schlack|schlach}}
+
+
+  ===References===
+
+  <references/>

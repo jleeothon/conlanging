@@ -1,0 +1,114 @@
+pageid: 7260682
+ns: 118
+title: Reconstruction:Proto-Germanic/suppǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*sewH-|t=wetness, moisture, rain; juice, sap,
+  flow}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsup.pɔ̃ː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[soup]], [[broth]]
+
+  # [[sop]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*suppōną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*suflą}}
+
+  * {{l|gem-pro|*sūkaną}}/{{l|gem-pro|*sūganą}}
+
+  * {{l|gem-pro|*sūpaną}}
+
+  * {{l|gem-pro|*supô}}
+
+  * {{l|gem-pro|*supiz}}
+
+  * {{l|gem-pro|*suppą}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|soppe}}
+
+  ** {{desc|enm|soppe|sop}}
+
+  *** {{desc|en|sop}}
+
+  *** {{desc|sco|sop|sap}}
+
+  * {{desc|ofs|*soppe}}
+
+  ** {{desc|stq|Soppe}}
+
+  ** {{desc|fy|sop}}
+
+  * {{desc|osx|suppa|*soppa}}
+
+  ** {{desc|gml|suppe|soppe}}
+
+  *** {{desc|nds-de|Sopp}}
+
+  * {{desc|frk|*suppa|*soppa}}
+
+  ** {{desc|odt|*suppa|*soppa}}
+
+  *** {{desc|dum|soppe}}
+
+  **** {{desc|vls|zoppe}}
+
+  ** {{desc|la|suppa|bor=1}} (also possibly from {{m|gem-pro|*suppô}})
+
+  *** {{desc|fro|soppe|souppe|sope}}
+
+  **** {{desc|frm|soupe}}
+
+  ***** {{desc|fr|soupe}}
+
+  ****** {{desc|fa|سوپ|tr=sup|bor=1}}
+
+  **** {{desc|enm|soupe|bor=1}}
+
+  ***** {{desc|en|soup}}
+
+  ****** {{desc|nl|soep|bor=1}}
+
+  *** {{desc|gl|sopa}}
+
+  *** {{desc|lmo|süpa}}
+
+  *** {{desc|pt|sopa}}
+
+  *** {{desc|es|sopa}}
+
+  * {{desc|goh|supfa|suppa|*soppa|*sopfa}}
+
+  ** {{desc|gmh|suffe|suppe|soppe|sopfe}}
+
+  *** {{desc|de|Supfe}} {{q|archaic}}, {{l|de|Suppe}}

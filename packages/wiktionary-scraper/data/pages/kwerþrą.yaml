@@ -1,0 +1,77 @@
+pageid: 4898508
+ns: 118
+title: Reconstruction:Proto-Germanic/kwerþrą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkʷer.θrɑ̃/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*gʷerh₃-}}
+
+  From Pre-Germanic {{m|ine-pro||*gʷérh₃trom}}, from
+  {{der|gem-pro|ine-pro|*gʷerh₃-||to devour}}.
+
+
+  ====Noun====
+
+  {{gem-noun|n}}
+
+
+  # [[bait]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desc|goh|querdar}}
+
+  ** {{desc|gmh|querder}}
+
+  *** {{desc|de|Köder}}
+
+
+  ===Etymology 2===
+
+  From Pre-Germanic {{m|ine-pro||*gʷértrom}}, from
+  {{der|gem-pro|ine-pro|*gʷer-||to cut up, off}}. Compare
+  {{cog|hit|𒆪𒅕||tr=ku-er|to cut up}}, although Kloekhorst reconstructs a
+  different root.
+
+
+  ====Noun====
+
+  {{gem-noun|n}}
+
+
+  # [[cut]], cut off [[piece]], [[edge]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desc|gml|querder|querdel|korder}}
+
+  * {{desc|goh|querdar}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}, page 212
+
+  * {{Template:R:ine:Kloekhorst2008|486-487}}

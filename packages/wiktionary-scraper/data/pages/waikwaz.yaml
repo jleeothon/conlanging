@@ -1,0 +1,39 @@
+pageid: 2831547
+ns: 118
+title: Reconstruction:Proto-Germanic/waikwaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*wīkwaną||to yield, to fold}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑi̯.kʷɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[weak]], [[soft]], [[pliable]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|waikw}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*waikwijaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*waikw}}
+  * {{desc|non|veykr|veikr}}
+  ** {{desc|is|veikur}}
+  ** {{desc|fo|veikur}}
+  ** {{desc|nrn|vek}}
+  ** {{desc|no|veik}}
+  ** {{desc|gmq-osw|veker|alt=vēker}}
+  *** {{desc|sv|vek}}
+  ** {{desc|da|veg}}
+  ** {{desc|gmq-gut|vaik}}
+  ** {{desc|gmq-bot|vaik}}
+  ** {{desc|bor=1|enm|weik|waik}}
+  *** {{desc|en|weak}}
+  *** {{desc|sco|wak|wake|waik}} (conflated with native forms)

@@ -1,0 +1,29 @@
+pageid: 7454615
+ns: 118
+title: Reconstruction:Proto-Germanic/abundiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*abunstiz|*abandiz|*abanstiz}}
+
+  ===Etymology===
+  Possibly from {{af|gem-pro|*aba-|*undiz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑβun.diz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[envy]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*abunsti}}
+  * {{desctree|non|ǫfund}}
+
+  [[Category:gem-pro:Emotions]]

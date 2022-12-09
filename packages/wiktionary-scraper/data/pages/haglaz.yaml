@@ -1,0 +1,102 @@
+pageid: 487729
+ns: 118
+title: Reconstruction:Proto-Germanic/haglaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}. Traditionally compared to {{cog|grc|κόχλαξ}},
+  {{m|grc|κάχληξ||pebble(s), small stone(s), gravel (in a riverbed)}} which
+  would point to {{der|gem-pro|ine-pro||*kagʰl-|pebble}}. Beekes instead asserts
+  that the Greek is of {{glossary|substrate}} origin, on the basis of its
+  irregular variation and the suffix {{m|grc||-ακ-}}.<ref
+  name="EDPG"/><ref>{{R:grc:EDG|head=κάχληξ, -ηκος|page=660}}</ref>
+  Alternatively, {{m|gem-pro||*haglaz}} may be:
+
+  * From pre-Germanic {{m|ine-pro||*ḱo-ḱl(h₁)-ó-m}}, similar to
+  {{m|gem-pro|*hehlǭ||hoarfrost}}, from a reduplication of
+  {{m+|ine-pro|*ḱelh₁-|*ḱel(h₁)-|cold}}, thus similar in formation to
+  {{cog|sa|शिशिर|tr=śíśira|t=cool, cold; hoarfrost}} (perhaps from
+  {{m|ine-pro||*ḱí-ḱl̥h₁-o-}}<ref>{{R:gem:EDPG|head=*hihelōn-|page=226}}</ref>).<ref
+  name="HGE">{{R:gem:HGE|head=*xaʒlan ~ *xaʒlaz|page=150}}</ref>
+
+  * Derived from a verb {{m|gem-pro|*hagōną|*hag(g)ōną|to torment, agonize}}, in
+  view of the {{cog|fo|-}} meaning “pain, inconvenience”.<ref name="EDPG"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑɣ.lɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="EDPG">{{R:gem:EDPG|*hagla-|page=199}}</ref>
+
+
+  # [[hail]] (the precipitation)
+
+  # {{lb|gem-pro|Runic alphabet}} name of the H-rune ([[ᚺ]], [[ᚻ]])
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*haglastainaz||hailstone}}<ref name="HGE"/>
+
+
+  ====Descendants====
+
+  * {{desc|ang|hagol}}; {{l|ang|hæġl}}
+
+  ** {{desc|enm|haul}}; {{desctree|enm|hayle|notext=1|noalts=1}}
+
+  * {{desc|ofs|heil}}
+
+  ** {{desc|stq|Hail}}
+
+  ** {{desc|fy|heil}}
+
+  * {{desctree|osx|hagal}}
+
+  * {{desctree|odt|*hagal}}
+
+  * {{desctree|goh|hagal}}
+
+  * {{desc|non|hagl}}
+
+  ** {{desc|is|hagl}}
+
+  ** {{desc|fo|hagl|høgl|heglingur}}
+
+  ** {{desc|no|hagl}}
+
+  ** {{desc|gmq-osw|haghl}}
+
+  *** {{desc|sv|hagel}}
+
+  ** {{desc|gmq-oda|haghæl}}
+
+  *** {{desc|da|hagl|hagel|havl}}
+
+  ** {{desc|gmq-gut|hagel}}
+
+  * {{desc|en|haglaz|lbor=1}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Runic letter names|sort=H}}
+
+  {{topics|gem-pro|Ice|Weather}}

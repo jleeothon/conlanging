@@ -1,0 +1,77 @@
+pageid: 2424233
+ns: 118
+title: Reconstruction:Proto-Germanic/stelaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  According to Kroonen & Lubotsky (2009), from {{inh|gem-pro|ine-pro|*tsel-||to
+  sneak}} (compare e.g. {{cog|sa|त्सर्}}, {{cog|sgh|се̂рт||to steal, sneak}},
+  {{cog|xcl|սողիմ||to creep, to steal}}). The supposed metathesis ''*ts'' >
+  ''*st'' has no exact parallels, but a similar development appears in
+  {{m|gem-pro|*spenô||nipple}}, from {{cog|ine-pro|*pstḗn||breast}}. Numerous
+  other etymologies with semantic or phonetic difficulties have been earlier
+  proposed as well.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈste.lɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[steal]]
+
+  # to [[sneak]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=4|stel|stal|stēl|stul}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*hlefaną}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*stuldiz}}
+
+  * {{l|gem-pro|*stulraz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*stalōną}}
+
+  * {{l|gem-pro|*stullōną}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*stelan}}
+
+  * {{desctree|non|stela}}
+
+  * {{desc|got|𐍃𐍄𐌹𐌻𐌰𐌽}}
+
+  * {{desc|xvn|*stel-}}
+
+
+  ===References===
+
+  * {{cite-journal|last=Kroonen|first=Guus|coauthors=Lubotsky,
+  Alexander|title=Proto-Indo-European ''*tsel-'' 'to sneak' and Germanic
+  ''*stelan-'' 'to steal, approach
+  stealthily'|url=http://info.filg.uj.edu.pl/zhjij/sec/contents.php?by=details&cite=KroonenLubotsky09|journal=Studia
+  Etymologica Cracoviensia|volume=14|year=2009}}

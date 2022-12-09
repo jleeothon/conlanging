@@ -1,0 +1,115 @@
+pageid: 2664284
+ns: 118
+title: Reconstruction:Proto-Germanic/meluks
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*h₂melǵ-}}. Cognate with
+  {{cog|la|mulgeō||milk|pos=verb}}.
+
+
+  The presence of {{m|gem-pro||*-u-}} in the second syllable is aberrant, as it
+  was not present in the PIE root or even in the related Germanic verb
+  {{m|gem-pro|*melkaną}}. However, the evidence of all descendants speaks
+  unambiguously in favour of its presence. Aside from being directly attested in
+  most of them, it is also implied by Old Norse u-mutation in case forms where
+  it would not be expected, in the raising of ''e'' to ''i'' before ''u'' in the
+  non-Ingvaeonic West Germanic languages, and in the High German shift /k/ →
+  /x/.
+
+
+  Possible theories of origin of the disputed {{m|gem-pro||*-u-}}:
+
+  * According to Kümmel, the vowel *u is an [[anaptyctic]] vowel, inserted after
+  the resonant to ease the complicated cluster of three consonants *VRCs#.
+
+  * According to Szemerenyi (1992: 1125) it is the result of contamination of
+  the full- and [[zero-grade]] in an [[ablaut]]ing paradigm
+  {{m|gem-pro||*/melk-z/}}, genitive {{m|gem-pro||*/mulk-iz/}}, but this leaves
+  the ''[[Schwebeablaut]]'' unexplained.
+
+  * According to Bammesberger (1990: 196f) this */u/ represents a [[schwa]] that
+  arose between the */l/ and the */k/ in the nominative {{m|gem-pro|*/melk-z/}}.
+  However, this solution fails to explain why the same did not happen in e.g
+  {{m|gem-pro|*alhs||temple}}.
+
+  * According to Kroonen, {{m|gem-pro||*-u-}} originates from the strong verb
+  {{m|gem-pro|*melkaną|*mel(u)kaną|to milk}}, whence this archaic root noun
+  likely derives. This does not answer the ultimate origin of the ''u'' however.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈme.luks/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[milk]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*melukōną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*melhtaz}}
+
+  * {{l|gem-pro|*milhtiją}}
+
+  * {{l|gem-pro|*melkaną}}
+
+  * {{l|gem-pro|*melkaz}}
+
+  * {{l|gem-pro|*melukaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*meluk}}
+
+  * {{desctree|non|mjǫlk}}
+
+  * {{desc|got|𐌼𐌹𐌻𐌿𐌺𐍃}}
+
+  * {{desc|smi-pro|*mielkkē|bor=1}} {{see desc}}
+
+  * {{desc|sla-pro|*melko|bor=1|unc=1}} {{see desc}}
+
+
+  ===References===
+
+  * Kümmel, M.J. (2004), ''Ungeklärtes *u neben Liquida in germanischen
+  Nomina'', in: A. Hyllested, A. R. Jørgensen (et al. eds.), Per Aspera ad
+  Asteriscos. ''Studia Indogermanica in honorem Jens Elmegård Rasmussen
+  sexagenarii Idibus Martiis anno MMMIV'' (Innsbrucker Beiträge zur
+  Sprachwissenschaft 112), Innsbruck: Institut für Sprachen und Literaturen der
+  Universität Innsbruck, 291-303. p. 298
+
+  * {{R:gem:EDPG|page=364}}
+
+  * Szemerenyi, O. (1987-1992), ''Scripta minora, selected essays in
+  Inda-European, Greek, and Latin.'' Innsbruck
+
+  * Bammesberger, A. (1990), ''Die Morphologie des urgermanischen Nomens.''
+  Heidelberg
+
+
+  {{topics|gem-pro|Food and drink}}
+
+  {{topics|gem-pro|Liquids}}

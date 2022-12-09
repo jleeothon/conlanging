@@ -1,0 +1,49 @@
+pageid: 5021928
+ns: 118
+title: Reconstruction:Proto-Germanic/rūhaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*rūhwaz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*h₃rewk-|*Hrewk-|to pluck}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈruː.xɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[rough]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|rūh}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*rūhijǭ}}
+
+  ====Descendants====
+  * {{desc|ang|rūh|rūg}}
+  ** {{desc|enm|ruh|ruȝ|roȝe|row|rogh|rough}}
+  *** {{desc|sco|roch|ruch|rouch|rooch}}
+  *** {{desc|en|rough}}
+  * {{desc|ofs|*rūch}}
+  ** {{desc|stq|ruuch|rouch}}
+  ** {{desc|fy|rûch}}
+  * {{desc|osx|*rūh|*rūg|*rūw}} (found in derivatives)
+  ** {{desc|gml|rûh|rû|rûw}}
+  *** {{desc|nds-de|ruug}}
+  *** {{desc|nds|ruuch|rug}}
+  *** {{desc|pdt|ruff|ruch}}
+  *** {{desc|bor=1|da|ru}}
+  * {{desc|odt|*rūh|*rū}}
+  ** {{desc|dum|ruuch|ru|rou}}
+  *** {{desc|nl|ruig|ruw}}
+  * {{desc|goh|rūh}}
+  ** {{desc|gmh|rūh|rūhe|rūch|rouch}}
+  *** {{l|de|rau}}; {{l|de|rauch}} {{q|obsolete}}
+  **** {{desc|nds-de|rau}}
+  *** {{desc|yi|רוי}}

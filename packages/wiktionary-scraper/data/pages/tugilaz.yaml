@@ -1,0 +1,66 @@
+pageid: 6041161
+ns: 118
+title: Reconstruction:Proto-Germanic/tugilaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*dewk-}}
+
+  From the root {{m|gem-pro||*tug-}} as in {{m|gem-pro|*tugōną}} and
+  {{m|gem-pro|*taugijaną}}, from {{der|gem-pro|ine-pro|*dewk-}},
+  {{suf|gem-pro||*-ilaz|id2=agent noun}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[rein]] (on a horse)
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|tyġel}}
+
+  * {{desc|osx|}}
+
+  ** {{desc|gml|}}
+
+  *** {{desc|nds|Tögel}}
+
+  * {{desc|odt|*tugil}}
+
+  ** {{desc|dum|toghel|teugel}}
+
+  *** {{desc|nl|teugel}}
+
+  * {{desc|goh|zugil}}
+
+  ** {{desc|gmh|zugel|zügel}}
+
+  *** {{desc|de|Zügel}}
+
+  **** {{desc|pl|cugiel|bor=1}}
+
+  *** {{desc|lb|Zigel}}
+
+  * {{desc|non|tygill}}
+
+  ** {{desc|da|tøjle}}
+
+  *** {{desc|nb|tøyle}}
+
+  ** {{desc|nn|tygel}}
+
+  ** {{desc|sv|tygel}}

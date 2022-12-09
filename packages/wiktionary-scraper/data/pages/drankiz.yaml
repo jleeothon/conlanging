@@ -1,0 +1,51 @@
+pageid: 5675712
+ns: 118
+title: Reconstruction:Proto-Germanic/drankiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*drankaz}}, {{l|gem-pro|*drankuz}}(?)
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*dʰrenǵ-||to pull; draw; sip}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdrɑŋ.kiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[drink]]; [[dose]]; [[potion]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*drinkǭ}}
+  * {{l|gem-pro|*drunkiz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*drinkaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*dranku|*dranki|*drank}}
+  ** {{desctree|ang|drenċ}}
+  ** {{desc|ofs|drank|dronk}}
+  *** {{desc|stq|Dronk}}
+  *** {{desc|fy|drank}}
+  ** {{desc|osx|drank}}
+  *** {{desc|gml|drank}}
+  **** {{desc|nds-de|Drank}}
+  ** {{desc|odt|*drank|dranc}}
+  *** {{desc|dum|dranc}}
+  **** {{desctree|nl|drank}}
+  **** {{desc|li|drank}}
+  ** {{desc|goh|trank|tranch}}
+  *** {{desc|gmh|tranc}}
+  **** {{desc|de|Trank}}
+  **** {{desc|gmh|getrenke|der=1}}
+  ***** {{desc|cim|gatrànkh}}
+  ***** {{desc|de|Getränk}}
+  * {{desc|got|𐌳𐍂𐌰𐌲𐌲𐌺|g=n}}

@@ -1,0 +1,36 @@
+pageid: 4588265
+ns: 118
+title: Reconstruction:Proto-Germanic/umbiganganą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰengʰ-}}
+  From {{compound|gem-pro|*umbi|*ganganą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌum.bi.ˈɣɑŋ.ɡɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[go about]], [[go around]]
+
+  ====Inflection====
+  {{gem-conj-st|class=7c|nopass=1|umbigang|umbigegang|umbigegang|umbigang}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*umbigangaz}}
+
+  ====Descendants====
+  * {{desc|ang|ymbgangan}}
+  ** {{desc|enm|umgangen|umbegangen}}
+  * {{desc|osx|*umbigangan}}
+  ** {{desc|gml|*ümmegān}}
+  *** {{desc|nds-de|ümgahn}}
+  * {{desc|odt|*umbigangan}}
+  ** {{desc|dum|ommegān}}
+  *** {{desc|nl|omgaan}}
+  * {{desc|goh|umbigangan}}
+  * ({{desc|non|ganga um}})

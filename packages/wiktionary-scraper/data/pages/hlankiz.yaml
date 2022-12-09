@@ -1,0 +1,47 @@
+pageid: 5871424
+ns: 118
+title: Reconstruction:Proto-Germanic/hlankiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*hlankaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxlɑŋ.kiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[ring]]; [[chainlink]]
+  # [[bond]]; [[fetter]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*gahlankiją}}
+
+  ====Descendants====
+  * {{desc|ang|hlenca}}; {{l|ang|hlenċe}}
+  ** {{desc|enm|lenke|linke}} (through confluence with Old Norse)
+  *** {{desc|sco|lenk|link}}
+  *** {{desc|en|link}}
+  **** {{desc|nl|link|bor=1}}
+  **** {{desc|de|Link|bor=1}}
+  * ({{desc|osx|*hlenki}}; {{l|osx|gilenki}})
+  ** ({{desc|gml|lenke}}; {{l|gml|gelenke}})
+  *** ({{desc|nds-de|Lenk}})
+  * ({{desc|goh|*lenka}}; {{l|goh|*gilenki}})
+  ** ({{desc|gmh|lenke}}; {{l|gmh|gelenke}})
+  *** ({{desc|de|Gelenk}})
+  * {{desc|non|*hlenkr|hlekkr}}
+  ** {{desc|is|hlekkur}}
+  ** {{desc|nn|lekk}}
+  ** {{desc|nb|lekk}}
+  ** {{desc|ovd|lekk}}
+  ** {{desc|gmq-osw|lænker}}
+  *** {{desc|sv|länk}}
+  **** {{desc|fi|lenkki|bor=1}}
+  ** {{desc|da|lænke}}

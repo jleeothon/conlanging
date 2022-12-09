@@ -1,0 +1,37 @@
+pageid: 7515109
+ns: 118
+title: Reconstruction:Proto-Germanic/kanhtaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*genk-|t=to gladen, rejoice}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkɑ̃x.tɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:EDPG|*kanhta-|279}}</ref>
+
+  # [[happy]], [[glad]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*kanhtijaną}}
+
+  ====Related terms====
+  * {{l|gem-pro|*kangą}}
+
+  ====Descendants====
+  * {{desc|non|kátr}}
+  ** {{desc|da|kåd}}
+  ** {{desc|ovd|kåt}}
+  ** {{desc|fo|kátur}}
+  ** {{desc|is|kátur}}
+  ** {{desc|sv|kåt}}
+
+  ===References===
+  <references/>

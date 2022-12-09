@@ -1,0 +1,39 @@
+pageid: 6398723
+ns: 118
+title: Reconstruction:Proto-Germanic/spurjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*spurą|t1=track|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈspur.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[feel]], [[touch]]
+  # to [[study]]; to [[search]]; to [[examine]]
+  # to [[ask]]
+
+  ====Inflection====
+  {{gem-conj-wk1|spur|j=j}}
+
+  ====Descendants====
+  * {{desc|ang|spyrian|spirian}}
+  ** {{desc|enm|spuren|spiren|speren}}
+  *** {{desc|en|speer|alts=1}}
+  *** {{desc|sco|speir}}
+  * {{desc|ofs|spera}}
+  * {{desc|odt|*spurien|*spuren}}
+  ** {{desc|dum|spueren|spōren}}
+  *** {{desc|nl|speuren}}
+  * {{desc|goh|spurian|spurien|spurren}}
+  ** {{desc|gmh|spüren|spürn}}
+  *** {{desc|de|spüren}}
+  *** {{desc|lb|spieren}}
+  *** {{desc|der=1|gsw|gespüre}}
+  *** {{desc|yi|שפּירן}}
+  * {{desctree|non|spyrja}}

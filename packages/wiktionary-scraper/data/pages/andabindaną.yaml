@@ -1,0 +1,41 @@
+pageid: 4924894
+ns: 118
+title: Reconstruction:Proto-Germanic/andabindaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*anda-|*bindaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɑn.dɑ.ˈbin.dɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[unbind]], [[loosen]], [[set free]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|andabind|andaband|andabund|andabund}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*andabindan}}
+  ** {{desc|ang|onbindan|unbindan}}
+  *** {{desc|enm|unbinden|unbynden}}
+  **** {{desc|en|unbind}}
+  **** {{desc|sco|unbynd|unbind}}
+  ** {{desc|ofs|andbinda|undbinda}}
+  *** {{desc|stq|äntbiende}}
+  *** {{desc|fy|ûntbine}}
+  ** {{desc|osx|andbindan|antbindan}}
+  *** {{desc|gml|untbinden|entbinden}}
+  **** {{desc|nds-de|entbinden|entbinnen}}
+  ** {{desc|odt|antbindan}}
+  *** {{desc|dum|ontbinden}}
+  **** {{desc|nl|ontbinden}}
+  ** {{desc|goh|intbintan}}
+  *** {{desc|gmh|enbinden|entbinden}}
+  **** {{desc|de|entbinden}}
+  **** {{desc|lb|entbannen}}
+  * {{desc|got|𐌰𐌽𐌳𐌱𐌹𐌽𐌳𐌰𐌽}}

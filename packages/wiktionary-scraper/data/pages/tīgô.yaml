@@ -1,0 +1,82 @@
+pageid: 6725346
+ns: 118
+title: Reconstruction:Proto-Germanic/tīgô
+wikitext: >-
+  {{reconstructed}}
+
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*deyǵ-|*deyǵ- ~ *deyǵʰ-|tick}}. Cognate with
+  {{cog|axm|տիզ||tick}} and {{cog|mga|dega||stag beetle}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[tick]] (arachnid)
+
+
+  ====Inflection====
+
+  Ablauting an-stem with {{w|Kluge's Law}} consonant alternations.
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*tīk(k)ō}}
+
+  ** {{desc|ang|ticia}} (for {{l|ang|*tiica}}, {{l|ang|*tīcca}}, or
+  {{l|ang|*ticca}})
+
+  *** {{desc|enm|tyke|teke}}
+
+  **** {{desc|en|tick|tyke|t2=sheep-tick}}
+
+  **** {{desc|sco|tick}}
+
+  **** {{desc|frm|tique|bor=1}}
+
+  ***** {{desc|fr|tique}}
+
+  ** {{desc|ofs|*tīkke|*tīke}}
+
+  *** {{desc|frr|teg|g=f}}
+
+  *** {{desc|stq|Tieke}}
+
+  *** {{desc|fy|tyk}}
+
+  ** {{desc|osx|*tikka|*tika}}
+
+  *** {{desc|gml|tēke|tecke|g2=f}}
+
+  **** {{desc|nds-de|Tieke|Tiek}}
+
+  ** {{desc|odt|*tika}}
+
+  *** {{desc|dum|teke|thecke}} {{q|late; possibly borrowed from Low German}}
+
+  **** {{desc|nl|teek}}; {{l|nl|tijg}} {{q|dialectal}}
+
+  ** {{desc|goh|zecho}}; {{l|goh|zecha}}
+
+  *** {{desc|gmh|zecke}}
+
+  **** {{desc|gsw|Zëche}}
+
+  **** {{desc|de|Zecke}}
+
+  ***** {{desc|nds-de|Zecke|bor=1}}
+
+  *** {{desc|it|zecca|bor=1}}
+
+
+  [[Category:gem-pro:Arachnids]]

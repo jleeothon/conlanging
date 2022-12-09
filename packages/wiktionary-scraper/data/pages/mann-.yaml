@@ -1,0 +1,118 @@
+pageid: 1926742
+ns: 118
+title: Reconstruction:Proto-Germanic/mann-
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*mon-}} or {{m|ine-pro|*men-}}. Alternatively,
+  Kroonen favors the word splitting off from
+  {{der|gem-pro|ine-pro|*ǵʰmṓ|*(dʰ)ǵʰmō, *(dʰ)ǵʰmon-}} in the cases where the
+  -m- wasn't syllabic (which otherwise gave {{m|gem-pro||*gum-}}, see
+  {{m|gem-pro|*gumô}}), the initial cluster would have been unpronounceable in
+  Germanic, giving a reduced {{m|gem-pro||*(-)man-}}.<ref>{{R:gem:EDPG}}</ref>
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[human]], [[human being]], [[person]], [[individual]]
+
+  # [[man]]
+
+  # {{lb|gem-pro|Runic alphabet}} name of the M-rune ([[ᛗ]])
+
+
+  ====Inflection====
+
+  This noun was inflected as a consonant stem, but the daughter languages
+  disagree on the form of the nominative singular. The Gothic form points to a
+  nominative *''man(n)ô'', as does the rare {{cog|ang|-}} nominative
+  {{m|ang|manna}}. The north and west Germanic forms, on the other hand,
+  indicate *''mannz''. Judging from Gothic evidence, the original compounding
+  form was *''mana(n)-'' with only a single -''n''-, as in
+  {{m|got|𐌼𐌰𐌽𐌰𐍃𐌴𐌸𐍃|t=mankind}}; however, note also
+  {{m|got|𐌼𐌰𐌽𐌻𐌴𐌹𐌺𐌰|t=portrait}}.
+
+
+  Several ideas have been proposed to explain the unusual morphology of this
+  word, particularly the geminate -''nn''-. One proposal is that its stem was
+  ''manwa-'' (wa-stem) or ''manu-'' (u-stem), where -''nw''- would have become
+  -''nn''- through regular sound change in Germanic. This explains the
+  relationship of the noun to cognates elsewhere in Indo-European, but crucially
+  it does not explain the consonant stem inflection.
+
+
+  A more recent proposal is that the noun reflects a root ''man-'' to which
+  n-stem endings have been added. These n-stem endings were not the usual type
+  found in Germanic, but a rarer type that lacked a vowel between the root and
+  the stem suffix in some of the forms. This is also seen in {{m|gem-pro|*uhsô}}
+  (which has the stem *''uhsn-'' in the plural), {{m|gem-pro|*arô}} (with
+  ''*arn-''), {{m|gem-pro|*berô}} (with ''*bern-'') and {{cog|la|carō}} (with
+  ''carn-''). The stem without a vowel would have then been *''man-n-'', to
+  which consonant stem endings would have been added, as n-stems were consonant
+  stems in origin. If this is the case, it would explain the geminate -''nn''-,
+  the consonant stem endings, and would also account for the n-stem nominative
+  singular found in Gothic and Old English.
+
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{sense|man}} {{l|gem-pro|*gumô}}, {{l|gem-pro|*weraz}}
+
+
+  ====Derived terms====
+
+  {{der3|gem-pro
+
+  |*gawjamann-
+
+  |*kaupamann-
+
+  |*manauliją
+
+  |*manniskaz
+
+  |*manakunją
+
+  |*manlausaz
+
+  |*manlīkô
+
+  |*mannōną
+
+  |*Markōmann-
+
+  |*Nurþrōmann-
+
+  |*skipamann-
+
+  }}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*mann}}
+
+  * {{desctree|non|maðr}}
+
+  * {{desc|got|𐌼𐌰𐌽𐌽𐌰}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|People}}
+
+  {{topics|gem-pro|Runic letter names|sort=M}}

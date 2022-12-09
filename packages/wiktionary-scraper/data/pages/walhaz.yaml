@@ -1,0 +1,85 @@
+pageid: 2732767
+ns: 118
+title: Reconstruction:Proto-Germanic/walhaz
+wikitext: >-
+  {{reconstructed}}
+
+  {{wikipedia|Walhaz}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From the name of a {{der|gem-pro|cel|-}} tribe, the {{m|la|Volcae}}.
+  Historically the tribe's name has been linked to an animal, possibly
+  {{der|gem-pro|cel-pro|*wolkos|t=hawk}}, or alternatively (but less
+  likely<ref>Patrizia de Bernardo (2008),
+  [https://books.google.de/books?id=K92YAwAAQBAJ&pg=PA103&lpg=PA103&dq=%22cadwalch%22&source=bl&ots=qqx8gFsoBS&sig=X2M45bhYfJQlFeGHbq4iEsiOEqU&hl=de&sa=X&ved=0ahUKEwi3m-fO6Z7SAhVFOBQKHaeJB0QQ6AEITjAJ#v=onepage&q=%22cadwalch%22&f=false
+  "Linguistically Celtic Ethnonyms: towards a classification"], in: Juan Luís
+  García Alonso (ed.), ''Celtic and Other Languages in Ancient Europe'',
+  Salamanca: Ediciones Universidad de Salamanca, p. 103</ref>)
+  {{der|gem-pro|cel-pro|*ulkʷos|t=wolf}}, in turn from
+  {{der|gem-pro|ine-pro|*wĺ̥kʷos}}, as Caesar described the Celts having fought
+  with huge dogs.<ref>Caesar, ''Commentarii de Bello Gallico''.</ref> For the
+  first possibility, cf. the personal name {{cog|cel-gau|Catuvolcus}} and
+  {{cog|cy|cadwalch|t=hero, champion, warrior|lit=battle-hawk}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwɑl.xɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topics|gem-pro|People}} [[foreigner]], non-Germanic person (especially a
+  speaker of [[Latin]] or a [[Celtic]] or [[Romance]] language)
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  {{der3|gem-pro
+
+  |*walhiskaz
+
+  |*walhahnuts
+
+  }}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*walh}}
+
+  * {{desc|gmq-pro|*ᚹᚨᛚᚺᚨᛉ}} (attested in {{l|gmq-pro|ᚹᚨᛚᚺᚨᚲᚢᚱᚾᛖ|tr=walhakurnē}}
+  on the [[w:Tjurkö bracteate#Tjurkö 1 bracteate|Tjurkö 1 bracteate]], dative
+  singular of a compound meaning “foreign grain”, taken to be a kenning for
+  “gold”)
+
+  ** {{desc|non|valr}} (''plural'' {{l|non|valir}})
+
+  *** {{desc|non|der=1|val-}}
+
+  *** {{desc|fo|val-}}
+
+  *** {{desc|gmq-osw|val|valar|g2=p}}
+
+  * {{desc|sla-pro|*volxъ|bor=1}}
+
+  ** {{desc|bor=1|en|Vlach|Wallachia}} (borrowed)
+
+  * {{desc|der=1|hu|olasz|oláh}}
+
+
+  ===References===
+
+  <references/>

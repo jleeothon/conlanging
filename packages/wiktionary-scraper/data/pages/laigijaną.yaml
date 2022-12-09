@@ -1,0 +1,30 @@
+pageid: 7738611
+ns: 118
+title: Reconstruction:Proto-Germanic/laigijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*līhwaną||to lend}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlai.ɣi.ja.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[lend]]
+
+  ====Inflection====
+  {{gem-conj-wk1|laig|j=ij}}
+
+  ====Related terms====
+  {{rel2|gem-pro
+  |*laigǭ
+  |*laihną
+  |*līhwaną
+  }}
+
+  ====Descendants====
+  * {{desctree|non|leiga}}

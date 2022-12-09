@@ -1,0 +1,106 @@
+pageid: 2771636
+ns: 118
+title: Reconstruction:Proto-Germanic/-aną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*-onom}}, from {{m|ine-pro|*-o-|pos=thematic
+  vowel}} + {{m|ine-pro|*-nós|*-nom|pos=verbal noun suffix}}. The few remaining
+  athematic verbs (which were irregular in Proto-Germanic) accordingly used only
+  {{m|gem-pro|*-ną}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{head|gem-pro|suffix|cat2=inflectional suffixes}}
+
+
+  # {{non-gloss definition|The infinitive suffix of strong verbs.}}
+
+
+  ====Usage notes====
+
+  This suffix was not productive in Proto-Germanic.
+
+
+  ====Inflection====
+
+  Strong verbs consist of four principal parts: the present stem (1), the past
+  singular stem (2), the general past stem (3) and the past participle (4). The
+  seven classes of strong verb differ only in how their principal parts are
+  formed.
+
+  {{gem-conj-st|1-|2-|3-|4-}}
+
+
+  ====Derived terms====
+
+  {{derivsee|Proto-Germanic strong verbs}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|-an}}
+
+  ** {{desc|enm|-en|-e}}
+
+  *** {{desc|en|-en}} (''obsolete'') {{l|en|-e}} (''obsolete'')
+
+  * {{desc|ofs|-a}}
+
+  ** {{desc|frr|-e}}
+
+  ** {{desc|stq|-e}}
+
+  ** {{desc|fy|-e}}
+
+  * {{desc|osx|-an}}
+
+  ** {{desc|gml|-en}}
+
+  *** {{desc|nds|-en}}
+
+  * {{desc|odt|-an}}
+
+  ** {{desc|dum|-en}} (merged with all other verbs)
+
+  *** {{desc|nl|-en}}
+
+  * {{desc|goh|-an}}
+
+  ** {{desc|gmh|-en}}
+
+  *** {{desc|de|-en}} (merged with all other verbs)
+
+  * {{desc|non|-a}}
+
+  ** {{desc|is|-a}}
+
+  ** {{desc|fo|-a}}
+
+  ** {{desc|nb|-e}}
+
+  ** {{desc|nn|-a}}
+
+  ** {{desc|sv|-a}}
+
+  ** {{desc|da|-e}}
+
+  * {{desc|got|-𐌰𐌽}}
+
+
+  ===References===
+
+  * Fulk, R.D. (2018). [https://doi.org/10.1075/sigl.3 ''A Comparative Grammar
+  of the Early Germanic Languages'']. Amsterdam/Philadelphia: John Benjamins,
+  pp. 252–253; 284–285.

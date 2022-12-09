@@ -1,0 +1,38 @@
+pageid: 4709811
+ns: 118
+title: Reconstruction:Proto-Germanic/batnaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*bataz|t1=good|*-naną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑt.nɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to get [[better]]
+
+  ====Inflection====
+  {{gem-conj-wk4|batn}}
+
+  ====Related terms====
+  * {{l|gem-pro|*bataz}}
+  * {{l|gem-pro|*batizô}}
+
+  ====Descendants====
+  * {{desc|non|batna}}
+  ** {{desc|is|batna}}
+  ** {{desc|fo|batna}}
+  ** {{desc|gmq-osw|batna}}
+  ** {{desc|ovd|battn}}
+  ** {{desc|bor=1|enm|*battenen|*batnen}}
+  *** {{desc|en|batten}}
+  *** {{desc|sco|batten}}
+  * {{desc|got|*𐌱𐌰𐍄𐌽𐌰𐌽}} (in {{l|got|𐌲𐌰𐌱𐌰𐍄𐌽𐌰𐌽}})
+
+  ===References===
+  * {{R:gem:PIEPG|page=260}}

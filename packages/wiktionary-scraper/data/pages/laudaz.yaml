@@ -1,0 +1,46 @@
+pageid: 7372032
+ns: 118
+title: Reconstruction:Proto-Germanic/laudaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑu̯.ðɑz/}}
+
+  ===Etymology 1===
+  From {{m|gem-pro|*leudaną|t=to sprout; spring up; grow}}.
+
+  ====Adjective====
+  {{gem-adj}}<ref>{{R:gem:HGE|*laudaz|238}}</ref>
+
+  # [[large]], [[great]]
+
+  =====Inflection=====
+  {{gem-decl-adj}}
+
+  =====Descendants=====
+  * {{desc|gmh|lōte|t=qualified, conditioned}}
+  * {{desc|got|*𐌻𐌰𐌿𐌸𐍃}}
+  ** {{desc|got|𐍃𐍅𐌰𐌻𐌰𐌿𐌸𐍃|der=1}}
+
+  ===Etymology 2===
+  From {{m|gem-pro|*liudiz|t=man, person}}.
+
+  ====Noun====
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|head=*lauda-|page=328}}</ref>
+
+  # {{lb|gem-pro|in the singular}} [[man]]
+  # {{lb|gem-pro|in the plural}} [[men]]
+
+  =====Inflection=====
+  {{gem-decl-noun}}
+
+  =====Descendants=====
+  * {{desc|got|*𐌻𐌰𐌿𐌸𐍃}}
+  ** {{desc|got|𐌾𐌿𐌲𐌲𐌰𐌻𐌰𐌿𐌸𐍃|der=1}}
+
+  ===References===
+  <references/>
+
+  {{topics|gem-pro|People}}

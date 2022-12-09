@@ -1,0 +1,33 @@
+pageid: 2629361
+ns: 118
+title: Reconstruction:Proto-Germanic/skapjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)keb-|t=to cut, split, hew, shape}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskɑp.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{topic|gem-pro|Manufacturing}} to [[make]], to [[create]]
+  # to [[shape]]
+
+  ====Inflection====
+  {{gem-conj-st-j|class=6|skap|skōp|skōp|skap|j=j}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*gaskaftiz}}
+  * {{l|gem-pro|*gaskapjaną}}
+  * {{l|gem-pro|*-skapiz}}
+  * {{l|gem-pro|*skapą}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skappjan}}
+  * {{desc|non|skapa|skepja}} {{desctree|non|skapa|noparent=1}}
+  * {{desc|got|𐌲𐌰𐍃𐌺𐌰𐍀𐌾𐌰𐌽}} (from ''*gaskapjaną'')
+  * {{desc|xvn|*skapjan|scapia}}

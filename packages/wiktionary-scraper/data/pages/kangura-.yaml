@@ -1,0 +1,99 @@
+pageid: 7977883
+ns: 118
+title: Reconstruction:Proto-Germanic/kangura-
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro|Uncertain}}; possibly related to {{noncog|en|kink||curl, turn,
+  twist}}, {{noncog|is|kengur||hook}}, and if the word is of Indo-European
+  origin, it may be further related to {{cog|cu|гѫжвица||wicker}} and
+  {{cog|cs|houžev||withy}}, all from {{der|gem-pro|ine-pro|*gengʰ-||twist, turn,
+  plait, weave}}<ref name="DWDS">{{R:DWDS|Kanker}}</ref>.
+  {{cog|fi|kankuri||weaver}} is probably borrowed from Germanic<ref
+  name="ÍO">{{R:is:Íslensk orðsifjabók|köngurváfa}}</ref> together with
+  {{noncog|fi|kangas||web}}; alternatively, the present word could be borrowed
+  from Finnish<ref>{{R:runeberg.org|dialektl|0337.html kangro}}</ref>.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkɑŋ.ɡu.rɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun}}<ref name="ÍO"/>
+
+
+  # {{uncertain|gem-pro}}
+
+  ## [[net]], [[plait]], [[web]]
+
+  ## [[weaver]], [[spider]]
+
+
+  ====Reconstruction notes====
+
+  According to ''Íslensk orðsifjabók'', the word's original meaning may have
+  been "net, plait, something woven", hence the sense of
+  {{noncog|non|kǫngurváfa||spider}} would be “web-weaveress”; but
+  {{cog|fi|kankuri}}, clearly the same etymon, means “weaver”, which is close to
+  the sense of {{noncog|de|Kanker||spider < he who weaves}}. However,
+  {{m|de||Kanker}} is also attested as {{m|de|Ganker}} and a relation to
+  {{noncog|gem-pro|*gangjaną||go}} is also possible<ref name="DWDS"/>, in which
+  case {{m|de||Kanker}} would be unrelated to the English and North Germanic
+  descendants listed below; that is, if {{m|de||Kanker}} was not remade in a way
+  similar to that of the first element of {{noncog|ang|gangewifre}} and
+  {{m|ang|gangelwæfre}}, which are usually seen as being of the same origin as
+  {{m|non||kǫngurváfa}}<ref name="DWDS"/><ref name="ÍO"/>
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|kangur|stem=a|g=m}}
+
+  or
+
+  {{gem-decl-noun|kangur|stem=a|g=n}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|alt1=*gangel|alt2=*gange}}
+
+  ** {{desc|ang|gangelwæfre|t=spider|g=f|der=1}}
+
+  ** {{desc|ang|gangewifre|t=spider|g=f|der=1}}
+
+  * {{desc|gmh|kanker|t=spider|g=m|unc=1}}
+
+  ** {{desc|de|Kanker|t=harvestman}}
+
+  * {{desc|non|alt=*kǫngur-}}
+
+  ** {{desc|non|kǫngurváfa|t=spider|g=f|der=1}}
+
+  *** {{desc|is|könguló|alts=1|der=1}}
+
+  *** {{desc|no|kongro}}
+
+  *** {{desc|gmq-jmk|kangero}}
+
+  *** {{desc|sv|kangro|alts=1}}
+
+  *** {{desc|gmq-bot|kångero}}
+
+  ** {{desc|fi|kankuri|t=weaver|bor=1|unc=1}}
+
+
+  ===References===
+
+  {{reflist}}
+
+
+  {{c|gem-pro|Weaving}}

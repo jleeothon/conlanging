@@ -1,0 +1,62 @@
+pageid: 2793466
+ns: 118
+title: Reconstruction:Proto-Germanic/gaits
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Cognate with {{cog|la|haedus||kid}}, but cannot be traced back to
+  Proto-Indo-European. The word was likely borrowed from a pre-Indo-European
+  {{der|gem-pro|qfa-sub}} language. There may be relatives in some Semitic
+  languages, but not corresponding clearly in shape.<ref name="EDPG"/> However
+  there is a stronger candidate in {{cog|ber-pro|*a-ɣăyd}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ɣɑi̯ts/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}<ref name="EDPG">{{R:gem:EDPG|*gait-|163}}</ref>
+
+
+  # [[goat]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*gaitīnaz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*gait}}
+
+  * {{desctree|non|geit}}
+
+  * {{desc|got|𐌲𐌰𐌹𐍄𐍃}}
+
+  * {{desc|smi-pro|bor=1}}
+
+  ** {{desc|se|gáica}}
+
+  ** {{desc|sma|gaajhtse}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Goats]]

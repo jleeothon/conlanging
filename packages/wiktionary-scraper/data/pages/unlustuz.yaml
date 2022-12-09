@@ -1,0 +1,38 @@
+pageid: 2898482
+ns: 118
+title: Reconstruction:Proto-Germanic/unlustuz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*un|*lustuz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈun.ˌlus.tuz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[apathy]], [[listlessness]], lack of [[desire]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*unlust}}
+  ** {{desc|ang|unlust}}
+  *** {{desc|enm|unlust}}
+  **** {{desc|en|unlust}}
+  ** {{desc|osx|unlust}}
+  *** {{desc|gml|unlust}}
+  **** {{desc|non|úlyst|bor=1}}
+  ***** {{desc|da|ulyst}}
+  ***** {{desc|sv|olust}}
+  ** {{desc|odt|*unlust}}
+  *** {{desc|dum|onlust}}
+  **** {{desc|nl|onlust}}
+  ***** {{desc|af|onlus}}
+  ** {{desc|goh|unlust}}
+  *** {{desc|de|Unlust}}
+  * {{desc|got|𐌿𐌽𐌻𐌿𐍃𐍄𐌿𐍃}}

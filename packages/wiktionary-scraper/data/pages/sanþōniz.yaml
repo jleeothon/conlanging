@@ -1,0 +1,28 @@
+pageid: 4721010
+ns: 118
+title: Reconstruction:Proto-Germanic/sanþōniz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*h₁es-}}
+  Derived from {{m|gem-pro|*sanþōną||to show to be true}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑn.θɔː.niz/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # a [[proving]] true, [[confirmation]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|non|sannan|sǫnnun}}
+  ** {{desc|is|sannan|sönnun}}
+  ** {{desc|fo|sannan}}
+
+  {{cln|gem-pro|terms suffixed with *-ōniz}}

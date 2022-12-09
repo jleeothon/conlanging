@@ -1,0 +1,96 @@
+pageid: 3469486
+ns: 118
+title: Reconstruction:Proto-Germanic/wihtiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwix.tiz/}}
+
+
+  ===Etymology 1===
+
+  From {{inh|gem-pro|ine-pro|*wekti-||object, thing}}. Cognate with
+  {{cog|sla-pro|*veťь}}.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|head=*wehti-1|page=578}}</ref><ref>{{R:gem:HGE|*wextiz|452}}</ref>
+
+
+  # [[essence]], [[being]]
+
+  # {{senseid|gem-pro|thing}} [[thing]], [[creature]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*wihtą}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*wihti|id=thing}}
+
+  * {{desc|non|véttr|vétr|vættr|vætr|vítr}}
+
+  ** {{desc|is|vættur}}
+
+  ** {{desc|fo|vættur|veittur}}
+
+  ** {{desc|no|vette|vætte|vett|vitt}}
+
+  ** {{desc|gmq-osw|vætter|vǣter}}
+
+  *** {{desc|sv|vätte}}
+
+  ** {{desc|da|vætte}}
+
+  ** {{desc|gmq-bot|witer}}
+
+  * {{desc|got|𐍅𐌰𐌹𐌷𐍄𐍃}}
+
+
+  ===Etymology 2===
+
+  From {{suffix|gem-pro|*weganą|*-þiz|t1=to weight}}.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|head=*wehti-2|page=578}}</ref><ref>{{R:gem:HGE|*wextiz|453}}</ref>
+
+
+  # {{senseid|gem-pro|weight}} [[weight]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Derived terms=====
+
+  * {{l|gem-pro|*gawihtiją}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*wihti|id=weight}}
+
+  * {{desc|non|vætt|vétt}}
+
+
+  ===References===
+
+  <references/>

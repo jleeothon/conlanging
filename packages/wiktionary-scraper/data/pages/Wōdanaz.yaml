@@ -1,0 +1,131 @@
+pageid: 2715623
+ns: 118
+title: Reconstruction:Proto-Germanic/Wōdanaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*weh₂t-}}
+
+  Related to Late Proto-Germanic {{m|gem-pro|*wōdaz||rage, manic inspiration}}.
+  From Pre-Germanic {{m|gem-pro||*Wātónos}}, from Pre-Germanic
+  {{m|gem-pro||*wātós|rage, manic inspiration, furor poeticus}}, in turn from
+  {{der|en|ine-pro|*weh₂t-||to be excited}}. Compare {{cog|non|óðr||rage}},
+  {{cog|nl|woede||rage}} and {{m|nl|woeden||to rage}}, {{cog|la|vātēs}}.
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*Wōdinaz|*Wōdunaz}}
+
+
+  English {{m|en||Wednes}} (in {{m|en|Wednesday|Wednes-day}}) is not an exact
+  cognate but rather continues {{m+|gem-pro||*Wōdinaz}}, pre-Germanic
+  {{m|gem-pro||*Wātenos}}. ({{cog|non|Óðinn}}, however, due to its lack of
+  umlaut, appears to continue ''*Wōdanaz'' and the replacement of the suffix
+  vowel appears to be secondary, (compare Proto-Norse {{m|gmq-pro|ᚺᚨᛁᛏᛁᚾᚨᛉ}} and
+  {{m|gmq-pro|ᛊᛚᚨᚷᛁᚾᚨᛉ}}, from {{m|gem-pro|*haitanaz}} and
+  {{m|gem-pro|*slaganaz}}, respective past participles of {{m|gem-pro|*haitaną}}
+  and {{m|gem-pro|*slahaną}}).)
+
+
+  This suggests a variation of the theonym in early Germanic,
+  {{m|gem-pro||*Wōdanaz}} vs. {{m|gem-pro||*Wōdinaz}}. The form with ''-i-'' as
+  attested in {{cog|ofs|wednesdei}} appears to have been present in Frisia (cf.
+  also similar {{cog|dum|wenesdach}}). The situation in Old English is unclear.
+  The attested Old English forms point to {{m|gem-pro||*Wōdanaz}}, but
+  ''i''-umlauted forms surface in records after the end of the Old English
+  period. Thus, {{m|ang|wōdnesdæġ}} is replaced by continuations of
+  {{m|ang|*wēdnesdæġ}} around AD 1200.
+
+  The same transition to the umlauted form of the theonym during the 12th or
+  early 13th century (early Middle English) is also found in English placenames,
+  such as {{m|en|Wensley}} ({{m|enm|Wednesleg}} ca. 1212, earlier
+  {{m|enm|Wodnesleie}}), {{m|en|Wednesbury}} ({{m|enm|Wednesbiri}} 1227, earlier
+  {{m|enm|Wadnesberie}}, {{m|enm|Wodnesberia}}), {{m|en|Wednesfield}}
+  ({{m|enm|Wednesfeld}} 1251, earlier {{m|enm|Wodnesfelde}}).
+
+
+  Based on an Old English form ''Ōdon'', which appears to have been borrowed
+  from Old Danish, Schaffner deduces that the original shape of the theonym was
+  likely {{m|gem-pro||*Wōdunaz}} rather than
+  {{m|gem-pro||*Wōdanaz}}.<ref>Schaffner, Stefan. ''Die Götternamen des Zweiten
+  Merseburger Zauberspruchs.'' In: Heiner Eichner, Robert Nedoma: ''„insprinc
+  haptbandun“. Referate des Kolloquiums zu den Merseburger Zaubersprüchen auf
+  der XI. Fachtagung der Indogermanischen Gesellschaft in Halle/Saale (17.-23.
+  September 2000) Teil 1''. In: ''Die Sprache – Zeitschrift für
+  Sprachwissenschaft''. 41, Heft 2 (1999; published in 2002), Wiener
+  Sprachgesellschaft. Harrassowitz Verlag, Wiesbaden 1999, {{ISSN|0376-401X}},
+  153–205.</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwɔː.ðɑ.nɑz/}}
+
+
+  ===Proper noun===
+
+  {{gem-proper noun|m}}
+
+
+  # [[Woden]] or [[Odin]], the Germanic supreme god. Identified in later times
+  with the Roman god [[Mercury]].
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|nopl=1}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|Wōden}}
+
+  **
+  {{desc|la|Wothen|bor=1}}<ref>[https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11197247_00967.html?fbclid=IwAR36OUYG2TCYb3D8kbYsunsqH7YjZHZ4OkOsf_GGLfsFj9z74FaDVea6HvY
+  Rerum anglicarum scriptores post Bedam praecipui : ex vetustiss. codd.
+  manuscr. nunc primum in lucem editi]</ref>
+
+  * {{desc|ofs|*Wēden|*Wēda}}
+
+  **
+  {{desc|frr|Wedke}}<ref>[https://books.google.de/books?id=DytVAAAAcAAJ&pg=PA59&lpg=PA59&dq=wede+teare&source=bl&ots=Itquo2c6L2&sig=ACfU3U3O8zXTu5JAImlhNDkRgnOuKNdN_A&hl=de&sa=X&ved=2ahUKEwiDhdfH977sAhVR_SoKHbu3CC0Q6AEwAHoECAEQAg#v=onepage&q=wede%20teare&f=false]</ref>
+
+  * {{desc|osx|Wōden}}
+
+  ** {{desc|gml|Wode}}
+
+  * {{desc|odt|Wuodan|Wuadan|*Wuotan}}
+
+  ** {{desc|dum||alt=*Woeden}}; {{l|dum||*Woen}}, ({{l|dum|woensdach}})
+
+  ***
+  {{desc|nl|Woen|der=1}}<ref>http://gtb.inl.nl/iWDB/search?actie=article&wdb=WNT&id=M086950&lemmodern=woen</ref>
+  {{q|likely back-formation from "woensdag"}}
+
+  * {{desc|goh|Wōtan|Wōdan|Wuotan|Uuodan}}, {{q|runic}} {{l|goh|ᚹᛟᛞᚨᚾ}}
+
+  ** {{desc|la|Vōdanus|bor=1}}
+
+  ** {{desc|nl|Wodan|lbor=1}}
+
+  ** {{desc|de|Wotan|lbor=1}}
+
+  * {{desctree|gmq-pro|ᚹᛟᛞᛁᚾᛦ|ts=Wōdinʀ}}
+
+  ** {{desctree|non|Óðinn}}
+
+  * {{desc|lng|Godan}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Gods}}

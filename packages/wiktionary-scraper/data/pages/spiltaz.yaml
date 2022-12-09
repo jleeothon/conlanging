@@ -1,0 +1,85 @@
+pageid: 5001229
+ns: 118
+title: Reconstruction:Proto-Germanic/spiltaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{unk|gem-pro}}. It may or may not be cognate with {{cog|ru|по́лба|t=spelt}}
+  and {{cog|la|puls|t=porridge (usually of spelt)}} and
+  {{cog|grc|πόλτος|t=porridge (usually of spelt)}}. Possibly from
+  {{der|gem-pro|ine-pro|*(s)pelH-|t=to split off, separate}}, or borrowed from
+  an unknown {{der|gem-pro|qfa-sub|-}} by Germanic and
+  Latin.<ref>{{R:nl:Etymologiebank|spelt}}</ref>
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[spelt]] (a type of [[wheat]])
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|osx|spelta}}
+
+  ** {{desc|gml|spelte}}
+
+  *** {{desc|nds|Spelt}}
+
+  *** {{desc|no|spelt|bor=1}}
+
+  *** {{desc|sv|spelt|bor=1}}
+
+  *** {{desc|da|spelt|bor=1}}
+
+  *** {{desc|fy|spjelt|bor=1|unc=1}}
+
+  ** {{desc|ang|spelt|bor=1}}
+
+  *** {{desc|enm|spelt}}
+
+  **** {{desctree|en|spelt}}
+
+  * {{desc|frk|*spelta}}
+
+  ** {{desc|odt|*spelta}}
+
+  *** {{desc|dum|spelte}}
+
+  **** {{desc|nl|spelt}}
+
+  ** {{desc|la|spelta|bor=1}} {{see desc}}
+
+  * {{desc|goh|spelz}}
+
+  ** {{desc|gmh|spelz}}
+
+  *** {{desc|de|Spelz}}
+
+  *** {{desc|lb|Spelz}}
+
+  * {{desc|non|spelti|speldi}} (< {{l|gem-pro|*spiltō}})
+
+  ** {{desc|is|speldi}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Hordeeae tribe grasses]]
+
+  [[Category:gem-pro:Grains]]

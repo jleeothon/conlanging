@@ -1,0 +1,28 @@
+pageid: 8530383
+ns: 118
+title: Reconstruction:Proto-Germanic/þranhaz
+wikitext: |-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:EDPG|pages=584-585|head=*þranha-}}</ref>
+
+  # [[rancid]], [[dirty]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þrą̄h}}
+  * {{desc|non|*þrár}}
+  ** {{desc|is|þrár}}
+  ** {{desc|fo|tráur}}
+  ** {{desc|no|trå}}
+
+  ===References===
+  <references/>

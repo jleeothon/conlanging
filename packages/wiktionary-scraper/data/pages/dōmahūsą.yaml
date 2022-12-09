@@ -1,0 +1,30 @@
+pageid: 7315157
+ns: 118
+title: Reconstruction:Proto-Germanic/dōmahūsą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*dōmaz|*hūsą|t1=judgement|t2=house}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈdɔː.mɑ.ˌxuː.sɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref name="HGE">{{R:gem:HGE|*dōma-xūsan|73}}</ref>
+
+  # [[court-house]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|dōmhūs}}
+  ** {{desc|enm|dome-howse}}
+  *** {{desc|en|doom-house}}
+  * {{desc|non|dómhús}}
+  ** {{desc|is|dómhús}}
+
+  ===References===
+  <references/>

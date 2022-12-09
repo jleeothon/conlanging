@@ -1,0 +1,31 @@
+pageid: 7535539
+ns: 118
+title: Reconstruction:Proto-Germanic/hartą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ḱerd-}}
+  From {{der|gem-pro|ine-pro|*ḱerd-|t=heart}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑr.tɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}<ref name="Kroonen">{{R:gem:EDPG|head=*harta-|page=212}}</ref>
+
+  # [[pitch]], [[resin]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*hartuz}}
+  * {{l|gem-pro|*hertô}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hart}}
+
+  ===References===
+  <references/>

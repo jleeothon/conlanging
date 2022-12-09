@@ -1,0 +1,25 @@
+pageid: 4024438
+ns: 118
+title: Reconstruction:Proto-Germanic/ganeutaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*ga|*neutaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑ.ˈneu̯.tɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[enjoy]]
+  # to [[seize]], [[apprehend]]
+
+  ====Inflection====
+  {{gem-conj-st|class=2|ganeut|mutstem=ganiut|ganaut|ganut|ganut}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*ganeutan}}
+  * {{desc|got|𐌲𐌰𐌽𐌹𐌿𐍄𐌰𐌽}}

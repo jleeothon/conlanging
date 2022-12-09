@@ -1,0 +1,43 @@
+pageid: 6458657
+ns: 118
+title: Reconstruction:Proto-Germanic/spurô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*sperH-|t=to twitch, push, fidget, be quick}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[spur]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*spurōną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*sporō}}
+  ** {{desc|ang|spura|spora}}
+  *** {{desctree|enm|spore}}
+  ** {{desc|osx|sporo}}
+  *** {{desc|gml|spōre}}
+  ** {{desc|odt|*sporo}}
+  *** {{desc|dum|spōre}}
+  **** {{desc|nl|spoor}}
+  ** {{desc|goh|sporo}}
+  *** {{desc|gmh|spore}}
+  **** {{desc|de|Sporn}}
+  ** {{desc|ca|esperó|bor=1}}
+  ** {{desc|fro|esperon|bor=1}}
+  *** {{desc|fr|éperon}}
+  *** {{desc|gl|esporón|bor=1}}
+  * {{desc|non|spori}}
+  ** {{desc|sv|sporre}}
+  * {{desc|got|*𐍃𐍀𐌰𐌿𐍂𐌰}}
+  ** {{desc|gl|espora|bor=1}}
+  ** {{desc|pt|espora|bor=1}}
+  ** {{desc|es|espuela|bor=1}}

@@ -1,0 +1,91 @@
+pageid: 2286455
+ns: 118
+title: Reconstruction:Proto-Germanic/keusaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ǵews-}}
+
+  From {{inh|gem-pro|ine-pro|*ǵéwseti}}, from {{m|ine-pro|*ǵews-||to taste,
+  try}}. Cognate with {{cog|grc|γεύω}}, {{cog|sa|जोषति|tr=jóṣati}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkeu̯.sɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*keusan-|page=286}}</ref><ref>{{R:gem:HGE|*keusanan|page=213}}</ref>
+
+
+  # to [[test]], to [[try]]
+
+  # to [[choose]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=2|keus|kaus|kuz|kuz}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*kauzijaną}}
+
+  * {{l|gem-pro|*kustiz}}
+
+  * {{l|gem-pro|*kustōną}}
+
+  * {{l|gem-pro|*kustuz}}
+
+  * {{l|gem-pro|*kuzą}}
+
+  * {{l|gem-pro|*kuziz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*keusan}}
+
+  * {{desc|non|kjósa}}
+
+  ** {{desc|is|kjósa}}
+
+  ** {{desc|fo|kjósa}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nn|kjose}}
+
+  ** {{desc|gmq-osw|kiūsa}}
+
+  *** {{desc|sv|tjusa}}
+
+  ** {{desc|da|kyse}}
+
+  * {{desc|got|𐌺𐌹𐌿𐍃𐌰𐌽}}
+
+  ** {{desc|sla-pro|*kousiti|bor=1}}
+
+  *** {{desc|cu|въкоусити}}
+
+  **** {{desc|ru|вкуси́ть|bor=1}}
+
+  * {{desc|bor=1|fiu-fin-pro|*kiusat'ak}}
+
+  ** {{desc|fi|kiusata}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Thinking}}

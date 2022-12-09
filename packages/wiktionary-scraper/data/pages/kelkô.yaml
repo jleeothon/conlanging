@@ -1,0 +1,59 @@
+pageid: 7836210
+ns: 118
+title: Reconstruction:Proto-Germanic/kelkô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Derived from the same root as {{m|gem-pro|*kelaz|t=throat}} and
+  {{m|gem-pro|*kelǭ}}, with {{af|gem-pro|*-kô}}, a suffix used for body parts;
+  compare {{m+|gem-pro|*mankô|t=mane}}, {{m|gem-pro|*leuskô|t=groin}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkel.kɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[jaw-bone]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Descendants====
+
+  * {{desc|non|kjalki}}
+
+  ** {{desc|fo|kjálki}}
+
+  ** {{desc|is|kjálki}}
+
+  ** {{desc|no|kjelke}}
+
+  ** {{desc|ovd|tjåke}}
+
+  * {{desc|goh|kelah}}
+
+  ** {{desc|gmh|kelch}}
+
+  *** {{desc|bar|Kelch|Kölch|Kööch}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}
+
+
+  {{C|gem-pro|Body parts|Bones}}

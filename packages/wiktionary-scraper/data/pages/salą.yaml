@@ -1,0 +1,73 @@
+pageid: 3930903
+ns: 118
+title: Reconstruction:Proto-Germanic/salą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*sel-||human settlement, village, dwelling}}.
+  Cognate with {{cog|cu|село||courtyard, village}}, {{cog|lt|sala||village}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsɑ.lɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[house]]; [[dwelling]]
+
+  # [[hall]]; [[room]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*saliz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|sæl}}
+
+  ** {{desc|enm|sal|sale}}
+
+  *** {{desc|en|sale}}
+
+  * {{desc|ofs|*sal|*sel}} (in compounds)
+
+  ** {{desc|stq|Soal}}
+
+  ** {{desc|fy|seal}}
+
+  * {{desc|osx|*sal}}
+
+  ** {{desc|gml|sel}} (n)
+
+  * {{desc|goh|sal}} (n)
+
+  ** {{desc|gmh|sal}} (n)
+
+  ** {{desc|it|sala|bor=1}} (alternatively < {{m|gem-pro|*saliz}})
+
+  ** {{desc|pt|sala|bor=1}} (alternatively < {{m|gem-pro|*saliz}})
+
+  ** {{desc|es|sala|bor=1}} (alternatively < {{m|gem-pro|*saliz}})
+
+  * Suevic / Gothic: *''sala''
+
+  ** {{desc|pt|Sá|bor=1}}
+
+  ** {{desc|bor=1|gl|Sa|Saa}} {{q|place names}}

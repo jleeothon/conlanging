@@ -1,0 +1,27 @@
+pageid: 7490155
+ns: 118
+title: Reconstruction:Proto-Germanic/hauhalīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*hauhaz|*-līkaz|t1=high}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑu̯.xɑ.ˌliː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*hauha-līkaz|165}}</ref>
+
+  # relatively [[high]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hauhalīk}}
+  * {{desc|non|háligr}}
+
+  ===References===
+  <references/>

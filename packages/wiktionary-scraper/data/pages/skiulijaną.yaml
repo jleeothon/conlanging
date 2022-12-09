@@ -1,0 +1,36 @@
+pageid: 7703359
+ns: 118
+title: Reconstruction:Proto-Germanic/skiulijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*skūlijaną}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*(s)kewH-}}
+  Derived from the noun {{m|gem-pro|*skeulą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskiu.li.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[shelter]], [[hide]]
+
+  ====Inflection====
+  {{gem-conj-wk1|skiul|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*skūlijan}}
+  ** {{desc|odt|*skūlen}}
+  *** {{desc|dum|schulen}}
+  **** {{desc|nl|schuilen}}
+  * {{desc|non|skýla}}
+  ** {{desc|is|skýla}}
+  ** {{desc|sv|skyla}}
+  ** {{desc|da|skjule}}
+  *** {{desc|nb|skjule|bor=1}}
+  ** {{desc|nrn|skỳl}}

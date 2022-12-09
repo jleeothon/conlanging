@@ -1,0 +1,29 @@
+pageid: 4806977
+ns: 118
+title: Reconstruction:Proto-Germanic/klaubijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*glewbʰ-}}
+  From {{affix|gem-pro|*kleubaną|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈklɑu̯.βi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[cleave]], [[divide]]
+
+  ====Inflection====
+  {{gem-conj-wk1|klaub|j=ij}}
+
+  ====Descendants====
+  * {{desc|osx|klōvian}}
+  ** {{desc|gml|kloven|klöven}}
+  *** {{desc|nds|klöven}}
+  * {{desc|odt|*klouven}}
+  ** {{desc|dum|kloven}}
+  *** {{desc|nl|kloven}}

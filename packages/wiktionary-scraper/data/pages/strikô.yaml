@@ -1,0 +1,24 @@
+pageid: 3422408
+ns: 118
+title: Reconstruction:Proto-Germanic/strikô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*streyg-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstri.kɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[stroke]], [[line]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|ang|strica}}
+  ** {{desc|en|streak}}

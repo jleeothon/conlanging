@@ -1,0 +1,34 @@
+pageid: 5676134
+ns: 118
+title: Reconstruction:Proto-Germanic/þelą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*tel-||flat; board, plank}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθe.lɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[floor]]; [[deal]] {{gloss|plank}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*þiljǭ}}
+
+  ====Descendants====
+  * {{desc|ang|þel|g=n}}
+  ** {{desc|enm|thele}}
+  *** {{desc|en|theal}} {{qualifier|dialectal}}
+  * ({{desc|osx|thili|g=f}})
+  * ({{desc|odt|*thili}})
+  * {{desc|goh|dil|g=m}}; {{l|goh|dili|g=n}}; {{l|goh|dilo|g=m}}
+  ** {{desc|gmh|dil|til}}
+  * {{desc|non|þel|g=n}}; {{l|non|þili|g=n}}
+  ** {{desc|gmq-osw|þiæl}}

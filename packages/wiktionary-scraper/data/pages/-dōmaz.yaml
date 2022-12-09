@@ -1,0 +1,29 @@
+pageid: 6893389
+ns: 118
+title: Reconstruction:Proto-Germanic/-dōmaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dʰeh₁-}}
+  From {{m|gem-pro|*dōmaz||judgement}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/-dɔː.maz/}}
+
+  ===Suffix===
+  {{gem-noun|m}}
+
+  # Forms nouns denoting the [[condition]] or [[state]] of the suffixed word.
+  # Forms nouns denoting the domain or jurisdiction of the suffixed word.
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  {{suffixsee|gem-pro}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*-dōm}}
+  * {{desctree|non|-dómr}}

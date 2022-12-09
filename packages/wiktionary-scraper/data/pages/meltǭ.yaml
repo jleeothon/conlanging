@@ -1,0 +1,41 @@
+pageid: 3619760
+ns: 118
+title: Reconstruction:Proto-Germanic/meltǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)meld-|t=to beat, grind, crush, weaken}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmel.tɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{lb|gem-pro|anatomy}} [[spleen]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*miltiją}}
+  * {{l|gem-pro|*miltijaz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*meltā|*miltijā}}
+  ** {{desctree|ang|milte}}
+  ** {{desc|ofs|milte}}
+  *** {{desc|stq|Milte}}
+  *** {{desc|fy|milt|melt}}
+  ** {{desc|osx|*milta}}
+  *** {{desc|gml|milte}}
+  **** {{desc|nds-de|Milt}}
+  ** {{desctree|odt|*milta}}
+  ** {{desc|goh|milza}}
+  * {{desc|non|mjalti}}
+  ** {{desc|no|mjelte}}
+  ** {{desc|ovd|mjälta}}
+  ** {{desc|gmq-osw|miælte|mælte}}
+  *** {{desc|sv|mjälte}}

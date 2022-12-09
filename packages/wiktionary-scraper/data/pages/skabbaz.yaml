@@ -1,0 +1,114 @@
+pageid: 6462286
+ns: 118
+title: Reconstruction:Proto-Germanic/skabbaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*skabʰ-|t=to cut, split, carve, shape}}. Cognate
+  with {{cog|la|scabiēs|t=mange}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈskɑb.bɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[scab]]
+
+  # [[scabies]], [[mange]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun-a-m|skabb}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*skabaną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|sċeabb|sċæb|sċeb}}
+
+  ** {{desc|enm|schabbe|scabb|skabbe|scabbe|scab}} (forms with ''sc-/sk-'' due
+  to confluence with {{m+|non|skabb}})
+
+  *** {{desc|en|scab|shab}}
+
+  **** {{desc|der=1|en|scabby|shabby}}
+
+  *** {{desc|sco|skab|scab}}
+
+  **** {{desc|der=1|sco|scabby|shabby}}
+
+  ** {{desc|der=1|ang|sċeabbed|sċeabbede|sċæbbede}}
+
+  *** {{desc|enm|schabbed|schabbid}}
+
+  * {{desc|ofs|*skab}}
+
+  ** {{desc|ofs|*skabich|der=1}}
+
+  *** {{desc|stq|skoawich}} {{i|possibly borrowed}}
+
+  *** {{desc|fy|skabbich|skabberich}} {{i|possibly borrowed}}
+
+  * {{desc|osx|*skabb}}
+
+  ** {{desc|osx|schabbe}}
+
+  *** {{desc|gml|schabbig|der=1}}
+
+  **** {{desc|nds-de|schabbig}}
+
+  ** {{desc|osx|skavatho|der=1}}?
+
+  ** {{desc|gml|scheve|schēve}}?
+
+  *** {{desc|der=1|gml|schēvisch|schēvesch}}?
+
+  * {{desc|odt|*skabb}}
+
+  ** {{desc|dum|schabbe}}
+
+  *** {{desc|nl|schab}}
+
+  *** {{desc|dum|*schabbig|der=1}}
+
+  **** {{desc|nl|schabbig|schabberig}}
+
+  * {{desc|goh|skaba|scaba}}
+
+  ** {{desc|gmh|schabe}}
+
+  *** {{desc|de|Schabe}}
+
+  ** {{desc|der=1|goh|scebedīg|skebedīg}}
+
+  *** {{desc|gmh|schebic}}
+
+  **** {{desc|de|schäbig}}
+
+  * {{desc|non|skabb}}
+
+  ** {{desc|fo|skabb}}
+
+  ** {{desc|no|skabb}}
+
+  ** {{desc|sv|skabb}}
+
+  *** {{desc|sv|skabbig|der=1}}
+
+  ** {{desc|da|skab}}

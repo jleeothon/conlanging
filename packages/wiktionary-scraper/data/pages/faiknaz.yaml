@@ -1,0 +1,37 @@
+pageid: 4395736
+ns: 118
+title: Reconstruction:Proto-Germanic/faiknaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*faiknijaz}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*peyǵ-||hostile, angry}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɑi̯k.nɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[wicked]], [[deceitful]], [[insidious]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|faikn}}
+
+  ====Related terms====
+  * {{l|gem-pro|*faikną}}
+  * {{l|gem-pro|*faiknastabaz}}
+  * {{l|gem-pro|*faiknīgaz}}
+  * {{l|gem-pro|*faiknōną}}
+
+  ====Descendants====
+  * {{desc|ang|fācen}}
+  ** {{desc|enm|fāken|fōken}}
+  * {{desc|osx|fēkni|fēgni}}
+  * {{desc|goh|feihhan|feichan}}
+  ** {{desc|gmh|veichen}}
+  * {{desc|non|feikn}}

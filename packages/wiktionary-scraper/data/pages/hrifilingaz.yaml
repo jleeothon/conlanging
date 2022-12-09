@@ -1,0 +1,59 @@
+pageid: 7313414
+ns: 118
+title: Reconstruction:Proto-Germanic/hrifilingaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Probably from {{suffix|gem-pro|*hreflōną|*-ilingaz|t1=to sew, mend}}.<ref
+  name="Kroonen"></ref> Alternatively, from {{m|gem-pro|*hrefaz||womb, belly,
+  body}}.<ref name="Orel"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxri.ɸi.liŋ.ɡɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref
+  name="Kroonen">{{R:gem:EDPG|head=*hrefilinga-|page=244}}</ref>
+
+
+  # {{topics|gem-pro|Footwear}} [[shoe]]
+
+  #: {{syn|gem-pro|*skōhaz}}
+
+  #: {{coordinate terms|gem-pro|*sukkaz|t1=sock}}
+
+
+  ====Alternative reconstructions====
+
+  * {{l|gem-pro|*hrefalingaz}}<ref
+  name="Orel">{{R:gem:HGE|head=*xrefaz|page=185|passage=''*xrefalinʒaz''}}</ref>
+
+  * {{l|gem-pro|*hrefilingaz}}<ref name="Kroonen"/>
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*hrifiling}}
+
+  ** {{desc|ang|hrifeling}}
+
+  * {{desc|non|hriflingr}}
+
+
+  ===References===
+
+  <references/>

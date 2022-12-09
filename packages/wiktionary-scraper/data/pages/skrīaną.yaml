@@ -1,0 +1,29 @@
+pageid: 3644791
+ns: 118
+title: Reconstruction:Proto-Germanic/skrīaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskriːɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[caw]], [[screech]]
+  # to [[shout]], [[scream]], [[cry out]]
+
+  ====Inflection====
+  {{gem-conj-st|class=1|skrī|skrai|skri|skri}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skrīan}}
+  * {{desc|non|*skría}}
+  ** {{desc|no|skrike}}
+  ** {{desc|gmq-osw|skrīa}}
+  *** {{desc|sv|skria}}
+  ** {{desc|gmq-bot|skri}}

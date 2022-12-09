@@ -1,0 +1,69 @@
+pageid: 4599989
+ns: 118
+title: Reconstruction:Proto-Germanic/witraz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*weyd-}}
+
+  From pre-Germanic {{m|ine-pro||*widrós}}, equivalent to {{m|gem-pro|*witaną}}
+  {{suffix|gem-pro||*raz}}, a ro-stem adjective derive from
+  {{der|gem-pro|ine-pro|*weyd-||to know, see}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwit.rɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[knowing]], [[wise]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|witr}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*witrōną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*wit(t)r}}
+
+  ** {{desc|ang|witer|witter}}
+
+  * {{desc|non|vitr}}
+
+  ** {{desc|is|vitur}}
+
+  ** {{desc|fo|vitur}}
+
+  ** {{desc|gmq-oda|witær|vidher}}
+
+  *** {{desc|da|vidder}} {{q|obsolete}}
+
+  ** {{desc|gmq-osw|viter|wittur}}
+
+  *** {{desc|sv|vitter}}
+
+  **** {{desc|da|vitter|bor=1}} {{q|obsolete}}
+
+
+  ====Further reading====
+
+  * {{R:ODS online|vitter}}
+
+  * {{R:svenska.se|saob|vitter}}

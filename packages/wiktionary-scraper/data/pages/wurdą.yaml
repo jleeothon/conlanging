@@ -1,0 +1,31 @@
+pageid: 2823752
+ns: 118
+title: Reconstruction:Proto-Germanic/wurdą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*werh₁-}}
+  From {{inh|gem-pro|ine-pro|*werdʰh₁om|*wr̥dʰh₁om}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwur.ðɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[word]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*feluwurdijaną}}
+  * {{l|gem-pro|*wurdiją}}
+  ** {{l|gem-pro|*andawurdiją}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*word}}
+  * {{desctree|non|orð}}
+  * {{desc|got|𐍅𐌰𐌿𐍂𐌳}}

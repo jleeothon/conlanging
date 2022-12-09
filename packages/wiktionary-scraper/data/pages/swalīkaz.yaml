@@ -1,0 +1,102 @@
+pageid: 2646781
+ns: 118
+title: Reconstruction:Proto-Germanic/swalīkaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*swa|*līkaz}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈswa.liː.kɑz/}}
+
+
+  ===Determiner===
+
+  {{gem-det}}
+
+
+  # [[such]], [[that]] [[kind]] of, [[that]] [[sort]] of
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|swalīk}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*hwilīkaz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|swelċ|swylċ|swilċ}}
+
+  ** {{desc|enm|sich|swilk|sik|swilch|swich}}
+
+  *** {{desc|sco|swilk|sik|sic}}
+
+  *** {{desc|en|soch|such}}; {{l|en|sich}}, {{l|en|sech}}, {{l|en|sek}}
+  {{qualifier|dialectal}}
+
+  * {{desc|ofs|sālik|salk|sēlik|selk|sullik|sellech|sulch|sek|suk}}
+
+  ** {{desc|stq|suk}}
+
+  ** {{desc|fy|sok}}
+
+  * {{desc|osx|sulik}}
+
+  ** {{desc|gml|solik|sollik|sollek|solk}}
+
+  *** {{desc|nds|sölk|sulk|suk}}
+
+  * {{desc|odt|*selik|sulik}}
+
+  ** {{desc|dum|swilk|solick|solck|selc|sulc|sulck}}
+
+  *** {{desc|nl|zulk}}
+
+  **** {{desc|af|sulke}}
+
+  * {{desc|goh|sulih|solih|solh}}
+
+  ** {{desc|gmh|sulich|solich|solch}}
+
+  *** {{desc|de|solch}}
+
+  *** {{desc|yi|אַזעלכער}}
+
+  * {{desc|non|slíkr}}
+
+  ** {{desc|is|slíkur}}
+
+  ** {{desc|fo|slíkur}}
+
+  ** {{desc|nb|slik}}
+
+  ** {{desc|da|slig}}
+
+  ** {{desc|gmq-osw|sliker|alt=slīker|seliker|siliker}}
+
+  *** {{desc|sv|slik}}
+
+  ** Dalian: [[slaiker]], [[slaik]]
+
+  *** {{desc|ovd|slaik}}
+
+  ** Helsingian: [[slikan]]
+
+  ** {{desc|gmq-bot|slik|slikkän|slekken}}
+
+  * {{desc|got|𐍃𐍅𐌰𐌻𐌴𐌹𐌺𐍃}}
+
+
+  {{cln|gem-pro|demonstrative determiners}}

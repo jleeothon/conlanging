@@ -1,0 +1,81 @@
+pageid: 4574719
+ns: 118
+title: Reconstruction:Proto-Germanic/sīþuz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|*sīþiz}}
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*séh₁itus}} or {{m|ine-pro||*sh₁éitus}}, from
+  {{der|gem-pro|ine-pro|*seh₁-}}. Related to {{cog|la|sērus||late, slow}},
+  {{cog|sga|sír||long, lasting}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈsiː.θuz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[late]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|sīþ}}
+
+  ** {{desc|ang|sīþlīċe|der=1}}
+
+  *** {{desc|enm|siþeli|siddele}}
+
+  * {{desc|ofs|sether|der=1}}
+
+  * {{desc|osx|sīth}}
+
+  ** {{desc|gml|sît}}
+
+  ** {{desc|osx|sīthor|der=1}}
+
+  *** {{desc|gml|sider|sēder}}
+
+  * {{desc|odt|*sīdi}}
+
+  ** {{desc|dum|side}}
+
+  * {{desc|goh|sīd}}
+
+  ** {{desc|der=1|goh|sīdor|sidor}}
+
+  *** {{desc|gmh|sider|siders}}
+
+  **** {{desc|de|sider}}
+
+  * {{desc|non|síðr|síð}}
+
+  ** {{desc|is|síður|síð}}
+
+  ** {{desc|fo|síður|síð}}
+
+  * {{desc|got|𐍃𐌴𐌹𐌸𐌿𐍃}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

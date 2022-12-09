@@ -1,0 +1,32 @@
+pageid: 5555590
+ns: 118
+title: Reconstruction:Proto-Germanic/speldą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*(s)pel-|t=to split}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈspel.dɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # a split or broken piece of [[wood]]; [[splinter]]; [[board]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*speldō}}
+
+  ====Descendants====
+  * {{desc|ang|speld}}; {{l|ang|spelt|g=m}}
+  ** {{desc|enm|speld|spelt|spielde|spelde}}
+  *** {{desc|en|speld|spell}}
+  * {{desc|non|speld|spjald}}
+  ** {{desc|is|spjald}}
+  ** {{desc|gmq-oda|spjæld}}
+  *** {{desc|is|spæll|bor=1}}

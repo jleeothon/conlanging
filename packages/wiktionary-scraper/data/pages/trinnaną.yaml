@@ -1,0 +1,29 @@
+pageid: 7502183
+ns: 118
+title: Reconstruction:Proto-Germanic/trinnaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*der-|t=to flay, divide, split}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtrin.nɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="Kroonen">{{R:gem:EDPG|*trinnan-|523}}</ref>
+
+  # to [[separate]] oneself
+
+  ====Inflection====
+  {{gem-conj-st|class=3|trinn|trann|trunn|trunn}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*trannijaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*trinnan}}
+
+  ===References===
+  <references/>

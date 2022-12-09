@@ -1,0 +1,33 @@
+pageid: 4543418
+ns: 118
+title: Reconstruction:Proto-Germanic/maginą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*megʰ-}}
+  From {{der|gem-pro|ine-pro|*megʰ-||to be able}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑ.ɣi.nɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[ability]], [[power]], [[might]], [[main]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*maganą}}
+  * {{l|gem-pro|*maginaz}}
+  * {{l|gem-pro|*maginōną}}
+
+  ====Descendants====
+  * {{desctree|ang|mæġen}}
+  * {{desc|osx|megin}}
+  * {{desc|odt|*megin}} (in {{l|odt|meginkraft}})
+  * {{desc|goh|megin|mekin}}
+  * {{desctree|non|megin}}

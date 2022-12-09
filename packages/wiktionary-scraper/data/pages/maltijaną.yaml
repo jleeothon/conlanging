@@ -1,0 +1,99 @@
+pageid: 7596805
+ns: 118
+title: Reconstruction:Proto-Germanic/maltijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology 1===
+
+  From {{suffix|gem-pro|*meltaną|*-janą|t1=to melt|id2=causative}}.
+
+
+  ====Pronunciation====
+
+  {{IPA|gem-pro|/ˈmɑl.ti.jɑ.nɑ̃/}}
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref name="Kroonen">{{R:gem:EDPG|*maltjan|351}}</ref><ref
+  name="Orel1">{{R:gem:HGE|*maltjanan II|258}}</ref>
+
+
+  # to make [[dissolve]], cause to [[melt]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk1|malt|j=ij}}
+
+
+  =====Descendants=====
+
+  * {{desc|gmw-pro|*maltijan}}
+
+  ** {{desc|ang|mieltan}}
+
+  * {{desc|non|melta}}
+
+  ** {{desc|fo|melta}}
+
+  ** {{desc|is|melta}}
+
+  * {{desc|got|*𐌲𐌰𐌼𐌰𐌻𐍄𐌾𐌰𐌽}}
+
+
+  ===Etymology 2===
+
+  From {{suffix|gem-pro|*maltą|*-janą|t1=malt}}.
+
+
+  ====Pronunciation====
+
+  {{IPA|gem-pro|/ˈmɑl.ti.jɑ.nɑ̃/}}
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref name="Orel2">{{R:gem:HGE|*maltjanan I|258}}</ref>
+
+
+  # to [[malt]] (for brewing)
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk1|malt|j=ij}}
+
+
+  =====Descendants=====
+
+  * {{desc|gmw-pro|*maltijan}}
+
+  ** {{desc|osx|*meltian}}
+
+  *** {{desc|gml|melten}}
+
+  ** {{desc|odt|*melten}}
+
+  *** {{desc|odt|gimelten|der=1}} (attested as "gimeltian")
+
+  *** {{desc|dum|melten}}
+
+  ** {{desc|goh|*melzen}}
+
+  *** {{desc|gmh|melzen}}
+
+  **** {{desc|de|mälzen}}
+
+  * {{desc|non|melta}}
+
+  ** {{desc|is|melta}}
+
+
+  ===References===
+
+  <references/>

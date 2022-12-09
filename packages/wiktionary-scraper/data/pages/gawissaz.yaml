@@ -1,0 +1,83 @@
+pageid: 2730783
+ns: 118
+title: Reconstruction:Proto-Germanic/gawissaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*weyd-}}
+
+  From {{prefix|gem-pro|*ga|*wissaz}} (past participle of
+  {{m|gem-pro|*witaną}}).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ɣɑ.ˈwis.sɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[certain]], [[sure]]
+
+  # [[known]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|gawiss}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|ġewiss}}; {{l|ang|wiss}}
+
+  ** {{desc|enm|iwis|ywis}}
+
+  *** {{desc|en|iwis|wis}}
+
+  *** {{desc|sco|iwis}}
+
+  * {{desc|ofs|*wiss|*wis}}
+
+  ** {{desc|stq|wisse}}
+
+  ** {{desc|fy|wis}}
+
+  * {{desc|osx|giwis}}; {{l|osx|wiss}}, {{l|osx|wis}}; {{l|osx|giwisso}}
+
+  ** {{desc|gml|gewisse}}
+
+  *** {{desc|nds-de|gewiss}}
+
+  **** {{desc|csb|gwës|bor=1}}, {{desc|csb|gwësny|bor=1|nolb=1}}
+
+  **** {{desc|pl|gweśny|bor=1}} {{q|or from German}}
+
+  * {{desc|odt|*giwis}} (attested as the adverb {{m|odt|gewisso||certainly}};
+  and in {{m|odt|giwis wêsen}})
+
+  ** {{desc|dum|gewis|gewes}}; {{l|dum|wis}}
+
+  *** {{desc|nl|gewis}}; {{l|nl|wis}}
+
+  * {{desctree|goh|giwis}}
+
+  * {{desc|non|viss}}
+
+  ** {{desc|is|viss}}
+
+  ** {{desc|fo|vissur}}
+
+  ** {{desc|gmq-osw|viss|vis}}
+
+  *** {{desc|sv|viss}}
+
+  ** {{desc|da|vis}}

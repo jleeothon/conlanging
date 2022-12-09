@@ -1,0 +1,61 @@
+pageid: 8435059
+ns: 118
+title: Reconstruction:Proto-Germanic/hamfaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Possibly, via an earlier sense “bent (out of shape), crooked”, from a
+  {{inh|gem-pro|ine-pro|-}} root meaning “to bend, curve”, but the
+  reconstruction is {{unk|gem-pro|disputed}}:
+
+  * {{m|ine-pro|*kh₂emp-|*kámpos|bent, curved}}, whence perhaps also
+  {{cog|la|campus|t=field}} and {{cog|sla-pro|*kǫpъ}} ~
+  {{m|sla-pro|*kǫpa|t=hill, island ~ clump, thicket;
+  tassel}},<ref>{{R:gem:HGE|head=*xamfaz|page=158}}</ref> apparently extended in
+  {{m|ine-pro||*-p-}} from a root {{m|ine-pro|*kh₂em-|*kam-}}: compare
+  {{m+|la|camur|t=curved, bent, crooked}}, {{cog|sa|क्मरति|tr=kmárati|t=to be
+  curved}} (< {{m|ine-pro||*kam-er-}});
+
+  * {{m|ine-pro||*kómpos|pos=id.}}, from a root {{m|ine-pro|*kemp-}}: compare
+  {{cog|lv|kùmpt|t=to be(come) bent}}, {{cog|lt|kum̃pas|t=curved}},
+  {{cog|cel-pro|*kambos|t=twisted, crooked, bent, curved}} and possibly
+  {{m+|gem-pro|*huppōną|t=to turn back, retreat}}.<ref
+  name="Kroonen">{{R:gem:EDPG|head=*hamfa-|page=207}}</ref><ref>{{R:gem:EDPG|head=*hupp/bōn-
+  1|page=257}}</ref>
+
+  In either case, considered cognate with {{cog|lt|kam̃pas|t=corner}},
+  {{cog|grc|κάμπτω|t=to bend, bow, curve}} and {{m+|grc|καμπή|t=bend}}. Derksen,
+  maintaining the former
+  etymology,<ref>{{R:bat:EDBIL|head=kampas|page=224}}</ref> supposes the
+  ''u''-vocalism of {{m+|lt||kum̃p-}} is
+  secondary.<ref>{{R:bat:EDBIL|head=kumpas|page=263}}</ref>
+
+
+  ===Adjective===
+
+  {{head|gem-pro|adjective}}<ref name="Kroonen"/>
+
+
+  # [[maim]]ed
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|hamf}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*hamf}}
+
+  * {{desc|got|𐌷𐌰𐌼𐍆𐍃}}
+
+
+  ===References===
+
+  <references/>

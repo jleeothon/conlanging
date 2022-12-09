@@ -1,0 +1,41 @@
+pageid: 6600770
+ns: 118
+title: Reconstruction:Proto-Germanic/wallijǭ
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|non|ine-pro|*welH-|t=to turn; wind; roll}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑl.li.jɔ̃ː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{topics|gem-pro|Architecture}} [[well]]
+  #: {{syn|gem-pro|*kaldijǭ|*kwellǭ|*sauþaz}}
+  # [[swirl]]
+  # {{topics|gem-pro|Water}} [[wave]]
+  #: {{syn|gem-pro|*bulgijō|*hraznō|*unþī|*wēgaz}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|wielle|g=m}}
+  ** {{desc|enm|welle}}
+  *** {{desc|en|well}}
+  * {{desc|fy|wel}}
+  * {{desc|nds|Well}}
+  * {{desc|odt|*wella}}
+  ** {{desc|nl|wel}}
+  * {{desc|goh|wella}}
+  ** {{desc|gmh|welle}}
+  *** {{desc|de|Welle}}
+  **** {{desc|pl|fala|bor=1}}
+  * {{desc|non|vella}}
+  ** {{desc|is|vella}}
+  ** {{desc|sv|väl}}
+  ** {{desc|da|væld}}

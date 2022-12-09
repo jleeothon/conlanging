@@ -1,0 +1,66 @@
+pageid: 2845484
+ns: 118
+title: Reconstruction:Proto-Germanic/bannaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰeh₂-|id=speak}}
+
+  From Pre-Germanic {{m|ine-pro||*bʰh₂-nw-}}, a zero grade nu-present form of
+  {{der|gem-pro|ine-pro|*bʰeh₂-||to speak}}, similar in form to
+  {{cog|sa-ved|भनति|tr=bhánati}}.<ref>{{R:gem:EDPG}}</ref> The cluster -nw-
+  seems to have caused gemination; see {{m|gem-pro|*kinnuz}},
+  {{m|gem-pro|*þunnuz}} for the same development.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɑn.nɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[proclaim]], to [[order]]
+
+  # to [[summon]]
+
+  # to [[ban]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=7c|bann|beban(n)|bebann|bann}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*bannan}}
+
+  * {{desc|non|banna}}
+
+  ** {{desc|is|banna}}
+
+  ** {{desc|fo|banna}}
+
+  ** {{desc|no|banne}}
+
+  ** {{desc|sv|banna}}
+
+  ** {{desc|da|bande}}
+
+  ** {{desc|enm|bannen|alt=banne(n)|bor=1}}
+
+  *** {{desc|sco|ban|t=to curse}}
+
+
+  ===References===
+
+  <references/>

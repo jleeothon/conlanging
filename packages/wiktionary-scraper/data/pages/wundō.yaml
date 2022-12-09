@@ -1,0 +1,105 @@
+pageid: 3714761
+ns: 118
+title: Reconstruction:Proto-Germanic/wundō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{m|gem-pro|*wundaz||wounded}}, from
+  {{der|gem-pro|ine-pro|*h₂wn̥tós||wounded}}, from
+  {{der|gem-pro|ine-pro|*h₂wen-||to strike, injure, hurt}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwun.dɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[wound]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*haubidawundō}}
+
+  * {{l|gem-pro|*haubudawundō}}
+
+  * {{l|gem-pro|*wundōną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*wanjō}}
+
+  * {{l|gem-pro|*wundaz|t=wounded}}
+
+  ** {{desc|gmw-pro|*wund}}
+
+  *** {{desc|ang|wund}}
+
+  *** {{desc|osx|wund}}
+
+  *** {{desc|goh|wunt}}
+
+  **** {{desc|gmh|wunt}}
+
+  ***** {{desc|de|wund}}
+
+  ** {{desc|got|𐌷𐌰𐌿𐌱𐌹𐌸𐍅𐌿𐌽𐌳𐍃|der=1}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|wund}}
+
+  * {{desc|ofs|wunde|unde}}
+
+  ** {{desc|stq|Wuunde}}
+
+  ** {{desc|fy|wûne}}
+
+  * {{desctree|osx|wunda}}
+
+  * {{desc|odt|wunda}}
+
+  ** {{desc|dum|wunde|wonde}}
+
+  *** {{desctree|nl|wond}}
+
+  *** {{desc|li|wónj}}
+
+  * {{desc|goh|wunta}}
+
+  ** {{desc|gmh|wunde}}
+
+  *** {{desc|cim|bunta}}
+
+  *** {{desc|de|Wunde}}
+
+  *** {{desc|lb|Wonn}}
+
+  *** {{desc|yi|וווּנד}}
+
+  * {{desc|non|und}}
+
+  ** {{desc|is|und}}
+
+  ** {{desc|gmq-osw|und}}
+
+  ** {{desc|da|vunde}} {{q|influenced by Low German}}
+
+  * {{desc|got|*𐍅𐌿𐌽𐌳𐌰}} (attested in compound {{l|got|𐍅𐌿𐌽𐌳𐌿𐍆𐌽𐌹}})

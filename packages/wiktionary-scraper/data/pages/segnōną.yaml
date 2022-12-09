@@ -1,0 +1,28 @@
+pageid: 8990182
+ns: 118
+title: Reconstruction:Proto-Germanic/segnōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Borrowed from {{bor|gem-pro|la|signō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈseɣ.nɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[bless]]
+  # to [[sign]], to make a [[mark]]
+
+  ====Inflection====
+  {{gem-conj-wk2|segn}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*segnōn}}
+  * {{desc|non|signa}}
+  ** {{desc|fo|signa}}
+  ** {{desc|nn|signa|alts=1}}
+  ** {{desc|nb|signe}}

@@ -1,0 +1,58 @@
+pageid: 5366001
+ns: 118
+title: Reconstruction:Proto-Germanic/angulō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  A diminutive of {{m|gem-pro|*angô||hook, angle}}, similar to
+  {{m|gem-pro|*angulaz||hook}}.
+
+  {{root|gem-pro|ine-pro|*h₂enk-}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # a [[hook]], [[fishhook]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|angel|angul}}
+
+  ** {{desc|enm|angel}}
+
+  *** {{desc|en|angle}}
+
+  * {{desc|osx|angul}}
+
+  ** {{desc|gml|angel}}
+
+  * {{desc|odt|*angul}}
+
+  ** {{desc|dum|anghel}}
+
+  *** {{desc|nl|angel}}; {{l|nl|hengel}}
+
+  * {{desctree|goh|angul}}
+
+  * {{desc|non|ǫngull}}
+
+  ** {{desc|is|öngull}}
+
+  ** {{desc|no|angel|ongul|ongel}}
+
+
+  [[Category:gem-pro:Fishing]]

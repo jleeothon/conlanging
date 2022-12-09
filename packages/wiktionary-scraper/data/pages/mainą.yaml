@@ -1,0 +1,101 @@
+pageid: 2830742
+ns: 118
+title: Reconstruction:Proto-Germanic/mainą
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From the same ultimate source as {{m|gem-pro|*mainijaną|t=to think, mean}},
+  evolved from an earlier sense of "false
+  oath."<ref>{{R:nl:Etymologiebank|meineed}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈmɑi̯.nɑ̃/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # [[damage]], [[hurt]]
+
+  #: {{syn|gem-pro|*skaþô}}
+
+  # [[unjustice]], [[sin]]
+
+  #: {{syn|gem-pro|*sundī}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*mainijaną}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*mainaz}}
+
+  * {{l|gem-pro|*mainō}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|mān}}; {{l|ang|mānāþ}} (compounded with {{m|gem-pro|*aiþaz}});
+  {{l|ang|mānswerian}}
+
+  ** {{desc|enm|man|mon}}; {{l|enm|manað}}, {{l|enm|mon-oð}};
+  {{l|enm|mansweren}}
+
+  *** {{desc|en|manswear}}
+
+  *** {{desc|sco|mansweir}}
+
+  * {{desc|ofs|mēn}}; {{l|ofs|*mēnēth}} (compounded with {{m|gem-pro|*aiþaz}})
+
+  ** {{desc|stq|Meeneed}}
+
+  ** {{desc|fy|meineed}}
+
+  * {{desc|osx|mēn}}; {{l|osx|mēnēth}} (compounded with {{m|gem-pro|*aiþaz}})
+
+  ** {{desc|gml|mênêde|meinnêt}}
+
+  *** {{desc|nds-de|Meeneed}}
+
+  * {{desc|odt|*mēn|*mein}}; {{l|odt|*mēnēth}} (compounded with
+  {{m|gem-pro|*aiþaz}})
+
+  ** {{desc|dum|mên|mein}}; {{l|dum|meynede}}, {{l|dum|meeneet}}
+
+  *** {{desc|nl|meineed}}
+
+  * {{desc|goh|mein}}; {{l|goh|meineid}} (compounded with {{m|gem-pro|*aiþaz}})
+
+  ** {{desc|gmh|mein}}; {{l|gmh|meineit}}
+
+  *** {{desc|de|Meineid}}
+
+  * {{desctree|non|mein}}
+
+  * {{desc|smi-pro|bor=1}}
+
+  ** {{desc|se|máidni}}
+
+  ** {{desc|sma|maejnie}}
+
+
+  ===References===
+
+  <references/>

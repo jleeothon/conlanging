@@ -1,0 +1,25 @@
+pageid: 4998441
+ns: 118
+title: Reconstruction:Proto-Germanic/justijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suf|gem-pro|*justaz|t1=cheese|*-janą}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[curdle]]; to make [[cheese]]
+
+  ====Inflection====
+  {{gem-conj-wk1|just|j=ij}}
+
+  ====Descendants====
+  * {{desc|non|ysta}}
+  ** {{desc|fo|ysta}}
+  ** {{desc|is|ysta}}
+  ** {{desc|no|yste}}
+  ** {{desc|sv|ysta}}
+  ** {{desc|sco|ost|bor=1}}

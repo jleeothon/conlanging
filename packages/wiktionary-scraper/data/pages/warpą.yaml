@@ -1,0 +1,36 @@
+pageid: 7319104
+ns: 118
+title: Reconstruction:Proto-Germanic/warpą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*werb-||to turn, bend}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑr.pɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[warp]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*werpaną}}
+
+  ====Descendants====
+  * {{desc|ang|wearp|warp}}
+  ** {{desc|enm|warp|werp}}
+  *** {{desc|en|warp}}
+  * {{desc|gml|warp}}
+  * {{desc|dum|warp}}
+  * {{desc|goh|warf}}
+  ** {{desc|gmh|warf}}
+  *** {{desc|de|Warf}}
+  * {{desctree|non|varp}}
+
+  [[fr:Annexe:proto-germanique/*landan]]

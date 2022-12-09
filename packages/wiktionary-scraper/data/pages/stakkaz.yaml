@@ -1,0 +1,69 @@
+pageid: 7417852
+ns: 118
+title: Reconstruction:Proto-Germanic/stakkaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Per Kroonen (arguing for the controversial Kluge's law for Proto-Germanic
+  -kk-) from earlier '' *stogh-nós''
+  <ref>{{R:gem:EDPG|head=*stakka-|page=472}}</ref>, cognate with Ancient Greek
+  [[στόχος]], but unclear if he derives '' *stogh-nós'' from a
+  {{der|gem-pro|ine-pro|*stegh-}}. Per Pokorny et al. from PIE
+  {{m|ine-pro|*(s)teg-||beam, stake|id=pole}} and cognate with Latin
+  ''[[tignum]]'' ("tree trunk, beam ,log'), but not cognate with Ancient Greek
+  [[στόχος]]. <ref>{{R:OED Online|stack|n|188579|19 November 2019}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstɑk.kɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[pile]] of [[hay]]; [[haystack]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Descendants====
+
+  * {{desc|non|stakkr}}
+
+  ** {{desc|da|stak}}
+
+  ** {{desc|ovd|stakk}}
+
+  ** {{desc|fo|stakkur}}
+
+  ** {{desc|gmq-osw|stakker}}
+
+  *** {{desc|sv|stack}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nn|stakk}}
+
+  ** {{desc|enm|stak|bor=1}}
+
+  *** {{desc|en|stack}}
+
+  *** {{desc|sco|stack}}
+
+  * {{desc|fiu-fin-pro|*sakna|bor=1|unc=1}} {{see desc}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,30 @@
+pageid: 7710740
+ns: 118
+title: Reconstruction:Proto-Germanic/laihnijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*laihną|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑi̯x.ni.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[loan]], [[lend]]
+
+  ====Inflection====
+  {{gem-conj-wk1|laihn|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*laihnōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*laihnijan}}
+  * {{desc|non|léna}}
+  ** {{desc|is|léna}}
+  ** {{desc|gmq-osw|læna}}
+  *** {{desc|sv|läna}}

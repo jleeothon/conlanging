@@ -1,0 +1,59 @@
+pageid: 3415209
+ns: 118
+title: Reconstruction:Proto-Germanic/sunþrą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*sunþraz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsun.θrɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[south]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*sunþr}}
+  ** {{desc|ang|sūþ}}
+  *** {{desc|enm|south}}
+  **** {{desc|en|south}}
+  ** {{desc|ofs|sūth}}
+  *** {{desc|stq|Suude}}
+  *** {{desc|fy|súd}}
+  ** {{desc|osx|sūth}}
+  *** {{desc|nds|süüd}}
+  **** {{desc|de|Süd|bor=1}}
+  ** {{desc|odt|*sūth}}
+  *** {{desc|dum|suid}}
+  **** {{desctree|nl|zuid}}
+  ** {{desc|goh|sunt}}
+  * {{desctree|non|suðr}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/sun.θrɑ̃/}}
+
+  ===Adverb===
+  {{gem-adv|*sunþrōz|*sunþrōst}}
+
+  # [[south]], [[southward]]
+
+  ====Descendants====
+  * {{desc|ang|sūþ}}
+  ** {{desc|en|south}}
+  * {{desc|goh|*sundar}}
+  ** {{desc|gmh|sunder}}
+  * {{desctree|non|suðr}}
+
+  ===See also===
+  * {{l|gem-pro|*austrą}}
+  * {{l|gem-pro|*nurþrą}}
+  * {{l|gem-pro|*westrą}}
+
+  {{topics|gem-pro|Compass points}}

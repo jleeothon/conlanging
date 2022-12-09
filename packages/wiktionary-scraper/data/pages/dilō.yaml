@@ -1,0 +1,40 @@
+pageid: 8361205
+ns: 118
+title: Reconstruction:Proto-Germanic/dilō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*dʰeh₁(y)-}}
+  From {{inh|gem-pro|ine-pro|*dʰeh₁(y)-|t=to suckle, nurse}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # {{lb|gem-pro|anatomy}} [[nipple]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=f}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*spenô}}
+  * {{l|gem-pro|*tatt-}}
+  * {{l|gem-pro|*titt-}}
+  * {{l|gem-pro|*tutt-}}
+
+  ====Related terms====
+  * {{l|gem-pro|*dajjaną}}
+  * {{l|gem-pro|*dajjǭ}}
+  * {{l|gem-pro|*dēaną}}
+  * {{l|gem-pro|*dijōną}}
+  * {{l|gem-pro|*dilaz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*dilu}}
+  ** {{desc|ang|delu}}
+  ** {{desc|goh|tila|tilla}}; {{l|goh|tili}}, {{l|goh|tilli}}
+  * {{desc|non|*dilr|*dill}} (< {{l|gem-pro|*dilaz}})
+  ** {{desc|sv|del|g=m}} {{q|dialectal}}
+  ** {{desc|non|dilkr|der=1}}
+  *** {{desc|is|dilkur}}

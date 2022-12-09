@@ -1,0 +1,80 @@
+pageid: 7499974
+ns: 118
+title: Reconstruction:Proto-Germanic/struttōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈstrut.tɔː.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  From {{der|gem-pro|ine-pro|*sret-|t=to swirl, to flow}}.<ref
+  name="Kroonen">{{R:gem:EDPG|*struttōn-|486}}</ref>
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref name="Kroonen"></ref>
+
+
+  # to [[well]], to [[well]] up
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk2|strutt}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*streþaną}}
+
+
+  =====Descendants=====
+
+  * {{desc|gmw-pro|*strottōn}}
+
+  ** {{desc|goh|*strotzōn}}
+
+  *** {{desc|gmh|strotzen}}
+
+
+  ===Etymology 2===
+
+  Possibly from {{der|gem-pro|ine-pro|*(s)ter-|t=strong, firm, stiff, rigid}}
+
+
+  ====Verb====
+
+  {{gem-verb}}<ref name="Kroonen"></ref>
+
+
+  # to [[jut]] out
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk2|strutt}}
+
+
+  =====Descendants=====
+
+  * {{desc|gmw-pro|*strottōn}}
+
+  ** {{desc|goh|*strotzōn}}
+
+  *** {{desc|gmh|strotzen}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

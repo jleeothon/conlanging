@@ -1,0 +1,88 @@
+pageid: 4566279
+ns: 118
+title: Reconstruction:Proto-Germanic/tradō
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*drā-}}, {{m|ine-pro|*der-||to tread, walk, step,
+  run}}. Cognate with {{cog|sa|द्राति||to run}} and {{cog|grc|δρόμος||running}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈtrɑ.ðɔː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[way]]; [[track]]; [[spoor]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*trudą}}
+
+  * {{l|gem-pro|*trudō}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*trudaną}}
+
+
+  ====Descendants====
+
+  * {{desc|osx|trada}}
+
+  ** {{desc|gml|trāde}}
+
+  *** {{desc|nds|Traad}}
+
+  *** {{desc|enm|trade|bor=1}}
+
+  **** {{desc|sco|trade}}
+
+  **** {{desc|en|trade}}
+
+  * {{desc|odt|*trada}}
+
+  ** {{desc|dum|trāde|trā}}
+
+  *** {{desc|nl|tra}}
+
+  * {{desc|goh|trata}}
+
+  ** {{desc|gmh|trat}}
+
+  *** {{desc|de|Tratt}}
+
+  *** {{desc|lb|Tratt}}
+
+  * {{desc|non|trǫð}}
+
+  ** {{desc|is|tröð}}
+
+  ** {{desc|no|trød|trå|tra}}
+
+  ** {{desc|sv|trad}} {{qualifier|dialectal}}
+
+  ** {{desc|gmq-oda|trad}}
+
+  * {{desc|fiu-fin-pro|*rata|bor=1}}
+
+  ** {{desc|et|rada}}
+
+  ** {{desc|fi|rata}}

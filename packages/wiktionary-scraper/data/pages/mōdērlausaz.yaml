@@ -1,0 +1,38 @@
+pageid: 6507273
+ns: 118
+title: Reconstruction:Proto-Germanic/mōdērlausaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*mōdēr|*lausaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɔː.ðɛːr.ˌlɑu̯.sɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[without]] a [[mother]].
+
+  ====Inflection====
+  {{gem-decl-adj-a|mōdērlaus}}
+
+  ====Descendants====
+  * {{desc|ang|mōdorlēas}}
+  ** {{desc|enm|moderles}}
+  *** {{desc|en|motherless}}
+  * {{desc|ofs|mōderlās}}
+  ** {{desc|stq|muurloos}}
+  * {{desc|odt|muoderlōs}}
+  ** {{desc|dum|moederloos}}
+  *** {{desc|nl|moederloos}}
+  * {{desc|goh|muoterlōs}}
+  ** {{desc|gmh|muoterlōs}}
+  *** {{desc|de|mutterlos}}
+  * {{desc|non|móðurlauss}}
+  ** {{desc|is|móðurlaus}}
+  ** {{desc|sv|moderlös}}
+  ** {{desc|da|moderløs}}
+  ** {{desc|gmq-bot|morlaus}}

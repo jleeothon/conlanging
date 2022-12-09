@@ -1,0 +1,39 @@
+pageid: 6520020
+ns: 118
+title: Reconstruction:Proto-Germanic/biraubōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*bi-|*raubōną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌbi.ˈrɑu̯.bɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[bereave]], [[spoil]], take away
+
+  ====Inflection====
+  {{gem-conj-wk2|biraub}}
+
+  ====Descendants====
+  * {{desc|ang|berēafian}}
+  ** {{desc|enm|bireven}}
+  *** {{desc|en|bereave}}
+  *** {{desc|sco|bereve|bereif}}
+  * {{desc|ofs|birāvia}}
+  ** {{desc|stq|beroowje}}
+  ** {{desc|fy|berôvje}}
+  * {{desc|osx|birōvōn}}
+  ** {{desc|gml|berôven}}
+  *** {{desc|nds-de|beroven}}
+  * {{desc|odt|*birōvon}}
+  ** {{desc|dum|beroven}}
+  *** {{desc|nl|beroven}}
+  * {{desc|goh|biroubon}}
+  ** {{desc|gmh|berouben}}
+  *** {{desc|de|berauben}}
+  * {{desc|got|𐌱𐌹𐍂𐌰𐌿𐌱𐍉𐌽}}

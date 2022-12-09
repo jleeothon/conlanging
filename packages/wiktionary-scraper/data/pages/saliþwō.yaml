@@ -1,0 +1,27 @@
+pageid: 7330266
+ns: 118
+title: Reconstruction:Proto-Germanic/saliþwō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*saliz|*þwō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈsɑ.li.θwɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref name="HGE">{{R:gem:HGE|*saliþwō|315}}</ref>
+
+  # [[dwelling]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*saliþu}}
+  * {{desc|got|𐍃𐌰𐌻𐌹𐌸𐍅𐍉𐍃|g=p}}
+
+  ===References===
+  <references/>

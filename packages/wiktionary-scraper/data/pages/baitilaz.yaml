@@ -1,0 +1,75 @@
+pageid: 6037068
+ns: 118
+title: Reconstruction:Proto-Germanic/baitilaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*bʰeyd-}}
+
+  From {{suf|gem-pro|*baitijaną|alt1=*bait-|t1=to make bite|*-ilaz|id2=agent
+  noun|pos2=suffix deriving names of tools}}. The ''o''-grade might indicate a
+  lost strong verb {{m|gem-pro|*baitaną}}; compare {{m|gem-pro|*baitraz}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[chisel]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Synonyms====
+
+  * {{l|gem-pro|*maitilaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*baitil}}
+
+  ** {{desc|ofs|*bētel}}
+
+  *** {{desc|stq|Boitel}}
+
+  *** {{desc|fy|beitel}}
+
+  ** {{desc|osx|beitil}}
+
+  *** {{desc|gml|beitel|bētel}}
+
+  **** {{desc|nds|Beitel}}
+
+  ***** {{desc|de|Beitel|bor=1}}
+
+  **** {{desc|pdt|Beitel}}
+
+  ** {{desc|odt|*beitil}}
+
+  *** {{desc|dum|beitel}}
+
+  **** {{desc|nl|beitel}}
+
+  ***** {{desc|af|beitel}}
+
+  ***** {{desc|ja|バイト|tr=baito|bor=1}}
+
+  ** {{desc|goh|beizil}}
+
+  *** {{desc|gmh|beizel}}
+
+  * {{desc|non|beitill}}
+
+  ** {{desc|no|beitel}}
+
+  ** {{desc|gmq-gut|baitel|baitl|baitul}}

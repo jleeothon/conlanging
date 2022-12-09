@@ -1,0 +1,25 @@
+pageid: 7440447
+ns: 118
+title: Reconstruction:Proto-Germanic/wīgamann-
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*wīgą|*mann-|t1=battle|t2=man}}.
+
+  ===Noun===
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|*wīgamannz|465}}</ref>
+
+  # [[warrior]], [[champion]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wīgamann}}
+  * {{desc|non|vígmaðr}}
+  ** {{desc|is|vígmaður}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,37 @@
+pageid: 7199900
+ns: 118
+title: Reconstruction:Proto-Germanic/Mahtihildiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*mahtiz|t1=strength|*hildiz|t2=battle, fight}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑx.ti.ˌxil.diz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|f}}
+
+  # {{given name|gem-pro|female}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Related terms====
+  * {{l|gem-pro|*Brunjōhildiz}}
+  * {{l|gem-pro|*Ermunahildiz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Mahtihild}}
+  ** {{desc|goh|Mahthildis|Mahthilt|*Mahthilta}}
+  *** {{desc|de|Mathilde|Mechthild}}
+  ** {{desc|la|Mahthildis|bor=1}}
+  *** {{desc|fro|Mathilde|Mahaut}}
+  **** {{desc|fr|Mathilde}}
+  *** {{desc|ang|Mathild|bor=1}}
+  **** {{desc|en|Matilda|Maud}}
+  * {{desc|non|Matthildr}}
+  ** {{desc|is|Matthildur}}
+  ** {{desc|fo|Matthild}}

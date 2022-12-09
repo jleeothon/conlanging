@@ -1,0 +1,41 @@
+pageid: 7020642
+ns: 118
+title: Reconstruction:Proto-Germanic/blandijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰlendʰ-}}
+  From {{m|gem-pro|*blandaną}} + {{m|gem-pro|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈblɑn.dijɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # {{lb|gem-pro|transitive}} to [[blind]]
+
+  ====Inflection====
+  {{gem-conj-wk1|bland|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*blandaną}}
+  * {{l|gem-pro|*blandiz}}
+  * {{l|gem-pro|*blindaz}}
+
+  ====Descendants====
+  * {{desc|ang|blendan}}
+  ** {{desc|enm|blēnden}}
+  * {{desc|ofs|blenda}}
+  * {{desc|osx|*blendian}}
+  ** {{desc|gml|blenden}}
+  *** {{desc|nds-de|blennen}}
+  * {{desc|odt|*blenden}}
+  ** {{desc|dum|blenden}}
+  *** {{desc|nl|blenden}}
+  * {{desc|goh|blenten}}
+  ** {{desc|gmh|blenden}}
+  *** {{desc|de|blenden}}
+  *** {{desc|lb|blennen}}

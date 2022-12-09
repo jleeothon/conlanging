@@ -1,0 +1,26 @@
+pageid: 6374465
+ns: 118
+title: Reconstruction:Proto-Germanic/gabindaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*ga|*bindaną|pos=verb}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[bind]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|gabind|gaband|gabund|gabund}}
+
+  ====Descendants====
+  * {{desc|ang|ġebindan}}
+  ** {{desc|enm|ibīnden}}
+  * {{desc|osx|gibindan}}
+  ** {{desc|gml|gebende}}
+  * {{desc|goh|gibintan}}
+  ** {{desc|gmh|gebinden}}
+  * {{desc|got|𐌲𐌰𐌱𐌹𐌽𐌳𐌰𐌽}}

@@ -1,0 +1,56 @@
+pageid: 4706793
+ns: 118
+title: Reconstruction:Proto-Germanic/þukkōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*tuknéh₂-}}, a zero-grade iterative to
+  {{der|gem-pro|ine-pro|*tewk-||to shove, thrust}}. Related to
+  {{cog|sla-pro|*tъknǫti}} ({{cog|ru|ткнуть||to poke, jab, hit}},
+  {{cog|sh|taknuti||to touch}}).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈθuk.kɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[shove]]
+
+
+  ====Inflection====
+
+  The original paradigm consisted of two stem variants, {{m|gem-pro||*þukk-}} in
+  the singular, {{m|gem-pro||*þug-}} in the non-singular.
+
+  {{gem-conj-wk2|þukk}}
+
+
+  ====Descendants====
+
+  * ({{desc|ang|þocerian}}) {{i|with secondary frequentative suffix}}
+
+  * {{desc|non|þoka}}, ({{l|non|þukla}}) {{i|with secondary frequentative
+  suffix}}
+
+  ** {{desc|is|þoka}}
+
+  ** {{desc|no|toka|tokka}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}
+
+
+  [[Category:Proto-Germanic class 2 weak iterative verbs]]

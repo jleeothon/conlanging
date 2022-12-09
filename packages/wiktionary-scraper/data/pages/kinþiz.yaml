@@ -1,0 +1,70 @@
+pageid: 4681183
+ns: 118
+title: Reconstruction:Proto-Germanic/kinþiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ǵenh₁-}}
+
+  From {{inh|gem-pro|ine-pro|*ǵénh₁tis}}, oblique {{m|ine-pro||*ǵn̥h₁tí-}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkin.θiz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[kind]], [[race]]
+
+
+  ====Inflection====
+
+  The original stem ablaut was preserved.
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*kunją}}
+
+
+  ====Descendants====
+
+  Old English shows levelling of the oblique stem with Verner alternation, while
+  Old Norse shows the strong stem with levelled Verner alternation.
+
+  * {{desc|gmw-pro|*kundi}}
+
+  ** {{desc|ang|cynd}}
+
+  *** {{desc|enm|cunde|kunde|kynde}}
+
+  **** {{desc|en|kind}}
+
+  ** {{desc|gmw-pro|*gakundi|der=1}}
+
+  *** {{desc|ang|ġecynd}}
+
+  *** {{desc|goh|gikunt}}
+
+  * {{desc|non|kind}}
+
+  ** {{desc|is|kind}}
+
+  ** {{desc|fo|kind}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

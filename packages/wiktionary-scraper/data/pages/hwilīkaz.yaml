@@ -1,0 +1,100 @@
+pageid: 2646776
+ns: 118
+title: Reconstruction:Proto-Germanic/hwilīkaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*kʷ-}}
+
+  From {{suffix|gem-pro|*hwi-|*līkaz}}, the former being the stem of
+  {{m|gem-pro|*hwaz}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxʷi.liː.kɑz/}}
+
+
+  ===Determiner===
+
+  {{gem-det}}
+
+
+  # [[what]] [[kind]] of, [[what]] [[sort]] of
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|hwilīk}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*swalīkaz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|hwelċ|hwilċ|hwylċ}}
+
+  ** {{desc|enm|hwilc|hwic|whilk|hwilch|hwulch|wilche|whuch|which}}
+
+  *** {{desc|sco-osc|quhilk}}
+
+  **** {{desc|sco|whilk}}
+
+  *** {{desc|en|which}}
+
+  * {{desc|ofs|hwelik|hwelk|hwek|hulk|huk|hok}}
+
+  ** {{desc|frr|hock}}
+
+  ** {{desc|stq|wäl}}; {{l|stq|wäkker}}, {{l|stq|wäkke}}
+
+  ** {{desc|fy|hokker}}
+
+  * {{desc|osx|hwilīk}}
+
+  ** {{desc|gml|welk}}
+
+  *** {{desc|nds-de|welke|wecke}}
+
+  *** {{desc|nds|welk}}
+
+  * {{desc|odt|welik}}
+
+  ** {{desc|dum|welc}}
+
+  *** {{desc|nl|welk}}
+
+  * {{desctree|goh|welih}}
+
+  * {{desc|non|hvílíkr}} {{q|most descendants from accusative ''hvílíkan''}}
+
+  ** {{desc|is|hvílíkur}}
+
+  ** {{desc|fo|hvílíkur}}
+
+  ** {{desc|nn|hokken}} {{qualifier|merged with {{m|non|hvatki}}; non-standard
+  since 2012}}, {{l|nn|hokke som}} (from the neuter {{l|nn|hokke}})
+
+  ** {{desc|gmq-bot|hókken}}
+
+  ** {{desc|gmq-osw|hvilikin}}, {{l|sv|hulkin}}
+
+  *** {{desc|sv|vilken}}, {{qualifier|dialectal}} {{l|sv|hóken}},
+  {{l|sv|hôkken}}
+
+  ** {{desc|da|hvilken}}
+
+  *** {{desc|nb|hvilken}}
+
+  * {{desc|got|𐍈𐌹𐌻𐌴𐌹𐌺𐍃}}
+
+
+  {{cln|gem-pro|interrogative determiners}}

@@ -1,0 +1,26 @@
+pageid: 4410622
+ns: 118
+title: Reconstruction:Proto-Germanic/gulþīnaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*ǵʰelh₃-}}
+  From {{suffix|gem-pro|*gulþą|*īnaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɣul.θiː.nɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[golden]], made of [[gold]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|gulþīn}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*gulþīn}}
+  * {{desctree|non|gullinn}}
+  * {{desc|got|𐌲𐌿𐌻𐌸𐌴𐌹𐌽𐍃}}

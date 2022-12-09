@@ -1,0 +1,36 @@
+pageid: 6413391
+ns: 118
+title: Reconstruction:Proto-Germanic/fiskārijaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*fiskaz|t1=fish|*ārijaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸis.kɑː.ri.jɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{topic|gem-pro|Occupations}} [[fisherman]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*fiskōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*fiskārī}}
+  * {{desc|non|fiskari}}
+  ** {{desc|is|fiskari}}
+  ** {{desc|fo|fiskari}}
+  ** {{desc|nn|fiskar}}
+  ** {{desc|no|fiskari<q:dialectal>|fiskare|fiskår}}
+  ** {{desc|ovd|fistjer}}
+  ** {{desc|sv|fiskare}}
+  ** {{desc|da|fisker}}
+  *** {{desc|nb|fisker}}
+  ** {{desc|gmq-gut|fiskare|fiskre}}

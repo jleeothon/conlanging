@@ -1,0 +1,31 @@
+pageid: 6371603
+ns: 118
+title: Reconstruction:Proto-Germanic/faikną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*peyǵ-|t=evil, fiendish}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɑi̯k.nɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[malice]]
+  # [[deceit]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*faiknīgaz}}
+  * {{l|gem-pro|*faiknijaz}}
+  * {{l|gem-pro|*faiknōną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*faikn}}
+  * {{desc|non|feikn}}
+  ** {{desc|is|feikn}}

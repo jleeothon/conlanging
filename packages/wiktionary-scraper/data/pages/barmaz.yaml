@@ -1,0 +1,70 @@
+pageid: 6332712
+ns: 118
+title: Reconstruction:Proto-Germanic/barmaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alter|gem-pro|alt=*barmiz}}
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro||*bʰór-mo-s}}, from {{suf|ine-pro|*bʰer-|t1=to
+  bear|*-mos|nocat=1}}. Cognate with {{cog|grc|φορμός|t=basket for
+  carrying}}.<ref name="SEO" /><ref name="HGE" />
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbɑr.mɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|*ƀarmaz|37}}</ref><ref
+  name="SEO">{{R:sv:SEO|barm|31|passage=*barma-}}</ref>
+
+
+  # {{top|gem-pro|Body parts}} [[lap]]
+
+  # [[bosom]]
+
+  #: {{syn|gem-pro|*bōsmaz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*barm}}
+
+  * {{desc|non|baðmr|g=m|barmr|g2=m}}
+
+  ** {{desc|is|baðmur|g=m}}, {{l|non|barmur|g=m}}
+
+  ** {{desc|fo|barmur|g=m}}
+
+  ** {{desc|nb|barm|g=m}}
+
+  ** {{desc|nn|barm|g=m}}
+
+  ** {{desc|sv|barm|g=c}}
+
+  ** {{desc|da|barm|g=c}}
+
+  * {{desc|got|𐌱𐌰𐍂𐌼𐍃|g=m}} {{q|< {{l|gem-pro||*barmiz}}}}
+
+  * {{desc|fiu-fin-pro|*parmas|bor=1}} {{see desc}}
+
+
+  ===References===
+
+  <references />

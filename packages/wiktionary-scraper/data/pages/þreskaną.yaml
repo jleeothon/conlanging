@@ -1,0 +1,56 @@
+pageid: 2629026
+ns: 118
+title: Reconstruction:Proto-Germanic/þreskaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*þreskwaną}}
+
+  ===Etymology===
+  Probably ultimately from {{der|gem-pro|ine-pro|*terh₁-|t=to rub, turn}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθres.kɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[thresh]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|þresk|þrask|þrusk|þrusk}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*þreskwaþluz}}
+
+  ====Descendants====
+  * {{desc|ang|þersċan|þresċan|þrexan}}
+  ** {{desc|enm|threshen|thresshen|threschen|thrasshen}}
+  *** {{desc|sco|thresch|thrash}}
+  *** {{desc|en|thresh|thrash}}
+  * {{desc|ofs|*therska}}
+  ** {{desc|frr|seenk}} {{q|Amrum}}
+  ** {{desc|stq|täärske}}
+  ** {{desc|fy|terskje}}
+  * {{desc|osx|*threskan|*therskan}}
+  ** {{desc|gml|derschen|dorschen}}
+  *** {{desc|nds|döschen}}
+  * {{desc|frk|*threskan}}
+  ** {{desctree|odt|*threscan}}
+  ** {{desc|VL.|*trescāre|bor=1}}
+  *** {{desc|fro|trescher|treschier}}
+  *** {{desc|it|trescare}}
+  * {{desc|goh|dreskan}}
+  ** {{desc|gmh|dreschen|dröschen|treschen|tröschen}}
+  *** {{desc|de|dreschen}}
+  *** {{desc|lb|dreschen}}
+  *** {{desc|yi|דרעשן}}
+  * {{desctree|non|þreskja}}
+  * {{desc|got|𐌸𐍂𐌹𐍃𐌺𐌰𐌽}}
+  ** {{desc|VL.|*triscāre|bor=1}}
+  *** {{desc|gl|triscar}}
+  *** {{desc|pt|triscar}}
+  *** {{desc|es|triscar}}
+  * {{desc|fiu-fin-pro|*rehkidäk|bor=1}} {{see desc}}

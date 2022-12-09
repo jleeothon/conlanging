@@ -1,0 +1,32 @@
+pageid: 8827950
+ns: 118
+title: Reconstruction:Proto-Germanic/latāną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*lataz|t1=late|*-āną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑ.tɑː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to be [[slow]], to [[tarry]]
+  # become [[slow]]
+
+  ====Inflection====
+  {{gem-conj-wk3|lat}}
+
+  ====Alternative reconstructions====
+  * {{l|gem-pro|*latōną}}<ref name="HGE">{{R:gem:HGE|*latōjanan|237}}</ref>
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*latēn}}
+  * {{desc|non|lata}}
+  ** {{desc|is|lata}}
+
+  ===References===
+  <references/>

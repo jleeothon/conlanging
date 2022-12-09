@@ -1,0 +1,77 @@
+pageid: 3854505
+ns: 118
+title: Reconstruction:Proto-Germanic/albits
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative reconstructions===
+
+  * {{alt|gem-pro|*albuts}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*h₂elbʰ-||white}}. Cognate with
+  {{cog|sla-pro|*olbǫdь||swan}} and {{cog|la|albus||white}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑl.βits/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*albut-|20}}</ref>
+
+
+  # {{topics|gem-pro|Anatids}} [[swan]]
+
+  #: {{syn|gem-pro|*swanaz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*albit}}
+
+  ** {{desc|ang|ælbitu|ielfetu}}; {{l|ang|ielfete}}; {{l|ang|ielfette}} (<
+  {{l|gem-pro|*albitjǭ}})
+
+  *** {{desc|en|Elvet}} (in placenames)
+
+  ** {{desc|osx|*alvit|*elvit}}
+
+  *** {{desc|gml|elft|unc=1}}
+
+  ** {{desc|odt|*alvit}}
+
+  *** {{desc|dum|elft|unc=1}}
+
+  **** {{desc|nl|elft}}
+
+  ** {{desc|goh|albiz|elbiz}}
+
+  *** {{desc|gmh|albiz|elbiz}}
+
+  **** Alemannic (Swabian): {{l|swg|Elbsch}}
+
+  * {{desc|non|alpt|álpt|ǫlpt}}; {{l|no|elptr}}
+
+  ** {{desc|is|álft}}
+
+  ** {{desc|fo|okn|unc=1}}
+
+  ** {{desc|gmq-bot|ämt}}, {{l|gmq-bot|ämla}}
+
+
+  ===References===
+
+  <references/>

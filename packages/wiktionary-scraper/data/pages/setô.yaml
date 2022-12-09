@@ -1,0 +1,26 @@
+pageid: 6019724
+ns: 118
+title: Reconstruction:Proto-Germanic/setô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*sed-}}
+  Derived from {{m|gem-pro|*sitjaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈse.tɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[sitter]]; he who sits
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|ang|angseta}}
+  * {{desc|goh|*sezzo|anasezzo}}
+  * {{desc|non|*seti|dróttseti|landseti}}

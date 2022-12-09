@@ -1,0 +1,51 @@
+pageid: 2420658
+ns: 118
+title: Reconstruction:Proto-Germanic/fimftehun
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Compound of {{m|gem-pro|*fimf}} + {{m|gem-pro|*tehun}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸimɸ.te.xun/}}
+
+  ===Numeral===
+  {{enum|gem-pro|*fedurtehun|*sehstehun|cardinal number|15}}
+  {{gem-num|*fimftatehundô}}
+
+  # [[fifteen]]
+
+  ====Descendants====
+  * {{desc|ang|fīftīene}}
+  ** {{desc|enm|fiftene}}
+  *** {{desc|en|fifteen}}
+  *** {{desc|yol|vifteen}}
+  * {{desc|ofs|fīftīne}}
+  ** {{desc|stq|füüftien}}
+  ** {{desc|fy|fyftjin}}
+  * {{desc|osx|fīftein}}
+  ** {{desc|gml|*viftien}}
+  *** {{desc|pdt|feftieen}}
+  * {{desc|odt|*fīftian}}
+  ** {{desc|dum|vijftien}}
+  *** {{desc|nl|vijftien}}
+  **** {{desc|af|vyftien}}
+  * {{desc|goh|fimfzehan}}
+  ** {{desc|gmh|vünfzehn}}
+  *** {{desc|cim|vüusane|alts=1}}
+  *** {{desc|de|fünfzehn}}
+  *** {{desc|lb|fofzéng}}
+  *** {{desc|yi|פֿופֿצן}}
+  * {{desc|non|fimmtán}}
+  ** {{desc|is|fimmtán}}
+  ** {{desc|fo|fimtan}}
+  ** {{desc|nrn|fjomtan}}
+  ** {{desc|no|femten}}
+  ** {{desc|gmq-osw|fæmtan}}
+  *** {{desc|sv|femton}}
+  ** {{desc|da|femten}}
+  ** {{desc|gmq-gut|femtn|femtan}}
+  ** {{desc|gmq-bot|femtan}}
+  * {{desc|got|𐍆𐌹𐌼𐍆𐍄𐌰𐌹𐌷𐌿𐌽}}

@@ -1,0 +1,38 @@
+pageid: 7397903
+ns: 118
+title: Reconstruction:Proto-Germanic/manalausaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*mann-|*-lausaz|t1=man|t2=less}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɑ.nɑ.ˌlɑu̯.sɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref>{{R:gem:HGE|*mann-lausaz|260}}</ref>
+
+  # [[without]] a [[man]], without a [[husband]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desc|ang|manleās}}
+  ** {{desc|enm|*manles}}
+  *** {{desc|en|manless}}
+  * {{desc|odt|*manlōs}}
+  ** {{desc|dum|*manloos}}
+  *** {{desc|nl|manloos}}
+  * {{desc|osx|*manlōs}}
+  ** {{desc|gml|manlōs}}
+  * {{desc|goh|*manlōs}}
+  ** {{desc|gmh|*manlōs}}
+  *** {{desc|de|mannlos}}
+  * {{desc|non|mannlauss}}
+  ** {{desc|is|mannlauss}}
+
+  ===References===
+  <references/>

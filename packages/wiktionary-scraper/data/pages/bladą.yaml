@@ -1,0 +1,26 @@
+pageid: 2851106
+ns: 118
+title: Reconstruction:Proto-Germanic/bladą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro||*bʰl̥h₃-o-to-m}}, from {{m|ine-pro|*bʰleh₃-}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈblɑ.ðɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[leaf]] {{gloss|of a plant}}
+  # [[sheet]]
+  # [[blade]] {{gloss|flat surface of a tool or weapon}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*blad}}
+  * {{desctree|non|blað}}

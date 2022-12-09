@@ -1,0 +1,71 @@
+pageid: 3899986
+ns: 118
+title: Reconstruction:Proto-Germanic/ōsaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*ōzaz}}
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*h₃éh₁os|t=mouth}} (apparently reformed as a
+  thematic noun {{m|ine-pro||*h₃eh₁ésos}}). Cognate with {{cog|la|ōs|t=mouth}},
+  {{cog|lt|úostas|t=port, harbour, haven}}, {{cog|ru|уста́||mouth, lips}},
+  {{cog|sa|आस्|tr=ā́s||mouth}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɔː.sɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # {{topic|gem-pro|Mouth}}{{lb|gem-pro|anatomy}} [[mouth]]
+
+  #: {{syn|gem-pro|*munþaz}}
+
+  # {{topic|gem-pro|Hydrology}}{{lb|gem-pro|of a river}} [[mouth]], [[inlet]]
+
+  #: {{syn|gem-pro|*gamunþiją}}
+
+
+  ====Inflection====
+
+  Verner alternation was preserved in this noun, so that some forms had the stem
+  ''*ōz-''. But the distribution of the alternants is currently unknown.
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*ōzô}}
+
+
+  ====Descendants====
+
+  * {{desctree|ang|ōr}}
+
+  * {{desc|non|óss}}
+
+  ** {{desc|is|ós}}
+
+  ** {{desc|fo|ósi}} (changed to weak declension)
+
+  ** {{desc|no|os}}
+
+  ** {{desc|gmq-osw|os|alt=ōs}}
+
+  *** {{desc|sv|os}}
+
+  ** {{desc|da|os}}

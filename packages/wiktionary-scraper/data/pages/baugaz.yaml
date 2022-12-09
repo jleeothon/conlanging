@@ -1,0 +1,38 @@
+pageid: 4489075
+ns: 118
+title: Reconstruction:Proto-Germanic/baugaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰewgʰ-}}
+  From {{der|gem-pro|ine-pro|*bʰewgʰ-||to bend}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑu̯.ɣɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # a [[bend]]; [[bow]]
+  # something bent (round); [[circle]]
+  # a [[ring]]; [[bracelet]]
+  # a [[wreath]]; [[crown]]
+  # [[collar]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  {{col4|gem-pro
+  |*beuganą
+  |*buhtiz
+  |*bugô
+  |*buhilaz
+  }}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*baug}}
+  * {{desctree|non|baugr}}
+  * {{desc|gl|boga|bor=1}}

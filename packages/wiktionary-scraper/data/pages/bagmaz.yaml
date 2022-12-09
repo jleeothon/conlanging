@@ -1,0 +1,34 @@
+pageid: 2669660
+ns: 118
+title: Reconstruction:Proto-Germanic/bagmaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alt|gem-pro|*baumaz||West Germanic}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*bʰew-||to grow, swell}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑɣ.mɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*bagma-|47}}</ref>
+
+  # {{topics|gem-pro|Trees}} [[tree]]
+  #: {{syn|gem-pro|*trewą}}
+  # {{topics|gem-pro|Building materials}} [[beam]], [[balk]]
+  #: {{syn|gem-pro|*balkô|*galgô}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*baum}}
+  * {{desctree|non|baðmr}}
+  * {{desc|got|𐌱𐌰𐌲𐌼𐍃}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,65 @@
+pageid: 4420256
+ns: 118
+title: Reconstruction:Proto-Germanic/ili
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Likely an old t-stem, {{der|gem-pro|ine-pro||*ilit-}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈi.li/}}
+
+
+  ===Noun===
+
+  {{gem-noun|n}}
+
+
+  # {{topics|gem-pro|Body parts}} [[sole]] of the foot
+
+
+  ====Inflection====
+
+  Like {{m|gem-pro|*alu}} and {{m|gem-pro|*mili}}, the nominative singular form
+  lacks the final consonant of the stem. This preserves an old sound change from
+  late PIE, where word-final ''*-t'' becomes ''*-d''. According to Grimm's Law,
+  ''*t'' shifted to ''*þ'', and ''*d'' shifted to ''*t''. Following this,
+  word-final ''*-t'' was lost regularly.
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*īlô}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|ile}}
+
+  * {{desc|ofs|ili|ile}}
+
+  * {{desc|osx|-}}
+
+  ** {{desc|gml|ēle|ēlde|ēlt}}
+
+  *** {{desc|nds|Elt}}
+
+  * {{desc|odt|-}}
+
+  ** {{desc|nl|eelt}}
+
+  * {{desc|non|il}} (< feminine) {{desctree|non|il|noparent=1}}
+
+
+  ====Further reading====
+
+  * {{R:gem:EDPG}}

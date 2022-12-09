@@ -1,0 +1,26 @@
+pageid: 2863228
+ns: 118
+title: Reconstruction:Proto-Germanic/laistijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*leys-}}
+  From {{affix|gem-pro|*laistaz|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑi̯s.ti.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[follow]], to [[track]]
+  # to [[pursue]]
+
+  ====Inflection====
+  {{gem-conj-wk1|laist|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*laistijan}}
+  * {{desc|got|𐌻𐌰𐌹𐍃𐍄𐌾𐌰𐌽}}

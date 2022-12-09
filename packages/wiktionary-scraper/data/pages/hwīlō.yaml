@@ -1,0 +1,37 @@
+pageid: 2900420
+ns: 118
+title: Reconstruction:Proto-Germanic/hwīlō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*kʷyeh₁-}}
+  From {{der|gem-pro|ine-pro|*kʷyeh₁-||to rest}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxʷiː.lɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[time]], [[period]] of time, [[while]]
+  # period of [[rest]], [[break]], [[pause]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*hwīlāną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*hwīlu}}
+  * {{desc|non|hvíla}}
+  ** {{desc|is|hvíla}}
+  ** {{desc|fo|hvíla}}
+  ** {{desc|gmq-osw|hvila|alt=hvīla}}
+  *** {{desc|sv|vila}}
+  *** {{desc|fi|huilata|bor=1}}
+  ** {{desc|da|hvile}}
+  ** {{desc|nb|hvile}}
+  * {{desc|got|𐍈𐌴𐌹𐌻𐌰}}

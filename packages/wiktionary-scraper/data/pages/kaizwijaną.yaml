@@ -1,0 +1,58 @@
+pageid: 7897621
+ns: 118
+title: Reconstruction:Proto-Germanic/kaizwijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{rfe|gem-pro}}
+
+  ====Alternative reconstructions====
+  * {{l|gem-pro|*karjaną}}
+  * {{l|gem-pro|*karzijaną}}
+  * {{l|gem-pro|*kaurijaną}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkɑi̯.zwi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:EDPG|*kaizwjan-|277}}</ref>
+
+  # to [[turn]]
+  # to [[direct]]
+
+  ====Inflection====
+  {{gem-conj-wk1|kaizw|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*kaiʀwijan}}
+  ** {{desc|ang|cierran}}
+  ** {{desc|osx|kērian}}
+  *** {{desc|gml|kēren}}
+  **** {{desc|nds|keren}}
+  ** {{desc|odt|*kēren}}
+  *** {{desc|dum|kêren}}
+  **** {{desc|nl|keren}}
+  ** {{desc|goh|keren}}
+  *** {{desc|gmh|keren}}
+  **** {{desc|de|kehren}}
+  * {{desc|non|keyra}}
+  ** {{desc|is|keyra}}
+  ** {{desc|fo|koyra}}
+  ** {{desc|no|-}}
+  *** {{desc|nb|kjøre}}
+  *** {{desc|nn|køyre}}
+  ** {{desc|gmq-osw|køra|alt=kø̄ra}}
+  *** {{desc|sv|köra}}
+  ** {{desc|gmq-oda|køræ|alt=kø̄ræ}}
+  *** {{desc|da|køre}}
+  ** {{desc|gmq-bot|kjör}}
+  ** {{desc|ovd|tjyöra}}
+  ** {{desc|gmq-gut|kåire}}
+  ** {{desc|gmq-scy|køra}}
+  ** {{desc|bor=1|enm|cairen|kayren}}
+  *** {{desc|en|cair}}
+
+  ===References===
+  <references/>

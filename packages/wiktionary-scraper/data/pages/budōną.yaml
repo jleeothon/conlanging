@@ -1,0 +1,42 @@
+pageid: 3927928
+ns: 118
+title: Reconstruction:Proto-Germanic/budōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰewdʰ-}}
+  From {{der|gem-pro|ine-pro|*bʰewdʰ-||to be awake, perceive fully}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbu.ðɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[proclaim]], [[announce]], [[lere]], [[instruct]]
+
+  ====Inflection====
+  {{gem-conj-wk2|bud}}
+
+  ====Related terms====
+  * {{l|gem-pro|*budô}}
+  * {{l|gem-pro|*budą}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*budōniz}}
+
+  ====Descendants====
+  * {{desc|ang|bodian}}
+  ** {{desc|enm|bodien|alt=bōdien|boden}}
+  *** {{desc|sco|bode|bod}}
+  *** {{desc|en|bode}}
+  * {{desc|ofs|bodia}}
+  * {{desc|non|boða}}
+  ** {{desc|is|boða}}
+  ** {{desc|fo|boða}}
+  ** {{desc|gmq-osw|buþa|bodha}}
+  *** {{desc|sv|båda}}
+  ** {{desc|nn|bode}}
+  ** {{desc|gmq-bot|boda}}

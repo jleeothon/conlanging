@@ -1,0 +1,65 @@
+pageid: 6531089
+ns: 118
+title: Reconstruction:Proto-Germanic/nēdiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*(s)neh₁-|t=to spin; sew}}. Cognate with
+  {{cog|grc|νέσις|t=spinning}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈnɛː.ðiz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # That which is sewn; [[seam]]; [[stitch]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun-i-mf|nēd}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*nēaną}}
+
+  * {{l|gem-pro|*snōdō}}
+
+
+  ====Descendants====
+
+  * {{desc|ofs|*nād|*nēd}}
+
+  ** {{desc|stq|Näid}}
+
+  ** {{desc|fy|naad}} {{i|possibly borrowed from Dutch}}
+
+  * {{desc|osx|*nād}}
+
+  ** {{desc|gml|nât}}
+
+  *** {{desc|nds-de|Nahd}}
+
+  * {{desc|odt|*nād}}
+
+  ** {{desc|dum|naet}}
+
+  *** {{desc|nl|naad}}
+
+  * {{desc|goh|nāt}}
+
+  ** {{desc|gmh|nāt}}
+
+  *** {{desc|de|Naht}}

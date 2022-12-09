@@ -1,0 +1,26 @@
+pageid: 6550542
+ns: 118
+title: Reconstruction:Proto-Germanic/garwakōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*gʰrebʰ-||to grab, take}}.
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[prepare]], [[supply]]
+
+  ====Inflection====
+  {{gem-conj-wk2|garwak}}
+
+  ====Related terms====
+  * {{l|gem-pro|*garwaz||ready, prepared}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*garwakōn}}
+  ** {{desc|ang|ġearcian}}
+  *** {{desc|enm|yerken}}
+  **** {{desc|en|yerk}}

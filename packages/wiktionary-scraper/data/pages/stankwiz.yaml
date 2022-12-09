@@ -1,0 +1,56 @@
+pageid: 4775734
+ns: 118
+title: Reconstruction:Proto-Germanic/stankwiz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alter|gem-pro|*stankwaz}}
+  * {{alter|gem-pro|*stankiz||West Germanic}}
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*stengʷ-||to push, thrust}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstɑŋʷ.kʷiz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[odor]]; [[fragrance]]
+  # [[stench]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*stunkwiz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*stinkwaną}}
+
+  ====Descendants====
+  From {{m|gem-pro||*stankwiz}}:
+  * {{desctree|ang|stenċ}}
+  * {{desc|ofs|*stank|*stenk}}
+  ** {{desc|stq|Stoank}}
+  * {{desc|osx|stank}}
+  ** {{desc|gml|stank}}
+  *** {{desc|nds-de|Stank}}
+  * {{desc|odt|stank}}
+  ** {{desc|dum|stanc}}
+  *** {{desc|nl|stank}}
+  * {{desc|goh|*stank|stanc|stanch}}
+  ** {{desc|gmh|stanc}}
+  *** {{desc|de|Stank}}
+  *** {{desc|gmh|gestanc|der=1}}
+  **** {{desc|cim|gastànkh}}
+  **** {{desc|de|Gestank}}
+  ** {{desc|goh|*stenki|der=1}}
+  *** {{desc|gmh|stenke}}
+  From {{m|gem-pro||*stankwaz}}:
+  * {{desc|non|stǫkkr}} {{q|descendants perhaps from Middle Low German}}
+  ** {{desc|no|-|unc=1}} {{l|nb|stank}}
+  ** {{desc|sv|stank|unc=1}}
+  ** {{desc|da|stank|unc=1}}

@@ -1,0 +1,57 @@
+pageid: 8920166
+ns: 118
+title: Reconstruction:Proto-Germanic/swōtmô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ǵʰley-}}
+
+  From {{af|gem-pro|*swōtijaną|*-mô|t1=to sweeten}}; compare
+  {{cog|sa|स्वाद्मन्|t=sweetness}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈswɔːt.mɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[sweetness]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Usage notes====
+
+  * In the descendants, {{glossary|umlaut}} has been generalised from the
+  singular oblique cases due to the influence of {{m|gem-pro|*swōtuz}} (oblique
+  stem {{m|gem-pro||*swōtij-}}) and {{m|gem-pro|*swōtijaną}}.
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*swōtmō}}
+
+  * {{desc|non-oen|*sœtmi|*sǿtmi}}
+
+  ** {{desc|gmq-oda|søtmæ}}
+
+  *** {{desc|da|sødme}}
+
+  **** {{desc|nb|sødme|bor=1}}
+
+  ** {{desc|gmq-osw|søtme}}
+
+  *** {{desc|sv|sötma|qq=from the Old Swedish oblique {{m|gmq-osw|søtma}}}}

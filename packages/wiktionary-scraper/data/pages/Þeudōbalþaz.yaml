@@ -1,0 +1,40 @@
+pageid: 5172909
+ns: 118
+title: Reconstruction:Proto-Germanic/Þeudōbalþaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*þeudō|t1=people, nation|*balþaz|t2=strong, bold}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθeu̯.ðɔː.ˌbɑl.θɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Þeudubalþ}}
+  ** {{desc|frk|*Theodobald}}
+  ** {{desc|ang|Þēodbald}}
+  *** {{desc|en|Theobald}}
+  *** {{desc|la|Theobaldus|bor=1}}
+  **** {{desc|fro|Tibaut}}
+  **** {{desc|fr|Thibault}}
+  **** {{desc|it|Teobaldo}}
+  **** {{desc|es|Teobaldo}}
+  **** {{desc|dum|bor=1}}
+  ***** {{desc|nl}}
+  ** {{desc|goh|Theudobald|Dietbald}}
+  *** {{desc|gmh}}
+  **** {{desc|de|Thibaut}}
+  ***** {{desc|nl|bor=1}}
+  * {{desc|non}}
+  ** {{desc|is}}
+  ** {{desc|no|Teovald}}

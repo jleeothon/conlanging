@@ -1,0 +1,94 @@
+pageid: 2902213
+ns: 118
+title: Reconstruction:Proto-Germanic/wistiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwis.tiz/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*h₂wes-}}
+
+  From {{suffix|gem-pro|*wesaną|t1=to be|*þiz}}.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}
+
+
+  # {{senseid|gem-pro|being}} [[essence]], [[being]]
+
+  # [[nature]], [[reality]]
+
+  # [[substance]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*wisti|id=being}}
+
+  * {{desc|non|vist}}
+
+  ** {{desc|is|vist}}
+
+  * {{desc|got|𐍅𐌹𐍃𐍄𐍃}}
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*wes-|id=graze}}
+
+  From {{suffix|gem-pro|*wesaną|t1=to consume,
+  feast|*þiz}}.<ref>{{R:gem:EDPG|page=583}}</ref>
+
+
+  ====Noun====
+
+  {{gem-noun|f}}
+
+
+  # {{senseid|gem-pro|food}} [[subsistence]], [[food]]
+
+  # [[provision]], [[support]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desctree|gmw-pro|*wisti|id=food}}
+
+  * {{desc|non|vist}}
+
+  ** {{desc|is|vist}}
+
+  ** {{desc|fo|vist}}
+
+  ** {{desc|gmq-osw|vist}}
+
+  *** {{desc|sv|hemvist|der=1}}
+
+  * Suevic or {{desc|got|-}}
+
+  ** {{desc|gl|gueste|bor=1}}
+
+
+  ===References===
+
+  <references/>

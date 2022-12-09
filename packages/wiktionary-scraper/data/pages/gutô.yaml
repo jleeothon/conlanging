@@ -1,0 +1,89 @@
+pageid: 2792545
+ns: 118
+title: Reconstruction:Proto-Germanic/gutô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*ǵʰewd-}}
+
+  Perhaps from {{m|gem-pro|*geutaną||to pour}}. Compare {{cog|gem-pro|*gautaz}}
+  and {{cog|gem-pro|*eutaz}}, related also to {{m|en|Gutnish}},
+  {{m|en|Gotland}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣu.tɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # a [[Goth]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*gotō}}
+
+  ** {{desc|ang|Gota|Guta}}
+
+  *** {{desc|enm|Gothes|Gotes}} {{q|pl.}}
+
+  **** {{desc|en|Goth}} {{q|influenced by Latin {{l|la|Gothus}}}}
+
+  *** {{desc|ga|Gotach|bor=1}}
+
+  ** {{desc|gmh|goten}} {{q|pl.}}
+
+  *** {{desc|de|Gote}} {{q|borrowed from English?}}
+
+  ** {{desc|bor=1|la|Gotones|Gothones}} {{q|{{w|Tacitus}}}}
+
+  * {{desctree|non|goti}}
+
+  * {{desc|got|*𐌲𐌿𐍄𐌰}} {{q|in {{l|got|𐌲𐌿𐍄𐌸𐌹𐌿𐌳𐌰}}}}
+
+  ** {{desc|grc|*Γοῦθθος|bor=1}} {{q|as gen. pl. Γούθθων}}, {{l|grc|Γύθωες}}
+  {{q|{{w|Ptolemy}}}}, {{l|grc|Γότθος}}
+
+  *** {{desc|zh|哥特人|bor=1}}
+
+  *** {{desc|bor=1|la|gotus|gothus}}
+
+  **** {{desc|ca|got}}
+
+  **** {{desc|frm|Got}}
+
+  ***** {{desc|fr|Goth}}
+
+  **** {{desc|pt|godo}}
+
+  **** {{desc|es|godo}}
+
+  *** {{desc|xpr|Gut|bor=1}}
+
+  *** {{desc|ru|гот|bor=1}}
+
+  *** {{desc|bor=1|sh|Gȍt|Го̏т}}
+
+
+  * {{desc|grc|Γούτωνες|bor=1}} {{q|{{w|Strabo}}}}
+
+  * {{desc|la|Gutones|bor=1}} {{q|{{w|Pliny the Elder}}, recording the account
+  of {{w|Pytheas of Massalia}}}}
+
+
+  {{topics|gem-pro|Nationalities}}

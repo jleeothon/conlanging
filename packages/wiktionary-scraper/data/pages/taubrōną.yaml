@@ -1,0 +1,25 @@
+pageid: 8078273
+ns: 118
+title: Reconstruction:Proto-Germanic/taubrōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*taubrą|*-ōną|t1=magic}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtɑu̯.βrɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[enchant]], to [[bewitch]]
+  # to [[practice]] [[sorcery]]
+
+  ====Inflection====
+  {{gem-conj-wk2|taubr}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*taubrōn}}
+  * {{desctree|non|taufra}}

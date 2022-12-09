@@ -1,0 +1,25 @@
+pageid: 4759765
+ns: 118
+title: Reconstruction:Proto-Germanic/mēlijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*mēlą|t1=mark, spot|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmɛː.li.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[mark]], [[stain]], [[paint]]
+
+  ====Inflection====
+  {{gem-conj-wk1|mēl|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*mālijan}}
+  * {{desc|non|mæla}}
+  * {{desc|got|𐌼𐌴𐌻𐌾𐌰𐌽}}

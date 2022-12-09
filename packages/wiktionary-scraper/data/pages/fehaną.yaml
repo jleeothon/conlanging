@@ -1,0 +1,31 @@
+pageid: 5676125
+ns: 118
+title: Reconstruction:Proto-Germanic/fehaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*peḱ-||joyful, pretty}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸe.xɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[rejoice]], be glad
+
+  ====Inflection====
+  {{gem-conj-st|class=5|feh|fah|fēg|feg}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*fagjaną}}
+  * {{l|gem-pro|*faginōną}}
+  * {{l|gem-pro|*fēhiz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*gafehan|der=1}}
+
+  ====Further reading====
+  * {{R:gem:EDPG|*fehan-|page=133}}

@@ -1,0 +1,81 @@
+pageid: 4699929
+ns: 118
+title: Reconstruction:Proto-Germanic/þurftiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*terp-}}
+
+  From {{suffix|gem-pro|*þurbaną|t1=to need|*þiz}}. Cognate with
+  {{cog|sa|तृप्ति||satisfaction, contentment}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈθurɸ.tiz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[need]], [[necessity]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*naudiþurftiz}}
+
+
+  ====Descendants====
+
+  * {{desc|ofs|*threft}} (in {{l|ofs|nēdthreft}})
+
+  ** {{desc|fy|needdrift}}
+
+  * {{desc|osx|thurft|thuruft}}; {{l|osx|nōdthurft}}
+
+  * {{desc|odt|*thurft}}
+
+  ** {{desc|dum|*durft}} (in {{l|dum|nootdurft}}, {{l|dum|nootdruft}},
+  {{l|dum|nootdorft}})
+
+  *** {{desc|nl|nooddruft}}
+
+  **** {{desc|af|nooddruf}}
+
+  * {{desc|goh|durft|duruft}}; {{l|goh|nōtdurft}}, {{l|goh|nōtduruft}}
+
+  ** {{desc|gmh|durft}}
+
+  *** {{desc|de|Durft}}; {{l|de|Notdurft}}
+
+  * {{desc|non|þurft|þyrft}}; {{l|non|nauðþurft}}
+
+  ** {{desc|is|þurft}}; {{l|is|nauðþurft}}
+
+  ** {{desc|gmq-osw|þorft|þyrft}}
+
+  *** {{desc|sv|-torft}} in {{l|sv|nödtorft}}
+
+  ** {{desc|nn|turft}}
+
+  ** {{desc|gmq-bot|tahttu|alt=tahtt-}}
+
+  * {{desc|got|𐌸𐌰𐌿𐍂𐍆𐍄𐍃}}; {{l|got|𐌽𐌰𐌿𐌳𐌹𐌸𐌰𐌿𐍂𐍆𐍄𐍃}}
+
+
+  ===References===
+
+  * {{R:gem:EDPG}}

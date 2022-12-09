@@ -1,0 +1,80 @@
+pageid: 7667176
+ns: 118
+title: Reconstruction:Proto-Germanic/kernô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Related to {{m|gem-pro|*kurną||corn, grain}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈker.nɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG|*kernan-|285}}</ref>
+
+
+  # [[kernel]], [[core]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*kernǭ}}
+
+
+  ====Descendants====
+
+  * {{desc|osx|kerno}}
+
+  ** {{desc|gml|kerne|kern|karne|karn}}
+
+  * {{desc|odt|*kerno}}
+
+  ** {{desc|dum|kerne|keerne}}
+
+  *** {{desc|nl|kern}}
+
+  * {{desc|goh|kerno}}
+
+  ** {{desc|gmh|kerne|kern}}
+
+  *** {{desc|gmw-cfr}}
+
+  **** {{desc|hrx|Kern}}
+
+  *** {{desc|de|Kern}}
+
+  *** {{desc|lb|Kär}}
+
+  * {{desc|non|kjarni}}
+
+  ** {{desc|is|kjarni}}
+
+  ** {{desc|fo|kjarni}}
+
+  ** {{desc|nb|kjerne}}
+
+  ** {{desc|gmq-osw|kiärne}}
+
+  *** {{desc|sv|kärna}} {{q|from the oblique}}, {{l|sv|kärne}} {{q|obsolete or
+  dialectal}}
+
+  ** {{desc|da|kerne}}
+
+
+  ===References===
+
+  <references/>

@@ -1,0 +1,29 @@
+pageid: 7393951
+ns: 118
+title: Reconstruction:Proto-Germanic/erþōhnuts
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*erþō|*hnuts}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈer.θɔː.ˌxnuts/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:HGE|*erþaxnutz|85}}</ref>
+
+  # {{topics|gem-pro|Apiales order plants|Fungi}} [[earthnut]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*erþōhnut}}
+  * {{desc|non|jarðhnot}}
+  ** {{desc|is|jarðhneta}}
+  ** {{desc|sv|jordnöt}}
+
+  ===References===
+  <references/>

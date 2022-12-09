@@ -1,0 +1,32 @@
+pageid: 4721017
+ns: 118
+title: Reconstruction:Proto-Germanic/þingōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{suffix|gem-pro|*þingą|t1=meeting, matter of discussion|*-ōną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθiŋ.ɡɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[hold]] a meeting, [[discuss]], [[speak]] for or of
+
+  ====Inflection====
+  {{gem-conj-wk2|þing}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*þingōniz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þingōn}}
+  * {{desc|non|þinga}}
+  ** {{desc|is|þinga}}
+  ** {{desc|fo|tinga}}
+  ** {{desc|gmq-osw|þinga}}
+  *** {{desc|sv|tinga}}
+  ** {{desc|da|tinge}}

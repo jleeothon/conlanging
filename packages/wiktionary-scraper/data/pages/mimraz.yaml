@@ -1,0 +1,29 @@
+pageid: 6893450
+ns: 118
+title: Reconstruction:Proto-Germanic/mimraz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*mīmraz}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈmim.rɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[mindful]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|mimr}}
+
+  ====Related terms====
+  * {{l|gem-pro|*maimrô}}
+  * {{l|gem-pro|*mīmrōną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*mimr}}
+  ** {{desc|ang|mimor}}
+  * {{desc|non|Mímir}} {{i|Norse god of Memory}}

@@ -1,0 +1,99 @@
+pageid: 2787206
+ns: 118
+title: Reconstruction:Proto-Germanic/ab
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{alt|gem-pro|*aba|*af|*afa}}
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*h₂epó}}.<ref name="EDPG"/>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ɑβ/}}
+
+
+  ===Preposition===
+
+  {{head|gem-pro|preposition}}<ref name="EDPG">{{R:gem:EDPG|*aba|1}}</ref>
+
+
+  # [[away]] [[from]] {{+obj|gem-pro|dat}}
+
+
+  ===Adverb===
+
+  {{gem-adv}}<ref name="EDPG"/>
+
+
+  # [[away]]
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*ab|alt=*ab(a)}}, {{l|gmw-pro|*af|*af(a)}}
+
+  ** {{desc|ang|æf|af|of}}
+
+  *** {{desc|enm|of|off}}
+
+  **** {{desc|sco|of|off|af|aff}}
+
+  **** {{desc|en|of|off}}
+
+  ** {{desc|ofs|af|of}}
+
+  *** {{desc|stq|oawe|ou}}
+
+  *** {{desc|fy|af|ôf}}
+
+  ** {{desc|osx|af}}
+
+  *** {{desc|gml|af}}
+
+  **** {{desc|nds|af|of}}
+
+  **** {{desc|pdt|auf}}
+
+  ** {{desc|odt|ava|af-}}
+
+  *** {{desc|dum|ave|af}}
+
+  **** {{desc|nl|af}} (but also ''ave-'' in {{m|nl|averechts}})
+
+  **** {{desc|li|aaf|aof}}
+
+  **** {{desc|vls|of}}
+
+  ** {{desc|goh|aba}}; {{q|rarely}} {{l|goh|ab}}; {{q|northern}} {{l|goh|ava}},
+  {{l|goh|af}}
+
+  *** {{desc|gmh|abe|ab}}; {{q|northern}} {{l|gmh|ave}}, {{l|gmh|af}}
+
+  **** {{desc|de|ab}}
+
+  ***** {{desc|nb|ab}}
+
+  **** {{desc|lb|of}}
+
+  **** {{desc|yi|אָפּ}}
+
+  * {{desc|gmq-pro|*ᚨᛒ}}
+
+  ** {{desctree|non|af}}
+
+  * {{desc|got|𐌰𐍆}}
+
+
+  ===References===
+
+  <references/>

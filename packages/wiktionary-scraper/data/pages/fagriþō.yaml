@@ -1,0 +1,28 @@
+pageid: 7401170
+ns: 118
+title: Reconstruction:Proto-Germanic/fagriþō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*fagraz|*-iþō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸɑɣ.ri.θɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:HGE|*fagriþō|89}}</ref>
+
+  # [[fairness]], [[beauty]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|osx|gifagiritha|t=ornament}}
+  * {{desc|non|fegrð}}
+  ** {{desc|is|fegurð}}
+
+  ===References===
+  <references/>

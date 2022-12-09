@@ -1,0 +1,59 @@
+pageid: 3401273
+ns: 118
+title: Reconstruction:Proto-Germanic/bōkstabaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{alt|gem-pro|*bōkastabô}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*stebʰ-}}
+  From {{compound|gem-pro|*bōks|t1=book|*stabaz|t2=staff, stick}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɔː.kɑ.ˌstɑ.βɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # a [[staff]] made of [[beechwood]]
+  # letter of the [[alphabet]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*rūnōstabaz}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*bōkstab}}; {{l|gmw-pro|*bōkstabō}}
+  ** {{desc|ang|bōcstæf}}
+  *** {{desc|enm|bocstaff|bookstave}}
+  **** {{desc|en|bookstaff|bookstave}}
+  ** {{desc|ofs|*bōkstaf|*bōkstef}}
+  *** {{desc|stq|Boukstäf}}
+  ** {{desc|osx|bōkstaf}}; {{l|osx|bōkstabo}}
+  *** {{desc|gml|bôkstaf}}
+  **** {{desc|nds-de|Bookstaav}}
+  **** {{desc|pdt|Buakstow}}
+  ** {{desc|odt|buokstaf|buochstaf}}; {{l|odt|*buokstavo}}
+  *** {{desc|dum|boecstaf}}; {{l|dum|boecstave}}, {{l|dum|boecstaef}}
+  **** {{desc|nl|boekstaaf}}
+  ***** {{desc|af|boekstaaf}}
+  ** {{desc|goh|buohstab}}; {{l|goh|*buohstabo}}
+  *** {{desc|gmh|buochstap}}; {{l|gmh|buochstabe}}
+  **** {{desc|de|Buchstab}}; {{l|de|Buchstabe}}
+  **** {{desc|hrx|Buchstaab}}
+  **** {{desc|lb|Buschtaf}}
+  **** {{desc|wym|büchśtaow|büśtow}}
+  **** {{desc|yi|בוכשטאַב}}
+  * {{desc|non|bókstafr}}
+  ** {{desc|is|bókstafur}}
+  ** {{desc|fo|bókstavur}}
+  ** {{desc|no|bokstav}}
+  ** {{desc|gmq-osw|bokstaver|alt=bōkstaver}}
+  *** {{desc|sv|bokstav}}
+  ** {{desc|da|bogstav}}
+  ** {{desc|gmq-gut|bokstav}}

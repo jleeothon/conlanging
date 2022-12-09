@@ -1,0 +1,107 @@
+pageid: 3977129
+ns: 118
+title: Reconstruction:Proto-Germanic/wīsōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwiː.sɔː.nɑ̃/}}
+
+
+  ===Etymology 1===
+
+  {{root|gem-pro|ine-pro|*weyd-}}
+
+  From {{suf|gem-pro|*wīsaz|*-ōną}}.
+
+
+  ====Verb====
+
+  {{gem-verb}}
+
+
+  # to [[visit]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk2|wīs}}
+
+
+  =====Descendants=====
+
+  * {{desc|ofs|wīsia}}
+
+  * {{desc|osx|wīsōn}}
+
+  * {{desc|odt|wīson}}
+
+  * {{desc|goh|wīsōn}}
+
+  ** {{desc|gmh|wīsen}}
+
+  *** {{desc|de|weisen}}
+
+  * {{desc|got|𐌲𐌰𐍅𐌴𐌹𐍃𐍉𐌽}}
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*weyd-}}
+
+  From {{affix|gem-pro|*wīsaz|t1=wise|*-ōną|pos2=factitive verb&ndash;forming
+  suffix}}: literally “make wise”. Identical with the above.
+
+
+  ====Verb====
+
+  {{gem-verb}}
+
+
+  # to [[show]], [[guide]], [[direct]]
+
+
+  =====Inflection=====
+
+  {{gem-conj-wk2|wīs}}
+
+
+  =====Synonyms=====
+
+  * {{l|gem-pro|*wissijaną}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*wīsijaną}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|wīsian}}
+
+  ** {{desc|enm|wisien|wisen}}
+
+  *** {{desc|sco|wise|wyse|wyze}}
+
+  *** {{desc|en|wise}}
+
+  * {{desc|osx|giwīsōn}}
+
+  * {{desc|non|vísa}}
+
+  ** {{desc|da|vise}}
+
+  ** {{desc|fo|vísa}}
+
+  ** {{desc|is|vísa}}
+
+  ** {{desc|nb|vise}}
+
+  ** {{desc|gmq-osw|visa|alt=vīsa}}
+
+  *** {{desc|sv|visa}}

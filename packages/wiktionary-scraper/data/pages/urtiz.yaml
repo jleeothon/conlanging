@@ -1,0 +1,71 @@
+pageid: 6107141
+ns: 118
+title: Reconstruction:Proto-Germanic/urtiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  A dissimilated form of {{m|gem-pro|*wurtiz}}, {{m|gem-pro|*wurt-}}, itself
+  derived from {{m|gem-pro|*wrōts}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈur.tiz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[plant]]
+
+  # [[field]]; [[garden]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|urt}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*urtōną}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|*ort}} (in {{l|ang|ortġeard}} (previously mis-associated with
+  {{m+|la|hortus}}))
+
+  ** {{desc|enm|orcherd|orchard}}
+
+  *** {{desc|en|orchard}}
+
+  * {{desc|goh|*orz}} (in {{l|goh|orzōn|t=to tend or cultivate a field}} <
+  {{m|gem-pro|*urtōną}})
+
+  * {{desc|non|urt}} {{i|alternatively from {{l|gem-pro|*wurt-}}}}
+
+  ** {{desc|is|urt|jurt}}
+
+  ** {{desc|fo|urt}}
+
+  ** {{desc|no|urt}}
+
+  ** {{desc|gmq-osw|yrt}}
+
+  *** {{desc|sv|ört}}
+
+  *** {{desc|fi|yrtti|bor=1}}
+
+  ** {{desc|da|urt}}
+
+  * {{desc|got|*𐌰𐌿𐍂𐍄𐍃}} (in {{l|got|𐌰𐌿𐍂𐍄𐌹𐌲𐌰𐍂𐌳𐍃}})
+
+  ** {{desc|cu|врътоградъ|bor=1|unc=1}}

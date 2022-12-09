@@ -1,0 +1,35 @@
+pageid: 4129485
+ns: 118
+title: Reconstruction:Proto-Germanic/rafsijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*h₁rep-||to rip, snatch, tear, pinch}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈrɑ.ɸis.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[snatch]]
+  # to [[punish]]; [[flog]]; [[chastise]]; [[reprove]]
+  # to [[blame]]
+
+  ====Inflection====
+  {{gem-conj-wk1|rafs|j=ij}}
+
+  ====Related terms====
+  * {{l|gem-pro|*rafjaną}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*rafsijan}}
+  * {{desc|non|refsa|repsa}}
+  ** {{desc|is|refsa}}
+  ** {{desc|fo|revsa}}
+  ** {{desc|no|refse}}
+  ** {{desc|gmq-osw|ræfsa|ræpsa}}
+  *** {{desc|sv|räfsa}}
+  ** {{desc|da|revse}}

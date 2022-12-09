@@ -1,0 +1,30 @@
+pageid: 2646770
+ns: 118
+title: Reconstruction:Proto-Germanic/galīkaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*ga|*-līkaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑ.ˈliː.kɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[alike]], [[similar]]
+  # [[equal]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|galīk}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*galīkōną}}
+  * {{l|gem-pro|*ungalīkaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*galīk}}
+  * {{desctree|non|líkr}}
+  * {{desc|got|𐌲𐌰𐌻𐌴𐌹𐌺𐍃}}

@@ -1,0 +1,30 @@
+pageid: 9019528
+ns: 118
+title: Reconstruction:Proto-Germanic/flugjaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*fleuganą}}, from {{der|gem-pro|ine-pro|*plewk-|t=to fly}}.
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # {{lb|gem-pro|of a bird}} Having [[feathers]], [[fledged]].
+
+  ====Declension====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*flugi}}
+  * {{desc|gmq-pro|}}
+  ** {{desctree|non|*flyggr|fleygr|qq=< {{m|gem-pro||*flaugijaz}}}}
+  *** {{desc|is|fleygur}}
+  *** {{desc|nn|fløy}}
+  *** {{desc|sv|flygg}}
+  *** {{desc|da|flyg}}
+
+  ===References===
+  * {{R:gem:HGE|*fluʒjan|108}}
+  * {{R:gem:EDPG|*flugi-|148}}

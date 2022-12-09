@@ -1,0 +1,25 @@
+pageid: 6050428
+ns: 118
+title: Reconstruction:Proto-Germanic/skraudō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*skraudaną|t1=to shred|*-ō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈskrɑu̯.ðɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[cut]], [[crack]]
+  # [[piece]], [[shred]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*skraudu}}
+  * {{desc|non|skrjóðr}}

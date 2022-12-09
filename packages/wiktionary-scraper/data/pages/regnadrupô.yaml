@@ -1,0 +1,51 @@
+pageid: 6333945
+ns: 118
+title: Reconstruction:Proto-Germanic/regnadrupô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*regną|*drupô}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈreɣ.nɑˌdru.pɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[raindrop]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*regnadropō}}
+  ** {{desc|ang|reġndropa}}
+  *** {{desc|enm|reyn-drope|rein-drope|rayn droppe}}
+  **** {{desc|en|raindrop}}
+  **** {{desc|sco|rayndrap}}
+  ** {{desc|ofs|*reindropa}}
+  *** {{desc|stq|Riendroupe|Riendruppe}}
+  *** {{desc|fy|reindrip}}
+  ** {{desc|osx|*regindropo|*regandropo}}
+  *** {{desc|gml|rēgendrōpe|rēgendroppe}}
+  **** {{desc|nds-de|Regendrüpp}}
+  **** {{desc|pdt|Räajendrepp}}
+  ** {{desc|odt|*regandropo}}
+  *** {{desc|dum|regendrup|regendrop}}
+  **** {{desc|nl|regendruppel|regendroppel}}
+  ***** {{desc|af|reëndruppel}}
+  **** {{desc|li|regendröppel}}
+  ** {{desc|goh|regantropfo}}
+  *** {{desc|gmh|regentropfe}}
+  **** {{desc|de|Regentropfen}}
+  **** {{desc|lb|Reendrëps}}
+  * {{desc|non|*regndropi}}
+  ** {{desc|is|regndropi}}
+  ** {{desc|fo|regndropi}}
+  ** {{desc|no|regndråpe}}
+  ** {{desc|sv|regndroppe}}
+  ** {{desc|da|regndråbe}}
+  ** {{desc|ovd|raingendrupi|raingendrupå}}
+  ** {{desc|gmq-gut|regndrupe|regndrupa}}

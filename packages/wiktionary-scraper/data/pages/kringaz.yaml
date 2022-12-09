@@ -1,0 +1,35 @@
+pageid: 6405651
+ns: 118
+title: Reconstruction:Proto-Germanic/kringaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From the strong verb {{m|gem-pro|*kringaną|t=to turn, fall}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[ring]], [[circle]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|osx|*kring}}
+  ** {{desc|gml|*kring}}
+  *** {{desc|nds|Kring}}
+  * {{desc|odt|*kring}}
+  ** {{desc|dum|crinc}}
+  *** {{desc|nl|kring}}
+  *** {{desc|li|krink}}
+  * {{desc|goh|*kring}}
+  ** {{desc|gmh|kring}}
+  *** {{desc|de|Kring}} {{q|obsolete}}
+  **** {{desc|de|Kringel|der=1}}
+  * {{desc|non|kringr}}
+  ** {{desc|fo|kringur}}
+
+  ===References===
+  * {{R:gem:EDPG|kringa|305}}

@@ -1,0 +1,29 @@
+pageid: 5555415
+ns: 118
+title: Reconstruction:Proto-Germanic/Ansulaibaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*ansuz|t1=deity|*laibō|t2=remnant}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑn.su.ˌlɑi̯.βɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Ansulaib}}
+  ** {{desc|ang|Ōslāf}}
+  ** {{desc|osx|Ōslēf}}
+  ** {{desc|goh|Ansleib}}
+  * {{desc|non|Ásleifr}}
+  ** {{desc|is|Ásleifur}}
+  ** {{desc|fo|Ásleivur}}

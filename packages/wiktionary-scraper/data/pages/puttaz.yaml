@@ -1,0 +1,111 @@
+pageid: 3440008
+ns: 118
+title: Reconstruction:Proto-Germanic/puttaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*butnós}} or {{m|ine-pro||*budnós|a kind of
+  vessel, swelled-out shape}}, from {{der|gem-pro|ine-pro|*bewd-||to swell}},
+  possibly cognate to {{cog|sla-pro|*bъdьňa||tub, cask}} (if not a borrowing
+  from Germanic). Compare also {{cog|xcl|պոյտն||pot, earthen pot}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈput.tɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[pot]], [[jar]], [[tub]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|pott}}
+
+  ** {{desc|enm|pott|potte|pot}}
+
+  *** {{desc|sco|pott}}
+
+  *** {{desc|en|pot}}
+
+  **** {{desc|ny|poto|bor=1}}
+
+  * {{desc|ofs|pott|pot}}
+
+  ** {{desc|stq|Pot}}
+
+  ** {{desc|fy|pôt}}
+
+  * {{desc|osx|*pott}}
+
+  ** {{desc|gml|pott|pot}}
+
+  *** {{desc|nds-de|Pott}}
+
+  *** {{desc|nds|pot}}
+
+  *** {{desc|gmh|pot|bor=1}}
+
+  **** {{desc|de|Pott}}
+
+  * {{desc|frk|*pott}}
+
+  ** {{desc|odt|pot}} (in placenames)
+
+  *** {{desc|dum|pot}}
+
+  **** {{desc|nl|pot}}
+
+  ***** {{desc|af|pot}}
+
+  ** {{desc|bor=1|VL.|*pottus|*pottum}}
+
+  *** {{desc|fro|pot}}
+
+  **** {{desc|frm|pot}}
+
+  ***** {{desc|fr|pot}}
+
+  ****** {{desc|pt|pote|bor=1}}
+
+  **** {{desc|oc|pot|bor=1}}
+
+  **** {{desc|ca|pot|bor=1}}
+
+  ***** {{desc|es|pote|bor=1}}
+
+  **** {{desc|bor=1|gl|pote|pota}}
+
+  * {{desc|non|pottr}}
+
+  ** {{desc|is|pottur}}
+
+  ** {{desc|fo|pottur}}
+
+  ** {{desc|no|pot|potte}}
+
+  ** {{desc|gmq-osw|potta|putta}}
+
+  *** {{desc|sv|pott|potta}}
+
+  ** {{desc|da|pot|potte}}
+
+
+  ===References===
+
+  * {{R:xcl:Petersson:1916|page=254}}

@@ -1,0 +1,65 @@
+pageid: 7366705
+ns: 118
+title: Reconstruction:Proto-Germanic/fīsaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*(s)peys-}}
+
+  From {{der|gem-pro|ine-pro|*(s)peys-}}. Cognate with {{cog|la|spīrō}}.
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref name="Kroonen">{{R:gem:EDPG|head=*fīsan-|page=142}}</ref><ref
+  name="HGE">{{R:gem:HGE|*fīsanan|104}}</ref>
+
+
+  # to [[blow]]
+
+  # to [[fart]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=1|fīs|fais|fis|fis}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*fistaz||breaking wind, fart}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*fīsan}}
+
+  * {{desc|non|físa}}
+
+  ** {{desc|is|físa}}
+
+  ** {{desc|fo|físa}}
+
+  ** {{desc|gmq-osw|fisa}}
+
+  *** {{desc|sv|fisa}}
+
+  ** {{desc|no|-}}
+
+  *** {{desc|nb|fise}}
+
+  *** {{desc|nn|fise|fisa}}
+
+  ** {{desc|gmq-oda}}
+
+  *** {{desc|da|fise}}
+
+
+  ===References===
+
+  <references/>

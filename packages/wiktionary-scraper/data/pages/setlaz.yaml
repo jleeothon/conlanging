@@ -1,0 +1,52 @@
+pageid: 4988490
+ns: 118
+title: Reconstruction:Proto-Germanic/setlaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Alternative forms===
+  * {{l|gem-pro|*setulaz}}, {{l|gem-pro|*sitilaz}}
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*sed-}}
+  From {{der|gem-pro|ine-pro|*sedlo-}}, from {{m|ine-pro|*sed-||to sit}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈset.lɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[seat]]; [[chair]]; [[settle]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Synonyms====
+  * {{l|gem-pro|*stōlaz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*sedlaz}}/{{l|gem-pro|*seþlaz}}
+  * {{l|gem-pro|*sitjaną}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*setl}}
+  ** {{desc|ang|setl|seotul|seatul}}
+  *** {{desc|enm|seotel|setil|setel|setle|settle}}
+  **** {{desc|sco|sattle|settle}}
+  **** {{desc|en|settle}}
+  ** {{desc|ofs|*setl}}
+  *** {{desc|stq|Sittel}} {{q|in compounds}}
+  ** {{desc|osx|setl}}
+  *** {{desc|gml|setel|sētel|settel}}
+  ** {{desc|odt|*setl|*setal}}
+  *** {{desc|dum|setel}}
+  **** {{desc|nl|zetel}}
+  ** {{desc|goh|sezzal}}
+  *** {{desc|gmh|sëzzel}}
+  **** {{desc|de|Sessel}}
+  ***** {{desc|nds-de|Sessel|bor=1}}
+  * {{desc|non|sjǫtull}}
+  ** {{desc|is|sjötul}}
+  * {{desc|got|𐍃𐌹𐍄𐌻𐍃}}

@@ -1,0 +1,30 @@
+pageid: 7751623
+ns: 118
+title: Reconstruction:Proto-Germanic/stūfijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*stūfaz|t1=stump|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈstuː.fi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref>{{R:gem:HGE|head=*stūfjanan|page=384}}</ref>
+
+  # To [[cut off]], [[shorten]]
+
+  ====Inflection====
+  {{gem-conj-wk1|stūf|j=ij}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*stūfijan}}
+  ** {{desc|osx|*stūvian}}
+  *** {{desc|gml|stūven}}
+  * {{desc|non|stýfa}}
+  ** {{desc|is|stýfa}}
+
+  ===References===
+  <references/>

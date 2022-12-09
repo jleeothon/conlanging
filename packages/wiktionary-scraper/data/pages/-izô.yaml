@@ -1,0 +1,84 @@
+pageid: 2897701
+ns: 118
+title: Reconstruction:Proto-Germanic/-izô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Ultimately from {{der|gem-pro|ine-pro|*-yōs}}
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/i.zɔːː/}}
+
+
+  ===Suffix===
+
+  {{gem-adj||*-istaz|adv=*-iz}}
+
+
+  # [[-er]]. {{non-gloss definition|Forms the comparative of certain
+  adjectives.}}
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-anin|-iz}}
+
+
+  ====Usage notes====
+
+  This was the normal comparative suffix for all i-, u- and ja-stem adjectives.
+  The regular a-stem adjectives sometimes used this suffix, and sometimes the
+  related suffix {{m|gem-pro|*-ōzô}} without any predictable rule.
+
+
+  ====Derived terms====
+
+  {{derivsee|Proto-Germanic comparative adjectives}}
+
+  {{suffixsee|gem-pro}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|-ra}}
+
+  ** {{desc|en|-er}}
+
+  * {{desc|ofs|-era}}
+
+  ** {{desc|fy|-er}}
+
+  * {{desc|osx|-iro}}
+
+  * {{desc|odt|*-iro|*-ero}}
+
+  ** {{desc|dum|-er}}
+
+  *** {{desc|nl|-er}}
+
+  * {{desc|goh|-iro}}
+
+  ** {{desc|de|-er}}
+
+  * {{desc|non|-ri}}
+
+  ** {{desc|is|-ri}}
+
+  ** {{desc|fo|-ri}}
+
+  ** {{desc|no|-re}}
+
+  ** {{desc|sv|-re}}
+
+  ** {{desc|da|-re}}
+
+  ** {{desc|gmq-bot|-r|-är}}
+
+  * {{desc|got|-𐌹𐌶𐌰}}

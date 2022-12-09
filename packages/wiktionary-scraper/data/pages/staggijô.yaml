@@ -1,0 +1,51 @@
+pageid: 3617904
+ns: 118
+title: Reconstruction:Proto-Germanic/staggijô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*stag-|t1=to stick; sting|*gjô}}, from
+  {{der|gem-pro|ine-pro|*(s)teyg-}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[stag]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun-n-m|stagg|j=ij}}
+
+
+  ====Related terms====
+
+  *{{l|gem-pro|*staggijaz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|stagga|stacga}}
+
+  ** {{desc|enm|stagge|steg}}
+
+  *** {{desc|sco|staig}}
+
+  *** {{desc|en|stag}}
+
+  * {{desc|non|steggi}}
+
+  ** {{desc|is|steggi}}
+
+  ** {{desc|fo|steggi}}
+
+
+  {{topics|gem-pro|Cervids}}

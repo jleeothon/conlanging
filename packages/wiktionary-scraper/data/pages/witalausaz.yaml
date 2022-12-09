@@ -1,0 +1,36 @@
+pageid: 7336182
+ns: 118
+title: Reconstruction:Proto-Germanic/witalausaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*weyd-}}
+  From {{affix|gem-pro|*witą|t1=knowledge, sense, wit|*-lausaz|t2=-less}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwi.tɑˌlɑu̯.sɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}<ref name="HGE">{{R:gem:HGE|*witalausaz|463}}</ref>
+
+  # [[witless]]
+
+  ====Inflection====
+  {{gem-decl-adj}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*witalaus}}
+  * {{desc|non|vitlauss}}
+  ** {{desc|is|vitlaus}}
+  ** {{desc|fo|vitleysur}}
+  ** {{desc|nb|vettløs|vettlaus}}
+  ** {{desc|nn|vettlaus|vitlaus}}
+  ** {{desc|gmq-osw|vitløs}}
+  *** {{desc|sv|vettlös}}
+  ** {{desc|gmq-oda|witløs}}
+  *** {{desc|da|vidløs}}
+
+  ===References===
+  <references/>

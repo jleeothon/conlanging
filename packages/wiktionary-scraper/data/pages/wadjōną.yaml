@@ -1,0 +1,57 @@
+pageid: 3784139
+ns: 118
+title: Reconstruction:Proto-Germanic/wadjōną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*wedʰ-}}
+
+  From {{suffix|gem-pro|*wadją|t1=wager|*ōną}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwɑð.jɔː.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[wager]], to [[pledge]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk2|wadj}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*wadjōniz}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*waddjōn}}
+
+  * {{desc|non|veðja}}
+
+  ** {{desc|is|veðja}}
+
+  ** {{desc|gmq-osw|væþia}}
+
+  *** {{desc|sv|vädja}}
+
+  ** {{desc|da|vædde}}
+
+  ** {{desc|gmq-bot|väjäs|veis}} ({{l|gmq-bot|vädäs}}, {{l|gmq-bot|vädis}},
+  {{l|gmq-bot|väs}})
+
+  * {{desc|got|𐌲𐌰𐍅𐌰𐌳𐌾𐍉𐌽|der=1}}

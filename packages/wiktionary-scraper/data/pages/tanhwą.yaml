@@ -1,0 +1,24 @@
+pageid: 7646062
+ns: 118
+title: Reconstruction:Proto-Germanic/tanhwą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*tanhuz||tough}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈtɑ̃ːxwɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[path]], [[enclosed]] [[yard]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|non|tá|id=path}}
+  * {{desc|fi|tanhua|bor=1}}

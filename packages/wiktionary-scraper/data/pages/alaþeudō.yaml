@@ -1,0 +1,32 @@
+pageid: 7400511
+ns: 118
+title: Reconstruction:Proto-Germanic/alaþeudō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*ala-|*þeudō}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌɑlɑ.ˈθeu̯.ðɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:HGE|*ala-þeudō|12}}</ref>
+
+  # [[mankind]], the whole [[population]]
+  #: {{syn|gem-pro|*alamann-|*manakunją}}
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*alaþeudu}}
+  ** {{desc|osx|alathioda}}
+  * {{desc|non|alþjóð}}
+  ** {{desc|is|alþjóð}}
+
+  ===References===
+  <references/>
+
+  [[Category:gem-pro:Collectives]]

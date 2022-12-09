@@ -1,0 +1,41 @@
+pageid: 6478939
+ns: 118
+title: Reconstruction:Proto-Germanic/karjaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*ger-|t=to scrape}}.
+
+  ====Alternative reconstructions====
+  * {{l|gem-pro|*kaizwijaną}}
+  * {{l|gem-pro|*karzijaną}}
+  * {{l|gem-pro|*kaurijaną}}
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkɑr.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[scratch]], [[scrape]]
+  # to [[sweep]]
+
+  ====Conjugation====
+  {{gem-conj-wk1|kar|j=j}}
+
+  ====Related terms====
+  * {{l|gem-pro|*karō|t=scrapings, shavings, litter, debris}}
+  * {{l|gem-pro|*karstaz}}
+
+  ====Descendants====
+  * {{desc|osx|kerian|keren}}
+  ** {{desc|gml|kēren}}
+  *** {{desc|nds|keren|ankeren}}
+  * {{desc|odt|*keren|*kerren}}
+  ** {{desctree|dum|kēren|id=sweep}}
+  * {{desc|goh|kerien|kerren|cherjen|cherren}}
+  ** {{desc|gmh|keren|kern}}
+  *** {{desc|cim|khéeran}}
+  *** {{desc|de|kehren}}

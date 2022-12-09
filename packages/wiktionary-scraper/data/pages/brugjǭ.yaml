@@ -1,0 +1,58 @@
+pageid: 2612667
+ns: 118
+title: Reconstruction:Proto-Germanic/brugjǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{der|gem-pro|ine-pro|*bʰerw-}}, {{m|ine-pro|*bʰrēw-||wooden flooring,
+  decking, bridge}}; compare {{cog|cel-gau|briua|brīuā}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈbruɣ.jɔ̃ː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # [[bridge]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*bruggju}}
+
+  * {{desc|non|bryggja}}
+
+  ** {{desc|is|bryggja}}
+
+  ** {{desc|en|Bruges|bor=1}}
+
+  ** {{desc|fo|bryggja}}
+
+  ** {{desc|no|-}} {{l|nb|brygge}}, {{l|no|bryggje}}
+
+  ** ({{desc|non|brú}})
+
+  *** ({{desc|ovd|bru}})
+
+  ** {{desctree|gmq-osw|bryggia}}
+
+  ** {{desc|da|brygge}}
+
+  ** {{desc|gmq-bot|bryyidj|breeidj}}
+
+  ** {{desctree|bor=1|enm|brig}}

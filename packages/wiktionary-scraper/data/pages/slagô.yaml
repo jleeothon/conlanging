@@ -1,0 +1,25 @@
+pageid: 6018924
+ns: 118
+title: Reconstruction:Proto-Germanic/slagô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Zero-grade agentive n-stem derived from {{m|gem-pro|*slahaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈslɑ.ɣɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[striker]], [[slayer]]; he who strikes or slays
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desc|ang|slaga}}
+  * {{desc|goh|manslago}}
+  * {{desc|non|*slagi|hörpuslagi}}

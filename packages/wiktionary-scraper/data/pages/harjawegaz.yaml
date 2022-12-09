@@ -1,0 +1,29 @@
+pageid: 6498789
+ns: 118
+title: Reconstruction:Proto-Germanic/harjawegaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*harjaz|*wegaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈxɑr.jɑ.ˌwe.ɣɑz/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[highway]], [[warpath]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|hereweġ}}
+  * {{desc|ofs|herewei}}
+  * {{desc|goh|*heriweg}}
+  ** {{desc|gmh|herwec}}
+  *** {{desc|de|Heerweg}} {{q|archaic}}
+  * {{desc|non|hervegr}}
+  ** {{desc|is|hervegur}}

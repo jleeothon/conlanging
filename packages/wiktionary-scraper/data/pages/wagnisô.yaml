@@ -1,0 +1,64 @@
+pageid: 5581604
+ns: 118
+title: Reconstruction:Proto-Germanic/wagnisô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*wagansô}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*weǵʰ-}}
+
+  From {{inh|gem-pro|ine-pro|*wogʷʰnis}}, {{m|ine-pro|*wogʷʰmis}}, probably from
+  {{der|gem-pro|ine-pro|*weǵʰ-}}. Cognate with {{cog|prg|wagnis||ploughshare}},
+  {{cog|grc|ὀφνίς}}{{attention|grc|This isn't in Logeion; is it a real word?}}
+  and {{cog|la|vōmis}}, {{m|la|vōmer}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwɑɣ.ni.sɔːː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}<ref>{{R:gem:EDPG}}</ref>
+
+
+  # [[plowshare]], [[ploughshare]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Descendants====
+
+  * {{desc|goh|waganso}}
+
+  ** {{desc|gmh|wagense|wagese}}
+
+  *** {{desc|de|Wagense}}
+
+  *** {{desc|bar|Wagensun}}
+
+  *** {{desc|gsw|Wägese}}
+
+  * {{desc|non|*vagsni|vangsni}}
+
+  ** {{desc|no|vangsne|vagnse}}
+
+  ** {{desc|sv|vangs}} {{qualifier|dialectal}}
+
+
+  ===References===
+
+  <references/>

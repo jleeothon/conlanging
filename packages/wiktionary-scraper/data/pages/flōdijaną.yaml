@@ -1,0 +1,33 @@
+pageid: 7315754
+ns: 118
+title: Reconstruction:Proto-Germanic/flōdijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*flōduz|*-janą|t1=flood}}.
+
+  ===Pronunciation===
+  {{IPA|gem-pro|/ˈɸlɔː.ði.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="HGE">{{R:gem:HGE|*flōdjanan|107}}</ref>
+
+  # to [[flood]]
+
+  ====Inflection====
+  {{gem-conj-wk1|flōd|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*flōdijan}}
+  * {{desc|non|flǿða}}
+  ** {{desc|is|flæða}}
+  ** {{desc|fo|fløða}}
+  ** {{desc|no|flø}}
+  ** {{desc|sv|flöda}}
+  ** {{desc|gmq-oda|fløthæ}}
+  *** {{desc|da|fløde}} {{q|obsolete}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,93 @@
+pageid: 2719360
+ns: 118
+title: Reconstruction:Proto-Germanic/angustiz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*h₂enǵʰ-}}
+
+  From {{m|gem-pro|*anguz}}, from {{der|got|ine-pro|*h₂enǵʰ-}}. Compare
+  {{cog|la|angustia}}, from the same PIE root.<!--semantically and
+  phonologically very similar-->
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɑŋ.ɡus.tiz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}<ref>{{R:gem:EDPG|*angwu-|28}}</ref>
+
+
+  # [[narrowness]], [[tightness]]
+
+  # [[fear]], [[anxiety]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ofs|angst|ongost|ongest}}
+
+  ** {{desc|stq|Oangst}}
+
+  ** {{desc|fy|eangst}}
+
+  * {{desc|osx|*angust}}
+
+  ** {{desc|gml|angest}}
+
+  *** {{desc|non|angist|bor=1}}
+
+  **** {{desc|is|angist}}
+
+  **** {{desc|fo|angist}}
+
+  **** {{desc|sv|ångest}}
+
+  **** {{desc|nb|angst}}
+
+  *** {{desc|da|angst|bor=1}}
+
+  **** {{desc|bor=1|en|angst}}
+
+  * {{desc|odt|*angust}}
+
+  ** {{desc|dum|ancst|anxt|angest}}
+
+  *** {{desc|nl|angst}}
+
+  **** {{desc|af|angs}}
+
+  * {{desc|goh|angust}}
+
+  ** {{desc|gmh|angest}}
+
+  *** {{desc|gsw|Angscht}}
+
+  *** {{desc|gmw-cfr|-}}
+
+  ***: {{desc|ksh|Angks}}
+
+  *** {{desc|de|Angst}}
+
+  *** {{desc|lb|Angscht}}
+
+
+  ===References===
+
+  <references/>
+
+
+  [[Category:gem-pro:Fear]]

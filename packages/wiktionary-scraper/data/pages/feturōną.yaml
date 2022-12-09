@@ -1,0 +1,29 @@
+pageid: 8108673
+ns: 118
+title: Reconstruction:Proto-Germanic/feturōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*feturaz|*-ōną|t1=fetter}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈfɛ.tu.rɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name='Orel'>{{R:gem:HGE|*feturōjanan|102}}</ref>
+
+  # to [[fetter]], to [[chain]], to [[bind]] [[together]]
+
+  ====Inflection====
+  {{gem-conj-wk2|fetur}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*feturōn}}
+  * {{desc|non|fjǫtra}}
+  ** {{desc|is|fjötra}}
+  ** {{desc|sv|fjättra}}
+
+  ===References===
+  <references/>

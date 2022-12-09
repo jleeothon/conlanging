@@ -1,0 +1,54 @@
+pageid: 2663621
+ns: 118
+title: Reconstruction:Proto-Germanic/þiudiskaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{suffix|gem-pro|*þeudō|*iskaz}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈθiu̯.ðis.kɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # of the [[people]], [[popular]]
+
+  # of the tribe
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|þiudisk}}
+
+
+  ====Descendants====
+
+  In the late Middle Ages, the word acquired a specialized sense referring to
+  [[vernacular]] Germanic languages on the continent, specifically, Dutch,
+  German, and Low German, which were not strongly distinguished from each other
+  at the time, as opposed to the Latin of the scholarly elite and the Church.
+  Because of the Holy Roman Empire's preeminence, the word narrowed in meaning
+  to refer solely to German in most languages, with {{cog|en|Dutch}} and archaic
+  {{cog|nl|Diets||Middle Dutch}} being notable exceptions.
+
+
+  * {{desctree|gmw-pro|*þiudisk}}
+
+  * {{desctree|non|þýzkr}}
+
+  ** {{desctree|non|þýðverskr|der=1}}
+
+  * {{desc|got|*𐌸𐌹𐌿𐌳𐌹𐍃𐌺𐍃}} (in {{l|got|𐌸𐌹𐌿𐌳𐌹𐍃𐌺𐍉|pos=adv}})
+
+  * {{desc|ML.|theodiscus|alts=1|bor=1}} {{see desc}}

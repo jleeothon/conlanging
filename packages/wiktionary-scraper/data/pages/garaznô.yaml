@@ -1,0 +1,28 @@
+pageid: 3725507
+ns: 118
+title: Reconstruction:Proto-Germanic/garaznô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*ga-|*razną|*-ô|id3=agent noun}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑ.ˈrɑz.nɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}<ref name="HGE">{{R:gem:HGE|*raznōn|399}}</ref>
+
+  # [[neighbour]]
+  #: {{syn|gem-pro|*nēhwagabūrô}}
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Descendants====
+  * {{desctree|non|granni}}
+  * {{desc|got|𐌲𐌰𐍂𐌰𐌶𐌽𐌰}}
+
+  ===References===
+  <references/>

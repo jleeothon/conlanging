@@ -1,0 +1,26 @@
+pageid: 3912776
+ns: 118
+title: Reconstruction:Proto-Germanic/jungilingaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*jungaz|*-ilingaz}}.
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # a young man, [[youngster]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*jungiling}}
+  * {{desc|non|ynglingr|unglingr}}
+  ** {{desc|is|unglingur|ynglingur}}
+  ** {{desc|fo|unglingur|unglingi}}
+  ** {{desc|no|yngling}}
+  ** {{desc|sv|yngling}}
+  ** {{desc|da|yngling}}

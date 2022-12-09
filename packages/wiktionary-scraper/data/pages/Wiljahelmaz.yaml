@@ -1,0 +1,45 @@
+pageid: 5004098
+ns: 118
+title: Reconstruction:Proto-Germanic/Wiljahelmaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*wiljô|t1=will|*helmaz|t2=helmet}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwil.jɑ.ˌxel.mɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|goh|Willahelm}}
+  ** {{desc|de|Wilhelm}}
+  *** {{desc|fi|Wilhelm|bor=1}}
+  ** {{desc|en|William|bor=1}}
+  *** {{desc|fi|Viljami|Wiljami|bor=1}}
+  ** {{desc|nl|Willem|bor=1}}
+  ** {{desc|ro|Vilhelm|bor=1}}
+  * {{desc|non|Vilhjálmr}}
+  ** {{desc|is|Vilhjálmur}}
+  ** {{desc|fo|Vilhjálmur|Viljormur}}
+  ** {{desc|no|Vilhelm}}
+  ** {{desc|sv|Vilhelm}}
+  *** {{desc|fi|Vilhelmi|bor=1}}
+  **** {{desc|fi|Vilho|Ville|der=1}}
+  ** {{desc|da|Vilhelm}}
+  * {{desc|la|Gulielmus}}
+  ** {{desc|it|Guglielmo}}
+  ** {{desc|ca|Guillem}}
+  ** {{desc|gl|Guillerme}}
+  ** {{desc|oc|Guilhem}}
+  ** {{desc|es|Guillermo}}
+  ** {{desc|pt|Guilherme}}
+  ** {{desctree|fro|Willame}}

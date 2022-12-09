@@ -1,0 +1,31 @@
+pageid: 4996005
+ns: 118
+title: Reconstruction:Proto-Germanic/andijalausaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*andijaz|*lausaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑn.di.jɑ.lɑu̯.sɑz/}}
+
+  ===Adjective===
+  {{gem-adj}}
+
+  # [[endless]]
+
+  ====Inflection====
+  {{gem-decl-adj-a|andijalaus}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*andijalaus}}
+  * {{desc|non|endalauss}}
+  ** {{desc|is|endalaus}}
+  ** {{desc|fo|endaleysur}}
+  ** {{desc|no|endeløs}}
+  ** {{desc|gmq-osw|ændaløs|alt=ændalø̄s}}
+  *** {{desc|sv|ändlös}}
+  ** {{desc|da|endeløs}}
+  * {{desc|got|𐌰𐌽𐌳𐌹𐌻𐌰𐌿𐍃}}

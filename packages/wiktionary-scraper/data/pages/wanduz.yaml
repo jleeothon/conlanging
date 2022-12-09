@@ -1,0 +1,120 @@
+pageid: 3609222
+ns: 118
+title: Reconstruction:Proto-Germanic/wanduz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈwɑn.duz/}}
+
+
+  ===Etymology 1===
+
+  From {{der|gem-pro|ine-pro|*wendʰ-||to turn, twist, wind, braid}}.
+
+
+  ====Noun====
+
+  {{gem-noun|f}}
+
+
+  # [[mole]] (animal)
+
+  # [[vole]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Descendants=====
+
+  * {{desc|ang|wand|wond}}
+
+  ** {{desctree|enm|wont}}
+
+  ** {{desc|ang|wandeweorpe|der=1}}
+
+  * {{desc|osx|*wand|*wanda}}
+
+  ** {{desc|gml|*want|*wande}}
+
+  *** {{desc|bor=1|no|vånd|vond|moldvond}} {{i|alternatively from Old English}}
+
+  *** {{desc|bor=1|sv|vand|vann|vanne}} {{q|dialectal}} {{i|alternatively from
+  Old English}}
+
+  **** {{desc|sv|mullvann|der=1}} {{q|dialectal}}
+
+  *** {{desc|gmq-bot|gwann|bor=1}} {{i|probably}} {{i|alternatively from Old
+  English}}
+
+  ** {{desc|der=1|osx|wandawerpa|wandwerpa}}
+
+  *** {{desc|gml|windeworp|winneworp}}
+
+  **** {{desc|nds-de|Windworp|Winneworp}}; {{l|nds-de|Windwurm}}
+
+  **** {{desc|nds|wond|wonne}} {{q|dialectal}}
+
+
+  ===Etymology 2===
+
+  {{root|gem-pro|ine-pro|*wendʰ-}}
+
+  From {{der|gem-pro|ine-pro|*wendʰ-||to turn, twist, weave, braid}}. (same as
+  in sense #1).
+
+
+  ====Noun====
+
+  {{gem-noun|m}}
+
+
+  # [[rod]], [[switch]], [[stick]]
+
+  # [[barrier]] made of sticks, [[fence]]
+
+
+  =====Inflection=====
+
+  {{gem-decl-noun}}
+
+
+  =====Related terms=====
+
+  * {{l|gem-pro|*windaną}}
+
+
+  =====Descendants=====
+
+  * {{desc|odt|want}}
+
+  ** {{desc|dum|want}}
+
+  *** {{desctree|nl|wand}}
+
+  *** {{desc|li|wandj}}
+
+  * {{desctree|goh|want}}
+
+  * {{desctree|non|vǫndr}}
+
+  * {{desc|got|𐍅𐌰𐌽𐌳𐌿𐍃}}
+
+  * {{desc|bor=1|fiu-fin-pro|*vandeh}}
+
+  ** {{desc|fi|vanne}}
+
+  ** {{desc|izh|vanne}}
+
+  ** {{desc|krl|vanneh}}
+
+  ** {{desc|lud|vandeh}}
+
+  ** {{desc|vep|vandeh}}

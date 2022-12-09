@@ -1,0 +1,29 @@
+pageid: 5953031
+ns: 118
+title: Reconstruction:Proto-Germanic/frijô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*frijōną|*-ô|id2=agent noun}} or {{m|gem-pro|*-jô}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɸri.jɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # Loved one; [[spouse]]; [[husband]]
+
+  ====Inflection====
+  {{gem-decl-noun-n-m|fr|j=ij}}
+
+  ====Coordinate terms====
+  * {{l|gem-pro|*frijō}}
+
+  ====Descendants====
+  * {{desc|ang|frēo|g=m}}
+  * {{desc|non|frí}}
+
+  [[Category:Proto-Germanic terms suffixed with *-jô]]

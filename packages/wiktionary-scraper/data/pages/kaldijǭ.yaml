@@ -1,0 +1,45 @@
+pageid: 7731644
+ns: 118
+title: Reconstruction:Proto-Germanic/kaldijǭ
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{affix|gem-pro|*kaldaz|t1=cold|*-jǭ}}. Related to
+  {{cog|sla-pro|*koldędzь}} (probably borrowed from Germanic),
+  {{m|sla-pro|*koldьcь}}, {{m|sla-pro|*koldenьcь||well}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈkɑl.di.jɔ̃ː/}}
+
+
+  ===Noun===
+
+  {{gem-noun|f}}
+
+
+  # {{topics|gem-pro|Water}} {{l|en|well}}, {{l|en|spring}}
+
+  #: {{syn|gem-pro|*brunnô|*kwellǭ|*sauþaz}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|ċelde}} {{q|possibly a loan from Old Norse}}
+
+  * {{desctree|non|kelda}}
+
+  * {{desc|sma|bor=1|gaaltije}}
+
+  * {{desc|fi|bor=1|kaltio}}

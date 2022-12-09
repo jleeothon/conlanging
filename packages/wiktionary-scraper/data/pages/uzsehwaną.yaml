@@ -1,0 +1,33 @@
+pageid: 6532079
+ns: 118
+title: Reconstruction:Proto-Germanic/uzsehwaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{af|gem-pro|*uz-|*sehwaną|pos2=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˌuz.ˈsex.wɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[look]] out; look up
+  # to [[view]]; [[look at]]
+  # to [[see]]; [[notice]]
+
+  ====Inflection====
+  {{gem-conj-st|class=5|uzsehw|uzsahw|past_indc_stem=uzsēg|uzsēw|uzsew}}
+
+  ====Descendants====
+  * {{desc|ang|āsēon}}
+  ** {{desc|enm|asen|alt=asēn}}
+  * {{desc|ofs|āsiā}}
+  * {{desc|osx|*arsehan}}
+  ** {{desc|gml|ersēn}}
+  * {{desc|goh|arsehan|irsehan}}
+  ** {{desc|gmh|irsēn|irsegen|ersehen}}
+  *** {{desc|de|ersehen}}
+  * {{desc|got|𐌿𐍃𐍃𐌰𐌹𐍈𐌰𐌽}}

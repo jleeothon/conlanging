@@ -1,0 +1,27 @@
+pageid: 7420906
+ns: 118
+title: Reconstruction:Proto-Germanic/langį̄
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*langaz|*-į̄}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑŋ.ɡĩː/}}
+
+  ===Noun===
+  {{gem-noun|f}}<ref>{{R:gem:HGE|*langīn|236}}</ref>
+
+  # [[length]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*langī}}
+  * {{desc|got|𐌻𐌰𐌲𐌲𐌴𐌹}}
+
+  ===References===
+  <references/>

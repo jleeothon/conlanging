@@ -1,0 +1,40 @@
+pageid: 2862553
+ns: 118
+title: Reconstruction:Proto-Germanic/galīkōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{m|gem-pro|*galīkaz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ɣɑ.ˈliː.kɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to be [[like]], to [[resemble]]
+  # to make [[alike]], to make [[even]]
+
+  ====Inflection====
+  {{gem-conj-wk2|galīk}}
+
+  ====Descendants====
+  * {{desc|ang|ġelīcian}}
+  * {{desc|ofs|līkia}}
+  ** {{desc|stq|gliekje|unc=1}}
+  ** {{desc|fy|lykje}}
+  * {{desc|osx|gilīkon}}
+  ** {{desc|gml|geliken}}
+  *** {{desc|nds-nl|gelieken}}
+  *** {{desc|nds-de|glieken}}
+  * {{desc|odt|gilīkon}}
+  ** {{desctree|dum|geliken}}
+  * {{desc|goh|gilīhhon}}
+  ** {{desc|gmh|gelīchen}}
+  *** {{desc|cim|galàichan}}
+  *** {{desc|de|gleichen}}
+  *** {{desc|lb|gläichen}}
+  *** {{desc|yi|גלײַכן}}
+  * {{desc|got|𐌲𐌰𐌻𐌴𐌹𐌺𐍉𐌽}}

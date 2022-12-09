@@ -1,0 +1,56 @@
+pageid: 8920035
+ns: 118
+title: Reconstruction:Proto-Germanic/-mô
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From a conflation of {{inh|gem-pro|ine-pro|*-mō}} and {{m|ine-pro|*-mn̥}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/mɔːː/}}
+
+
+  ===Suffix===
+
+  {{head|gem-pro|suffix|g=m}}
+
+
+  # {{tlb|gem-pro|rare}} [[-ness]]. {{non-gloss definition|Forms abstract nouns
+  from verbs, denoting a quality, state, or instrument.}}
+
+
+  ====Inflection====
+
+  {{gem-decl-noun|g=m}}
+
+
+  ====Derived terms====
+
+  {{suffixsee|gem-pro}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*-mō}}
+
+  * {{desctree|non-oen|-mi}}
+
+  ** {{desctree|gmq-oda|-mæ}}
+
+  *** {{desctree|da|-me|qq=not productive}}
+
+  ** {{desctree|gmq-osw|-me}}
+
+  *** {{desctree|sv|-ma|qq=not productive}}
+
+  * {{desc|got}} {{l|got||-𐌼𐌰|tr=-}} (-ma, in {{l|got|𐌰𐌷𐌼𐌰}})
+
+
+  [[Category:Proto-Germanic noun-forming suffixes]]

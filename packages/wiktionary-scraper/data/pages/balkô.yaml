@@ -1,0 +1,45 @@
+pageid: 3401691
+ns: 118
+title: Reconstruction:Proto-Germanic/balkô
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*bʰelǵ-}}
+  From {{der|gem-pro|ine-pro|*bʰelǵ-||beam, plank}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈbɑl.kɔːː/}}
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # [[beam]], [[balk]]
+
+  ====Inflection====
+  {{gem-decl-noun|g=m}}
+
+  ====Related terms====
+  * {{l|gem-pro|*balkuz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*balkō}}
+  * {{desc|non|bǫlkr}} (< {{l|gem-pro|*balkuz}})
+  ** {{desc|is|bálkur}}
+  ** {{desc|fo|bólkur}}
+  ** {{desc|no|-}} {{l|nb|bolk}}
+  ** {{desc|gmq-osw|balker|bolker}}
+  *** {{desc|sv|balk}}
+  **** {{desc|fi|palkki|bor=1}}
+  ** {{desc|da|balk}}
+  ** {{desctree|ang|balca|bor=1}}
+  * {{desc|non|bjalki}} (< {{l|gem-pro|*belkô}})
+  ** {{desc|is|bjálki}}
+  ** {{desc|fo|bjálki}}
+  ** {{desc|no|bjelke}}
+  ** {{desc|gmq-osw|biælke}}
+  *** {{desc|sv|bjälke}}
+  ** {{desc|da|bjælke}}
+  * {{desc|non|*bjalk|unc=1}} (< {{l|gem-pro|*belkō}})
+  ** {{desc|gmq-bot|bjalk}}

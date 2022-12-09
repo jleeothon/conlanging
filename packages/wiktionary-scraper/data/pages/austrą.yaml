@@ -1,0 +1,47 @@
+pageid: 3415267
+ns: 118
+title: Reconstruction:Proto-Germanic/austrą
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  Derived from {{m|gem-pro|*austraz}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑu̯s.trɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # [[east]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Related terms====
+  * {{l|gem-pro|*austrōnijaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*austr|id=noun}}
+  * {{desc|non|-}}
+  *: {{desc|non|austr|sclb=1}}
+  *: {{desc|non|ᛅᚢᛋᛏᚱ|sclb=1}} {{desctree|non|austr|noparent=1}}
+  * {{desc|xvn|*austa-}} (early), {{l|xvn|*ōsta-}} (late)
+
+  ===Adverb===
+  {{gem-adv|*austrōz|*austrōst}}<ref>{{R:gem:EDPG|*austera-|43}}</ref>
+
+  # {{topics|gem-pro|Compass points}} [[east]], [[eastward]]
+
+  ====See also====
+  * {{l|gem-pro|*nurþrą}}
+  * {{l|gem-pro|*sunþrą}}
+  * {{l|gem-pro|*westrą}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*austr|id=adverb}}
+  * {{desc|non|austr}}
+
+  ===References===
+  <references/>

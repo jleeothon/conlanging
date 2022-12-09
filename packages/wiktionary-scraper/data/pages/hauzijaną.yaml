@@ -1,0 +1,108 @@
+pageid: 2401559
+ns: 118
+title: Reconstruction:Proto-Germanic/hauzijaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From {{inh|gem-pro|ine-pro|*h₂ḱh₂owsyéti||to be sharp-eared}}, from
+  {{m|ine-pro|*h₂eḱ-||sharp}} + {{m|ine-pro|*h₂ows-||ear}} +
+  {{m|ine-pro|*-yéti|pos=denominative suffix}}.
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxɑu̯.zi.jɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}<ref>{{R:gem:EDPG|*hauzjan-|217}}</ref><ref>{{R:gem:HGE|*xausjanan
+  ~ *xauzjanan|page=167}}</ref>
+
+
+  # to [[hear]]
+
+
+  ====Inflection====
+
+  {{gem-conj-wk1|hauz|j=ij}}
+
+
+  ====Derived terms====
+
+  {{der3|gem-pro
+
+  |*hauzīniz
+
+  |*hauzikōną
+
+  |*gahauzijaną
+
+  }}
+
+
+  * {{l|gem-pro|*hauzakōną}} {{q|with intensive ''-k-''}}
+
+  ** {{desc|ang|*hercian}}
+
+  *** {{desc|enm|herken}}
+
+  **** {{desc|en|heark}}, {{l|en|hark}}
+
+  **** {{desc|sco|herk}}, {{l|sco|hark}}
+
+  *** {{desc|der=1|ang|hercnian}}, {{l|ang|heorcnian}}, {{l|ang|hyrcnian}}
+  {{q|suffixed}}
+
+  **** {{desc|enm|herknen}}
+
+  ***** {{desc|en|hearken}}, {{l|en|harken}}
+
+  ***** {{desc|sco|herkin}}, {{l|sco|hearken}}, {{l|sco|harkin}}
+
+  ** {{desc|ofs|hērkia}}, {{l|ofs|harkia}}
+
+  *** {{desc|frr|harke}}
+
+  *** {{desc|fy|harkje}}
+
+  ** {{desc|osx|*hōrkian}}, {{l|osx|*hōrkōn}}
+
+  *** {{desc|gml|horken}}
+
+  ** {{desc|odt|*hōrken}}, {{l|odt|*hōrkon}}
+
+  *** {{desc|dum|horken}}, {{l|dum|harken}}
+
+  ** {{desc|goh|*hōrahhōn}}, {{l|goh|hōrechen}}
+
+  *** {{desc|gmh|horchen}}, {{l|gmh|hōrchen}}
+
+  **** {{desc|de|horchen}}
+
+
+  ====Descendants====
+
+  * {{desctree|gmw-pro|*hauʀijan}}
+
+  * {{desctree|non|heyra}}
+
+  * {{desc|got|𐌷𐌰𐌿𐍃𐌾𐌰𐌽}}
+
+
+  ====Further reading====
+
+  * {{R:gem:PIEPG}}
+
+
+  ===References===
+
+  <references/>
+
+
+  {{topics|gem-pro|Hearing}}

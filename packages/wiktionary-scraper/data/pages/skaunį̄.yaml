@@ -1,0 +1,28 @@
+pageid: 6356343
+ns: 118
+title: Reconstruction:Proto-Germanic/skaunį̄
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{suffix|gem-pro|*skauniz|*į̄}}.
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[niceness]], [[beauty]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|osx|skōnī}}
+  ** {{desc|gml|schône}}
+  * {{desc|odt|scōnī}}
+  ** {{desc|dum|schône}}
+  * {{desc|goh|scōnī}}
+  ** {{desc|gmh|schœne}}
+  *** {{desc|de|Schöne}} {{q|obsolete}}
+  * {{desc|got|*𐍃𐌺𐌰𐌿𐌽𐌴𐌹}}
+  ** {{desc|got|𐌲𐌿𐌳𐌰𐍃𐌺𐌰𐌿𐌽𐌴𐌹|der=1}}

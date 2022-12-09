@@ -1,0 +1,38 @@
+pageid: 7199749
+ns: 118
+title: Reconstruction:Proto-Germanic/Ansuwaldaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*ansuz|t1=deity|*waldą|t2=authority}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈɑn.su.ˌwɑl.ðɑz/}}
+
+  ===Proper noun===
+  {{gem-proper noun|m}}
+
+  # {{given name|gem-pro|male}}
+
+  ====Inflection====
+  {{gem-decl-noun|nopl=1}}
+
+  ====Descendants====
+  * {{desc|gmw-pro|*Ansuwald}}
+  ** {{desc|ang|Ōsweald}}
+  *** {{desc|enm|Oswald}}
+  **** {{desc|en|Oswald}}
+  ** {{desc|goh|Answalt}}
+  *** {{desc|de|Answald}}
+  ** {{desc|la|Ansoaldus|bor=1}}
+  *** {{desc|it|Ansaldo}}
+  * {{desc|non|Ásvaldr}}
+  ** {{desc|is|Ásvaldur}}
+  ** {{desc|fo|Ásvaldur}}
+  ** {{desc|no|Åsvald}}
+  * {{desc|bor=1|la|Osvaldus}}
+  ** {{desc|it|Osvaldo}}
+  ** {{desc|es|Osvaldo}}
+  ** {{desc|pt|Osvaldo}}

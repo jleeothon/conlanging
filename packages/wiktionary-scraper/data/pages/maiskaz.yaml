@@ -1,0 +1,85 @@
+pageid: 3484769
+ns: 118
+title: Reconstruction:Proto-Germanic/maiskaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Alternative forms===
+
+  * {{l|gem-pro|*maikskaz}}
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*meyḱ-}}
+
+  From earlier {{m|gem-pro||*maihskaz}}, from
+  {{der|gem-pro|ine-pro||*moiḱ-sḱ-o/eh₂-}}, from {{m|ine-pro|*meyḱ-||mix}}.
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[mixture]]
+
+  # a [[mash]]
+
+
+  ====Inflection====
+
+  {{gem-decl-noun}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*maiską}}
+
+  * {{l|gem-pro|*maiskō}}
+
+  * {{l|gem-pro|*miskijaną}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*maisk|*mask}}
+
+  ** {{desc|ang|mǣsc-|masc|alt2=māsc-|max|alt3=māx-|māscwyrt}}
+
+  *** {{desc|enm|maske|masche|*mashe}} (found in {{l|enm|misse-mashe}})
+
+  **** {{desc|sco|mask|musk}}
+
+  **** {{desc|en|mash|mishmash}}
+
+  ** {{desc|ofs|*māsk|*mask}}
+
+  *** {{desc|frr|mask}}
+
+  *** {{desc|stq|Mask}}; {{l|stq|Miskmask}}
+
+  ** {{desc|osx|*mēsk|*mask}}
+
+  *** {{desc|gml|masch|mêsch|mêschewert|meisch}}
+
+  **** {{desc|nds-de|Mask}}
+
+  **** {{desc|bor=1|da|mask|miskmask}}
+
+  **** {{desc|bor=1|sv|mäsk|mask}} {{qualifier|dialectal}}
+
+  ** {{desc|odt|*mēsk|*mask}}
+
+  *** {{desc|dum|*masch}}
+
+  **** {{desc|nl|mas|unc=1}} {{q|possibly borrowed from Low German}}
+
+  ** {{desc|goh|*meisk}}
+
+  *** {{desc|gmh|meisch}}
+
+  **** {{desc|de|Maisch}} {{g|m}}, {{l|de|Maische}} {{g|f}}

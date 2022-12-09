@@ -1,0 +1,27 @@
+pageid: 7313249
+ns: 118
+title: Reconstruction:Proto-Germanic/hnōną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*knéh₂-}}.<ref name="Kroonen"></ref>
+
+  ===Pronunciation===
+  {{IPA|gem-pro|/ˈxnɔː.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}<ref name="Kroonen">{{R:gem:EDPG|head=*hnojan-|page=237}}</ref>
+
+  # To [[groove]]
+
+  ====Inflection====
+  {{gem-conj-wk2|hn}}
+
+  ====Descendants====
+  * {{desc|goh|nōen}}
+  ** {{desc|gmh|nūejen}}
+
+  ===References===
+  <references/>

@@ -1,0 +1,22 @@
+pageid: 5662323
+ns: 118
+title: Reconstruction:Proto-Germanic/parrikaz
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Noun===
+  {{gem-noun|m}}
+
+  # {{alternative form of|gem-pro|*parrukaz}}
+
+  ====Descendants====
+  * {{desc|osx|*perrik}}
+  ** {{desc|gml|perk}}
+  * {{desc|odt|*perrik|perk}} {{i|in placenames}}
+  ** {{desc|dum|perrik|perric|perck|perc}}
+  *** {{desc|nl|perk}}
+  * {{desc|goh|pferrih}}
+  ** {{desc|gmh|pferrich|pherrich}}
+  *** {{desc|gsw|Färrich}}
+  *** {{desc|de|Pferch}}

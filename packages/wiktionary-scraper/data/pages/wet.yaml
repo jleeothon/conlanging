@@ -1,0 +1,27 @@
+pageid: 2323676
+ns: 118
+title: Reconstruction:Proto-Germanic/wet
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{der|gem-pro|ine-pro|*éǵh₂}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/wet/}}
+
+  ===Pronoun===
+  {{gem-pron}}
+
+  # [[we]] [[two]]
+
+  ====Inflection====
+  {{gem-decl-ppron}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wit}}
+  * {{desctree|non|vit}}
+  * {{desc|got|𐍅𐌹𐍄}}
+
+  {{cln|gem-pro|personal pronouns}}

@@ -1,0 +1,65 @@
+pageid: 3573048
+ns: 118
+title: Reconstruction:Proto-Germanic/himinaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  Unclear, but possibly descending from {{inh|gem-pro|ine-pro|*h₂éḱmō||stone?}}
+  with heavy remodelling, including apparent metathesis similar to
+  {{cog|sla-pro|*kamy}}. The difference in meaning seems to be bridged by
+  {{cog|grc|ἄκμων}}, meaning among other things 'meteorite'. Kroonen suggests
+  'heavenly vault' as the original meaning. Compare also Iranian cognates such
+  as {{cog|fa|آسمان||sky, heaven|tr=âsemân, âsmân}}.
+
+
+  Kroonen proposes descent primarily from the genitive {{m|ine-pro||*h₂ḱm̥nós}},
+  yielding first in Germanic a paradigm with nominative {{m|gem-pro||*hemō}},
+  genitive {{m|gem-pro||*hemnaz}}, dative {{m|gem-pro||*hemeni}}, later levelled
+  further to give two parallel stems {{m|gem-pro||*hemina-}} and
+  {{m|gem-pro||*hemna-}}.<ref>{{R:gem:EDPG}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈxi.mi.nɑz/}}
+
+
+  ===Noun===
+
+  {{gem-noun|m}}
+
+
+  # [[cloud cover]]
+
+  # [[sky]]
+
+
+  ====Declension====
+
+  {{gem-decl-noun}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*upphiminaz}}
+
+
+  ====Descendants====
+
+  * {{desc|gmw-pro|*hebun|unc=1}} {{see desc}}
+
+  * {{desc|gmw-pro|*himil|unc=1}} {{see desc}}
+
+  * {{desctree|non|himinn}}
+
+  * {{desc|got|𐌷𐌹𐌼𐌹𐌽𐍃}}
+
+
+  ===References===
+
+  <references/>

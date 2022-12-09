@@ -1,0 +1,35 @@
+pageid: 2916813
+ns: 118
+title: Reconstruction:Proto-Germanic/wabją
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*webʰ-}}
+  From {{m|gem-pro|*webaną}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈwɑβ.jɑ̃/}}
+
+  ===Noun===
+  {{gem-noun|n}}
+
+  # {{topic|gem-pro|Weaving}} something [[weave|woven]]
+  # {{topic|gem-pro|Spiders}} [[web]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gmw-pro|*gudawabją}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*wabi}}
+  * {{desc|non|vefr}}
+  ** {{desc|da|væv}}
+  ** {{desc|fo|vevur}}
+  ** {{desc|is|vefur}}
+  ** {{desc|no|vev}}
+  ** {{desc|gmq-osw|væver}}
+  *** {{desc|sv|väv}}

@@ -1,0 +1,37 @@
+pageid: 6423420
+ns: 118
+title: Reconstruction:Proto-Germanic/biwindaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{prefix|gem-pro|*bi|*windaną|pos=verb}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/biˈwin.dɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[wind]] around or about, [[enwrap]]
+
+  ====Inflection====
+  {{gem-conj-st|class=3|biwind|biwand|biwund|biwund}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*biwandijaną}}
+
+  ====Descendants====
+  * {{desc|ang|bewindan}}
+  ** {{desc|enm|bewinden|biwinden}}
+  *** {{desc|en|bewind}}
+  * {{desc|osx|biwindan}}
+  ** {{desc|gml|bewinden}}
+  * {{desc|odt|-}}
+  ** {{desc|dum|bewinden}}
+  *** {{desc|nl|bewinden}}
+  * {{desc|goh|biwintan}}
+  ** {{desc|gmh|bewinden}}
+  *** {{desc|de|bewinden}}
+  * {{desc|got|𐌱𐌹𐍅𐌹𐌽𐌳𐌰𐌽}}

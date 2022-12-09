@@ -1,0 +1,37 @@
+pageid: 7400508
+ns: 118
+title: Reconstruction:Proto-Germanic/akramann-
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{compound|gem-pro|*akraz|*mann-|t1=field|t2=man}}.
+
+  ===Noun===
+  {{gem-noun|m}}<ref>{{R:gem:HGE|*akra-mannz|12}}</ref>
+
+  # [[plowman]], [[farmer]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Descendants====
+  * {{desc|ang|æcermann|æcerman}}
+  ** {{desc|enm|akerman|acreman}}
+  *** {{desc|en|acreman}}
+  * {{desc|odt|*accarman}}
+  ** {{desc|dum|ackerman}}
+  * {{desc|osx|*akkarman}}
+  ** {{desc|gml|ackerman|ackermann}}
+  * {{desc|goh|ackarman}}
+  ** {{desc|gmh|ackerman}}
+  *** {{desc|de|Ackermann}}
+  * {{desc|non|akramaðr}}
+
+  ===References===
+  <references/>
+
+  [[Category:gem-pro:Occupations]]
+  [[Category:gem-pro:Agriculture]]
+  [[Category:gem-pro:People]]

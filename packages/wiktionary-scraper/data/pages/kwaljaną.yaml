@@ -1,0 +1,31 @@
+pageid: 4576207
+ns: 118
+title: Reconstruction:Proto-Germanic/kwaljaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  {{root|gem-pro|ine-pro|*gʷelH-}}
+  From {{affix|gem-pro|*kwelaną|t1=to suffer|*-janą|id2=causative}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈkʷɑl.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to make [[suffer]], to [[hurt]]
+
+  ====Inflection====
+  {{gem-conj-wk1|kwal|j=j}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*kwalīniz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*kwalljan}}
+  * {{desctree|non|kvelja}}
+
+  ====Further reading====
+  * {{R:gem:EDPG}}

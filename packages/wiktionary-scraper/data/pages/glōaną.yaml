@@ -1,0 +1,104 @@
+pageid: 2899217
+ns: 118
+title: Reconstruction:Proto-Germanic/glōaną
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  From Pre-Germanic {{m|ine-pro||*gʰloh₁-}},from {{der|gem-pro|ine-pro|*ǵʰel-}}.
+  Probably related to {{cog|cy|glo||coal}}.<ref>{{R:gem:EDPG}}</ref>
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɣlɔː.ɑ.nɑ̃/}}
+
+
+  ===Verb===
+
+  {{gem-verb}}
+
+
+  # to [[glow]]
+
+
+  ====Inflection====
+
+  {{gem-conj-st|class=7e|nopass=1|glō|geglō|geglō|glō}}
+
+
+  ====Derived terms====
+
+  * {{l|gem-pro|*glōdiz}}
+
+  * {{l|gem-pro|*glōmą}}
+
+
+  ====Related terms====
+
+  * {{l|gem-pro|*glēiz}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|glōwan}}
+
+  ** {{desc|enm|glowen}}
+
+  *** {{desc|sco|glow}}
+
+  *** {{desc|en|glow}}
+
+  * {{desc|ofs|*glōa|*glōia}}; {{l|ofs|gliand}}, {{l|ofs|gland}}?
+
+  ** {{desc|stq|gloie|glöie|gluuje}}
+
+  ** {{desc|fy|gloeie}}
+
+  * {{desc|osx|glōian}}
+
+  ** {{desc|gml|glöen|glöyen|glöjen|glôen|glôwen|glôgen}}
+
+  *** {{desc|nds-de|glojen|gleuhen|gleihen}}
+
+  * {{desc|odt|*gluoien}}
+
+  ** {{desc|dum|gloeyen}}
+
+  *** {{desc|nl|gloeien}}
+
+  **** {{desc|af|gloei}}
+
+  * {{desc|goh|gluoen}}
+
+  ** {{desc|gmh|glüejen}}
+
+  *** {{desc|gmw-cfr|jlöhe|gliehe}}
+
+  ***: {{desc|lb|glousen}}
+
+  *** {{desc|de|glühen}}
+
+  *** {{desc|gmw-rfr|glihe}}
+
+  ***: Frankfurterisch: [kliːi̯ə]
+
+  * {{desc|non|glóa}}
+
+  ** {{desc|is|glóa}}
+
+  ** {{desc|fo|glógva}}
+
+  ** {{desc|no|glo}}
+
+  ** {{desc|gmq-osw|glōa}}
+
+  *** {{desc|sv|glo}}
+
+  ** {{desc|da|glo}}
+
+  ** {{desc|gmq-scy|glowa}}

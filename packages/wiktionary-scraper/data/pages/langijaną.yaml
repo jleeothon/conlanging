@@ -1,0 +1,27 @@
+pageid: 4685421
+ns: 118
+title: Reconstruction:Proto-Germanic/langijaną
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{affix|gem-pro|*langaz|t1=long|*-janą}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈlɑŋ.ɡi.jɑ.nɑ̃/}}
+
+  ===Verb===
+  {{gem-verb}}
+
+  # to [[lengthen]], make [[long]]
+
+  ====Inflection====
+  {{gem-conj-wk1|lang|j=ij}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*langijan}}
+  * {{desc|non|lengja}}
+  ** {{desc|is|lengja}}
+  ** {{desc|gmq-osw|længia}}
+  *** {{desc|sv|länga}}

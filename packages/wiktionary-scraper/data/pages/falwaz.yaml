@@ -1,0 +1,116 @@
+pageid: 4571634
+ns: 118
+title: Reconstruction:Proto-Germanic/falwaz
+wikitext: >-
+  {{reconstructed}}
+
+  ==Proto-Germanic==
+
+
+  ===Etymology===
+
+  {{root|gem-pro|ine-pro|*pelH-}}
+
+  From {{inh|gem-pro|ine-pro|*polHwós||pale, gray}}, from
+  {{der|gem-pro|ine-pro|*pelH-}}. Cognate with {{cog|la|pullus||dark,
+  dusky|id=dark}}, {{cog|grc|πολιός||gray}} and {{m|grc|πελιός||dark, dull}},
+  and {{cog|ine-bsl-pro|*palwas||pale (yellow)}} (e.g. {{cog|lt|pal̃vas||pale,
+  straw-colored}}).
+
+
+  ===Pronunciation===
+
+  * {{IPA|gem-pro|/ˈɸɑl.wɑz/}}
+
+
+  ===Adjective===
+
+  {{gem-adj}}
+
+
+  # [[pale]], [[gray]], [[fallow]]
+
+
+  ====Inflection====
+
+  {{gem-decl-adj-a|falw}}
+
+
+  ====Descendants====
+
+  * {{desc|ang|fealu}}
+
+  ** {{desc|enm|falwe|falewe|falow}}
+
+  *** {{desc|en|fallow}}
+
+  *** {{desc|sco|fallow|fallaw|fellow|follow}}
+
+  * {{desc|ofs|*falo|*falu}}
+
+  ** {{desc|stq|foal}}
+
+  ** {{desc|fy|feal}}
+
+  * {{desc|osx|falu}}
+
+  ** {{desc|gml|fāle|vāle|fāl|vāl}}
+
+  *** {{desc|nds-de|fahl}}
+
+  ** {{desc|gml|falwisch|der=1}}
+
+  * {{desc|frk|*falu}} (stem: {{l|frk|*falwa-}})
+
+  ** {{desc|odt|*falo}}
+
+  *** {{desc|dum|vāle|vālu}}
+
+  **** {{desc|nl|vaal}}
+
+  ** {{desc|LL.|falvus|bor=1}}
+
+  *** {{desc|ca|falb}}
+
+  *** {{desc|fro|falve}}
+
+  **** {{desc|frm|fauve}}
+
+  ***** {{desc|fr|fauve}}
+
+  *** {{desc|LL.|der=1|*falvārius}}
+
+  **** {{desc|gl|fouveiro}}
+
+  **** {{desc|pt|fouveiro}}
+
+  **** {{desc|es|overo}}
+
+  * {{desc|goh|falo}}
+
+  ** {{desc|gmh|val}} (stem: {{m|gmh||valw-}})
+
+  *** {{desc|de|fahl|falb}}
+
+  * {{desc|non|fǫlr}} (stem {{m|non||fǫlv-}})
+
+  ** {{desc|is|fölur}}
+
+  ** {{desc|fo|følin}}
+
+  ** {{desc|gmq-osw|}}
+
+  *** {{desc|sv|fal}}
+
+  ** {{desc|sv|falna|der=1|pos=verb|t=to become pale}}
+
+  ** {{desc|da|falme|der=1|pos=verb}}
+
+  ** {{desc|der=1|no|folne|falne|falme|pos3=verbs}}
+
+  ** {{desc|der=1|gmq-bot|falnäs|faln|pos2=verbs}}
+
+
+  ===See also===
+
+  {{table:colors/gem-pro}}

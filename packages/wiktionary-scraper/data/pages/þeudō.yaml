@@ -1,0 +1,40 @@
+pageid: 2663619
+ns: 118
+title: Reconstruction:Proto-Germanic/þeudō
+wikitext: |-
+  {{reconstructed}}
+  ==Proto-Germanic==
+
+  ===Etymology===
+  From {{inh|gem-pro|ine-pro|*tewtéh₂}}.
+
+  ===Pronunciation===
+  * {{IPA|gem-pro|/ˈθeu̯.ðɔː/}}
+
+  ===Noun===
+  {{gem-noun|f}}
+
+  # [[people]], [[tribe]]
+
+  ====Inflection====
+  {{gem-decl-noun}}
+
+  ====Derived terms====
+  * {{l|gem-pro|*alaþeudō}}
+  * {{l|gem-pro|*þeudanaz}}
+  * {{l|gem-pro|*þiudijaną}}
+  * {{l|gem-pro|*þiudiskaz}}
+  * {{l|gem-pro|*Þeudarīks}}
+  * {{l|gem-pro|*Þeudōbalþaz}}
+  * {{l|gem-pro|*Þeudōberhtaz}}
+  * {{l|gem-pro|*Þeudōmēraz}}
+
+  ====Related terms====
+  * {{l|gem-pro|*þiudijaz}}
+
+  ====Descendants====
+  * {{desctree|gmw-pro|*þeudu}}
+  * {{desc|gmq-pro|*ᚦᛖᚢᛞᚢ}}
+  ** {{desctree|non|þjóð|noalts=1}}
+  * {{desc|got|𐌸𐌹𐌿𐌳𐌰}}
+  * {{desc|xvn|*þeuðo}}/{{l|xvn|*þeuðō}}
