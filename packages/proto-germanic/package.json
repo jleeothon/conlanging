@@ -1,0 +1,19 @@
+{
+    "name": "@jleeothon/slumpisk-proto-germanic",
+    "version": "1.0.0",
+    "private": true,
+    "description": "",
+    "author": "Johnny E. Lee Othon",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "lint": "xo",
+        "test": "ts-node index.ts"
+    },
+    "devDependencies": {
+        "commander": "^9.4.0",
+        "derivations": "*",
+        "rxjs": "^7.5.6",
+        "ts-node": "^10.9.1"
+    }
+}
