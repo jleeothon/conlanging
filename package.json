@@ -1,6 +1,5 @@
 {
-    "name": "@jleeothon/slumpisk",
-    "description": "Yet another Germanic conlang",
+    "description": "Slumpisk - yet another Germanic conlang",
     "private": true,
     "type": "module",
     "engines": {
