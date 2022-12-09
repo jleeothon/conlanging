@@ -1,12 +1,57 @@
 import path from "node:path";
+import fs from "node:fs";
 import got from "got";
 import { packageDirectorySync } from "pkg-dir";
-import { writeJsonFileSync } from "write-json-file";
 import rx, { firstValueFrom } from "rxjs";
+import { dump as yamlDump } from "js-yaml";
+import pThrottle from "p-throttle";
 
 // URL: https://en.wiktionary.org/w/api.php?action=query&format=json&cmpageid=4488666&list=categorymembers&cmlimit=10&cmcontinue=...
 
 const baseUrl = "https://en.wiktionary.org/w/api.php";
+
+export async function query(
+	cmtitle: string,
+	{
+		limit,
+		filterPrefix,
+	}: {
+		limit?: number;
+		filterPrefix?: string;
+	} = {}
+) {
+	const throttle = pThrottle({
+		limit: 2,
+		interval: 1000,
+	});
+	const throttleParsePage = throttle(parseWikitext);
+
+	const observableMembers = rx.from(fetchCategoryMembers(cmtitle));
+
+	const limitedMembers = limit
+		? observableMembers.pipe(rx.take(10))
+		: observableMembers;
+
+	const filteredMembers = filterPrefix
+		? limitedMembers.pipe(
+				rx.filter(({ title }) => title.startsWith(filterPrefix))
+		  )
+		: limitedMembers;
+
+	const enrichedMembers = filteredMembers.pipe(
+		rx.mergeMap(async (member) => {
+			const wikitext = await throttleParsePage(member.pageid);
+			return { ...member, wikitext };
+		}),
+		rx.tap((member) => {
+			console.log("Done", yamlDump(member));
+		})
+	);
+	const results = await firstValueFrom(enrichedMembers.pipe(rx.toArray()));
+	const fileName = path.join(packageDirectorySync()!, "data", "data-0.yaml");
+	const content = results.map((result) => yamlDump(result)).join("\n---\n");
+	fs.writeFileSync(fileName, content);
+}
 
 type CategoryMember = { title: string; pageid: number };
 
@@ -17,35 +62,46 @@ type CategoryMembersQueryResponse = {
 	continue?: { cmcontinue: string };
 };
 
-async function* fetchCategoryMembers(): AsyncIterable<CategoryMember> {
-	const defaultSearchParams = {
+type ParseResponse = {
+	parse: {
+		title: string;
+		wikitext: string;
+	};
+};
+
+async function* fetchCategoryMembers(
+	cmtitle: string
+): AsyncIterable<CategoryMember> {
+	let cmcontinue: string | undefined;
+	const defaultSearchParameters = {
 		action: "query",
 		format: "json",
-		cmpageid: "4488666",
+		cmtitle: cmtitle.toString(),
 		list: "categorymembers",
 		cmlimit: "500",
 	};
-
-	let cmcontinue: string | undefined;
 	do {
 		// eslint-disable-next-line no-await-in-loop
 		const data: CategoryMembersQueryResponse = await got(baseUrl, {
-			searchParams: { ...defaultSearchParams, cmcontinue },
+			searchParams: { ...defaultSearchParameters, cmcontinue },
 		}).json();
 		const { categorymembers } = data.query;
-		const reconstructions = categorymembers.filter(({ title }) =>
-			title.startsWith("Reconstruction:Proto-Germanic")
-		);
-		yield* reconstructions;
+		yield* categorymembers;
 		cmcontinue = data.continue?.cmcontinue;
 	} while (cmcontinue);
 }
 
-async function run() {
-	const observableMembers = rx.from(fetchCategoryMembers());
-	const results = await firstValueFrom(observableMembers.pipe(rx.toArray()));
-	const fileName = path.join(packageDirectorySync()!, "data", "data-0.json");
-	writeJsonFileSync(fileName, results, { indent: "\t" });
-}
+async function parseWikitext(pageid: number): Promise<string> {
+	// https://www.mediawiki.org/wiki/API:Parsing_wikitext
+	const response: ParseResponse = await got(baseUrl, {
+		searchParams: {
+			action: "parse",
+			format: "json",
+			pageid,
+			prop: "wikitext",
+			formatversion: 2,
+		},
+	}).json();
 
-run();
+	return response.parse.wikitext;
+}
