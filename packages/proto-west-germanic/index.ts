@@ -1,10 +1,7 @@
-import query from "@jleeothon/wiktionary-scraper";
+import query from '@jleeothon/wiktionary-scraper';
 
-try {
-	await query("Category:Proto-West_Germanic_lemmas", {
-		filterPrefix: "Reconstruction:Proto-West Germanic/",
-	});
-	console.log("Done");
-} catch (error) {
+await query('Category:Proto-West_Germanic_lemmas', {
+	filterPrefix: 'Reconstruction:Proto-West Germanic/',
+}).catch((error: Error) => {
 	console.error(error);
-}
+});
