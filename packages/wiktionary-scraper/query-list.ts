@@ -21,15 +21,15 @@ export async function query(
 	} = {}
 ) {
 	const throttle = pThrottle({
-		limit: 2,
-		interval: 1000,
+		limit: 3,
+		interval: 1_000,
 	});
 	const throttleParsePage = throttle(parseWikitext);
 
 	const observableMembers = rx.from(fetchCategoryMembers(cmtitle));
 
 	const limitedMembers = limit
-		? observableMembers.pipe(rx.take(10))
+		? observableMembers.pipe(rx.take(limit))
 		: observableMembers;
 
 	const filteredMembers = filterPrefix
@@ -44,7 +44,7 @@ export async function query(
 			return { ...member, wikitext };
 		}),
 		rx.tap((member) => {
-			console.log("Done", yamlDump(member));
+			console.log("Done", member.title);
 		})
 	);
 	const results = await firstValueFrom(enrichedMembers.pipe(rx.toArray()));
