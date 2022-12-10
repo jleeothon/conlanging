@@ -1,58 +1,51 @@
 {
-    "description": "Slumpisk - yet another Germanic conlang",
-    "private": true,
-    "type": "module",
-    "engines": {
-        "node": "^18"
-    },
-    "exports": "./index.js",
-    "scripts": {
-        "prettier-js": "prettier --write",
-        "headings": "rg '^#' grammar/full-grammar.md",
-        "lint:yaml": "prettier --write data/*",
-        "lint:js": "xo --fix",
-        "lint:md": "ls *.md texts/*.md grammar/*.md drafts/*.md | xargs -n 300 npm run prettier-js",
-        "lint:md-output": "ls word-list/*.md | xargs -n 300 npm run prettier-js",
-        "verify-word-list": "bin/verify-word-list.js < data/word-list.yaml",
-        "sort-word-list": "bin/sort-word-list.fish",
-        "pre-lint": "npm run lint:yaml && npm run lint:md && npm run lint:js",
-        "post-lint": "npm run lint:yaml && npm run lint:md-output",
-        "lint": "npm run pre-lint && sort-package-json && npm run post-lint",
-        "render": "rm word-list/*; bin/render.js < data/word-list.yaml",
-        "sort-package-json": "sort-package-json packages/*/package.json",
-        "test": "npm run pre-lint && npm run verify-word-list && npm run sort-word-list && npm run render && npm run post-lint"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/jleeothon/conlang1.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/jleeothon/conlang1/issues"
-    },
-    "homepage": "https://github.com/jleeothon/conlang1#readme",
-    "dependencies": {
-        "ajv": "^8.7.1",
-        "delay": "^5.0.0",
-        "filter-obj": "^3.0.0",
-        "handlebars": "^4.7.7",
-        "js-yaml": "^4.1.0",
-        "load-json-file": "^7.0.1",
-        "p-map": "^5.3.0",
-        "pkg-dir": "^6.0.1",
-        "prettier": "^2.4.1",
-        "redisgraph.js": "^2.3.0",
-        "string-natural-compare": "^3.0.1",
-        "verror": "^1.10.1",
-        "write-json-file": "^5.0.0"
-    },
-    "workspaces": [
-        "packages/*"
-    ],
-    "devDependencies": {
-        "lerna": "^5.5.0",
-        "sort-package-json": "^2.1.0",
-        "xo": "^0.52.3"
-    }
+  "name": "@jleeothon/slumpisk",
+  "description": "Slumpisk - yet another Germanic conlang",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "^18"
+  },
+  "exports": "./index.js",
+  "scripts": {
+    "sort-package-json": "sort-package-json packages/*/package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleeothon/conlang1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleeothon/conlang1/issues"
+  },
+  "homepage": "https://github.com/jleeothon/conlang1#readme",
+  "dependencies": {
+    "ajv": "^8.7.1",
+    "delay": "^5.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "filter-obj": "^3.0.0",
+    "handlebars": "^4.7.7",
+    "js-yaml": "^4.1.0",
+    "load-json-file": "^7.0.1",
+    "p-map": "^5.3.0",
+    "pkg-dir": "^6.0.1",
+    "prettier": "^2.4.1",
+    "redisgraph.js": "^2.3.0",
+    "string-natural-compare": "^3.0.1",
+    "verror": "^1.10.1",
+    "write-json-file": "^5.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@nrwl/nx-cloud": "latest",
+    "@typescript-eslint/eslint-plugin": "^5.46.0",
+    "@typescript-eslint/parser": "^5.46.0",
+    "eslint": "^8.29.0",
+    "lerna": "^5.5.0",
+    "nx": "15.3.0",
+    "sort-package-json": "^2.1.0"
+  }
 }

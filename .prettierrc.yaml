@@ -1,4 +1,6 @@
 overrides:
+  - files: "**/*.json"
+  - files: "**/*.ts"
   - files: "*.yaml"
     parser: yaml
     proseWrap: always
