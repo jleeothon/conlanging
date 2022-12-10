@@ -7,8 +7,8 @@
     "type": "module",
     "main": "index.js",
     "scripts": {
-        "lint": "xo",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "lint": "prettier --write . && eslint --fix .",
+        "start": "ts-node index.ts"
     },
     "devDependencies": {
         "commander": "^9.4.0",

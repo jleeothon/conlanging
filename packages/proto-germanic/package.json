@@ -7,7 +7,7 @@
     "type": "module",
     "main": "index.js",
     "scripts": {
-        "lint": "eslint --fix . && prettier --write",
+        "lint": "prettier --write . && eslint --fix .",
         "test": "ts-node index.ts"
     },
     "dependencies": {
