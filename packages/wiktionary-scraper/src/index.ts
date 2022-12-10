@@ -5,7 +5,7 @@ import { packageDirectorySync } from "pkg-dir";
 import rx, { firstValueFrom } from "rxjs";
 import { dump as yamlDump } from "js-yaml";
 import pThrottle from "p-throttle";
-import logEmitter from "./log-emitter";
+import logEmitter from "./log-emitter.js";
 
 // URL: https://en.wiktionary.org/w/api.php?action=query&format=json&cmpageid=4488666&list=categorymembers&cmlimit=10&cmcontinue=...
 
@@ -23,13 +23,15 @@ export default async function query(
 ) {
 	const throttle = pThrottle({
 		limit: 3,
-		interval: 1_000,
+		interval: 1000,
 	});
 	const throttleParsePage = throttle(parseWikitext);
 
-	const observableMembers = rx
-		.from(fetchCategoryMembers(cmtitle))
-		.pipe(rx.tap((member) => logEmitter.emit("category-member", member)));
+	const observableMembers = rx.from(fetchCategoryMembers(cmtitle)).pipe(
+		rx.tap((member) => {
+			logEmitter.emit("category-member", member);
+		})
+	);
 
 	const limitedMembers = limit
 		? observableMembers.pipe(rx.take(limit))

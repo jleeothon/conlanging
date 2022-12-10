@@ -2,9 +2,9 @@
     "extends": "../../tsconfig.json",
     "compilerOptions": {
         "declaration": true,
-      "declarationDir": "build",
-      "outDir": "build",
-      "rootDir": "src"
+        "declarationDir": "build",
+        "outDir": "build",
+        "rootDir": "src"
     },
     "exclude": ["node_modules", "scripts", "build", "overrides"]
 }

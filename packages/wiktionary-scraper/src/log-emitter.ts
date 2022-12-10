@@ -9,7 +9,7 @@ logEmitter.on("list-category-members", (results: unknown[]) => {
 	console.log("List category members; count:", results.length);
 });
 
-logEmitter.on("category-member", (member: { title: string }) => {});
+// logEmitter.on("category-member", () => {});
 
 logEmitter.on("parse-category-member", (member: { title: string }) => {
 	console.log("✔️", member.title);

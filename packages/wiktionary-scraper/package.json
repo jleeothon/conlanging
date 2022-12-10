@@ -9,14 +9,15 @@
     "types": "build/index.d.ts",
     "scripts": {
         "build": "tsc",
-        "lint": "xo",
-        "test": "xo --fix ."
+        "lint": "prettier --write . && eslint --fix ."
     },
     "dependencies": {
+        "eslint": "^8.29.0",
         "js-yaml": "^4.1.0",
         "p-throttle": "^5.0.0"
     },
     "devDependencies": {
+        "@types/node": "^18.11.12",
         "got": "^12.4.1",
         "pkg-dir": "^7.0.0",
         "rxjs": "^7.5.6",
