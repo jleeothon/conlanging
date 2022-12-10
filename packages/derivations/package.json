@@ -1,21 +1,21 @@
 {
-    "name": "@jleeothon/slumpisk-derivations",
-    "version": "1.0.0",
-    "private": true,
-    "description": "",
-    "author": "Johnny E. Lee Othon",
-    "type": "module",
-    "main": "index.js",
-    "scripts": {
-        "lint": "prettier --write . && eslint --fix .",
-        "start": "node index.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "dependencies": {
-        "crawler": "*"
-    },
-    "devDependencies": {
-        "pkg-dir": "^7.0.0",
-        "rxjs": "^7.5.6"
-    }
+	"name": "@jleeothon/slumpisk-derivations",
+	"version": "1.0.0",
+	"private": true,
+	"description": "",
+	"author": "Johnny E. Lee Othon",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"lint": "prettier --write . && eslint --fix .",
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"crawler": "*"
+	},
+	"devDependencies": {
+		"pkg-dir": "^7.0.0",
+		"rxjs": "^7.5.6"
+	}
 }
