@@ -7,13 +7,13 @@
     "type": "module",
     "main": "index.js",
     "scripts": {
-        "lint": "xo",
+        "lint": "eslint --fix . && prettier --write",
         "test": "ts-node index.ts"
     },
+    "dependencies": {
+        "@jleeothon/wiktionary-scraper": "*"
+    },
     "devDependencies": {
-        "commander": "^9.4.0",
-        "derivations": "*",
-        "rxjs": "^7.5.6",
         "ts-node": "^10.9.1"
     }
 }
