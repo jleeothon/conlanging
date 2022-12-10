@@ -33,6 +33,7 @@ export function buildCategories(
 			buildOneCategory(categories, name, parentCategory);
 		}
 	}
+
 	return categories;
 }
 

@@ -1,9 +1,9 @@
-import { wordListSchema } from "../lib/schema.js";
-import { ZodError } from "zod";
 import { readFileSync } from "node:fs";
+import { ZodError } from "zod";
 
 import { load as yamlLoad } from "js-yaml";
-// console.error(asTable.default);
+import { wordListSchema } from "../lib/schema.js";
+// Console.error(asTable.default);
 // Future structure
 // aigonleik:
 //   parts:
@@ -28,7 +28,7 @@ try {
 		for (const { path, message } of table) {
 			console.log(path, "-", message);
 		}
-		// console.error(asTable(table));
+		// Console.error(asTable(table));
 		// for (const issue of error.errors) {
 		// 	// error.errors.map((e) => ({path: e.path, message: e.message}));
 		// 	const path = issue.path.join('/');

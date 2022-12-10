@@ -1,7 +1,7 @@
-import { Category } from "./build.js";
+import type { Category } from "./build.js";
 import { fundamental } from "./index.js";
 
-function print(category: Category, tabs: number = 0): void {
+function print(category: Category, tabs = 0): void {
 	console.log("\t".repeat(tabs), category.name);
 	for (const subcategory of category.subcategories) {
 		print(subcategory, tabs + 1);

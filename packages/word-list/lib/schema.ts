@@ -45,9 +45,9 @@ export const wordListSchema = z
 			synonyms: sortedStringArraySchema.optional(),
 		})
 	)
-	.transform((val) =>
+	.transform((value) =>
 		Object.fromEntries(
-			Object.entries(val).sort(([key1], [key2]) => compare(key1, key2))
+			Object.entries(value).sort(([key1], [key2]) => compare(key1, key2))
 		)
 	);
 

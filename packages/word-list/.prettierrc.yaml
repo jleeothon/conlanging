@@ -1,8 +1,0 @@
-overrides:
-  - files: "**/*.yaml"
-    parser: yaml
-    proseWrap: always
-    quoteProps: never
-  - files: "*.md"
-    parser: markdown
-    proseWrap: always
