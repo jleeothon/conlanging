@@ -10,7 +10,7 @@
 		"word-list": "bin/sort.js"
 	},
 	"scripts": {
-		"lint": "prettier --write . && eslint --fix .",
+		"lint": "eslint --fix .",
 		"sort-word-list": "bin/sort-word-list.fish",
 		"test": "npm run verify-word-list && npm run sort-word-list && npm run lint",
 		"verify-word-list": "ts-node bin/verify-word-list.ts < data/word-list.yaml"
