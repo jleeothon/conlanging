@@ -12,8 +12,10 @@
 		"lint": "prettier --write . && eslint --fix ."
 	},
 	"dependencies": {
+		"delay": "^5.0.0",
 		"eslint": "^8.29.0",
 		"js-yaml": "^4.1.0",
+		"p-retry": "^5.1.2",
 		"p-throttle": "^5.0.0"
 	},
 	"devDependencies": {

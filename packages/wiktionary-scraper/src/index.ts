@@ -6,6 +6,7 @@ import rx, { firstValueFrom } from "rxjs";
 import { dump as yamlDump } from "js-yaml";
 import pThrottle from "p-throttle";
 import logEmitter from "./log-emitter.js";
+import pRetry from "p-retry";
 
 // URL: https://en.wiktionary.org/w/api.php?action=query&format=json&cmpageid=4488666&list=categorymembers&cmlimit=10&cmcontinue=...
 
@@ -23,9 +24,16 @@ export default async function query(
 ) {
 	const throttle = pThrottle({
 		limit: 3,
-		interval: 1000,
+		interval: 1500,
 	});
-	const throttleParsePage = throttle(parseWikitext);
+	const throttleParsePage = throttle(async (pageid: number) => {
+		await pRetry(() => parseWikitext(pageid), {
+			retries: 3,
+			onFailedAttempt: (error) => {
+				console.error(error);
+			},
+		});
+	});
 
 	const observableMembers = rx.from(fetchCategoryMembers(cmtitle)).pipe(
 		rx.tap((member) => {
