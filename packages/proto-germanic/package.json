@@ -8,7 +8,7 @@
 	"main": "index.js",
 	"scripts": {
 		"lint": "eslint --fix .",
-		"test": "ts-node index.ts"
+		"start": "ts-node index.ts"
 	},
 	"dependencies": {
 		"@jleeothon/wiktionary-scraper": "*"
