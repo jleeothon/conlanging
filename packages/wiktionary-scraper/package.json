@@ -12,6 +12,7 @@
 		"lint": "prettier --write . && eslint --fix ."
 	},
 	"dependencies": {
+		"@js-temporal/polyfill": "^0.4.3",
 		"delay": "^5.0.0",
 		"eslint": "^8.29.0",
 		"js-yaml": "^4.1.0",

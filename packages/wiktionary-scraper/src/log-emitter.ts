@@ -19,4 +19,8 @@ logEmitter.on("done", () => {
 	console.log("✨ Done");
 });
 
+logEmitter.on("error", (error) => {
+	console.error(error);
+});
+
 export default logEmitter;
