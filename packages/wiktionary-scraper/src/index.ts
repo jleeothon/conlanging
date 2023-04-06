@@ -117,7 +117,6 @@ export class WiktionaryScraper {
 		const filePath = this.#getFilePathForPageid(pageid);
 		const isCacheValid = this.#isCacheValid(filePath);
 		if (!isCacheValid) {
-			console.log(`cache invalid for ${pageid}`);
 			const response = await this.#parseWikitextWithThrottlingAndRetries(
 				pageid
 			);
