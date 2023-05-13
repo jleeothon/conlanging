@@ -1,23 +1,23 @@
 {
 	"name": "@jleeothon/slumpisk",
-	"description": "Slumpisk - yet another Germanic conlang",
 	"private": true,
-	"type": "module",
-	"engines": {
-		"node": "^18"
-	},
-	"exports": "./index.js",
-	"scripts": {
-		"sort-package-json": "sort-package-json packages/*/package.json"
+	"description": "Slumpisk - yet another Germanic conlang",
+	"homepage": "https://github.com/jleeothon/conlang1#readme",
+	"bugs": {
+		"url": "https://github.com/jleeothon/conlang1/issues"
 	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/jleeothon/conlang1.git"
 	},
-	"bugs": {
-		"url": "https://github.com/jleeothon/conlang1/issues"
+	"type": "module",
+	"exports": "./index.js",
+	"workspaces": [
+		"packages/*"
+	],
+	"scripts": {
+		"sort-package-json": "sort-package-json packages/*/package.json"
 	},
-	"homepage": "https://github.com/jleeothon/conlang1#readme",
 	"dependencies": {
 		"ajv": "^8.7.1",
 		"delay": "^5.0.0",
@@ -34,14 +34,14 @@
 		"verror": "^1.10.1",
 		"write-json-file": "^5.0.0"
 	},
-	"workspaces": [
-		"packages/*"
-	],
 	"devDependencies": {
 		"@nrwl/nx-cloud": "latest",
 		"@typescript-eslint/eslint-plugin": "^5.46.0",
 		"@typescript-eslint/parser": "^5.46.0",
 		"nx": "15.3.0",
 		"sort-package-json": "^2.1.0"
+	},
+	"engines": {
+		"node": "^18"
 	}
 }
