@@ -57,7 +57,7 @@ importers:
         specifier: ^8.29.0
         version: 8.29.0
       husky:
-        specifier: ^8.0.3
+        specifier: ^8.0.0
         version: 8.0.3
       sort-package-json:
         specifier: ^2.1.0
